@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-29T14:08:55.416Z",
+  "fetchedAt": "2025-09-29T14:41:21.852Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "US Commerce head notes China 'isn't even shy' about its goal to 'take' Taiwan, says US-Taiwan tariff deal coming soon — goal is to have 40% of chips made in America",
+      "description": "Commerce Secretary Howard Lutnick said Saturday that a major semiconductor deal with Taiwan was coming “pretty soon,” signaling a potential breakthrough in U.S. efforts to shore up domestic chip production.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/lutnick-says-taiwan-deal-coming-pretty-soon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XnJHmikP8Y9LhX5dfL4M3F.jpg",
+      "publishedAt": "2025-09-28T14:18:19Z",
+      "content": "Commerce Secretary Howard Lutnick said Saturday that a major semiconductor deal with Taiwan is coming “pretty soon,” signaling a potential breakthrough in U.S. efforts to shore up domestic chip produ… [+3157 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108147337-1747657077815-gettyimages-2215823497-vcg111568406637.jpeg?v=1758878098&w=1920&h=1080",
       "publishedAt": "2025-09-26T10:18:00Z",
       "content": "In this photo illustration, the logo of Xiaomi's XRing O1 chipset is seen on May 19, 2025 in Beijing, China. Xiaomi CEO Lei Jun announced on the evening of May 15 that the company's self-developed sm… [+3805 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Alison DeNisco Rayome",
-      "title": "Verizon is still giving away the iPhone 17 Pro for free right now - here's how to qualify",
-      "description": "The iPhone 17 is available to buy now, and Verizon is offering new and current customers up to $1,100 off any of the new phones - and some free Apple Watch and iPad offers, too.",
-      "url": "https://www.zdnet.com/article/verizon-is-still-giving-away-the-iphone-17-pro-for-free-right-now-heres-how-to-qualify/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/246c312c559b25855540871ddde3dd45d4e7f5e5/2025/09/23/441b2010-39bf-454f-a98f-3fc7f4b65b5f/img-20250923-211024.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T10:00:34Z",
-      "content": "Jason Hiner/ZDNET\r\nEarlier this month, Apple revealed the iPhone 17, iPhone Air, iPhone 17 Pro, and iPhone 17 Pro Max -- and if you're interested in upgrading, Verizon has a deal for you. New and exi… [+2068 chars]"
     }
   ]
 }
