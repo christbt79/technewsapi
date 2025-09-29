@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-29T21:36:44.878Z",
+  "fetchedAt": "2025-09-29T22:27:37.865Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Yun Li",
+      "title": "Stock market today: Live updates",
+      "description": "All eyes are turning to the September nonfarm payrolls report, which is due Friday morning.",
+      "url": "https://www.cnbc.com/2025/09/28/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1730846839&w=1920&h=1080",
+      "publishedAt": "2025-09-28T22:03:45Z",
+      "content": "Stock futures were little changed in overnight trading Sunday following a losing week on Wall Street with the AI trade losing steam.\r\nFutures tied to the Dow Jones Industrial Average edged up 17 poin… [+1561 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202499-17585856722025-07-23t220158z_1400367285_rc2lsfae8ca3_rtrmadp_0_usa-trump-ai.jpeg?v=1758585693&w=1920&h=1080",
       "publishedAt": "2025-09-26T12:17:58Z",
       "content": "Nvidia CEO Jensen Huang gestures as U.S. President Donald Trump (not pictured) delivers remarks during the \"Winning the AI Race\" Summit in Washington D.C., U.S., July 23, 2025. \r\nNvidia this week sai… [+7026 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "How developers are using Apple’s local AI models with iOS 26",
-      "description": "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple's local AI models.",
-      "url": "https://techcrunch.com/2025/09/26/how-developers-are-using-apples-local-ai-models-with-ios-26/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675",
-      "publishedAt": "2025-09-26T12:00:00Z",
-      "content": "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.\r\nThe compan… [+4342 chars]"
     }
   ]
 }
