@@ -1,0 +1,35 @@
+name: Fetch News
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch: {}       # allow manual run
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # needed to commit the JSON
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch News
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: |
+          node -v
+          npm -v
+          node scripts/fetch-news.mjs || (echo "Fetch failed" && exit 1)
+
+      - name: Commit JSON
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          git commit -m "chore: update news feed [skip ci]" || echo "No changes"
+          git push
