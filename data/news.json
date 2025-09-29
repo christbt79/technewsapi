@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-29T22:37:24.160Z",
+  "fetchedAt": "2025-09-29T23:26:17.870Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Datacenter fire takes 647 South Korean government services offline",
+      "description": "PLUS: US court grounds China’s DJI; India requires 2FA for most payments; Great Firewall busters launch VPN; and more! Asia In Brief  Over 600 e-government services operated by South Korea’s government are offline after a datacenter fire disrupted operations.…",
+      "url": "https://www.theregister.com/2025/09/28/asia_tech_news_roundup/",
+      "urlToImage": "https://regmedia.co.uk/2019/02/07/fire_shutterstoclk.jpg",
+      "publishedAt": "2025-09-28T22:59:56Z",
+      "content": "Asia In Brief Over 600 e-government services operated by South Koreas government are offline after a datacenter fire disrupted operations.\r\nThe fire struck on Friday night at a datacenter operated by… [+3869 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/CZpHt84LQqCsYX9pd3a5qF.jpg",
       "publishedAt": "2025-09-26T12:20:12Z",
       "content": "The Trump administration is developing a policy that would require semiconductor companies to match their domestic production with the number of chips their customers import to the U.S. If chipmakers… [+3062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia's $100 billion OpenAI deal showcases chipmaker's growing investment portfolio",
-      "description": "The sheer number of Nvidia's venture and public equity investments shows how central the company has become to the Silicon Valley and AI ecosystems.",
-      "url": "https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202499-17585856722025-07-23t220158z_1400367285_rc2lsfae8ca3_rtrmadp_0_usa-trump-ai.jpeg?v=1758585693&w=1920&h=1080",
-      "publishedAt": "2025-09-26T12:17:58Z",
-      "content": "Nvidia CEO Jensen Huang gestures as U.S. President Donald Trump (not pictured) delivers remarks during the \"Winning the AI Race\" Summit in Washington D.C., U.S., July 23, 2025. \r\nNvidia this week sai… [+7026 chars]"
     }
   ]
 }
