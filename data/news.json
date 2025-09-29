@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-29T20:41:46.281Z",
+  "fetchedAt": "2025-09-29T21:28:01.478Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades",
+      "description": "According to Bloomberg’s Mark Gurman Apple is testing Siri’s upcoming revamp using an internal chatbot called Veritas. The company’s struggles as it tries to keep pace in the AI race are no secret. The next-gen Siri has been delayed multiple times and the deb…",
+      "url": "https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485663/Siri_new_logo_WWDC_2024.jpg?quality=90&strip=all&crop=0%2C2.2344358700777%2C100%2C95.531128259845&w=1200",
+      "publishedAt": "2025-09-28T21:01:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheres no plans for a public release as Cupertino will likely rely on Googles Gemini for AI search.\r\nTheres no plans for a public release as Cupertino will likel… [+2321 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675",
       "publishedAt": "2025-09-26T12:00:00Z",
       "content": "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.\r\nThe compan… [+4342 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Family offices prefer to bet on AI boom with stocks versus startups and VC funds",
-      "description": "Family offices were more likely to report investing in companies that use AI for productivity and efficiency or in other beneficiaries such as energy providers.",
-      "url": "https://www.cnbc.com/2025/09/26/family-offices-artificial-intelligence.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203271-1758720653042-gettyimages-2182185123-dsc09281.jpeg?v=1758742580&w=1920&h=1080",
-      "publishedAt": "2025-09-26T11:30:01Z",
-      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+3215 chars]"
     }
   ]
 }
