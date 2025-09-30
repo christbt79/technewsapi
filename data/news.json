@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-09-30T03:06:06.765Z",
+  "fetchedAt": "2025-09-30T03:51:08.318Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Trump demands Microsoft fire its head of global affairs",
+      "description": "Alleges bias and security problems US President Donald Trump has demanded Microsoft fire its recently appointed head of global affairs Lisa Monaco.…",
+      "url": "https://www.theregister.com/2025/09/29/trump_wants_microsoft_exec_fired/",
+      "urlToImage": "https://regmedia.co.uk/2020/12/16/trump.jpg",
+      "publishedAt": "2025-09-29T03:24:10Z",
+      "content": "US President Donald Trump has demanded Microsoft fire its recently appointed head of global affairs Lisa Monaco.\r\nUsing his personal social network, Trump argued that Monacos time serving the Obama a… [+2464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China’s stock market has been on a roll — is it a boom or a bubble?",
+      "description": "The mainland CSI 300 index is near its highest level in more than three years.",
+      "url": "https://www.cnbc.com/2025/09/29/china-market-rally-boom-bubble-tech-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108127463-1744026700999-gettyimages-2208383128-AFP_39CU8WD.jpeg?v=1744026720&w=1920&h=1080",
+      "publishedAt": "2025-09-29T03:06:26Z",
+      "content": "China's stock market has seen a sharp rally this year as progress on artificial-intelligence, steps aimed at gaining chip self-sufficiency and Beijing's campaign to rein in price wars fuel investor o… [+3906 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/fb73c3f951801aa1663c36df119ec8b5a20873be/2025/09/19/91266c1d-9a2b-4067-9fbe-e1c88d4635c1/watchcomparison.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-26T13:25:31Z",
       "content": "Nina Raemont/ZDNET\r\nApple's latest lineup of Apple Watches drummed up quite the hype when they were announced during its annual iPhone event. Apple unveiled several new features, like emergency SOS c… [+6079 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Battery startup Moxion went bankrupt. Now its founder is back to ‘finish what we started’",
-      "description": "Anode Technology Company wants to build mobile battery generators for construction sites, live events, and EV fleets. But first it has to avoid the pitfalls that claimed its predecessor, Moxion.",
-      "url": "https://techcrunch.com/2025/09/26/battery-startup-moxion-went-bankrupt-now-its-founder-is-back-to-finish-what-we-started/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1299128132.jpg?resize=1200,800",
-      "publishedAt": "2025-09-26T13:01:36Z",
-      "content": "Just over a year ago, Moxion Power closed its doors, adding its name to a list of high-profile bankruptcies that roiled the climate tech world in 2024. The portable battery startup had raised more th… [+3740 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Prompt injection – and a $5 domain – trick Salesforce Agentforce into leaking sales",
-      "description": "More fun with AI agents and their security holes\nA now-fixed flaw in Salesforce’s Agentforce could have allowed external attackers to steal sensitive customer data via prompt injection, according to security researchers who published a proof-of-concept attack…",
-      "url": "https://www.theregister.com/2025/09/26/salesforce_agentforce_forceleak_attack/",
-      "urlToImage": "https://regmedia.co.uk/2023/05/03/shutterstock_2153812457.jpg",
-      "publishedAt": "2025-09-26T12:53:10Z",
-      "content": "A now-fixed flaw in Salesforces Agentforce could have allowed external attackers to steal sensitive customer data via prompt injection, according to security researchers who published a proof-of-conc… [+5078 chars]"
     }
   ]
 }
