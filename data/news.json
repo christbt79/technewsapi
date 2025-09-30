@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-09-30T19:30:57.497Z",
+  "fetchedAt": "2025-09-30T20:33:08.844Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "DeepSeek releases 'sparse attention' model that cuts API costs in half | TechCrunch",
+      "description": "Researchers at DeepSeek released a new experimental model designed to have dramatically lower inference costs when used in long-context operations.",
+      "url": "https://techcrunch.com/2025/09/29/deepseek-releases-sparse-attention-model-that-cuts-api-costs-in-half/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?resize=1200,901",
+      "publishedAt": "2025-09-29T20:27:05Z",
+      "content": "Researchers at DeepSeek on Monday released a new experimental model called V3.2-exp, designed to have dramatically lower inference costs when used in long-context operations. DeepSeek announced the m… [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Eric Levitz",
+      "title": "Democrats’ shutdown strategy hinges on a risky bet",
+      "description": "The Trump administration will use a government shutdown to gut the Democratic Party’s favorite federal agencies.  Or at least, this is what the president wants Democrats to believe, as they negotiate over a bill to prevent federal funding from lapsing on Octo…",
+      "url": "https://www.vox.com/politics/463168/government-shutdown-2025-trump-federal-workers-firing-democrats",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2238139486.jpg?quality=90&strip=all&crop=0%2C10.752846213126%2C100%2C78.494307573747&w=1200",
+      "publishedAt": "2025-09-29T20:17:41Z",
+      "content": "Senate Minority Leader Chuck Schumer (D-NY) is surrounded by reporters as he leaves the Capitol for a meeting with President Donald Trump at the White House on September 29, 2025, to try and avoid a … [+7016 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "John Gruber",
+      "title": "Let’s Check in With HP Employee Imran Chaudhri",
+      "description": "",
+      "url": "https://www.theverge.com/tech/785363/lets-check-in-with-hp-employee-imran-chaudhri",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-24-at-3.07.55%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C3.3164246640543%2C100%2C93.367150671891&w=1200",
+      "publishedAt": "2025-09-29T20:11:59Z",
+      "content": "Allison Johnson, The Verge:\n\n\n Remember the Humane AI pin? And that\nserious-as-a-heart-attack TED talk about the future of\ncomputing? Well, Qualcomm featured Chaudhri in its\nSnapdragon Summit keynote… [+287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Iain Thomson",
+      "title": "Forget vibe coding - Microsoft wants to make vibe working the new hotness",
+      "description": "Adds more Anthropic into the mix as Redmond hedges its bets Microsoft is jumping on the vibe coding bandwagon with \"vibe working,\" its name for adding AI agents to the online Office suite to help you complete your work.…",
+      "url": "https://www.theregister.com/2025/09/29/microsoft_vibe_working_office/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/26/evil_ai.jpg",
+      "publishedAt": "2025-09-29T19:44:11Z",
+      "content": "Microsoft is jumping on the vibe coding bandwagon with \"vibe working,\" its name for adding AI agents to the online Office suite to help you complete your work.\r\nOn Monday, Redmond said that it's addi… [+3023 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "OpenAI takes on Google, Amazon with new agentic shopping system | TechCrunch",
+      "description": "This type of frictionless experience has the potential to spark a new movement in how people shop online – one that moves away from search engines like Google and e-commerce platforms like Amazon towards conversational agents with curated recommendations, com…",
+      "url": "https://techcrunch.com/2025/09/29/openai-takes-on-google-amazon-with-new-agentic-shopping-system/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-29-at-2.55.40PM.png?resize=1200,683",
+      "publishedAt": "2025-09-29T19:34:33Z",
+      "content": "ChatGPT users in the U.S. can now make Etsy and Shopify purchases within conversations, marking a next step towards the future of online shopping  both for consumers and the platforms that control pr… [+3543 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Microsoft just added AI agents to Word, Excel, and PowerPoint - how to use them",
+      "description": "Available for Microsoft 365 Copilot users, the new agents will help you create, edit, and analyze your documents, spreadsheets, and presentations.",
+      "url": "https://www.zdnet.com/article/microsoft-just-added-ai-agents-to-word-excel-and-powerpoint-how-to-use-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/02fac8e791bb3924c21c94e8692282a950d60316/2025/09/29/f6711e9b-47eb-4926-a3a3-25f7ddb05df3/ms-sign5556gettyimages-2205047725.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T19:34:10Z",
+      "content": "Microsoft\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft has launched AI agents for Word, Excel, and PowerPoint.</li><li>The agents are available for… [+5770 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoë Schiffer, Louise Matsakis",
+      "title": "OpenAI Is Preparing to Launch a Social App for AI-Generated Videos",
+      "description": "The platform appears to closely resemble TikTok and is powered by Sora 2, OpenAI's latest video generation model.",
+      "url": "https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/",
+      "urlToImage": "https://media.wired.com/photos/68dac48ba7af37b4cec18a3b/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Sora-2-Business%20(0-00-12-22).jpg",
+      "publishedAt": "2025-09-29T19:32:47Z",
+      "content": "OpenAI is preparing to launch a stand-alone app for its video generation AI model Sora 2, WIRED has learned. The app, which features a vertical video feed with swipe-to-scroll navigation, appears to … [+3852 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/60321c2728b9d6a676e70bfc0e47f005b7f6babe/2025/09/24/7512e9c2-d190-436c-ad64-1d56eb24fba5/a9maxhero.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-28T07:30:32Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWhen I review small form factor PCs, I tend to keep my expectations in check. Given that I use a monstrous System76 Thelio desktop for most of m… [+7013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "A new buzzword is hanging over businesses as they rush into AI",
-      "description": "Nearly 80% of companies expect to incur \"AI debt\" in the future, according to a new report by Asana, which surveyed over 9,000 knowledge workers globally.",
-      "url": "https://www.cnbc.com/2025/09/28/a-new-buzzword-is-hanging-over-businesses-as-they-rush-into-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204429-1758889385327-gettyimages-1427840896-pi-2631715.jpeg?v=1758901276&w=1920&h=1080",
-      "publishedAt": "2025-09-28T06:08:33Z",
-      "content": "Companies are expecting to incur more costs as a result of poorly implemented autonomous systems.\r\nArtificial intelligence capabilities are developing rapidly and companies globally are frantically t… [+4726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump's H-1B visa fee could have one big winner: The Middle East",
-      "description": "Plans for higher H-1B visa fees have intensified the battle to secure global tech talent.",
-      "url": "https://www.cnbc.com/2025/09/28/trumps-h-1b-visa-fee-could-have-one-big-winner-the-middle-east.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204781-1758957764509-gettyimages-2197242148-AFP_36X97JY.jpeg?v=1758957809&w=1920&h=1080",
-      "publishedAt": "2025-09-28T06:08:14Z",
-      "content": "People walk on Creek Harbour as the Dubai skyline with Burj Khalifa, the world's largest building (C) is seen in the background on February 5, 2025.\r\nThe Middle East could emerge as the major benefic… [+4919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "How to upgrade your Windows search bar for enhanced productivity - and it's free",
-      "description": "This floating Google search bar for Windows might be your next big productivity hack. Here's how to enable it.",
-      "url": "https://www.zdnet.com/article/how-to-upgrade-your-windows-search-bar-for-enhanced-productivity-and-its-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/528d3ebe6b1071fb44c4b6328c65ca72da74e2b7/2025/09/10/0bb8794b-c857-4640-9951-7474b47f1493/microsoft-gives-windows-10-its-penultimate-update-but-saves-the-best-for-windows-11.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-28T00:00:32Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>You can now run a Google search directly in Windows.</li><li>The new Google ap… [+3628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "President Trump posts cartoon image depicting him firing Fed Chief Powell",
-      "description": "Trump has repeatedly criticized Powell for his cautious approach to cutting interest rates, nicknaming him \"Too Late Powell.\"",
-      "url": "https://www.cnbc.com/2025/09/27/trump-cartoon-firing-powell-fed.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176780-17533928602025-07-24t211046z_1404996714_rc28tfahau0e_rtrmadp_0_usa-trump-fed.jpeg?v=1753392902&w=1920&h=1080",
-      "publishedAt": "2025-09-27T21:18:57Z",
-      "content": "President Donald Trump posted on Saturday a cartoon image depicting him firing Federal Reserve Chairman Jerome Powell.\r\nThe post on Truth Social was an image of himself pointing his finger and shouti… [+2073 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Beware coworkers who produce AI-generated 'workslop' | TechCrunch",
-      "description": "Researchers at consulting firm BetterUp Labs, in collaboration with Stanford Social Media Lab, have coined a new term to describe low-quality, AI-generated work",
-      "url": "https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-939845776.jpg?resize=1200,801",
-      "publishedAt": "2025-09-27T19:38:46Z",
-      "content": "Researchers at consulting firm BetterUp Labs, in collaboration with Stanford Social Media Lab, have coined a new term to describe low-quality, AI-generated work: workslop.\r\nAs defined in an article p… [+996 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Nvidia RTX 5070 Ti Super and RTX 5070 Super TDP leaked — long-rumored RTX 50 Super series GPUs appear in power supply calculator",
-      "description": "Nvidia's rumored RTX 50 Super mid-gen refresh has no concrete launch window, but there have already been plenty of leaks. Rumors suggest a CES 2026 announcement, and we now have what appears to be our first substantial confirmation of RTX 50 Super GPUs, court…",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5070-ti-super-and-rtx-5070-super-tdp-leaked-long-rumored-rtx-50-super-series-gpus-appear-in-power-supply-calculator",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2xT8T7sJnAQgcMXnx9nNtj.png",
-      "publishedAt": "2025-09-27T18:19:32Z",
-      "content": "Nvidia's mid-gen refresh for Blackwell is currently best rumored to launch next year at CES 2026. The RTX 50 Super series was recently caught up in the rumor mill, as some current-gen FE cards were d… [+4041 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "AI startup Friend spent more than $1M on all those subway ads | TechCrunch",
-      "description": "If you’ve been on the New York subway recently, you’ve probably seen stark white ads promoting a wearable AI device called Friend.",
-      "url": "https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-185054053.jpg?w=1000",
-      "publishedAt": "2025-09-27T17:24:07Z",
-      "content": "If youve been on the New York City subway recently, youve probably seen stark white ads promoting a wearable AI device called Friend.\r\nCEO Avi Schiffman told Adweek that the company spent more than $… [+932 chars]"
     }
   ]
 }
