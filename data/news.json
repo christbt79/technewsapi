@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-09-30T16:43:02.328Z",
+  "fetchedAt": "2025-09-30T17:30:54.907Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy",
+      "description": "Anthropic's latest AI model spent 30 hours running by itself to code a chat app akin to Slack or Teams. It spat out about 11,000 lines of code, according to Anthropic, and it only stopped running when it had completed the task. The model, Claude Sonnet 4.5, w…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-29T17:04:09Z",
+      "content": "<ul><li></li><li></li></ul>\r\nIt can run autonomously for 30 hours straight, per Anthropic.\r\nIt can run autonomously for 30 hours straight, per Anthropic.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts f… [+4299 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Anthropic launches Claude Sonnet 4.5, its best AI model for coding | TechCrunch",
+      "description": "Anthropic says its new AI model is robust enough to build production-ready applications, rather than just prototypes.",
+      "url": "https://techcrunch.com/2025/09/29/anthropic-launches-claude-sonnet-4-5-its-best-ai-model-for-coding/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+      "publishedAt": "2025-09-29T17:03:38Z",
+      "content": "On Monday, Anthropic launched a new frontier model called Claude Sonnet 4.5, which it claims to offer state-of-the-art performance on coding benchmarks. The company says Claude Sonnet 4.5 is capable … [+2905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Claude Sonnet 4.5 could be your next breakthrough coding tool - how to access it today",
+      "description": "Along with the new model, Anthropic updated its Claude Code offering.",
+      "url": "https://www.zdnet.com/article/claude-sonnet-4-5-could-be-your-next-breakthrough-coding-tool-how-to-access-it-today/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1266da3b6025cf356239a35cf1f66b3ed0f254e0/2025/09/29/321220ce-432c-4add-916e-abe9c732f7b0/gettyimages-695108738.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T17:00:34Z",
+      "content": "Anthropic\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic's latest model, Claude Sonnet 4.5, is here. </li><li>It scored very highly on coding benchma… [+3930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI announces ChatGPT Instant Checkout for Etsy and Shopify",
+      "description": "U.S. ChatGPT Plus, Pro and Free users can now make purchases through the chatbot",
+      "url": "https://www.cnbc.com/2025/09/29/chatgpt-instant-checkout-etsy-shopify.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205128-1759160292609-Instant_Checkout.png?v=1759160362&w=1920&h=1080",
+      "publishedAt": "2025-09-29T17:00:01Z",
+      "content": "OpenAI on Monday announced Instant Checkout, a new feature that allows users to buy products through its artificial intelligence chatbot ChatGPT. \r\nInstant Checkout initially supports single-item pur… [+3106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Anthropic launches Claude Sonnet 4.5, its latest AI model that's 'more of a colleague'",
+      "description": "Claude Sonnet 4.5 is better at coding, using computers and meeting practical business needs.",
+      "url": "https://www.cnbc.com/2025/09/29/anthropic-claude-ai-sonnet-4-5.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181967-1758834890156-GettyImages-2194795244.jpg?v=1759153214&w=1920&h=1080",
+      "publishedAt": "2025-09-29T17:00:01Z",
+      "content": "Dario Amodei, co-founder and chief executive officer of Anthropic, at the World Economic Forum in 2025.\r\nAnthropic on Monday announced its latest artificial intelligence model: Claude Sonnet 4.5.\r\nTh… [+3376 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "ChatGPT can buy stuff for you now - forever changing online shopping",
+      "description": "Transactions between AI agents are on the rise. Here's how to try ChatGPT's new Instant Checkout feature.",
+      "url": "https://www.zdnet.com/article/chatgpt-just-kicked-off-the-era-of-chatbots-buying-stuff-for-you-forever-changing-online-shopping/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4cfbe556f16ae0deaef30c98dbddc9bc890b0f41/2025/09/29/867a1220-a2cd-4c9b-8c05-17b8f1bdf33d/instant-checkout.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T17:00:00Z",
+      "content": "ChatGPT\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT users will now be able to make purchases in chat. </li><li>Instant Checkout works with single-it… [+3736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Derek Brink",
+      "title": "How AI-driven automation is the key to unlocking your operational resilience",
+      "description": "The latest AI-powered incident management tools can help restore continuity from the chaos of unplanned disruptions.",
+      "url": "https://www.zdnet.com/article/how-ai-driven-automation-is-the-key-to-unlocking-your-operational-resilience/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c27c14322a5393662ac1936ddea78a175e4ca2fb/2025/09/29/b66ee9dc-5d11-432f-b7c0-3a2295c05c50/bluestreams555gettyimages-1296533227.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T16:52:31Z",
+      "content": "NanoStockk/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Greater operational resilience demands significant advances… [+5977 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Intel aims at AMD's Threadripper with its new Granite Rapids-WS CPU — chip armed with core count approaching the flagship AMD Threadripper 9995WX, boasts a 4.8GHz boost clock",
+      "description": "Granite Rapids-WS has the chance to outdo Threadripper 9000WX in core count, similar to what the architecture has done for Intel on the server side.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-aims-at-amds-threadripper-with-its-new-granite-rapids-ws-cpu-chip-armed-with-core-count-approaching-the-flagship-amd-threadripper-9995wx-boasts-a-4-8ghz-boost-clock",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RYonfyG8wAqg2EYoUSEkwY-1920-80.jpg",
+      "publishedAt": "2025-09-29T16:47:59Z",
+      "content": "It looks like Intel is getting ready to launch a new branch of Granite Rapids processors designed to compete directly with AMD’s Ryzen 9000WX series parts based on Zen 5. Resident X poster Momomo_us … [+2560 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203292-1758722623614-gettyimages-2220349934-6o6a41434.jpeg?v=1758722646&w=1920&h=1080",
       "publishedAt": "2025-09-27T13:30:01Z",
       "content": "Work conflicts can be uncomfortable, but managing them effectively is essential to your success, says workplace expert Henna Pryor.\r\nWhether you're asking your boss for a raise or receiving difficult… [+5492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Apple's iPhone 17 chip becomes the fastest single-core CPU in the world on PassMark, beating PC chips and Apple's own M3 Ultra — passively-cooled A19 CPU catapults past power-hungry competitors",
-      "description": "Apple's latest mobile chip, the A19, has officially become the world's fastest CPU, at least in PassMark's single-threaded benchmark. It outperformed every flagship desktop processor from both Intel and AMD, as well as Apple's own M3 Ultra, while requiring le…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/apples-a19-becomes-the-fastest-single-core-cpu-in-the-world-on-passmark-beating-pc-chips-and-apples-own-m3-ultra-passively-cooled-iphone-17-chip-catapults-past-power-hungry-competitors",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ycugCVL9Mycynwx4LPGKeH.jpg",
-      "publishedAt": "2025-09-27T12:44:32Z",
-      "content": "Apple's latest generation of iPhones is equipped with its A19 chips — the standard A19 on iPhone 17 and the A19 Pro on iPhone 17 Air and Pros — which represent the best the company has to offer, lite… [+2488 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zak Killian",
-      "title": "AMD's memory patent outlining a 'new, improved RAM' made from DDR5 memory isn't a new development — HB-DIMMs already superseded, probably won't come to market",
-      "description": "AMD's HB-DIMM concept probably isn't coming to market, as the company has already thrown its support behind the similar JEDEC MRDIMM standard.",
-      "url": "https://www.tomshardware.com/pc-components/ram/amds-memory-patent-outlining-a-new-improved-ram-made-from-ddr5-memory-isnt-a-new-development-hb-dimms-already-superseded-probably-wont-come-to-market",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8ggu44ntut7sHj5FoRAehE.jpg",
-      "publishedAt": "2025-09-27T12:02:35Z",
-      "content": "A recent AMD patent, US19/201,497 titled \"High-bandwidth memory module architecture,\" is making the rounds again, with posts like this one on Reddit prompting all kinds of speculation about the \"new\"… [+4939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Shane Downing",
-      "title": "Acer FA200 4TB SSD Review: A Capacious Retread",
-      "description": "The Acer FA200 has nothing wrong with it, having relatively good all-around performance and solid power efficiency. It’s outdated and hard to find, though.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/acer-fa200-4tb-ssd-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N6SFqhiKmV6ctZw7NHm4vf.jpg",
-      "publishedAt": "2025-09-27T12:00:53Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.If the Acer FA200 fe… [+8308 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "A.R.E. Taylor",
-      "title": "Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers",
-      "description": "Companies are going to great lengths to protect the infrastructure that provides the backbone of the world’s digital services—by burying their data deep underground.",
-      "url": "https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/",
-      "urlToImage": "https://media.wired.com/photos/68d67a6e8c02238b253dac4a/191:100/w_1280,c_limit/GettyImages-964843586.jpg",
-      "publishedAt": "2025-09-27T12:00:00Z",
-      "content": "Data centers are responsible for running many of the services that underpin the systems we interact with every day. Transportation, logistics, energy, finance, national security, health systems, and … [+3128 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Why Apple still hasn’t cracked AI",
-      "description": "A combination of caution and missteps in the face of a $1.5 trillion flood of rival investments has left Apple in a delicate position",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-25/video-why-apple-still-hasn-t-cracked-ai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ka3o26/article70070850.ece/alternates/LANDSCAPE_1200/20250919160L.jpg",
-      "publishedAt": "2025-09-27T11:02:26Z",
-      "content": "For decades Apple has held the crown when it comes to consumer gadgetry. Its products have relentlessly captured both the imagination and pay-checks of consumers the world over, with new iterations o… [+1130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "50 AI agents get their first annual performance review - 6 lessons learned",
-      "description": "For one year, a McKinsey team observed these digital employees on the job. Here's their progress report.",
-      "url": "https://www.zdnet.com/article/50-ai-agents-get-their-first-annual-performance-review-6-lessons-learned/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e8a9f01d8e811d9d6d13462f0e0a6bc7d50bb3bd/2025/09/26/fd30c0d7-4657-4508-bc84-c3ae1ebf8cf7/redbluedigitalemployeesgettyimages-2221696502.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-27T11:00:26Z",
-      "content": "seksan Mongkhonkhamsao/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>McKinsey implemented and observed 50+ agentic AI builds for one y… [+5190 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "AI magnifies your teams strengths - and weaknesses, Google report finds",
-      "description": "AI magnifies how well (or poorly) you already operate. The 2025 DORA report reveals seven practices that separate high-performing teams from struggling ones.",
-      "url": "https://www.zdnet.com/article/ai-magnifies-your-teams-strengths-and-weaknesses-google-report-finds/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/dcb7be0f15df619a3b4357cb256385ddba9e6775/2025/09/26/c22d333b-59fa-4af8-bfd6-b9a799327c02/gettyimages-852358160-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-27T11:00:00Z",
-      "content": "enot-poloskun/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Nearly all developers now rely on AI tools.</li><li>AI amplifies streng… [+10736 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV",
-      "description": "Plus: Withings collabs with Clue to offer advanced women’s cycle tracking, there’s a new Balmuda toaster, and Shokz shows off Dolby Audio–powered open earbuds.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/",
-      "urlToImage": "https://media.wired.com/photos/68d740188430b495f958fdb1/191:100/w_1280,c_limit/iPhone%20Air%20teardown%20SOURCE%20iFixit.png",
-      "publishedAt": "2025-09-27T10:30:00Z",
-      "content": "Instead of simply giving you results based on actors or directors, you can now ask more in-depth queries, such as for summaries of seasons, or for popular titles you might not know the name of. For e… [+2642 chars]"
     }
   ]
 }
