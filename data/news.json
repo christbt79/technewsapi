@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-30T15:31:04.259Z",
+  "fetchedAt": "2025-09-30T16:43:02.328Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Brave updates its AI-powered search with a detailed answers feature",
+      "description": "Brave is debuting a new detailed answer feature for its AI-powered search",
+      "url": "https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Ask-Brave-feat.jpeg?resize=1200,629",
+      "publishedAt": "2025-09-29T16:00:00Z",
+      "content": "Browser maker and Google Search alternative Brave announced on Monday that it’s adding a new feature to its AI-powered search suite, Ask Brave, to provide detailed answers on a topic based on the que… [+2223 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68d740188430b495f958fdb1/191:100/w_1280,c_limit/iPhone%20Air%20teardown%20SOURCE%20iFixit.png",
       "publishedAt": "2025-09-27T10:30:00Z",
       "content": "Instead of simply giving you results based on actors or directors, you can now ask more in-depth queries, such as for summaries of seasons, or for popular titles you might not know the name of. For e… [+2642 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Monica Bell",
-      "title": "Get a free iPhone 17 Pro (and cheaper Powerbeats Pro 2 earbuds) at AT&T - here's how",
-      "description": "Save up to $1,100 on the iPhone 17 Pro with trade-in and get $50 off a pair of the Powerbeats Pro 2 earbuds at AT&T. Here's the details.",
-      "url": "https://www.zdnet.com/home-and-office/iphone-17-pro-for-free-with-a-trade-in-at-t/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e85381409db90e44c0e52eb92d907baa2eaaf1f8/2025/09/24/c1d2066b-0d05-4e4b-b46b-e9454492b504/hiner-iphone-17-pro-max-review.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-27T10:00:36Z",
-      "content": "Jason Hiner/ZDNET\r\nUpgrades are in the air, and sometimes the stars align (with AT&amp;T) to bring you even more discounted perks. Right now, AT&amp;T is offering the Apple iPhone 17 Pro for $0 when … [+4031 chars]"
     }
   ]
 }
