@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-30T04:39:17.714Z",
+  "fetchedAt": "2025-09-30T05:34:14.744Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Paid, the AI agent 'results-based billing' startup from Manny Medina, raises huge $21M seed | TechCrunch",
+      "description": "Paid, the AI agent 'results-based billing' startup from Manny Medina, raises huge $21M seed | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Paid-Manny-Medina-Co-founder-and-CEO.jpg?resize=1200,1074",
+      "publishedAt": "2025-09-29T04:40:00Z",
+      "content": "Manny Medina, previously best-known as the founder of sales automation startup Outreach ($4.4 billion valuation), has wowed investors with his young startup, Paid.\r\nPaid just closed an oversubscribed… [+3169 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/622f34b6aa72e8f67fec3284bc1d7d52f871c9c8/2025/09/26/4cf58b85-a18e-40b9-951a-f55a7d40e79c/pulse.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-26T13:26:00Z",
       "content": "OpenAI / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT Pulse will send you personalized updates each day.</li><li>The upd… [+3571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I tested the two best smartwatches by Apple and Google - here's who wins",
-      "description": "I compared Apple's new Series 11 smartwatch and the Pixel Watch 4 - here are the major differences between the two.",
-      "url": "https://www.zdnet.com/article/i-tested-the-two-best-smartwatches-by-apple-and-google-heres-who-wins/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fb73c3f951801aa1663c36df119ec8b5a20873be/2025/09/19/91266c1d-9a2b-4067-9fbe-e1c88d4635c1/watchcomparison.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T13:25:31Z",
-      "content": "Nina Raemont/ZDNET\r\nApple's latest lineup of Apple Watches drummed up quite the hype when they were announced during its annual iPhone event. Apple unveiled several new features, like emergency SOS c… [+6079 chars]"
     }
   ]
 }
