@@ -1,6 +1,175 @@
 {
-  "fetchedAt": "2025-09-30T13:35:57.482Z",
+  "fetchedAt": "2025-09-30T14:33:44.235Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Fork yeah: Valkey 9 sharpens edge against Redis",
+      "description": "Open source database adds multi-tenant clustering, safer shutdowns, and eyes life beyond caching\nOpen source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.…",
+      "url": "https://www.theregister.com/2025/09/29/valkey_9/",
+      "urlToImage": "https://regmedia.co.uk/2025/05/02/shutterstock_database.jpg",
+      "publishedAt": "2025-09-29T14:32:05Z",
+      "content": "Open source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.\r\nValkey was forked from Redis in April last year after the … [+2500 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI’s parental controls are out — here’s what you should know",
+      "description": "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company.  The controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the abi…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "publishedAt": "2025-09-29T14:26:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nParents must have their own accounts to access the controls, and teens must opt in.\r\nParents must have their own accounts to access the controls, and teens must … [+6009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "This new Windows 11 trick uses to AI to tame your chaotic photo library - how to try it now",
+      "description": "The new Auto-Categorization feature in Microsoft Photos will group your photos into predefined categories, like screenshots or receipts.",
+      "url": "https://www.zdnet.com/article/this-new-windows-11-trick-uses-to-ai-to-tame-your-chaotic-photo-library-how-to-try-it-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5562def1a3b893796d87c793868bede135a987da/2025/09/29/77a354d0-3b6c-4c75-9ed0-0f1422a7df85/microsoft-photos-can-categorize-your-images-via-ai-heres-what-youll-need.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T14:24:05Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Photos app will auto-arrange your photos into categories.</li><… [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "This new Windows 11 trick uses AI to tame your chaotic photo library - how to try it now",
+      "description": "The new Auto-Categorization feature in Microsoft Photos will group your photos into predefined categories, like screenshots or receipts.",
+      "url": "https://www.zdnet.com/article/this-new-windows-11-trick-uses-ai-to-tame-your-chaotic-photo-library-how-to-try-it-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5562def1a3b893796d87c793868bede135a987da/2025/09/29/77a354d0-3b6c-4c75-9ed0-0f1422a7df85/microsoft-photos-can-categorize-your-images-via-ai-heres-what-youll-need.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T14:24:00Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Photos app will auto-arrange your photos into categories.</li><… [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "ChatGPT lets parents restrict content and features for teens now - here's how",
+      "description": "You can link your own ChatGPT account to your teen's account to customize what they can or cannot do.",
+      "url": "https://www.zdnet.com/article/chatgpt-lets-parents-restrict-content-and-features-for-teens-now-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T14:20:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Parents can now manage their teen's ChatGPT account.</li><li>With the controls, par… [+5297 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "This week’s bundle savings: Founder and Investor Pass deals for TechCrunch Disrupt 2025",
+      "description": "For one week only, TechCrunch Disrupt 2025 is offering a Founder Bundle deal. Save 15% on groups of 4–9 Founder Passes and get exclusive access to sessions designed to help startup founders scale smarter. Offer ends October 3 at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2025/09/29/founder-investor-only-bundle-pass-deal-for-techcrunch-disrupt-2025-this-week/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+      "publishedAt": "2025-09-29T14:15:00Z",
+      "content": "You read that right. From today through October 3, were offering an exclusive deal just for founders and investors at TechCrunch Disrupt 2025:\r\n<ul><li>Founder Bundle Passes: Groups of 49 founders sa… [+2820 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Complex Chaos thinks AI can help people find common ground",
+      "description": "The startup uses an LLM tailored to helping people arrive at a consensus. Is it enough to help bridge our differences?",
+      "url": "https://techcrunch.com/2025/09/29/complex-chaos-thinks-ai-can-help-people-find-common-ground/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-155142663.jpg?resize=1200,772",
+      "publishedAt": "2025-09-29T14:13:34Z",
+      "content": "Making democracy work isnt easy, as recent events have made clear. Some critics would argue that technology is making it worse. But one startup is hoping that AI could help bridge some differences in… [+3223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Serious security flaw prompts take-down of popular call recording app Neon",
+      "description": "The service has been taken down, but the developer promises a relaunch in another one to two weeks.",
+      "url": "https://www.zdnet.com/article/serious-security-flaw-prompts-take-down-of-popular-call-recording-app-neon/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/272b4334c773d15ebd845daf56ef258b03bb06bd/2025/09/29/83405a5e-f48d-4582-a2ee-9199355b4ef9/gettyimages-2233153561.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T14:13:06Z",
+      "content": "sarayut Thaneerat/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Neon app has a security flaw that can expose call data.</li><li>The app h… [+4177 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "The Disrupt Stage revealed: Behold the first look | TechCrunch",
+      "description": "The first TechCrunch Disrupt Stage revealed. See giants like Vinod Khosla, Phoebe Gates, and Kevin Diggs share insights Oct 27-29 in SF. Register here.",
+      "url": "https://techcrunch.com/2025/09/29/the-techcrunch-disrupt-stage-revealed-behold-the-first-look/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+      "publishedAt": "2025-09-29T14:02:08Z",
+      "content": "The Disrupt Stage, only at TechCrunch Disrupt 2025 is where techs biggest bets get made live and unfiltered. Its where startup dreams turn into $100,000 wins in Startup Battlefield, and where the ind… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google’s gradient ‘G’ logo is rolling out everywhere",
+      "description": "Google is making the gradient “G” its new company-wide logo, according to an announcement on Monday. The new logo first began to surface across the Google app on Android and iOS in May, but soon, the design will begin to appear across all of the company’s pla…",
+      "url": "https://www.theverge.com/news/787176/google-new-logo-gradient-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/google-logo-update.png?quality=90&strip=all&crop=0,20.549738219895,100,58.900523560209",
+      "publishedAt": "2025-09-29T13:53:46Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter more than a decade, Google is updating its logo across its products and services.\r\nAfter more than a decade, Google is updating its logo across its product… [+1987 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Amazon and Google tip off Jensen Huang before announcing information about their AI chips, says report — companies tread carefully to avoid surprising Nvidia",
+      "description": "According to a recent report by The Information, Amazon and Google each provide advance notice to Huang before unveiling updates to their custom silicon.",
+      "url": "https://www.tomshardware.com/tech-industry/amazon-and-google-tip-off-jensen-huang-before-announcing-ai-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yccVP8xqWxGPRHQu7WenmM-1280-80.jpg",
+      "publishedAt": "2025-09-29T13:53:04Z",
+      "content": "A new report claims that before Amazon or Google reveals anything about their latest artificial intelligence chips, they first notify Nvidia CEO Jensen Huang. The practice, touted by sources in The I… [+2859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Every iPhone user should use my favorite iOS 26 feature for a productivity boost",
+      "description": "It's more reliable than what competitors are offering and saves me a lot of time.",
+      "url": "https://www.zdnet.com/article/every-iphone-user-should-use-my-favorite-ios-26-feature-for-a-productivity-boost/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0874c9316918a5051cc6510e23976a440cbb10c1/2025/09/08/7b216002-d709-4827-ad3b-5be0b5c31cd2/1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T13:42:00Z",
+      "content": "Prakhar Khanna/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's Add to Calendar lets you create events with one tap from screenshots.</li><li>It do… [+4259 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Marissa Mayer will close her old AI startup, sell assets to her new AI startup",
+      "description": "Former Yahoo CEO Marissa Meyer is closing the doors on her consumer software startup Sunshine, and is selling the company's assets to her new AI startup, Dazzle, Wired reported, citing an email sent to Sunshine's shareholders.",
+      "url": "https://techcrunch.com/2025/09/29/marissa-mayer-will-close-her-old-startup-sell-assets-to-her-new-startup/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+      "publishedAt": "2025-09-29T13:40:21Z",
+      "content": "Former Yahoo CEO Marissa Meyer is closing the doors on her consumer software startup Sunshine, and is selling the company’s assets to her new AI startup, Dazzle. The news was first reported by Wired,… [+928 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1131,175 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/103494693-IMG_8356rrr.jpg?v=1697580825&w=1920&h=1080",
       "publishedAt": "2025-09-26T23:04:18Z",
       "content": "CNBC's Jim Cramer on Friday told investors what to look out for next week on Wall Street, including the latest's nonfarm payroll report and earnings from Paychex and Nike.\r\n\"The employment number lor… [+2495 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Microsoft Photos will soon auto-categorize your pictures",
-      "description": "Microsoft is testing a way that will make it easier to sift through all the clutter in your photo library. An update coming to all Windows 11 Insiders on Copilot Plus PCs introduces a new AI-powered feature on the Photos app that will place images of receipts…",
-      "url": "https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T21:45:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA test uses AI to sort your receipts, screenshots, identity documents, and notes into specific folders.\r\nA test uses AI to sort your receipts, screenshots, ident… [+2267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Vox Staff",
-      "title": "Welcome to the October issue of The Highlight",
-      "description": "The Houston toad lacks the recognition of pandas or bald eagles, but this rare creature is still important for its ecosystem — and its population has been falling for decades. Now, the toad’s best hope for survival involves syringes, ultrasounds, and hormones…",
-      "url": "https://www.vox.com/the-highlight/463044/welcome-to-the-october-issue-of-the-highlight",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/JuliaRobinson_OctHighlight2025_LandingPage.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T19:53:12Z",
-      "content": "The Houston toad lacks the recognition of pandas or bald eagles, but this rare creature is still important for its ecosystem — and its population has been falling for decades. Now, the toad’s best ho… [+1000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Iain Thomson",
-      "title": "If you can't use AI then it's bye bye, Accenture tells staff",
-      "description": "Consultancy says machine learning advice is making bank\nai-pocalypse AI is proving to be a gold mine for mega tech consultancy Accenture, but if staff can't use it, then it's time to pack up their desks.…",
-      "url": "https://www.theregister.com/2025/09/26/accenture_ai_jobs/",
-      "urlToImage": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg",
-      "publishedAt": "2025-09-26T19:44:04Z",
-      "content": "ai-pocalypse AI is proving to be a gold mine for mega tech consultancy Accenture, but if staff can't use it, then it's time to pack up their desks.\r\nIn its results for the 2025 fiscal year, which end… [+2390 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "What’s behind the massive AI data center headlines? | TechCrunch",
-      "description": "This week on Equity, Anthony Ha and Max Zeff go beyond the headlines to break down what's really going on in these AI infrastructure deals.",
-      "url": "https://techcrunch.com/2025/09/26/whats-behind-the-massive-ai-data-center-headlines/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-957037038-nvidia.jpg?resize=1200,800",
-      "publishedAt": "2025-09-26T19:42:28Z",
-      "content": "Silicon Valley flooded the news this week with headlines about wild AI infrastructure investments. \r\nNvidia said it would invest up to $100 billion in OpenAI. Then OpenAI said it would build out five… [+1803 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Alex Heath",
-      "title": "Humanoid robots are Meta’s next ‘AR-size bet’",
-      "description": "This is Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Building humanoid robots is Meta's next \"AR size bet,\" a top executive told me recently. That suggests the company plans to spen…",
-      "url": "https://www.theverge.com/column/786759/humanoid-robots-meta",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22870625/slack_imgs.jpg?quality=90&strip=all&crop=2,15.477930685054,98,68.487965103751",
-      "publishedAt": "2025-09-26T19:12:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nDuring a recent trip to Meta HQ, I took the opportunity to ask CTO Andrew Bosworth about its new robotics effort.\r\nDuring a recent trip to Meta HQ, I took the op… [+5649 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "YouTube Music tests AI hosts that share trivia and commentary",
-      "description": "YouTube Music's new AI hosts are currently being tested through YouTube Labs, the platform's new hub for AI experiments.",
-      "url": "https://techcrunch.com/2025/09/26/youtube-music-tests-ai-hosts-that-share-trivia-and-commentary/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/youtube-music-icon.jpg?resize=1200,800",
-      "publishedAt": "2025-09-26T19:02:02Z",
-      "content": "YouTube Music is testing AI music hosts that provide relevant stories, fan trivia, and commentary about what you’re listening to, the company announced on Friday.\r\nThe move comes two years after Spot… [+1716 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "ChatGPT just got several work-friendly updates - what it can do now",
-      "description": "OpenAI's chatbot can now automatically pull info from apps like Gmail and DropBox, among other perks. Here's who gets to try them first.",
-      "url": "https://www.zdnet.com/article/chatgpt-just-got-several-work-friendly-updates-what-it-can-do-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f5d2ed364d587e58ed3895616594e2e9e0513af5/2025/09/26/37d803b3-feeb-46b1-ae45-6ed387584e62/gettyimages-1400238486.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T18:56:48Z",
-      "content": "D3Damon\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI launched a shared projects mode and new connectors for ChatGPT.</li><li>It also announced securit… [+5585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Spotify cracks down on AI 'slop' - these are the changes you'll see",
-      "description": "Here's how the streaming platform's new policies aim to protect both users and artists from AI misuse.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/spotify-cracks-down-on-ai-slop-these-are-the-changes-youll-see/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5897b851b0339dbe68e93a5fd012d6afd399ff07/2025/09/26/7dfa2714-1183-4576-a2cd-12deb9da76a2/aihead555gettyimages-2152642578.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T18:32:11Z",
-      "content": "da-kuk/E+ via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Spotify is introducing new policies around AI music.</li><li>The new policy pushes ba… [+3017 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Your Google Pixel Buds just got 4 audio upgrades for free - including a big one for gestures",
-      "description": "Your Pixel Buds Pro 2 earbuds are getting Adaptive Audio, head gestures, loud noise protection and some AI goodness too.",
-      "url": "https://www.zdnet.com/article/your-google-pixel-buds-just-got-4-audio-upgrades-for-free-including-a-big-one-for-gestures/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7aa18f9244492bd019cf0c430a3cc5de5cbe794d/2025/08/19/b70026a6-e7b0-46bc-bdc5-5937f234030c/made-by-google-pixel-event-2025-photo-55.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T18:28:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google is pushing an update for its Pixel Buds Pro 2.</li><li>New features include adaptive aud… [+2457 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "YouTube’s new AI experiment adds AI hosts to your music",
-      "description": "YouTube is adding AI hosts to radio and mixes in the YouTube Music app as part of a new test available through its new Labs program. The hosts are designed to “deepen your listening experience by sharing relevant stories, fan trivia, and fun commentary about …",
-      "url": "https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T18:26:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe hosts will share stories and trivia about the music youre listening to.\r\nThe hosts will share stories and trivia about the music youre listening to.\r\nby\r\nJay… [+2992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Sigal Samuel",
-      "title": "Think your AI chatbot has become conscious? Here’s what to do.",
-      "description": "Your Mileage May Vary is an advice column offering you a unique framework for thinking through your moral dilemmas. It’s based on value pluralism — the idea that each of us has multiple values that are equally valid but that often conflict with each other. To…",
-      "url": "https://www.vox.com/future-perfect/462468/chatgpt-consciousness-sentient-ai-persona-what-to-do",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/PeteGamlen_AIConsciousness.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T18:12:25Z",
-      "content": "Your Mileage May Vary is an advice column offering you a unique framework for thinking through your moral dilemmas. Its based on value pluralism the idea that each of us has multiple values that are … [+12872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Latest Pixel Buds Pro 2 update adds 4 cool features you've been waiting for",
-      "description": "Your Pixel Buds Pro 2 earbuds are getting Adaptive Audio, head gestures, loud noise protection and some AI goodness too.",
-      "url": "https://www.zdnet.com/article/latest-pixel-buds-pro-2-update-adds-4-cool-features-youve-been-waiting-for/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ec509e6715ace10aff02f4045a05b5e7530b6053/2024/10/28/00228e54-92f7-4d74-b46d-ae5cec4ebbfb/pixelbuds-7.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T18:07:34Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google is pushing an update for its Pixel Buds Pro 2.</li><li>New features include adaptive aud… [+2457 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "As people look for ways to make new friends, here are the apps promising to help",
-      "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
-      "url": "https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
-      "publishedAt": "2025-09-26T18:02:03Z",
-      "content": "In recent years, people have been increasingly looking for new ways to form platonic connections, as loneliness and social isolation have become more prevalent. \r\nIn 2023, the U.S. Surgeon General we… [+6634 chars]"
     }
   ]
 }
