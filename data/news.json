@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-09-30T06:51:21.027Z",
+  "fetchedAt": "2025-09-30T07:30:35.441Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Rupert Goodwins",
+      "title": "When AI is trained for treachery, it becomes the perfect agent",
+      "description": "We’re blind to malicious AI until it hits. We can still open our eyes to stopping it\nOpinion Last year, The Register reported on AI sleeper agents. A major academic study explored how to train an LLM to hide destructive behavior from its users, and how to fin…",
+      "url": "https://www.theregister.com/2025/09/29/when_ai_is_trained_for/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/26/evil_ai.jpg",
+      "publishedAt": "2025-09-29T07:15:06Z",
+      "content": "Opinion Last year, The Register reported on AI sleeper agents. A major academic study explored how to train an LLM to hide destructive behavior from its users, and how to find it before it triggered.… [+4536 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/09/26/shutterstock_1244962162.jpg",
       "publishedAt": "2025-09-26T13:32:15Z",
       "content": "The CEO of a software testing company told a panel at Catholic University of America that AI will not create mass unemployment though it could make people more stupid.\r\nWill Wilson, CEO of reliabilit… [+2298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "ChatGPT Pulse helps you start each day with personalized AI updates - how it works",
-      "description": "It uses your chat history, feedback, and connected apps to deliver daily updates.",
-      "url": "https://www.zdnet.com/article/chatgpt-pulse-helps-you-start-each-day-with-personalized-ai-updates-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/622f34b6aa72e8f67fec3284bc1d7d52f871c9c8/2025/09/26/4cf58b85-a18e-40b9-951a-f55a7d40e79c/pulse.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T13:26:25Z",
-      "content": "OpenAI / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT Pulse will send you personalized updates each day.</li><li>The upd… [+3571 chars]"
     }
   ]
 }
