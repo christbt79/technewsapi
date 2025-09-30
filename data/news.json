@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-09-30T21:37:59.177Z",
+  "fetchedAt": "2025-09-30T22:32:10.011Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stock market today: Live updates",
+      "description": "Wall Street is tracking for solid gains this month, with Tuesday marking the end of an unusually strong September and the close of the third quarter.",
+      "url": "https://www.cnbc.com/2025/09/29/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196952-17575211122025-09-10t161616z_2056288601_rc22pga4nq4r_rtrmadp_0_usa-stocks.jpeg?v=1757610462&w=1920&h=1080",
+      "publishedAt": "2025-09-29T22:11:57Z",
+      "content": "Stock futures are little changed as investors look to close out an unusually strong September by building on Monday's momentum, despite the threat of a potential U.S. government shutdown this week.\r\n… [+3176 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft is bringing its Windows engineering teams back together again",
+      "description": "Windows is coming back together. Microsoft is bringing its key Windows engineering teams under a single organization again, as part of a reorg being announced today. Windows chief Pavan Davuluri, who was just promoted to president of Windows and devices earli…",
+      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-29T22:07:32Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe unified team is meant to support Microsofts work on top priorities like AI.\r\nThe unified team is meant to support Microsofts work on top priorities like AI.\r… [+3926 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "California Governor Newsom signs landmark AI safety bill SB 53 | TechCrunch",
+      "description": "SB 53 requires large AI labs – including OpenAI, Anthropic, Meta, and Google DeepMind – to be transparent about safety protocols. It also ensures whistleblower protections for employees at those companies.",
+      "url": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2159615518.jpg?resize=1200,800",
+      "publishedAt": "2025-09-29T21:59:12Z",
+      "content": "California Gov. Gavin Newsom has signed SB 53, a first-in-the-nation bill that sets new transparency requirements on large AI companies.\r\nSB 53, which passed the state legislature two weeks ago, requ… [+2607 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Google Drive adds AI to detect ransomware before it spreads",
+      "description": "Google Drive for desktop is adding ransomware detection using an AI model trained on “millions of real-world ransomware samples” that will “look for signals that a file has been maliciously modified.” When Google’s AI believes it has detected ransomware activ…",
+      "url": "https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-29T21:44:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen the tool detects potentially malicious activity, youll get a notification and be able to roll back your files.\r\nWhen the tool detects potentially malicious … [+2561 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/gettyimages-2195559727.jpg?quality=90&strip=all&crop=0%2C10.725622647954%2C100%2C78.548754704091&w=1200",
       "publishedAt": "2025-09-28T15:44:08Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe president shared a fake clip in which he announced a MedBed hospital and national MedBed card.\r\nThe president shared a fake clip in which he announced a MedB… [+2979 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "US Commerce head notes China 'isn't even shy' about its goal to 'take' Taiwan, says US-Taiwan tariff deal coming soon — goal is to have 40% of chips made in America",
-      "description": "Commerce Secretary Howard Lutnick said Saturday that a major semiconductor deal with Taiwan was coming “pretty soon,” signaling a potential breakthrough in U.S. efforts to shore up domestic chip production.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/lutnick-says-taiwan-deal-coming-pretty-soon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XnJHmikP8Y9LhX5dfL4M3F.jpg",
-      "publishedAt": "2025-09-28T14:18:19Z",
-      "content": "Commerce Secretary Howard Lutnick said Saturday that a major semiconductor deal with Taiwan is coming “pretty soon,” signaling a potential breakthrough in U.S. efforts to shore up domestic chip produ… [+3157 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "U.S. gov't mulls tariffing devices based on the number of chips used and their estimated value — policy would impact nearly every type of electronic device",
-      "description": "The U.S. government is considering aggressive new semiconductor-related tariffs that aim to force more chip manufacturing onto American soil, but risk triggering inflation, disrupting supply chains, and posing serious implementation challenges.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-govt-mulls-tariffing-devices-based-on-the-number-of-chips-used-and-their-estimated-value-policy-would-impact-nearly-every-type-of-electronic-device",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kUacw6XQTQ3uMYvoWLHYLc.jpg",
-      "publishedAt": "2025-09-28T14:02:20Z",
-      "content": "The U.S. government is evaluating a plan to tax imported electronics based on the number of chips they contain and their estimated value within the device, according to Reuters. This plan, which is s… [+2924 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "Wiz chief technologist Ami Luttwak on how AI is transforming cyberattacks  | TechCrunch",
-      "description": "Ami Luttwak, CTO of Wiz, breaks down how AI is changing cybersecurity, why startups shouldn't write a single line of code before thinking about security, and opportunities for upstarts in the industry.",
-      "url": "https://techcrunch.com/2025/09/28/wiz-chief-technologist-ami-luttwak-on-how-ai-is-transforming-cyberattacks/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2162704124.jpg?resize=1200,800",
-      "publishedAt": "2025-09-28T14:00:00Z",
-      "content": "“One of the key things to understand about cybersecurity is that its a mind game, Ami Luttwak, chief technologist at cybersecurity firm Wiz, told TechCrunch on a recent episode of Equity. If theres a… [+6523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "A look at OpenAI's tangled web of dealmaking",
-      "description": "OpenAI's Sam Altman has put himself in the center of the tech universe through a series of mammoth deals.",
-      "url": "https://www.cnbc.com/2025/09/28/a-look-at-openais-tangled-web-of-dealmaking.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203057-17586652402025-09-23t214859z_181395313_rc2wxganf0ii_rtrmadp_0_tech-openai-texas.jpeg?v=1758900748&w=1920&h=1080",
-      "publishedAt": "2025-09-28T12:00:01Z",
-      "content": "OpenAI CEO Sam Altman speaks to media following a Q&amp;amp;A at the OpenAI data center in Abilene, Texas, U.S., Sept. 23, 2025. \r\nOpenAI CEO Sam Altman is everywhere.\r\nHis artificial intelligence st… [+5001 chars]"
     }
   ]
 }
