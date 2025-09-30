@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-09-30T11:27:26.584Z",
+  "fetchedAt": "2025-09-30T11:39:38.731Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "EU pushes for Chips Act 2.0 investment as it looks set to miss global silicon production targets by a wide margin — seeks quadrupling of semiconductor investment as $50 billion initiative flounders",
+      "description": "A Dutch coalition has brought together all EU member nations to revise the 2022 Chips Act to encourage greater investment in silicon manufacturing, with estimates suggesting it is on track to miss its 2030 target of 20% of global chip production in the EU by …",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/eu-pushes-for-chips-act-2-0-investment-as-it-looks-set-to-miss-global-silicon-production-targets-by-a-wide-margin-seeks-quadrupling-of-semiconductor-investment-as-usd50-billion-initiative-flounders",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vrbdUiJ4PuC6hovf8WzrDn-1920-80.jpg",
+      "publishedAt": "2025-09-29T11:34:38Z",
+      "content": "All the member nations of the EU have signed on to a Dutch-led coalition that wants to encourage additional investment in semiconductor manufacturing in the EU. This revision of the 2022 European Chi… [+2597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "I replaced my ThinkPad with a 5G Windows laptop, and it's changed my workflow for good",
+      "description": "The HP EliteBook 6 G1q has a thin and light form factor, a marathon battery, and supports a 5G connection that works anywhere there's service.",
+      "url": "https://www.zdnet.com/article/i-replaced-my-thinkpad-with-a-5g-windows-laptop-and-its-changed-my-workflow-for-good/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/08a458997f3839517ed27901f70a76e5dd42a29c/2025/09/26/cba05a9b-948d-4d1c-8ffd-f60bd0498d2c/img-3872.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T11:30:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nHP's EliteBook 6 G1q is an affordable model from its productivity-minded lineup. It features extensive connectivity and a marathon battery in a … [+6580 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/7cd75f7699f5eb9fdfc15e5dd70f092b7bc95ce5/2025/09/26/088535c2-8991-4790-9ad8-e55c09c22958/img-5343.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-26T15:50:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've noticed that when I'm in content creator mode and packing my favorite portable drone, action cameras, pocket-sized gimbal camera and portab… [+3411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "This HP laptop's connectivity superpower solved my biggest issue with work travel",
-      "description": "The HP EliteBook 6 G1q has an all-day battery, a sleek form factor, and support for 5G connection for an always-on connection.",
-      "url": "https://www.zdnet.com/article/this-hp-laptops-connectivity-superpower-solved-my-biggest-issue-with-work-travel/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/08a458997f3839517ed27901f70a76e5dd42a29c/2025/09/26/cba05a9b-948d-4d1c-8ffd-f60bd0498d2c/img-3872.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T15:48:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nHP's EliteBook 6 G1q is an affordable model from its productivity-minded lineup. It features extensive connectivity and a marathon battery inS a… [+6603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "U.S. Treasury Secretary calls Taiwan 'world's biggest single point of failure': Lion's share of advanced chips are made in Taiwan",
-      "description": "U.S. Treasury Secretary Scott Bessent warned that Taiwan's near-total dominance in advanced chip production poses a critical threat to global stability, urging urgent redistribution of manufacturing to the U.S. and allied nations.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-treasury-secretary-calls-taiwan-worlds-biggest-single-point-of-failure-lions-share-of-advanced-chips-are-made-in-taiwan",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/92pzexMH7PYZbSsxTvMk2h.png",
-      "publishedAt": "2025-09-26T15:40:52Z",
-      "content": "This week, U.S. Treasury Secretary Scott Bessent warned about the over-reliance of global high-tech industry on Taiwan, calling the nation 'world's biggest single point of failure' as the lion's shar… [+3169 chars]"
     }
   ]
 }
