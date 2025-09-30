@@ -1,6 +1,136 @@
 {
-  "fetchedAt": "2025-09-30T11:39:38.731Z",
+  "fetchedAt": "2025-09-30T13:35:57.482Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft launches ‘vibe working’ in Excel and Word",
+      "description": "You’ve probably heard of vibe coding — novices writing apps by creating a simple AI prompt — but now Microsoft wants to introduce a similar thing for its Office apps. The software maker is launching a new Agent Mode in Excel and Word that can generate complex…",
+      "url": "https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/excelagentmode.jpg?quality=90&strip=all&crop=0%2C3.477724691513%2C100%2C93.044550616974&w=1200",
+      "publishedAt": "2025-09-29T13:35:01Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new Agent Mode comes to Office apps today, alongside an Office Agent in Copilot chat.\r\nA new Agent Mode comes to Office apps today, alongside an Office Agent i… [+6548 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I disabled this iOS 26 feature right after updating my iPhone - here's why you should, too",
+      "description": "AI news summaries could do more harm than good. Here's how to use them safely (or just turn them off).",
+      "url": "https://www.zdnet.com/article/i-disabled-this-ios-26-feature-right-after-updating-my-iphone-heres-why-you-should-too/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8ec89d15322f025d425f4626dc58b0366928a240/2025/09/19/6d6ecc93-c339-4b4c-b752-b3983ba1bb41/dsc07765.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T13:33:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI news and entertainment summaries return to iOS 26. </li><li>The feature has a tendency to in… [+2394 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Uncanny Valley: The Big Interview with Katie Drummond and Lareina Yee",
+      "description": "Branded Content by McKinsey | WIRED’s Global Editorial Director, Katie Drummond sat down with McKinsey’s Global Institute Director and Senior Partner Lareina Yee for a conversation on the technologies redefining industries—from AI to autonomous vehicles—and h…",
+      "url": "https://www.wired.com/video/watch/uncanny-valley-the-big-interview-with-katie-drummond-and-lareina-yee/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1758927798/wired_uncanny-valley-the-big-interview-with-katie-drummond-and-lareina-yee.jpg",
+      "publishedAt": "2025-09-29T13:30:00Z",
+      "content": "This is Uncanny Valley, The Big interview.\r\nI'm Katie Drummond.\r\n[soft playful music]\r\nToday's episode was sponsored\r\nby McKinsey &amp; Company.\r\nAnd in this branded episode,\r\nI'm sitting down with L… [+28415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Phishing training doesn't stop your employees from clicking scam links - here's why",
+      "description": "A UC San Diego study found phishing training programs are basically useless, with employees just as likely to click scam emails whether or not they took training.",
+      "url": "https://www.zdnet.com/article/phishing-training-doesnt-stop-your-employees-from-clicking-scam-links-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/df4c5e50d9127d324028dcfaeb7d636fde99dd7f/2025/09/29/94ff153a-97bd-41b8-a6f1-6b4225a3d399/gettyimages-2217582030.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T13:18:00Z",
+      "content": "narvo vexar / iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Phishing is a major and growing threat to businesses.</li><li>But phish… [+4927 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple",
+      "description": "We ran some early benchmarks on reference units to see how Qualcomm's new Snapdragon X2 Elite chip stacks up to the competition.",
+      "url": "https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/",
+      "urlToImage": "https://media.wired.com/photos/68d9b8c118f0bb23d5ba8508/191:100/w_1280,c_limit/x2elite01.JPG",
+      "publishedAt": "2025-09-29T13:00:00Z",
+      "content": "It's important to note that this was all tested on the X2 Elite Extreme configuration, which comes with six additional CPU cores over the standard X2 Elite. There were no X2 Elite systems to test, so… [+2791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Lufthansa to cut 4,000 jobs as airline turns to AI to boost efficiency",
+      "description": "Lufthansa announced plans to cut a sweeping 4,000 roles on Monday as it aims to increase profitability and lean on AI to drive efficiency.",
+      "url": "https://www.cnbc.com/2025/09/29/lufthansa-to-cut-4000-jobs-turns-to-ai-to-boost-efficiency-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204923-1759143102097-gettyimages-2205279799-AFP_374B8Y7.jpeg?v=1759145649&w=1920&h=1080",
+      "publishedAt": "2025-09-29T12:58:49Z",
+      "content": "Lufthansa announced plans to cut 4,000 roles on Monday as it aims to increase profitability and lean on AI to drive efficiency.\r\nThe airline group said it will eliminate a total of 4,000 FTE (full-ti… [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "EU member states pile pressure on Brussels for Chips Act rethink",
+      "description": "Semicon Coalition presses European Commission for stronger funding, strategy, and skills drive Momentum is gathering behind calls for a Chips Act 2.0 to strengthen Europe's competitiveness in the semiconductor sector amid growing geopolitical uncertainty over…",
+      "url": "https://www.theregister.com/2025/09/29/eu_chips_act_rethink/",
+      "urlToImage": "https://regmedia.co.uk/2024/03/06/eu_shutterstock.jpg",
+      "publishedAt": "2025-09-29T12:49:42Z",
+      "content": "Momentum is gathering behind calls for a Chips Act 2.0 to strengthen Europe's competitiveness in the semiconductor sector amid growing geopolitical uncertainty over global markets and supply chains.\r… [+5632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "ChatGPT is crushing rivals in the AI chatbot race by all measures - but for how long?",
+      "description": "ChatGPT has continued to capture the vast majority of usage and engagement over the past three months, according to Comscore, OneLittleWeb, Statcounter, and TechGaged.",
+      "url": "https://www.zdnet.com/article/chatgpt-is-crushing-rivals-in-the-ai-chatbot-race-by-all-measures-but-for-how-long/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eb4a70e90832473eb3808ec17002401e0a423f66/2025/09/29/1aea0c44-224b-46c0-a22b-81b17467c290/by-all-measurements-openais-chatgpt-is-the-most-popular-of-all-ai-chatbots2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T12:33:32Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT is number one by a wide margin. </li><li>AI search services like Perplexity… [+8627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Windows 95 was too fat to install itself so needed help from the slimmer 3.1",
+      "description": "30 years on, Microsoft engineer explains why the old OS had to babysit its flashy successor Veteran Microsoft engineer Raymond Chen has answered the question of why Microsoft insisted on running up a miniature Windows 3.1 rather than a diminutive Windows 95 t…",
+      "url": "https://www.theregister.com/2025/09/29/chen_windows_95_install/",
+      "urlToImage": "https://regmedia.co.uk/2025/04/11/shutterstock_editorial_only_windows_95_floppy_disk.jpg",
+      "publishedAt": "2025-09-29T12:15:30Z",
+      "content": "Veteran Microsoft engineer Raymond Chen has answered the question of why Microsoft insisted on running up a miniature Windows 3.1 rather than a diminutive Windows 95 to install the full-fat version o… [+2991 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Ford’s CEO isn’t impressed with Apple CarPlay Ultra",
+      "description": "The list of car companies looking askance at Apple’s newly release, all-encompassing version of CarPlay is growing longer. In an interview on Decoder, Ford CEO Jim Farley said he is taking a wait-and-see approach about whether to authorize Apple CarPlay Ultra…",
+      "url": "https://www.theverge.com/transportation/786376/ford-jim-farley-apple-carplay-ultra-decoder",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Apple-CarPlay-Ultra-instrument-cluster-themes-04.jpg?quality=90&strip=all&crop=0%2C3.4530397026953%2C100%2C93.093920594609&w=1200",
+      "publishedAt": "2025-09-29T12:13:33Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn Decoder, Ford CEO Jim Farley says hes not a fan of the execution of Apple CarPlay Ultra.\r\nOn Decoder, Ford CEO Jim Farley says hes not a fan of the execution … [+5230 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,136 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
       "publishedAt": "2025-09-26T18:02:03Z",
       "content": "In recent years, people have been increasingly looking for new ways to form platonic connections, as loneliness and social isolation have become more prevalent. \r\nIn 2023, the U.S. Surgeon General we… [+6634 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "Everyone's still throwing billions at AI data centers | TechCrunch",
-      "description": "Watch as Equity hosts Anthony Ha and Max Zeff break down the money behind AI’s infrastructure boom and what rising visa fees mean for tech’s talent shuffle.",
-      "url": "https://techcrunch.com/video/everyones-still-throwing-billions-at-ai-data-centers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "publishedAt": "2025-09-26T17:32:47Z",
-      "content": "From $100 billion OpenAI commitments to $100,000 visa fees, this week showed just how much the tech landscape is shifting. On the latest episode of Equity, Anthony Ha and Max Zeff unpack the AI infra… [+332 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sean Hollister",
-      "title": "Pentagon can call DJI a Chinese Military Company, court rules",
-      "description": "Last October, dronemaker DJI sued the US Department of Defense, arguing it should no longer face the stigma of being listed as a “Chinese Military Company” and continue to risk business as a result. It just lost. While US District Court judge Paul Friedman “c…",
-      "url": "https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Unfolded-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T17:29:15Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nDJI loses its lawsuit against the US government.\r\nDJI loses its lawsuit against the US government.\r\nby\r\nSean HollisterClose\r\nSean Hollister\r\nPosts from this auth… [+3348 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Vittoria Elliott",
-      "title": "Tech Billionaires Already Captured the White House. They Still Want to Be Kings",
-      "description": "From Montenegro to northern California, the tech elite dream of building cities where they make the rules. Is this, finally, their moment?",
-      "url": "https://www.wired.com/story/tech-billionaires-communities/",
-      "urlToImage": "https://media.wired.com/photos/68d191c483a35dd52ff3d47f/191:100/w_1280,c_limit/politics_NetworkStates.jpg",
-      "publishedAt": "2025-09-26T17:00:00Z",
-      "content": "During our conversation, Brown compared Praxis to Israelminus a world war and a holocaust, of course. There were these stateless people who were scattered, he says, and they had this idea of Judea an… [+3037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Microsoft will compete with AWS to offer a marketplace of AI apps and agents",
-      "description": "Built atop Microsoft Cloud, the new platform lets customers quickly onboard new AI tools without having to worry about security risks.",
-      "url": "https://www.zdnet.com/article/microsoft-will-compete-with-aws-to-offer-a-marketplace-of-ai-apps-and-agents/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/24ddf92aaa8b0dcbf4ef7cfc4e9b0caacf6fba16/2025/09/26/27127e36-3dab-4f84-8fd6-f60b4db13712/gettyimages-1299256142.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T16:52:12Z",
-      "content": "Daniel Grizelj/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Marketplace offers more than 3,000 AI apps and agents.</… [+3574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "5 ways you can maximize AI's big impact in software development",
-      "description": "These financial services executives explain how they balance automation with compliance – and there are important lessons for all business leaders.",
-      "url": "https://www.zdnet.com/article/5-ways-you-can-maximize-ais-big-impact-in-software-development/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2ad2ca0456ea25171df3de7ab50cacbf8d1ef7af/2025/09/26/6badca4c-97de-4130-98b6-c20cd0000269/gettyimages-2228030456.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T16:32:05Z",
-      "content": "asbe/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Companies guide developers to make the most of AI.</li><li>Hammer home the chang… [+7653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Samsung takes a scalpel to its 2nm wafer price tag, bringing it down to $20,000 — Korean chipmaker now undercuts rival TSMC by 33%",
-      "description": "Samsung throws the gauntlet to TMSC, which recently rose its pricing thanks to overwhelming demand.",
-      "url": "https://www.tomshardware.com/tech-industry/samsung-takes-a-scalpel-to-its-2nm-wafer-price-tag-bringing-it-down-to-usd20-000-korean-chipmaker-now-undercuts-rival-tsmc-by-33-percent",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/t4KWtBvu5fADMgmoo2MaKg.jpg",
-      "publishedAt": "2025-09-26T16:17:31Z",
-      "content": "Worldwide cutting-edge chip production is at capacity everywhere, as high-tech companies like Nvidia can't get nearly enough supply to satisfy their demand. However, even though it's a seller's marke… [+2142 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Felipe De La Hoz",
-      "title": "Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos",
-      "description": "Throughout his 2016 presidential campaign, Donald Trump often claimed that his efforts against immigration were primarily against irregular or illegal immigration, and that he was happy to have people go through \"proper channels.\" Those assurances got weaker …",
-      "url": "https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T16:12:45Z",
-      "content": "<ul><li></li></ul>\r\nTrumps new H-1B policy caused short-term panic and will cause long-term chaos\r\nTech companies like Amazon, Google, and Microsoft rely heavily on high-skilled work visas. What happ… [+12087 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Meta AI funnels AI videos from creators into new ‘Vibes’ feed",
-      "description": "On Thursday, Meta AI launched a new feed of short-form, AI-generated videos called Vibes. The feed is designed to encourage users to remix AI-generated videos that come from “creators and communities,” the company said. Users can post their own AI-generated v…",
-      "url": "https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/02_From-Inspiration-to-Creation_Carousel-02.webp?quality=90&strip=all&crop=0%2C19.939126731632%2C100%2C60.121746536737&w=1200",
-      "publishedAt": "2025-09-26T16:01:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf you need more AI videos in your life, Meta AIs new Vibes feed will serve you all you can stomach. \r\nIf you need more AI videos in your life, Meta AIs new Vibe… [+2955 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Amazon’s Fire TV Stick 4K Max is already $20 off ahead of Amazon’s fall Prime Day event",
-      "description": "Amazon’s fall Prime Day event is now less than two weeks away, but we’re already seeing prices drop on everything from chargers to Apple devices. One notable deal, especially if you need a streaming stick before October 7th, is on Amazon’s Fire TV Stick 4K Ma…",
-      "url": "https://www.theverge.com/tech/786445/amazon-fire-tv-stick-4k-max-october-prime-day-deals-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Amazon_Fire_TV_Stick_4K_Max_2023_Press_Lifestyle_Image.webp?quality=90&strip=all&crop=0,10.386364986828,100,79.227270026343",
-      "publishedAt": "2025-09-26T15:51:01Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons Fire TV Stick 4K is already receiving a steep discount ahead of Prime Day 2.0.\r\nAmazons Fire TV Stick 4K is already receiving a steep discount ahead of P… [+2315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "Why I ditched my USB cables after switching to this Baseus power bank - and can't go back",
-      "description": "Drones, action cameras, pocket-sized gimbal cameras and mics all have voracious appetites for power. This power bank is perfect for keeping them charged on the go.",
-      "url": "https://www.zdnet.com/home-and-office/energy/why-i-ditched-my-usb-cables-after-switching-to-this-baseus-power-bank-and-cant-go-back/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7cd75f7699f5eb9fdfc15e5dd70f092b7bc95ce5/2025/09/26/088535c2-8991-4790-9ad8-e55c09c22958/img-5343.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T15:50:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've noticed that when I'm in content creator mode and packing my favorite portable drone, action cameras, pocket-sized gimbal camera and portab… [+3411 chars]"
     }
   ]
 }
