@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-09-30T22:32:10.011Z",
+  "fetchedAt": "2025-09-30T23:26:19.295Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Whitebridge AI created false and alarming reputation reports, complaint alleges",
+      "description": "Privacy group Noyb wants Lithuania to throw the GDPR book at 'em Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling \"reputation reports\" based on unlawfully collected data and AI misinformation.…",
+      "url": "https://www.theregister.com/2025/09/29/whitebridge_ai_reputation_reports_complaint/",
+      "urlToImage": "https://regmedia.co.uk/2018/08/09/shutterstock_privacy_tablet.jpg",
+      "publishedAt": "2025-09-29T23:22:23Z",
+      "content": "Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling \"reputation reports\" based on unlawfully collected data and AI misinformation.\r\nNoyb, a privacy advocacy group base… [+2553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer explains why he thinks the AI boom is different than the dotcom bubble",
+      "description": "CNBC's Jim Cramer on Monday pushed back against the narrative that Wall Street's fervor for artificial intelligence is the same as the dotcom bubble of 2000.",
+      "url": "https://www.cnbc.com/2025/09/29/jim-cramer-explains-why-he-thinks-the-ai-boom-is-different-than-the-dotcom-bubble.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104741396-IMG_8427-jim-cramer.jpg?v=1694213619&w=1920&h=1080",
+      "publishedAt": "2025-09-29T23:10:07Z",
+      "content": "CNBC's Jim Cramer on Monday pushed back against the narrative that Wall Street's fervor for artificial intelligence is the same as the dotcom bubble of 2000, saying there are major differences in ter… [+2552 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "SB 53, the landmark AI transparency bill, is now law in California",
+      "description": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.  On Monday, California governor Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,”…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-29T23:01:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe hotly-debated legislation establishes safety reporting requirements for large AI companies.\r\nThe hotly-debated legislation establishes safety reporting requi… [+4740 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
       "publishedAt": "2025-09-28T18:08:11Z",
       "content": "It takes a lot of computing power to run an AI product and as the tech industry races to tap the power of AI models, theres a parallel race underway to build the infrastructure that will power them. … [+5951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Jensen Huang says China is ‘nanoseconds behind’ the US in chipmaking, calls for reducing US export restrictions on Nvidia's AI chips",
-      "description": "Nvidia CEO Jensen Huang says China is just “nanoseconds behind” the U.S. in chipmaking and that Washington should stop trying to wall off the market.",
-      "url": "https://www.tomshardware.com/jensen-huang-says-china-is-nanoseconds-behind-in-chips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Pceh7LJ67Xb8SQfZLwQo9T.png",
-      "publishedAt": "2025-09-28T16:22:42Z",
-      "content": "Nvidia CEO Jensen Huang says China is just “nanoseconds behind” the U.S. in chipmaking and that Washington should stop trying to wall off the market. Speaking on the BG2 podcast\r\n, Huang argued that … [+2675 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal | TechCrunch",
-      "description": "TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2236951794.jpg?resize=1200,801",
-      "publishedAt": "2025-09-28T16:02:43Z",
-      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nThe auton… [+10247 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Trump posts, then pulls bizarre AI video promoting MedBed conspiracy",
-      "description": "Donald Trump is no stranger to outlandish conspiracies or strange social media posts. But, by any measure, his post on Saturday night was particularly bizarre. The president posted (and later removed) a clip on Truth Social of a Fox News segment with Lara Tru…",
-      "url": "https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/gettyimages-2195559727.jpg?quality=90&strip=all&crop=0%2C10.725622647954%2C100%2C78.548754704091&w=1200",
-      "publishedAt": "2025-09-28T15:44:08Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe president shared a fake clip in which he announced a MedBed hospital and national MedBed card.\r\nThe president shared a fake clip in which he announced a MedB… [+2979 chars]"
     }
   ]
 }
