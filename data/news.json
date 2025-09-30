@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-09-30T09:33:18.974Z",
+  "fetchedAt": "2025-09-30T10:43:34.103Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Zoë Schiffer",
+      "title": "Marissa Mayer Is Dissolving Her Sunshine Startup Lab",
+      "description": "After seven rocky years, the company’s assets will be sold to Dazzle, a new AI firm that Mayer founded.",
+      "url": "https://www.wired.com/story/marissa-mayer-sunshine-startup-shut-down/",
+      "urlToImage": "https://media.wired.com/photos/68d975ecfc3edc8ac3d99e87/191:100/w_1280,c_limit/Marissa-Mayer-Dissolving-Sunshine-Start-Up-Lab-Business-1694171981.jpg",
+      "publishedAt": "2025-09-29T10:30:00Z",
+      "content": "Sunshine, the consumer AI startup founded by former Yahoo CEO Marissa Mayer in 2018, has seen brighter days.\r\nThe small startup is shutting down and its assets are being sold to a new entity incorpor… [+2376 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Steven J. Vaughan-Nichols",
+      "title": "Oh the joy: OpenNvidia may be the AI generation's WinTel",
+      "description": "Duo could dominate in the same way Microsoft and Intel ruled PCs for decades Opinion  The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn't chicken feed, even as more and more tech companies cross the trillion-dollar mark. …",
+      "url": "https://www.theregister.com/2025/09/29/nvidia_openai_alliance_opinion_column/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/28/ai_shutterstock.jpg",
+      "publishedAt": "2025-09-29T10:15:10Z",
+      "content": "Opinion The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn't chicken feed, even as more and more tech companies cross the trillion-dollar mark. But what does it r… [+5295 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "I teamed Deep Research with Codex to solve a major bug - but they couldn't do it without me",
+      "description": "When Codex failed to debug my plugin, Deep Research delivered - with my careful guidance. Here's how combining AI tools can solve problems faster and supercharge developer workflows.",
+      "url": "https://www.zdnet.com/article/i-teamed-deep-research-with-codex-to-solve-a-major-bug-but-they-couldnt-do-it-without-me/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c00a43f81a45730f8eed5f9f4d536fe1d4411d01/2025/09/29/77d34507-fcca-4e3c-b25c-33911581e413/gettyimages-1224500457-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T10:08:01Z",
+      "content": "monsitj/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Codex struggled with big-picture debugging across complex codebases</li><li>Dee… [+12894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "From Elon Musk to Microsoft's Satya Nadella, these tech leaders were once H-1B visa holders",
+      "description": "Since its creation in 1990, the H-1B visa program has been utilized by a number of foreign workers who would rise the ranks into prominent leaders.",
+      "url": "https://www.cnbc.com/2025/09/29/from-tesla-to-microsoft-satya-nadella-tech-firms-leader-once-h-1b-visa-holders.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108147641-1747683798813-gettyimages-2215435782-AFP_47CK4CQ.jpeg?v=1759139909&w=1920&h=1080",
+      "publishedAt": "2025-09-29T09:52:26Z",
+      "content": "President Donald Trump is looking to restrict and overhaul the H-1 B visa program, which has allowed U.S. companies to hire foreign talent in occupations such as IT, healthcare and engineering for de… [+5755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Jaguar Land Rover gets £1.5B government jump-start after cyber breakdown",
+      "description": "Hundreds of thousands of workers in financial despair supported with landmark loan The UK government is stepping in with financial support for Jaguar Land Rover, providing it with a hefty loan as it continues to battle the fallout from a cyberattack.…",
+      "url": "https://www.theregister.com/2025/09/29/jlr_government_loan/",
+      "urlToImage": "https://regmedia.co.uk/2017/01/13/parliament_photo_by_shutterstock.jpg",
+      "publishedAt": "2025-09-29T09:46:14Z",
+      "content": "The UK government is stepping in with financial support for Jaguar Land Rover, providing it with a hefty loan as it continues to battle the fallout from a cyberattack.\r\nA government-backed loan to th… [+6085 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2019/09/04/shutterstock_google_hq.jpg",
       "publishedAt": "2025-09-26T15:01:09Z",
       "content": "Google is promising a single notebook environment for machine learning and data analytics, integrating SQL, Python, and Apache Spark in one place.\r\nReaders might note that other prominent vendors in … [+2537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Your colleagues are sick of your AI workslop",
-      "description": "Don't risk your professional reputation on this.",
-      "url": "https://www.zdnet.com/article/your-colleagues-are-sick-of-your-ai-workslop/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/deefdac608758ed3659b01464abfb7fd553659e4/2025/09/26/b0abb7f5-89c4-45d8-ad43-1bbc8f97fa59/gettyimages-2172388196.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-26T14:42:00Z",
-      "content": "Mininyx Doodle/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Workers are using AI to create low-quality \"workslop.\" </li><li>Bosses … [+3497 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "The Trump admin is going after semiconductor imports | TechCrunch",
-      "description": "The Trump administration wants the industry to reach a 1:1 ratio of domestically produced and imported chips.",
-      "url": "https://techcrunch.com/2025/09/26/the-trump-admin-is-going-after-semiconductor-imports/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2026266993.jpg?resize=1200,686",
-      "publishedAt": "2025-09-26T14:41:38Z",
-      "content": "In its latest bid to boost semiconductor production in the U.S., the Trump administration is reportedly considering a ratio-based approach that would penalize domestic manufacturers with tariffs if t… [+1362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "LockBit's new variant is 'most dangerous yet,' hitting Windows, Linux and VMware ESXi",
-      "description": "Operation Cronos didn’t kill LockBit – it just came back meaner Trend Micro has sounded the alarm over the new LockBit 5.0 ransomware strain, which it warns is \"significantly more dangerous\" than past versions due to its newfound ability to simultaneously tar…",
-      "url": "https://www.theregister.com/2025/09/26/lockbits_new_variant_is_most/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/26/shutterstock_2267181443.jpg",
-      "publishedAt": "2025-09-26T14:28:08Z",
-      "content": "Trend Micro has sounded the alarm over the new LockBit 5.0 ransomware strain, which it warns is \"significantly more dangerous\" than past versions due to its newfound ability to simultaneously target … [+3637 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI's historic week has redefined the AI arms race for investors: 'I don’t see this as crazy'",
-      "description": "OpenAI cemented its role as the central force in AI infrastructure this week, unveiling nearly a trillion dollars in planned spending.",
-      "url": "https://www.cnbc.com/2025/09/26/openai-big-week-ai-arms-race.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203076-1758667426528-gettyimages-2236544326-STARGATE_DATA_CENTER.jpeg?v=1758667577&w=1920&h=1080",
-      "publishedAt": "2025-09-26T14:15:32Z",
-      "content": "OpenAI CEO Sam Altman listens to questions at a Q&amp;amp;A following a tour of the OpenAI data center in Abilene, Texas, U.S., Sept. 23, 2025. \r\nThis week, OpenAI redefined what momentum and risk lo… [+9191 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Suno’s upgraded AI music generator is technically impressive, but still soulless",
-      "description": "When it's not trying to fend off lawsuits from major record labels, Suno is still working on refining its AI music creation tool. The latest model, Suno v5, is an obvious technical improvement over its previous version, v4.5+. But it still can't seem to escap…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-26T14:09:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSunos upgraded AI music generator is technically impressive, but still soulless\r\nModel v5s vocals are too close to perfection to be believably human.\r\nby\r\nTerren… [+9455 chars]"
     }
   ]
 }
