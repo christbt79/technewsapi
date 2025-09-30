@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-09-30T20:33:08.844Z",
+  "fetchedAt": "2025-09-30T21:27:15.163Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Sean Illing",
+      "title": "Why TikTok is so influential — and why that’s particularly worrisome now",
+      "description": "TikTok is not just the most downloaded app in the world; it’s the most powerful information platform on the planet.  The app is also a political flashpoint. TikTok is owned by ByteDance, a Chinese company under the shadow of Beijing. For years, US lawmakers h…",
+      "url": "https://www.vox.com/podcasts/463206/tiktok-deal-us-china-ellison-murdoch",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2237166724.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-29T21:20:45Z",
+      "content": "Whoever owns the app moving forward will steer policy. | Nikolas Kokovlis/NurPhoto via Getty Images\r\n\n\nTikTok is not just the most downloaded app in the world; it’s the most powerful information plat… [+12438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Your AI conversations are a secret new treasure trove for marketers",
+      "description": "And they may not be seeking proper consent ai-pocalypse  Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been sucking up info…",
+      "url": "https://www.theregister.com/2025/09/29/profound_browser_extension_privacy_concern/",
+      "urlToImage": "https://regmedia.co.uk/2021/03/03/shutterstock_internet_eye.jpg",
+      "publishedAt": "2025-09-29T21:15:12Z",
+      "content": "ai-pocalypse Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been… [+6942 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "DeepSeek: Everything you need to know about the AI chatbot app | TechCrunch",
+      "description": "DeepSeek has gone viral. Chinese AI lab DeepSeek broke into the mainstream consciousness this week after its chatbot app rose to the top of the Apple",
+      "url": "https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+      "publishedAt": "2025-09-29T21:00:16Z",
+      "content": "DeepSeek has gone viral.\r\nChinese AI lab DeepSeek broke into the mainstream consciousness this week after its chatbot app rose to the top of the Apple App Store charts (and Google Play, as well). Dee… [+6737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Walmart CEO: ‘AI is literally going to change every job’—how the best employees can stand out",
+      "description": "Walmart CEO Doug McMillon is the latest notable business leader to talk about how implementing AI tools and agents in the workplace will affect his company.",
+      "url": "https://www.cnbc.com/2025/09/29/walmart-ceo-ai-is-literally-going-to-change-every-job.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107356638-1706718386900-107356638-1704893515399-gettyimages-1920821231-em035527_2024010942706714.jpg?v=1759175391&w=1920&h=1080",
+      "publishedAt": "2025-09-29T20:49:20Z",
+      "content": "Workers in every type of role must be prepared to adapt to the rise of artificial intelligence in the workplace, says Walmart CEO Doug McMillon, leader of the nation's largest private employer.\r\n\"It'… [+4633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "One line of malicious npm code led to massive Postmark email heist",
+      "description": "MCP plus open source plus typosquatting … what could possibly go wrong?\nA fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgo…",
+      "url": "https://www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/29/shutterstock_2291953491.jpg",
+      "publishedAt": "2025-09-29T20:44:35Z",
+      "content": "A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages… [+4051 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Opera launches its AI browser, but you’ll have to pay to try it",
+      "description": "A limited number of people will get to try out Opera’s AI browser, Neon, starting today for $19.90 per month.  The Norwegian software company first announced the “agentic browser” in May, but details were sparse. Now, we know that Opera Neon includes differen…",
+      "url": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/neon_Start_Page_light02.png?quality=90&strip=all&crop=0%2C9.5570619084671%2C100%2C80.885876183066&w=1200",
+      "publishedAt": "2025-09-29T20:43:03Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Norwegian software company Opera rolled out its AI browser, Neon, to some users for $19.90 per month and invited the rest to join the waitlist. \r\nThe Norwegi… [+2042 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Facebook adds fan challenges, custom badges for creators",
+      "description": "These updates show us that Meta wants fans to take Facebook more seriously as a place to engage with creators.",
+      "url": "https://techcrunch.com/2025/09/29/facebook-adds-fan-challenges-custom-badges-for-creators/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Bringing-Fans-and-Creators-Closer-Together_Header.jpg?resize=1200,675",
+      "publishedAt": "2025-09-29T20:34:34Z",
+      "content": "Facebook is rolling out features that aim to bring fans closer to their favorite creators: fan challenges and customized top fan badges.\r\nThe fan challenges feature will allow creators to prompt thei… [+2077 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "AI recruiter Alex raises $17M to automate initial job interviews | TechCrunch",
+      "description": "AI recruiter Alex raises $17M to automate initial job interviews | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Alex.com-Team.jpg?resize=1200,820",
+      "publishedAt": "2025-09-29T20:33:19Z",
+      "content": "Job seekers in all fields can expect to soon be doing a lot more initial screening interviews. While that may sound like positive news, it doesnt mean that there will suddenly be more open positions.… [+2235 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203057-17586652402025-09-23t214859z_181395313_rc2wxganf0ii_rtrmadp_0_tech-openai-texas.jpeg?v=1758900748&w=1920&h=1080",
       "publishedAt": "2025-09-28T12:00:01Z",
       "content": "OpenAI CEO Sam Altman speaks to media following a Q&amp;amp;A at the OpenAI data center in Abilene, Texas, U.S., Sept. 23, 2025. \r\nOpenAI CEO Sam Altman is everywhere.\r\nHis artificial intelligence st… [+5001 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "5 takeaways from CNBC’s investigation into 'nudify' apps and sites",
-      "description": "CNBC investigated \"nudify\" apps and how a group of friends became key figures in the fight against nonconsensual, AI-generated porn.",
-      "url": "https://www.cnbc.com/2025/09/28/5-takeaways-from-cnbcs-investigation-into-nudify-apps-and-sites.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202454-1758646478899-three_shot_3.png?v=1758925569&w=1920&h=1080",
-      "publishedAt": "2025-09-28T12:00:01Z",
-      "content": "Jessica Guistolise, Megan Hurley and Molly Kelley talk with CNBC in Minneapolis, Minnesota, on July 11, 2025, about fake pornographic images and videos depicting their faces made by their mutual frie… [+5904 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Top Wall Street analysts favor these 3 stocks for their robust growth outlook",
-      "description": "TipRanks' ranking service highlights three stocks, including Nvidia and CrowdStrike, that are favored by Wall Street.",
-      "url": "https://www.cnbc.com/2025/09/28/top-wall-street-analysts-favor-these-3-stocks-for-robust-growth.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108191473-1756316822404-gettyimages-2232398609-_75a2581_gkk2kuie.jpeg?v=1758909257&w=1920&h=1080",
-      "publishedAt": "2025-09-28T11:48:35Z",
-      "content": "Despite macroeconomic uncertainties, several companies are well-positioned to deliver strong returns to investors from rapid technological advancements and artificial intelligence (AI) adoption. \r\nTo… [+5858 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Monica Bell",
-      "title": "AT&T will sell you the iPhone Air for $830 off right now - how to qualify for the deal",
-      "description": "Travel light this season with a brand-new iPhone Air for up to $830 off when you trade in your iPhone at AT&T.",
-      "url": "https://www.zdnet.com/home-and-office/networking/at-t-will-sell-you-the-iphone-air-for-830-off-right-now-how-to-qualify-for-the-deal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8be09e01b41ebade727953944424591a2c73f77f/2025/09/19/c7b965e3-1310-49f0-a094-957034098444/dsc07749.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-28T11:00:41Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nThe new iPhone Air is officially here -- and now you can get it for up to $830 off when you trade in your old iPhone through AT&amp;T. The iPhone Air model has been creating buzz… [+3404 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "Do you still need USB-C charging cables if this portable battery exists? I tested it to find out",
-      "description": "Drones, action cameras, pocket-sized gimbal cameras, and mics all have voracious appetites for power. This Baseus power bank will do the job.",
-      "url": "https://www.zdnet.com/home-and-office/energy/do-you-still-need-usb-c-charging-cables-if-this-portable-battery-exists-i-tested-it-to-find-out/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7cd75f7699f5eb9fdfc15e5dd70f092b7bc95ce5/2025/09/26/088535c2-8991-4790-9ad8-e55c09c22958/img-5343.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-28T11:00:32Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've noticed that when I'm in content creator mode and packing my favorite portable drone, action cameras, pocket-sized gimbal camera and portab… [+3411 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Wall Street keeps cool as casino crowd cashes out of risky bets",
-      "description": "In recent days, money has flowed out of exchange-traded funds focused on frontier technologies and highly leveraged wagers tied to the biggest names in tech",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-26/wall-street-keeps-cool-as-casino-crowd-cashes-out-of-risky-bets",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/djnjs0/article70083306.ece/alternates/LANDSCAPE_1200/439915637.jpg",
-      "publishedAt": "2025-09-28T10:08:11Z",
-      "content": "By most measures, markets remain on strong footing. Economic data continues to surprise to the upside. The Federal Reserve has extended a fresh lifeline to Wall Street. Stocks are close to recent hig… [+6291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "AI is every developer's new reality - 5 ways to make the most of it",
-      "description": "These financial services executives explain how they balance automation with compliance – and there are important lessons for all business leaders.",
-      "url": "https://www.zdnet.com/article/ai-is-every-developers-new-reality-5-ways-to-make-the-most-of-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2ad2ca0456ea25171df3de7ab50cacbf8d1ef7af/2025/09/26/6badca4c-97de-4130-98b6-c20cd0000269/gettyimages-2228030456.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-28T10:00:00Z",
-      "content": "asbe/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Companies guide developers to make the most of AI.</li><li>Hammer home the chang… [+7653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Trump’s tariff‑shaped stick can’t beat reality on US chip fabbing",
-      "description": "The proposed 1:1 chip rule means nothing but pain for US tech until he’s out of office\nComment Ending America's reliance on foreign chip fabs remains a high priority for Uncle Sam, but the Trump administration's \"my way or the highway\" approach to the issue t…",
-      "url": "https://www.theregister.com/2025/09/28/trump_1_1_chip_rule_too_late/",
-      "urlToImage": "https://regmedia.co.uk/2021/01/09/shutterstock_orange_man_sad.jpg",
-      "publishedAt": "2025-09-28T08:45:07Z",
-      "content": "Comment Ending America's reliance on foreign chip fabs remains a high priority for Uncle Sam, but the Trump administration's \"my way or the highway\" approach to the issue threatens to do more harm th… [+4203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Should you buy a Windows mini PC in 2025? My verdict after a week of testing",
-      "description": "I've tested my share of mini PCs, but Geekom's A9 Max stands out for its combination of power and price.",
-      "url": "https://www.zdnet.com/article/should-you-buy-a-windows-mini-pc-in-2025-my-verdict-after-a-week-of-testing/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/60321c2728b9d6a676e70bfc0e47f005b7f6babe/2025/09/24/7512e9c2-d190-436c-ad64-1d56eb24fba5/a9maxhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-28T07:30:32Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWhen I review small form factor PCs, I tend to keep my expectations in check. Given that I use a monstrous System76 Thelio desktop for most of m… [+7013 chars]"
     }
   ]
 }
