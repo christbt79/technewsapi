@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-09-30T17:30:54.907Z",
+  "fetchedAt": "2025-09-30T18:45:13.160Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Why I put my Bose QuietComfort away soon after trying these over-ear headphones",
+      "description": "On paper, the Bowers & Wilkins Px8 S2 may look eerily similar to the midrange Px7 S3. But the price increase is greatly justified.",
+      "url": "https://www.zdnet.com/article/why-i-put-my-bose-quietcomfort-away-soon-after-trying-these-over-ear-headphones/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/10b8d4e067e57f69a48292f9b5bea0f2265ef109/2025/09/23/93bb9644-83ff-44db-9c98-321e59d120e3/px8-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T18:30:25Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nFew headphones perfectly blend design, sound quality, and everyday utility. Sony's headphones sound great, Bose's headphones have great design q… [+6006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Oracle will have to borrow at least $25B a year to fund AI fantasy, says analyst",
+      "description": "Bubble, you say? OpenAI will borrow billions to pay Big Red, who will borrow billions on the hope OpenAI pays it\nAs part of its $300 billion cloud compute contract with OpenAI, Oracle may need to borrow roughly $100 billion over the next four years to build t…",
+      "url": "https://www.theregister.com/2025/09/29/oracle_ai_debt/",
+      "urlToImage": "https://regmedia.co.uk/2025/06/13/larryellison.jpg",
+      "publishedAt": "2025-09-29T18:16:38Z",
+      "content": "As part of its $300 billion cloud compute contract with OpenAI, Oracle may need to borrow roughly $100 billion over the next four years to build the datacenters required, according to KeyBanc's proje… [+3505 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months",
+      "description": "The Echo Pop and Echo Dot are Amazon’s entry-level smart speakers, and both are currently on sale ahead of Amazon’s October Prime Day (aka Prime Big Deal Days), which officially kicks off on October 7th. Both speakers are currently discounted to their lowest …",
+      "url": "https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24691059/236685_Amazon_Echo_Pop_JTuohy_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-29T18:10:56Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can get either smart speaker for under $40 thanks to early October Prime Day deals.\r\nYou can get either smart speaker for under $40 thanks to early October P… [+4748 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks | TechCrunch",
+      "description": "Vibe coding Anything nabs a $100M valuation, after hitting $2M ARR in its first two weeks | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/09/29/vibe-coding-anything-nabs-a-100m-valuation-after-hitting-2m-arr-in-its-first-two-weeks/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/dhruv_marcus.png?resize=1200,800",
+      "publishedAt": "2025-09-29T17:58:40Z",
+      "content": "Its no secret that vibe coding using AI-powered coding tools to build apps and websites via natural language prompts is exploding in popularity.\r\nIn July, Swedish vibe coding startup Lovable hit $100… [+4039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Danny Palmer",
+      "title": "ChatGPT wants teens to agree to let their parents spy on them",
+      "description": "Good luck with that!\nOpenAI says it is introducing parental controls to ChatGPT that will help improve the safety of teenagers using its AI chatbot.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
+      "url": "https://www.theregister.com/2025/09/29/chatgpt_parental_controls/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/29/shutterstock_1774965752.jpg",
+      "publishedAt": "2025-09-29T17:40:52Z",
+      "content": "OpenAI says it is introducing parental controls to ChatGPT that will help improve the safety of teenagers using its AI chatbot.\r\nThe new protections are designed to help ChatGPT identify when a teena… [+2525 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/31eb64c2c4befcf86a2912197a4041c350d5b572/2025/09/27/11d7336f-2012-4018-a3eb-2d8cffb3349c/ijustine-time-cook-selfie-2025.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-27T15:22:17Z",
       "content": "Selfie with iJustine and Tim Cook at 2025 Apple Event.\r\nJason Hiner/ZDNET\r\nWe always knew people took a lot of selfies, but when Apple unveiled its 2025 fall devices, it revealed that iPhone users ha… [+3598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Russia outlines EUV litho chipmaking tool roadmap through 2037 — country eyes replacing DUV with EUV, but plans appear unrealistic",
-      "description": "The Russian Academy of Sciences has unveiled a 2026–2037 roadmap for domestic 11.2 nm EUV lithography tools that reject ASML's architecture in favor of xenon plasma, Ru/Be mirrors, and solid-state lasers, aiming for simplified, tin-free, cost-effective altern…",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/russia-outlines-euv-litho-chipmaking-tool-roadmap-through-2037-country-eyes-replacing-duv-with-euv-but-plans-appear-unrealistic",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH.jpg",
-      "publishedAt": "2025-09-27T15:12:25Z",
-      "content": "The Institute of Microstructure Physics of the Russian Academy of Sciences (via Dmitrii Kuznetsov) has laid out a long-term roadmap for domestic extreme ultraviolet (EUV) lithography tools operating … [+3899 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Andy Greenberg, Matt Burgess, Lily Hay Newman",
-      "title": "An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead",
-      "description": "Plus: A ransomeware gang steals data on 8,000 preschoolers, Microsoft blocks Israel’s military from using its cloud for surveillance, call-recording app Neon hits pause over security holes, and more.",
-      "url": "https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/",
-      "urlToImage": "https://media.wired.com/photos/68d71fe2afe50fcea8e5439e/191:100/w_1280,c_limit/sec-roundup-kirk-2236141398.jpg",
-      "publishedAt": "2025-09-27T14:25:49Z",
-      "content": "New research released this week shows that over the past few years the US Department of Homeland Security has collected DNA data of nearly 2,000 US citizens. The activity raises questions about legal… [+4608 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "How South Korea plans to best OpenAI, Google, others with homegrown AI  | TechCrunch",
-      "description": "South Korea has launched its most ambitious sovereign AI initiative yet, as the nation's major tech players like LG and SK Telecom develop their own LLMs.",
-      "url": "https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/shutterstock_345588500.jpg?w=1000",
-      "publishedAt": "2025-09-27T14:00:00Z",
-      "content": "From tech giants to startups, South Korean players are developing large language models tailored to their own language and culture, ready to compete with global heavyweights like OpenAI and Google. \r… [+7077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The resilient stock market may be keeping the economy out of a recession",
-      "description": "Consumers with larger stock holdings are feeling fine, while those with smaller or no holdings are not.",
-      "url": "https://www.cnbc.com/2025/09/27/wealth-effect-stock-market-recession.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200047-17581256502025-09-17t160240z_726583784_rc2ptgaq293y_rtrmadp_0_usa-stocks.jpeg?v=1758125920&w=1920&h=1080",
-      "publishedAt": "2025-09-27T13:31:14Z",
-      "content": "Stock market growth that seems impervious to tariffs, politics and a moribund jobs picture is in turn powering consumer spending and putting a floor under an economy that many expected to be teeterin… [+5807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "11 phrases to help you gain influence and navigate awkwardness at work, from communication experts",
-      "description": "Communication experts share effective phrases to use while navigating workplace conflict.",
-      "url": "https://www.cnbc.com/2025/09/27/11-phrases-to-help-you-gain-influence-and-navigate-awkwardness-at-work-from-communication-experts.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203292-1758722623614-gettyimages-2220349934-6o6a41434.jpeg?v=1758722646&w=1920&h=1080",
-      "publishedAt": "2025-09-27T13:30:01Z",
-      "content": "Work conflicts can be uncomfortable, but managing them effectively is essential to your success, says workplace expert Henna Pryor.\r\nWhether you're asking your boss for a raise or receiving difficult… [+5492 chars]"
     }
   ]
 }
