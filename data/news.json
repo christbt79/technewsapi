@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-09-30T14:33:44.235Z",
+  "fetchedAt": "2025-09-30T15:31:04.259Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Christian de Looper",
+      "title": "Apple AirPods Pro 3 vs. Samsung Galaxy Buds 3 Pro: I compared both, and here's the winner",
+      "description": "It's a battle of device ecosystems - but is one truly better?",
+      "url": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro-i-compared-both-and-heres-the-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3723d81dfb59c4ffc61a2c21021e571a98c29bfc/2025/09/22/a2bbdfbe-b230-41b9-ae86-8777e3b546b6/app3bsgal.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-29T15:27:00Z",
+      "content": "Christian de Looper/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe first-party advantage is real. \r\nThe most obvious example of why first-party products are worth considering is th… [+6344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Data centers to account for 9% of electricity demand in the U.S by 2035, an increase of 5% — Nuclear power could help sate AI demand",
+      "description": "Major tech firms building gigawatts of power-hungry new AI data centers are investing in small, modular nuclear reactors as a potential solution for on-site, year-round power without the fluctuations in output of renewables, though questions remain over how l…",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers-to-account-for-9-percent-of-electricity-demand-in-the-u-s-by-2035-an-increase-of-5-percent-nuclear-power-could-help-sate-ai-demand",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aiUxmoYyKhNqqt3h97KGCZ-1920-80.jpg",
+      "publishedAt": "2025-09-29T15:25:22Z",
+      "content": "Alongside questions of how the major AI tech firms are going to afford the AI-revolution they're all driving us towards, others remain over how they're going to power it. With 9% of the entire US ele… [+6893 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Alexa Plus is smarter — but it’s not yet smart enough",
+      "description": "This week, Amazon will launch new Echo hardware designed to supercharge Alexa Plus, the AI-powered upgrade to its voice assistant. I've been using Alexa Plus for the last few months as part of its Early Access program, and while the new assistant is off to a …",
+      "url": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/8A0A3802-1.jpeg?quality=90&strip=all&crop=0%2C10.725712623618%2C100%2C78.548574752763&w=1200",
+      "publishedAt": "2025-09-29T15:20:19Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAs Amazon prepares to launch new hardware this week, it needs to push Alexa to the next level.\r\nIf you buy something from a Verge link, Vox Media may earn a comm… [+9038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "OpenAI President teases 10 billion GPU future — says always-working AI future calls for 'every person to have their own dedicated GPU'",
+      "description": "Great, yet another graphics card drought incoming.",
+      "url": "https://www.tomshardware.com/tech-industry/openai-cto-teases-10-billion-gpu-future-says-always-working-ai-future-calls-for-every-person-to-have-their-own-dedicated-gpu",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jaeYdAUL3zpvZxJ35rSr9J-2000-80.jpg",
+      "publishedAt": "2025-09-29T15:12:06Z",
+      "content": "The various recent partnerships involving OpenAI and Nvidia have been discussed at length by the entire internet as well as the stock market. Besides enhancing shareholder value, though, it's hard to… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "OpenAI rolls out safety routing system, parental controls on ChatGPT  | TechCrunch",
+      "description": "The new safety features come after numerous incidents of ChatGPT validating users' delusional thinking instead of redirecting harmful conversations -- including the death of a teenage boy by suicide.",
+      "url": "https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "publishedAt": "2025-09-29T14:52:40Z",
+      "content": "OpenAI began testing a new safety routing system in ChatGPT over the weekend, and on Monday introduced parental controls to the chatbot  drawing mixed reactions from users.\r\nThe safety features come … [+3270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Mobile RTX 2070 with shunt mod nearly eclipses desktop performance — 60W boost provides 15% performance uplift",
+      "description": "A PC enthusiast reports successfully shunt modding his Nvidia GeForce RTX 2070 Mobile GPU for a ~15% performance uplift.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/mobile-rtx-2070-with-shunt-mod-nearly-eclipses-desktop-performance-60w-boost-provides-15-percent-performance-uplift",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2roBnihuV6TNw4GESGWdFS-1920-80.jpg",
+      "publishedAt": "2025-09-29T14:50:53Z",
+      "content": "A PC enthusiast reports successfully shunt modding his Nvidia GeForce RTX 2070 Mobile GPU for a ~15% performance uplift. An uplift of this scale would bring the RTX 2070 Mobile roughly to performance… [+2472 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e85381409db90e44c0e52eb92d907baa2eaaf1f8/2025/09/24/c1d2066b-0d05-4e4b-b46b-e9454492b504/hiner-iphone-17-pro-max-review.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-27T10:00:36Z",
       "content": "Jason Hiner/ZDNET\r\nUpgrades are in the air, and sometimes the stars align (with AT&amp;T) to bring you even more discounted perks. Right now, AT&amp;T is offering the Apple iPhone 17 Pro for $0 when … [+4031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "Alibaba unveils $53B global AI plan – but it will need GPUs to back it up",
-      "description": "Chinese giant maps out datacenters across Europe and beyond, yet US chip curbs cast a long shadow\nAnalysis Alibaba this week opened an AI war chest containing tens of billions of dollars, a revamped LLM lineup, and plans for AI datacenters in Europe. But it a…",
-      "url": "https://www.theregister.com/2025/09/27/alibaba_ai_drive/",
-      "urlToImage": "https://regmedia.co.uk/2023/10/25/shutterstock_dc.jpg",
-      "publishedAt": "2025-09-27T08:38:06Z",
-      "content": "Analysis Alibaba this week opened an AI war chest containing tens of billions of dollars, a revamped LLM lineup, and plans for AI datacenters in Europe. But it also prompted a flurry of questions ove… [+5580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Miracle under threat: South Korea’s birth rate collapse could undo decades of growth",
-      "description": "A shrinking population could lead to a permanent recession by the 2040s, according to the Bank of Korea.",
-      "url": "https://www.cnbc.com/2025/09/27/south-koreas-birth-rate-collapse-threatens-growth.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201875-1758529258682-gettyimages-543105868-AFP_C492U.jpeg?v=1758529273&w=1920&h=1080",
-      "publishedAt": "2025-09-27T06:11:12Z",
-      "content": "In a photo taken on May 26, 2016 a mobility scooter sits parked before rice fields in Gunwi, some 200 kilometres south of Seoul.\r\nBy 2030, a quarter of all South Koreans will be over 65 years old, an… [+5970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "ChatGPT will let your team collaborate via 'shared projects' - and other work-friendly updates",
-      "description": "OpenAI's chatbot can now automatically pull info from apps like Gmail and DropBox, among other perks. Here's who gets to try them first.",
-      "url": "https://www.zdnet.com/article/chatgpt-will-let-your-team-collaborate-via-shared-projects-and-other-work-friendly-updates/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f5d2ed364d587e58ed3895616594e2e9e0513af5/2025/09/26/37d803b3-feeb-46b1-ae45-6ed387584e62/gettyimages-1400238486.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-27T02:00:00Z",
-      "content": "D3Damon\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI launched a shared projects mode and new connectors for ChatGPT.</li><li>It also announced securit… [+5585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "You can claim up to $7,500 from AT&T's $177M data breach payouts - how to qualify",
-      "description": "Act now - if you were affected by AT&T's data breaches, you can still file a claim and receive your compensation. Here's how.",
-      "url": "https://www.zdnet.com/article/you-can-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-how-to-qualify/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d80e07567c8952b1950bbf97f0242797cbaa8d5f/2024/09/09/6df55758-f20f-4988-a726-11efef319e6f/red-iphone-at-apple-park-store.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-27T00:00:32Z",
-      "content": "Jakub Porzycki/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AT&amp;T's $177 million settlement is for data breaches in 2019 and 20… [+3778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Iain Thomson",
-      "title": "Many employees are using AI to create 'workslop,' Stanford study says",
-      "description": "Remember when AI was supposed to make us more productive, not hate each other?\nai-pocalypse Workers are getting lazy about using AI to do their jobs for them, and the results are both costly and increasing distrust in the workplace.…",
-      "url": "https://www.theregister.com/2025/09/26/ai_workslop_productivity/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/26/slop_tank.jpg",
-      "publishedAt": "2025-09-26T23:21:11Z",
-      "content": "ai-pocalypse Workers are getting lazy about using AI to do their jobs for them, and the results are both costly and increasing distrust in the workplace.\r\nAn ongoing study by Stanford's Social Media … [+3367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cramer's week ahead: Nonfarm payroll report, earnings from Paychex and Nike",
-      "description": "CNBC's Jim Cramer on Friday told investors what to look out for next week on Wall Street.",
-      "url": "https://www.cnbc.com/2025/09/26/cramer-week-jobs-report-paychex-nike-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103494693-IMG_8356rrr.jpg?v=1697580825&w=1920&h=1080",
-      "publishedAt": "2025-09-26T23:04:18Z",
-      "content": "CNBC's Jim Cramer on Friday told investors what to look out for next week on Wall Street, including the latest's nonfarm payroll report and earnings from Paychex and Nike.\r\n\"The employment number lor… [+2495 chars]"
     }
   ]
 }
