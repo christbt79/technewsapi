@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-01T07:30:49.364Z",
+  "fetchedAt": "2025-10-01T08:45:41.794Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China's DeepSeek launches next-gen AI model. Here's what makes it different",
+      "description": "The Chinese artificial intelligence startup has now released DeepSeek-V3.2-Exp, an experimental version of its current model DeepSeek-V3.1-Terminus.",
+      "url": "https://www.cnbc.com/2025/09/30/whats-new-in-deepseeks-latest-model-deepseek-v3point2-exp.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108102024-1739451742603-gettyimages-2196279912-deepseek-7.jpeg?v=1759175726&w=1920&h=1080",
+      "publishedAt": "2025-09-30T08:43:47Z",
+      "content": "Chinese startup DeepSeek's latest experimental model promises to increase efficiency and improve AI's ability to handle a lot of information at a fraction of the cost, but questions remain over how e… [+4262 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Healthcare lags in Windows 11 upgrades – and lives may depend on it",
+      "description": "Most orgs still on Windows 10, so maybe don't get ill after October 14\nInterview Enterprise plans for the end of Windows 10 should already be well underway, but some sectors are lagging, and there are other potential time bombs for administrators to worry abo…",
+      "url": "https://www.theregister.com/2025/09/30/windows_11_healthcare/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/30/doctor_shutterstock.jpg",
+      "publishedAt": "2025-09-30T08:27:13Z",
+      "content": "Interview Enterprise plans for the end of Windows 10 should already be well underway, but some sectors are lagging, and there are other potential time bombs for administrators to worry about, accordi… [+3282 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Opera launches its AI-centric Neon browser | TechCrunch",
+      "description": "Neon will write code snippets, includes an agent that will do tasks for you, and handles repeatable prompts.",
+      "url": "https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Opera_Neon_Tasks-bar-zoomed-in-1.png?resize=1200,675",
+      "publishedAt": "2025-09-30T08:02:27Z",
+      "content": "Browser maker Opera launched its AI-centric browser Neon Tuesday, with the ability to create apps through AI prompts and create repeatable prompts through a feature it calls cards. With this Opera jo… [+2566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Vala Afshar",
+      "title": "AI agents are transforming the healthcare and life sciences industry",
+      "description": "Research shows 96% of life sciences leaders believe AI agents will be 'essential' within the next two years.",
+      "url": "https://www.zdnet.com/article/ai-agents-are-transforming-the-healthcare-and-life-sciences-industry/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d311c235d90d33ecf4ddee3fe28c76a7fb954fc8/2025/09/29/cbb6e75e-7710-4bce-8768-7eec2bfa0c1d/gettyimages-2164305472-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T08:00:31Z",
+      "content": "Just_Super/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Life sciences leaders say AI agents will be \"essential\" within two years.</l… [+6789 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/5263c9b73fd0801d2321edfd90aa634e5c5da6d8/2024/03/13/9bd28cc2-5e0d-4026-9c5a-b6d463a77e0d/3.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-29T08:30:28Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're looking for an affordable security camera that can rival the Wyze Cam in functionality and durability, Blink may have the one for you.… [+4300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Tired of unreliable Wi-Fi? I tested a 5G Windows laptop and can't go back",
-      "description": "The HP EliteBook 6 G1q has a thin and light form factor, marathon battery, and supports a 5G connection that works anywhere there's service.",
-      "url": "https://www.zdnet.com/article/tired-of-unreliable-wi-fi-i-tested-a-5g-windows-laptop-and-cant-go-back/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/09604d6c880809db8c7b4fab5b3a90b6f99ff045/2025/09/26/92eafb0b-1738-4f50-a7b4-3e35c116456f/img-3873.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T08:10:25Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nHP's EliteBook 6 G1q is an affordable model from its productivity-minded lineup. It features extensive connectivity and a marathon battery in a … [+6580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Rupert Goodwins",
-      "title": "When AI is trained for treachery, it becomes the perfect agent",
-      "description": "We’re blind to malicious AI until it hits. We can still open our eyes to stopping it\nOpinion Last year, The Register reported on AI sleeper agents. A major academic study explored how to train an LLM to hide destructive behavior from its users, and how to fin…",
-      "url": "https://www.theregister.com/2025/09/29/when_ai_is_trained_for/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/26/evil_ai.jpg",
-      "publishedAt": "2025-09-29T07:15:06Z",
-      "content": "Opinion Last year, The Register reported on AI sleeper agents. A major academic study explored how to train an LLM to hide destructive behavior from its users, and how to find it before it triggered.… [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: A different September market",
-      "description": "September has been far from an ideal month for U.S. stocks for the past several years, but this time, though, things seem to be better.",
-      "url": "https://www.cnbc.com/2025/09/29/cnbc-daily-open-a-different-september-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196912-1757519281221-gettyimages-2223423631-20090101250708-99-391116.jpeg?v=1757519284&w=1920&h=1080",
-      "publishedAt": "2025-09-29T06:46:01Z",
-      "content": "September has been far from an ideal month for U.S. stocks for the past several years, with the S&amp;P 500 dropping during the month in four of the past five years. \r\nThis time, though, things seem … [+3108 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Paid, the AI agent 'results-based billing' startup from Manny Medina, raises huge $21M seed | TechCrunch",
-      "description": "Paid, the AI agent 'results-based billing' startup from Manny Medina, raises huge $21M seed | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup-from-manny-medina-raises-huge-21m-seed/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Paid-Manny-Medina-Co-founder-and-CEO.jpg?resize=1200,1074",
-      "publishedAt": "2025-09-29T04:40:00Z",
-      "content": "Manny Medina, previously best-known as the founder of sales automation startup Outreach ($4.4 billion valuation), has wowed investors with his young startup, Paid.\r\nPaid just closed an oversubscribed… [+3169 chars]"
     }
   ]
 }
