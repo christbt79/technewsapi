@@ -1,6 +1,162 @@
 {
-  "fetchedAt": "2025-10-01T13:36:45.368Z",
+  "fetchedAt": "2025-10-01T14:41:21.370Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Logitech's MX Master 4 mouse buzzes with haptic feedback but lacks lefty love",
+      "description": "Ergonomic, feature-packed, and still right-handed only\n(Right) Hands On Logitech has unveiled its latest MX Master mouse, filled with impressive new productivity features, including an added button and haptic feedback. However, like most mice on the market, i…",
+      "url": "https://www.theregister.com/2025/09/30/logitech_mx_master_4/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/30/mx_master_4.jpg",
+      "publishedAt": "2025-09-30T14:38:57Z",
+      "content": "(Right) Hands On Logitech has unveiled its latest MX Master mouse, filled with impressive new productivity features, including an added button and haptic feedback. However, like most mice on the mark… [+4975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Microsoft adds Grok 4 to Azure AI Foundry following cautious trials — Elon Musk's latest AI model is now available to deploy for \"frontier‑level reasoning\"",
+      "description": "Grok 4, the latest AI model produced by Elon Musk's xAI, is now available for enterprise customers inside Azure AI Foundry. Microsoft has added Grok 4 to its library after a series of prior internal testing to make sure it doesn't go on tangents again. It has…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-adds-grok-4-to-azure-ai-foundry-following-cautious-trials-elon-musks-latest-ai-model-is-now-available-to-deploy-for-frontier-level-reasoning",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H2GDhopEmvpZBki2Em3rZe-1536-80.jpg",
+      "publishedAt": "2025-09-30T14:37:09Z",
+      "content": "Following rumblings that Microsoft was considering adding Grok 4 to its Azure AI Foundry, the company has confirmed that the model is now available to use for its customers, following a private previ… [+3590 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Simon Hill",
+      "title": "The Blink Arc Can Merge Two Security Cameras for a 180-Degree View",
+      "description": "Amazon-owned Blink debuted new cameras with 2K resolution and an accessory that enables a wider field of view.",
+      "url": "https://www.wired.com/story/amazon-blink-arc-mini-2k/",
+      "urlToImage": "https://media.wired.com/photos/68dadd3697be5d5144c2e61a/191:100/w_1280,c_limit/Blink%E2%80%99s%20Arc%20Accessory%20Lets%20You%20Merge%20Two%20Security%20Cameras%20for%20a%20180-Degree%20View.png",
+      "publishedAt": "2025-09-30T14:30:23Z",
+      "content": "Amazons budget security brand, Blink, announced two new cameras during the companys fall hardware event in New York City: the Blink Mini 2K+ and the Blink Outdoor 2K+. As the names suggest, these cam… [+2455 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table",
+      "description": "Disrupt is where companies meet their first investors, form game-changing partnerships, and spark the ideas that take them to the next level. Book your table now.",
+      "url": "https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/03/8697162730_285af0487f_c.jpg?w=800",
+      "publishedAt": "2025-09-30T14:30:00Z",
+      "content": "TechCrunch Disrupt isnt just another tech conference packed with 10,000+ tech leaders  its the launchpad for startups and innovators. \r\nDisrupt is where companies meet their first investors, form gam… [+1884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Ring founder 'backs the blue,' says AI is helping Amazon-owned doorbell unit fight crime",
+      "description": "Ring founder Jamie Siminoff returned to the company he founded in April to lead the business, which is part of Amazon's devices division.",
+      "url": "https://www.cnbc.com/2025/09/30/ring-founder-ai-amazon-doorbell-police.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104867949-Ring.jpg?v=1529476889&w=1920&h=1080",
+      "publishedAt": "2025-09-30T14:28:20Z",
+      "content": "In 2023, Jamie Siminoff called up Amazon's former devices boss, Dave Limp, to say he was stepping down from leading the video doorbell company he sold to the e-commerce giant for $839 million in 2018… [+4936 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "There’s some new Ring devices on the block",
+      "description": "Amazon just announced some new Ring hardware at its 2025 fall event. The Ring Wired Doorbell and Indoor Cam Plus both feature 2K resolution featuring something called Ring Retinal Vision. There’s also the Ring Wired Doorbell Pro 4K. It’s nice to see some new …",
+      "url": "https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-30-at-10.14.36%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C5.9169394773853%2C100%2C88.166121045229&w=1200",
+      "publishedAt": "2025-09-30T14:17:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon announced the device during its fall hardware event.\r\nAmazon announced the device during its fall hardware event.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\n… [+2014 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "CommanderAI says it's building the Salesforce for the waste management industry | TechCrunch",
+      "description": "CommanderAI built an AI-driven CRM and sales prospecting platform that continues the nuances of the waste management industry.",
+      "url": "https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/IMG_2534.jpg?resize=1200,1056",
+      "publishedAt": "2025-09-30T14:04:41Z",
+      "content": "David Berg learned a lot about the waste management industry by driving a garbage truck around the country as the first employee at Ohio-based Brattle Motors. \r\nHe discovered that despite the sheer n… [+3562 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Composite gets backing from NFDG for its cross-browser agent tool | TechCrunch",
+      "description": "The central pitch of AI browsers like Perplexity's Comet, Opera's Neon, and The Browser Company's Dia is that they'll help you complete daily tasks more",
+      "url": "https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/co-founders-Charlie-Deane-Yang-Fan-Yun.jpeg?resize=1200,801",
+      "publishedAt": "2025-09-30T14:03:38Z",
+      "content": "The central pitch of AI browsers like Perplexity’s Comet, Opera’s Neon, and The Browser Company’s Dia is that they’ll help you complete daily tasks more efficiently. While these are agents that are l… [+3966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Beats just gave an old favorite a huge makeover - and a new Powerbeats name",
+      "description": "The new Powerbeats Fit pack Spatial Audio, Apple's H1 chip, and more for $200.",
+      "url": "https://www.zdnet.com/article/beats-just-gave-an-old-favorite-a-huge-makeover-and-a-new-powerbeats-name/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/163f0771b9de641dcd86388bdbaddd631ddc1f3a/2025/09/29/9d7427f4-26a3-4357-8f61-79e2cae2b263/beats-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T14:00:33Z",
+      "content": "Beats/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Beats rebrands the Beats Fit Pro to the Powerbeats Fit.</li><li>A redesigned in-ear fit and improved… [+2865 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3",
+      "description": "We’re offering exclusive bundle deals for founders and investors attending TechCrunch Disrupt 2025. Bring a group of 4 or more and save up to 20%. This offer ends Friday, October 3, at 11:59 p.m. PT.",
+      "url": "https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
+      "publishedAt": "2025-09-30T14:00:00Z",
+      "content": "The clock is ticking to get up to a 20% discount on group tickets! Bring your founder or investor community together and save.\r\nWere offering exclusive bundle deals for founders and investors attendi… [+2190 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Adobe’s video editing app Premiere arrives on iPhones",
+      "description": "Adobe's Premiere app is available on mobile devices, offering a variety of editing features, including some that are AI-powered.",
+      "url": "https://techcrunch.com/2025/09/30/adobes-video-editing-app-premiere-arrives-on-iphones/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/PremiereoniPhoneRelease.jpeg?resize=1200,526",
+      "publishedAt": "2025-09-30T13:47:55Z",
+      "content": "Adobe’s popular video editing app Premiere is available on iPhone starting today, following the company’s announcement of its plans to release the app on mobile earlier this month. The Android versio… [+1956 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "Google's Latest AI Ransomware Defense Only Goes So Far",
+      "description": "Google has launched a new AI-based protection in Drive for desktop that can shut down an attack before it spreads—but its benefits have their limits.",
+      "url": "https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/",
+      "urlToImage": "https://media.wired.com/photos/68db208eb4febbc1bdfd7e0f/191:100/w_1280,c_limit/google-drive-warning-1235737456.jpg",
+      "publishedAt": "2025-09-30T13:44:52Z",
+      "content": "Ransomware attacks have loomed for years as an urgent digital threat with no easy solutionespecially as they have evolved to include data grab-and-leak attacks that may not even involve data-encrypti… [+2900 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1144,162 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/RYonfyG8wAqg2EYoUSEkwY-1920-80.jpg",
       "publishedAt": "2025-09-29T16:47:59Z",
       "content": "It looks like Intel is getting ready to launch a new branch of Granite Rapids processors designed to compete directly with AMD’s Ryzen 9000WX series parts based on Zen 5. Resident X poster Momomo_us … [+2560 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Brave updates its AI-powered search with a detailed answers feature",
-      "description": "Brave is debuting a new detailed answer feature for its AI-powered search",
-      "url": "https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Ask-Brave-feat.jpeg?resize=1200,629",
-      "publishedAt": "2025-09-29T16:00:00Z",
-      "content": "Browser maker and Google Search alternative Brave announced on Monday that it’s adding a new feature to its AI-powered search suite, Ask Brave, to provide detailed answers on a topic based on the que… [+2223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Christian de Looper",
-      "title": "Apple AirPods Pro 3 vs. Samsung Galaxy Buds 3 Pro: I compared both, and here's the winner",
-      "description": "It's a battle of device ecosystems - but is one truly better?",
-      "url": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro-i-compared-both-and-heres-the-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3723d81dfb59c4ffc61a2c21021e571a98c29bfc/2025/09/22/a2bbdfbe-b230-41b9-ae86-8777e3b546b6/app3bsgal.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T15:27:00Z",
-      "content": "Christian de Looper/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe first-party advantage is real. \r\nThe most obvious example of why first-party products are worth considering is th… [+6344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Data centers to account for 9% of electricity demand in the U.S by 2035, an increase of 5% — Nuclear power could help sate AI demand",
-      "description": "Major tech firms building gigawatts of power-hungry new AI data centers are investing in small, modular nuclear reactors as a potential solution for on-site, year-round power without the fluctuations in output of renewables, though questions remain over how l…",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers-to-account-for-9-percent-of-electricity-demand-in-the-u-s-by-2035-an-increase-of-5-percent-nuclear-power-could-help-sate-ai-demand",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aiUxmoYyKhNqqt3h97KGCZ-1920-80.jpg",
-      "publishedAt": "2025-09-29T15:25:22Z",
-      "content": "Alongside questions of how the major AI tech firms are going to afford the AI-revolution they're all driving us towards, others remain over how they're going to power it. With 9% of the entire US ele… [+6893 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Alexa Plus is smarter — but it’s not yet smart enough",
-      "description": "This week, Amazon will launch new Echo hardware designed to supercharge Alexa Plus, the AI-powered upgrade to its voice assistant. I've been using Alexa Plus for the last few months as part of its Early Access program, and while the new assistant is off to a …",
-      "url": "https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/8A0A3802-1.jpeg?quality=90&strip=all&crop=0%2C10.725712623618%2C100%2C78.548574752763&w=1200",
-      "publishedAt": "2025-09-29T15:20:19Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAs Amazon prepares to launch new hardware this week, it needs to push Alexa to the next level.\r\nIf you buy something from a Verge link, Vox Media may earn a comm… [+9038 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "OpenAI President teases 10 billion GPU future — says always-working AI future calls for 'every person to have their own dedicated GPU'",
-      "description": "Great, yet another graphics card drought incoming.",
-      "url": "https://www.tomshardware.com/tech-industry/openai-cto-teases-10-billion-gpu-future-says-always-working-ai-future-calls-for-every-person-to-have-their-own-dedicated-gpu",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jaeYdAUL3zpvZxJ35rSr9J-2000-80.jpg",
-      "publishedAt": "2025-09-29T15:12:06Z",
-      "content": "The various recent partnerships involving OpenAI and Nvidia have been discussed at length by the entire internet as well as the stock market. Besides enhancing shareholder value, though, it's hard to… [+2751 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "OpenAI rolls out safety routing system, parental controls on ChatGPT  | TechCrunch",
-      "description": "The new safety features come after numerous incidents of ChatGPT validating users' delusional thinking instead of redirecting harmful conversations -- including the death of a teenage boy by suicide.",
-      "url": "https://techcrunch.com/2025/09/29/openai-rolls-out-safety-routing-system-parental-controls-on-chatgpt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "publishedAt": "2025-09-29T14:52:40Z",
-      "content": "OpenAI began testing a new safety routing system in ChatGPT over the weekend, and on Monday introduced parental controls to the chatbot  drawing mixed reactions from users.\r\nThe safety features come … [+3270 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Mobile RTX 2070 with shunt mod nearly eclipses desktop performance — 60W boost provides 15% performance uplift",
-      "description": "A PC enthusiast reports successfully shunt modding his Nvidia GeForce RTX 2070 Mobile GPU for a ~15% performance uplift.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/mobile-rtx-2070-with-shunt-mod-nearly-eclipses-desktop-performance-60w-boost-provides-15-percent-performance-uplift",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2roBnihuV6TNw4GESGWdFS-1920-80.jpg",
-      "publishedAt": "2025-09-29T14:50:53Z",
-      "content": "A PC enthusiast reports successfully shunt modding his Nvidia GeForce RTX 2070 Mobile GPU for a ~15% performance uplift. An uplift of this scale would bring the RTX 2070 Mobile roughly to performance… [+2472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Fork yeah: Valkey 9 sharpens edge against Redis",
-      "description": "Open source database adds multi-tenant clustering, safer shutdowns, and eyes life beyond caching\nOpen source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.…",
-      "url": "https://www.theregister.com/2025/09/29/valkey_9/",
-      "urlToImage": "https://regmedia.co.uk/2025/05/02/shutterstock_database.jpg",
-      "publishedAt": "2025-09-29T14:32:05Z",
-      "content": "Open source key-value database Valkey is set for its ninth iteration next month, promising improved resource optimization and availability.\r\nValkey was forked from Redis in April last year after the … [+2500 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "OpenAI’s parental controls are out — here’s what you should know",
-      "description": "OpenAI has rolled out some long-awaited parental controls for ChatGPT to all web users, with mobile coming “soon,” according to the company.  The controls, announced last month, allow for reducing or removing certain content — like sexual roleplay and the abi…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "publishedAt": "2025-09-29T14:26:39Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nParents must have their own accounts to access the controls, and teens must opt in.\r\nParents must have their own accounts to access the controls, and teens must … [+6009 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "This new Windows 11 trick uses to AI to tame your chaotic photo library - how to try it now",
-      "description": "The new Auto-Categorization feature in Microsoft Photos will group your photos into predefined categories, like screenshots or receipts.",
-      "url": "https://www.zdnet.com/article/this-new-windows-11-trick-uses-to-ai-to-tame-your-chaotic-photo-library-how-to-try-it-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5562def1a3b893796d87c793868bede135a987da/2025/09/29/77a354d0-3b6c-4c75-9ed0-0f1422a7df85/microsoft-photos-can-categorize-your-images-via-ai-heres-what-youll-need.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T14:24:05Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Photos app will auto-arrange your photos into categories.</li><… [+2752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "This new Windows 11 trick uses AI to tame your chaotic photo library - how to try it now",
-      "description": "The new Auto-Categorization feature in Microsoft Photos will group your photos into predefined categories, like screenshots or receipts.",
-      "url": "https://www.zdnet.com/article/this-new-windows-11-trick-uses-ai-to-tame-your-chaotic-photo-library-how-to-try-it-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5562def1a3b893796d87c793868bede135a987da/2025/09/29/77a354d0-3b6c-4c75-9ed0-0f1422a7df85/microsoft-photos-can-categorize-your-images-via-ai-heres-what-youll-need.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T14:24:00Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Photos app will auto-arrange your photos into categories.</li><… [+2752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "ChatGPT lets parents restrict content and features for teens now - here's how",
-      "description": "You can link your own ChatGPT account to your teen's account to customize what they can or cannot do.",
-      "url": "https://www.zdnet.com/article/chatgpt-lets-parents-restrict-content-and-features-for-teens-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T14:20:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Parents can now manage their teen's ChatGPT account.</li><li>With the controls, par… [+5297 chars]"
     }
   ]
 }
