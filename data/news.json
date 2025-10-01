@@ -1,6 +1,123 @@
 {
-  "fetchedAt": "2025-10-01T16:43:20.105Z",
+  "fetchedAt": "2025-10-01T17:31:53.805Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's latest Sora AI video generator won't create individuals without approval",
+      "description": "OpenAI is launching its most advanced video model yet alongside a new app that lets users generate, remix, and appear in AI-created clips.",
+      "url": "https://www.cnbc.com/2025/09/30/openai-sora-ai-video-generator-us-canada.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204531-1758900517654-gettyimages-2236730228-STARGATE_DATA_CENTER.jpeg?v=1758900553&w=1920&h=1080",
+      "publishedAt": "2025-09-30T17:17:15Z",
+      "content": "OpenAI is debuting what it bills as its most advanced video generation model yet, alongside a new iOS app designed to bring artificial intelligence-powered video creation to everyday users.\r\nThe Sora… [+1775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "4 better ways to protect your business than dreaded (and useless) anti-phishing training",
+      "description": "In fact, the longer a security training campaign continues, the more likely that employees will fail the test. Here's what to do instead.",
+      "url": "https://www.zdnet.com/article/4-better-ways-to-protect-your-business-than-dreaded-and-useless-anti-phishing-training/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a4e32d76b37c65ec7fd06b9cf62403417f6e1750/2025/09/30/bea29130-a41f-4135-af12-5b3fd987b97a/redenvelopehook5gettyimages-1297296675.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T17:14:41Z",
+      "content": "Just_Super/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Current anti-phishing training programs have little to no i… [+11031 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Microsoft is giving Copilot AI faces you can chat with",
+      "description": "Microsoft is trying to make Copilot more approachable by giving the AI assistant an animated face to talk with. The experimental “Portraits” feature in Copilot Labs is currently available in the US, UK, and Canada, and provides 40 stylized human avatars that …",
+      "url": "https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Microsoft-Copilot-Portraits-experiment.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-30T17:12:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCopilot Portraits provides 40 stylized human avatars that make expressions during voice conversations.\r\nCopilot Portraits provides 40 stylized human avatars that… [+3317 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure",
+      "description": "Beats has announced a new version of the Fit Pro wireless earbuds that launched in late 2021, which are now called the Powerbeats Fit. The most notable upgrade is a redesigned wing tip that Beats says is 20 percent more flexible, improving comfort while also …",
+      "url": "https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/beats1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "publishedAt": "2025-09-30T17:10:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Powerbeats Fit earbuds have a smaller charging case while maintaining up to 30 hours of battery life.\r\nThe new Powerbeats Fit earbuds have a smaller char… [+3801 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI’s new social video app will let you deepfake your friends",
+      "description": "OpenAI has a new version of its Sora AI video generator, and it’s being launched alongside a new social video app, also called Sora, on iOS. The app, currently invite-only, resembles TikTok. But instead of encouraging people to stitch together duets, it asks …",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/sora2_anime.jpg?quality=90&strip=all&crop=0%2C3.3643591235214%2C100%2C93.271281752957&w=1200",
+      "publishedAt": "2025-09-30T17:06:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe app is called Sora, and its available on iOS.\r\nThe app is called Sora, and its available on iOS.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author… [+2690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "I traveled with the Sony XM6 headphones for a week - and can't go back",
+      "description": "The Sony WH-1000XM6 are staying in my backpack for the next few trips, at least.",
+      "url": "https://www.zdnet.com/article/i-traveled-with-the-sony-xm6-headphones-for-a-week-and-cant-go-back/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7d3876b68795797c97c4e7402a25498a3f1b3d8f/2025/05/12/b7ebd7b5-95f4-4291-83d3-35ba62b1aad4/xm6-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T17:06:27Z",
+      "content": "Jada Jones/ZDNET\r\nZDNET's key takeaways\r\n<ul><li>The Sony WH-1000XM6 headphones offer even better sound and ANC performance.</li><li>They have the best travel case for headphones in 2025.</li><li>I l… [+5522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "AMD Fluid Motion Frames 3 spotted in the upcoming AMD Adrenalin 25.20 driver branch — could lean on AI model used in FSR 4",
+      "description": "Data mining has revealed that AMD is working on a third iteration of Fluid Motion Frames, according to developer notes discovered in the preview version of Adrenalin driver 25.20. AFMF 3 will likely incorporate the same ML model used in FSR 4.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amd-fluid-motion-frames-3-spotted-in-the-upcoming-amd-adrenalin-25-20-driver-branch-could-lean-on-ai-model-used-in-fsr-4",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nxmkqQvwfHaEYwYnZqTg5P-1920-80.jpg",
+      "publishedAt": "2025-09-30T17:02:40Z",
+      "content": "AMD is quietly working on a new version of Fluid Motion Frames, just a year after AFMF 2 was released. Two Guru3D forum posters discovered developer notes in the upcoming AMD Adrenalin 25.20 driver b… [+2852 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "AI note-taking app Granola adds a repeatable prompts feature",
+      "description": "Granola is launching a way for users to repeatedly use prompts via a new feature called Recipes.",
+      "url": "https://techcrunch.com/2025/09/30/ai-note-taking-app-granola-adds-a-repeatable-prompts-feature/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Granola-Recepies.jpg?resize=1200,675",
+      "publishedAt": "2025-09-30T16:45:56Z",
+      "content": "Chatbot platforms like ChatGPT and Poe have allowed users to create repeated prompts in the form of GPTs and apps. Lately, browsers like Dia and Opera Neon have added a way for people to get repeated… [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple’s M5 iPad Pro might have leaked in Russia",
+      "description": "A Russian YouTuber just posted a video unboxing what appears to be an unannounced iPad Pro with an M5 chip. Rumors have indicated that Apple would launch an M5 iPad Pro as early as October, and this video could be our first look at the actual product. Externa…",
+      "url": "https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/videoframe_37048.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-09-30T16:44:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe tablet looks largely the same, but benchmarks show it could offer performance improvements over the M4 model.\r\nThe tablet looks largely the same, but benchma… [+3154 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -735,12 +852,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
-      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
-      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
+      "title": "AI data center boom has to contend with realities of tough labor market",
+      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
+      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
+      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
     },
     {
       "source": {
@@ -748,12 +865,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "AI data center boom has to contend with realities of tough labor market",
-      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
-      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
+      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
+      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
+      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
+      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
     },
     {
       "source": {
@@ -1183,123 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-09-29T21:44:02Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen the tool detects potentially malicious activity, youll get a notification and be able to roll back your files.\r\nWhen the tool detects potentially malicious … [+2561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Sean Illing",
-      "title": "Why TikTok is so influential — and why that’s particularly worrisome now",
-      "description": "TikTok is not just the most downloaded app in the world; it’s the most powerful information platform on the planet.  The app is also a political flashpoint. TikTok is owned by ByteDance, a Chinese company under the shadow of Beijing. For years, US lawmakers h…",
-      "url": "https://www.vox.com/podcasts/463206/tiktok-deal-us-china-ellison-murdoch",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2237166724.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-29T21:20:45Z",
-      "content": "Whoever owns the app moving forward will steer policy. | Nikolas Kokovlis/NurPhoto via Getty Images\r\n\n\nTikTok is not just the most downloaded app in the world; it’s the most powerful information plat… [+12438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Your AI conversations are a secret new treasure trove for marketers",
-      "description": "And they may not be seeking proper consent ai-pocalypse  Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been sucking up info…",
-      "url": "https://www.theregister.com/2025/09/29/profound_browser_extension_privacy_concern/",
-      "urlToImage": "https://regmedia.co.uk/2021/03/03/shutterstock_internet_eye.jpg",
-      "publishedAt": "2025-09-29T21:15:12Z",
-      "content": "ai-pocalypse Profound is a startup that promises to help companies understand how they appear in AI responses to customer queries. But one expert in the field thinks the AI analytics startup has been… [+6942 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers",
-      "title": "DeepSeek: Everything you need to know about the AI chatbot app | TechCrunch",
-      "description": "DeepSeek has gone viral. Chinese AI lab DeepSeek broke into the mainstream consciousness this week after its chatbot app rose to the top of the Apple",
-      "url": "https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
-      "publishedAt": "2025-09-29T21:00:16Z",
-      "content": "DeepSeek has gone viral.\r\nChinese AI lab DeepSeek broke into the mainstream consciousness this week after its chatbot app rose to the top of the Apple App Store charts (and Google Play, as well). Dee… [+6737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Walmart CEO: ‘AI is literally going to change every job’—how the best employees can stand out",
-      "description": "Walmart CEO Doug McMillon is the latest notable business leader to talk about how implementing AI tools and agents in the workplace will affect his company.",
-      "url": "https://www.cnbc.com/2025/09/29/walmart-ceo-ai-is-literally-going-to-change-every-job.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107356638-1706718386900-107356638-1704893515399-gettyimages-1920821231-em035527_2024010942706714.jpg?v=1759175391&w=1920&h=1080",
-      "publishedAt": "2025-09-29T20:49:20Z",
-      "content": "Workers in every type of role must be prepared to adapt to the rise of artificial intelligence in the workplace, says Walmart CEO Doug McMillon, leader of the nation's largest private employer.\r\n\"It'… [+4633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "One line of malicious npm code led to massive Postmark email heist",
-      "description": "MCP plus open source plus typosquatting … what could possibly go wrong?\nA fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgo…",
-      "url": "https://www.theregister.com/2025/09/29/postmark_mcp_server_code_hijacked/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/29/shutterstock_2291953491.jpg",
-      "publishedAt": "2025-09-29T20:44:35Z",
-      "content": "A fake npm package posing as Postmark's MCP (Model Context Protocol) server silently stole potentially thousands of emails a day by adding a single line of code that secretly copied outgoing messages… [+4051 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Opera launches its AI browser, but you’ll have to pay to try it",
-      "description": "A limited number of people will get to try out Opera’s AI browser, Neon, starting today for $19.90 per month.  The Norwegian software company first announced the “agentic browser” in May, but details were sparse. Now, we know that Opera Neon includes differen…",
-      "url": "https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/neon_Start_Page_light02.png?quality=90&strip=all&crop=0%2C9.5570619084671%2C100%2C80.885876183066&w=1200",
-      "publishedAt": "2025-09-29T20:43:03Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Norwegian software company Opera rolled out its AI browser, Neon, to some users for $19.90 per month and invited the rest to join the waitlist. \r\nThe Norwegi… [+2042 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Facebook adds fan challenges, custom badges for creators",
-      "description": "These updates show us that Meta wants fans to take Facebook more seriously as a place to engage with creators.",
-      "url": "https://techcrunch.com/2025/09/29/facebook-adds-fan-challenges-custom-badges-for-creators/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Bringing-Fans-and-Creators-Closer-Together_Header.jpg?resize=1200,675",
-      "publishedAt": "2025-09-29T20:34:34Z",
-      "content": "Facebook is rolling out features that aim to bring fans closer to their favorite creators: fan challenges and customized top fan badges.\r\nThe fan challenges feature will allow creators to prompt thei… [+2077 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "AI recruiter Alex raises $17M to automate initial job interviews | TechCrunch",
-      "description": "AI recruiter Alex raises $17M to automate initial job interviews | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Alex.com-Team.jpg?resize=1200,820",
-      "publishedAt": "2025-09-29T20:33:19Z",
-      "content": "Job seekers in all fields can expect to soon be doing a lot more initial screening interviews. While that may sound like positive news, it doesnt mean that there will suddenly be more open positions.… [+2235 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "DeepSeek releases 'sparse attention' model that cuts API costs in half | TechCrunch",
-      "description": "Researchers at DeepSeek released a new experimental model designed to have dramatically lower inference costs when used in long-context operations.",
-      "url": "https://techcrunch.com/2025/09/29/deepseek-releases-sparse-attention-model-that-cuts-api-costs-in-half/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196333417_75e106.jpg?resize=1200,901",
-      "publishedAt": "2025-09-29T20:27:05Z",
-      "content": "Researchers at DeepSeek on Monday released a new experimental model called V3.2-exp, designed to have dramatically lower inference costs when used in long-context operations. DeepSeek announced the m… [+2194 chars]"
     }
   ]
 }
