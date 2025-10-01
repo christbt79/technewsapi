@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-01T09:34:32.947Z",
+  "fetchedAt": "2025-10-01T10:41:32.095Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out",
+      "description": "Anthropic is starting to train its models on new Claude chats. If you’re using the bot and don’t want your chats used as training data, here’s how to opt out.",
+      "url": "https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/",
+      "urlToImage": "https://media.wired.com/photos/68dac79396cae79388087208/191:100/w_1280,c_limit/claude-opt-out-gear-817771952.jpg",
+      "publishedAt": "2025-09-30T10:30:00Z",
+      "content": "Anthropic is prepared to repurpose conversations users have with its Claude chatbot as training data for its large language modelsunless those users opt out.\r\nPreviously, the company did not train it… [+3749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "2026 CNBC Changemakers: Nominate a leader for the third annual list of women transforming business",
+      "description": "CNBC’s third annual Changemakers list is now accepting nominations for women leading and disrupting in business, from the S&P 500 to sports and philanthropy.",
+      "url": "https://www.cnbc.com/2025/09/30/2026-changemakers-list-nominate-leader-women-transforming-business.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130163-1744300984016-NUP_207395_00647.jpg?v=1744301546&w=1920&h=1080",
+      "publishedAt": "2025-09-30T10:06:50Z",
+      "content": "CNBC is now accepting nominations for our third annual Changemakers list.\r\nThe list recognizes women transforming business and philanthropy, female leaders who have accomplished a meaningful achievem… [+2398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "2026 CNBC Changemakers: Why women business leaders on our annual list are more important than ever",
+      "description": "The search for CNBC 2026 Changemakers is underway, and women transforming business are more important than ever with a C-suite gender gap that remains wide.",
+      "url": "https://www.cnbc.com/2025/09/30/changemakers-list-2026-women-leaders-business.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130161-1744300984020-NUP_207394_03487.jpg?v=1744301546&w=1920&h=1080",
+      "publishedAt": "2025-09-30T10:00:01Z",
+      "content": "CNBC is now accepting nominations for the 2026 Changemakers list that features women transforming business and philanthropy, who have accomplished a meaningful achievement in 2025. With a community o… [+4420 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google’s AI Mode image search is getting more conversational",
+      "description": "Google’s latest AI Mode update makes it easier for users to search through images using vague descriptions and references. The update provides a more conversational way to shop for products online, according to Google’s announcement, allowing AI Mode users to…",
+      "url": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AI-Mode-_-Blog-Hero-static.png?quality=90&strip=all&crop=0%2C3.5331803729601%2C100%2C92.93363925408&w=1200",
+      "publishedAt": "2025-09-30T09:56:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers in the US can now shop for products using natural language descriptions and reference images.\r\nUsers in the US can now shop for products using natural lang… [+3073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "The Linux kernel just got some important upgrades - here's what's new in 6.17",
+      "description": "The latest Linux kernel may not be the most exciting release, but it still comes with some notable improvements.",
+      "url": "https://www.zdnet.com/article/the-linux-kernel-just-got-some-important-upgrades-heres-whats-new-in-6-17/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e99c4bc7578673979a310f69af86d96a655fcaf8/2025/09/30/1874cb9d-22b1-4f68-80ed-e767a0e3ca46/gettyimages-521390046.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T09:50:56Z",
+      "content": "Jon Hicks/Stone/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Linux 6.17 features significant CPU improvements.</li><li>It addresses the eternal … [+3957 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c00a43f81a45730f8eed5f9f4d536fe1d4411d01/2025/09/29/77d34507-fcca-4e3c-b25c-33911581e413/gettyimages-1224500457-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-29T10:08:01Z",
       "content": "monsitj/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Codex struggled with big-picture debugging across complex codebases</li><li>Dee… [+12894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "From Elon Musk to Microsoft's Satya Nadella, these tech leaders were once H-1B visa holders",
-      "description": "Since its creation in 1990, the H-1B visa program has been utilized by a number of foreign workers who would rise the ranks into prominent leaders.",
-      "url": "https://www.cnbc.com/2025/09/29/from-tesla-to-microsoft-satya-nadella-tech-firms-leader-once-h-1b-visa-holders.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108147641-1747683798813-gettyimages-2215435782-AFP_47CK4CQ.jpeg?v=1759139909&w=1920&h=1080",
-      "publishedAt": "2025-09-29T09:52:26Z",
-      "content": "President Donald Trump is looking to restrict and overhaul the H-1 B visa program, which has allowed U.S. companies to hire foreign talent in occupations such as IT, healthcare and engineering for de… [+5755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Jaguar Land Rover gets £1.5B government jump-start after cyber breakdown",
-      "description": "Hundreds of thousands of workers in financial despair supported with landmark loan The UK government is stepping in with financial support for Jaguar Land Rover, providing it with a hefty loan as it continues to battle the fallout from a cyberattack.…",
-      "url": "https://www.theregister.com/2025/09/29/jlr_government_loan/",
-      "urlToImage": "https://regmedia.co.uk/2017/01/13/parliament_photo_by_shutterstock.jpg",
-      "publishedAt": "2025-09-29T09:46:14Z",
-      "content": "The UK government is stepping in with financial support for Jaguar Land Rover, providing it with a hefty loan as it continues to battle the fallout from a cyberattack.\r\nA government-backed loan to th… [+6085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "10 open-source apps I always recommend Windows user to try - and they're free",
-      "description": "These free, open-source tools will make your Windows PC more powerful and give you a serious productivity boost.",
-      "url": "https://www.zdnet.com/article/10-open-source-apps-i-always-recommend-windows-user-to-try-and-theyre-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/580a8a799552e0ae77f4ed19c8fa993f40f77403/2025/09/16/7cdea8e8-9687-4b9c-a3db-4702c90bd3c7/10-open-source-apps-i-recommend-every-windows-user-download-for-free.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T09:00:25Z",
-      "content": "LibreOffice / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>If Windows is your OS of choice, consider these open-source apps.</li… [+7493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Liam Proven",
-      "title": "To digital natives, Microsoft's IT stack makes Google's look like a model of sanity",
-      "description": "A millennial does battle with Redmond's enterprise tools and comes away reeling  Comment  Probably the single most common argument against switching to Linux is the absolute non-negotiable requirement of many organizations to have Microsoft Exchange. Here's a…",
-      "url": "https://www.theregister.com/2025/09/29/dont_even_consider_microsoft/",
-      "urlToImage": "https://regmedia.co.uk/2018/01/18/confusedcomputer.jpg",
-      "publishedAt": "2025-09-29T08:43:13Z",
-      "content": "Comment Probably the single most common argument against switching to Linux is the absolute non-negotiable requirement of many organizations to have Microsoft Exchange. Here's a fascinating glimpse o… [+10793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Is this $20 security camera worth it? My verdict after installing outside my home",
-      "description": "The Blink Mini 2 is a feature-rich security camera on sale for $20. Even better: an extra $10 gets you a waterproof adapter.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/is-this-20-security-camera-worth-it-my-verdict-after-installing-outside-my-home/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5263c9b73fd0801d2321edfd90aa634e5c5da6d8/2024/03/13/9bd28cc2-5e0d-4026-9c5a-b6d463a77e0d/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T08:30:28Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're looking for an affordable security camera that can rival the Wyze Cam in functionality and durability, Blink may have the one for you.… [+4300 chars]"
     }
   ]
 }
