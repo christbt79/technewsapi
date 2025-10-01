@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-01T11:27:55.670Z",
+  "fetchedAt": "2025-10-01T11:37:49.912Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "It's Amazon's turn to show off new devices: All eyes on Alexa+, Echo and Kindle",
+      "description": "Amazon CEO Andy Jassy in February teased artificial intelligence upgrades to its devices lineup.",
+      "url": "https://www.cnbc.com/2025/09/30/amazon-devices-alexa-echo-kindle.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107890-17405935162025-02-26t175625z_1468855485_rc2h2davv7ny_rtrmadp_0_amazon-com-alexa.jpeg?v=1747278045&w=1920&h=1080",
+      "publishedAt": "2025-09-30T11:30:01Z",
+      "content": "Amazon is hosting a launch event on Tuesday where it's expected to unveil significant updates to its devices lineup.\r\nThe event is slated to kick off at 10 a.m. ET and will feature announcements from… [+2994 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/t6KFsNiMgaU63SLCBueuWe-1920-80.jpg",
       "publishedAt": "2025-09-29T11:00:29Z",
       "content": "A developer and enthusiast Minecrafter has showcased a project dubbed CraftGPT on GitHub. In an amazing feat of Minecraft Redstone engineering, Sammyuri — famed for building a 1Hz CPU inside the game… [+3106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Danny Palmer",
-      "title": "UK minister suggests government could ditch 'dangerous' Elon Musk's X",
-      "description": "Ed Miliband takes aim at social media overlord for promoting violence and disinformation The UK government should consider the possibility of leaving social media platform X, a high-profile minister has suggested.…",
-      "url": "https://www.theregister.com/2025/09/29/uk_government_x_twiter/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/29/ed_miliband_labour.jpg",
-      "publishedAt": "2025-09-29T11:00:08Z",
-      "content": "The UK government should consider the possibility of leaving social media platform X, a high-profile minister has suggested.\r\nSpeaking at the Labour Party conference, energy minister and former Labou… [+3067 chars]"
     }
   ]
 }
