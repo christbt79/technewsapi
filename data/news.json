@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-01T06:50:08.875Z",
+  "fetchedAt": "2025-10-01T07:30:49.364Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "Microsoft has lost its way",
+      "description": "Microsoft's CEO loves to talk about 'empathy.' But everything that is coming out of Redmond these days is perilously close to turning the company into the Borg.",
+      "url": "https://www.zdnet.com/article/microsoft-has-lost-its-way/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/56f18d80c3d7c84e03b2a0d417066f7a8be6a481/2025/09/29/59877ce6-8848-4f29-a67d-667433c7d1c4/gettyimages-2215448403.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T07:00:46Z",
+      "content": "JASON REDMOND/AFP via Getty Images\r\nSatya Nadella is only the third CEO Microsoft has had in its 50 years of existence, which is mind-blowing when you think about it. \r\nBack in 2017, when he was stil… [+10615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "10+ powerful Alexa commands you're probably not using (but should be)",
+      "description": "Amazon Alexa is already a solid smart assistant, but a few clever tweaks and lesser-known features can take your experience to the next level. Here's how to make the most of it.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/10-powerful-alexa-commands-youre-probably-not-using-but-should-be/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a2d486beded0140f54d1e1bfed3fa3c59d6d7c95/2024/07/30/1ea8e822-4849-4fe9-8a75-2e4ce14cb6f5/3echodot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T07:00:45Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nVirtual assistants will soon be as commonplace as smartphones -- in many parts of the world, they already are. Most smartphone… [+6835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "AI upstart aims to do what mere mortals can't: Make sense of Microsoft licensing",
+      "description": "Thankfully, Onyx's model also knows when to defer to a human for advice Interview  It was inevitable that AI would be deployed to help enterprises navigate the labyrinth that is modern software licensing, given the myriad options available from the tech giant…",
+      "url": "https://www.theregister.com/2025/09/30/onyx_ai_microsoft_licensing/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/29/shutterstock_302612708.jpg",
+      "publishedAt": "2025-09-30T07:00:07Z",
+      "content": "Interview It was inevitable that AI would be deployed to help enterprises navigate the labyrinth that is modern software licensing, given the myriad options available from the tech giants.\r\nChris Bro… [+4019 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "No, AI isn't stealing your tech job - it's just transforming it",
+      "description": "Few roles are at risk of total replacement by AI, but change is still happening fast, and hybrid skill sets are the new norm.",
+      "url": "https://www.zdnet.com/article/no-ai-isnt-stealing-your-tech-job-its-just-transforming-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ce4d409749b09f2e77f8455367847c2d4e67bfe3/2025/09/29/b1a84707-4934-4bb1-ab46-752fefa2fe25/gettyimages-912442758.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T07:00:00Z",
+      "content": "MirageC/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>BCG says AI is moving faster than workforce strategies.</li><li>IT jobs are the most… [+4892 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Paid-Manny-Medina-Co-founder-and-CEO.jpg?resize=1200,1074",
       "publishedAt": "2025-09-29T04:40:00Z",
       "content": "Manny Medina, previously best-known as the founder of sales automation startup Outreach ($4.4 billion valuation), has wowed investors with his young startup, Paid.\r\nPaid just closed an oversubscribed… [+3169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Trump demands Microsoft fire its head of global affairs",
-      "description": "Alleges bias and security problems US President Donald Trump has demanded Microsoft fire its recently appointed head of global affairs Lisa Monaco.…",
-      "url": "https://www.theregister.com/2025/09/29/trump_wants_microsoft_exec_fired/",
-      "urlToImage": "https://regmedia.co.uk/2020/12/16/trump.jpg",
-      "publishedAt": "2025-09-29T03:24:10Z",
-      "content": "US President Donald Trump has demanded Microsoft fire its recently appointed head of global affairs Lisa Monaco.\r\nUsing his personal social network, Trump argued that Monacos time serving the Obama a… [+2464 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China’s stock market has been on a roll — is it a boom or a bubble?",
-      "description": "The mainland CSI 300 index is near its highest level in more than three years.",
-      "url": "https://www.cnbc.com/2025/09/29/china-market-rally-boom-bubble-tech-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108127463-1744026700999-gettyimages-2208383128-AFP_39CU8WD.jpeg?v=1744026720&w=1920&h=1080",
-      "publishedAt": "2025-09-29T03:06:26Z",
-      "content": "China's stock market has seen a sharp rally this year as progress on artificial-intelligence, steps aimed at gaining chip self-sufficiency and Beijing's campaign to rein in price wars fuel investor o… [+3906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Matthew Miller",
-      "title": "I unlocked my iPhone 17 Pro Max camera's hidden potential with this handheld accessory",
-      "description": "Insta360's Flow 2 Pro gimbal delivers more than excellent stabilization - and at this price, it's my top pick for most creators.",
-      "url": "https://www.zdnet.com/article/i-unlocked-my-iphone-17-pro-max-cameras-hidden-potential-with-this-handheld-accessory/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/37d8124ecad5e92d7c8fc08e460f6d1b46124db3/2025/09/24/f6f9ad9d-7a12-4011-a5ee-1721089772b6/insta360-flow-2-pro4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T02:00:26Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nToday's smartphone cameras are so good that you can be a content creator without spending thousands on a dedicated camera. The optical image sta… [+4901 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "The AI services transformation may be harder than VCs think | TechCrunch",
-      "description": "Early warning signs suggest this whole services-industry metamorphosis may be more complicated than VCs anticipate.",
-      "url": "https://techcrunch.com/2025/09/28/the-ai-services-transformation-may-be-harder-than-vcs-think/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/startup-wind-down.jpg?resize=1200,675",
-      "publishedAt": "2025-09-29T01:20:48Z",
-      "content": "Venture capitalists have convinced themselves they’ve found the next big investing edge: using AI to wring software-like margins out of traditionally labor-intensive services businesses. The strategy… [+7125 chars]"
     }
   ]
 }
