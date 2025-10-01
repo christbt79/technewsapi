@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-01T04:39:58.451Z",
+  "fetchedAt": "2025-10-01T05:33:39.663Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Taiwan should only produce half of America’s chips, says U.S. Commerce Secretary Howard Lutnick",
+      "description": "The Trump administration is pushing Taipei to shift investment and chip production to the U.S. so that half of U.S. chip demand is manufactured locally.",
+      "url": "https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193540-1756885982276-gettyimages-2209504202-vcg111560411382.jpeg?v=1756886066&w=1920&h=1080",
+      "publishedAt": "2025-09-30T04:42:29Z",
+      "content": "The Trump administration is pushing Taipei to shift investment and chip production to the U.S. so that half of American demand is manufactured locally, in a move that could have implications for Taiw… [+3568 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/startup-wind-down.jpg?resize=1200,675",
       "publishedAt": "2025-09-29T01:20:48Z",
       "content": "Venture capitalists have convinced themselves they’ve found the next big investing edge: using AI to wring software-like margins out of traditionally labor-intensive services businesses. The strategy… [+7125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Breaking the September market curse",
-      "description": "September has been far from an ideal month for U.S. stocks for the past several years, but this time, though, things seem to be better,",
-      "url": "https://www.cnbc.com/2025/09/29/cnbc-daily-open-breaking-the-september-market-curse-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203074-1758667426196-gettyimages-2236544160-STARGATE_DATA_CENTER.jpeg?v=1758667577&w=1920&h=1080",
-      "publishedAt": "2025-09-29T01:09:38Z",
-      "content": "September has been far from an ideal month for U.S. stocks for the past several years, with the S&amp;P 500 dropping during the month in four of the past five years. \r\nThis time, though, things seem … [+2997 chars]"
     }
   ]
 }
