@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-01T20:33:33.072Z",
+  "fetchedAt": "2025-10-01T21:27:06.069Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Google is blocking AI searches for Trump and dementia",
+      "description": "Google appears to have blocked AI search results for the query “does trump show signs of dementia” as well as other questions about his mental acuity, even though it will show AI results for similar searches about other presidents. When making the search abou…",
+      "url": "https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-09-30T21:17:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAI Mode uncharacteristically pulls up a list of 10 web links instead of a written explanation.\r\nAI Mode uncharacteristically pulls up a list of 10 web links inst… [+3536 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "A breach every month raises doubts about South Korea's digital defenses | TechCrunch",
+      "description": "Known for its blazing fast internet and home to some of the world’s biggest tech giants, South Korea has also faced a string of data breaches and cybersecurity lapses that has struggled to match the pace of its digital ambitions.",
+      "url": "https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/sk-telecom-breach-2211811483.jpg?resize=1200,840",
+      "publishedAt": "2025-09-30T21:12:44Z",
+      "content": "South Korea is world-famous for its blazing-fast internet, near-universal broadband coverage, and as a leader in digital innovation, hosting global tech brands like Hyundai, LG, and Samsung. But this… [+6601 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tina Nguyen",
+      "title": "TikTok, #freedom edition",
+      "description": "Hello and welcome to Regulator. Today is the last day of The Verge's very good subscription sale: $4 for a month and $35 for the year, for full access to the entire site. Don't delay! When we launched Regulator two months ago, the premise was that I'd write a…",
+      "url": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-09-30T21:00:08Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: What happens when Donald Trump faces off with Portland, a city of angry, angry libs.\r\nPlus: What happens when Donald Trump faces off with Portland, a city … [+16670 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions",
+      "description": "The second-generation Ray-Ban Meta smart glasses aren't too different from the first. The biggest change is that they have a better battery life, making them much easier to rely on as a private set of speakers or an eye-level camera for an all-day adventure. …",
+      "url": "https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-30T20:51:37Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas new glasses have twice the battery life, but they still have the tricky issue of being a camera right on your face.\r\nIf you buy something from a Verge link… [+6572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Disney sent cease and desist letter to Character.AI over use of copyrighted characters",
+      "description": "Disney is already involved in an ongoing lawsuit against AI image creator Midjourney.",
+      "url": "https://www.cnbc.com/2025/09/30/disney-cease-and-desist-characterai-copyright.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181871-1754416472812-gettyimages-2213297625-POWELL_FOMC_NYSE.jpeg?v=1754688473&w=1920&h=1080",
+      "publishedAt": "2025-09-30T20:38:13Z",
+      "content": "The Walt Disney Company sent a cease and desist letter to Character.AI last week, warning the artificial intelligence startup to stop using copyrighted characters without authorization, a Disney spok… [+2357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Iain Thomson",
+      "title": "Microsoft moves to the uncanny valley with creepy Copilot avatars that stare at you and say your name",
+      "description": "Yep, we're sure that will win folks over\nMicrosoft is testing talking avatars for Copilot to see if users feel more at ease chatting with a face instead of just a text box. Our US Editor tried them out, only to find the digital stare was more creepy than comf…",
+      "url": "https://www.theregister.com/2025/09/30/microsoft_copilot_avatars/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/30/avatar.jpg",
+      "publishedAt": "2025-09-30T20:37:13Z",
+      "content": "Microsoft is testing talking avatars for Copilot to see if users feel more at ease chatting with a face instead of just a text box. Our US Editor tried them out, only to find the digital stare was mo… [+4324 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130163-1744300984016-NUP_207395_00647.jpg?v=1744301546&w=1920&h=1080",
       "publishedAt": "2025-09-30T10:06:50Z",
       "content": "CNBC is now accepting nominations for our third annual Changemakers list.\r\nThe list recognizes women transforming business and philanthropy, female leaders who have accomplished a meaningful achievem… [+2398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "2026 CNBC Changemakers: Why women business leaders on our annual list are more important than ever",
-      "description": "The search for CNBC 2026 Changemakers is underway, and women transforming business are more important than ever with a C-suite gender gap that remains wide.",
-      "url": "https://www.cnbc.com/2025/09/30/changemakers-list-2026-women-leaders-business.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130161-1744300984020-NUP_207394_03487.jpg?v=1744301546&w=1920&h=1080",
-      "publishedAt": "2025-09-30T10:00:01Z",
-      "content": "CNBC is now accepting nominations for the 2026 Changemakers list that features women transforming business and philanthropy, who have accomplished a meaningful achievement in 2025. With a community o… [+4420 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Google’s AI Mode image search is getting more conversational",
-      "description": "Google’s latest AI Mode update makes it easier for users to search through images using vague descriptions and references. The update provides a more conversational way to shop for products online, according to Google’s announcement, allowing AI Mode users to…",
-      "url": "https://www.theverge.com/news/788180/google-ai-mode-visual-search-shopping-update",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AI-Mode-_-Blog-Hero-static.png?quality=90&strip=all&crop=0%2C3.5331803729601%2C100%2C92.93363925408&w=1200",
-      "publishedAt": "2025-09-30T09:56:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers in the US can now shop for products using natural language descriptions and reference images.\r\nUsers in the US can now shop for products using natural lang… [+3073 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "The Linux kernel just got some important upgrades - here's what's new in 6.17",
-      "description": "The latest Linux kernel may not be the most exciting release, but it still comes with some notable improvements.",
-      "url": "https://www.zdnet.com/article/the-linux-kernel-just-got-some-important-upgrades-heres-whats-new-in-6-17/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e99c4bc7578673979a310f69af86d96a655fcaf8/2025/09/30/1874cb9d-22b1-4f68-80ed-e767a0e3ca46/gettyimages-521390046.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T09:50:56Z",
-      "content": "Jon Hicks/Stone/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Linux 6.17 features significant CPU improvements.</li><li>It addresses the eternal … [+3957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China's DeepSeek launches next-gen AI model. Here's what makes it different",
-      "description": "The Chinese artificial intelligence startup has now released DeepSeek-V3.2-Exp, an experimental version of its current model DeepSeek-V3.1-Terminus.",
-      "url": "https://www.cnbc.com/2025/09/30/whats-new-in-deepseeks-latest-model-deepseek-v3point2-exp.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108102024-1739451742603-gettyimages-2196279912-deepseek-7.jpeg?v=1759175726&w=1920&h=1080",
-      "publishedAt": "2025-09-30T08:43:47Z",
-      "content": "Chinese startup DeepSeek's latest experimental model promises to increase efficiency and improve AI's ability to handle a lot of information at a fraction of the cost, but questions remain over how e… [+4262 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Healthcare lags in Windows 11 upgrades – and lives may depend on it",
-      "description": "Most orgs still on Windows 10, so maybe don't get ill after October 14\nInterview Enterprise plans for the end of Windows 10 should already be well underway, but some sectors are lagging, and there are other potential time bombs for administrators to worry abo…",
-      "url": "https://www.theregister.com/2025/09/30/windows_11_healthcare/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/30/doctor_shutterstock.jpg",
-      "publishedAt": "2025-09-30T08:27:13Z",
-      "content": "Interview Enterprise plans for the end of Windows 10 should already be well underway, but some sectors are lagging, and there are other potential time bombs for administrators to worry about, accordi… [+3282 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Opera launches its AI-centric Neon browser | TechCrunch",
-      "description": "Neon will write code snippets, includes an agent that will do tasks for you, and handles repeatable prompts.",
-      "url": "https://techcrunch.com/2025/09/30/opera-launches-its-ai-centric-neon-browser/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Opera_Neon_Tasks-bar-zoomed-in-1.png?resize=1200,675",
-      "publishedAt": "2025-09-30T08:02:27Z",
-      "content": "Browser maker Opera launched its AI-centric browser Neon Tuesday, with the ability to create apps through AI prompts and create repeatable prompts through a feature it calls cards. With this Opera jo… [+2566 chars]"
     }
   ]
 }
