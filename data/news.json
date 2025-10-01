@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-01T18:48:32.677Z",
+  "fetchedAt": "2025-10-01T19:24:10.798Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meet the startup testing space-based solar farms that use lasers to send power to Earth",
+      "description": "A California-based startup is launching space-based satellites into orbit that will beam solar energy back to Earth using lasers.",
+      "url": "https://www.cnbc.com/2025/09/30/startup-aetherflux-space-solar-farms.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205829-1759249414868-Ground_Station.png?v=1759249511&w=1920&h=1080",
+      "publishedAt": "2025-09-30T19:06:43Z",
+      "content": "The beaming of solar power from space back down to earth using lasers sounds like science fiction, and was even floated in an Isaac Asimov short story back in the 1940s.\r\nBut that is exactly what a C… [+2750 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science  | TechCrunch",
+      "description": "Periodic Labs has raised from a tech industry's who's who, including Andreessen Horowitz, Nvidia, Elad Gil, Jeff Dean, Eric Schmidt, and Jeff Bezos.",
+      "url": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-642109519.jpg?resize=1200,675",
+      "publishedAt": "2025-09-30T18:59:27Z",
+      "content": "Periodic Labs came out of stealth on Tuesday with a war chest of $300 million as a seed round, backed by a tech industrys whos who: Andreessen Horowitz, DST, Nvidia, Accel, Elad Gil, Jeff Dean, Eric … [+2371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Sunny Grimm",
+      "title": "Meta reportedly buying RISC-V AI GPU firm Rivos — acquisition to bolster dev team and possibly replace Nvidia internally",
+      "description": "Meta is reportedly set to acquire startup Rivos, according to sources close to the matter. The startup specializes in RISC-V based GPUs for AI workloads, a perfect match for Meta's wishlist.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-reportedly-buying-risc-v-ai-gpu-firm-rivos-acquisition-to-bolster-dev-team-and-possibly-replace-nvidia-internally",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x47x5FsPFJquH4HeaxQBHE-1024-80.jpg",
+      "publishedAt": "2025-09-30T18:59:02Z",
+      "content": "Meta is set to acquire RISC-V chip startup Rivos, in an effort to shore up Meta's own internal chip development teams and move past reliance on Nvidia GPU hardware. According to Bloomberg, the deal h… [+2758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Amazon event 2025 live: Reactions to Echo Dot Max, Ring, Fire TV, Kindle Scribe Colorsoft, more",
+      "description": "New Echo devices, Fire TVs, and a color Kindle Scribe. These are only a few of the products Amazon announced at its Devices and Services event today.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-max-ring-fire-tv-kindle-scribe-colorsoft-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3e5a59fbec6d34133de84d8d5e95c689153a5000/2025/09/30/813b30f7-07a8-4430-a4af-b4c98756119e/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T18:55:00Z",
+      "content": "Panos Panay, Amazon SVP, on stage at the Amazon Devices and Services 2025 event.\r\nNina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon host… [+7029 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -943,12 +995,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
-      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
-      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
+      "title": "AI data center boom has to contend with realities of tough labor market",
+      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
+      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
+      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
     },
     {
       "source": {
@@ -956,12 +1008,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "AI data center boom has to contend with realities of tough labor market",
-      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
-      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
+      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
+      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
+      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
+      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Notion-Capital-Stephanie-Opdam-Stephen-Chandler-and-Jess-Bartos.jpg?resize=1200,800",
       "publishedAt": "2025-09-30T04:01:22Z",
       "content": "The lack of growth capital in Europe is such a persisting issue that some early-stage firms have taken the matter into their own hands. London-headquartered firm Notion Capital is one of them.\r\nIn 20… [+4777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "YouTube coughs up $24.5 million to make Trump 'censorship' case go away",
-      "description": "Alphabet's vid-streamer will fund construction of a ballroom The Donald adores YouTube has agreed to pay $24.5 million to end the case brought by US president Donald Trump, who alleged the vid-streamer had infringed his freedom of speech.…",
-      "url": "https://www.theregister.com/2025/09/30/youtube_trump_settlement/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/30/shutterstock_editorial_only-youtube_us_flag.jpg",
-      "publishedAt": "2025-09-30T02:51:07Z",
-      "content": "YouTube has agreed to pay $24.5 million to end the case brought by US president Donald Trump, who alleged the vid-streamer had infringed his freedom of speech.\r\nThe case stems from the events of Janu… [+2189 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Why I put my Bose QuietComfort headphones away soon after testing this competitor",
-      "description": "On paper, the Bowers & Wilkins Px8 S2 may look eerily similar to the midrange Px7 S3. But the price increase is greatly justified.",
-      "url": "https://www.zdnet.com/article/why-i-put-my-bose-quietcomfort-headphones-away-soon-after-testing-this-competitor/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/10b8d4e067e57f69a48292f9b5bea0f2265ef109/2025/09/23/93bb9644-83ff-44db-9c98-321e59d120e3/px8-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T01:37:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nFew headphones perfectly blend design, sound quality, and everyday utility. Sony's headphones sound great, Bose's headphones have great design q… [+6006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I tried the Apple Watch Ultra 3 for a week to figure out who should upgrade - here's my expert advice",
-      "description": "The Apple Watch Ultra 3 is Apple's most durable and longest-lasting wearable yet - but its upgrades go well beyond just battery life.",
-      "url": "https://www.zdnet.com/article/i-tried-the-apple-watch-ultra-3-for-a-week-to-figure-out-who-should-upgrade-heres-my-expert-advice/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4ee60dd92c8a02fd6892d75cf90a2ac4cc4cd22e/2025/09/15/6fa8ca8a-3ed6-4084-a462-2837881034fc/00aeea36-1226-4a5e-9ea3-a1bf46a82c76-1-105-c.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T01:35:32Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf the new Apple Watch Series 11, Apple's baseline smartwatch, is the girl next door, then Apple's Ultra 3 is the Mt. Kilimanjaro-scaling, rugge… [+6389 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc",
-      "title": "California's Newsom signs law requiring AI safety disclosures",
-      "description": "California Governor Gavin Newsom signed into state law on Monday a requirement that ChatGPT developer OpenAI and other big players disclose how they plan to mitigate potential catastrophic risks from their cutting-edge AI models.",
-      "url": "https://www.cnbc.com/2025/09/29/californias-newsom-signs-law-requiring-ai-safety-disclosures.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203334-17587266382025-09-24t150900z_1271355440_rc2fyga5ujvo_rtrmadp_0_un-assembly-clinton.jpeg?v=1758726659&w=1920&h=1080",
-      "publishedAt": "2025-09-30T00:37:51Z",
-      "content": "California Governor Gavin Newsom signed into state law on Monday a requirement that ChatGPT developer OpenAI and other big players disclose how they plan to mitigate potential catastrophic risks from… [+2768 chars]"
     }
   ]
 }
