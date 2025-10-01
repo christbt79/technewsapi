@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-01T10:41:32.095Z",
+  "fetchedAt": "2025-10-01T11:27:55.670Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Data center boom sends some wholesale electricity prices soaring up to 267% in five years, says report — as global rollout of AI factories continues apace",
+      "description": "People living near many of the new data centers being built as part of the AI boom are finding their power costs rising dramatically, in some cases making it hard to afford day-to-day living.",
+      "url": "https://www.tomshardware.com/tech-industry/data-center-boom-sends-some-wholesale-electricity-prices-soaring-up-to-267-percent-in-five-years-says-report-as-global-rollout-of-ai-factories-continues-apace",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fqyJG7TsP4tAQuL59qpkYm-1920-80.jpg",
+      "publishedAt": "2025-09-30T11:19:43Z",
+      "content": "Residents living near some of the recently constructed data centers designed to power the AI boom (or bubble) are reporting skyrocketing costs for electricity, as the data centers' unprecedented dema… [+3123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia's new CPX GPU aims to change the game in AI inference — how the debut of cheaper and cooler GDDR7 memory could redefine AI inference infrastructure",
+      "description": "Nvidia has introduced Rubin CPX, a specialized GPU designed to accelerate compute-heavy context phase of long-context inference in large AI models, enabling more efficient handling of million-token workloads by offloading this task from 'Big' GPUs with HBM me…",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-new-cpx-gpu-aims-to-change-the-game-in-ai-inference-how-the-debut-of-cheaper-and-cooler-gddr7-memory-could-redefine-ai-inference-infrastructure",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tZrqMuBRmHBucS3EzkZ5C8-2086-80.jpg",
+      "publishedAt": "2025-09-30T11:12:44Z",
+      "content": "Data center GPUs from Nvidia have become the gold standard for AI training and inference due to their high performance, the use of HBM with extreme bandwidth, fast rack-scale interconnects, and a per… [+10511 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Monica Bell",
+      "title": "Get up to $400 off select Samsung Galaxy watches at T-Mobile",
+      "description": "Right now, T-Mobile is offering several Samsung Galaxy watches (including the Watch Ultra and Watch 8) for up to $400 off.",
+      "url": "https://www.zdnet.com/home-and-office/networking/get-up-to-400-off-select-samsung-galaxy-watches-at-t-mobile/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9dbeef71c7f81360ea4215b04513a641d1df72b3/2025/07/23/73dd1820-c9b7-4b31-b0a6-eb06831eb754/img-7748.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T11:00:33Z",
+      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nWe've been fans of Samsung Galaxy smartwatches for a while, but if you're still unconvinced, we found a deal to help tip the… [+3120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
+      "description": "JPMorgan, the world's largest bank by market cap, is being \"fundamentally rewired\" to automate knowledge work across its operations, its data chief says.",
+      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196369-17574424262025-09-09t182512z_1091578687_rc2hoga0qlgg_rtrmadp_0_jpmorgan-new-york.jpeg?v=1757442464&w=1920&h=1080",
+      "publishedAt": "2025-09-30T10:45:01Z",
+      "content": "Jamie Dimon, Chairman and Chief Executive Officer of JPMorgan Chase &amp; Co. speaks during an event honoring local construction workers who helped build the firms new headquarters at 270 Park Avenue… [+9750 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/09/29/ed_miliband_labour.jpg",
       "publishedAt": "2025-09-29T11:00:08Z",
       "content": "The UK government should consider the possibility of leaving social media platform X, a high-profile minister has suggested.\r\nSpeaking at the Labour Party conference, energy minister and former Labou… [+3067 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "How to Use a Password Manager to Share Your Logins After You Die (2025)",
-      "description": "Your logins will live on after you pass on, but password managers allow you to maintain and share your digital legacy.",
-      "url": "https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/",
-      "urlToImage": "https://media.wired.com/photos/68d890b2a211ba82202f40d3/191:100/w_1280,c_limit/How%20to%20Use%20a%20Password%20Manager%20to%20Share%20Your%20Logins%20After%20You%20Die.png",
-      "publishedAt": "2025-09-29T11:00:00Z",
-      "content": "Its not fun to talk about, but theres only one thing certain in life. You need to have a plan for your digital legacy, just like you make a plan for your physical assets; otherwise, your accounts, se… [+3754 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lauren Goode, Zoë Schiffer",
-      "title": "Marissa Mayer Is Dissolving Her Sunshine Startup Lab",
-      "description": "After seven rocky years, the company’s assets will be sold to Dazzle, a new AI firm that Mayer founded.",
-      "url": "https://www.wired.com/story/marissa-mayer-sunshine-startup-shut-down/",
-      "urlToImage": "https://media.wired.com/photos/68d975ecfc3edc8ac3d99e87/191:100/w_1280,c_limit/Marissa-Mayer-Dissolving-Sunshine-Start-Up-Lab-Business-1694171981.jpg",
-      "publishedAt": "2025-09-29T10:30:00Z",
-      "content": "Sunshine, the consumer AI startup founded by former Yahoo CEO Marissa Mayer in 2018, has seen brighter days.\r\nThe small startup is shutting down and its assets are being sold to a new entity incorpor… [+2376 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Steven J. Vaughan-Nichols",
-      "title": "Oh the joy: OpenNvidia may be the AI generation's WinTel",
-      "description": "Duo could dominate in the same way Microsoft and Intel ruled PCs for decades Opinion  The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn't chicken feed, even as more and more tech companies cross the trillion-dollar mark. …",
-      "url": "https://www.theregister.com/2025/09/29/nvidia_openai_alliance_opinion_column/",
-      "urlToImage": "https://regmedia.co.uk/2023/11/28/ai_shutterstock.jpg",
-      "publishedAt": "2025-09-29T10:15:10Z",
-      "content": "Opinion The OpenAI and Nvidia $100 billion partnership sure sounds impressive. $100 billion isn't chicken feed, even as more and more tech companies cross the trillion-dollar mark. But what does it r… [+5295 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "I teamed Deep Research with Codex to solve a major bug - but they couldn't do it without me",
-      "description": "When Codex failed to debug my plugin, Deep Research delivered - with my careful guidance. Here's how combining AI tools can solve problems faster and supercharge developer workflows.",
-      "url": "https://www.zdnet.com/article/i-teamed-deep-research-with-codex-to-solve-a-major-bug-but-they-couldnt-do-it-without-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c00a43f81a45730f8eed5f9f4d536fe1d4411d01/2025/09/29/77d34507-fcca-4e3c-b25c-33911581e413/gettyimages-1224500457-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-29T10:08:01Z",
-      "content": "monsitj/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Codex struggled with big-picture debugging across complex codebases</li><li>Dee… [+12894 chars]"
     }
   ]
 }
