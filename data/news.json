@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-01T19:31:24.017Z",
+  "fetchedAt": "2025-10-01T20:33:33.072Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Umair Irfan",
+      "title": "Your expensive power bill is part of an alarming trend",
+      "description": "Like most Americans this month, your most recent power bill may have given you a shock. Residential electricity rates have risen fast across the US — more than 30 percent on average since 2020 and almost double the rate of inflation in the past year — with no…",
+      "url": "https://www.vox.com/climate/463277/power-bill-expensive-utility-rising-price-trump",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2203483581.jpg?quality=90&strip=all&crop=0%2C12.005100727099%2C100%2C75.989798545802&w=1200",
+      "publishedAt": "2025-09-30T20:18:47Z",
+      "content": "Electricity prices keep inching up, and there’s little reason to think they’ll fall back down anytime soon.\r\n\n\nLike most Americans this month, your most recent power bill may have given you a shock. … [+7234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Google bolts AI into Drive to catch ransomware, but crooks not shaking yet",
+      "description": "Stopping the spread isn't the same as stopping attacks, period Google on Tuesday rolled out a new AI tool in Drive for desktop that it says will pause syncing to limit ransomware damage, but it won't stop attacks outright.…",
+      "url": "https://www.theregister.com/2025/09/30/google_drive_ai_ransomware_detection/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/09/shutterstock_ransomware.jpg",
+      "publishedAt": "2025-09-30T20:10:29Z",
+      "content": "Google on Tuesday rolled out a new AI tool in Drive for desktop that it says will pause syncing to limit ransomware damage, but it won't stop attacks outright.\r\nThe model, which the Chocolate Factory… [+2527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Walmart CEO expects AI will 'change literally every job' - not just engineering",
+      "description": "Workers all over the economy will experience AI-related shifts, Walmart CEO Doug McMillon said.",
+      "url": "https://www.zdnet.com/article/walmart-ceo-expects-ai-will-change-literally-every-job-not-just-engineering/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eb3544894f55313e9ee8a904b8234bfe798f327b/2025/09/30/bf0b9e39-51f9-41ad-97a6-5bfeec050be5/gettyimages-1895045425.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T20:01:00Z",
+      "content": "Anchiy/E+ via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Walmart CEO Doug McMillon said AI will \"change literally every job.\"</li><li>That doe… [+4289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Opera agentic browser Neon starts rolling out to users - how to join the waitlist",
+      "description": "The company details more of its AI browser's features and reveals the subscription pricing.",
+      "url": "https://www.zdnet.com/article/opera-agentic-browser-neon-starts-rolling-out-to-users-how-to-join-the-waitlist/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8e05160e7fa7f2654cec0c406808d98cbbd310af/2025/09/30/f650d12c-a7c2-4d49-bcbd-7c6d14b59f8a/operaneonhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T19:57:43Z",
+      "content": "Opera\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Opera's agentic browser Neon has started shipping to users.</li><li>The AI-enabled browser requires a mont… [+2064 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louryn Strampe",
+      "title": "40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)",
+      "description": "The event is back on October 7, but we've already found good Amazon Prime Day deals on laptops, headphones, and more.",
+      "url": "https://www.wired.com/story/early-prime-day-deals-october-2025-1/",
+      "urlToImage": "https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/191:100/w_1280,c_limit/EARLY%20PRIME%20DAY%20DEALS_A.jpg",
+      "publishedAt": "2025-09-30T19:55:10Z",
+      "content": "Its that time of year again, and Prime Day deals are back. The Amazon Prime Big Deal Days eventalso known as Amazon Prime Day 2is officially arriving on October 7 and 8, but early deals have already … [+6048 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Socket will block it with free malicious package firewall",
+      "description": "\"sfw\" stands for Socket Firewall, but perhaps also \"safe for work.\"\nSoftware security biz Socket has released a free command line tool to defend developers against supply chain attacks.…",
+      "url": "https://www.theregister.com/2025/09/30/socket_will_block_it_with/",
+      "urlToImage": "https://regmedia.co.uk/2021/01/28/socks_fire_shutterstock.jpg",
+      "publishedAt": "2025-09-30T19:46:14Z",
+      "content": "Software security biz Socket has released a free command line tool to defend developers against supply chain attacks.\r\nSocket Firewall Free builds upon the company's safe npm tool by extending scanni… [+3872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I went hands-on with Amazon's newest Kindle models, and they've never felt so premium",
+      "description": "The two new hybrid note-taker and e-reader devices are made to mimic writing on paper. But you'll have to pay to play.",
+      "url": "https://www.zdnet.com/article/i-went-hands-on-with-amazons-newest-kindle-models-and-theyve-never-felt-so-premium/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5daa352eea6a1e2401659a55734d596b3a3018f4/2025/09/30/51aa2e19-8e00-47a2-8e29-98b6851e4d46/dsc07885.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T19:43:49Z",
+      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon unveiled a new Kindle Scribe and Kindle Scribe Colorsoft.</li><li>The e-readers are th… [+3236 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Opera_Neon_Tasks-bar-zoomed-in-1.png?resize=1200,675",
       "publishedAt": "2025-09-30T08:02:27Z",
       "content": "Browser maker Opera launched its AI-centric browser Neon Tuesday, with the ability to create apps through AI prompts and create repeatable prompts through a feature it calls cards. With this Opera jo… [+2566 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Vala Afshar",
-      "title": "AI agents are transforming the healthcare and life sciences industry",
-      "description": "Research shows 96% of life sciences leaders believe AI agents will be 'essential' within the next two years.",
-      "url": "https://www.zdnet.com/article/ai-agents-are-transforming-the-healthcare-and-life-sciences-industry/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d311c235d90d33ecf4ddee3fe28c76a7fb954fc8/2025/09/29/cbb6e75e-7710-4bce-8768-7eec2bfa0c1d/gettyimages-2164305472-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T08:00:31Z",
-      "content": "Just_Super/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Life sciences leaders say AI agents will be \"essential\" within two years.</l… [+6789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Microsoft has lost its way",
-      "description": "Microsoft's CEO loves to talk about 'empathy.' But everything that is coming out of Redmond these days is perilously close to turning the company into the Borg.",
-      "url": "https://www.zdnet.com/article/microsoft-has-lost-its-way/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/56f18d80c3d7c84e03b2a0d417066f7a8be6a481/2025/09/29/59877ce6-8848-4f29-a67d-667433c7d1c4/gettyimages-2215448403.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T07:00:46Z",
-      "content": "JASON REDMOND/AFP via Getty Images\r\nSatya Nadella is only the third CEO Microsoft has had in its 50 years of existence, which is mind-blowing when you think about it. \r\nBack in 2017, when he was stil… [+10615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "10+ powerful Alexa commands you're probably not using (but should be)",
-      "description": "Amazon Alexa is already a solid smart assistant, but a few clever tweaks and lesser-known features can take your experience to the next level. Here's how to make the most of it.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/10-powerful-alexa-commands-youre-probably-not-using-but-should-be/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a2d486beded0140f54d1e1bfed3fa3c59d6d7c95/2024/07/30/1ea8e822-4849-4fe9-8a75-2e4ce14cb6f5/3echodot.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T07:00:45Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nVirtual assistants will soon be as commonplace as smartphones -- in many parts of the world, they already are. Most smartphone… [+6835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "AI upstart aims to do what mere mortals can't: Make sense of Microsoft licensing",
-      "description": "Thankfully, Onyx's model also knows when to defer to a human for advice Interview  It was inevitable that AI would be deployed to help enterprises navigate the labyrinth that is modern software licensing, given the myriad options available from the tech giant…",
-      "url": "https://www.theregister.com/2025/09/30/onyx_ai_microsoft_licensing/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/29/shutterstock_302612708.jpg",
-      "publishedAt": "2025-09-30T07:00:07Z",
-      "content": "Interview It was inevitable that AI would be deployed to help enterprises navigate the labyrinth that is modern software licensing, given the myriad options available from the tech giants.\r\nChris Bro… [+4019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "No, AI isn't stealing your tech job - it's just transforming it",
-      "description": "Few roles are at risk of total replacement by AI, but change is still happening fast, and hybrid skill sets are the new norm.",
-      "url": "https://www.zdnet.com/article/no-ai-isnt-stealing-your-tech-job-its-just-transforming-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ce4d409749b09f2e77f8455367847c2d4e67bfe3/2025/09/29/b1a84707-4934-4bb1-ab46-752fefa2fe25/gettyimages-912442758.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T07:00:00Z",
-      "content": "MirageC/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>BCG says AI is moving faster than workforce strategies.</li><li>IT jobs are the most… [+4892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Taiwan should only produce half of America’s chips, says U.S. Commerce Secretary Howard Lutnick",
-      "description": "The Trump administration is pushing Taipei to shift investment and chip production to the U.S. so that half of U.S. chip demand is manufactured locally.",
-      "url": "https://www.cnbc.com/2025/09/30/taiwan-should-only-produce-half-of-americas-chips-says-us-commerce-chief.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193540-1756885982276-gettyimages-2209504202-vcg111560411382.jpeg?v=1756886066&w=1920&h=1080",
-      "publishedAt": "2025-09-30T04:42:29Z",
-      "content": "The Trump administration is pushing Taipei to shift investment and chip production to the U.S. so that half of American demand is manufactured locally, in a move that could have implications for Taiw… [+3568 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anna Heim",
-      "title": "Notion Capital raises $130M growth fund to tackle Europe's follow-on gap | TechCrunch",
-      "description": "Notion Capital raises $130M growth fund to tackle Europe's follow-on gap | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Notion-Capital-Stephanie-Opdam-Stephen-Chandler-and-Jess-Bartos.jpg?resize=1200,800",
-      "publishedAt": "2025-09-30T04:01:22Z",
-      "content": "The lack of growth capital in Europe is such a persisting issue that some early-stage firms have taken the matter into their own hands. London-headquartered firm Notion Capital is one of them.\r\nIn 20… [+4777 chars]"
     }
   ]
 }
