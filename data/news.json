@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-01T17:31:53.805Z",
+  "fetchedAt": "2025-10-01T18:48:32.677Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "IBM killing mainframe coding kit for PCs this year",
+      "description": "Linux-based System z emulator will go away on Dec. 31, replaced by cloud-based solution from ISVs\nIBM is killing off a mainframe coding toolkit for PCs and withdrawing all support, directing developers to instead use a cloud-hosted environment for dev and tes…",
+      "url": "https://www.theregister.com/2025/09/30/ibm_system_z_dead/",
+      "urlToImage": "https://regmedia.co.uk/2022/04/28/shutterstock_powerswitch.jpg",
+      "publishedAt": "2025-09-30T18:46:06Z",
+      "content": "IBM is killing off a mainframe coding toolkit for PCs and withdrawing all support, directing developers to instead use a cloud-hosted environment for dev and test purposes.\r\nIn a notice issued on Sep… [+3389 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "OpenAI is launching the Sora app, its own TikTok competitor, alongside the Sora 2 model | TechCrunch",
+      "description": "The social app Sora will let users generate videos of themselves and their friends, which they can share in a TikTok-like feed.",
+      "url": "https://techcrunch.com/2025/09/30/openai-is-launching-the-sora-app-its-own-tiktok-competitor-alongside-the-sora-2-model/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
+      "publishedAt": "2025-09-30T18:33:55Z",
+      "content": "On Tuesday, OpenAI announced the release of Sora 2, an audio and video generator to succeed last year’s Sora. Along with the model, the company also launched a linked social app called Sora, where us… [+3525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "43% of workers say they've shared sensitive info with AI - including financial and client data",
+      "description": "AI use is surging, but cybersecurity training isn't keeping up, a new study finds.",
+      "url": "https://www.zdnet.com/article/43-of-workers-say-theyve-shared-sensitive-info-with-ai-including-financial-and-client-data/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8d887f419e03b6c4966e43dbfbd15fb107416364/2025/09/30/0a131b47-fe34-4238-b5eb-2cad8faa502d/gettyimages-1580778399.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T18:29:38Z",
+      "content": "Malorny/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Many people are using AI without any kind of safety training.</li><li>Generative… [+4451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Danny Palmer",
+      "title": "Blood-red bot stalks the burbs armed with . . . groceries",
+      "description": "DashCam's autonomous vehicle may strike fear into the hearts... of delivery drivers Rise of the machines  Machines may soon be taking over the mean streets of suburban America . . . in the form of Dot by DoorDash. However, it'll be groceries and take-outs tha…",
+      "url": "https://www.theregister.com/2025/09/30/bloodred_bot_stalks_the_streets/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/30/doordash1.jpg",
+      "publishedAt": "2025-09-30T18:20:14Z",
+      "content": "Rise of the machines Machines may soon be taking over the mean streets of suburban America . . . in the form of Dot by DoorDash. However, it'll be groceries and take-outs that it delivers rather than… [+2891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "California lawmakers pretend to regulate AI, create a pile of paperwork",
+      "description": "LLM makers have to file a steady stream of reports in the name of transparency\nA year after vetoing a tougher bill, California Gov Gavin Newsom has signed the nation's first AI transparency law, forcing big model developers to publish frameworks and file inci…",
+      "url": "https://www.theregister.com/2025/09/30/california_governor_signs_ai_safety_law/",
+      "urlToImage": "https://regmedia.co.uk/2024/09/30/shutterstock_2150217193.jpg",
+      "publishedAt": "2025-09-30T18:07:41Z",
+      "content": "A year after vetoing a tougher bill, California Gov Gavin Newsom has signed the nation's first AI transparency law, forcing big model developers to publish frameworks and file incident reports, but c… [+6331 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "AI hires or human hustle? The next frontier of startup ops at Disrupt 2025 | TechCrunch",
+      "description": "Leaders from Artisan, Lattice, and Firecrawl will be digging into the new wave of startups at TechCrunch Disrupt on October 27-29 in SF. Register here.",
+      "url": "https://techcrunch.com/2025/09/30/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/TC25_Jack-Peffer-Franklin-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-09-30T18:03:36Z",
+      "content": "What happens when your first 10 hires arent people at all? At TechCrunch Disrupt 2025, happening October 2729 at San Francisco’s Moscone West, were digging into the new wave of startups replacing or … [+1560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "DeepSeek’s new AI model debuts with support for Huawei's AI chips and CANN, a replacement for Nvidia's CUDA — Chinese chipmakers Huawei, Cambricon, and Hygon get first-class support",
+      "description": "Chinese AI firm DeepSeek has released its latest large language model, DeepSeek-V3.2-Exp, with first-day optimizations for Huawei’s Ascend hardware and CANN software stack.",
+      "url": "https://www.tomshardware.com/tech-industry/deepseek-new-model-supports-huawei-cann",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/spvSb9eL7GUphA3i7HDqe5-2000-80.jpg",
+      "publishedAt": "2025-09-30T17:50:29Z",
+      "content": "Chinese AI firm DeepSeek has released\r\n its latest large language model, DeepSeek-V3.2-Exp, with first-day optimizations for Huawei’s Ascend hardware and CANN software stack. The launch marks a shift… [+3065 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -852,12 +943,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "AI data center boom has to contend with realities of tough labor market",
-      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
-      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
+      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
+      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
+      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
+      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
     },
     {
       "source": {
@@ -865,12 +956,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
-      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
-      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
+      "title": "AI data center boom has to contend with realities of tough labor market",
+      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
+      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
+      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
     },
     {
       "source": {
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203334-17587266382025-09-24t150900z_1271355440_rc2fyga5ujvo_rtrmadp_0_un-assembly-clinton.jpeg?v=1758726659&w=1920&h=1080",
       "publishedAt": "2025-09-30T00:37:51Z",
       "content": "California Governor Gavin Newsom signed into state law on Monday a requirement that ChatGPT developer OpenAI and other big players disclose how they plan to mitigate potential catastrophic risks from… [+2768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Whitebridge AI created false and alarming reputation reports, complaint alleges",
-      "description": "Privacy group Noyb wants Lithuania to throw the GDPR book at 'em Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling \"reputation reports\" based on unlawfully collected data and AI misinformation.…",
-      "url": "https://www.theregister.com/2025/09/29/whitebridge_ai_reputation_reports_complaint/",
-      "urlToImage": "https://regmedia.co.uk/2018/08/09/shutterstock_privacy_tablet.jpg",
-      "publishedAt": "2025-09-29T23:22:23Z",
-      "content": "Whitebridge AI, based in Lithuania, faces a privacy complaint for allegedly selling \"reputation reports\" based on unlawfully collected data and AI misinformation.\r\nNoyb, a privacy advocacy group base… [+2553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jim Cramer explains why he thinks the AI boom is different than the dotcom bubble",
-      "description": "CNBC's Jim Cramer on Monday pushed back against the narrative that Wall Street's fervor for artificial intelligence is the same as the dotcom bubble of 2000.",
-      "url": "https://www.cnbc.com/2025/09/29/jim-cramer-explains-why-he-thinks-the-ai-boom-is-different-than-the-dotcom-bubble.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104741396-IMG_8427-jim-cramer.jpg?v=1694213619&w=1920&h=1080",
-      "publishedAt": "2025-09-29T23:10:07Z",
-      "content": "CNBC's Jim Cramer on Monday pushed back against the narrative that Wall Street's fervor for artificial intelligence is the same as the dotcom bubble of 2000, saying there are major differences in ter… [+2552 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "SB 53, the landmark AI transparency bill, is now law in California",
-      "description": "Senate Bill 53, the landmark AI transparency bill that has divided AI companies and made headlines for months, is now officially law in California.  On Monday, California governor Gavin Newsom signed the “Transparency in Frontier Artificial Intelligence Act,”…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25384193/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-29T23:01:43Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe hotly-debated legislation establishes safety reporting requirements for large AI companies.\r\nThe hotly-debated legislation establishes safety reporting requi… [+4740 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Pia Singh",
-      "title": "Stock market today: Live updates",
-      "description": "Wall Street is tracking for solid gains this month, with Tuesday marking the end of an unusually strong September and the close of the third quarter.",
-      "url": "https://www.cnbc.com/2025/09/29/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196952-17575211122025-09-10t161616z_2056288601_rc22pga4nq4r_rtrmadp_0_usa-stocks.jpeg?v=1757610462&w=1920&h=1080",
-      "publishedAt": "2025-09-29T22:11:57Z",
-      "content": "Stock futures are little changed as investors look to close out an unusually strong September by building on Monday's momentum, despite the threat of a potential U.S. government shutdown this week.\r\n… [+3176 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft is bringing its Windows engineering teams back together again",
-      "description": "Windows is coming back together. Microsoft is bringing its key Windows engineering teams under a single organization again, as part of a reorg being announced today. Windows chief Pavan Davuluri, who was just promoted to president of Windows and devices earli…",
-      "url": "https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK109_WINDOWS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-29T22:07:32Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe unified team is meant to support Microsofts work on top priorities like AI.\r\nThe unified team is meant to support Microsofts work on top priorities like AI.\r… [+3926 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "California Governor Newsom signs landmark AI safety bill SB 53 | TechCrunch",
-      "description": "SB 53 requires large AI labs – including OpenAI, Anthropic, Meta, and Google DeepMind – to be transparent about safety protocols. It also ensures whistleblower protections for employees at those companies.",
-      "url": "https://techcrunch.com/2025/09/29/california-governor-newsom-signs-landmark-ai-safety-bill-sb-53/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2159615518.jpg?resize=1200,800",
-      "publishedAt": "2025-09-29T21:59:12Z",
-      "content": "California Gov. Gavin Newsom has signed SB 53, a first-in-the-nation bill that sets new transparency requirements on large AI companies.\r\nSB 53, which passed the state legislature two weeks ago, requ… [+2607 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Google Drive adds AI to detect ransomware before it spreads",
-      "description": "Google Drive for desktop is adding ransomware detection using an AI model trained on “millions of real-world ransomware samples” that will “look for signals that a file has been maliciously modified.” When Google’s AI believes it has detected ransomware activ…",
-      "url": "https://www.theverge.com/news/787815/google-ai-ransomware-drive-detect",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/akrales_220309_4977_0258.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-29T21:44:02Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen the tool detects potentially malicious activity, youll get a notification and be able to roll back your files.\r\nWhen the tool detects potentially malicious … [+2561 chars]"
     }
   ]
 }
