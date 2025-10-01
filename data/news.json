@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-01T03:32:14.763Z",
+  "fetchedAt": "2025-10-01T04:39:58.451Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "Notion Capital raises $130M growth fund to tackle Europe's follow-on gap | TechCrunch",
+      "description": "Notion Capital raises $130M growth fund to tackle Europe's follow-on gap | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/09/29/notion-capital-raises-130m-growth-fund-to-tackle-europes-follow-on-gap/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Notion-Capital-Stephanie-Opdam-Stephen-Chandler-and-Jess-Bartos.jpg?resize=1200,800",
+      "publishedAt": "2025-09-30T04:01:22Z",
+      "content": "The lack of growth capital in Europe is such a persisting issue that some early-stage firms have taken the matter into their own hands. London-headquartered firm Notion Capital is one of them.\r\nIn 20… [+4777 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203074-1758667426196-gettyimages-2236544160-STARGATE_DATA_CENTER.jpeg?v=1758667577&w=1920&h=1080",
       "publishedAt": "2025-09-29T01:09:38Z",
       "content": "September has been far from an ideal month for U.S. stocks for the past several years, with the S&amp;P 500 dropping during the month in four of the past five years. \r\nThis time, though, things seem … [+2997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Datacenter fire takes 647 South Korean government services offline",
-      "description": "PLUS: US court grounds China’s DJI; India requires 2FA for most payments; Great Firewall busters launch VPN; and more! Asia In Brief  Over 600 e-government services operated by South Korea’s government are offline after a datacenter fire disrupted operations.…",
-      "url": "https://www.theregister.com/2025/09/28/asia_tech_news_roundup/",
-      "urlToImage": "https://regmedia.co.uk/2019/02/07/fire_shutterstoclk.jpg",
-      "publishedAt": "2025-09-28T22:59:56Z",
-      "content": "Asia In Brief Over 600 e-government services operated by South Koreas government are offline after a datacenter fire disrupted operations.\r\nThe fire struck on Friday night at a datacenter operated by… [+3869 chars]"
     }
   ]
 }
