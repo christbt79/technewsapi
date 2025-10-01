@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-01T22:32:23.761Z",
+  "fetchedAt": "2025-10-01T23:26:39.949Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Palantir's stock is up 1,700% since its NYSE debut five years ago. Here's how it got there",
+      "description": "Palantir's government business along with developments in artificial intelligence have helped push the company's market value past $430 billion.",
+      "url": "https://www.cnbc.com/2025/09/30/palantir-direct-listing-five-year-anniversary.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106723903-16014854052020-09-30t144311z_747905829_rc229j9rqt2e_rtrmadp_0_palantir-ipo.jpeg?v=1601485443&w=1920&h=1080",
+      "publishedAt": "2025-09-30T23:13:47Z",
+      "content": "People walk by a banner featuring the logo of Palantir Technologies (PLTR) at the New York Stock Exchange (NYSE) on the day of their initial public offering (IPO) in Manhattan, New York City, U.S., S… [+8645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Cameron Peters",
+      "title": "The imminent government shutdown, briefly explained",
+      "description": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: The federal government is hours away from the start of…",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/463322/government-shutdown-funding-trump-schumer-democrats",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2238380720.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "publishedAt": "2025-09-30T22:38:22Z",
+      "content": "Senate Minority Leader Chuck Schumer (D-NY) talks to reporters at the US Capitol on September 30, 2025.﻿ | Chip Somodevilla/Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that … [+2525 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107890-17405935162025-02-26t175625z_1468855485_rc2h2davv7ny_rtrmadp_0_amazon-com-alexa.jpeg?v=1747278045&w=1920&h=1080",
       "publishedAt": "2025-09-30T11:30:01Z",
       "content": "Amazon is hosting a launch event on Tuesday where it's expected to unveil significant updates to its devices lineup.\r\nThe event is slated to kick off at 10 a.m. ET and will feature announcements from… [+2994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Data center boom sends some wholesale electricity prices soaring up to 267% in five years, says report — as global rollout of AI factories continues apace",
-      "description": "People living near many of the new data centers being built as part of the AI boom are finding their power costs rising dramatically, in some cases making it hard to afford day-to-day living.",
-      "url": "https://www.tomshardware.com/tech-industry/data-center-boom-sends-some-wholesale-electricity-prices-soaring-up-to-267-percent-in-five-years-says-report-as-global-rollout-of-ai-factories-continues-apace",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fqyJG7TsP4tAQuL59qpkYm-1920-80.jpg",
-      "publishedAt": "2025-09-30T11:19:43Z",
-      "content": "Residents living near some of the recently constructed data centers designed to power the AI boom (or bubble) are reporting skyrocketing costs for electricity, as the data centers' unprecedented dema… [+3123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia's new CPX GPU aims to change the game in AI inference — how the debut of cheaper and cooler GDDR7 memory could redefine AI inference infrastructure",
-      "description": "Nvidia has introduced Rubin CPX, a specialized GPU designed to accelerate compute-heavy context phase of long-context inference in large AI models, enabling more efficient handling of million-token workloads by offloading this task from 'Big' GPUs with HBM me…",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-new-cpx-gpu-aims-to-change-the-game-in-ai-inference-how-the-debut-of-cheaper-and-cooler-gddr7-memory-could-redefine-ai-inference-infrastructure",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tZrqMuBRmHBucS3EzkZ5C8-2086-80.jpg",
-      "publishedAt": "2025-09-30T11:12:44Z",
-      "content": "Data center GPUs from Nvidia have become the gold standard for AI training and inference due to their high performance, the use of HBM with extreme bandwidth, fast rack-scale interconnects, and a per… [+10511 chars]"
     }
   ]
 }
