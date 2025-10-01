@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-01T21:36:17.311Z",
+  "fetchedAt": "2025-10-01T22:32:23.761Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Fake North Korean IT workers sneaking into healthcare, finance, and AI",
+      "description": "It's not just big tech anymore The North Korean IT worker threat extends well beyond tech companies, with fraudsters interviewing at a \"surprising\" number of healthcare orgs, according to Okta Threat Intelligence.…",
+      "url": "https://www.theregister.com/2025/09/30/north_korean_it_workers_okta/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/30/north_korean_healthcare.jpg",
+      "publishedAt": "2025-09-30T22:20:52Z",
+      "content": "The North Korean IT worker threat extends well beyond tech companies, with fraudsters interviewing at a \"surprising\" number of healthcare orgs, according to Okta Threat Intelligence.\r\nIn research pub… [+4334 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Toyota adds another $1.5B to its bet on startups at every stage | TechCrunch",
+      "description": "Toyota made two announcements that reflect the automaker's growing interest in startups working on mobility, climate, AI, sustainability, and industrial automation.",
+      "url": "https://techcrunch.com/2025/09/30/toyota-adds-another-1-5b-to-its-bet-on-startups-at-every-stage/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/akio-toyoda-AI-CES.jpg?resize=1200,800",
+      "publishedAt": "2025-09-30T22:19:46Z",
+      "content": "Toyota is looking for the next new thing in mobility, climate, AI, and industrial automation. Its answer is $1.5 billion in new capital that will focus on, and invest in, the life cycle of startups f… [+3481 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Meta will soon use your AI chats to personalize your feeds",
+      "description": "Meta will soon use your conversations with its AI assistant to personalize the ads you see on its platforms. The change, which goes into effect on December 16th, means you’ll also start seeing suggested posts, reels, and Facebook groups related to your AI tex…",
+      "url": "https://www.theverge.com/news/789168/meta-ai-chats-personalized-advertising",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-30T22:04:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve linked your accounts, Meta could use your AI chats from one platform to serve you ads on another.\r\nIf youve linked your accounts, Meta could use your AI… [+3407 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI made a TikTok for deepfakes, and it’s getting hard to tell what’s real",
+      "description": "On Monday, I watched OpenAI CEO Sam Altman drink from a gigantic mango-flavored juice box and remark aloud about how the box was half his size. The catch: It wasn't really Altman. The juice box wasn't real. He wasn't really talking. It was a deepfake generate…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DCD_hypno_2.gif?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-30T21:39:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWell see how this goes\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nPlus\r\nFollo… [+8470 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1164,12 +1216,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "AI data center boom has to contend with realities of tough labor market",
-      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
-      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
+      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
+      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
+      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
+      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
     },
     {
       "source": {
@@ -1177,12 +1229,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
-      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
-      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
+      "title": "AI data center boom has to contend with realities of tough labor market",
+      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
+      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
       "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
+      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/tZrqMuBRmHBucS3EzkZ5C8-2086-80.jpg",
       "publishedAt": "2025-09-30T11:12:44Z",
       "content": "Data center GPUs from Nvidia have become the gold standard for AI training and inference due to their high performance, the use of HBM with extreme bandwidth, fast rack-scale interconnects, and a per… [+10511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Monica Bell",
-      "title": "Get up to $400 off select Samsung Galaxy watches at T-Mobile",
-      "description": "Right now, T-Mobile is offering several Samsung Galaxy watches (including the Watch Ultra and Watch 8) for up to $400 off.",
-      "url": "https://www.zdnet.com/home-and-office/networking/get-up-to-400-off-select-samsung-galaxy-watches-at-t-mobile/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9dbeef71c7f81360ea4215b04513a641d1df72b3/2025/07/23/73dd1820-c9b7-4b31-b0a6-eb06831eb754/img-7748.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T11:00:33Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nWe've been fans of Samsung Galaxy smartwatches for a while, but if you're still unconvinced, we found a deal to help tip the… [+3120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Here's JPMorgan Chase's blueprint to become the world’s first fully AI-powered megabank",
-      "description": "JPMorgan, the world's largest bank by market cap, is being \"fundamentally rewired\" to automate knowledge work across its operations, its data chief says.",
-      "url": "https://www.cnbc.com/2025/09/30/jpmorgan-chase-fully-ai-connected-megabank.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196369-17574424262025-09-09t182512z_1091578687_rc2hoga0qlgg_rtrmadp_0_jpmorgan-new-york.jpeg?v=1757442464&w=1920&h=1080",
-      "publishedAt": "2025-09-30T10:45:01Z",
-      "content": "Jamie Dimon, Chairman and Chief Executive Officer of JPMorgan Chase &amp; Co. speaks during an event honoring local construction workers who helped build the firms new headquarters at 270 Park Avenue… [+9750 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers",
-      "title": "Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out",
-      "description": "Anthropic is starting to train its models on new Claude chats. If you’re using the bot and don’t want your chats used as training data, here’s how to opt out.",
-      "url": "https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/",
-      "urlToImage": "https://media.wired.com/photos/68dac79396cae79388087208/191:100/w_1280,c_limit/claude-opt-out-gear-817771952.jpg",
-      "publishedAt": "2025-09-30T10:30:00Z",
-      "content": "Anthropic is prepared to repurpose conversations users have with its Claude chatbot as training data for its large language modelsunless those users opt out.\r\nPreviously, the company did not train it… [+3749 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "2026 CNBC Changemakers: Nominate a leader for the third annual list of women transforming business",
-      "description": "CNBC’s third annual Changemakers list is now accepting nominations for women leading and disrupting in business, from the S&P 500 to sports and philanthropy.",
-      "url": "https://www.cnbc.com/2025/09/30/2026-changemakers-list-nominate-leader-women-transforming-business.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130163-1744300984016-NUP_207395_00647.jpg?v=1744301546&w=1920&h=1080",
-      "publishedAt": "2025-09-30T10:06:50Z",
-      "content": "CNBC is now accepting nominations for our third annual Changemakers list.\r\nThe list recognizes women transforming business and philanthropy, female leaders who have accomplished a meaningful achievem… [+2398 chars]"
     }
   ]
 }
