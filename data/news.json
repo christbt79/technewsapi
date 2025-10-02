@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-02T03:49:01.336Z",
+  "fetchedAt": "2025-10-02T04:37:35.109Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Private equity giant KKR expands Middle East footprint with ADNOC gas pipeline investment",
+      "description": "That ADNOC subsidiary operates 38 gas pipelines and two export terminals in the United Arab Emirates. KKR did not disclose the value of the deal to CNBC.",
+      "url": "https://www.cnbc.com/2025/10/01/kkr-adnoc-middle-east-investment-gas-pipeline-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107125115-1664293906626-gettyimages-1239915327-UAE_ABU_DHABI.jpeg?v=1759250839&w=1920&h=1080",
+      "publishedAt": "2025-10-01T04:11:51Z",
+      "content": "Global private-equity giant KKR has expanded its partnership with the Abu Dhabi National Oil Company, acquiring a minority stake in ADNOC Gas Pipeline Assets.\r\nThat ADNOC subsidiary operates 38 gas p… [+1663 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e0006645aec350d82051faf5c3f0100e64d8a3d5/2025/09/29/3835e6e5-940e-40b6-ae3f-977c2f7aacc2/premiereoniphone-multitrack.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-30T13:00:00Z",
       "content": "Adobe\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Adobe launches the Adobe Premiere app for iPhone.</li><li>Users can edit video content using the flagship… [+4645 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "DoorDash rolls out creator program for short-form videos, adds AI features and dine-in rewards",
-      "description": "People in 20 U.S. cities — including Atlanta, Austin, Miami, and San Francisco — can now apply to become a DoorDash Creator.",
-      "url": "https://techcrunch.com/2025/09/30/doordash-rolls-out-creator-program-for-short-form-videos-adds-new-app-features-and-dine-in-rewards/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-      "publishedAt": "2025-09-30T13:00:00Z",
-      "content": "DoorDash said on Tuesday that it’s launching a creator program that will compensate users for short-form videos posted on its app. The company also introduced “Going Out,” which rewards users for din… [+3192 chars]"
     }
   ]
 }
