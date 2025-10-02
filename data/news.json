@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-02T08:42:55.951Z",
+  "fetchedAt": "2025-10-02T09:31:02.965Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "SA Mathieson",
+      "title": "Explain digital ID or watch it fizzle out, UK PM Starmer told",
+      "description": "Politico avoids the topic at Labour conference speech, homes in on AI instead\nUK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of…",
+      "url": "https://www.theregister.com/2025/10/01/digital_id_labour_conference/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/digital_identity.jpg",
+      "publishedAt": "2025-10-01T09:13:51Z",
+      "content": "UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk… [+2412 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205569-1759230700466-AI_Mode___Blog_Hero_static.png?v=1759230734&w=1920&h=1080",
       "publishedAt": "2025-09-30T13:00:44Z",
       "content": "Google is adding visual results to its artificial intelligence-powered search experience called AI Mode, the company announced on Tuesday.\r\nThe search giant rolled out AI Mode in the U.S. in May, lau… [+1915 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Google's big AI Mode update adds visual search and shopping - how to try it",
-      "description": "Perhaps now you'll give the new Google Search experience a try.",
-      "url": "https://www.zdnet.com/article/googles-big-ai-mode-update-adds-visual-search-and-shopping-how-to-try-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/60da803df7f737526f0408e36be99ba0315b1f7f/2025/09/29/c764726a-90dc-43c8-bfeb-f364abd08f85/ai-mode-blog-hero-static.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T13:00:41Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI Mode will now display more images in the results.</li><li>A new shopping experience also arrives in A… [+2417 chars]"
     }
   ]
 }
