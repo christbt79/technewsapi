@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-02T22:07:52.628Z",
+  "fetchedAt": "2025-10-02T22:34:52.856Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple sidelines lighter Vision Pro to prioritize smart glasses",
+      "description": "Apple is speeding up work on smart glasses that would compete with similar offerings from Meta and halting plans for a lighter Vision Pro headset, Bloomberg reports. The company is apparently working on at least two different versions: a pair without a displa…",
+      "url": "https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/246965_vision_pro_VPavic_0034.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-01T22:22:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company may not release its first pair of smart glasses until 2027, putting it well behind Meta.\r\nThe company may not release its first pair of smart glasses… [+3345 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Amazon says its AI will let NBA fans track brand-new stats",
+      "description": "New analysis of basketball players and games is coming to NBA fans live and online this 2025–2026 season thanks to Amazon Web Services’ AI and some seriously detailed movement tracking. The new stats come as part of the rollout of a new basketball intelligenc…",
+      "url": "https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Amazon-NBA-AI-stats.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-01T22:21:37Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nLets see just how easy that shot is for Steph Curry.\r\nLets see just how easy that shot is for Steph Curry.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts from this … [+3471 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Instagram head says company is not using your microphone to listen to you. (With AI data, it won’t need to.)",
+      "description": "Instagram leader Adam Mosseri says the company is not secretly listening to your conversations. At least, not through the microphone.",
+      "url": "https://techcrunch.com/2025/10/01/instagram-head-says-company-is-not-using-your-microphone-to-listen-to-you-with-ai-data-it-wont-need-to/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/instagram-GettyImages-2150186181.jpg?resize=1200,889",
+      "publishedAt": "2025-10-01T22:19:51Z",
+      "content": "Instagram head Adam Mosseri posted on his account on Wednesday to dispel the myth that the social networking giant is actively “listening” to its users surreptitiously, in order to target them with r… [+3794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stock market today: Live updates",
+      "description": "Major U.S. stock indexes closed in the green on Wednesday on hopes that the funding stoppage would be brief and limit any serious effects on the economy.",
+      "url": "https://www.cnbc.com/2025/10/01/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206502-1759334012356-Traders-OB-Photo-20251001-CC-PRESS-15.jpg?v=1759334321&w=1920&h=1080",
+      "publishedAt": "2025-10-01T22:08:28Z",
+      "content": "Stock futures are little changed Wednesday night after the S&amp;P 500 logged a fresh high and investors appeared to shrug off concerns tied to the latest U.S. government shutdown.\r\nFutures tied to t… [+2932 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -319,12 +371,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -332,12 +384,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -874,19 +926,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -897,6 +936,19 @@
       "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -913,16 +965,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Sarah Perez",
-      "title": "Google updates its Home app with Gemini smarts",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "author": "Emily Mullin",
+      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
+      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
+      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
+      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
     },
     {
       "source": {
@@ -939,16 +991,16 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Emily Mullin",
-      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
-      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
-      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
-      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
+      "author": "Sarah Perez",
+      "title": "Google updates its Home app with Gemini smarts",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205004-1759149160149-gettyimages-2222998350-vcg111577007879.jpeg?v=1759149348&w=1920&h=1080",
       "publishedAt": "2025-10-01T08:28:32Z",
       "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+7855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: The U.S. government shuts down after stocks end September buzzing",
-      "description": "While the U.S. government has been put to sleep at the end of September, investors, hopefully, had their eyes peeled during the month.",
-      "url": "https://www.cnbc.com/2025/10/01/cnbc-daily-open-the-us-government-shuts-down-after-stocks-end-september-buzzing.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205752-1759244566480-Traders-Photo-20250930-KK-PRESS-005.jpg?v=1759244708&w=1920&h=1080",
-      "publishedAt": "2025-10-01T06:40:07Z",
-      "content": "The U.S. government has shut down.\r\nAround 750,000 federal employees including those in the Bureau of Labor Statistics might be furloughed, according to the Congressional Budget Office. If that happe… [+2657 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Private equity giant KKR expands Middle East footprint with ADNOC gas pipeline investment",
-      "description": "That ADNOC subsidiary operates 38 gas pipelines and two export terminals in the United Arab Emirates. KKR did not disclose the value of the deal to CNBC.",
-      "url": "https://www.cnbc.com/2025/10/01/kkr-adnoc-middle-east-investment-gas-pipeline-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107125115-1664293906626-gettyimages-1239915327-UAE_ABU_DHABI.jpeg?v=1759250839&w=1920&h=1080",
-      "publishedAt": "2025-10-01T04:11:51Z",
-      "content": "Global private-equity giant KKR has expanded its partnership with the Abu Dhabi National Oil Company, acquiring a minority stake in ADNOC Gas Pipeline Assets.\r\nThat ADNOC subsidiary operates 38 gas p… [+1663 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "Peloton ushers in a new era with revamped hardware and AI",
-      "description": "Peloton has been angling for a redemption arc ever since its status as a pandemic darling started faltering when the world reopened for business. It tried to steady the ship with a series of layoffs, a pivot to subscriptions, and a leadership shuffle. Now, Pe…",
-      "url": "https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/pelotonbikepluscross.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
-      "publishedAt": "2025-10-01T03:00:01Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new lineup is sort of like if you squished a Peloton Guide into the companys existing hardware and stuck AI in it.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSe… [+9456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "No ROI on your AI? The solution is simpler - and more human - than you think",
-      "description": "A new study identifies the 3 roadblocks to successfully implementing AI in your business.",
-      "url": "https://www.zdnet.com/article/no-roi-on-your-ai-the-solution-is-simpler-and-more-human-than-you-think/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6006748afbbc23d0dd6fe74faa5e4fa9c7efc001/2025/09/30/8036397a-b851-4c5f-9228-20ec5209acd3/gettyimages-2213766173.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T02:00:36Z",
-      "content": "J Studios/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses are embracing AI tools despite a lack of trust.</li><li>Gove… [+5247 chars]"
     }
   ]
 }
