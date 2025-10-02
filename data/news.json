@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-02T09:31:02.965Z",
+  "fetchedAt": "2025-10-02T10:35:58.333Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Judge dismisses Arm's last legal claim against Qualcomm in licensing spat",
+      "description": "Chip designer tells The Reg it plans to appeal Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designer.…",
+      "url": "https://www.theregister.com/2025/10/01/arms_last_legal_claim_against/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_arm_wrestling.jpg",
+      "publishedAt": "2025-10-01T10:20:59Z",
+      "content": "Qualcomm is claiming complete victory over Arm in their licensing spat, after a court in Delaware ruled it has not breached the terms of any architecture license agreement (ALA) with the chip designe… [+3951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
+      "title": "DJI fervently rejects Chinese Military Company designation following court ruling — drone maker says it 'is not controlled by the government and has no ties to the military'",
+      "description": "DJI has rejected a court ruling upholding its designation as a ''Chinese Military Company' by the DoD, and says that certain findings by the court affirm it does not have any military affiliaton.",
+      "url": "https://www.tomshardware.com/tech-industry/dji-fervently-rejects-chinese-military-company-designation-following-court-ruling-drone-maker-says-it-is-not-controlled-by-the-government-and-has-no-ties-to-the-military",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JQqRfYRo6tzoqQ3BJtfxHB-2000-80.jpg",
+      "publishedAt": "2025-10-01T09:51:42Z",
+      "content": "Popular drone maker DJI has issued a fervent rejection of a recent U.S. District Court ruling, which upheld the Department of Defence's (recently rebranded to the Department of War) designation of th… [+3045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Data centers are a gold rush for global real estate — but can funding keep up?",
+      "description": "\"The world of real estate is changing from what I'd call the 'visible' to the 'invisible,'\" said Kishore Moorjani, CEO of CapitaLand Investment's alternatives and private funds team.",
+      "url": "https://www.cnbc.com/2025/10/01/data-centers-hyperscalers-gold-rush-global-real-estate-commerical-real-estate-funding.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203265-1758719646927-gettyimages-2236587647-STARGATE_DATA_CENTER.jpeg?v=1758719688&w=1920&h=1080",
+      "publishedAt": "2025-10-01T09:44:12Z",
+      "content": "For decades, global real estate revolved around what could be seen gleaming office towers, shopping malls, and trophy hotels, but that has increasingly shifted to \"invisible\" property: cloud and data… [+3479 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/07/10/shutterstock_try_again_road_sign.jpg",
       "publishedAt": "2025-09-30T13:01:14Z",
       "content": "Three weeks after releasing one of its biannual platform upgrades, ServiceNow has started delivering an \"AI Experience.\"\r\nThe Register asked why the company chose to vary its usual release cycle, giv… [+2329 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Too many AI tools? This platform manages them all in one place",
-      "description": "ServiceNow's new AI Experience gives workplaces AI agents to manage their many other AI agents.",
-      "url": "https://www.zdnet.com/article/too-many-ai-tools-this-platform-manages-them-all-in-one-place/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3e7da01057d8fd37ad31410d9da53b47c36ca4df/2025/09/30/e219f2e0-d97f-4284-84fc-49f1d71191c6/gettyimages-2231574141.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T13:00:46Z",
-      "content": "J Studios/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI Experience aggregates businesses' AI tools in a single UI.</li><li>T… [+3081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Google releases AI-powered ransomware detection features for cloud files",
-      "description": "Starting today, commercial Google Workspace plans include a new, real-time ransomware detection feature that they claim can help organizations identify attacks, stop their spread, and recover quickly.",
-      "url": "https://www.zdnet.com/article/google-releases-ai-powered-ransomware-detection-utility/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/012535bbf9bbb8ebfb11c93489e9b4e1e1406100/2025/09/30/30f7c9b5-6100-4268-91e2-f7fcdf2f506c/gettyimages-1480870997.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T13:00:45Z",
-      "content": "imaginima/E+/Getty Images\r\nZDNET's key takeaways\r\n<ul><li>Google is adding ransomware detection to its Drive for desktop utility.</li><li>The feature uses AI to detect likely attacks and stop syncing… [+3386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google's AI Mode adds images as search giant tries to keep pace with rivals",
-      "description": "Google's AI Mode launched as a primarily text-based tool that could answer questions using natural language.",
-      "url": "https://www.cnbc.com/2025/09/30/google-ai-mode-images.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205569-1759230700466-AI_Mode___Blog_Hero_static.png?v=1759230734&w=1920&h=1080",
-      "publishedAt": "2025-09-30T13:00:44Z",
-      "content": "Google is adding visual results to its artificial intelligence-powered search experience called AI Mode, the company announced on Tuesday.\r\nThe search giant rolled out AI Mode in the U.S. in May, lau… [+1915 chars]"
     }
   ]
 }
