@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-02T23:08:26.820Z",
+  "fetchedAt": "2025-10-02T23:31:28.912Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them | TechCrunch",
+      "description": "Visa crackdowns are blocking students’ study-abroad dreams, so India’s Leverage Edu is rerouting them | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/01/visa-crackdowns-are-blocking-students-study-abroad-dreams-so-indias-leverage-edu-is-rerouting-them/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/leverage-edu.jpg?resize=1200,800",
+      "publishedAt": "2025-10-01T23:29:29Z",
+      "content": "As visa crackdowns and diplomatic tensions block traditional study-abroad routes, India’s Leverage Edu is helping students reroute their dreams from Canada to Germany, and from India to Nigeria and S… [+5874 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cramer says that Q3 winners may keep inching higher but the biggest gains may 'have already been made'",
+      "description": "Cramer said that the biggest winners of the third quarter may keep inching higher but the biggest gains may have already been realized.",
+      "url": "https://www.cnbc.com/2025/10/01/cramer-says-that-q3-winners-may-keep-inching-higher-but-the-biggest-gains-may-have-already-been-made.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107090852-1658244731556-NUP_198367_00786_copy.jpg?v=1686153061&w=1920&h=1080",
+      "publishedAt": "2025-10-01T23:12:39Z",
+      "content": "VIDEO ID\r\nCNBC's Jim Cramer on Wednesday said that while headlines continue to swirl around the government shutdown, investors should be paying closer attention to the story the market just finished … [+2129 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/digital_identity.jpg",
       "publishedAt": "2025-10-01T09:13:51Z",
       "content": "UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk… [+2412 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "New project makes Wikipedia data more accessible to AI | TechCrunch",
-      "description": "A new database will make Wikipedia's wealth of knowledge more accessible to AI models.",
-      "url": "https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/printed-wikipedia.jpg?w=640",
-      "publishedAt": "2025-10-01T08:32:02Z",
-      "content": "On Wednesday, Wikimedia Deutschland announced a new database that will make Wikipedia’s wealth of knowledge more accessible to AI models.\r\nCalled the Wikidata Embedding Project, the system applies a … [+2844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's The China Connection newsletter: China's K-visa plans spark worries of a talent flood",
-      "description": "Despite signaling a greater openness to global talent, the policy does not represent a sweeping liberalization of China's immigration stance.",
-      "url": "https://www.cnbc.com/2025/10/01/cnbcs-the-china-connection-newsletter-chinas-k-visa-plans-spark-worries-of-a-talent-flood.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205004-1759149160149-gettyimages-2222998350-vcg111577007879.jpeg?v=1759149348&w=1920&h=1080",
-      "publishedAt": "2025-10-01T08:28:32Z",
-      "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+7855 chars]"
     }
   ]
 }
