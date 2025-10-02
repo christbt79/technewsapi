@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-02T07:37:25.914Z",
+  "fetchedAt": "2025-10-02T08:42:55.951Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "New project makes Wikipedia data more accessible to AI | TechCrunch",
+      "description": "A new database will make Wikipedia's wealth of knowledge more accessible to AI models.",
+      "url": "https://techcrunch.com/2025/10/01/new-project-makes-wikipedia-data-more-accessible-to-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/printed-wikipedia.jpg?w=640",
+      "publishedAt": "2025-10-01T08:32:02Z",
+      "content": "On Wednesday, Wikimedia Deutschland announced a new database that will make Wikipedia’s wealth of knowledge more accessible to AI models.\r\nCalled the Wikidata Embedding Project, the system applies a … [+2844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's The China Connection newsletter: China's K-visa plans spark worries of a talent flood",
+      "description": "Despite signaling a greater openness to global talent, the policy does not represent a sweeping liberalization of China's immigration stance.",
+      "url": "https://www.cnbc.com/2025/10/01/cnbcs-the-china-connection-newsletter-chinas-k-visa-plans-spark-worries-of-a-talent-flood.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205004-1759149160149-gettyimages-2222998350-vcg111577007879.jpeg?v=1759149348&w=1920&h=1080",
+      "publishedAt": "2025-10-01T08:28:32Z",
+      "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+7855 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/60da803df7f737526f0408e36be99ba0315b1f7f/2025/09/29/c764726a-90dc-43c8-bfeb-f364abd08f85/ai-mode-blog-hero-static.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-30T13:00:41Z",
       "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI Mode will now display more images in the results.</li><li>A new shopping experience also arrives in A… [+2417 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "How Microsoft Sentinel is tackling the AI cybersecurity era",
-      "description": "AI-powered cybersecurity is getting more agentic. Here's what's new in Sentinel.",
-      "url": "https://www.zdnet.com/article/how-microsoft-sentinel-is-tackling-the-ai-cybersecurity-era/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f2226f25a10edead174fd55cf4896de3977b4e6f/2025/09/30/7c8c8df1-48ca-4905-baf7-4f3400e923e7/gettyimages-1438203847.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T13:00:32Z",
-      "content": "Andriy Onufriyenko/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI has created new cybersecurity threats as well as solutions.</li><l… [+4019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI chip company Cerebras raises $1 billion in pre-IPO funding round",
-      "description": "Cerebras is raising fresh capital to expand manufacturing as it tries to keep up with demand from Meta and other customers.",
-      "url": "https://www.cnbc.com/2025/09/30/ai-chip-company-cerebras-raises-1-billion-in-pre-ipo-funding-round.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205460-1759193863075-Handout_Cerebras_DSC08412.jpg?v=1759209631&w=1920&h=1080",
-      "publishedAt": "2025-09-30T13:00:01Z",
-      "content": "AI chipmaker Cerebras filed to go public exactly a year ago. The company has yet to take the plunge, but has now bought itself more time to stay private.\r\nCerebras said Tuesday that it's raised $1.1 … [+2819 chars]"
     }
   ]
 }
