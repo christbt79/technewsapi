@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-02T10:35:58.333Z",
+  "fetchedAt": "2025-10-02T11:23:32.576Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Peloton revamps equipment, launches commercial unit and raises prices ahead of holidays",
+      "description": "Peloton is revamping its product assortment and raising prices for its subscription and hardware ahead of the holiday shopping season.",
+      "url": "https://www.cnbc.com/2025/10/01/peloton-revamps-equipment-raises-prices-ahead-of-holidays-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139923-1746188612822-gettyimages-2212371010-McGregor250501NYCbusinesses09.jpeg?v=1759258212&w=1920&h=1080",
+      "publishedAt": "2025-10-01T11:00:01Z",
+      "content": "The entrance to the Peloton offices in Midtown Manhattan.\r\nPeloton on Wednesday said it's relaunching its product assortment, introducing a commercial equipment line and raising prices for both subsc… [+6576 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Peloton Is Having Its Biggest Hardware Launch in Years",
+      "description": "The company upgrades its entire hardware line and launches a new AI-powered cross training service.",
+      "url": "https://www.wired.com/story/peloton-iq-lineup-specs-prices/",
+      "urlToImage": "https://media.wired.com/photos/68dc5b92c1c771107f7a6854/191:100/w_1280,c_limit/Cross%20Training%20Bike_1%20Courtesy%20of%20Peloton.png",
+      "publishedAt": "2025-10-01T11:00:00Z",
+      "content": "Do you remember whatever became of your old Peloton bike or tread? The at-home fitness company was one of the most famous casualties of the postpandemic bust. After the company made huge bets on home… [+2343 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
       "publishedAt": "2025-09-30T13:04:18Z",
       "content": "Nvidia rival Cerebras Systems raised a new round of private financing despite its previous plan be trading on the public market by 2025.  \r\nSilicon Valley-based Cerebras announced it raised a $1.1 bi… [+2729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "One-time 'SPAC King' Palihapitiya launches new blank-check vehicle with plan to 'temper' retail fervor",
-      "description": "Palihapitiya launched American Exceptionalism Acquisition Corp. A, a $345 million SPAC that he said was more than five times oversubscribed.",
-      "url": "https://www.cnbc.com/2025/09/30/one-time-spac-king-palihapitiya-launches-new-blank-check-vehicle-with-plan-to-temper-retail-fervor.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106853952-1615818296687-gettyimages-956107316-BUSINESS_OF_EQUALITY.jpeg?v=1759236561&w=1920&h=1080",
-      "publishedAt": "2025-09-30T13:01:26Z",
-      "content": "Chamath Palihapitiya, once dubbed Wall Street's \"SPAC King,\" is back with a new blank-check vehicle and a promise to do better after a bruising track record.\r\nPalihapitiya on Monday launched the Amer… [+2661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "ServiceNow thinks you're doing AI fast and wrong",
-      "description": "And of course thinks it can help you do it right, once it gets around to delivering\nThree weeks after releasing one of its biannual platform upgrades, ServiceNow has started delivering an \"AI Experience.\"…<!--#include virtual='/data_centre/_whitepaper_textlin…",
-      "url": "https://www.theregister.com/2025/09/30/servicenow_agentic_experience_promises/",
-      "urlToImage": "https://regmedia.co.uk/2025/07/10/shutterstock_try_again_road_sign.jpg",
-      "publishedAt": "2025-09-30T13:01:14Z",
-      "content": "Three weeks after releasing one of its biannual platform upgrades, ServiceNow has started delivering an \"AI Experience.\"\r\nThe Register asked why the company chose to vary its usual release cycle, giv… [+2329 chars]"
     }
   ]
 }
