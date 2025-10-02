@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-02T18:43:21.456Z",
+  "fetchedAt": "2025-10-02T19:21:11.626Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Plenty of robot vacuums are already discounted ahead of October Prime Day",
+      "description": "From Apple devices to chargers, we’re already seeing a wave of discounts on some of our favorite gadgets ahead of Amazon’s October Prime Day event. And while there are plenty of great deals across the board, some of the biggest savings so far are on robot vac…",
+      "url": "https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/247088_Roborock_vs_DreameBot_JTuohy_0010.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-01T19:20:41Z",
+      "content": "The Roborock S8 MaxV Ultra is on sale for $999.99, its lowest price to date.\r\n\n\nFrom Apple devices to chargers, we’re already seeing a wave of discounts on some of our favorite gadgets ahead of Amazo… [+8451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "AMD in early talks to make chips at Intel Foundry, report says",
+      "description": "AMD is in early talks to be an Intel Foundry customer, according to reports from Semafor. It's the latest in a line of companies considering an investment in the American fab.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-in-early-talks-to-make-chips-at-intel-foundry-report-says",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8REHgdNxBN9ctuhHnzkd6A-1024-80.jpg",
+      "publishedAt": "2025-10-01T19:16:44Z",
+      "content": "Intel is in the early stages of talks with AMD about making the fabless chip designer an Intel Foundry customer, according to a report from Semafor. \r\nThe report, citing \"people familiar with the mat… [+2098 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Character.AI removes Disney characters after receiving cease-and-desist letter | TechCrunch",
+      "description": "\"Character.ai is freeriding off the goodwill of Disney’s famous marks and brands, and blatantly infringing Disney’s copyrights,\" a Disney lawyer wrote.",
+      "url": "https://techcrunch.com/2025/10/01/character-ai-removes-disney-characters-after-receiving-cease-and-desist-letter/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+      "publishedAt": "2025-10-01T19:16:33Z",
+      "content": "Character.AI received a cease-and-desist letter from Disney, urging the chatbot company to remove Disney characters from among the millions of AI companions on its plaftorm, Variety reports.\r\nCharact… [+1089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "My new favorite Photoshop AI tool lets me combine images in one click - and I can't stop",
+      "description": "Photoshop Harmonize automatically adjusts an object's color, lighting, and shadows to match any background. It's very, very good - and addictive.",
+      "url": "https://www.zdnet.com/article/my-new-favorite-photoshop-ai-tool-lets-me-combine-images-in-one-click-and-i-cant-stop/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8b82515860bf36f6e5973bff6ace7f8324356247/2025/10/01/01d95518-c93f-43a7-9b66-e62a8c07c03c/dodge.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T19:01:00Z",
+      "content": "David Gewirtz / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Photoshop beta introduces powerful AI Harmonize feature.</li><li>Co… [+9398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google cuts more than 100 design-related roles in cloud unit",
+      "description": "The latest layoffs come as Google accelerates cuts to focus spending on artificial intelligence infrastructure.",
+      "url": "https://www.cnbc.com/2025/10/01/google-cloud-unit-layoffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106865514-1617896998844-gettyimages-1135936636-GOOGLE_CLOUD_CONFERENCE.jpeg?v=1759340284&w=1920&h=1080",
+      "publishedAt": "2025-10-01T18:58:20Z",
+      "content": "Google has laid off more than 100 employees in design-related roles, CNBC has learned.\r\nEarlier this week, the company laid off employees within the cloud unit's \"quantitative user experience researc… [+1502 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -85,12 +150,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -98,12 +163,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -640,19 +705,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu, Simon Hill",
-      "title": "Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell",
-      "description": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
-      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
-      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -663,6 +715,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu, Simon Hill",
+      "title": "Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell",
+      "description": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
+      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
+      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
     },
     {
       "source": {
@@ -679,16 +744,16 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Emily Mullin",
-      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
-      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
-      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
-      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
+      "author": "Sarah Perez",
+      "title": "Google updates its Home app with Gemini smarts",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -705,16 +770,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Sarah Perez",
-      "title": "Google updates its Home app with Gemini smarts",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "author": "Emily Mullin",
+      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
+      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
+      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
+      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/akio-toyoda-AI-CES.jpg?resize=1200,800",
       "publishedAt": "2025-09-30T22:19:46Z",
       "content": "Toyota is looking for the next new thing in mobility, climate, AI, and industrial automation. Its answer is $1.5 billion in new capital that will focus on, and invest in, the life cycle of startups f… [+3481 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Meta will soon use your AI chats to personalize your feeds",
-      "description": "Meta will soon use your conversations with its AI assistant to personalize the ads you see on its platforms. The change, which goes into effect on December 16th, means you’ll also start seeing suggested posts, reels, and Facebook groups related to your AI tex…",
-      "url": "https://www.theverge.com/news/789168/meta-ai-chats-personalized-advertising",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T22:04:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youve linked your accounts, Meta could use your AI chats from one platform to serve you ads on another.\r\nIf youve linked your accounts, Meta could use your AI… [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "OpenAI made a TikTok for deepfakes, and it’s getting hard to tell what’s real",
-      "description": "On Monday, I watched OpenAI CEO Sam Altman drink from a gigantic mango-flavored juice box and remark aloud about how the box was half his size. The catch: It wasn't really Altman. The juice box wasn't real. He wasn't really talking. It was a deepfake generate…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/789126/openai-made-a-tiktok-for-deepfakes-and-its-getting-hard-to-tell-whats-real",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/DCD_hypno_2.gif?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T21:39:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWell see how this goes\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nPlus\r\nFollo… [+8470 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Google is blocking AI searches for Trump and dementia",
-      "description": "Google appears to have blocked AI search results for the query “does trump show signs of dementia” as well as other questions about his mental acuity, even though it will show AI results for similar searches about other presidents. When making the search abou…",
-      "url": "https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "publishedAt": "2025-09-30T21:17:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAI Mode uncharacteristically pulls up a list of 10 web links instead of a written explanation.\r\nAI Mode uncharacteristically pulls up a list of 10 web links inst… [+3536 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "A breach every month raises doubts about South Korea's digital defenses | TechCrunch",
-      "description": "Known for its blazing fast internet and home to some of the world’s biggest tech giants, South Korea has also faced a string of data breaches and cybersecurity lapses that has struggled to match the pace of its digital ambitions.",
-      "url": "https://techcrunch.com/2025/09/30/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/sk-telecom-breach-2211811483.jpg?resize=1200,840",
-      "publishedAt": "2025-09-30T21:12:44Z",
-      "content": "South Korea is world-famous for its blazing-fast internet, near-universal broadband coverage, and as a leader in digital innovation, hosting global tech brands like Hyundai, LG, and Samsung. But this… [+6601 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tina Nguyen",
-      "title": "TikTok, #freedom edition",
-      "description": "Hello and welcome to Regulator. Today is the last day of The Verge's very good subscription sale: $4 for a month and $35 for the year, for full access to the entire site. Don't delay! When we launched Regulator two months ago, the premise was that I'd write a…",
-      "url": "https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "publishedAt": "2025-09-30T21:00:08Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: What happens when Donald Trump faces off with Portland, a city of angry, angry libs.\r\nPlus: What happens when Donald Trump faces off with Portland, a city … [+16670 chars]"
     }
   ]
 }
