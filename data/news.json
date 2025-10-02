@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-02T13:17:32.351Z",
+  "fetchedAt": "2025-10-02T13:44:40.822Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Higgins",
+      "title": "Petlibro Scout Smart Camera: Filled With Both Features and Kinks",
+      "description": "The pet-tech company’s new AI pet camera promises peace of mind but delivers bugginess and limited use.",
+      "url": "https://www.wired.com/review/petlibro-scout-smart-camera/",
+      "urlToImage": "https://media.wired.com/photos/68dcaa08f5b10387440a71e2/191:100/w_1280,c_limit/Review-%20Petlibro%20Scout%20Smart%20Camera_.png",
+      "publishedAt": "2025-10-01T13:39:00Z",
+      "content": "All of the footage was crystal-clear in 1080p HD, changing from black-and-white to color vision, depending on visibility, like ambient light from my TV while the room was dark. All of the videos take… [+2008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "OpenAI's Sam Altman had secret TSMC meeting over future chip supply, report claims — AI pioneer in Asia as South Korea confirms 20MW data center deal with ChatGPT maker",
+      "description": "OpenAI CEO Sam Altman has reportedly held secretive meetings with TSMC and Foxconn in Taiwan as he looks to secure chip production for future facilities and his own internal chip design plans.",
+      "url": "https://www.tomshardware.com/tech-industry/openais-sam-altman-had-secret-tsmc-meeting-over-future-chip-supply-report-claims-ai-pioneer-in-asia-as-south-korea-confirms-20mw-data-center-deal-with-chatgpt-maker",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3HqB67hPA7vVDVKgWEzD2n-1920-80.jpg",
+      "publishedAt": "2025-10-01T13:29:25Z",
+      "content": "OpenAI CEO Sam Altman reportedly took a quiet trip to Taiwan this week to hold meetings with representatives of TSMC and Foxconn and discuss collaborating on chip design and manufacturing, as well as… [+2923 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Nike’s comeback takes shape with turnaround plans working",
+      "description": "Nike Inc's turnaround efforts show progress with sales growth, new products, and strategic partnerships, boosting investor confidence.",
+      "url": "https://www.bloomberg.com/news/articles/2025-09-30/nike-s-trajectory-improves-on-better-than-expected-sales-growth",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/lpii5s/article70116380.ece/alternates/LANDSCAPE_1200/2025-08-28T174811Z_1506002050_RC2GGGASF6F3_RTRMADP_3_NIKE-LABOR.JPG",
+      "publishedAt": "2025-10-01T13:27:34Z",
+      "content": "Nike Incs turnaround efforts are starting to pay off as the worlds largest sportswear company realigns the business around sports such as running and basketball.\r\nThe company said efforts to roll out… [+3994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Abhishek Jadhav",
+      "title": "Export controls now a key factor in AI chip development – adding risk for the whole industry",
+      "description": "The physics of transistors and politics of trading licenses are colliding on the AI frontier Analysis  Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are – in a new e…",
+      "url": "https://www.theregister.com/2025/10/01/the_risks_of_export_controls/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/15/china.jpg",
+      "publishedAt": "2025-10-01T13:20:59Z",
+      "content": "Analysis Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are in a new era of export controls.\r\nTrade restri… [+8654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "How a U.S. government shutdown could impact global markets",
+      "description": "Global investors are weighing how much of an impact the shutdown may have on markets.",
+      "url": "https://www.cnbc.com/2025/10/01/how-a-us-government-shutdown-could-impact-global-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193627-17569014262025-09-03t113912z_420945337_rc2bkgah6x7g_rtrmadp_0_usa-trump-epstein.jpeg?v=1756901456&w=1920&h=1080",
+      "publishedAt": "2025-10-01T13:19:39Z",
+      "content": "Morning light hits the U.S. Capitol hours ahead of a press conference to discuss the Epstein Files Transparency bill, directing the release of the remaining files related to the investigations into J… [+6645 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -68,19 +133,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu, Simon Hill",
-      "title": "Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell",
-      "description": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
-      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
-      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -91,6 +143,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu, Simon Hill",
+      "title": "Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell",
+      "description": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
+      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
+      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
     },
     {
       "source": {
@@ -107,16 +172,16 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Emily Mullin",
-      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
-      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
-      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
-      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
+      "author": "Sarah Perez",
+      "title": "Google updates its Home app with Gemini smarts",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -133,16 +198,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Sarah Perez",
-      "title": "Google updates its Home app with Gemini smarts",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "author": "Emily Mullin",
+      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
+      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
+      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
+      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/AE_107_PBR-0406-1262r.jpg?quality=90&strip=all&crop=22.3015625%2C7.631907952153%2C77.6984375%2C60.989463705889&w=1200",
       "publishedAt": "2025-09-30T15:46:49Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAlien: Earths showrunner wanted it to be a dark reflection of our world\r\nNoah Hawley talks about turning Alien into a TV series following the season 1 finale.\r\nb… [+11641 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Ring cameras can now recognize faces and help to find lost pets | TechCrunch",
-      "description": "Amazon unveiled new AI features for its Ring devices, such as the ability to identify familiar faces and help locate a lost dog.",
-      "url": "https://techcrunch.com/2025/09/30/ring-cameras-can-now-recognize-faces-and-help-to-find-lost-pets/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/assets.aboutamazon.jpg?w=1200",
-      "publishedAt": "2025-09-30T15:43:55Z",
-      "content": "At an event on Tuesday, Amazon unveiled a range of new AI-powered features for its latest Ring cameras and doorbells. \r\nThe features will enable Ring users to recognize visitors’ faces and find lost … [+3422 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "Alexa Plus is available out of the box on new Echo devices",
-      "description": "Amazon’s AI-powered Alexa is on its way to more homes soon. The upgraded assistant will be available straight out of the box with new hardware announced today. New Echo devices will come with Alexa Plus straight out of the box; it’ll also be available to thos…",
-      "url": "https://www.theverge.com/tech/786782/amazon-alexa-plus-availability-early-access",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T15:42:23Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazons smarter assistant takes another step toward broader availability.\r\nAmazons smarter assistant takes another step toward broader availability.\r\nby\r\nAllison… [+2776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "OpenAI might be building its own chip, but it’ll still be dependent on Nvidia — custom chip developed with Broadcom reportedly slips to Q3 2026",
-      "description": "OpenAI is widely understood to be developing a custom AI accelerator with Broadcom, part of a $10 billion partnership to design chips specifically for OpenAI’s internal workloads.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/open-ai-building-its-own-chip-still-dependent-on-nvidia",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4VHwvS27foLJ3VEXnekiwS-1920-80.jpg",
-      "publishedAt": "2025-09-30T15:40:56Z",
-      "content": "OpenAI's long-rumored $10 billion partnership with Broadcom is already showing cracks. The company is widely understood to be developing a custom chip designed specifically for OpenAI's inference wor… [+6004 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Techcrunch Events",
-      "title": "Character.AI in the spotlight with Karandeep Anand at Disrupt 2025 | TechCrunch",
-      "description": "Karandeep Anand (Character.AI) joins TechCrunch Disrupt 2025 to discuss the rise of human-like AI companions, ethical dilemmas, and regulatory scrutiny. Register now.",
-      "url": "https://techcrunch.com/2025/09/30/ai-that-talks-back-character-ai-in-the-spotlight-with-karandeep-anand-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_-Karandeep-Anand-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-09-30T15:33:46Z",
-      "content": "AI has captured global attention and not without controversy. This October at San Francisco’s Moscone West, Karandeep Anand, CEO of Character.AI, takes the AI Stage at TechCrunch Disrupt 2025 for a c… [+1919 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Amazon unveils new Kindle Scribe and Kindle Scribe Colorsoft | TechCrunch",
-      "description": "The new Kindle Scribe has a larger 11-inch glare-free display, is just 5.4mm thick, and weighs only 400g. It’s also 40% faster when writing or turning pages.",
-      "url": "https://techcrunch.com/2025/09/30/amazon-unveils-new-kindle-scribe-and-kindle-scribe-colorsoft/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/kindle-new.png?resize=1200,675",
-      "publishedAt": "2025-09-30T15:28:47Z",
-      "content": "At Amazons fall hardware event on Tuesday, the company unveiled its newest Kindle Scribe and its first-ever color Kindle Scribe, both of which are launching with new AI features. \r\nThe new Kindle Scr… [+2457 chars]"
     }
   ]
 }
