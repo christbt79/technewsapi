@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-02T05:31:52.212Z",
+  "fetchedAt": "2025-10-02T06:47:27.829Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: The U.S. government shuts down after stocks end September buzzing",
+      "description": "While the U.S. government has been put to sleep at the end of September, investors, hopefully, had their eyes peeled during the month.",
+      "url": "https://www.cnbc.com/2025/10/01/cnbc-daily-open-the-us-government-shuts-down-after-stocks-end-september-buzzing.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205752-1759244566480-Traders-Photo-20250930-KK-PRESS-005.jpg?v=1759244708&w=1920&h=1080",
+      "publishedAt": "2025-10-01T06:40:07Z",
+      "content": "The U.S. government has shut down.\r\nAround 750,000 federal employees including those in the Bureau of Labor Statistics might be furloughed, according to the Congressional Budget Office. If that happe… [+2657 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205460-1759193863075-Handout_Cerebras_DSC08412.jpg?v=1759209631&w=1920&h=1080",
       "publishedAt": "2025-09-30T13:00:01Z",
       "content": "AI chipmaker Cerebras filed to go public exactly a year ago. The company has yet to take the plunge, but has now bought itself more time to stay private.\r\nCerebras said Tuesday that it's raised $1.1 … [+2819 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Adobe Premiere's new iPhone app is finally here - and it's completely free",
-      "description": "After an early debut in September, Adobe's mobile editor is officially available in the App Store now with no subscription and no ads.",
-      "url": "https://www.zdnet.com/article/adobe-premieres-new-iphone-app-is-finally-here-and-it-is-completely-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e0006645aec350d82051faf5c3f0100e64d8a3d5/2025/09/29/3835e6e5-940e-40b6-ae3f-977c2f7aacc2/premiereoniphone-multitrack.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T13:00:00Z",
-      "content": "Adobe\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Adobe launches the Adobe Premiere app for iPhone.</li><li>Users can edit video content using the flagship… [+4645 chars]"
     }
   ]
 }
