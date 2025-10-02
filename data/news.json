@@ -1,6 +1,305 @@
 {
-  "fetchedAt": "2025-10-02T11:31:02.464Z",
+  "fetchedAt": "2025-10-02T13:17:32.351Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Samsung teams up with OpenAI to deliver Stargate chips",
+      "description": "OpenAI is teaming up with South Korea’s Samsung and SK Hynix for “strategic partnerships” to supply the advanced computer chips needed for its mammoth Stargate project.   The Korean firms said they will scale production in order to meet OpenAI’s growing deman…",
+      "url": "https://www.theverge.com/news/789687/openai-samsung-stargate-chips",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-01T13:07:49Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSamsung will help meet OpenAIs need for 900,000 semiconductor wafers per month.\r\nSamsung will help meet OpenAIs need for 900,000 semiconductor wafers per month.\r… [+2091 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google unveils its new Gemini-powered Google Home speaker | TechCrunch",
+      "description": "Google unveils its new Gemini-powered Google Home speaker | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Google-Home-Speaker-Multi.png?resize=1200,755",
+      "publishedAt": "2025-10-01T13:03:24Z",
+      "content": "On Wednesday, Google offered an early preview of its next flagship smart home device, the AI-powered Google Home speaker, launching in spring 2026. The device, priced at $99, will be built around the… [+2215 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell | TechCrunch",
+      "description": "Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/01/google-unveils-ai-powered-nest-indoor-and-outdoor-cameras-and-a-new-doorbell/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Nest-Cam-Indoor-Berry_1.png?resize=1200,800",
+      "publishedAt": "2025-10-01T13:02:33Z",
+      "content": "As part of its Google Home event on Wednesday, the company unveiled a revamped lineup of Nest devices — Google’s brand of smart home security cameras and doorbells — including a new $149.99 Nest Cam … [+7177 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Google's 'Gemini for Home' upgrade is coming - and it'll work with older Nest devices",
+      "description": "Some of the AI updates coming to Google Home will require a subscription.",
+      "url": "https://www.zdnet.com/article/googles-gemini-for-home-upgrade-is-coming-and-itll-work-with-older-nest-devices/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d0d22d96847a3c443c5f27019754b678c2846a24/2025/09/02/ae9d59e7-e327-477e-87d0-3b6a18bea6b3/dsc02463.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T13:00:32Z",
+      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta greenlights Facebook, Instagram ads based on your AI chats",
+      "description": "Meta will show ads and other content to users based on their interactions with the Meta AI digital assistant and other generative artificial intelligence tools.",
+      "url": "https://www.cnbc.com/2025/10/01/meta-facebook-instagram-ads-ai-chat.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039162-17272877402024-09-25t180807z_254912789_rc2u7aaxwajp_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1739984866&w=1920&h=1080",
+      "publishedAt": "2025-10-01T13:00:02Z",
+      "content": "Meta will soon show ads and other content to users based on their interactions with the company's digital assistant and related products powered by generative artificial intelligence.\r\nThe social med… [+3511 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu, Simon Hill",
+      "title": "Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell",
+      "description": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
+      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
+      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Google is upgrading almost every Nest security device - and there's a new Home speaker, too",
+      "description": "A new Nest Doorbell and Nest Cams are joining the Google Home lineup, along with a major upgrade with generative AI.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/google-is-upgrading-almost-every-nest-security-device-and-theres-a-new-home-speaker-too/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/09a7aa92a20f5f7098ed96fc8a82915dc9659bbc/2025/09/30/e79ab7d3-83a8-4f3a-90d9-5c0c96f3a90e/gh.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2211 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emily Mullin",
+      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
+      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
+      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
+      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Meta plans to sell targeted ads based on data in your AI chats",
+      "description": "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram.",
+      "url": "https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google updates its Home app with Gemini smarts",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Walmart’s Onn cameras were developed with Google and start at just $23",
+      "description": "Walmart is adding cameras to its in-house tech brand Onn, and these low-cost gadgets were designed and built to work with Google Home and its new Gemini features. The $22.96 Onn Indoor camera and $49.86 Onn Video Doorbell launch today, October 1st, at Walmart…",
+      "url": "https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_0172.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2025-10-01T12:50:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new indoor camera and $50 doorbell are built for Google Home.\r\nThe new indoor camera and $50 doorbell are built for Google Home.\r\nby\r\nJennifer Pattison Tuohy… [+4055 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Hands-on with the new Google Home Speaker coming next year",
+      "description": "Google is finally launching a new smart speaker, and it's a complete redesign. The new Google Home Speaker features a new flattened sphere shape, new colors, a new light ring, and lots of new AI-powered features. Announced this week, along with a major Gemini…",
+      "url": "https://www.theverge.com/tech/788085/hands-on-google-home-speaker",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0189-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2025-10-01T12:35:42Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nFirst look at Googles new $99 Home Speaker with a vastly improved Gemini assistant on board.\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattison Tuohy\r\nSenior R… [+6703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Raspberry Pi prices hiked as AI gobbles all the memory",
+      "description": "Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls \"insatiable demand for high-bandwidth memory (HBM)…",
+      "url": "https://www.theregister.com/2025/10/01/raspberry_pi_price_hikes/",
+      "urlToImage": "https://regmedia.co.uk/2020/10/19/raspberr_pi_compute_model_four.png",
+      "publishedAt": "2025-10-01T12:31:30Z",
+      "content": "Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls \"insatiable demand for high-bandwidth memory (HBM) for AI applications.\"\r\nEv… [+2334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+      "title": "Qualcomm scores big win over Arm in contentious lawsuit — U.S. court rejects Arm’s lawsuit, confirms Qualcomm’s can use Oryon cores acquired via Nuvia",
+      "description": "The ruling builds on Qualcomm’s 2024 trial win, rejecting Arm’s attempt to force destruction of Oryon CPU designs.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-scores-big-win-over-arm-in-contentious-lawsuit-u-s-court-rejects-arms-lawsuit-confirms-qualcomms-can-use-oryon-cores-acquired-via-nuvia",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zczSw5Asj7kMMeQPieGJhV-1920-80.jpg",
+      "publishedAt": "2025-10-01T12:26:35Z",
+      "content": "Qualcomm, along with its subsidiary Nuvia, have finally won the legal battle against Arm Holdings, which had accused the chip-maker of violating license agreements tied to its chip designs. A U.S. Di… [+3063 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Google’s new Nest cams are designed for Gemini",
+      "description": "Google is launching two new Nest Cams and a new Nest Doorbell, bringing 2K resolution to its lineup for the first time. The new wired Nest Cam Indoor 2K ($99.99), Nest Cam Outdoor 2K ($149.99 ), and wired Nest Doorbell 2K ($179.99) are the company’s first har…",
+      "url": "https://www.theverge.com/news/789412/new-nest-cams-nest-doorbell-launch-price-specs-release-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0193.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2025-10-01T12:23:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThree new wired Nest models launch alongside Gemini for Home integration with cameras and a redesigned Home app.\r\nThree new wired Nest models launch alongside Ge… [+6934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "JetBrains wants to train AI models on your code snippets",
+      "description": "Dangles free product licenses in return for code-related data for its training\nIDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to sha…",
+      "url": "https://www.theregister.com/2025/10/01/jetbrains_wants_your_code_to_train_ai/",
+      "urlToImage": "https://regmedia.co.uk/2023/05/26/brain_shutterstock.jpg",
+      "publishedAt": "2025-10-01T12:09:06Z",
+      "content": "IDE and developer tools biz JetBrains believes training AI models on public datasets is insufficient, and is offering free product licenses to organizations that are willing to share detailed code-re… [+3594 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Salesforce launches enterprise vibe coding product, Agentforce Vibes | TechCrunch",
+      "description": "Salesforce is also releasing a vibe coding agent named Vibe Codey to help companies foray into vibe coding with enterprise security.",
+      "url": "https://techcrunch.com/2025/10/01/salesforce-launches-enterprise-vibe-coding-product-agentforce-vibes/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
+      "publishedAt": "2025-10-01T12:05:39Z",
+      "content": "Enterprise giant Salesforce is looking to ride the vibe coding wave where developers describe what they want in natural language and AI agents write the code with its new AI-powered developer tool.  … [+3649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Radhika Rajkumar",
+      "title": "You can buy refurbished tech from Back Market in person now",
+      "description": "Wary of repaired devices? Test them out before you buy.",
+      "url": "https://www.zdnet.com/article/you-can-buy-refurbished-tech-from-back-market-in-person-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9823be76488427a5fbb02bc20f323041c5b1f89b/2025/10/01/2bba3be9-66e6-43f0-a21e-f40bdccaaba6/250929-mythology-backmarket-003.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T12:00:41Z",
+      "content": "Back Market\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Refurbished tech marketplace Back Market opened a US store.</li><li>Consumers can test used devices … [+3971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Oura's out for blood with its new Health Panels blood testing feature",
+      "description": "Health Panels follows the lead of competitors by offering blood tests that users can schedule and review within the Oura app.",
+      "url": "https://www.zdnet.com/article/ouras-out-for-blood-with-its-new-health-panels-blood-testing-feature/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4b20375c29fc15931548edf6035f6581b778bcb4/2024/12/20/084df3fc-6883-49c9-8463-219606365a65/8ba0275c-e460-4d83-b8f3-900c5132693d-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T12:00:39Z",
+      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Oura launches blood test through Health Panels. </li><li>The feature tests 50 biomarkers. </… [+2845 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Oura Debuts a Ceramic Collection for Its Smart Ring and a $99 Charging Case",
+      "description": "Oura, the world’s most prominent smart ring manufacturer, cements its dominance with the Ceramic Collection.",
+      "url": "https://www.wired.com/story/oura-ceramic-collection-and-charging-case/",
+      "urlToImage": "https://media.wired.com/photos/68dc7cc98b72c183085c17bb/191:100/w_1280,c_limit/OR4C_Collection.jpg",
+      "publishedAt": "2025-10-01T12:00:00Z",
+      "content": "Its a good time to be Oura, the worlds most prominent smart ring company. The company debuted the Oura Ring 4 in late 2024 with an updated design, slimmer sensors, and software updates. It was an unm… [+2294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Intel affirms commitment to $28 billion Ohio project despite delays — company responds to U.S. Senator's hint of 'a charade or potential fraud'",
+      "description": "Following life-changing investments from Nvidia, SoftBank, and the White House, Intel has just reiterated its commitment to the ambitious Ohio One project. The fabs, now expected to open their doors in 2030, were questioned by a U.S. Senator over concerns of …",
+      "url": "https://www.tomshardware.com/tech-industry/intels-elusive-ohio-fab-project-scrutinized-by-u-s-senator-amid-5-year-delay-to-2030-chipmaker-reassures-ambitious-plan-is-still-on-track-despite-recent-cut-downs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eXfGgMkA8UyQHq7Xiy2Muk-1981-80.jpg",
+      "publishedAt": "2025-10-01T11:46:38Z",
+      "content": "Despite facing numerous setbacks, plans for Intel's upcoming Ohio fabrication plant are still alive and kicking, as reiterated by the company in a response to U.S. Senator Bernie Moreno. Bloomberg re… [+3228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "This TCL phone with a paper-like screen is the best Android flagship you can't buy",
+      "description": "The TCL Nxtpaper 60 Ultra reimagines what 'Ultra' means, focusing on eye comfort and stylus usability over raw power.",
+      "url": "https://www.zdnet.com/article/this-tcl-phone-with-a-paper-like-screen-is-the-best-android-flagship-you-cant-buy/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bb94d75011d5ad4058f1f376a7d8ff18bf916014/2025/09/20/7d66b791-ed62-418a-9165-3bf121f7e8c3/pxl-20250911-204809983-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T11:39:00Z",
+      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7488 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1001,305 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/kindle-new.png?resize=1200,675",
       "publishedAt": "2025-09-30T15:28:47Z",
       "content": "At Amazons fall hardware event on Tuesday, the company unveiled its newest Kindle Scribe and its first-ever color Kindle Scribe, both of which are launching with new AI features. \r\nThe new Kindle Scr… [+2457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Liam Proven",
-      "title": "Pop! System76's 24.04 beta is here – complete with a beta of polarizing COSMIC",
-      "description": "Twice the betas and twice the crashes means twice the fun, right?\nIt's September 2025 and the beta of the April 2024 release of Pop!_OS is here. It's fast, fluid – and fallible.…",
-      "url": "https://www.theregister.com/2025/09/30/pop_os_2404_beta_released/",
-      "urlToImage": "https://regmedia.co.uk/2016/11/01/shutterstock_214674865.jpg",
-      "publishedAt": "2025-09-30T15:22:30Z",
-      "content": "It's September 2025 and the beta of the April 2024 release of Pop!_OS is here. It's fast, fluid and fallible.\r\nPop!_OS 24.04 still has sharp edges such as text overflowing boxes here in the Settings … [+8442 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Amazon finally did the damn hardware right",
-      "description": "Amazon's newest Echo speakers look gorgeous. Thin bezels, bright, responsive touchscreens, 3D knit fabric-wrapped speakers with controls front and center, and most importantly, powerful hardware to help make the smart home sing. It's almost everything I've ev…",
-      "url": "https://www.theverge.com/tech/788051/hands-on-amazon-alexa-echo-show-11-echo-dot-max-echo-studio",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Echo-Show-11_Glacier-White_Lifestyle_Home-UI.jpg?quality=90&strip=all&crop=11.151249694824%2C27.957722987413%2C78.87374420166%2C41.295180245877&w=1200",
-      "publishedAt": "2025-09-30T15:20:44Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWith more power comes more responsibility, and these new Echo devices may have just won Alexa Plus a permanent place in my smart home.\r\nby\r\nJennifer Pattison Tuo… [+9963 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Todd Haselton",
-      "title": "Hands-on with Amazon’s new Kindle Scribes, including one with a color screen",
-      "description": "Amazon announced three new Kindle Scribes this morning with a much nicer design. There's even one with a color screen. I had a chance to check them out ahead of Amazon's press event, and I have some thoughts. This marks the third generation of the company's l…",
-      "url": "https://www.theverge.com/tech/787984/kindle-scribe-colorsoft-hands-on-amazon",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_0134.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "publishedAt": "2025-09-30T15:13:32Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd no more chunky side bezels!\r\nby\r\nTodd HaseltonClose\r\nTodd Haselton\r\nDeputy Editor, Reviews and Commerce\r\nPosts from this author will be added to your daily e… [+4383 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed, Emma Roth",
-      "title": "Amazon reveals its new Echo Dot Max smart speaker",
-      "description": "Amazon took the wraps off its latest Echo Dot smart speaker during its fall hardware event on Tuesday. The Echo Dot Max is a new entry that updates the recognizable spherical design with a flat face housing the speaker’s control buttons and LED light ring. At…",
-      "url": "https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/lcimg-d86ae032-f269-42ea-a9e9-9c3847fd8057.jpg?quality=90&strip=all&crop=0%2C10.782006784713%2C100%2C78.435986430574&w=1200",
-      "publishedAt": "2025-09-30T15:06:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon adds a new entry to its affordable smart speaker lineup\r\nAmazon adds a new entry to its affordable smart speaker lineup\r\nby\r\nJess WeatherbedClose\r\nJess We… [+2625 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Orange Pi AI Studio Pro mini-PC debuts with Huawei Ascend 310 and 352 TOPS of AI performance — also features up to 192GB of memory, but relies on a single USB-C port",
-      "description": "Orange Pi’s AI Studio Pro mini-PC promises up to 352 TOPS of AI performance with up to 192GB of LPDDR4X 4266 memory.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/orange-pi-ai-studio-pro-mini-pc-debuts-with-huawei-ascend-310-and-352-tops-of-ai-performance-also-features-up-to-192gb-of-memory-but-relies-on-a-single-usb-c-port",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3jYHL5m65CJ72Gyvb6N766-1920-80.jpg",
-      "publishedAt": "2025-09-30T15:05:38Z",
-      "content": "Orange Pi has introduced a powerful mini-PC designed for those interested in experimenting with artificial intelligence development and applications. At its core is a 64-bit ARM-based Huawei Ascend 3… [+2401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon Prime Video teams up with FanDuel for real-time betting updates during NBA games",
-      "description": "Bettors will be able to link their FanDuel accounts to their Prime Video profiles and see how their wagers are playing out in real time.",
-      "url": "https://www.cnbc.com/2025/09/30/amazon-prime-fanduel-real-time-nba-betting-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108141051-1746462163874-gettyimages-2198600767-DH776209897_23818_Kings_Pelicans.jpeg?v=1759179573&w=1920&h=1080",
-      "publishedAt": "2025-09-30T15:02:10Z",
-      "content": "Basketball fans watching on Prime Video this season will be able to track their wagers through an expanded partnership between Amazon and Flutter-owned FanDuel, the exclusive odds provider of the NBA… [+3771 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Imgur pulls out of UK after data regulator warns of fines | TechCrunch",
-      "description": "Imgur, one of the web's most popular image sharing and hosting platforms, has shut off access to its site in the U.K., following a notice of a fine by the country's data protection watchdog.",
-      "url": "https://techcrunch.com/2025/09/30/imgur-pulls-out-of-uk-after-data-regulator-warns-of-fines/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Feed_Snacks_zoom.jpeg?resize=1200,900",
-      "publishedAt": "2025-09-30T15:01:45Z",
-      "content": "Imgur, one of the web’s most popular image sharing and hosting platforms, has shut off access to its site to users in the United Kingdom, following a notice of a fine by the country’s data protection… [+1615 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Amazon announces new Kindle Scribes including one with a color screen",
-      "description": "Amazon announced new versions of the Kindle Scribe today including the Kindle Scribe Colorsoft featuring a larger version of the customized E Ink screen technology that Amazon uses in its color e-reader. The new Scribes feature a major redesign that does away…",
-      "url": "https://www.theverge.com/news/788289/amazon-kindle-scribe-e-ink-digital-notepad-stylus",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kindle.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "publishedAt": "2025-09-30T14:52:25Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Kindle Scribe is getting a big redesign this year.\r\nThe Kindle Scribe is getting a big redesign this year.\r\nby\r\nAndrew LiszewskiClose\r\nAndrew Liszewski\r\nPost… [+3836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Logitech's MX Master 4 mouse buzzes with haptic feedback but lacks lefty love",
-      "description": "Ergonomic, feature-packed, and still right-handed only\n(Right) Hands On Logitech has unveiled its latest MX Master mouse, filled with impressive new productivity features, including an added button and haptic feedback. However, like most mice on the market, i…",
-      "url": "https://www.theregister.com/2025/09/30/logitech_mx_master_4/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/30/mx_master_4.jpg",
-      "publishedAt": "2025-09-30T14:38:57Z",
-      "content": "(Right) Hands On Logitech has unveiled its latest MX Master mouse, filled with impressive new productivity features, including an added button and haptic feedback. However, like most mice on the mark… [+4975 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Microsoft adds Grok 4 to Azure AI Foundry following cautious trials — Elon Musk's latest AI model is now available to deploy for \"frontier‑level reasoning\"",
-      "description": "Grok 4, the latest AI model produced by Elon Musk's xAI, is now available for enterprise customers inside Azure AI Foundry. Microsoft has added Grok 4 to its library after a series of prior internal testing to make sure it doesn't go on tangents again. It has…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-adds-grok-4-to-azure-ai-foundry-following-cautious-trials-elon-musks-latest-ai-model-is-now-available-to-deploy-for-frontier-level-reasoning",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H2GDhopEmvpZBki2Em3rZe-1536-80.jpg",
-      "publishedAt": "2025-09-30T14:37:09Z",
-      "content": "Following rumblings that Microsoft was considering adding Grok 4 to its Azure AI Foundry, the company has confirmed that the model is now available to use for its customers, following a private previ… [+3590 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Simon Hill",
-      "title": "The Blink Arc Can Merge Two Security Cameras for a 180-Degree View",
-      "description": "Amazon-owned Blink debuted new cameras with 2K resolution and an accessory that enables a wider field of view.",
-      "url": "https://www.wired.com/story/amazon-blink-arc-mini-2k/",
-      "urlToImage": "https://media.wired.com/photos/68dadd3697be5d5144c2e61a/191:100/w_1280,c_limit/Blink%E2%80%99s%20Arc%20Accessory%20Lets%20You%20Merge%20Two%20Security%20Cameras%20for%20a%20180-Degree%20View.png",
-      "publishedAt": "2025-09-30T14:30:23Z",
-      "content": "Amazons budget security brand, Blink, announced two new cameras during the companys fall hardware event in New York City: the Blink Mini 2K+ and the Blink Outdoor 2K+. As the names suggest, these cam… [+2455 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Less than a month until TechCrunch Disrupt 2025 — do not let competitors steal your exhibit table",
-      "description": "Disrupt is where companies meet their first investors, form game-changing partnerships, and spark the ideas that take them to the next level. Book your table now.",
-      "url": "https://techcrunch.com/2025/09/30/less-than-a-month-until-techcrunch-disrupt-2025-do-not-let-competitors-steal-your-exhibit-table/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/03/8697162730_285af0487f_c.jpg?w=800",
-      "publishedAt": "2025-09-30T14:30:00Z",
-      "content": "TechCrunch Disrupt isnt just another tech conference packed with 10,000+ tech leaders  its the launchpad for startups and innovators. \r\nDisrupt is where companies meet their first investors, form gam… [+1884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Ring founder 'backs the blue,' says AI is helping Amazon-owned doorbell unit fight crime",
-      "description": "Ring founder Jamie Siminoff returned to the company he founded in April to lead the business, which is part of Amazon's devices division.",
-      "url": "https://www.cnbc.com/2025/09/30/ring-founder-ai-amazon-doorbell-police.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104867949-Ring.jpg?v=1529476889&w=1920&h=1080",
-      "publishedAt": "2025-09-30T14:28:20Z",
-      "content": "In 2023, Jamie Siminoff called up Amazon's former devices boss, Dave Limp, to say he was stepping down from leading the video doorbell company he sold to the e-commerce giant for $839 million in 2018… [+4936 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "There’s some new Ring devices on the block",
-      "description": "Amazon just announced some new Ring hardware at its 2025 fall event. The Ring Wired Doorbell and Indoor Cam Plus both feature 2K resolution featuring something called Ring Retinal Vision. There’s also the Ring Wired Doorbell Pro 4K. It’s nice to see some new …",
-      "url": "https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Screenshot-2025-09-30-at-10.14.36%E2%80%AFAM.png?quality=90&strip=all&crop=0%2C5.9169394773853%2C100%2C88.166121045229&w=1200",
-      "publishedAt": "2025-09-30T14:17:17Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon announced the device during its fall hardware event.\r\nAmazon announced the device during its fall hardware event.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\n… [+2014 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "CommanderAI says it's building the Salesforce for the waste management industry | TechCrunch",
-      "description": "CommanderAI built an AI-driven CRM and sales prospecting platform that continues the nuances of the waste management industry.",
-      "url": "https://techcrunch.com/2025/09/30/commanderai-says-its-building-the-salesforce-for-the-waste-management-industry/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/IMG_2534.jpg?resize=1200,1056",
-      "publishedAt": "2025-09-30T14:04:41Z",
-      "content": "David Berg learned a lot about the waste management industry by driving a garbage truck around the country as the first employee at Ohio-based Brattle Motors. \r\nHe discovered that despite the sheer n… [+3562 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Composite gets backing from NFDG for its cross-browser agent tool | TechCrunch",
-      "description": "The central pitch of AI browsers like Perplexity's Comet, Opera's Neon, and The Browser Company's Dia is that they'll help you complete daily tasks more",
-      "url": "https://techcrunch.com/2025/09/30/composite-gets-backing-from-nfdg-for-its-cross-browser-agent-tool/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/co-founders-Charlie-Deane-Yang-Fan-Yun.jpeg?resize=1200,801",
-      "publishedAt": "2025-09-30T14:03:38Z",
-      "content": "The central pitch of AI browsers like Perplexity’s Comet, Opera’s Neon, and The Browser Company’s Dia is that they’ll help you complete daily tasks more efficiently. While these are agents that are l… [+3966 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Beats just gave an old favorite a huge makeover - and a new Powerbeats name",
-      "description": "The new Powerbeats Fit pack Spatial Audio, Apple's H1 chip, and more for $200.",
-      "url": "https://www.zdnet.com/article/beats-just-gave-an-old-favorite-a-huge-makeover-and-a-new-powerbeats-name/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/163f0771b9de641dcd86388bdbaddd631ddc1f3a/2025/09/29/9d7427f4-26a3-4357-8f61-79e2cae2b263/beats-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T14:00:33Z",
-      "content": "Beats/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Beats rebrands the Beats Fit Pro to the Powerbeats Fit.</li><li>A redesigned in-ear fit and improved… [+2865 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Save up to 20% on TechCrunch Disrupt 2025 Community Passes — offer ends October 3",
-      "description": "We’re offering exclusive bundle deals for founders and investors attending TechCrunch Disrupt 2025. Bring a group of 4 or more and save up to 20%. This offer ends Friday, October 3, at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2025/09/30/save-up-to-20-on-techcrunch-disrupt-2025-community-passes-offer-ends-october-3/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
-      "publishedAt": "2025-09-30T14:00:00Z",
-      "content": "The clock is ticking to get up to a 20% discount on group tickets! Bring your founder or investor community together and save.\r\nWere offering exclusive bundle deals for founders and investors attendi… [+2190 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Adobe’s video editing app Premiere arrives on iPhones",
-      "description": "Adobe's Premiere app is available on mobile devices, offering a variety of editing features, including some that are AI-powered.",
-      "url": "https://techcrunch.com/2025/09/30/adobes-video-editing-app-premiere-arrives-on-iphones/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/PremiereoniPhoneRelease.jpeg?resize=1200,526",
-      "publishedAt": "2025-09-30T13:47:55Z",
-      "content": "Adobe’s popular video editing app Premiere is available on iPhone starting today, following the company’s announcement of its plans to release the app on mobile earlier this month. The Android versio… [+1956 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lily Hay Newman",
-      "title": "Google's Latest AI Ransomware Defense Only Goes So Far",
-      "description": "Google has launched a new AI-based protection in Drive for desktop that can shut down an attack before it spreads—but its benefits have their limits.",
-      "url": "https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/",
-      "urlToImage": "https://media.wired.com/photos/68db208eb4febbc1bdfd7e0f/191:100/w_1280,c_limit/google-drive-warning-1235737456.jpg",
-      "publishedAt": "2025-09-30T13:44:52Z",
-      "content": "Ransomware attacks have loomed for years as an urgent digital threat with no easy solutionespecially as they have evolved to include data grab-and-leak attacks that may not even involve data-encrypti… [+2900 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Amazon’s September 2025 hardware event: all the news and announcements",
-      "description": "Amazon will kick off its 2025 fall hardware event today, September 30th, at 10AM ET / 7AM PT, and the company has already teased a few new products we should expect. Based on the company’s own event invite, it seems like we can look forward to at least two ne…",
-      "url": "https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK103__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T13:33:43Z",
-      "content": "Updated Today, Sep 30, 2025, 1:30 PM UTC\r\nAmazon will kick off its 2025 fall hardware event today, September 30th, at 10AM ET / 7AM PT, and the company has already teased a few new products we should… [+3702 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "Zed's dead, baby. Zed's dead? No, wait – it's on Windows",
-      "description": "Rust-coded editor beta arrives with general availability promised in October\nZed Industries has released a public beta of its code editor for Windows, marking a significant milestone for the Rust-based VS Code alternative that has until now been limited to ma…",
-      "url": "https://www.theregister.com/2025/09/30/zed_windows_beta_sneaks_out/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/30/zed-windows.jpg",
-      "publishedAt": "2025-09-30T13:25:07Z",
-      "content": "Zed Industries has released a public beta of its code editor for Windows, marking a significant milestone for the Rust-based VS Code alternative that has until now been limited to macOS and Linux use… [+3049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "The best value flagship phone of 2025 is getting a sequel - but without an iconic partnership",
-      "description": "The OnePlus 15 will launch globally after the Asia-only release of the OnePlus 13T.",
-      "url": "https://www.zdnet.com/article/the-best-value-flagship-phone-of-2025-is-getting-a-sequel-but-without-an-iconic-partnership/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T13:24:40Z",
-      "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OnePlus 15 will feature a new design language.</li><li>It will have a Plus Key shortcut button for… [+3937 chars]"
     }
   ]
 }
