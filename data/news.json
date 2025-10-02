@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-02T20:32:50.424Z",
+  "fetchedAt": "2025-10-02T21:07:37.583Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Better Tomorrow Ventures closes $140M, remains bullish on fintech",
+      "description": "The six-year-old firm's third fund is nearly the size of it previous fund raised during the fintech boom in early 2022.",
+      "url": "https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/sheeljake-cambrian-headshot.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-01T21:01:53Z",
+      "content": "Sheel Mohnot, co-founder and general partner of Better Tomorrow Ventures (BTV) has one simple answer for anyone claiming that investing in fintech has lost some of its attractiveness.\r\nThe world of f… [+2530 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Adam Clark Estes",
+      "title": "We shouldn’t let kids be friends with ChatGPT",
+      "description": "The number of kids getting hurt by AI-powered chatbots is hard to know, but it’s not zero. Yet, for nearly three years, ChatGPT has been free for all ages to access without any guardrails. That sort of changed on Monday, when OpenAI introduced a suite of pare…",
+      "url": "https://www.vox.com/technology/463452/chatgpt-sora-openai-parental-controls",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2224162059.jpg?quality=90&strip=all&crop=0%2C10.726209445763%2C100%2C78.547581108473&w=1200",
+      "publishedAt": "2025-10-01T20:57:14Z",
+      "content": "OpenAI CEO Sam Altman wears sunglasses and talks to reporters at the Allen & Company Sun Valley Conference in Idaho on July 8, 2025.\r\n\n\nThe number of kids getting hurt by AI-powered chatbots is hard … [+7673 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Every Google Nest product that launched with Gemini today (and a new home speaker)",
+      "description": "A new Nest Doorbell and Nest Cams are joining the Google Home lineup, along with a major upgrade with generative AI.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/every-google-nest-product-that-launched-with-gemini-today-and-a-new-home-speaker/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a9b9835e59602d88e5510472f1e8860bc051c31e/2024/10/09/8bb04fba-3264-4e4d-84b4-b42f2a124ceb/nest11.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T20:46:00Z",
+      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft sales chief Althoff gets new role as CEO of company's commercial business",
+      "description": "Bringing together sales with marketing and other functions is critical for Microsoft to lead in the artificial intelligence era, CEO Satya Nadella said.",
+      "url": "https://www.cnbc.com/2025/10/01/microsoft-makes-sales-chief-althoff-ceo-of-commercial-business.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206486-1759333457164-gettyimages-470909736-84909429.jpeg?v=1759351170&w=1920&h=1080",
+      "publishedAt": "2025-10-01T20:37:19Z",
+      "content": "Microsoft's top-ranking sales leader, Judson Althoff, has been promoted to a bigger role as CEO of the company's commercial business.\r\nSatya Nadella, Microsoft's CEO, wrote in a memo on Wednesday tha… [+1472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "My favorite iOS 26 feature makes screenshots even more useful - and it's easy to enable",
+      "description": "With full-screen previews enabled in iOS 26, you can instantly access your screenshots and use new AI features on them - like asking ChatGPT.",
+      "url": "https://www.zdnet.com/article/my-favorite-ios-26-feature-makes-screenshots-even-more-useful-and-its-easy-to-enable/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/28bd70556be1686cb52f197fbd9f6ae696862c7a/2025/09/30/e9f3eb5a-a1f1-4038-a6b6-b04f0da71f89/dsc02915.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T20:35:00Z",
+      "content": "What can Visual Intelligence do on screenshots?\r\nApple's Visual Intelligence is handy for translating signs, dialing phone numbers, identifying plants or landmarks, and pulling up business info. Unti… [+2027 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/018765bdf50b0d30946bf4c29c03c5fcde8642fa/2025/09/30/89fd73d9-b8ff-4c68-b5e7-bdcf69dc2ca7/gettyimages-1398047278.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-01T02:00:35Z",
       "content": "Yuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>With a bit of effort, you can elevate Linux's desktop efficiency.</li><li>These … [+7213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: A September no investor wanted to sleep on",
-      "description": "While the U.S. government will be put to sleep when September ends, investors, hopefully, had their eyes peeled during the month.",
-      "url": "https://www.cnbc.com/2025/10/01/cnbc-daily-open-a-september-no-investor-wanted-to-sleep-on.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205754-1759244566474-Traders-Photo-20250930-KK-PRESS-015.jpg?v=1759244708&w=1920&h=1080",
-      "publishedAt": "2025-10-01T01:24:51Z",
-      "content": "The U.S. government will shut down on Oct. 1 stateside. \r\nAround 750,000 federal employees including those in the Bureau of Labor Statistics will be furloughed, according to the Congressional Budget … [+2862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "AirPods Pro 3 vs. AirPods Pro 2: I compared the two models, and here's who should upgrade",
-      "description": "The AirPods Pro 3 have plenty of exciting upgrades, but here's what you should know before writing off the AirPods Pro 2.",
-      "url": "https://www.zdnet.com/article/airpods-pro-3-vs-airpods-pro-2-i-compared-the-two-models-and-heres-who-should-upgrade/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d701b836e5751ff3fee8887840b4ae19514922f0/2025/09/11/fa9cf98e-0e61-4183-940e-9e5c096431bc/pro3v2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T01:05:00Z",
-      "content": "Jada Jones and Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple's AirPods Pro 3 are officially here, and they debut with upgrades like subtle design changes, improved … [+5844 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Hiner",
-      "title": "I replaced my AirPods Max with the AirPods Pro 3 for flights, and it's been a game-changer",
-      "description": "After weeks of testing AirPods Pro 3, there's one feature that stood out among the long list of upgrades to Apple's most popular headphones.",
-      "url": "https://www.zdnet.com/article/i-replaced-my-airpods-max-with-the-airpods-pro-3-for-flights-and-its-been-a-game-changer/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/204d22e9ddf520bfd7f31256819a8bc212953d27/2025/09/15/3015f86f-0624-4595-8db5-3b7e9906a553/zdnet-airpods-pro-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T01:04:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nApple has taken what is arguably one its most iconic and widely acclaimed products -- the AirPods Pro 2 -- and elevated them with a significant … [+13151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more",
-      "description": "Ahead of Prime Day, the commerce giant has unleashed a barrage of smart home gadgets and devices, including sequels to the Echo Dot, Kindle Scribe, Ring, and more.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e90e12319d4b6fafd364f688ab4455b4301b72e3/2025/09/30/23dffaf9-a89a-44cc-bc95-d356bbc5222d/dsc07846.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T00:42:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon hosted a Devices &amp; Services event on September 30.</li><li>The event featured new Rin… [+6909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Iain Thomson",
-      "title": "Salesforce users grumble after Agentforce AI replaces search on some help pages",
-      "description": "This is one way to add a lot of AI users in a hurry, which Wall Street wants to see\nSalesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help page…",
-      "url": "https://www.theregister.com/2025/10/01/salesforce_search_agentforce/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/screenshot_salesforce_agentforce.jpg",
-      "publishedAt": "2025-10-01T00:17:08Z",
-      "content": "Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.\r\nA thread on Salesfor… [+2298 chars]"
     }
   ]
 }
