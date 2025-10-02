@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-02T17:29:16.561Z",
+  "fetchedAt": "2025-10-02T17:38:42.651Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Microsoft's ultra compact Windows 11 25H2 update is here - get it in a single restart",
+      "description": "Rolling out gradually, the 2025 Windows 11 update installs faster than Microsoft's previous annual releases. But there are already a few known issues with it.",
+      "url": "https://www.zdnet.com/article/microsofts-ultra-compact-windows-11-25h2-update-is-here-get-it-in-a-single-restart/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/19b0e00b27ec2c4585b3120738ba2cb7ec5ad7eb/2025/10/01/9a8e564b-8f0f-4df3-af40-11ec87ed01b0/windows-11.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T17:37:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft is gradually rolling out Windows 11 25H2.</li><li>You can wait for the up… [+5582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Your Peloton is getting an AI-powered face lift",
+      "description": "Alongside a new lineup of exercise devices, Peloton launched its own AI coach. Here's which machines will benefit.",
+      "url": "https://www.zdnet.com/article/your-peloton-is-getting-an-ai-powered-face-lift/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f6f16d313bef8faf3724d30f9b57511f92137454/2025/10/01/67e8b79a-3ae7-46bc-b8a1-4ee1ce06bb3f/gettyimages-1141460279.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T17:31:37Z",
+      "content": "Peloton/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Peloton just got an AI upgrade. </li><li>Peloton IQ is coming to old and new devices. </li><li>Th… [+2719 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -510,19 +536,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -533,6 +546,19 @@
       "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -549,16 +575,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Sarah Perez",
-      "title": "Google updates its Home app with Gemini smarts",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "author": "Emily Mullin",
+      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
+      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
+      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
+      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
+      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
     },
     {
       "source": {
@@ -575,16 +601,16 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Emily Mullin",
-      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
-      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
-      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
-      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
+      "author": "Sarah Perez",
+      "title": "Google updates its Home app with Gemini smarts",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/191:100/w_1280,c_limit/EARLY%20PRIME%20DAY%20DEALS_A.jpg",
       "publishedAt": "2025-09-30T19:55:10Z",
       "content": "Its that time of year again, and Prime Day deals are back. The Amazon Prime Big Deal Days eventalso known as Amazon Prime Day 2is officially arriving on October 7 and 8, but early deals have already … [+6048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Socket will block it with free malicious package firewall",
-      "description": "\"sfw\" stands for Socket Firewall, but perhaps also \"safe for work.\"\nSoftware security biz Socket has released a free command line tool to defend developers against supply chain attacks.…",
-      "url": "https://www.theregister.com/2025/09/30/socket_will_block_it_with/",
-      "urlToImage": "https://regmedia.co.uk/2021/01/28/socks_fire_shutterstock.jpg",
-      "publishedAt": "2025-09-30T19:46:14Z",
-      "content": "Software security biz Socket has released a free command line tool to defend developers against supply chain attacks.\r\nSocket Firewall Free builds upon the company's safe npm tool by extending scanni… [+3872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I went hands-on with Amazon's newest Kindle models, and they've never felt so premium",
-      "description": "The two new hybrid note-taker and e-reader devices are made to mimic writing on paper. But you'll have to pay to play.",
-      "url": "https://www.zdnet.com/article/i-went-hands-on-with-amazons-newest-kindle-models-and-theyve-never-felt-so-premium/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5daa352eea6a1e2401659a55734d596b3a3018f4/2025/09/30/51aa2e19-8e00-47a2-8e29-98b6851e4d46/dsc07885.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T19:43:49Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon unveiled a new Kindle Scribe and Kindle Scribe Colorsoft.</li><li>The e-readers are th… [+3236 chars]"
     }
   ]
 }
