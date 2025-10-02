@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-10-02T17:38:42.651Z",
+  "fetchedAt": "2025-10-02T18:43:21.456Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Intel stock pops on news company is in early talks to add AMD as a customer",
+      "description": "The U.S. government, Nvidia and Softbank have all taken recent stakes in Intel.",
+      "url": "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
+      "publishedAt": "2025-10-01T18:33:44Z",
+      "content": "Intel is in early talks with AMD to manufacture chips for it in its foundry business, according to a report from Semafor.\r\nIntel shares rose as much as 6% on the news at one point during trading on W… [+1250 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "Why California's new AI safety law succeeded where SB 1047 failed | TechCrunch",
+      "description": "Watch as Equity breaks down California's new AI transparency law, SB 53, including its whistleblower protections, safety reporting requirements, and why this bill succeeded where SB 1047 failed.",
+      "url": "https://techcrunch.com/video/why-californias-new-ai-safety-law-succeeded-where-sb-1047-failed/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1246479507.jpg?w=1024",
+      "publishedAt": "2025-10-01T18:33:09Z",
+      "content": "California just made history as the first state to require AI safety transparency from the biggest labs in the industry. Governor Newsom signed SB 53 into law this week, mandating that AI giants like… [+822 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "OpenAI's New Sora App Lets You Deepfake Yourself for Entertainment",
+      "description": "OpenAI’s latest app encourages users to generate a personal digital avatar and scroll AI-generated videos of themselves and their friends.",
+      "url": "https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/",
+      "urlToImage": "https://media.wired.com/photos/68dc76a64608abdd1e38d590/191:100/w_1280,c_limit/OpenAI-Sora-App-Sells-AI-Deepfakes-as-Entertainment-Business-2234232933.jpg",
+      "publishedAt": "2025-10-01T18:21:38Z",
+      "content": "On Tuesday, OpenAI released an AI video app called Sora. The platform is powered by OpenAIs latest video generation model, Sora 2, and revolves around a TikTok-like For You page of user-generated cli… [+2092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "AI has had zero effect on jobs so far, says Yale study",
+      "description": "Other studies are finding the same thing\nYale researchers say that despite the anxiety about AI taking people's jobs, there's very little evidence of it actually happening.…",
+      "url": "https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_2277467215.jpg",
+      "publishedAt": "2025-10-01T18:12:09Z",
+      "content": "Yale researchers say that despite the anxiety about AI taking people's jobs, there's very little evidence of it actually happening.\r\nEconomists with Yale's Budget Lab, a non-partisan policy research … [+2488 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "OpenAI's new social app is filled with terrifying Sam Altman deepfakes | TechCrunch",
+      "description": "OpenAI's new social app is filled with terrifying Sam Altman deepfakes | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/01/openais-new-social-app-is-filled-with-terrifying-sam-altman-deepfakes/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800",
+      "publishedAt": "2025-10-01T18:04:30Z",
+      "content": "In a video on OpenAI’s new TikTok-like social media app Sora, a never-ending factory farm of pink pigs are grunting and snorting in their pens — each is equipped with a feeding trough and a smartphon… [+7065 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "This smart garden makes it easy to grow up to 16 plants at home - here's how",
+      "description": "The Gardyn Studio 2.0 is the smartest indoor garden I've seen, even featuring a camera that uses AI to assess your plants.",
+      "url": "https://www.zdnet.com/article/this-smart-garden-makes-it-easy-to-grow-up-to-16-plants-at-home-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/dc1822e172e4479fa1fbf15ae61c2919a29d3375/2025/10/01/a6fd1b83-df10-4899-aedc-ca0af1f224d6/gardyb.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T18:01:08Z",
+      "content": "Gardyn\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Gardyn just announced the new Studio 2 smart garden.</li><li>It's a compact upright garden with a 16-plan… [+3543 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "publishedAt": "2025-10-01T18:00:00Z",
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "publishedAt": "2025-10-01T18:00:00Z",
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK051_TIKTOKBAN_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
       "publishedAt": "2025-09-30T21:00:08Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: What happens when Donald Trump faces off with Portland, a city of angry, angry libs.\r\nPlus: What happens when Donald Trump faces off with Portland, a city … [+16670 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions",
-      "description": "The second-generation Ray-Ban Meta smart glasses aren't too different from the first. The biggest change is that they have a better battery life, making them much easier to rely on as a private set of speakers or an eye-level camera for an all-day adventure. …",
-      "url": "https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257979_RayBan_Meta_Gen2_AKrales_0016.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T20:51:37Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMetas new glasses have twice the battery life, but they still have the tricky issue of being a camera right on your face.\r\nIf you buy something from a Verge link… [+6572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Disney sent cease and desist letter to Character.AI over use of copyrighted characters",
-      "description": "Disney is already involved in an ongoing lawsuit against AI image creator Midjourney.",
-      "url": "https://www.cnbc.com/2025/09/30/disney-cease-and-desist-characterai-copyright.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181871-1754416472812-gettyimages-2213297625-POWELL_FOMC_NYSE.jpeg?v=1754688473&w=1920&h=1080",
-      "publishedAt": "2025-09-30T20:38:13Z",
-      "content": "The Walt Disney Company sent a cease and desist letter to Character.AI last week, warning the artificial intelligence startup to stop using copyrighted characters without authorization, a Disney spok… [+2357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Iain Thomson",
-      "title": "Microsoft moves to the uncanny valley with creepy Copilot avatars that stare at you and say your name",
-      "description": "Yep, we're sure that will win folks over\nMicrosoft is testing talking avatars for Copilot to see if users feel more at ease chatting with a face instead of just a text box. Our US Editor tried them out, only to find the digital stare was more creepy than comf…",
-      "url": "https://www.theregister.com/2025/09/30/microsoft_copilot_avatars/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/30/avatar.jpg",
-      "publishedAt": "2025-09-30T20:37:13Z",
-      "content": "Microsoft is testing talking avatars for Copilot to see if users feel more at ease chatting with a face instead of just a text box. Our US Editor tried them out, only to find the digital stare was mo… [+4324 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Umair Irfan",
-      "title": "Your expensive power bill is part of an alarming trend",
-      "description": "Like most Americans this month, your most recent power bill may have given you a shock. Residential electricity rates have risen fast across the US — more than 30 percent on average since 2020 and almost double the rate of inflation in the past year — with no…",
-      "url": "https://www.vox.com/climate/463277/power-bill-expensive-utility-rising-price-trump",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2203483581.jpg?quality=90&strip=all&crop=0%2C12.005100727099%2C100%2C75.989798545802&w=1200",
-      "publishedAt": "2025-09-30T20:18:47Z",
-      "content": "Electricity prices keep inching up, and there’s little reason to think they’ll fall back down anytime soon.\r\n\n\nLike most Americans this month, your most recent power bill may have given you a shock. … [+7234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Google bolts AI into Drive to catch ransomware, but crooks not shaking yet",
-      "description": "Stopping the spread isn't the same as stopping attacks, period Google on Tuesday rolled out a new AI tool in Drive for desktop that it says will pause syncing to limit ransomware damage, but it won't stop attacks outright.…",
-      "url": "https://www.theregister.com/2025/09/30/google_drive_ai_ransomware_detection/",
-      "urlToImage": "https://regmedia.co.uk/2021/02/09/shutterstock_ransomware.jpg",
-      "publishedAt": "2025-09-30T20:10:29Z",
-      "content": "Google on Tuesday rolled out a new AI tool in Drive for desktop that it says will pause syncing to limit ransomware damage, but it won't stop attacks outright.\r\nThe model, which the Chocolate Factory… [+2527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Walmart CEO expects AI will 'change literally every job' - not just engineering",
-      "description": "Workers all over the economy will experience AI-related shifts, Walmart CEO Doug McMillon said.",
-      "url": "https://www.zdnet.com/article/walmart-ceo-expects-ai-will-change-literally-every-job-not-just-engineering/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/eb3544894f55313e9ee8a904b8234bfe798f327b/2025/09/30/bf0b9e39-51f9-41ad-97a6-5bfeec050be5/gettyimages-1895045425.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T20:01:00Z",
-      "content": "Anchiy/E+ via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Walmart CEO Doug McMillon said AI will \"change literally every job.\"</li><li>That doe… [+4289 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Opera agentic browser Neon starts rolling out to users - how to join the waitlist",
-      "description": "The company details more of its AI browser's features and reveals the subscription pricing.",
-      "url": "https://www.zdnet.com/article/opera-agentic-browser-neon-starts-rolling-out-to-users-how-to-join-the-waitlist/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8e05160e7fa7f2654cec0c406808d98cbbd310af/2025/09/30/f650d12c-a7c2-4d49-bcbd-7c6d14b59f8a/operaneonhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T19:57:43Z",
-      "content": "Opera\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Opera's agentic browser Neon has started shipping to users.</li><li>The AI-enabled browser requires a mont… [+2064 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Louryn Strampe",
-      "title": "40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)",
-      "description": "The event is back on October 7, but we've already found good Amazon Prime Day deals on laptops, headphones, and more.",
-      "url": "https://www.wired.com/story/early-prime-day-deals-october-2025-1/",
-      "urlToImage": "https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/191:100/w_1280,c_limit/EARLY%20PRIME%20DAY%20DEALS_A.jpg",
-      "publishedAt": "2025-09-30T19:55:10Z",
-      "content": "Its that time of year again, and Prime Day deals are back. The Amazon Prime Big Deal Days eventalso known as Amazon Prime Day 2is officially arriving on October 7 and 8, but early deals have already … [+6048 chars]"
     }
   ]
 }
