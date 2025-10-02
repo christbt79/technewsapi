@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-02T11:23:32.576Z",
+  "fetchedAt": "2025-10-02T11:31:02.464Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Apple asks judge to toss Musk’s lawsuit over ChatGPT on iPhone",
+      "description": "Apple has hit back at Elon Musk over his claims its partnership with OpenAI to build ChatGPT directly into the iPhone is stunting AI industry competition. In court documents filed on Tuesday and seen by Bloomberg, Apple’s lawyers asked a federal judge to dism…",
+      "url": "https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257895_Elon_Musk_Apple_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-01T11:28:06Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nApples lawyers said claims that Musks companies suffered harm from its partnership with OpenAI were speculation on top of speculation.\r\nApples lawyers said claim… [+2622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Taiwan refuses to move half of U.S.-bound chip production to American shores — trade discussion to be focused on Section 232 investigation for preferential deal on semiconductors",
+      "description": "The White House wants to move at least 50% of U.S.-bound chip production into the United States, but Taiwan says no.",
+      "url": "https://www.tomshardware.com/tech-industry/taiwan-refuses-to-move-half-of-u-s-bound-chip-production-to-american-shores-trade-discussion-to-be-focused-on-section-232-investigation-for-preferential-deal-on-semiconductors",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5pmsxhkfCkcjp6JZ8FNX3n-1920-80.jpg",
+      "publishedAt": "2025-10-01T11:25:51Z",
+      "content": "Taiwanese Vice Premier Cheng Li-chun said on Wednesday, October 1, that Taiwan's government will not agree to U.S. Commerce Secretary Howard Lutnick’s proposal to move 50% of chip production bound fo… [+2555 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Autonomous AI adoption stalls amid trust and governance crisis",
+      "description": "Only 15% considering deployments and just 7% say it'll replace humans in next four years\nEnterprises aren't keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the r…",
+      "url": "https://www.theregister.com/2025/10/01/gartner_ai_agents/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/24/robot_shutterstock.jpg",
+      "publishedAt": "2025-10-01T11:25:49Z",
+      "content": "Enterprises aren't keen on letting autonomous agents take the wheel amid fears over trust and security as research once again shows that AI hype is crashing against the rocks of reality.\r\nTech analys… [+2703 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-30T13:24:40Z",
       "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OnePlus 15 will feature a new design language.</li><li>It will have a Plus Key shortcut button for… [+3937 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Todd Haselton, Jennifer Pattison Tuohy",
-      "title": "Amazon event live blog: we’re here for new Echos, Kindles and more",
-      "description": "We’re at Amazon’s fall 2025 hardware event in New York City, where the company is set to announce a bunch of new gadgets ahead of the holidays. Amazon’s teaser image for today suggested new Kindles, Echos, and maybe a TV. Whatever it is, it’s been a long time…",
-      "url": "https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/image-1-2.png?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-      "publishedAt": "2025-09-30T13:05:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon event live blog: were here for new Echos, Kindles and more\r\nAlexa Plus is already rolling out. Now its time for Amazon to put some great hardware behind i… [+3255 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "DoorDash unveils Dot, its autonomous robot built to deliver your food | TechCrunch",
-      "description": "DoorDash's 350-pound autonomous vehicle will hold your food in its robot mouth as it drives 20 miles per hour to deliver it to you.",
-      "url": "https://techcrunch.com/2025/09/30/doordash-unveils-dot-its-autonomous-robot-built-to-deliver-your-food/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/DoorDash-Dot-17.jpg?resize=1200,800",
-      "publishedAt": "2025-09-30T13:04:56Z",
-      "content": "On Tuesday, DoorDash unveiled Dot, a small robot it built in-house that can autonomously drive on roads, bike lanes, and sidewalks to deliver food and small packages at speeds up to 20 miles per hour… [+5613 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "A year after filing to IPO, still-private Cerebras Systems raises $1.1B | TechCrunch",
-      "description": "Cerebras initially filed to go public in September 2024 but ran into several regulatory delays due to foreign investments.",
-      "url": "https://techcrunch.com/2025/09/30/a-year-after-filing-to-ipo-still-private-cerebras-systems-raises-1-1b/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
-      "publishedAt": "2025-09-30T13:04:18Z",
-      "content": "Nvidia rival Cerebras Systems raised a new round of private financing despite its previous plan be trading on the public market by 2025.  \r\nSilicon Valley-based Cerebras announced it raised a $1.1 bi… [+2729 chars]"
     }
   ]
 }
