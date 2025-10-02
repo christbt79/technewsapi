@@ -1,6 +1,136 @@
 {
-  "fetchedAt": "2025-10-01T23:37:24.979Z",
+  "fetchedAt": "2025-10-02T03:05:07.121Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Peloton ushers in a new era with revamped hardware and AI",
+      "description": "Peloton has been angling for a redemption arc ever since its status as a pandemic darling started faltering when the world reopened for business. It tried to steady the ship with a series of layoffs, a pivot to subscriptions, and a leadership shuffle. Now, Pe…",
+      "url": "https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/pelotonbikepluscross.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+      "publishedAt": "2025-10-01T03:00:01Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new lineup is sort of like if you squished a Peloton Guide into the companys existing hardware and stuck AI in it.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSe… [+9456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "No ROI on your AI? The solution is simpler - and more human - than you think",
+      "description": "A new study identifies the 3 roadblocks to successfully implementing AI in your business.",
+      "url": "https://www.zdnet.com/article/no-roi-on-your-ai-the-solution-is-simpler-and-more-human-than-you-think/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6006748afbbc23d0dd6fe74faa5e4fa9c7efc001/2025/09/30/8036397a-b851-4c5f-9228-20ec5209acd3/gettyimages-2213766173.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T02:00:36Z",
+      "content": "J Studios/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses are embracing AI tools despite a lack of trust.</li><li>Gove… [+5247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "10 ways to work smarter on Linux - for beginners and pros",
+      "description": "Linux is not just about the choice of distribution or desktop environment, but also how efficiently you want/need to interact with your PC.",
+      "url": "https://www.zdnet.com/article/10-ways-to-work-smarter-on-linux-for-beginners-and-pros/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/018765bdf50b0d30946bf4c29c03c5fcde8642fa/2025/09/30/89fd73d9-b8ff-4c68-b5e7-bdcf69dc2ca7/gettyimages-1398047278.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T02:00:35Z",
+      "content": "Yuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>With a bit of effort, you can elevate Linux's desktop efficiency.</li><li>These … [+7213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: A September no investor wanted to sleep on",
+      "description": "While the U.S. government will be put to sleep when September ends, investors, hopefully, had their eyes peeled during the month.",
+      "url": "https://www.cnbc.com/2025/10/01/cnbc-daily-open-a-september-no-investor-wanted-to-sleep-on.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205754-1759244566474-Traders-Photo-20250930-KK-PRESS-015.jpg?v=1759244708&w=1920&h=1080",
+      "publishedAt": "2025-10-01T01:24:51Z",
+      "content": "The U.S. government will shut down on Oct. 1 stateside. \r\nAround 750,000 federal employees including those in the Bureau of Labor Statistics will be furloughed, according to the Congressional Budget … [+2862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "AirPods Pro 3 vs. AirPods Pro 2: I compared the two models, and here's who should upgrade",
+      "description": "The AirPods Pro 3 have plenty of exciting upgrades, but here's what you should know before writing off the AirPods Pro 2.",
+      "url": "https://www.zdnet.com/article/airpods-pro-3-vs-airpods-pro-2-i-compared-the-two-models-and-heres-who-should-upgrade/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d701b836e5751ff3fee8887840b4ae19514922f0/2025/09/11/fa9cf98e-0e61-4183-940e-9e5c096431bc/pro3v2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T01:05:00Z",
+      "content": "Jada Jones and Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple's AirPods Pro 3 are officially here, and they debut with upgrades like subtle design changes, improved … [+5844 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Hiner",
+      "title": "I replaced my AirPods Max with the AirPods Pro 3 for flights, and it's been a game-changer",
+      "description": "After weeks of testing AirPods Pro 3, there's one feature that stood out among the long list of upgrades to Apple's most popular headphones.",
+      "url": "https://www.zdnet.com/article/i-replaced-my-airpods-max-with-the-airpods-pro-3-for-flights-and-its-been-a-game-changer/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/204d22e9ddf520bfd7f31256819a8bc212953d27/2025/09/15/3015f86f-0624-4595-8db5-3b7e9906a553/zdnet-airpods-pro-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T01:04:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nApple has taken what is arguably one its most iconic and widely acclaimed products -- the AirPods Pro 2 -- and elevated them with a significant … [+13151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Amazon event 2025 live: Reactions to Echo Dot, Kindle Scribe Colorsoft, Fire TV, more",
+      "description": "Ahead of Prime Day, the commerce giant has unleashed a barrage of smart home gadgets and devices, including sequels to the Echo Dot, Kindle Scribe, Ring, and more.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/amazon-event-2025-live-reactions-to-echo-dot-kindle-scribe-colorsoft-fire-tv-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e90e12319d4b6fafd364f688ab4455b4301b72e3/2025/09/30/23dffaf9-a89a-44cc-bc95-d356bbc5222d/dsc07846.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T00:42:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon hosted a Devices &amp; Services event on September 30.</li><li>The event featured new Rin… [+6909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Iain Thomson",
+      "title": "Salesforce users grumble after Agentforce AI replaces search on some help pages",
+      "description": "This is one way to add a lot of AI users in a hurry, which Wall Street wants to see\nSalesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help page…",
+      "url": "https://www.theregister.com/2025/10/01/salesforce_search_agentforce/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/screenshot_salesforce_agentforce.jpg",
+      "publishedAt": "2025-10-01T00:17:08Z",
+      "content": "Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.\r\nA thread on Salesfor… [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
+      "description": "The late English writer Douglas Adams is best known as the author of the 1979 book The Hitchhiker’s Guide to the Galaxy. But there is much more to Adams than what is written in his Wikipedia entry. Whether or not you need to know that his birth sign is Pisces…",
+      "url": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK013_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-09-30T23:49:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWikipedias sister project Wikidata just got a new database that is easier for AI models to ingest.\r\nWikipedias sister project Wikidata just got a new database th… [+4727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Kindle Scribe vs. Scribe Colorsoft: Here's who should spend $600 on an Amazon tablet",
+      "description": "The two new hybrid note-taker and e-reader devices are made to mimic writing on paper. But you'll have to pay to play.",
+      "url": "https://www.zdnet.com/article/kindle-scribe-vs-scribe-colorsoft-heres-who-should-spend-600-on-an-amazon-tablet/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3fa565a6f3eaa6406a38e3a5a5c3614dfd39132c/2025/09/30/2d8b29f0-2133-4d20-9c00-3ddcb7b18a8b/dsc07879.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-09-30T23:40:00Z",
+      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon unveiled a new Kindle Scribe and Kindle Scribe Colorsoft.</li><li>The e-readers are th… [+3236 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,136 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
       "publishedAt": "2025-09-30T13:00:00Z",
       "content": "DoorDash said on Tuesday that it’s launching a creator program that will compensate users for short-form videos posted on its app. The company also introduced “Going Out,” which rewards users for din… [+3192 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "My other car is a cargo bike",
-      "description": "The vehicle of the future is electric. It's good for the environment. It has enough room for your stuff, as long as you're coming from the grocery and not the furniture store. It's fast, it has super-responsive steering, and you can park it basically anywhere…",
-      "url": "https://www.theverge.com/podcast/788307/electric-cargo-bikes-google-antitrust-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_VST_0930_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T12:58:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: bike buses, Google trials, and AI video summaries.\r\nOn The Vergecast: bike buses, Google trials, and AI video summaries.\r\nby\r\nDavid PierceClose… [+3067 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft’s new Security Store is like an app store for cybersecurity",
-      "description": "Microsoft is launching a Security Store that will be full of security software-as-a-service (SaaS) solutions and AI agents. It’s part of a broader effort to sell Microsoft’s Sentinel security platform to businesses, complete with Microsoft Security Copilot AI…",
-      "url": "https://www.theverge.com/news/788195/microsoft-security-store-launch-copilot-ai-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T12:46:25Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCybersecurity workers can also start creating their own Security Copilot AI agents.\r\nCybersecurity workers can also start creating their own Security Copilot AI … [+2499 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Nothing launches AI tool for building mini apps using prompts",
-      "description": "Nothing on Monday revealed Playground, an AI tool that lets users create apps with simple text prompts and deploy them to a platform of sorts known as Essential Apps.",
-      "url": "https://techcrunch.com/2025/09/30/nothing-launches-ai-tool-for-building-mini-apps-using-prompts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Carls-phone-with-Essential-Apps.jpg?resize=1200,675",
-      "publishedAt": "2025-09-30T12:31:49Z",
-      "content": "AI-powered app development is really taking off, and smartphone maker Nothing seems intent on capitalizing on the bandwagon: the company on Monday revealed Playground, an AI tool that lets users crea… [+3229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
-      "title": "Maingear debuts new premium desktop PCs — Apex Rush, Force models start at $6,259, with top-end model featuring hardline tubing and dual 420mm radiators",
-      "description": "Maingear has today unveiled a couple of new desktop PCs, a new Apex Rush and a new Apex Force.",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/maingear-debuts-new-premium-desktop-pcs-apex-rush-force-models-start-at-usd6-259-with-top-of-the-line-nvidia-intel-and-amd-in-tow",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5yYE8Q5hfYuq79HtNPfMMK-1245-80.jpg",
-      "publishedAt": "2025-09-30T12:30:00Z",
-      "content": "Popular PC vendor Maingear has today debuted a brand new line-up of extremely potent performance PCs with an eye-watering price tag to match. New this week are the Apex Force and Apex Rush models, st… [+3494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Amid Intel's deals, Intel Foundry Services remains notably absent — 18A and 14A are on the way, but success isn't guaranteed",
-      "description": "It has been a busy few weeks for semiconductors, but among various announcements and rumors, IFS has remained conspicuously absent.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-foundry-services-is-mia",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kGVhXCNLptgBENwD6GJKp5-2000-80.jpg",
-      "publishedAt": "2025-09-30T12:21:48Z",
-      "content": "It has been a busy few weeks for semiconductors. Apple debuted its next-generation silicon, Nvidia launched an unprecedented partnership, and TSMC denied rumors of a major tie-up with Intel. But acro… [+6751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Alex Harring",
-      "title": "5 things to know before the stock market opens Tuesday",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/09/30/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205145-1759161564251-gettyimages-2227803833-AFP_68PJ4XA.jpeg?v=1759229930&w=1920&h=1080",
-      "publishedAt": "2025-09-30T12:16:29Z",
-      "content": "This is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are five key things investors need to know to start the trading day:\r\n1. Bureaucracy on the br… [+4368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI data center boom has to contend with realities of tough labor market",
-      "description": "As tech giants open their wallets to rapidly build data centers of the future, the labor market could stand in their way.",
-      "url": "https://www.cnbc.com/2025/09/30/ai-data-center-boom-meets-realities-of-tough-labor-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203042-17586629692025-09-23t212241z_813534783_rc2sxgan2mgu_rtrmadp_0_tech-openai-texas.jpeg?v=1758663004&w=1920&h=1080",
-      "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "OpenAI, Meta and Alphabet are leading a data center boom in the U.S. as they try to keep pace with frenzied demand for artificial intelligence, and the computing resources required to build increasin… [+4285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Startup Scorability wants to revolutionize college sports recruiting as NIL takes off",
-      "description": "Scorability now boasts 1.2 million athletes and 3,000 college sports program users.",
-      "url": "https://www.cnbc.com/2025/09/30/scorability-wants-to-revolutionize-college-sports-recruiting-as-nil-takes-off.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204448-1758892783671-Scorability_Product.png?v=1758892864&w=1920&h=1080",
-      "publishedAt": "2025-09-30T12:00:01Z",
-      "content": "Coaches and staff use the Scorability recruiting dashboard to discover, evaluate, and engage with recruits\r\nSports tech platform Scorability has raised $40 million in fresh funding as the company loo… [+3578 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Nothing’s ‘first step’ to an ‘AI OS’ is not first, or an OS, but is fascinating",
-      "description": "Nothing says it has just taken “the first step towards an AI-native operating system.” Not exactly. Playground, Nothing’s new app store filled with user-designed, AI-generated apps, is neither Nothing’s first step, nor is it an operating system — it’s built o…",
-      "url": "https://www.theverge.com/news/788242/nothing-ai-os-essential-apps-playground",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/nothing-essential-apps.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "publishedAt": "2025-09-30T12:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNothing is launching an app store for AI-built smartphone software.\r\nNothing is launching an app store for AI-built smartphone software.\r\nby\r\nRobert HartClose\r\nR… [+5271 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft’s Windows 11 2025 update is available now",
-      "description": "Microsoft is rolling out its annual Windows 11 update (known as version 25H2) today. After testing the update in the Windows Insider Release Preview ring last month, version 25H2 is now starting to roll out to all Windows 11 users through Windows Update. The …",
-      "url": "https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-1247086031.jpg?quality=90&strip=all&crop=0%2C6.1654211801671%2C100%2C87.669157639666&w=1200",
-      "publishedAt": "2025-09-30T11:47:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 25H2 update is rolling out as a small download for Windows 11 users.\r\nThe 25H2 update is rolling out as a small download for Windows 11 users.\r\nby\r\nTom Warre… [+2876 chars]"
     }
   ]
 }
