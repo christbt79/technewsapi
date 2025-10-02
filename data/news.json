@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-02T16:42:50.476Z",
+  "fetchedAt": "2025-10-02T17:29:16.561Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Iain Thomson",
+      "title": "Nadella hands Microsoft money machine off to new commercial CEO so he can visioneer the future",
+      "description": "Judson Althoff gets the job of keeping the biz running\nMicrosoft boss Satya Nadella told staff on Wednesday that he's appointing Judson Althoff to a new role as CEO of the company's commercial business, so that the big boss can concentrate on Redmond's future…",
+      "url": "https://www.theregister.com/2025/10/01/nadella_commercial_ceo_althoff/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/judson_althoff.jpg",
+      "publishedAt": "2025-10-01T17:21:29Z",
+      "content": "Microsoft boss Satya Nadella told staff on Wednesday that he's appointing Judson Althoff to a new role as CEO of the company's commercial business, so that the big boss can concentrate on Redmond's f… [+2992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Hiner",
+      "title": "I tested the iPhone 17 Pro Max, and this feature alone justifies an upgrade from the 16",
+      "description": "Review: While I don't usually advise upgrading to the flagship iPhone if you have last year's model, there's one particularly factor to consider this year.",
+      "url": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-this-feature-alone-justifies-an-upgrade-from-the-16/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4f36dfbfe115eeb11eba5d92dbfee53e02638f98/2025/09/26/70fcbd6b-c6b6-44e4-af4c-2c9acfb65271/iphone-17-pr-max-cosmic-orange-03.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T17:18:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs far as annual upgrades go, we got a lot in the iPhone 17 Pro Max -- a redesign, a change of materials, new colors, a battery upgrade, a proce… [+21777 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
+      "description": "Today, the same day that Meta announced that it will soon use your AI chats to personalize the ads it shows you, Instagram head Adam Mosseri made a “myth busting” video attempting to set the record straight on a persistent rumor about Meta: “I swear, we do no…",
+      "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1357941759.jpg?quality=90&strip=all&crop=0%2C10.735438635072%2C100%2C78.529122729856&w=1200",
+      "publishedAt": "2025-10-01T17:13:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe head of Instagram posted a video attempting to dispel a myth that Meta has been trying to combat for years.\r\nThe head of Instagram posted a video attempting … [+4514 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/5daa352eea6a1e2401659a55734d596b3a3018f4/2025/09/30/51aa2e19-8e00-47a2-8e29-98b6851e4d46/dsc07885.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-09-30T19:43:49Z",
       "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon unveiled a new Kindle Scribe and Kindle Scribe Colorsoft.</li><li>The e-readers are th… [+3236 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meet the startup testing space-based solar farms that use lasers to send power to Earth",
-      "description": "A California-based startup is launching space-based satellites into orbit that will beam solar energy back to Earth using lasers.",
-      "url": "https://www.cnbc.com/2025/09/30/startup-aetherflux-space-solar-farms.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205829-1759249414868-Ground_Station.png?v=1759249511&w=1920&h=1080",
-      "publishedAt": "2025-09-30T19:06:43Z",
-      "content": "The beaming of solar power from space back down to earth using lasers sounds like science fiction, and was even floated in an Isaac Asimov short story back in the 1940s.\r\nBut that is exactly what a C… [+2750 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Former OpenAI and DeepMind researchers raise whopping $300M seed to automate science  | TechCrunch",
-      "description": "Periodic Labs has raised from a tech industry's who's who, including Andreessen Horowitz, Nvidia, Elad Gil, Jeff Dean, Eric Schmidt, and Jeff Bezos.",
-      "url": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-642109519.jpg?resize=1200,675",
-      "publishedAt": "2025-09-30T18:59:27Z",
-      "content": "Periodic Labs came out of stealth on Tuesday with a war chest of $300 million as a seed round, backed by a tech industrys whos who: Andreessen Horowitz, DST, Nvidia, Accel, Elad Gil, Jeff Dean, Eric … [+2371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Sunny Grimm",
-      "title": "Meta reportedly buying RISC-V AI GPU firm Rivos — acquisition to bolster dev team and possibly replace Nvidia internally",
-      "description": "Meta is reportedly set to acquire startup Rivos, according to sources close to the matter. The startup specializes in RISC-V based GPUs for AI workloads, a perfect match for Meta's wishlist.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-reportedly-buying-risc-v-ai-gpu-firm-rivos-acquisition-to-bolster-dev-team-and-possibly-replace-nvidia-internally",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/x47x5FsPFJquH4HeaxQBHE-1024-80.jpg",
-      "publishedAt": "2025-09-30T18:59:02Z",
-      "content": "Meta is set to acquire RISC-V chip startup Rivos, in an effort to shore up Meta's own internal chip development teams and move past reliance on Nvidia GPU hardware. According to Bloomberg, the deal h… [+2758 chars]"
     }
   ]
 }
