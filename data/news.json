@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-02T19:31:33.473Z",
+  "fetchedAt": "2025-10-02T20:32:50.424Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Microsoft declares bring your Copilot to work day, usurping IT authority",
+      "description": "Use your home subscription with your work Microsoft 365 account Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies …",
+      "url": "https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstockmicrosoftcopilot.jpg",
+      "publishedAt": "2025-10-01T20:29:38Z",
+      "content": "Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that… [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-bicchierai",
+      "title": "Anker offered to pay Eufy camera owners to share videos for training its AI | TechCrunch",
+      "description": "Hundreds of Eufy customers have donated hundreds of thousands of videos to train the company’s AI systems.",
+      "url": "https://techcrunch.com/2025/10/01/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/eufy-ai-security-camera.jpg?resize=1200,735",
+      "publishedAt": "2025-10-01T20:28:05Z",
+      "content": "Earlier this year, Anker, the Chinese company that makes Eufy security cameras, offered its users money in exchange for videos of packages and car thefts. \r\nThe popular internet-connected security ca… [+3571 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "California’s new AI safety law shows regulation and innovation don’t have to clash  | TechCrunch",
+      "description": "“Are bills like SB 53 the thing that will stop us from beating China? No,” said Adam Billen, vice president of public policy at youth-led advocacy group Encode AI. “I think it is just genuinely intellectually dishonest to say that that is the thing that will …",
+      "url": "https://techcrunch.com/2025/10/01/californias-new-ai-safety-law-shows-regulation-and-innovation-dont-have-to-clash/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2226690705.jpg?resize=1200,800",
+      "publishedAt": "2025-10-01T20:02:00Z",
+      "content": "SB 53, the AI safety and transparency bill that California Gov. Gavin Newsom signed into law this week, is proof that state regulation doesnt have to hinder AI progress.  \r\nSo says Adam Billen, vice … [+5878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Why I no longer travel without these Sony headphones - even after testing competing models",
+      "description": "The Sony WH-1000XM6 are staying in my backpack for the next few trips. Here's why.",
+      "url": "https://www.zdnet.com/article/why-i-no-longer-travel-without-these-sony-headphones-even-after-testing-competing-models/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/47528b9d706c4ffb63301039136955c5c623d009/2025/09/30/08a069a4-2905-4ddd-955a-68ee99b23535/1000004409.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-01T20:01:00Z",
+      "content": "Jada Jones/ZDNET\r\nZDNET's key takeaways\r\n<ul><li>The Sony WH-1000XM6 headphones offer even better sound and ANC performance.</li><li>They have the best travel case for headphones in 2025.</li><li>I l… [+5522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "US gov shutdown leaves IT projects hanging, security defenders a skeleton crew",
+      "description": "The longer the shutdown, the less likely critical IT overhauls happen, ex Social Security CISO tells The Register\nThe US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skelet…",
+      "url": "https://www.theregister.com/2025/10/01/us_government_shutdown_it_seccurity/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_1289760685.jpg",
+      "publishedAt": "2025-10-01T19:48:23Z",
+      "content": "The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.\r\nPresident Trump has made overhauling govern… [+4962 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Hollywood is not taking kindly to the AI-generated actress Tilly Norwood | TechCrunch",
+      "description": "Tilly Norwood is not real, but the company that created her hopes that she's the first of many AI-generated stars.",
+      "url": "https://techcrunch.com/2025/10/01/hollywood-is-not-taking-kindly-to-the-ai-generated-actress-tilly-norwood/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-at-3.00.40PM.png?resize=1200,821",
+      "publishedAt": "2025-10-01T19:39:28Z",
+      "content": "Tilly Norwood is a London-based actress with about 40,000 Instagram followers. Also, she’s not real — she is an AI-generated character created by Xicoia, the AI division of the production company Par… [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "'Delightful' root-access bug in Red Hat OpenShift AI allows full cluster takeover",
+      "description": "Who wouldn't want root access on cluster master nodes? A 9.9 out of 10 severity bug in Red Hat's OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…",
+      "url": "https://www.theregister.com/2025/10/01/critical_red_hat_openshift_ai_bug/",
+      "urlToImage": "https://regmedia.co.uk/2023/04/28/shutterstock_red_hat.jpg",
+      "publishedAt": "2025-10-01T19:35:44Z",
+      "content": "A 9.9 out of 10 severity bug in Red Hat's OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.\r\n\"A low-privil… [+3269 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/screenshot_salesforce_agentforce.jpg",
       "publishedAt": "2025-10-01T00:17:08Z",
       "content": "Salesforce developers have called for the SaaS-y CRM giant to wind back a change that saw the AI-powered Agentforce bot replace basic search functions on some online help pages.\r\nA thread on Salesfor… [+2298 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Wikimedia wants to make it easier for you and AI developers to search through its data",
-      "description": "The late English writer Douglas Adams is best known as the author of the 1979 book The Hitchhiker’s Guide to the Galaxy. But there is much more to Adams than what is written in his Wikipedia entry. Whether or not you need to know that his birth sign is Pisces…",
-      "url": "https://www.theverge.com/news/789288/wikidata-ai-friendly-database",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK013_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-09-30T23:49:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWikipedias sister project Wikidata just got a new database that is easier for AI models to ingest.\r\nWikipedias sister project Wikidata just got a new database th… [+4727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Kindle Scribe vs. Scribe Colorsoft: Here's who should spend $600 on an Amazon tablet",
-      "description": "The two new hybrid note-taker and e-reader devices are made to mimic writing on paper. But you'll have to pay to play.",
-      "url": "https://www.zdnet.com/article/kindle-scribe-vs-scribe-colorsoft-heres-who-should-spend-600-on-an-amazon-tablet/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3fa565a6f3eaa6406a38e3a5a5c3614dfd39132c/2025/09/30/2d8b29f0-2133-4d20-9c00-3ddcb7b18a8b/dsc07879.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-09-30T23:40:00Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon unveiled a new Kindle Scribe and Kindle Scribe Colorsoft.</li><li>The e-readers are th… [+3236 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Ian Millhiser",
-      "title": "The Supreme Court’s newest decision could make it impossible to end the shutdown",
-      "description": "On Friday, the Supreme Court handed down an order that could completely upend the balance of power between Congress and President Donald Trump. The order effectively permits Trump to cancel $4 billion in foreign aid spending that he is required to spend under…",
-      "url": "https://www.vox.com/politics/463335/supreme-court-shutdown-aids-vaccine-trump-impoundment",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2194927663.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
-      "publishedAt": "2025-09-30T23:31:08Z",
-      "content": "Justice Brett Kavanaugh (L) and Chief Justice John Roberts listen as President Donald Trump speaks during his second inaugural. | Photo by Chip Somodevilla/Getty Images\r\n\n\nOn Friday, the Supreme Cour… [+5546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Palantir's stock is up 1,700% since its NYSE debut five years ago. Here's how it got there",
-      "description": "Palantir's government business along with developments in artificial intelligence have helped push the company's market value past $430 billion.",
-      "url": "https://www.cnbc.com/2025/09/30/palantir-direct-listing-five-year-anniversary.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106723903-16014854052020-09-30t144311z_747905829_rc229j9rqt2e_rtrmadp_0_palantir-ipo.jpeg?v=1601485443&w=1920&h=1080",
-      "publishedAt": "2025-09-30T23:13:47Z",
-      "content": "People walk by a banner featuring the logo of Palantir Technologies (PLTR) at the New York Stock Exchange (NYSE) on the day of their initial public offering (IPO) in Manhattan, New York City, U.S., S… [+8645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Cameron Peters",
-      "title": "The imminent government shutdown, briefly explained",
-      "description": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: The federal government is hours away from the start of…",
-      "url": "https://www.vox.com/the-logoff-newsletter-trump/463322/government-shutdown-funding-trump-schumer-democrats",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/gettyimages-2238380720.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-      "publishedAt": "2025-09-30T22:38:22Z",
-      "content": "Senate Minority Leader Chuck Schumer (D-NY) talks to reporters at the US Capitol on September 30, 2025.﻿ | Chip Somodevilla/Getty Images\r\n\n\nThis story appeared in The Logoff, a daily newsletter that … [+2525 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Fake North Korean IT workers sneaking into healthcare, finance, and AI",
-      "description": "It's not just big tech anymore The North Korean IT worker threat extends well beyond tech companies, with fraudsters interviewing at a \"surprising\" number of healthcare orgs, according to Okta Threat Intelligence.…",
-      "url": "https://www.theregister.com/2025/09/30/north_korean_it_workers_okta/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/30/north_korean_healthcare.jpg",
-      "publishedAt": "2025-09-30T22:20:52Z",
-      "content": "The North Korean IT worker threat extends well beyond tech companies, with fraudsters interviewing at a \"surprising\" number of healthcare orgs, according to Okta Threat Intelligence.\r\nIn research pub… [+4334 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "Toyota adds another $1.5B to its bet on startups at every stage | TechCrunch",
-      "description": "Toyota made two announcements that reflect the automaker's growing interest in startups working on mobility, climate, AI, sustainability, and industrial automation.",
-      "url": "https://techcrunch.com/2025/09/30/toyota-adds-another-1-5b-to-its-bet-on-startups-at-every-stage/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/akio-toyoda-AI-CES.jpg?resize=1200,800",
-      "publishedAt": "2025-09-30T22:19:46Z",
-      "content": "Toyota is looking for the next new thing in mobility, climate, AI, and industrial automation. Its answer is $1.5 billion in new capital that will focus on, and invest in, the life cycle of startups f… [+3481 chars]"
     }
   ]
 }
