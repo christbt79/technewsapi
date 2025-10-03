@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-03T14:09:09.806Z",
+  "fetchedAt": "2025-10-03T14:38:17.927Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "OpenAI is the world's most valuable private company after private stock sale | TechCrunch",
+      "description": "OpenAI is the world's most valuable private company after private stock sale | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T14:38:02Z",
+      "content": "OpenAI has sold $6.6 billion in shares held by current and former employees, according to a new report from Bloomberg. The sale pushed OpenAI’s total valuation to $500 billion, the highest ever achie… [+2108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Google's upcoming smart home speaker might actually make soundbars feel unnecessary",
+      "description": "A new Nest Doorbell and Nest Cams are joining the Google Home lineup, along with a major upgrade with generative AI.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/googles-upcoming-smart-home-speaker-might-actually-make-soundbars-feel-unnecessary/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/09a7aa92a20f5f7098ed96fc8a82915dc9659bbc/2025/09/30/e79ab7d3-83a8-4f3a-90d9-5c0c96f3a90e/gh.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T14:10:00Z",
+      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2141 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -852,12 +878,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -865,12 +891,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/a0175c72a6a07d50cdcbddb3515eb15d56f2f915/2025/10/01/0733dba0-61d7-4dfb-88ac-1c12c248d861/5-reasons-why-you-should-always-choose-local-ai-first.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-01T13:45:28Z",
       "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>AI use continues growing and impacting everything.</li><li>Using cloud-… [+5441 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Molly Higgins",
-      "title": "Petlibro Scout Smart Camera: Filled With Both Features and Kinks",
-      "description": "The pet-tech company’s new AI pet camera promises peace of mind but delivers bugginess and limited use.",
-      "url": "https://www.wired.com/review/petlibro-scout-smart-camera/",
-      "urlToImage": "https://media.wired.com/photos/68dcaa08f5b10387440a71e2/191:100/w_1280,c_limit/Review-%20Petlibro%20Scout%20Smart%20Camera_.png",
-      "publishedAt": "2025-10-01T13:39:00Z",
-      "content": "All of the footage was crystal-clear in 1080p HD, changing from black-and-white to color vision, depending on visibility, like ambient light from my TV while the room was dark. All of the videos take… [+2008 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "OpenAI's Sam Altman had secret TSMC meeting over future chip supply, report claims — AI pioneer in Asia as South Korea confirms 20MW data center deal with ChatGPT maker",
-      "description": "OpenAI CEO Sam Altman has reportedly held secretive meetings with TSMC and Foxconn in Taiwan as he looks to secure chip production for future facilities and his own internal chip design plans.",
-      "url": "https://www.tomshardware.com/tech-industry/openais-sam-altman-had-secret-tsmc-meeting-over-future-chip-supply-report-claims-ai-pioneer-in-asia-as-south-korea-confirms-20mw-data-center-deal-with-chatgpt-maker",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3HqB67hPA7vVDVKgWEzD2n-1920-80.jpg",
-      "publishedAt": "2025-10-01T13:29:25Z",
-      "content": "OpenAI CEO Sam Altman reportedly took a quiet trip to Taiwan this week to hold meetings with representatives of TSMC and Foxconn and discuss collaborating on chip design and manufacturing, as well as… [+2923 chars]"
     }
   ]
 }
