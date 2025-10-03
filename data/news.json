@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-03T15:09:05.902Z",
+  "fetchedAt": "2025-10-03T15:34:48.291Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Mad man builds chatbot in Minecraft with redstone, Python, and patience",
+      "description": "Replies are slow and it's prone to gibberish – just like any other AI\nNever mind Doom running on a potato, or whatever – the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular…",
+      "url": "https://www.theregister.com/2025/10/02/minecraft_ai_chatbot/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/02/minecraft-craftgpt.jpg",
+      "publishedAt": "2025-10-02T15:27:10Z",
+      "content": "Never mind Doom running on a potato, or whatever the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel build… [+2921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "Don't use ChatGPT voice mode if you want accuracy - here's why",
+      "description": "ChatGPT voice mode may sound eerily human, but it skips thinking.",
+      "url": "https://www.zdnet.com/article/dont-use-chatgpt-voice-mode-if-you-want-accuracy-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bdab6b8c37d575154bd63575c566775fe223b104/2025/10/02/ed41fcd5-8d15-4e04-92b5-940adabbc7e4/gpt-voice.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T15:20:45Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT voice mode rushes, sacrificing accuracy for speed</li><li>Web version answe… [+10908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Is the new Microsoft 365 Premium worth it? Here's how it compares to Copilot Pro",
+      "description": "At a cost of $200 a year, Microsoft 365 Premium is a new subscription that brings the full power and skillset of Copilot to Microsoft Office.",
+      "url": "https://www.zdnet.com/article/is-the-new-microsoft-365-premium-worth-it-heres-how-it-compares-to-copilot-pro/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1cbcc4557333182deaf3fbf2257f9015b585df60/2025/01/15/f06687b2-0c0e-46fe-9ac1-12bd82489839/support-for-microsoft-office-in-windows-10-ends-in-october-too-what-that-means-for-you.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T15:16:20Z",
+      "content": "ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new Microsoft 365 Premium adds the full power of Copilot.</li><li>The Premium subscription costs $200 … [+5049 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "OpenAI ropes in Korean giants Samsung and SK Hynix to feed its AI megaproject",
+      "description": "Duo pledge memory for Stargate to the tune of 900k DRAM wafer starts a month OpenAI has persuaded two of South Korea's chip titans to fuel its bid to build the biggest AI engine yet.…",
+      "url": "https://www.theregister.com/2025/10/02/openai_ropes_in_samsung_and/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/10/openai_shutterstock.jpg",
+      "publishedAt": "2025-10-02T15:09:49Z",
+      "content": "OpenAI has persuaded two of South Korea's chip titans to fuel its bid to build the biggest AI engine yet.\r\nChatGPT factory OpenAI confirmed this week that Samsung and SK Hynix will join the Stargate … [+2340 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -930,12 +982,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -943,12 +995,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_2190569351.jpg",
       "publishedAt": "2025-10-01T14:24:24Z",
       "content": "Taiwan has rejected US demands to shift semiconductor manufacturing so that half of America's chip needs are produced domestically, as tariff negotiations with the Trump administration intensify.\r\nTh… [+2578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Microsoft's ultra compact Windows 11 25H2 update is here - how to get it in a single restart",
-      "description": "Rolling out gradually, the 2025 Windows 11 update installs faster than Microsoft's previous annual releases.",
-      "url": "https://www.zdnet.com/article/microsofts-ultra-compact-windows-11-25h2-update-is-here-how-to-get-it-in-a-single-restart/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/19b0e00b27ec2c4585b3120738ba2cb7ec5ad7eb/2025/10/01/9a8e564b-8f0f-4df3-af40-11ec87ed01b0/windows-11.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T14:18:20Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft is gradually rolling out Windows 11 25H2.</li><li>You can wait for the up… [+4847 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus",
-      "description": "When Microsoft first launched its Copilot Pro plan last year and wanted an extra $20 a month on top of a Microsoft 365 Family or Personal subscription to get AI-powered Office features, it seemed like a tall ask. After bundling Office AI features into Microso…",
-      "url": "https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T14:16:18Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt offers Copilot Pro and a Microsoft 365 Family subscription for $19.99 a month.\r\nIt offers Copilot Pro and a Microsoft 365 Family subscription for $19.99 a mon… [+6027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft wants to mainly use its own AI data center chips in the future",
-      "description": "Microsoft has been developing its own chips for the data center designed to handle artificial intelligence workloads.",
-      "url": "https://www.cnbc.com/2025/10/01/microsoft-wants-to-mainly-use-its-own-ai-chips-in-the-future.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418128-1716325455581-gettyimages-2153485310-AFP_34TF72X.jpeg?v=1759323413&w=1920&h=1080",
-      "publishedAt": "2025-10-01T14:07:20Z",
-      "content": "Microsoft would like to mainly use its own chips in its data centers in the future, the tech giant's chief technology officer said on Wednesday, in a move which could reduce its reliance on major pla… [+3146 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Final 3 days to score extra discounts on community passes to TechCrunch Disrupt 2025",
-      "description": "Only 3 days left to lock in even bigger savings on group passes to TechCrunch Disrupt 2025! Exclusive to founders and investors, save up to 20% on groups of 4–9 until Friday, October 3 at 11:59 p.m. PT.",
-      "url": "https://techcrunch.com/2025/10/01/3-days-left-extra-discounts-community-passes-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/08/21618366341_fbe9a8e707_k.jpg?resize=1200,801",
-      "publishedAt": "2025-10-01T14:00:00Z",
-      "content": "There are only 3 days left to lock in even bigger savings on group passes to TechCrunch Disrupt 2025! Founders and investors save up to 20% on groups of 49 until Friday, October 3 at 11:59 p.m. PT.\r\n… [+3146 chars]"
     }
   ]
 }
