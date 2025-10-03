@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-03T14:38:17.927Z",
+  "fetchedAt": "2025-10-03T15:09:05.902Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "Phia's Phoebe Gates and Sophia Kianni talk consumer AI at Disrupt 2025 | TechCrunch",
+      "description": "Phia cofounders Phoebe Gates and Sophia Kianni join TechCrunch Disrupt 2025 to discuss building loyalty with Gen Z in consumer AI startups. Register here.",
+      "url": "https://techcrunch.com/2025/10/02/storming-the-gates-scaling-consumer-ai-with-phoebe-gates-and-sophia-kianni-only-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Gates-Kianni-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-02T15:02:01Z",
+      "content": "Consumer AI is having its breakout moment and few startups have captured the spotlight this year quite like Phia. The AI-powered shopping assistant has become one of 2025s buzziest launches, not only… [+2859 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Dominic-madori Davis",
+      "title": "A new a16z report looks at which AI companies startups are actually paying for | TechCrunch",
+      "description": "a16z releases its first AI spending report that shows which AI-native application layer companies startups are actually spending money on .",
+      "url": "https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Top-50-Ai-companies-a16z.png?w=1024",
+      "publishedAt": "2025-10-02T15:01:50Z",
+      "content": "On Thursday, Andreessen Horowitz released its first AI Spending Report in partnership with the fintech firm Mercury. Using transaction data from Mercury, the report analyzes the top 50 AI-native appl… [+5823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "I took the iPhone 17 on a trip to Hawaii, and it surpassed my expectations (until it didn't)",
+      "description": "The base-model iPhone is more competitive than ever, but there are still some things you'll have to settle for.",
+      "url": "https://www.zdnet.com/article/i-took-the-iphone-17-on-a-trip-to-hawaii-and-it-surpassed-my-expectations-until-it-didnt/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1c3a7238bbac00a84073e9f4a988e8eb5c268622/2025/09/30/a8896901-e552-4bec-8819-19d7416da83d/dsc02863.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T14:56:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBase model iPhones are often overlooked. Apple's launch of the iPhone 17 lineup made that even more the case, with the ultra-thin iPhone Air and… [+8076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "With S&P 500 near record highs, it's time to reconsider the set-it-and-forget-it strategy, some experts say",
+      "description": "Even as the S&P 500 index has climbed to new highs, experts say a diversified portfolio will likely be the long-term winner.",
+      "url": "https://www.cnbc.com/2025/10/02/sp-500-set-it-and-forget-it-strategy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106819384-1609876116428-gettyimages-1169704952-tdp03777.jpeg?v=1759257255&w=1920&h=1080",
+      "publishedAt": "2025-10-02T14:44:17Z",
+      "content": "The S&amp;P 500 index closed at a new all-time high on Wednesday amid a federal government shutdown. It rose to a new intraday high early Thursday.\r\nPrior to that, the index which is focused on large… [+3864 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -878,12 +930,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -891,12 +943,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/08/21618366341_fbe9a8e707_k.jpg?resize=1200,801",
       "publishedAt": "2025-10-01T14:00:00Z",
       "content": "There are only 3 days left to lock in even bigger savings on group passes to TechCrunch Disrupt 2025! Founders and investors save up to 20% on groups of 49 until Friday, October 3 at 11:59 p.m. PT.\r\n… [+3146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "I exported my Snapchat Memories to avoid the new storage fee - here's how",
-      "description": "Snapchat just limited its free Memories storage. Here's how much you get and what to do if you don't want to pay up.",
-      "url": "https://www.zdnet.com/article/i-exported-my-snapchat-memories-to-avoid-the-new-storage-fee-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2300f5dd85fcd4a4649fabdf0efea9bb8adb7d7c/2025/09/29/42ef1410-3c63-4e20-be2c-151689a56ae5/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T13:56:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Snapchat now limits free Memories storage to 5GB.</li><li>Paid plans start at $1.99… [+2877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Your Oura Ring's new Health Panels feature is out for blood - how it works",
-      "description": "Health Panels follows the lead of competitors by offering blood tests that users can schedule and review within the Oura app.",
-      "url": "https://www.zdnet.com/article/your-oura-rings-new-health-panels-feature-is-out-for-blood-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4b20375c29fc15931548edf6035f6581b778bcb4/2024/12/20/084df3fc-6883-49c9-8463-219606365a65/8ba0275c-e460-4d83-b8f3-900c5132693d-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T13:52:51Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Oura launches blood test through Health Panels. </li><li>The feature tests 50 biomarkers. </… [+2845 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "OpenAI ropes in Samsung, SK Hynix to source memory chips for Stargate | TechCrunch",
-      "description": "OpenAI has struck agreements with two of the world's biggest manufacturers of memory chips, Samsung Electronics and SK Hynix, to make DRAM wafers for the Stargate AI infrastructure project, and build data centers in South Korea.",
-      "url": "https://techcrunch.com/2025/10/01/openai-ropes-in-samsung-sk-hynix-to-source-memory-chips-for-stargate/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
-      "publishedAt": "2025-10-01T13:47:54Z",
-      "content": "OpenAI is leaving few stones unturned in the race to build compute capacity for its AI efforts. \r\nThe ChatGPT maker on Wednesday said it had struck agreements with two of the world’s biggest manufact… [+2029 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "5 reasons I use local AI on my desktop - instead of ChatGPT, Gemini, or Claude",
-      "description": "I have a simple explanation for using local AI. It's completely free, for starters. Here's how.",
-      "url": "https://www.zdnet.com/article/5-reasons-i-use-local-ai-on-my-desktop-instead-of-chatgpt-gemini-or-claude/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a0175c72a6a07d50cdcbddb3515eb15d56f2f915/2025/10/01/0733dba0-61d7-4dfb-88ac-1c12c248d861/5-reasons-why-you-should-always-choose-local-ai-first.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T13:45:28Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>AI use continues growing and impacting everything.</li><li>Using cloud-… [+5441 chars]"
     }
   ]
 }
