@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-02T23:31:28.912Z",
+  "fetchedAt": "2025-10-03T00:40:50.986Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "SK Hynix shares hit multidecade highs, Samsung also surges on OpenAI partnership",
+      "description": "The partnership will \"focus on increasing the supply of advanced memory chips essential for next-generation AI and expanding data center capacity in Korea.\"",
+      "url": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1753922875&w=1920&h=1080",
+      "publishedAt": "2025-10-02T00:35:48Z",
+      "content": "Shares of South Korean chip heavyweights Samsung Electronics and SK Hynix surged Thursday, a day after the two companies partnered with artificial-intelligence major OpenAI as part of the U.S. firm's… [+558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Meta will listen into AI conversations to personalize ads",
+      "description": "Religion, race, health and other dicey topics supposedly exempt\nMeta, having committed hundreds of billions to AI infrastructure and talent, says it will start using people's conversations and interactions with its AI services to create personalized content a…",
+      "url": "https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/",
+      "urlToImage": "https://regmedia.co.uk/2022/05/25/meta_facebook_logo.jpg",
+      "publishedAt": "2025-10-01T23:48:38Z",
+      "content": "Meta, having committed hundreds of billions to AI infrastructure and talent, says it will start using people's conversations and interactions with its AI services to create personalized content and a… [+3898 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/JQqRfYRo6tzoqQ3BJtfxHB-2000-80.jpg",
       "publishedAt": "2025-10-01T09:51:42Z",
       "content": "Popular drone maker DJI has issued a fervent rejection of a recent U.S. District Court ruling, which upheld the Department of Defence's (recently rebranded to the Department of War) designation of th… [+3045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Data centers are a gold rush for global real estate — but can funding keep up?",
-      "description": "\"The world of real estate is changing from what I'd call the 'visible' to the 'invisible,'\" said Kishore Moorjani, CEO of CapitaLand Investment's alternatives and private funds team.",
-      "url": "https://www.cnbc.com/2025/10/01/data-centers-hyperscalers-gold-rush-global-real-estate-commerical-real-estate-funding.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203265-1758719646927-gettyimages-2236587647-STARGATE_DATA_CENTER.jpeg?v=1758719688&w=1920&h=1080",
-      "publishedAt": "2025-10-01T09:44:12Z",
-      "content": "For decades, global real estate revolved around what could be seen gleaming office towers, shopping malls, and trophy hotels, but that has increasingly shifted to \"invisible\" property: cloud and data… [+3479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "SA Mathieson",
-      "title": "Explain digital ID or watch it fizzle out, UK PM Starmer told",
-      "description": "Politico avoids the topic at Labour conference speech, homes in on AI instead\nUK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of…",
-      "url": "https://www.theregister.com/2025/10/01/digital_id_labour_conference/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/digital_identity.jpg",
-      "publishedAt": "2025-10-01T09:13:51Z",
-      "content": "UK prime minister Keir Starmer avoided mentioning the mandatory digital ID scheme in his keynote speech to the Labour Party conference amid calls for him to put meat on the bones of the plans or risk… [+2412 chars]"
     }
   ]
 }
