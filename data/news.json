@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-03T15:34:48.291Z",
+  "fetchedAt": "2025-10-03T16:10:30.454Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Cindy Zackney",
+      "title": "Celebrating the partners driving Disrupt’s big ideas, connections, and community | TechCrunch",
+      "description": "TechCrunch Disrupt 2025 wouldn’t be possible without the incredible support of our sponsors, who bring world-class expertise, bold innovation, and community energy to every corner of the conference.",
+      "url": "https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_Disrupt_General_Article_No-Anniversary_Headers_1920x1080.png?resize=1200,675",
+      "publishedAt": "2025-10-02T16:02:29Z",
+      "content": "TechCrunch Disrupt 2025 wouldnt be possible without the incredible support of our sponsors, who bring world-class expertise, bold innovation, and community energy to every corner of the conference.\r\n… [+2762 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Ex-OpenAI researcher dissects one of ChatGPT's delusional spirals | TechCrunch",
+      "description": "A former OpenAI researcher looked into how ChatGPT can mislead delusional users about their reality and its own capabilities",
+      "url": "https://techcrunch.com/2025/10/02/ex-openai-researcher-dissects-one-of-chatgpts-delusional-spirals/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T15:48:05Z",
+      "content": "Allan Brooks never set out to reinvent mathematics. But after weeks spent talking with ChatGPT, the 47-year-old Canadian came to believe he had discovered a new form of math powerful enough to take d… [+5897 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Perplexity’s Comet AI browser now free; Max users get new 'background assistant' | TechCrunch",
+      "description": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid subscribers, the startup has also launched a new ‘background…",
+      "url": "https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
+      "publishedAt": "2025-10-02T15:37:59Z",
+      "content": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid … [+3429 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -982,12 +1021,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -995,12 +1034,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/physics-notebook.jpeg?resize=1200,745",
       "publishedAt": "2025-10-01T15:00:00Z",
       "content": "We have reached a place in the AI lifecycle where we’re seeing a lot of “X meets Y” applications. Multiplecompanies are already releasing “AI meets TikTok” apps, for instance. Now, Berlin and New Yor… [+2737 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple | TechCrunch",
-      "description": "Kevin Hart’s VC firm leads $35M Series B for weight-loss app Simple | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/01/kevin-harts-vc-firm-leads-35m-series-b-for-weight-loss-app-simple/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mike-Prytkov.jpg?resize=1200,800",
-      "publishedAt": "2025-10-01T14:57:56Z",
-      "content": "Mike Prytkov said he knows what its like to let stress take over ones life. \r\nWhile building his first company, he said he worked long hours and gained weight. After exiting his company (an adtech co… [+3743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I finally found a pair of live translation earbuds that work (and they're not AirPods)",
-      "description": "I've tested a lot of earbuds in my time, so when a pair is impressive enough to raise my eyebrows, I know I'm working with something special.",
-      "url": "https://www.zdnet.com/article/i-finally-found-a-pair-of-live-translation-earbuds-that-work-and-theyre-not-airpods/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/55de8eb23a97f03abdf128b22d6eb38e8085ee44/2025/09/30/561053b9-6723-4412-8953-22da67d411a8/viaimhand.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T14:32:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Taiwan won't chip in to US effort to make half its own processors",
-      "description": "US has threatened even higher tariffs and the possible loss of military support\nTaiwan has rejected US demands to shift semiconductor manufacturing so that half of America's chip needs are produced domestically, as tariff negotiations with the Trump administr…",
-      "url": "https://www.theregister.com/2025/10/01/taiwan_says_it_wont_help/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_2190569351.jpg",
-      "publishedAt": "2025-10-01T14:24:24Z",
-      "content": "Taiwan has rejected US demands to shift semiconductor manufacturing so that half of America's chip needs are produced domestically, as tariff negotiations with the Trump administration intensify.\r\nTh… [+2578 chars]"
     }
   ]
 }
