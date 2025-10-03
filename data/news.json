@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-03T20:36:13.746Z",
+  "fetchedAt": "2025-10-03T21:07:18.548Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "10 Linux tips I give to both beginners and professionals for improved productivity",
+      "description": "Linux isn't just about picking a distro or desktop environment - it's also about optimizing how you interact with your PC for maximum efficiency.",
+      "url": "https://www.zdnet.com/article/10-linux-tips-i-give-to-both-beginners-and-professionals-for-improved-productivity/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7dc83b932ed72e220517ba6de32b7e78cf1ad669/2024/09/18/1fcabcc1-08eb-425c-aa9e-d2ddc4d54fa9/microsoft-surface-laptop-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T20:43:00Z",
+      "content": "Yuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>With a bit of effort, you can elevate Linux's desktop efficiency.</li><li>These … [+7213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
+      "description": "Pivot will hinge on success of next-gen Maia accelerator\nMicrosoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond's leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.…",
+      "url": "https://www.theregister.com/2025/10/02/microsoft_maia_dc/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/02/microsoft_azure_maia_100_handout.jpg",
+      "publishedAt": "2025-10-02T20:41:26Z",
+      "content": "Microsoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond's leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.\r\nThe software … [+2481 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8b82515860bf36f6e5973bff6ace7f8324356247/2025/10/01/01d95518-c93f-43a7-9b66-e62a8c07c03c/dodge.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-01T19:01:00Z",
       "content": "David Gewirtz / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Photoshop beta introduces powerful AI Harmonize feature.</li><li>Co… [+9398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google cuts more than 100 design-related roles in cloud unit",
-      "description": "The latest layoffs come as Google accelerates cuts to focus spending on artificial intelligence infrastructure.",
-      "url": "https://www.cnbc.com/2025/10/01/google-cloud-unit-layoffs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106865514-1617896998844-gettyimages-1135936636-GOOGLE_CLOUD_CONFERENCE.jpeg?v=1759340284&w=1920&h=1080",
-      "publishedAt": "2025-10-01T18:58:20Z",
-      "content": "Google has laid off more than 100 employees in design-related roles, CNBC has learned.\r\nEarlier this week, the company laid off employees within the cloud unit's \"quantitative user experience researc… [+1502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Intel stock pops on news company is in early talks to add AMD as a customer",
-      "description": "The U.S. government, Nvidia and Softbank have all taken recent stakes in Intel.",
-      "url": "https://www.cnbc.com/2025/10/01/intel-stock-amd-chips.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
-      "publishedAt": "2025-10-01T18:33:44Z",
-      "content": "Intel is in early talks with AMD to manufacture chips for it in its foundry business, according to a report from Semafor.\r\nIntel shares rose as much as 6% on the news at one point during trading on W… [+1250 chars]"
     }
   ]
 }
