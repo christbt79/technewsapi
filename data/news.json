@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-03T19:31:28.885Z",
+  "fetchedAt": "2025-10-03T20:09:24.538Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Kindle Scribe vs. ReMarkable Paper Pro: I compared the two premium tablets, and here's the winner",
+      "description": "Amazon's new Kindle Scribe Colorsoft features an 11-inch color display, but how does it stack up against the ReMarkable Paper Pro? I broke it all down.",
+      "url": "https://www.zdnet.com/article/kindle-scribe-vs-remarkable-paper-pro-i-compared-the-two-premium-tablets-and-heres-the-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1a34ab8d81706087755402320f240255de3ab5dd/2024/09/03/95759641-4c64-4c2f-a3e6-62c76894d1c0/paper-pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T20:08:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon announced its new Kindle Scribe Colorsoft, a premium writing tablet with a color display.… [+4630 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Google is destroying independent websites, and one sees no choice but to defend it anyway",
+      "description": "To WikiHow, Google is both tormentor and savior. And on Wednesday, as the search giant mounted its defense in the ongoing ad tech remedies trial, the how-to site came to Google's rescue. WikiHow CEO Elizabeth Douglas described to a court how websites like her…",
+      "url": "https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257989_wikihow_google_ad_tech_CVirginia_4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-02T19:58:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWikiHows CEO says Googles ad tools give it stability, even as other parts of its business upend how users navigate websites.\r\nWikiHows CEO says Googles ad tools … [+6195 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800",
       "publishedAt": "2025-10-01T18:04:30Z",
       "content": "In a video on OpenAI’s new TikTok-like social media app Sora, a never-ending factory farm of pink pigs are grunting and snorting in their pens — each is equipped with a feeding trough and a smartphon… [+7065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "This smart garden makes it easy to grow up to 16 plants at home - here's how",
-      "description": "The Gardyn Studio 2.0 is the smartest indoor garden I've seen, even featuring a camera that uses AI to assess your plants.",
-      "url": "https://www.zdnet.com/article/this-smart-garden-makes-it-easy-to-grow-up-to-16-plants-at-home-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/dc1822e172e4479fa1fbf15ae61c2919a29d3375/2025/10/01/a6fd1b83-df10-4899-aedc-ca0af1f224d6/gardyb.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T18:01:08Z",
-      "content": "Gardyn\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Gardyn just announced the new Studio 2 smart garden.</li><li>It's a compact upright garden with a 16-plan… [+3543 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
-      "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     }
   ]
 }
