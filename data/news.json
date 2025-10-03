@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-03T17:33:31.536Z",
+  "fetchedAt": "2025-10-03T18:12:28.788Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Jules enters developers' toolchains as AI coding agent competition heats up | TechCrunch",
+      "description": "Google's Jules enters developers' toolchains as AI coding agent competition heats up | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/google-jules.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T18:02:02Z",
+      "content": "Google is bringing its AI coding agentJules deeper into developer workflows with a new command-line interface and public API, allowing it to plug into terminals, CI/CD systems, and tools like Slack a… [+4594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "How to get access to Alexa+ on your Amazon device (and which Echo models support it)",
+      "description": "Amazon's AI-powered Alexa+ has been rolling out for a few months. Here's how you can sign up for early access.",
+      "url": "https://www.zdnet.com/article/how-to-get-access-to-alexa-on-your-amazon-device-and-which-echo-models-support-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fca24ab5160db416e3ef855650d190a689c114b3/2025/02/26/a19ba532-cafa-4d53-8486-af03da81df91/img-1513.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T17:55:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Alexa+ is now in early access with gradual expansion planned.</li><li>You can join … [+2732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Ex-US cyber boss slams politics getting in the way of preparedness",
+      "description": "And don't even get him started on AI\ninterview The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ever to hold that job. …",
+      "url": "https://www.theregister.com/2025/10/02/exnational_cyber_boss_us_cyber/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/02/chris_inglis.jpg",
+      "publishedAt": "2025-10-02T17:47:24Z",
+      "content": "interview The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ev… [+4343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "There's a new OpenAI app in town - here's what to know about Sora for iOS",
+      "description": "Sora by OpenAI is a short-form AI-generated video app, but accessing it has a few caveats. Here's how to sign up.",
+      "url": "https://www.zdnet.com/article/theres-a-new-openai-app-in-town-heres-what-to-know-about-sora-for-ios/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T17:34:06Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's new Sora 2 AI video and audio engine is here.</li><li>Sora 2 is featured i… [+2597 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Donnell-and-Viviane-3.jpg?resize=1200,798",
       "publishedAt": "2025-10-01T16:03:43Z",
       "content": "When Donnell Beverly Jr. decided to launch end-of-life planning startup Eazewell after the loss of both of his parents, he knew exactly who to call to help launch the business: longtime friend, and n… [+3592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft sales chief Althoff gets new role as CEO of company's commercial business",
-      "description": "Bringing together sales with marketing and other functions is critical for Microsoft to lead in the artificial intelligence era, CEO Satya Nadella said.",
-      "url": "https://www.cnbc.com/2025/10/01/microsoft-makes-co.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206486-1759333457164-gettyimages-470909736-84909429.jpeg?v=1759333504&w=1920&h=1080",
-      "publishedAt": "2025-10-01T16:03:01Z",
-      "content": "Microsoft's top-ranking sales leader, Judson Althoff, has been promoted to a bigger role as CEO of the company's commercial business. \r\nSatya Nadella, Microsoft's CEO, wrote in a memo on Wednesday th… [+1472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft launches AI and productivity software bundle for consumers",
-      "description": "The software company introduced Copilot Pro at $20 per month in early 2024.",
-      "url": "https://www.cnbc.com/2025/10/01/microsoft-365-premium-bundle-ai-copilot.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107380575-1709232114037-gettyimages-1755654626-porzycki-internet231030_npqRj.jpeg?v=1759322241&w=1920&h=1080",
-      "publishedAt": "2025-10-01T16:00:01Z",
-      "content": "Microsoft said Wednesday that it will stop promoting a consumer subscription for artificial intelligence services and introduced a bundle blending AI features with traditional productivity apps.\r\nThe… [+1884 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "Prickly Pear Health will showcase how it's helping women's brain health at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "Prickly Pear Health provides medical support for women’s brain health, a voice-first, AI-powered companion that helps women in their 30s to 50s navigate the hormonal changes that affect brain health.",
-      "url": "https://techcrunch.com/2025/10/01/prickly-pear-health-will-showcase-how-its-helping-womens-brain-health-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Imen-Clark.png?resize=1200,796",
-      "publishedAt": "2025-10-01T15:58:53Z",
-      "content": "Iman Clark, CEO of Prickly Pear Health, says she had an epiphany that eventually led her to TechCrunch’s Startup Battlefield at TechCrunch Disrupt 2025.  \r\nIt was around nine years ago. She moved fro… [+4590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Government shutdown means opportune timing for Neptune Flood IPO",
-      "description": "Neptune Insurance, the nation's largest private flood insurance, goes public on the New York Stock Exchange Wednesday.",
-      "url": "https://www.cnbc.com/2025/10/01/neptune-flood-ipo-government-shutdown.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206351-1759325829345-gettyimages-2238122075-NEPTUNE_IPO.jpeg?v=1759325852&w=1920&h=1080",
-      "publishedAt": "2025-10-01T15:51:04Z",
-      "content": "The timing of Neptune Insurance Holdings' IPO couldn't be more opportune.\r\nNeptune, the nation's largest private flood insurance, debuts on the New York Stock Exchange Wednesday under the ticker symb… [+1615 chars]"
     }
   ]
 }
