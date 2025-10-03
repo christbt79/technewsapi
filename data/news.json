@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-03T16:41:20.496Z",
+  "fetchedAt": "2025-10-03T17:07:32.513Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Perplexity AI rolls out Comet browser for free worldwide",
+      "description": "Perplexity initially launched Comet in July to Perplexity Max subscribers for $200 a month",
+      "url": "https://www.cnbc.com/2025/10/02/perplexity-ai-comet-browser-free-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184850-1755017763034-gettyimages-2169504261-SKOREA_SK_TELECOM_PERPLEXITY.jpeg?v=1755017792&w=1920&h=1080",
+      "publishedAt": "2025-10-02T17:01:55Z",
+      "content": "Perplexity AI on Thursday announced that its artificial-intelligence-powered web browser Comet is available worldwide, and will be free to users.\r\nThe Comet browser is designed to serve as a personal… [+1864 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "AMD and Intel's unlikely chipmaking partnership isn't without its benefits — how AMD could divest reliance on TSMC",
+      "description": "Intel and AMD have competed at opposite ends of the x86 spectrum for decades, but a potential deal could be mutually beneficial for both companies.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-in-early-talks-to-use-ifs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/V6g9erh8DezsJ2RfiySJiT-2560-80.png",
+      "publishedAt": "2025-10-02T16:55:38Z",
+      "content": "Intel and AMD have mostly been rivals for decades, but for the first time in years, they may soon share a wafer. According to a new report, AMD is in early discussions with Intel to build some of its… [+5261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Do you get your news from AI? Who is - and isn't, according to Pew Research",
+      "description": "Americans are having a hard time trusting AI as a news source - and for good reason.",
+      "url": "https://www.zdnet.com/article/do-you-get-your-news-from-ai-who-is-and-isnt-according-to-pew-research/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/52265bd5b82667c5a320a96ae2c8f76d143eb285/2025/10/02/78e6b9bb-d66a-4432-9cae-767cbf84fefa/gettyimages-2207447081.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T16:51:57Z",
+      "content": "Francesco Carta fotografo/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most Americans aren't using AI as a news source.</li><li>Thos… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "How to get access to Alexa+ now - and which Echo devices support it",
+      "description": "Amazon's AI-powered Alexa+ has been rolling out for a few months. Here's how you can sign up for early access.",
+      "url": "https://www.zdnet.com/article/how-to-get-access-to-alexa-now-and-which-echo-devices-support-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/38048dedda8b975264387a64231beb79cfb4bcf8/2025/10/02/570328df-c8cb-46a0-8c62-de410d239563/how-to-get-early-access-to-alexa-and-which-amazon-echo-devices-support-it.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T16:46:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollowing the launch of the new Amazon devices, you may be wondering when you'll be able to access Alexa+. \r\nAmazon announced Alexa+ in February, a generative AI-powered… [+2436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Sunny Grimm",
+      "title": "Phison CEO claims NAND shortage could last a staggering 10 years — says memory 'supercycle' imminent and 'severe' 2026 shortages are at hand",
+      "description": "Phison CEO Pua Khein-Seng has claimed in an interview this week that the upcoming forecasted NAND flash shortage will last \"for the next ten years\", rather than the more optimistic 1 year claimed by other industry insiders. The negative implications of the AI…",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-ceo-claims-nand-shortage-could-last-a-staggering-10-years-says-memory-supercycle-imminent-and-severe-2026-shortages-are-at-hand",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iHNpsAJJPxBe5b4iXgMfUG-2000-80.jpg",
+      "publishedAt": "2025-10-02T16:44:07Z",
+      "content": "The implications of the AI data center boom continue to mount ever higher by the day. Pua Khein-Seng, CEO of Phison Electronics Corporation, claimed in a recent interview that NAND flash shortages fo… [+4234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Vala Afshar",
+      "title": "How autonomous businesses succeed by engaging with the world",
+      "description": "Companies are becoming autonomous machines, and this 'outside-in' orientation has profound implications for how they think about customers, markets, and value creation.",
+      "url": "https://www.zdnet.com/article/how-autonomous-businesses-succeed-by-engaging-with-the-world/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/40bfbc029f64a4c099f5cb7c2c31c46d3c9362ad/2025/10/02/9b729380-10dc-4072-b9b7-ceebce8f2c8a/holgram5555gettyimages-1208410138.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T16:41:48Z",
+      "content": "Adrienne Bresnahan/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses that leverage digital labor and agentic AI are becoming au… [+10393 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1034,12 +1112,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1047,12 +1125,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0231.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-01T15:37:21Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nNew firmware updates are available through Sonys Sound Connect mobile app.\r\nNew firmware updates are available through Sonys Sound Connect mobile app.\r\nby\r\nAndre… [+3139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "OpenAI's Stargate project to consume up to 40% of global DRAM output — inks deal with Samsung and SK hynix to the tune of up to 900,000 wafers per month",
-      "description": "Samsung and SK hynix have agreed to supply undiced DRAM wafers to OpenAI’s Stargate project, which could consume up to 900,000 wafers per month, or about 40% of global DRAM output, as Stargate is gearing up for unprecedented expansion.",
-      "url": "https://www.tomshardware.com/pc-components/dram/openais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pU95E8pwfvrx8dWfwg7X8M-1920-80.jpg",
-      "publishedAt": "2025-10-01T15:17:45Z",
-      "content": "Samsung and SK hynix have inked preliminary agreements to supply memory to OpenAI’s massive Stargate data center initiative, reports Reuters. Instead of actual tested and packaged DRAM chips or HBM s… [+3050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Your Google Nest devices are getting a big upgrade for free - these older models included",
-      "description": "The highly anticipated Gemini for Home update has arrived, and it's coming to most Nest security products.",
-      "url": "https://www.zdnet.com/article/your-google-nest-devices-are-getting-a-big-upgrade-for-free-these-older-models-included/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2c3fb98206da4e152270d019182e74b38ab57b84/2024/10/09/331be6e5-b08d-4419-a582-16887531daee/nest1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T15:13:00Z",
-      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "Samsung’s Galaxy Watch 7 is over $90 off at Amazon",
-      "description": "Few gadgets are as personal as a smartwatch, which you literally wear on your wrist all day (and potentially while you sleep). Samsung’s Galaxy Watch 7 is one of the best Android smartwatches we’ve tested, and you can pick up a 40mm Bluetooth model for $158.9…",
-      "url": "https://www.theverge.com/tech/789818/samsung-galaxy-watch-7-eufy-e28-robot-vacuum-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Samsung-Galaxy-Watch-7-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T15:10:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, we found great deals on Eufys E28 robot vacuum and games from Steams autumn sale. \r\nPlus, we found great deals on Eufys E28 robot vacuum and games from Ste… [+5302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Pankaj Gupta",
-      "title": "The cloud reset is a financial reckoning in disguise",
-      "description": "Private cloud solutions are making a comeback Partner Content  Cloud computing was supposed to save money. Instead, it's become one of the largest and hardest line items to govern in the IT budget.…",
-      "url": "https://www.theregister.com/2025/10/01/cloud_reset_financial_reckoning/",
-      "urlToImage": "https://regmedia.co.uk/2018/01/19/shutterstock_hand_cloudc.jpg",
-      "publishedAt": "2025-10-01T15:01:52Z",
-      "content": "Partner ContentCloud computing was supposed to save money. Instead, it's become one of the largest and hardest line items to govern in the IT budget.\r\nAs enterprises rushed to modernize with public c… [+4206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "OpenStack in the pink with Flamingo release that escapes ancient Python constrictions",
-      "description": "Project boss pleased to be getting on top of technical debt OpenStack has delivered its 32nd major release, named \"Flamingo.\"…",
-      "url": "https://www.theregister.com/2025/10/01/openstack_flamingo_release/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/screenshot_openstack_flamingo.jpg",
-      "publishedAt": "2025-10-01T15:00:16Z",
-      "content": "OpenStack has delivered its 32nd major release, named \"Flamingo.\"\r\nOpenStack Technical Committee chair Goutham Pacha Ravi singled out work to remove eventlet dependencies as a major feature of this r… [+3008 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Creative machines and where AI meets imagination at TechCrunch Disrupt 2025",
-      "description": "Discover how AI is co-creating the future of storytelling, video, and animation at TechCrunch Disrupt 2025, with Prateek Dixit, Nikola Todorovic, and Soyoung Lee. Join with a group and save up to 20%, or register yourself to save up to $444.",
-      "url": "https://techcrunch.com/2025/10/01/creative-machines-and-where-ai-meets-imagination-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Todorovic-Dixit-Lee-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-01T15:00:00Z",
-      "content": "AI isnt just crunching data its helping humans dream bigger. At TechCrunch Disrupt 2025, three leaders from TwelveLabs, Wonder Dynamics (an Autodesk company), and Pocket Entertainment, at the interse… [+2045 chars]"
     }
   ]
 }
