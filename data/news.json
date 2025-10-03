@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-03T16:10:30.454Z",
+  "fetchedAt": "2025-10-03T16:41:20.496Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "The smart glasses race is really on now",
+      "description": "Last month, I had a conversation with someone wearing glasses — and couldn’t see that they had a display right in front of one of their eyes. Through a monitor connected to the glasses, I watched in awe as my colleague Victoria Song scrolled through and wrote…",
+      "url": "https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257988_smart_glasses_race_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-02T16:28:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple is reportedly putting more resources behind smart glasses. Will it crush Meta?\r\nApple is reportedly putting more resources behind smart glasses. Will it cr… [+5625 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Todorovic-Dixit-Lee-Speaker-16x9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-01T15:00:00Z",
       "content": "AI isnt just crunching data its helping humans dream bigger. At TechCrunch Disrupt 2025, three leaders from TwelveLabs, Wonder Dynamics (an Autodesk company), and Pocket Entertainment, at the interse… [+2045 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Deta’s Surf app is an amalgamation of an AI browser and NotebookLM",
-      "description": "A startup called Deta is releasing a new app called Surf, which is a remix of an AI browser and NotebookLM.",
-      "url": "https://techcrunch.com/2025/10/01/detas-surf-app-is-an-amalgamation-of-an-ai-browser-and-notebooklm/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/physics-notebook.jpeg?resize=1200,745",
-      "publishedAt": "2025-10-01T15:00:00Z",
-      "content": "We have reached a place in the AI lifecycle where we’re seeing a lot of “X meets Y” applications. Multiplecompanies are already releasing “AI meets TikTok” apps, for instance. Now, Berlin and New Yor… [+2737 chars]"
     }
   ]
 }
