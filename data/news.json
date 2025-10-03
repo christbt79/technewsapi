@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-03T11:31:32.768Z",
+  "fetchedAt": "2025-10-03T12:16:41.887Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's Inside India newsletter: India’s gigawatt gold rush",
+      "description": "India’s data center sector is in the middle of a gold rush, with global giants, billionaires and even luxury property developers piling in.",
+      "url": "https://www.cnbc.com/2025/10/02/cnbcs-inside-india-newsletter-indias-gigawatt-gold-rush.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206876-1759396589790-gettyimages-2153630961-INDIA_YOTTA_NVIDIA.jpeg?v=1759396602&w=1920&h=1080",
+      "publishedAt": "2025-10-02T12:03:58Z",
+      "content": "A Nvidia HGX H100 server at the Yotta Data Services Pvt. data center in Navi Mumbai, India, on Thursday, Mar. 14, 2024.\r\nThis report is from this week's CNBC's \"Inside India\" newsletter, which brings… [+10084 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Dominic-madori Davis",
+      "title": "Oneleet raises $33M to shake up the world of security compliance | TechCrunch",
+      "description": "Founder Bryan Onel says too many companies are doing the bare minimum to meet their security compliance obligations, and raised $33 million to help his customers get both compliant and secure.",
+      "url": "https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/One-Leet.jpg?resize=1200,799",
+      "publishedAt": "2025-10-02T12:01:39Z",
+      "content": "Bryan Onels father was a locksmith. As for Onel, he described himself as the digital equivalent.\r\nEthical hacking was Onel’s hobby growing up. He studied AI at university and then turned that hacking… [+4199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "U.S. Commerce Sec. Lutnick says American AI dominates DeepSeek, thanks Trump for AI Action Plan — OpenAI and Anthropic beat Chinese models across 19 different benchmarks",
+      "description": "NIST just released a study showing OpenAI's and Anthropic's models defeating DeepSeek in several benchmarks.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-commerce-sec-lutnick-says-american-ai-dominates-deepseek-thanks-trump-for-ai-action-plan-openai-and-anthropic-beat-chinese-models-across-19-different-benchmarks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GY2SUFu9EnptyCgxYtvHpT-2000-80.jpg",
+      "publishedAt": "2025-10-02T11:47:08Z",
+      "content": "The National Institute of Science and Technology (NIST) has just completed a comprehensive test of Chinese and American AI models, with the results showing that models from OpenAI and Anthropic outpe… [+3062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Wi-Fi signals can now create accurate images of a room with the help of pre-trained AI — 'LatentCSI' leverages Stable Diffusion 3 to turn Wi-Fi data into a digital paintbrush",
+      "description": "Researchers have cracked the code to fast and accurate image generation with Wi-Fi signals. Previously, Wi-Fi-based imagery was all but rough sketches, but with the help of a pretrained Stable Diffusion model, these Wi-Fi signals can now create realistic visu…",
+      "url": "https://www.tomshardware.com/tech-industry/wi-fi-signals-can-now-create-accurate-images-of-a-room-with-the-help-of-pre-trained-ai-latentcsi-leverages-stable-diffusion-3-to-turn-wi-fi-data-into-a-digital-paintbrush",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kbnZrASYje3B6GAvhTYukR-2560-80.jpg",
+      "publishedAt": "2025-10-02T11:44:44Z",
+      "content": "The Wi-Fi devices around us constantly share signals between each other, creating a perpetually reverberant environment where these radio waves become borderline spatially aware. Because the signals … [+3160 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Walmart’s Onn cameras were developed with Google and start at just $23",
-      "description": "Walmart is adding cameras to its in-house tech brand Onn, and these low-cost gadgets were designed and built to work with Google Home and its new Gemini features. The $22.96 Onn Indoor camera and $49.86 Onn Video Doorbell launch today, October 1st, at Walmart…",
-      "url": "https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/IMG_0172.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "publishedAt": "2025-10-01T12:50:41Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new indoor camera and $50 doorbell are built for Google Home.\r\nThe new indoor camera and $50 doorbell are built for Google Home.\r\nby\r\nJennifer Pattison Tuohy… [+4055 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Hands-on with the new Google Home Speaker coming next year",
-      "description": "Google is finally launching a new smart speaker, and it's a complete redesign. The new Google Home Speaker features a new flattened sphere shape, new colors, a new light ring, and lots of new AI-powered features. Announced this week, along with a major Gemini…",
-      "url": "https://www.theverge.com/tech/788085/hands-on-google-home-speaker",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0189-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "publishedAt": "2025-10-01T12:35:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nFirst look at Googles new $99 Home Speaker with a vastly improved Gemini assistant on board.\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattison Tuohy\r\nSenior R… [+6703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Raspberry Pi prices hiked as AI gobbles all the memory",
-      "description": "Another thing you can blame on the hypefest: demand sends HBM costs up 120% in a year Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls \"insatiable demand for high-bandwidth memory (HBM)…",
-      "url": "https://www.theregister.com/2025/10/01/raspberry_pi_price_hikes/",
-      "urlToImage": "https://regmedia.co.uk/2020/10/19/raspberr_pi_compute_model_four.png",
-      "publishedAt": "2025-10-01T12:31:30Z",
-      "content": "Raspberry Pi is upping the cost of some devices by double-digit percentages from today driven by what CEO Eben Upton calls \"insatiable demand for high-bandwidth memory (HBM) for AI applications.\"\r\nEv… [+2334 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Qualcomm scores big win over Arm in contentious lawsuit — U.S. court rejects Arm’s lawsuit, confirms Qualcomm’s can use Oryon cores acquired via Nuvia",
-      "description": "The ruling builds on Qualcomm’s 2024 trial win, rejecting Arm’s attempt to force destruction of Oryon CPU designs.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomm-scores-big-win-over-arm-in-contentious-lawsuit-u-s-court-rejects-arms-lawsuit-confirms-qualcomms-can-use-oryon-cores-acquired-via-nuvia",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zczSw5Asj7kMMeQPieGJhV-1920-80.jpg",
-      "publishedAt": "2025-10-01T12:26:35Z",
-      "content": "Qualcomm, along with its subsidiary Nuvia, have finally won the legal battle against Arm Holdings, which had accused the chip-maker of violating license agreements tied to its chip designs. A U.S. Di… [+3063 chars]"
     }
   ]
 }
