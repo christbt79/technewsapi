@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-03T13:39:31.720Z",
+  "fetchedAt": "2025-10-03T14:09:09.806Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Apple shelves Vision Pro overhaul to focus on AI glasses",
+      "description": "Bloomberg reports that the tech giant is developing at least two types of smart glasses.",
+      "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/CMC_6538.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T14:06:13Z",
+      "content": "Apple is sidelining plans to overhaul its Vision Pro VR glasses to focus on developing AI smart glasses that can compete with products from Meta, according to a new report from Bloomberg’s Mark Gurma… [+854 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Google is giving older Nest devices a useful security upgrade - no additional costs required",
+      "description": "The highly anticipated Gemini for Home update has arrived, and it's coming to most Nest security products.",
+      "url": "https://www.zdnet.com/article/google-is-giving-older-nest-devices-a-useful-security-upgrade-no-additional-costs-required/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a9b9835e59602d88e5510472f1e8860bc051c31e/2024/10/09/8bb04fba-3264-4e4d-84b4-b42f2a124ceb/nest11.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T14:03:00Z",
+      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow",
+      "description": "Founder and Investor Bundle savings for TechCrunch Disrupt 2025 end tomorrow, October 3. Groups of 4–9 founders save 15% and investors save 20%. Access top VCs, pitch-ready startups, and hands-on sessions.",
+      "url": "https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/04/17205300128_99b3d607eb_o.jpg?resize=1200,800",
+      "publishedAt": "2025-10-02T14:00:00Z",
+      "content": "Ticktock! The Founder and Investor Bundle sale for TechCrunch Disrupt 2025 ends tomorrow, October 3, at 11:59 p.m. PT. After that, founders will no longer be able to register in bulk at a discount, a… [+2320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "SaaS turbo-charged software spending tough for CIOs to control, says research",
+      "description": "Consulting biz reckons ballooning costs a result of changes in licensing, vendor landscape, and product shifts\nBoston Consulting Group (BCG) is warning that organizations need to rethink their approach to buying software as the ongoing push of SaaS into the m…",
+      "url": "https://www.theregister.com/2025/10/02/saas_turbocharged_software_spending_tough/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/02/shutterstock_1983837506.jpg",
+      "publishedAt": "2025-10-02T13:59:41Z",
+      "content": "Boston Consulting Group (BCG) is warning that organizations need to rethink their approach to buying software as the ongoing push of SaaS into the market gathers pace.\r\nIts analysis of Gartner's figu… [+3494 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "The good, the bad, and the future of AI agents",
+      "description": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’ll be subbing in for Nilay for a couple more episodes, and I’m excited to keep diving into the good, the bad, and the questionable in …",
+      "url": "https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_CLAUDE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-02T13:59:04Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe good, the bad, and the future of AI agents\r\nAnthropics David Hershey joins the show to discuss Claude Sonnet 4.5 and the current landscape for agentic AI.\r\nb… [+4886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cnbc",
+      "title": "Elon Musk's net worth $500 billion",
+      "description": "Elon Musk's net worth $500 billioncnbc.com",
+      "url": "https://www.cnbc.com/2025/10/02/elon-musks-net-worth-500-billion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108120013-17427449412025-03-22t224806z_102077630_rc2midapf7ci_rtrmadp_0_usa-trump.jpeg?v=1742745008&w=1920&h=1080",
+      "publishedAt": "2025-10-02T13:56:07Z",
+      "content": "Elon Musk on Wednesday became the first person to surpass $500 billion in net worth, powered by a rebound in Tesla's share price this year and swelling valuations of his other tech ventures.\r\nThe mil… [+2292 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -774,12 +852,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -787,12 +865,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/3HqB67hPA7vVDVKgWEzD2n-1920-80.jpg",
       "publishedAt": "2025-10-01T13:29:25Z",
       "content": "OpenAI CEO Sam Altman reportedly took a quiet trip to Taiwan this week to hold meetings with representatives of TSMC and Foxconn and discuss collaborating on chip design and manufacturing, as well as… [+2923 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Nike’s comeback takes shape with turnaround plans working",
-      "description": "Nike Inc's turnaround efforts show progress with sales growth, new products, and strategic partnerships, boosting investor confidence.",
-      "url": "https://www.bloomberg.com/news/articles/2025-09-30/nike-s-trajectory-improves-on-better-than-expected-sales-growth",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/lpii5s/article70116380.ece/alternates/LANDSCAPE_1200/2025-08-28T174811Z_1506002050_RC2GGGASF6F3_RTRMADP_3_NIKE-LABOR.JPG",
-      "publishedAt": "2025-10-01T13:27:34Z",
-      "content": "Nike Incs turnaround efforts are starting to pay off as the worlds largest sportswear company realigns the business around sports such as running and basketball.\r\nThe company said efforts to roll out… [+3994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Abhishek Jadhav",
-      "title": "Export controls now a key factor in AI chip development – adding risk for the whole industry",
-      "description": "The physics of transistors and politics of trading licenses are colliding on the AI frontier Analysis  Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are – in a new e…",
-      "url": "https://www.theregister.com/2025/10/01/the_risks_of_export_controls/",
-      "urlToImage": "https://regmedia.co.uk/2023/11/15/china.jpg",
-      "publishedAt": "2025-10-01T13:20:59Z",
-      "content": "Analysis Few of us would have imagined that national security would play such a key role in AI hardware, even dictating its development, but here we are in a new era of export controls.\r\nTrade restri… [+8654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "How a U.S. government shutdown could impact global markets",
-      "description": "Global investors are weighing how much of an impact the shutdown may have on markets.",
-      "url": "https://www.cnbc.com/2025/10/01/how-a-us-government-shutdown-could-impact-global-markets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193627-17569014262025-09-03t113912z_420945337_rc2bkgah6x7g_rtrmadp_0_usa-trump-epstein.jpeg?v=1756901456&w=1920&h=1080",
-      "publishedAt": "2025-10-01T13:19:39Z",
-      "content": "Morning light hits the U.S. Capitol hours ahead of a press conference to discuss the Epstein Files Transparency bill, directing the release of the remaining files related to the investigations into J… [+6645 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Samsung teams up with OpenAI to deliver Stargate chips",
-      "description": "OpenAI is teaming up with South Korea’s Samsung and SK Hynix for “strategic partnerships” to supply the advanced computer chips needed for its mammoth Stargate project.   The Korean firms said they will scale production in order to meet OpenAI’s growing deman…",
-      "url": "https://www.theverge.com/news/789687/openai-samsung-stargate-chips",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T13:07:49Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSamsung will help meet OpenAIs need for 900,000 semiconductor wafers per month.\r\nSamsung will help meet OpenAIs need for 900,000 semiconductor wafers per month.\r… [+2091 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google unveils its new Gemini-powered Google Home speaker | TechCrunch",
-      "description": "Google unveils its new Gemini-powered Google Home speaker | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/01/google-teases-its-new-gemini-powered-google-home-speaker-coming-in-spring-2026/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Google-Home-Speaker-Multi.png?resize=1200,755",
-      "publishedAt": "2025-10-01T13:03:24Z",
-      "content": "On Wednesday, Google offered an early preview of its next flagship smart home device, the AI-powered Google Home speaker, launching in spring 2026. The device, priced at $99, will be built around the… [+2215 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell | TechCrunch",
-      "description": "Google unveils AI-powered Nest indoor and outdoor cameras, and a new doorbell | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/01/google-unveils-ai-powered-nest-indoor-and-outdoor-cameras-and-a-new-doorbell/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Nest-Cam-Indoor-Berry_1.png?resize=1200,800",
-      "publishedAt": "2025-10-01T13:02:33Z",
-      "content": "As part of its Google Home event on Wednesday, the company unveiled a revamped lineup of Nest devices — Google’s brand of smart home security cameras and doorbells — including a new $149.99 Nest Cam … [+7177 chars]"
     }
   ]
 }
