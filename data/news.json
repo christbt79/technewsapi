@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-03T18:43:21.036Z",
+  "fetchedAt": "2025-10-03T19:06:46.315Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Anthropic hires new CTO with focus on AI infrastructure | TechCrunch",
+      "description": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer contact with the infrastructure and inference teams.",
+      "url": "https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+      "publishedAt": "2025-10-02T19:04:43Z",
+      "content": "Anthropic has a new chief technical officer, former Stripe CTO Rahul Patil. Patil started at the company earlier this week, taking over from co-founder Sam McCandlish, who will move to a new role as … [+2613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Dan Ives says AI-related M&A 'floodgates' are about to open. Here are his takeover picks",
+      "description": "Dan Ives flagged several companies poised to become acquisition targets as AI-related dealmaking starts to boom.",
+      "url": "https://www.cnbc.com/2025/10/02/dan-ives-says-ai-related-ma-floodgates-are-about-to-open-here-are-his-takeover-picks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206876-1759396589790-gettyimages-2153630961-INDIA_YOTTA_NVIDIA.jpeg?v=1759415220&w=1920&h=1080",
+      "publishedAt": "2025-10-02T18:55:51Z",
+      "content": "Notable technology industry analyst Dan Ives says Big Tech companies and private equity firms are gearing up to make a flurry of acquisitions to stay ahead in the AI arms race. The analyst shared his… [+1986 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1216,12 +1242,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1229,12 +1255,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/judson_althoff.jpg",
       "publishedAt": "2025-10-01T17:21:29Z",
       "content": "Microsoft boss Satya Nadella told staff on Wednesday that he's appointing Judson Althoff to a new role as CEO of the company's commercial business, so that the big boss can concentrate on Redmond's f… [+2992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Hiner",
-      "title": "I tested the iPhone 17 Pro Max, and this feature alone justifies an upgrade from the 16",
-      "description": "Review: While I don't usually advise upgrading to the flagship iPhone if you have last year's model, there's one particularly factor to consider this year.",
-      "url": "https://www.zdnet.com/article/i-tested-the-iphone-17-pro-max-and-this-feature-alone-justifies-an-upgrade-from-the-16/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4f36dfbfe115eeb11eba5d92dbfee53e02638f98/2025/09/26/70fcbd6b-c6b6-44e4-af4c-2c9acfb65271/iphone-17-pr-max-cosmic-orange-03.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T17:18:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs far as annual upgrades go, we got a lot in the iPhone 17 Pro Max -- a redesign, a change of materials, new colors, a battery upgrade, a proce… [+21777 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions",
-      "description": "Today, the same day that Meta announced that it will soon use your AI chats to personalize the ads it shows you, Instagram head Adam Mosseri made a “myth busting” video attempting to set the record straight on a persistent rumor about Meta: “I swear, we do no…",
-      "url": "https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1357941759.jpg?quality=90&strip=all&crop=0%2C10.735438635072%2C100%2C78.529122729856&w=1200",
-      "publishedAt": "2025-10-01T17:13:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe head of Instagram posted a video attempting to dispel a myth that Meta has been trying to combat for years.\r\nThe head of Instagram posted a video attempting … [+4514 chars]"
     }
   ]
 }
