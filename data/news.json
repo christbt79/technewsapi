@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-03T07:32:53.321Z",
+  "fetchedAt": "2025-10-03T08:12:16.064Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "IONOS",
+      "title": "Artificial intelligence, key technology in the wrong hands?",
+      "description": "Until now, AI has been firmly in American hands. With IONOS, Europe is now back on an equal footing\nPartner Content Register for the free webinar now: Build cloud infrastructure – secure and sovereign for the future…",
+      "url": "https://www.theregister.com/2025/10/02/artificial_intelligence_key_technology/",
+      "urlToImage": "https://regmedia.co.uk/2024/03/13/shutterstock_eu_ai.jpg",
+      "publishedAt": "2025-10-02T08:00:10Z",
+      "content": "Partner ContentRegister for the free webinar now: Build cloud infrastructure secure and sovereign for the future\r\nArtificial intelligence is the defining technology of the next decade, comparable to … [+3830 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4b20375c29fc15931548edf6035f6581b778bcb4/2024/12/20/084df3fc-6883-49c9-8463-219606365a65/8ba0275c-e460-4d83-b8f3-900c5132693d-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-01T12:00:39Z",
       "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Oura launches blood test through Health Panels. </li><li>The feature tests 50 biomarkers. </… [+2845 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Adrienne So",
-      "title": "Oura Debuts a Ceramic Collection for Its Smart Ring and a $99 Charging Case",
-      "description": "Oura, the world’s most prominent smart ring manufacturer, cements its dominance with the Ceramic Collection.",
-      "url": "https://www.wired.com/story/oura-ceramic-collection-and-charging-case/",
-      "urlToImage": "https://media.wired.com/photos/68dc7cc98b72c183085c17bb/191:100/w_1280,c_limit/OR4C_Collection.jpg",
-      "publishedAt": "2025-10-01T12:00:00Z",
-      "content": "Its a good time to be Oura, the worlds most prominent smart ring company. The company debuted the Oura Ring 4 in late 2024 with an updated design, slimmer sensors, and software updates. It was an unm… [+2294 chars]"
     }
   ]
 }
