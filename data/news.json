@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-03T12:58:23.592Z",
+  "fetchedAt": "2025-10-03T13:23:14.570Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Threads adds communities to help you find your people",
+      "description": "Threads is testing a new feature called communities, which will serve as dedicated spaces where you can find content or posts about your favorite topics. Starting today, you can explore different communities surrounding things like professional basketball, K-…",
+      "url": "https://www.theverge.com/news/790436/threads-communities-topics-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Threads-Communities_Header.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-02T13:22:09Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now join different communities to see posts related to specific topics, like books, K-pop, professional basketball, and more.\r\nYou can now join different… [+3189 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Monstrous SSD cooling solution strapped to iPhone 17 Pro Max delivers unparalleled performance — clocks 90% stability in 3D Mark Stress Test, jury still out on hideous aesthetics",
+      "description": "A smartphone performance enthusiast has shown pictures of their PC SSD cooler-boosted iPhone 17 Pro Max on Reddit.",
+      "url": "https://www.tomshardware.com/phones/iphone/monstrous-ssd-cooling-solution-strapped-to-iphone-17-pro-max-delivers-unparalleled-performance-clocks-90-percent-stability-in-3d-mark-stress-test-jury-still-out-on-hideous-aesthetics",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TGxiyqAoLEvztb7o7AseZW-1920-80.jpg",
+      "publishedAt": "2025-10-02T13:17:24Z",
+      "content": "A smartphone performance enthusiast has shown pictures of their cooler-boosted iPhone 17 Pro Max on Reddit. T-K-Tronix indicates that their Rube Goldberg-esque multiple passive PC SSD cooler contrapt… [+3048 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Perplexity acquires the team behind Sequioa-backed AI design startup Visual Electric | TechCrunch",
+      "description": "Perplexity has acquired Visual Electric, an AI Design tool. Its team is going to lead a new agents experience group at Perplexity",
+      "url": "https://techcrunch.com/2025/10/02/perplexity-acquires-the-team-behind-sequioa-backed-ai-design-startup-visual-electric/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/VE-x-PPLX.jpeg?w=1200",
+      "publishedAt": "2025-10-02T13:16:36Z",
+      "content": "Sequoia-backed AI design startup Visual Electric said that it is joining search startup Perplexity today. The company noted on its site that the team would be joining a new Agent Experiences group at… [+855 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Tesla finally had a good sales quarter — it may be the last one for a while",
+      "description": "Tesla’s quarterly sales increased for the first time this year, as consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. The company said that it produced a total of 447,450 vehicles between July–September of this year, i…",
+      "url": "https://www.theverge.com/news/790046/tesla-q3-2025-sales-production-delivery",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-02T13:07:33Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company was expected to have a good quarter thanks to expiring federal incentives for EV purchases.\r\nThe company was expected to have a good quarter thanks t… [+4472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Radhika Rajkumar",
+      "title": "Snowflake adds MCP support, new AI suite for financial services",
+      "description": "The company created secure solutions for some of the most sensitive information used with AI: financial data.",
+      "url": "https://www.zdnet.com/article/snowflake-adds-mcp-support-new-ai-suite-for-financial-services/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a360da814fb821991ef9dda85fde978518e8993e/2025/10/02/3aa16353-9dfd-44c3-8c37-c72871f2a5f6/gettyimages-1717393421.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T13:00:30Z",
+      "content": "Eugene Mymrin/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Snowflake now offers MCP support.</li><li>The company also debuted an AI … [+5620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta wants to bring its Business AI chat tools to third-party websites",
+      "description": "Meta debuted Business AI digital assistant for companies to offer to their customers more personalized product recommendations via chat interactions.",
+      "url": "https://www.cnbc.com/2025/10/02/meta-wants-to-bring-its-business-ai-chat-tools-to-third-party-websites.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201479-1758310460113-gettyimages-2235445183-AFP_74WE2G3.jpeg?v=1759344099&w=1920&h=1080",
+      "publishedAt": "2025-10-02T13:00:01Z",
+      "content": "Meta's efforts to expand its core business from online advertising involves pitching companies AI-powered chat tools that they can use on their own websites.\r\nThe social media giant debuted on Thursd… [+3057 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -696,12 +774,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -709,12 +787,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Nest-Cam-Indoor-Berry_1.png?resize=1200,800",
       "publishedAt": "2025-10-01T13:02:33Z",
       "content": "As part of its Google Home event on Wednesday, the company unveiled a revamped lineup of Nest devices — Google’s brand of smart home security cameras and doorbells — including a new $149.99 Nest Cam … [+7177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Google's 'Gemini for Home' upgrade is coming - and it'll work with older Nest devices",
-      "description": "Some of the AI updates coming to Google Home will require a subscription.",
-      "url": "https://www.zdnet.com/article/googles-gemini-for-home-upgrade-is-coming-and-itll-work-with-older-nest-devices/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d0d22d96847a3c443c5f27019754b678c2846a24/2025/09/02/ae9d59e7-e327-477e-87d0-3b6a18bea6b3/dsc02463.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T13:00:32Z",
-      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta greenlights Facebook, Instagram ads based on your AI chats",
-      "description": "Meta will show ads and other content to users based on their interactions with the Meta AI digital assistant and other generative artificial intelligence tools.",
-      "url": "https://www.cnbc.com/2025/10/01/meta-facebook-instagram-ads-ai-chat.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039162-17272877402024-09-25t180807z_254912789_rc2u7aaxwajp_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1739984866&w=1920&h=1080",
-      "publishedAt": "2025-10-01T13:00:02Z",
-      "content": "Meta will soon show ads and other content to users based on their interactions with the company's digital assistant and related products powered by generative artificial intelligence.\r\nThe social med… [+3511 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu, Simon Hill",
-      "title": "Google's Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell",
-      "description": "Gemini replaces Assistant in your smart home, as Google redesigns the Home app and launches a new generation of Nest devices.",
-      "url": "https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/",
-      "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Google is upgrading almost every Nest security device - and there's a new Home speaker, too",
-      "description": "A new Nest Doorbell and Nest Cams are joining the Google Home lineup, along with a major upgrade with generative AI.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/google-is-upgrading-almost-every-nest-security-device-and-theres-a-new-home-speaker-too/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/09a7aa92a20f5f7098ed96fc8a82915dc9659bbc/2025/09/30/e79ab7d3-83a8-4f3a-90d9-5c0c96f3a90e/gh.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2211 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Meta plans to sell targeted ads based on data in your AI chats",
-      "description": "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram.",
-      "url": "https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
     }
   ]
 }
