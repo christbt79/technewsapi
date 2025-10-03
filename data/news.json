@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-03T20:09:24.538Z",
+  "fetchedAt": "2025-10-03T20:36:13.746Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Ring’s new Search Party feature is on by default; should you opt out?",
+      "description": "This week, Ring, an Amazon-owned smart security company, announced Search Party, a new feature to help find lost dogs. When someone posts a picture of a lost dog on Ring’s Neighbors app, they will be able to initiate a Search Party. Ring then uses AI to scan …",
+      "url": "https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpeg?quality=90&strip=all&crop=0%2C7.0863839112696%2C100%2C85.827232177461&w=1200",
+      "publishedAt": "2025-10-02T20:19:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSearch Party goes through footage from nearby Ring outdoor cameras when a dog goes missing. Admirable. But maybe ask me first.\r\nSearch Party goes through footage… [+5631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Do voice translation earbuds actually work in the public? I tested a pair, and here's my advice",
+      "description": "I've tested countless earbuds over the years - so when a pair actually makes me raise an eyebrow, I know it's something special.",
+      "url": "https://www.zdnet.com/article/do-voice-translation-earbuds-actually-work-in-the-public-i-tested-a-pair-and-heres-my-advice/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6ac84d29e153efa842a7c4d695df997b406789a9/2025/09/30/355dd7bd-92fd-4f83-acc7-58453cdf82db/viaimhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T20:15:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "College student went on a destructive rampage, then confessed to ChatGPT, cops say",
+      "description": "Police say they found the evidence on his phone\nA Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. …<!--#include virtual='/data_centre/_…",
+      "url": "https://www.theregister.com/2025/10/02/chatgpt_vandalism_spree/",
+      "urlToImage": "https://regmedia.co.uk/2023/06/22/shutterstock_chatgpt_judge.jpg",
+      "publishedAt": "2025-10-02T20:10:10Z",
+      "content": "A Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. \r\nAccording to court docu… [+3125 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -705,6 +744,19 @@
     },
     {
       "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Kwanwoo Jun",
+      "title": "Samsung, SK Hynix Rally on Partnership With OpenAI for Stargate Project",
+      "description": "Shares in Samsung Electronics and SK Hynix surged to multiyear highs, after the South Korean memory-chip makers struck initial agreements with ChatGPT maker ...",
+      "url": "https://www.wsj.com/finance/samsung-sk-hynix-rally-on-partnership-with-openai-for-stargate-project-54937adf",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1XXRiSPklp24R.QRQdpGSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/d91a7998c674c8e8048906df377c958b",
+      "publishedAt": "2025-10-02T10:15:00Z",
+      "content": "Samsung Electronics is stepping up efforts to catch up in supplying next-generation HBM4 products. - odd andersen/Agence France-Presse/Getty Images\r\nShares in Samsung Electronics and SK Hynix surged … [+3233 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
       "publishedAt": "2025-10-01T18:33:44Z",
       "content": "Intel is in early talks with AMD to manufacture chips for it in its foundry business, according to a report from Semafor.\r\nIntel shares rose as much as 6% on the news at one point during trading on W… [+1250 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "Why California's new AI safety law succeeded where SB 1047 failed | TechCrunch",
-      "description": "Watch as Equity breaks down California's new AI transparency law, SB 53, including its whistleblower protections, safety reporting requirements, and why this bill succeeded where SB 1047 failed.",
-      "url": "https://techcrunch.com/video/why-californias-new-ai-safety-law-succeeded-where-sb-1047-failed/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1246479507.jpg?w=1024",
-      "publishedAt": "2025-10-01T18:33:09Z",
-      "content": "California just made history as the first state to require AI safety transparency from the biggest labs in the industry. Governor Newsom signed SB 53 into law this week, mandating that AI giants like… [+822 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers",
-      "title": "OpenAI's New Sora App Lets You Deepfake Yourself for Entertainment",
-      "description": "OpenAI’s latest app encourages users to generate a personal digital avatar and scroll AI-generated videos of themselves and their friends.",
-      "url": "https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/",
-      "urlToImage": "https://media.wired.com/photos/68dc76a64608abdd1e38d590/191:100/w_1280,c_limit/OpenAI-Sora-App-Sells-AI-Deepfakes-as-Entertainment-Business-2234232933.jpg",
-      "publishedAt": "2025-10-01T18:21:38Z",
-      "content": "On Tuesday, OpenAI released an AI video app called Sora. The platform is powered by OpenAIs latest video generation model, Sora 2, and revolves around a TikTok-like For You page of user-generated cli… [+2092 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "AI has had zero effect on jobs so far, says Yale study",
-      "description": "Other studies are finding the same thing\nYale researchers say that despite the anxiety about AI taking people's jobs, there's very little evidence of it actually happening.…",
-      "url": "https://www.theregister.com/2025/10/01/ai_isnt_taking_people_jobs/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_2277467215.jpg",
-      "publishedAt": "2025-10-01T18:12:09Z",
-      "content": "Yale researchers say that despite the anxiety about AI taking people's jobs, there's very little evidence of it actually happening.\r\nEconomists with Yale's Budget Lab, a non-partisan policy research … [+2488 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "OpenAI's new social app is filled with terrifying Sam Altman deepfakes | TechCrunch",
-      "description": "OpenAI's new social app is filled with terrifying Sam Altman deepfakes | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/01/openais-new-social-app-is-filled-with-terrifying-sam-altman-deepfakes/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800",
-      "publishedAt": "2025-10-01T18:04:30Z",
-      "content": "In a video on OpenAI’s new TikTok-like social media app Sora, a never-ending factory farm of pink pigs are grunting and snorting in their pens — each is equipped with a feeding trough and a smartphon… [+7065 chars]"
     }
   ]
 }
