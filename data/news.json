@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-03T17:07:32.513Z",
+  "fetchedAt": "2025-10-03T17:33:31.536Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Everyone can use Perplexity's Comet AI browser now - for free",
+      "description": "The company has been promoting Comet as a more dynamic alternative to traditional web browsers like Chrome and Safari, and even as the harbinger of a new era of search.",
+      "url": "https://www.zdnet.com/article/everyone-can-use-perplexitys-comet-ai-browser-now-for-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/44f391e7ebe1e066a09754b058bf992608438f64/2025/10/02/6a67caee-b61b-4840-baeb-2e3edc9c29e9/gettyimages-522165258.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-02T17:14:00Z",
+      "content": "Matthias Kulka/The Image Bank via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Comet is now available globally for free.</li><li>It debuted in J… [+3316 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1112,12 +1125,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -1125,12 +1138,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206351-1759325829345-gettyimages-2238122075-NEPTUNE_IPO.jpeg?v=1759325852&w=1920&h=1080",
       "publishedAt": "2025-10-01T15:51:04Z",
       "content": "The timing of Neptune Insurance Holdings' IPO couldn't be more opportune.\r\nNeptune, the nation's largest private flood insurance, debuts on the New York Stock Exchange Wednesday under the ticker symb… [+1615 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Sony brings audio sharing to its flagship noise-cancelling headphones",
-      "description": "Sony is adding support for audio sharing and Google’s Gemini Live conversational AI assistant to its premium noise-cancelling wireless headphones. The features are being added as part of new firmware updates for the two year old Sony WF-1000XM5 wireless earbu…",
-      "url": "https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0231.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-01T15:37:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNew firmware updates are available through Sonys Sound Connect mobile app.\r\nNew firmware updates are available through Sonys Sound Connect mobile app.\r\nby\r\nAndre… [+3139 chars]"
     }
   ]
 }
