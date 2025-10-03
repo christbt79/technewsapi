@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-03T09:34:21.100Z",
+  "fetchedAt": "2025-10-03T10:09:40.772Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Music’s biggest labels are weeks away from major AI licensing deals",
+      "description": "Universal Music and Warner Music, record labels whose catalogs include Taylor Swift, Ariana Grande, and Charli XCX, are within weeks of striking licensing deals that could redefine how the music industry handles the AI era, according to the Financial Times.  …",
+      "url": "https://www.theverge.com/news/790405/warner-universal-music-ai-deals",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24261640/1443154946.jpg?quality=90&strip=all&crop=0%2C14.325415002447%2C100%2C71.349169995105&w=1200",
+      "publishedAt": "2025-10-02T09:48:03Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUniversal and Warner are pushing for a streaming-inspired payment model.\r\nUniversal and Warner are pushing for a streaming-inspired payment model.\r\nby\r\nRobert Ha… [+2409 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/zczSw5Asj7kMMeQPieGJhV-1920-80.jpg",
       "publishedAt": "2025-10-01T12:26:35Z",
       "content": "Qualcomm, along with its subsidiary Nuvia, have finally won the legal battle against Arm Holdings, which had accused the chip-maker of violating license agreements tied to its chip designs. A U.S. Di… [+3063 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Google’s new Nest cams are designed for Gemini",
-      "description": "Google is launching two new Nest Cams and a new Nest Doorbell, bringing 2K resolution to its lineup for the first time. The new wired Nest Cam Indoor 2K ($99.99), Nest Cam Outdoor 2K ($149.99 ), and wired Nest Doorbell 2K ($179.99) are the company’s first har…",
-      "url": "https://www.theverge.com/news/789412/new-nest-cams-nest-doorbell-launch-price-specs-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_0193.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
-      "publishedAt": "2025-10-01T12:23:15Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThree new wired Nest models launch alongside Gemini for Home integration with cameras and a redesigned Home app.\r\nThree new wired Nest models launch alongside Ge… [+6934 chars]"
     }
   ]
 }
