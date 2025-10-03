@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-03T21:31:22.130Z",
+  "fetchedAt": "2025-10-03T22:07:49.303Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stock market today: Live updates",
+      "description": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
+      "url": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206499-1759334012353-Traders-OB-Photo-20251001-CC-PRESS-4.jpg?v=1759334321&w=1920&h=1080",
+      "publishedAt": "2025-10-02T22:06:09Z",
+      "content": "Stock futures were little changed after the market recorded new highs on Thursday, driven by strength in the artificial intelligence trade that appeared to overpower concerns about the 2-day-old U.S.… [+3112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Bryan Walsh",
+      "title": "The age of endless AI slop is here",
+      "description": "Really, it’s almost unfair to hold a tech company to its mission statement. From Google’s “Don’t Be Evil” to WeWork’s “Elevate the World’s Consciousness,” mission statements are usually written in a company’s adolescence, at that awkward moment when their dre…",
+      "url": "https://www.vox.com/future-perfect/463596/openai-sora2-reels-videos-tiktok-chatgpt-deepfakes",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/SoraArt_Vox5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-02T21:49:36Z",
+      "content": "Really, its almost unfair to hold a tech company to its mission statement. From Googles Dont Be Evil to WeWorks Elevate the Worlds Consciousness, mission statements are usually written in a companys … [+6851 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "With a Friend like this, who needs enemies?",
+      "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscr…",
+      "url": "https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257972_Friend_AKrales_0261.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-02T21:34:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nFriends make life better, but a mean, glowing AirTag on a shoestring isnt what I call a friend.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable… [+9874 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/247088_Roborock_vs_DreameBot_JTuohy_0010.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-01T19:20:41Z",
       "content": "The Roborock S8 MaxV Ultra is on sale for $999.99, its lowest price to date.\r\n\n\nFrom Apple devices to chargers, we’re already seeing a wave of discounts on some of our favorite gadgets ahead of Amazo… [+8451 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "AMD in early talks to make chips at Intel Foundry, report says",
-      "description": "AMD is in early talks to be an Intel Foundry customer, according to reports from Semafor. It's the latest in a line of companies considering an investment in the American fab.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-in-early-talks-to-make-chips-at-intel-foundry-report-says",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8REHgdNxBN9ctuhHnzkd6A-1024-80.jpg",
-      "publishedAt": "2025-10-01T19:16:44Z",
-      "content": "Intel is in the early stages of talks with AMD about making the fabless chip designer an Intel Foundry customer, according to a report from Semafor. \r\nThe report, citing \"people familiar with the mat… [+2098 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Character.AI removes Disney characters after receiving cease-and-desist letter | TechCrunch",
-      "description": "\"Character.ai is freeriding off the goodwill of Disney’s famous marks and brands, and blatantly infringing Disney’s copyrights,\" a Disney lawyer wrote.",
-      "url": "https://techcrunch.com/2025/10/01/character-ai-removes-disney-characters-after-receiving-cease-and-desist-letter/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-      "publishedAt": "2025-10-01T19:16:33Z",
-      "content": "Character.AI received a cease-and-desist letter from Disney, urging the chatbot company to remove Disney characters from among the millions of AI companions on its plaftorm, Variety reports.\r\nCharact… [+1089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "My new favorite Photoshop AI tool lets me combine images in one click - and I can't stop",
-      "description": "Photoshop Harmonize automatically adjusts an object's color, lighting, and shadows to match any background. It's very, very good - and addictive.",
-      "url": "https://www.zdnet.com/article/my-new-favorite-photoshop-ai-tool-lets-me-combine-images-in-one-click-and-i-cant-stop/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8b82515860bf36f6e5973bff6ace7f8324356247/2025/10/01/01d95518-c93f-43a7-9b66-e62a8c07c03c/dodge.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T19:01:00Z",
-      "content": "David Gewirtz / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Photoshop beta introduces powerful AI Harmonize feature.</li><li>Co… [+9398 chars]"
     }
   ]
 }
