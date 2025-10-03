@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-03T10:09:40.772Z",
+  "fetchedAt": "2025-10-03T10:38:03.910Z",
   "articles": [
     {
       "source": {
@@ -618,12 +618,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -631,12 +631,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1173,19 +1173,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1196,6 +1183,19 @@
       "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -1212,19 +1212,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Meta plans to sell targeted ads based on data in your AI chats",
-      "description": "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram.",
-      "url": "https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1235,6 +1222,19 @@
       "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Meta plans to sell targeted ads based on data in your AI chats",
+      "description": "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram.",
+      "url": "https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
     },
     {
       "source": {
