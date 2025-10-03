@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-03T07:09:07.408Z",
+  "fetchedAt": "2025-10-03T07:32:53.321Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Lloyds Banking Group says 'digitization' will power more branch closures",
+      "description": "Group promises sandboxing of AI money management tools with 1,000 branches remaining\nLloyds Banking Group — the £18.67 billion turnover UK-based bank — has promised that it will continue to use “digitization” to power a program of branch closures.…<!--#includ…",
+      "url": "https://www.theregister.com/2025/10/02/lloyds_banking_group_digitization_investor_call/",
+      "urlToImage": "https://regmedia.co.uk/2020/01/16/shutterstock_lloyds_banking_group.jpg",
+      "publishedAt": "2025-10-02T07:30:13Z",
+      "content": "Lloyds Banking Group the £18.67 billion turnover UK-based bank has promised that it will continue to use digitization to power a program of branch closures.\r\nOn a call to investors, the UK household … [+2929 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68dc7cc98b72c183085c17bb/191:100/w_1280,c_limit/OR4C_Collection.jpg",
       "publishedAt": "2025-10-01T12:00:00Z",
       "content": "Its a good time to be Oura, the worlds most prominent smart ring company. The company debuted the Oura Ring 4 in late 2024 with an updated design, slimmer sensors, and software updates. It was an unm… [+2294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Intel affirms commitment to $28 billion Ohio project despite delays — company responds to U.S. Senator's hint of 'a charade or potential fraud'",
-      "description": "Following life-changing investments from Nvidia, SoftBank, and the White House, Intel has just reiterated its commitment to the ambitious Ohio One project. The fabs, now expected to open their doors in 2030, were questioned by a U.S. Senator over concerns of …",
-      "url": "https://www.tomshardware.com/tech-industry/intels-elusive-ohio-fab-project-scrutinized-by-u-s-senator-amid-5-year-delay-to-2030-chipmaker-reassures-ambitious-plan-is-still-on-track-despite-recent-cut-downs",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eXfGgMkA8UyQHq7Xiy2Muk-1981-80.jpg",
-      "publishedAt": "2025-10-01T11:46:38Z",
-      "content": "Despite facing numerous setbacks, plans for Intel's upcoming Ohio fabrication plant are still alive and kicking, as reiterated by the company in a response to U.S. Senator Bernie Moreno. Bloomberg re… [+3228 chars]"
     }
   ]
 }
