@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-03T08:12:16.064Z",
+  "fetchedAt": "2025-10-03T08:40:56.941Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Irony alert: UK.gov Work dept hires IBM to aid AI projects",
+      "description": "Some Big Blue sky thinking needed for tech that promises employment extinction for humanity\nThe UK's pensions and benefits department has awarded IBM a contract that's worth up to £27 million to explore, deploy and support AI technologies to enhance its servi…",
+      "url": "https://www.theregister.com/2025/10/02/uk_pensions_and_benefits_department/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_2446573925.jpg",
+      "publishedAt": "2025-10-02T08:15:06Z",
+      "content": "The UK's pensions and benefits department has awarded IBM a contract that's worth up to £27 million to explore, deploy and support AI technologies to enhance its services.\r\nThe irony isn't lost on us… [+2999 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Global chipmakers add $200 billion in record rally on AI frenzy",
+      "description": "The sector is being swept up by a wave of good news from AI companies, including ChatGPT-owner OpenAI’s record $500 billion valuation on an employee share sale",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-02/global-chipmakers-add-200-billion-in-record-rally-on-ai-frenzy",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2djnqw/article70117266.ece/alternates/LANDSCAPE_1200/IMG_AI_New_Age_Digital_B_2_1_K9CV827R.jpg",
+      "publishedAt": "2025-10-02T08:14:58Z",
+      "content": "Global chipmakers saw their market value soar as investors rushed to get exposure to artificial intelligence, the latest sign of a frenetic bull run that is pushing tech stocks to all-time highs.\r\nTh… [+3621 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -553,12 +579,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
-      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
-      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
+      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
+      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
+      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
     },
     {
       "source": {
@@ -566,12 +592,12 @@
         "name": "Wired"
       },
       "author": "Will Knight",
-      "title": "Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product",
-      "description": "Thinking Machines Lab, led by a group of prominent former OpenAI researchers, is betting that fine tuning cutting-edge models will be the next frontier in AI.",
-      "url": "https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/",
-      "urlToImage": "https://media.wired.com/photos/68dc3f2dc39f3e48235a90a8/191:100/w_1280,c_limit/Exclusive-Mira-Murati-AI-lab-launches-first-product-Business2188124187.jpg",
+      "title": "Chatbots Play With Your Emotions to Avoid Saying Goodbye",
+      "description": "A Harvard Business School study shows that several AI companions use various tricks to keep a conversation from ending.",
+      "url": "https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/",
+      "urlToImage": "https://media.wired.com/photos/68dc3f316adeadb9eb921dc9/191:100/w_1280,c_limit/AI-Lab-AI-Companion-Doesnt-Want-to-Leave-Business-1075514480.jpg",
       "publishedAt": "2025-10-01T18:00:00Z",
-      "content": "Thinking Machines Lab, a heavily funded startup cofounded by prominent researchers from OpenAI, has revealed its first producta tool called Tinker that automates the creation of custom frontier AI mo… [+2227 chars]"
+      "content": "Regulation of dark patterns has been proposed and is being discussed in both the US and Europe. De Freitas says regulators also should look at whether AI tools introduce more subtleand potentially mo… [+2775 chars]"
     },
     {
       "source": {
@@ -1108,19 +1134,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1131,6 +1144,19 @@
       "urlToImage": "https://media.wired.com/photos/68dc77699778df69feb9b685/191:100/w_1280,c_limit/New%20Google%20Devices%20SOURCE%20Julian%20Chokkattu.png",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Each of the new Nest cameras comes with six hours of event history in 10-second video clips for free, but if you want to unlock the AI capabilities, you'll have to stump up for one of the new Google … [+1574 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Home app, a command center for the smart home, gets a Gemini upgrade",
+      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
+      "url": "https://techcrunch.com/2025/10/01/googles-home-app-a-command-center-for-the-smart-home-gets-a-gemini-upgrade/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     },
     {
       "source": {
@@ -1147,19 +1173,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Meta plans to sell targeted ads based on data in your AI chats",
-      "description": "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram.",
-      "url": "https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1170,6 +1183,19 @@
       "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Meta plans to sell targeted ads based on data in your AI chats",
+      "description": "Meta plans to use data from your interactions with AI products to sell targeted ads on Facebook and Instagram.",
+      "url": "https://techcrunch.com/2025/10/01/meta-plans-to-sell-targeted-ads-based-on-data-in-your-ai-chats/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "publishedAt": "2025-10-01T13:00:00Z",
+      "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
       "publishedAt": "2025-10-01T12:05:39Z",
       "content": "Enterprise giant Salesforce is looking to ride the vibe coding wave where developers describe what they want in natural language and AI agents write the code with its new AI-powered developer tool.  … [+3649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Radhika Rajkumar",
-      "title": "You can buy refurbished tech from Back Market in person now",
-      "description": "Wary of repaired devices? Test them out before you buy.",
-      "url": "https://www.zdnet.com/article/you-can-buy-refurbished-tech-from-back-market-in-person-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9823be76488427a5fbb02bc20f323041c5b1f89b/2025/10/01/2bba3be9-66e6-43f0-a21e-f40bdccaaba6/250929-mythology-backmarket-003.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T12:00:41Z",
-      "content": "Back Market\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Refurbished tech marketplace Back Market opened a US store.</li><li>Consumers can test used devices … [+3971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Oura's out for blood with its new Health Panels blood testing feature",
-      "description": "Health Panels follows the lead of competitors by offering blood tests that users can schedule and review within the Oura app.",
-      "url": "https://www.zdnet.com/article/ouras-out-for-blood-with-its-new-health-panels-blood-testing-feature/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4b20375c29fc15931548edf6035f6581b778bcb4/2024/12/20/084df3fc-6883-49c9-8463-219606365a65/8ba0275c-e460-4d83-b8f3-900c5132693d-1-201-a.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T12:00:39Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Oura launches blood test through Health Panels. </li><li>The feature tests 50 biomarkers. </… [+2845 chars]"
     }
   ]
 }
