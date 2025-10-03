@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-03T12:16:41.887Z",
+  "fetchedAt": "2025-10-03T12:58:23.592Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Clop-linked crims shake down Oracle execs with data theft claims",
+      "description": "Extortion emails name-drop Big Red's E-Business Suite, though Google and Mandiant yet to find proof of any breach\nCriminals with potential links to the notorious Clop ransomware mob are bombarding Oracle execs with extortion emails, claiming to have stolen se…",
+      "url": "https://www.theregister.com/2025/10/02/clop_oracle_extortion/",
+      "urlToImage": "https://regmedia.co.uk/2017/05/08/bomb_shutterstock.jpg",
+      "publishedAt": "2025-10-02T12:45:06Z",
+      "content": "Criminals with potential links to the notorious Clop ransomware mob are bombarding Oracle execs with extortion emails, claiming to have stolen sensitive data from Big Red's E-Business Suite, accordin… [+3065 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Perplexity’s Comet browser is now available to everyone for free",
+      "description": "After launching to subscribers willing to fork out hundreds of dollars a month this summer, Perplexity’s agentic AI browser Comet is now available to everyone for free. “The internet is better on Comet,” the company says, promising to remain free forever as i…",
+      "url": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/comet-perplexity.png?quality=90&strip=all&crop=4.0639208413038%2C19.316570067765%2C92.307526691133%2C61.36685986447&w=1200",
+      "publishedAt": "2025-10-02T12:32:46Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI startup is styling Comet as a serious competitor to Chrome.\r\nThe AI startup is styling Comet as a serious competitor to Chrome.\r\nby\r\nRobert HartClose\r\nRob… [+2523 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
       "publishedAt": "2025-10-01T13:00:00Z",
       "content": "Meta announced on Wednesday that data collected from user interactions with its AI products will soon be used to sell targeted ads across its social media platforms. \r\nThe company will update its pri… [+3122 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Emily Mullin",
-      "title": "This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro",
-      "description": "California-based Cognixion is launching a clinical trial to allow paralyzed patients with speech disorders the ability to communicate without an invasive brain implant.",
-      "url": "https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/",
-      "urlToImage": "https://media.wired.com/photos/68dc4181ea8a1d24d4f825b1/191:100/w_1280,c_limit/Brain-Computer-Interface-App-in-Apple-Vision-Pro-Science-2198799850.jpg",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Now, Cognixion is bringing its AI communication app to the Vision Pro, which Forsland says has more functionality than the purpose-built Axon-R. The Vision Pro gives you all of your apps, the app sto… [+1796 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google updates its Home app with Gemini smarts",
-      "description": "Google redesigns its Home app for better usability and adds Gemini-powered features.",
-      "url": "https://techcrunch.com/2025/10/01/google-updates-its-home-app-with-gemini-smarts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-home-app-GettyImages1235097559.jpg?w=1024",
-      "publishedAt": "2025-10-01T13:00:00Z",
-      "content": "Google admits that its Google Home app for managing smart home devices has not offered the best experience, and it now aims to change that. On Wednesday, alongside new Nest devices and an upcoming Go… [+6398 chars]"
     }
   ]
 }
