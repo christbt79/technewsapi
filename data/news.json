@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T13:13:14.174Z",
+  "fetchedAt": "2025-10-04T13:32:42.198Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Nvidia CEO Jensen Huang frustrated by UAE AI chip delay, claims report — White House said to be pressing nation to finalize U.S. investments before chip deliveries are authorized",
+      "description": "Nvidia cannot start shipping its AI chips to the UAE, as the country is reportedly yet to finalize its investments in the U.S.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-frustrated-by-uae-ai-chip-delay-claims-report-white-house-said-to-be-pressing-nation-to-finalize-u-s-investments-before-chip-deliveries-are-authorized",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hj3W5GcTdb6zZTSLG7YXWJ-2000-80.jpg",
+      "publishedAt": "2025-10-03T13:23:40Z",
+      "content": "Nvidia CEO Jensen Huang and several administration officials have been frustrated by delays to the AI chip company’s multi-billion-dollar deal with the United Arab Emirates (UAE). The deal was first … [+2784 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061143-17313551042024-11-11t195305z_1612961225_rc273basnxgh_rtrmadp_0_tech-websummit.jpeg?v=1731355157&w=1920&h=1080",
       "publishedAt": "2025-10-02T05:17:21Z",
       "content": "Current artificial intelligence models from labs like OpenAI are unlikely to lead to major scientific breakthroughs, a tech co-founder said, pouring cold water on some of the hype around the technolo… [+2256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Taiwan rejects U.S. proposal of '50-50' chip production, says trade talks focused on tariffs",
-      "description": "Vice Premier Cheng Li-chiun said the arrangement was \"not discussed,\" as she returned from trade talks in the U.S., according to Taiwan's Central News Agency.",
-      "url": "https://www.cnbc.com/2025/10/02/taiwan-us-chip-production-tsmc-trade-tariffs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107129442-1664945635603-gettyimages-1424203411-chih1022_6aba501f-9b9f-4536-aa79-fb8c54e0a58d.jpeg?v=1737490955&w=1920&h=1080",
-      "publishedAt": "2025-10-02T04:38:39Z",
-      "content": "Taiwan will not accept Washington's proposal to locally manufacture half the chips it currently supplies to the U.S., the island's top trade negotiator said.\r\nSpeaking to reporters, Cheng Li-chiun, a… [+2469 chars]"
     }
   ]
 }
