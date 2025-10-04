@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-04T13:32:42.198Z",
+  "fetchedAt": "2025-10-04T14:07:22.871Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Flai is the latest startup bringing AI to car dealerships | TechCrunch",
+      "description": "The YC-backed startup has raised a $4.5 million seed round as it looks to win over more businesses by replacing cumbersome phone trees with AI-powered software.",
+      "url": "https://techcrunch.com/2025/10/03/flai-is-the-latest-startup-bringing-ai-to-car-dealerships/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/7b41e0c1-e78e-4639-b3d2-b4cc5998e8bf.jpeg?resize=1157,1200",
+      "publishedAt": "2025-10-03T14:02:43Z",
+      "content": "Silicon Valley is full of comfortable offices with gleaming meeting rooms and on-site baristas. So when early HappyRobot engineer Ari Polakof decided to strike out and start his own company, he didn’… [+3776 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025",
+      "description": "The Founder Bundle Sale ends tonight at 11:59 p.m. PT. Save 15% on 4–9 Founder Passes and 20% off investor bundles to unlock sessions with leaders like Vinod Khosla, Aaron Levie, Jason Citron, and Karandeep Anand at TechCrunch Disrupt 2025.",
+      "url": "https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
+      "publishedAt": "2025-10-03T14:00:00Z",
+      "content": "The Founder and Investor bundle sale for TechCrunch Disrupt 2025 is live but only until tonight at 11:59 p.m. PT. This is your only chance this year to lock in group bundle savings on Founder Passes … [+3161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Apple ices ICE agent tracker app under government heat",
+      "description": "Cupertino yanks ICEBlock citing safety risks for law enforcement Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents – apparently bowing to government pressure.…",
+      "url": "https://www.theregister.com/2025/10/03/apple_iceblock/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/05/ice.jpg",
+      "publishedAt": "2025-10-03T13:49:48Z",
+      "content": "Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents apparently bowing to government pressure.\r\nThe tech giant confirmed it had removed ICEBloc… [+1832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's invite-only video generation app Sora tops Apple’s App Store",
+      "description": "The invite-based app launched this week and is only available on iOS devices.",
+      "url": "https://www.cnbc.com/2025/10/03/openai-sora-apple-app-store.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207460-1759493870027-gettyimages-2238549433-TFSPI_02102025-1224.jpeg?v=1759493935&w=1920&h=1080",
+      "publishedAt": "2025-10-03T13:35:51Z",
+      "content": "OpenAI now has two of the top three free apps in Apple's App Store, and its new video generation app Sora has snagged the coveted No. 1 spot.\r\nThe artificial intelligence startup launched Sora on Tue… [+1655 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "The real price of a free TV",
+      "description": "Back in 2023, Telly CEO Ilya Pozin came on The Vergecast and made a surprisingly compelling case for the existence of a TV that doesn't cost you a dime - but shows ads all the time. It's a reasonable business model, and a pretty good deal for consumers! But a…",
+      "url": "https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1003_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T13:33:13Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: a new generation of HomePod-y smart speakers, life with the free Telly TV, and Chunk.\r\nOn The Vergecast: a new generation of HomePod-y smart sp… [+2835 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/2djnqw/article70117266.ece/alternates/LANDSCAPE_1200/IMG_AI_New_Age_Digital_B_2_1_K9CV827R.jpg",
       "publishedAt": "2025-10-02T08:14:58Z",
       "content": "Global chipmakers saw their market value soar as investors rushed to get exposure to artificial intelligence, the latest sign of a frenetic bull run that is pushing tech stocks to all-time highs.\r\nTh… [+3621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "IONOS",
-      "title": "Artificial intelligence, key technology in the wrong hands?",
-      "description": "Until now, AI has been firmly in American hands. With IONOS, Europe is now back on an equal footing\nPartner Content Register for the free webinar now: Build cloud infrastructure – secure and sovereign for the future…",
-      "url": "https://www.theregister.com/2025/10/02/artificial_intelligence_key_technology/",
-      "urlToImage": "https://regmedia.co.uk/2024/03/13/shutterstock_eu_ai.jpg",
-      "publishedAt": "2025-10-02T08:00:10Z",
-      "content": "Partner ContentRegister for the free webinar now: Build cloud infrastructure secure and sovereign for the future\r\nArtificial intelligence is the defining technology of the next decade, comparable to … [+3830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Lloyds Banking Group says 'digitization' will power more branch closures",
-      "description": "Group promises sandboxing of AI money management tools with 1,000 branches remaining\nLloyds Banking Group — the £18.67 billion turnover UK-based bank — has promised that it will continue to use “digitization” to power a program of branch closures.…<!--#includ…",
-      "url": "https://www.theregister.com/2025/10/02/lloyds_banking_group_digitization_investor_call/",
-      "urlToImage": "https://regmedia.co.uk/2020/01/16/shutterstock_lloyds_banking_group.jpg",
-      "publishedAt": "2025-10-02T07:30:13Z",
-      "content": "Lloyds Banking Group the £18.67 billion turnover UK-based bank has promised that it will continue to use digitization to power a program of branch closures.\r\nOn a call to investors, the UK household … [+2929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Bleak news from U.S. doesn't seem that bad for stocks",
-      "description": "Shrugging off the government shutdown and a dismal ADP jobs report, the S&P 500 closed above the 6,700 level for the first time.",
-      "url": "https://www.cnbc.com/2025/10/02/cnbc-daily-open-bleak-news-from-us-doesnt-seem-that-bad-for-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206497-1759334012348-Traders-OB-Photo-20251001-CC-PRESS-1.jpg?v=1759334321&w=1920&h=1080",
-      "publishedAt": "2025-10-02T06:41:49Z",
-      "content": "On Wednesday, the U.S. government ground to a halt. Stock markets, however, jumped one benchmark even hit a record high.\r\nTraders in prediction markets are betting the shutdown will last nearly two w… [+3242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI wraps $6.6 billion share sale at $500 billion valuation",
-      "description": "OpenAI has completed a $6.6 billion secondary share sale at a $500 billion valuation, cementing its status as the most valuable private company in the world.",
-      "url": "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203074-1758667426196-gettyimages-2236544160-STARGATE_DATA_CENTER.jpeg?v=1759157215&w=1920&h=1080",
-      "publishedAt": "2025-10-02T06:05:26Z",
-      "content": "OpenAI has finalized a secondary share sale totaling $6.6 billion, allowing current and former employees to sell stock at a record $500 billion valuation, according to a person familiar with the tran… [+1730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Why current AI models won't make scientific breakthroughs, according to a top tech exec",
-      "description": "Current AI models are unlikely to be able to make novel scientific breakthroughs, Thomas Wolf, co-founder of Hugging Face said.",
-      "url": "https://www.cnbc.com/2025/10/02/why-current-ai-models-wont-make-scientific-breakthroughs-thomas-wolf.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061143-17313551042024-11-11t195305z_1612961225_rc273basnxgh_rtrmadp_0_tech-websummit.jpeg?v=1731355157&w=1920&h=1080",
-      "publishedAt": "2025-10-02T05:17:21Z",
-      "content": "Current artificial intelligence models from labs like OpenAI are unlikely to lead to major scientific breakthroughs, a tech co-founder said, pouring cold water on some of the hype around the technolo… [+2256 chars]"
     }
   ]
 }
