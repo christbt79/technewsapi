@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-04T14:07:22.871Z",
+  "fetchedAt": "2025-10-04T14:32:18.588Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "AI devs close to scraping bottom of data barrel",
+      "description": "Analysts at Goldman Sachs Global Institute say training is starting to hit its limits, enterprise info troves may be last hope\nThose spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have alr…",
+      "url": "https://www.theregister.com/2025/10/03/ai_training_requires_more_data/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_data_vault.jpg",
+      "publishedAt": "2025-10-03T14:20:09Z",
+      "content": "Those spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have already run outunless enterprises can unlock the information trapped b… [+2973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "4 Apple devices you really shouldn't buy this month (and 9 that are safe for now)",
+      "description": "Before you buy that shiny new Apple product, let's look at Apple's release plans. Plus, here's how you can save on the AirPods Pro 3.",
+      "url": "https://www.zdnet.com/article/4-apple-devices-you-really-shouldnt-buy-this-month-and-9-that-are-safe-for-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cbcdf384f5430e0aa42f730ebc6ed4fed2404aee/2024/09/19/3fb11332-ba20-43ff-93a5-503c906b816d/apple-vision-pro-sep-2024-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T14:08:00Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The long-awaited iPhone 17 has landed, and the Air replaces the Plus.</li><li>Apple Watch als… [+9153 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/kKDFjp2ZnfRohTJoJnWwUK-1920-80.jpg",
       "publishedAt": "2025-10-02T09:19:25Z",
       "content": "A hilariously ironic AI-generated video is making the rounds online, showing OpenAI CEO Sam Altman getting busted for stealing a GPU from a supermarket. In the clip shared on X, we see an Altman taki… [+3011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Irony alert: UK.gov Work dept hires IBM to aid AI projects",
-      "description": "Some Big Blue sky thinking needed for tech that promises employment extinction for humanity\nThe UK's pensions and benefits department has awarded IBM a contract that's worth up to £27 million to explore, deploy and support AI technologies to enhance its servi…",
-      "url": "https://www.theregister.com/2025/10/02/uk_pensions_and_benefits_department/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_2446573925.jpg",
-      "publishedAt": "2025-10-02T08:15:06Z",
-      "content": "The UK's pensions and benefits department has awarded IBM a contract that's worth up to £27 million to explore, deploy and support AI technologies to enhance its services.\r\nThe irony isn't lost on us… [+2999 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Global chipmakers add $200 billion in record rally on AI frenzy",
-      "description": "The sector is being swept up by a wave of good news from AI companies, including ChatGPT-owner OpenAI’s record $500 billion valuation on an employee share sale",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-02/global-chipmakers-add-200-billion-in-record-rally-on-ai-frenzy",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/2djnqw/article70117266.ece/alternates/LANDSCAPE_1200/IMG_AI_New_Age_Digital_B_2_1_K9CV827R.jpg",
-      "publishedAt": "2025-10-02T08:14:58Z",
-      "content": "Global chipmakers saw their market value soar as investors rushed to get exposure to artificial intelligence, the latest sign of a frenetic bull run that is pushing tech stocks to all-time highs.\r\nTh… [+3621 chars]"
     }
   ]
 }
