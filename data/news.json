@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-04T16:38:44.279Z",
+  "fetchedAt": "2025-10-04T17:05:06.835Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "AI data centers are swallowing the world's memory and storage supply, setting the stage for a pricing apocalypse that could last a decade",
+      "description": "As flash demand climbs and legacy DRAM supply lags, memory prices are rising across the board. Meanwhile, nearline HDD shortages are forcing hyperscalers to accelerate the adoption of QLC SSDs for roles once gated by cost, tightening both ends of the storage …",
+      "url": "https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9FDNMo8RQMZVeCFzURP926-1280-80.jpg",
+      "publishedAt": "2025-10-03T17:02:39Z",
+      "content": "This free-to-access article was made possible by Tom's Hardware Premium, where you can find in-depth news analysis, features and access to Bench.\r\nNearly every analyst firm and memory maker is now wa… [+11076 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Is Samsung bringing Apple-like AI notification summaries to Galaxy phones? Here's what we know",
+      "description": "A new feature for One UI 8.5 will take long notifications and make them easier to read.",
+      "url": "https://www.zdnet.com/article/is-samsung-bringing-apple-like-ai-notification-summaries-to-galaxy-phones-heres-what-we-know/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3e68f41db237bb79a0b46633e77652b49e7d4838/2025/05/12/d4028d88-319d-459b-bc72-69d871652a02/dsc05634.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T16:53:19Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung is working on a feature that notification summary feature.</li><li>The feature showed up… [+2105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal — AI vendor Aligned added to company's portfolio",
+      "description": "BlackRock subsidiary Global Infrastructure Partners set to buy out Aligned Data Centers for $40 billion.",
+      "url": "https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QBqPxXY5AAr9Rmd9z32qJa-2560-80.jpg",
+      "publishedAt": "2025-10-03T16:52:34Z",
+      "content": "Another day, another blimp with billions flying the skies of AI. Today's currency transfer comes from BlackRock subsidiary Global Infrastructure Partners (GIP), an investment fund set to write a big … [+2187 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "OpenAI’s Sora soars to No. 1 on the US App Store",
+      "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
+      "url": "https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "publishedAt": "2025-10-03T16:48:32Z",
+      "content": "OpenAI’s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S. and Canada at launch. On its first day, Sora saw 56,000 downloads, and is now ranked… [+2785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Google's Gemini 2.5 Flash Image 'nano banana' model is generally available",
+      "description": "Here's who can try the generator, which now comes with new aspect ratios.",
+      "url": "https://www.zdnet.com/article/googles-gemini-2-5-flash-image-nano-banana-model-is-generally-available/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c34cb27b8a7cd2b9ffd1265e8174e9092abc604d/2025/10/03/79a8a957-ad44-4faf-b5de-529037622e00/gettyimages-1280367495.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T16:47:45Z",
+      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's state-of-the-art image model is available for all.</li… [+3466 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/VE-x-PPLX.jpeg?w=1200",
       "publishedAt": "2025-10-02T13:16:36Z",
       "content": "Sequoia-backed AI design startup Visual Electric said that it is joining search startup Perplexity today. The company noted on its site that the team would be joining a new Agent Experiences group at… [+855 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Tesla finally had a good sales quarter — it may be the last one for a while",
-      "description": "Tesla’s quarterly sales increased for the first time this year, as consumers rushed to cash in on expiring federal tax credits for electric vehicle purchases. The company said that it produced a total of 447,450 vehicles between July–September of this year, i…",
-      "url": "https://www.theverge.com/news/790046/tesla-q3-2025-sales-production-delivery",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-02T13:07:33Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company was expected to have a good quarter thanks to expiring federal incentives for EV purchases.\r\nThe company was expected to have a good quarter thanks t… [+4472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Radhika Rajkumar",
-      "title": "Snowflake adds MCP support, new AI suite for financial services",
-      "description": "The company created secure solutions for some of the most sensitive information used with AI: financial data.",
-      "url": "https://www.zdnet.com/article/snowflake-adds-mcp-support-new-ai-suite-for-financial-services/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a360da814fb821991ef9dda85fde978518e8993e/2025/10/02/3aa16353-9dfd-44c3-8c37-c72871f2a5f6/gettyimages-1717393421.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T13:00:30Z",
-      "content": "Eugene Mymrin/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Snowflake now offers MCP support.</li><li>The company also debuted an AI … [+5620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta wants to bring its Business AI chat tools to third-party websites",
-      "description": "Meta debuted Business AI digital assistant for companies to offer to their customers more personalized product recommendations via chat interactions.",
-      "url": "https://www.cnbc.com/2025/10/02/meta-wants-to-bring-its-business-ai-chat-tools-to-third-party-websites.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201479-1758310460113-gettyimages-2235445183-AFP_74WE2G3.jpeg?v=1759344099&w=1920&h=1080",
-      "publishedAt": "2025-10-02T13:00:01Z",
-      "content": "Meta's efforts to expand its core business from online advertising involves pitching companies AI-powered chat tools that they can use on their own websites.\r\nThe social media giant debuted on Thursd… [+3057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Clop-linked crims shake down Oracle execs with data theft claims",
-      "description": "Extortion emails name-drop Big Red's E-Business Suite, though Google and Mandiant yet to find proof of any breach\nCriminals with potential links to the notorious Clop ransomware mob are bombarding Oracle execs with extortion emails, claiming to have stolen se…",
-      "url": "https://www.theregister.com/2025/10/02/clop_oracle_extortion/",
-      "urlToImage": "https://regmedia.co.uk/2017/05/08/bomb_shutterstock.jpg",
-      "publishedAt": "2025-10-02T12:45:06Z",
-      "content": "Criminals with potential links to the notorious Clop ransomware mob are bombarding Oracle execs with extortion emails, claiming to have stolen sensitive data from Big Red's E-Business Suite, accordin… [+3065 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Perplexity’s Comet browser is now available to everyone for free",
-      "description": "After launching to subscribers willing to fork out hundreds of dollars a month this summer, Perplexity’s agentic AI browser Comet is now available to everyone for free. “The internet is better on Comet,” the company says, promising to remain free forever as i…",
-      "url": "https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/comet-perplexity.png?quality=90&strip=all&crop=4.0639208413038%2C19.316570067765%2C92.307526691133%2C61.36685986447&w=1200",
-      "publishedAt": "2025-10-02T12:32:46Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI startup is styling Comet as a serious competitor to Chrome.\r\nThe AI startup is styling Comet as a serious competitor to Chrome.\r\nby\r\nRobert HartClose\r\nRob… [+2523 chars]"
     }
   ]
 }
