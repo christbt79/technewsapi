@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-04T20:08:57.281Z",
+  "fetchedAt": "2025-10-04T20:33:22.297Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Daniel Ek stepping down changes nothing for Spotify",
+      "description": "Spotify has found itself the target of artists' ire for many reasons over the years: poor audio quality, terrible payouts, giving Joe Rogan millions of dollars… the list goes on. But recently it's been CEO and founder Daniel Ek's extracurricular activities th…",
+      "url": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKP217_Daniel_Ek_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T20:29:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nArtists arent rushing back just because of some title changes in the C-suite.\r\nArtists arent rushing back just because of some title changes in the C-suite.\r\nby\r… [+7724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Perplexity CEO: Comet AI browser can boost productivity so companies won't have to hire more people",
+      "description": "Chicago Fed Austan Goolsbee agreed that AI could be a boon to the GDP, but cautioned about over-investment.",
+      "url": "https://www.cnbc.com/2025/10/03/perplexity-ceo-comet-ai-browser-hiring-gdp.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184847-1755017630213-gettyimages-2218082216-BLOOMBERG_TECH.jpeg?v=1755017697&w=1920&h=1080",
+      "publishedAt": "2025-10-03T20:10:02Z",
+      "content": "Perplexity AI CEO and founder Aravind Srinivas said on Friday that the startup's Comet browser can boost productivity so that companies won't need extra employees.\r\n\"Instead of hiring one more person… [+2246 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/02/minecraft-craftgpt.jpg",
       "publishedAt": "2025-10-02T15:27:10Z",
       "content": "Never mind Doom running on a potato, or whatever the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel build… [+2921 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "Don't use ChatGPT voice mode if you want accuracy - here's why",
-      "description": "ChatGPT voice mode may sound eerily human, but it skips thinking.",
-      "url": "https://www.zdnet.com/article/dont-use-chatgpt-voice-mode-if-you-want-accuracy-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bdab6b8c37d575154bd63575c566775fe223b104/2025/10/02/ed41fcd5-8d15-4e04-92b5-940adabbc7e4/gpt-voice.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T15:20:45Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT voice mode rushes, sacrificing accuracy for speed</li><li>Web version answe… [+10908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Is the new Microsoft 365 Premium worth it? Here's how it compares to Copilot Pro",
-      "description": "At a cost of $200 a year, Microsoft 365 Premium is a new subscription that brings the full power and skillset of Copilot to Microsoft Office.",
-      "url": "https://www.zdnet.com/article/is-the-new-microsoft-365-premium-worth-it-heres-how-it-compares-to-copilot-pro/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1cbcc4557333182deaf3fbf2257f9015b585df60/2025/01/15/f06687b2-0c0e-46fe-9ac1-12bd82489839/support-for-microsoft-office-in-windows-10-ends-in-october-too-what-that-means-for-you.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T15:16:20Z",
-      "content": "ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new Microsoft 365 Premium adds the full power of Copilot.</li><li>The Premium subscription costs $200 … [+5049 chars]"
     }
   ]
 }
