@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-04T18:10:46.153Z",
+  "fetchedAt": "2025-10-04T18:40:31.703Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "Can AI companies turn brainrot into revenue? | TechCrunch",
+      "description": "Watch as Equity hosts break down how the government shutdown may threaten startups and why AI companies are scrambling to turn brainrot into revenue.",
+      "url": "https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "publishedAt": "2025-10-03T18:22:32Z",
+      "content": "The U.S. government shutdown that began this week is the first in seven years. While it might not feel immediately disruptive, for startups waiting on permits, visas, or regulatory approvals, even a … [+567 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Supabase nabs $5B valuation, four months after hitting $2B | TechCrunch",
+      "description": "It's been a wild year of growth and fundraising for vibe-coding database of choice, Supabase.",
+      "url": "https://techcrunch.com/2025/10/03/supabase-nabs-5b-valuation-four-months-after-hitting-2b/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/Supabase-Ant-Wilson-Paul-Copplestone.jpg?w=1067",
+      "publishedAt": "2025-10-03T18:14:15Z",
+      "content": "It’s been a whirlwind year for the database of choice for the vibe-coding world: Supabase. On Friday Supabase announced that it raised a fresh $100 million Series E on a $5 billion valuation, led by … [+1778 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/09a7aa92a20f5f7098ed96fc8a82915dc9659bbc/2025/09/30/e79ab7d3-83a8-4f3a-90d9-5c0c96f3a90e/gh.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T14:10:00Z",
       "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2141 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Apple shelves Vision Pro overhaul to focus on AI glasses",
-      "description": "Bloomberg reports that the tech giant is developing at least two types of smart glasses.",
-      "url": "https://techcrunch.com/2025/10/02/apple-shelves-vision-pro-overhaul-to-focus-on-ai-glasses/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/CMC_6538.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T14:06:13Z",
-      "content": "Apple is sidelining plans to overhaul its Vision Pro VR glasses to focus on developing AI smart glasses that can compete with products from Meta, according to a new report from Bloomberg’s Mark Gurma… [+854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Google is giving older Nest devices a useful security upgrade - no additional costs required",
-      "description": "The highly anticipated Gemini for Home update has arrived, and it's coming to most Nest security products.",
-      "url": "https://www.zdnet.com/article/google-is-giving-older-nest-devices-a-useful-security-upgrade-no-additional-costs-required/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a9b9835e59602d88e5510472f1e8860bc051c31e/2024/10/09/8bb04fba-3264-4e4d-84b4-b42f2a124ceb/nest11.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T14:03:00Z",
-      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
     }
   ]
 }
