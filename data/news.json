@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T12:54:28.125Z",
+  "fetchedAt": "2025-10-04T13:13:14.174Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Dominic-madori Davis",
+      "title": "A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes | TechCrunch",
+      "description": "A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Lore.png?resize=1200,675",
+      "publishedAt": "2025-10-03T13:04:50Z",
+      "content": "Zehra Naqvi, 26, grew up as an obsessive fan girl in the 2010s. \r\nThis was the era of Tumblr and Twitter. She would stay up all night breaking down the release dates of Marvel movies or analyzing the… [+4292 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "I tried Amazon and Google’s new smart home gadgets, ask me anything!",
+      "description": "Hi! I'm Jennifer Pattison Tuohy (aka Jen), The Verge's smart home reviewer. I just spent the last week in New York City getting hands-on with the new smart displays, smart speakers, smart voice assistants, and smart security cameras launched by Amazon and Goo…",
+      "url": "https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257993_Jen_Tuohy_AMA_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T13:03:16Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom new Echo Shows and Ring doorbells, to new Nest Cams and a new Google Home smart speaker, theres a lot of new smart home gear coming. You have questions, I h… [+3457 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "New deep tech fund Wave Function Ventures raises $15 million",
+      "description": "Former SpaceX Falcon 9 engineer Jamie Gull, who started the fund, has already made nine investments.",
+      "url": "https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/wave-function-ventures.jpg?resize=1200,1166",
+      "publishedAt": "2025-10-03T13:02:31Z",
+      "content": "When Jamie Gull graduated from Stanford University in 2007 with a master’s degree in aeronautics, there was one place he wanted to go next: the desert. \r\nThe Mojave desert, to be specific. A company … [+4183 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107129442-1664945635603-gettyimages-1424203411-chih1022_6aba501f-9b9f-4536-aa79-fb8c54e0a58d.jpeg?v=1737490955&w=1920&h=1080",
       "publishedAt": "2025-10-02T04:38:39Z",
       "content": "Taiwan will not accept Washington's proposal to locally manufacture half the chips it currently supplies to the U.S., the island's top trade negotiator said.\r\nSpeaking to reporters, Cheng Li-chiun, a… [+2469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "The work AI should really be doing, according to these pros",
-      "description": "AI is threatening some creative careers. What would it look like if it worked for them instead?",
-      "url": "https://www.zdnet.com/article/the-work-ai-should-really-be-doing-according-to-these-pros/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d161cdc65861cdaf9b68fdbe62a8eb879d05cac0/2025/10/01/dd9e3659-18e4-434a-9e25-ffe7f0480404/gettyimages-1869892182.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T02:00:37Z",
-      "content": "Westend61/Westend61 via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Many designers now use AI in their day-to-day work.</li><li>Some hope the t… [+7590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "Forensic vibers wanted - and 10 other new job roles AI could create",
-      "description": "In early internet days, who knew from webmasters or cloud architects? Upcoming AI-related roles will also be more than we imagined. Try these jobs on for size.",
-      "url": "https://www.zdnet.com/article/forensic-vibers-wanted-and-10-other-new-job-roles-ai-could-create/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/51f28a893a3d85007b2e03b2fc93c0211898a343/2025/10/01/5853f888-dbab-4f6b-ad54-f6d7311fe681/walktodigitalgettyimages-2212586587.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T02:00:27Z",
-      "content": "imaginima/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Prompt engineer is the newest role, but many other roles wil… [+8557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "How to record a phone call on your iPhone (and check if it's even legal)",
-      "description": "Call recording is easier than ever on an iPhone. Here's how you can record your next call and even get a transcript - in a couple of taps.",
-      "url": "https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone-and-check-if-its-even-legal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/01216b6eb4a48ce6456c8331260173b5b75e8aa6/2025/10/01/cedf5032-d6d0-475a-905a-1428c7bffc72/9.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T02:00:00Z",
-      "content": "Can you record an iPhone call without iOS 18.1 or later? \r\nYes. You can still record calls with another device or a third-party service. \r\nThe most common approach is to use a second device as a reco… [+4209 chars]"
     }
   ]
 }
