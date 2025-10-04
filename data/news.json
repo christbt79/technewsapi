@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T17:31:27.878Z",
+  "fetchedAt": "2025-10-04T18:10:46.153Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "Cybercrooks breach Red Hat's private GitLab repos - what we know about affected customers",
+      "description": "Any theft of customer data is bad a look, but it's still unclear just how serious this incident is. Here's why.",
+      "url": "https://www.zdnet.com/article/cybercrooks-breach-red-hats-private-gitlab-repos-what-we-know-about-affected-customers/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/99590b2dfae4684797d365d74973edc42d944ea6/2025/07/09/5161f4d2-dde8-438c-8ae3-4d3f5439fb2f/gettyimages-2205112124.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T18:04:02Z",
+      "content": "John Keeble/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Hackers have broken into Red Hat's private GitLab repositories. </li><li>Some Red Hat C… [+4924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Jeff Bezos envisions space-based data centers in 10 to 20 years — could allow for natural cooling and more effective solar power",
+      "description": "Jeff Bezos envisions gigawatt-scale orbital data centers within 10–20 years, powered by continuous solar energy and space-based cooling, but the concept remains commercially unviable today due to the immense cost and complexity of deploying thousands of tons …",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jeff-bezos-envisions-space-based-data-centers-in-10-to-20-years-could-allow-for-natural-cooling-and-more-effective-solar-power",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EtP9xHD6entYPYdsDr4LzH-2560-80.jpg",
+      "publishedAt": "2025-10-03T17:47:29Z",
+      "content": "Jeff Bezos predicts that within the next 10 to 20 years, extremely large-scale data centers will be constructed in orbit, where continuous access to solar power and relatively easy cooling could allo… [+4004 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Samsung may be bringing a controversial iOS feature to Galaxy phones - and I'm worried",
+      "description": "A new feature for One UI 8.5 will take long notifications and make them easier to read.",
+      "url": "https://www.zdnet.com/article/samsung-may-be-bringing-a-controversial-ios-feature-to-galaxy-phones-and-im-worried/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d21c5c660cdb983e89344a6fe6b591dd7e11916f/2025/07/28/7773772e-9f69-43ce-9924-259a27dc0653/dsc06715.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T17:37:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung is working on a feature that notification summary feature.</li><li>The feature showed up… [+2105 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/a9b9835e59602d88e5510472f1e8860bc051c31e/2024/10/09/8bb04fba-3264-4e4d-84b4-b42f2a124ceb/nest11.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T14:03:00Z",
       "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Last chance alert: Founder and Investor Bundle savings for TechCrunch Disrupt 2025 ends tomorrow",
-      "description": "Founder and Investor Bundle savings for TechCrunch Disrupt 2025 end tomorrow, October 3. Groups of 4–9 founders save 15% and investors save 20%. Access top VCs, pitch-ready startups, and hands-on sessions.",
-      "url": "https://techcrunch.com/2025/10/02/last-chance-alert-founder-and-investor-bundle-savings-for-techcrunch-disrupt-2025-ends-tomorrow/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/04/17205300128_99b3d607eb_o.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T14:00:00Z",
-      "content": "Ticktock! The Founder and Investor Bundle sale for TechCrunch Disrupt 2025 ends tomorrow, October 3, at 11:59 p.m. PT. After that, founders will no longer be able to register in bulk at a discount, a… [+2320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "SaaS turbo-charged software spending tough for CIOs to control, says research",
-      "description": "Consulting biz reckons ballooning costs a result of changes in licensing, vendor landscape, and product shifts\nBoston Consulting Group (BCG) is warning that organizations need to rethink their approach to buying software as the ongoing push of SaaS into the m…",
-      "url": "https://www.theregister.com/2025/10/02/saas_turbocharged_software_spending_tough/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/02/shutterstock_1983837506.jpg",
-      "publishedAt": "2025-10-02T13:59:41Z",
-      "content": "Boston Consulting Group (BCG) is warning that organizations need to rethink their approach to buying software as the ongoing push of SaaS into the market gathers pace.\r\nIts analysis of Gartner's figu… [+3494 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "The good, the bad, and the future of AI agents",
-      "description": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’ll be subbing in for Nilay for a couple more episodes, and I’m excited to keep diving into the good, the bad, and the questionable in …",
-      "url": "https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_CLAUDE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-02T13:59:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe good, the bad, and the future of AI agents\r\nAnthropics David Hershey joins the show to discuss Claude Sonnet 4.5 and the current landscape for agentic AI.\r\nb… [+4886 chars]"
     }
   ]
 }
