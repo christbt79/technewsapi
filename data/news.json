@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T21:06:06.665Z",
+  "fetchedAt": "2025-10-04T21:31:16.059Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI chipmaker Cerebras withdraws IPO",
+      "description": null,
+      "url": "https://www.cnbc.com/2025/10/03/cerebras-withdraws-ipo-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207840-1759525583790-gettyimages-2223516693-FRANCE_RAISE_SUMMIT.jpeg?v=1759525621&w=1920&h=1080",
+      "publishedAt": "2025-10-03T21:17:16Z",
+      "content": "Artificial intelligence chipmaker Cerebras on Friday filed paperwork with the U.S. Securities and Exchange Commission withdrawing plans for an initial public offering. \r\nThe agency is operating at a … [+1685 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Instagram wants me to make content — I just want to post a photo",
+      "description": "Have you tried simply uploading a photo to Instagram lately? It's a minefield. Is that a Story, a Post, or a Reel? Do you want to add music? A caption? A prompt, which is… different than a caption, somehow? How about a poll? A fundraiser? More text, but this …",
+      "url": "https://www.theverge.com/tech/791595/instagram-uploading-features-content",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257997_instagram_content_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T21:11:57Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlain old pictures are out; content is in.\r\nPlain old pictures are out; content is in.\r\nby\r\nAllison JohnsonClose\r\nAllison Johnson\r\nPosts from this author will be… [+5017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "AI lifts some software stocks, leaves others behind - who's winning and losing and why",
+      "description": "Investors are rewarding the firms that power AI's infrastructure, not those just layering AI onto existing tools.",
+      "url": "https://www.zdnet.com/article/ai-lifts-some-software-stocks-leaves-others-behind-whos-winning-and-losing-and-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/12820ac01e32cca73a5d555615d76e1cb9cfa4fe/2025/09/25/a153c27c-85b1-4d0d-b4d3-abbb9b0a7218/gettyimages-1828490321.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T21:11:36Z",
+      "content": "Andriy Onufriyenko/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The AI boom has fueled hefty investments in software companies.</li><li>Yet, no… [+5335 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/40bfbc029f64a4c099f5cb7c2c31c46d3c9362ad/2025/10/02/9b729380-10dc-4072-b9b7-ceebce8f2c8a/holgram5555gettyimages-1208410138.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T16:41:48Z",
       "content": "Adrienne Bresnahan/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses that leverage digital labor and agentic AI are becoming au… [+10393 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "The smart glasses race is really on now",
-      "description": "Last month, I had a conversation with someone wearing glasses — and couldn’t see that they had a display right in front of one of their eyes. Through a monitor connected to the glasses, I watched in awe as my colleague Victoria Song scrolled through and wrote…",
-      "url": "https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257988_smart_glasses_race_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-02T16:28:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple is reportedly putting more resources behind smart glasses. Will it crush Meta?\r\nApple is reportedly putting more resources behind smart glasses. Will it cr… [+5625 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Cindy Zackney",
-      "title": "Celebrating the partners driving Disrupt’s big ideas, connections, and community | TechCrunch",
-      "description": "TechCrunch Disrupt 2025 wouldn’t be possible without the incredible support of our sponsors, who bring world-class expertise, bold innovation, and community energy to every corner of the conference.",
-      "url": "https://techcrunch.com/2025/10/02/celebrating-the-partners-driving-disrupts-big-ideas-connections-and-community/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_Disrupt_General_Article_No-Anniversary_Headers_1920x1080.png?resize=1200,675",
-      "publishedAt": "2025-10-02T16:02:29Z",
-      "content": "TechCrunch Disrupt 2025 wouldnt be possible without the incredible support of our sponsors, who bring world-class expertise, bold innovation, and community energy to every corner of the conference.\r\n… [+2762 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Ex-OpenAI researcher dissects one of ChatGPT's delusional spirals | TechCrunch",
-      "description": "A former OpenAI researcher looked into how ChatGPT can mislead delusional users about their reality and its own capabilities",
-      "url": "https://techcrunch.com/2025/10/02/ex-openai-researcher-dissects-one-of-chatgpts-delusional-spirals/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T15:48:05Z",
-      "content": "Allan Brooks never set out to reinvent mathematics. But after weeks spent talking with ChatGPT, the 47-year-old Canadian came to believe he had discovered a new form of math powerful enough to take d… [+5897 chars]"
     }
   ]
 }
