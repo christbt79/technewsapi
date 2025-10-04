@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T15:31:22.833Z",
+  "fetchedAt": "2025-10-04T16:09:10.130Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Qualcomm's big win over Arm could reverberate throughout the industry — ALA licensees could potentially develop custom designs without renegotiating terms",
+      "description": "Qualcomm's legal victory over Arm not only secures its right to deploy Nuvia's custom CPU cores under its existing license but also sets a major industry precedent, weakening Arm’s control over licensing as it pivots toward designing its own CPUs.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomms-big-win-over-arm-could-reverberate-throughout-the-industry-ala-licensees-could-potentially-develop-custom-designs-without-renegotiating-terms",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/B9rErcZG4KV2pRhYyYM8WU-1920-80.jpg",
+      "publishedAt": "2025-10-03T16:06:22Z",
+      "content": "This week, Qualcomm secured a final legal win against Arm in a high-profile licensing dispute around CPU cores developed by Nuvia, which Qualcomm acquired in 2021. A U.S. District Court has now rejec… [+9934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Quantum stocks Rigetti Computing and D-Wave surged double-digits this week. Here's what's driving the big move",
+      "description": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\"",
+      "url": "https://www.cnbc.com/2025/10/03/quantum-stocks-rigetti-computing-d-wave.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108133732-1744950858083-Chandelier-thumb.jpg?v=1759505467&w=1920&h=1080",
+      "publishedAt": "2025-10-03T15:58:05Z",
+      "content": "Quantum computing stocks are wrapping up a big week of double-digit gains.\r\nShares of Rigetti Computing, D-Wave Quantum and Quantum Computing have surged more than 20%. Rigetti and D-Wave Quantum hav… [+843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Intel's next-gen Nova Lake and Diamond Rapids microarchitectures get official confirmation — Latest ISA reference doc details the P-Cores and E-Cores upcoming CPUs will use",
+      "description": "Intel's upcoming client and server CPUs will use brand new core micro-architectures, as confirmed by the latest edition of the ISA reference doc. Nova Lake client processors will use Coyote Cove P-Cores and Arctic Wolf E-Cores, while Diamond Rapids workstatio…",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-nova-lake-and-diamond-rapids-microarchitectures-get-official-confirmation-latest-isa-reference-doc-details-the-p-cores-and-e-cores-upcoming-cpus-will-use",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bL5iYiBUY2rLX6QTRp4iaU-1920-80.jpg",
+      "publishedAt": "2025-10-03T15:44:37Z",
+      "content": "Intel is thought to be working on its Panther Lake lineup of mobile CPUs set to release toward the end of this year or early in 2026. Beyond that, the 2026 roadmap is filled with its Nova Lake client… [+3228 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206876-1759396589790-gettyimages-2153630961-INDIA_YOTTA_NVIDIA.jpeg?v=1759396602&w=1920&h=1080",
       "publishedAt": "2025-10-02T12:03:58Z",
       "content": "A Nvidia HGX H100 server at the Yotta Data Services Pvt. data center in Navi Mumbai, India, on Thursday, Mar. 14, 2024.\r\nThis report is from this week's CNBC's \"Inside India\" newsletter, which brings… [+10084 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "Oneleet raises $33M to shake up the world of security compliance | TechCrunch",
-      "description": "Founder Bryan Onel says too many companies are doing the bare minimum to meet their security compliance obligations, and raised $33 million to help his customers get both compliant and secure.",
-      "url": "https://techcrunch.com/2025/10/02/oneleet-raises-33m-to-shake-up-the-world-of-security-compliance/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/One-Leet.jpg?resize=1200,799",
-      "publishedAt": "2025-10-02T12:01:39Z",
-      "content": "Bryan Onels father was a locksmith. As for Onel, he described himself as the digital equivalent.\r\nEthical hacking was Onel’s hobby growing up. He studied AI at university and then turned that hacking… [+4199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "U.S. Commerce Sec. Lutnick says American AI dominates DeepSeek, thanks Trump for AI Action Plan — OpenAI and Anthropic beat Chinese models across 19 different benchmarks",
-      "description": "NIST just released a study showing OpenAI's and Anthropic's models defeating DeepSeek in several benchmarks.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-commerce-sec-lutnick-says-american-ai-dominates-deepseek-thanks-trump-for-ai-action-plan-openai-and-anthropic-beat-chinese-models-across-19-different-benchmarks",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GY2SUFu9EnptyCgxYtvHpT-2000-80.jpg",
-      "publishedAt": "2025-10-02T11:47:08Z",
-      "content": "The National Institute of Science and Technology (NIST) has just completed a comprehensive test of Chinese and American AI models, with the results showing that models from OpenAI and Anthropic outpe… [+3062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Wi-Fi signals can now create accurate images of a room with the help of pre-trained AI — 'LatentCSI' leverages Stable Diffusion 3 to turn Wi-Fi data into a digital paintbrush",
-      "description": "Researchers have cracked the code to fast and accurate image generation with Wi-Fi signals. Previously, Wi-Fi-based imagery was all but rough sketches, but with the help of a pretrained Stable Diffusion model, these Wi-Fi signals can now create realistic visu…",
-      "url": "https://www.tomshardware.com/tech-industry/wi-fi-signals-can-now-create-accurate-images-of-a-room-with-the-help-of-pre-trained-ai-latentcsi-leverages-stable-diffusion-3-to-turn-wi-fi-data-into-a-digital-paintbrush",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kbnZrASYje3B6GAvhTYukR-2560-80.jpg",
-      "publishedAt": "2025-10-02T11:44:44Z",
-      "content": "The Wi-Fi devices around us constantly share signals between each other, creating a perpetually reverberant environment where these radio waves become borderline spatially aware. Because the signals … [+3160 chars]"
     }
   ]
 }
