@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-03T23:31:18.789Z",
+  "fetchedAt": "2025-10-04T00:38:34.747Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's Sora 2 is putting safety and censorship to the test with stunningly real videos",
+      "description": "Fresh off a $6.6 billion share sale that cemented its $500 billion valuation, OpenAI is viral with Sora 2, its first feed-driven video app.",
+      "url": "https://www.cnbc.com/2025/10/02/openai-invite-code-sora-2-censorship.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207285-1759447450525-gettyimages-2238317673-Illustration_Sora_2.jpeg?v=1759447514&w=1920&h=1080",
+      "publishedAt": "2025-10-03T00:09:21Z",
+      "content": "Fresh off a $6.6 billion share sale that made it the world's most valuable private company, OpenAI's TikTok-style video app, powered by its new artificial intelligence model, Sora 2, is going viral. … [+4704 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-at-3.00.40PM.png?resize=1200,821",
       "publishedAt": "2025-10-01T19:39:28Z",
       "content": "Tilly Norwood is a London-based actress with about 40,000 Instagram followers. Also, she’s not real — she is an AI-generated character created by Xicoia, the AI division of the production company Par… [+2217 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "'Delightful' root-access bug in Red Hat OpenShift AI allows full cluster takeover",
-      "description": "Who wouldn't want root access on cluster master nodes? A 9.9 out of 10 severity bug in Red Hat's OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.…",
-      "url": "https://www.theregister.com/2025/10/01/critical_red_hat_openshift_ai_bug/",
-      "urlToImage": "https://regmedia.co.uk/2023/04/28/shutterstock_red_hat.jpg",
-      "publishedAt": "2025-10-01T19:35:44Z",
-      "content": "A 9.9 out of 10 severity bug in Red Hat's OpenShift AI service could allow a remote attacker with minimal authentication to steal data, disrupt services, and fully hijack the platform.\r\n\"A low-privil… [+3269 chars]"
     }
   ]
 }
