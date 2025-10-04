@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T00:38:34.747Z",
+  "fetchedAt": "2025-10-04T02:08:37.752Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Radhika Rajkumar （ZDNET.com） 翻訳校正： 矢倉美登里 長谷睦 （ガリレオ）",
+      "title": "Snowflake、「MCP」のサポートと金融機関向け新AIスイートを発表",
+      "description": "Snowflakeが独自の「Model Context Protocol」（MCP）サーバーと、金融機関に特化した人工知能（AI）ツールの新パッケージ「Cortex AI for Financial Services」を発表した。",
+      "url": "https://japan.zdnet.com/article/35238762/",
+      "urlToImage": "https://japan.zdnet.com/storage/2025/10/03/d1202b70612ca3782419bd16578b2ced/gettyimages-1717393421_1280.jpg",
+      "publishedAt": "2025-10-03T01:04:00Z",
+      "content": "Snowflake102Model Context ProtocolMCP2025AnthropicSnowflakeAIAI\r\nSnowflakeAICortex AICortex AIAnthropicOpenAICortex AI for Financial Services\r\nSnowflake MCP ServerSnowflakeCortex Knowledge Extensions… [+298 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_1289760685.jpg",
       "publishedAt": "2025-10-01T19:48:23Z",
       "content": "The US government shut down at 1201 ET on October 1, halting non-essential IT modernization and leaving cybersecurity operations to run on skeleton crews.\r\nPresident Trump has made overhauling govern… [+4962 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Hollywood is not taking kindly to the AI-generated actress Tilly Norwood | TechCrunch",
-      "description": "Tilly Norwood is not real, but the company that created her hopes that she's the first of many AI-generated stars.",
-      "url": "https://techcrunch.com/2025/10/01/hollywood-is-not-taking-kindly-to-the-ai-generated-actress-tilly-norwood/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-01-at-3.00.40PM.png?resize=1200,821",
-      "publishedAt": "2025-10-01T19:39:28Z",
-      "content": "Tilly Norwood is a London-based actress with about 40,000 Instagram followers. Also, she’s not real — she is an AI-generated character created by Xicoia, the AI division of the production company Par… [+2217 chars]"
     }
   ]
 }
