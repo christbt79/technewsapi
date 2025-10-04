@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T22:33:51.531Z",
+  "fetchedAt": "2025-10-04T23:07:55.204Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cramer's Lightning Round: Broadcom over Ambiq Micro",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2025/10/03/cramers-lightning-round-broadcom-over-ambiq-micro.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1697237650&w=1920&h=1080",
+      "publishedAt": "2025-10-03T22:58:11Z",
+      "content": "Ambiq Micro: \"We got to be careful of that. There are so many good semiconductor companies out there. I'd rather see you in Broadcom.\"\r\nAlbertsons: \"I don't like Albertsons here.\"\r\nuniQure: \"...After… [+816 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI",
+      "description": "OpenAI is acquiring the CEO of Roi, an AI financial companion. Roi will sunset its service as its talent heads to OpenAI, ostensibly to help boost revenue in consumer apps.",
+      "url": "https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-03-at-6.27.11PM.png?resize=1200,743",
+      "publishedAt": "2025-10-03T22:52:14Z",
+      "content": "OpenAI has acquired Roi, an AI-powered personal finance app. In keeping with a recent trend in the AI industry, only the CEO is making the jump.  \r\nChief executive and co-founder Sujith Vishwajith an… [+3781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cramer's week ahead: Dell's analyst meeting and earnings from McCormick, Delta",
+      "description": "CNBC's Jim Cramer on Friday guided investors through next week on Wall Street.",
+      "url": "https://www.cnbc.com/2025/10/03/cramers-week-ahead-dells-analyst-meeting-earnings-mccormick-delta.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/101642748-20130429-0903-125.jpg?v=1512406065&w=1920&h=1080",
+      "publishedAt": "2025-10-03T22:45:38Z",
+      "content": "CNBC's Jim Cramer on Friday guided investors through next week on Wall Street, highlighting earnings reports from McCormick and Delta Air Lines as well as Dell's analyst meeting. He also suggested th… [+3186 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184850-1755017763034-gettyimages-2169504261-SKOREA_SK_TELECOM_PERPLEXITY.jpeg?v=1755017792&w=1920&h=1080",
       "publishedAt": "2025-10-02T17:01:55Z",
       "content": "Perplexity AI on Thursday announced that its artificial-intelligence-powered web browser Comet is available worldwide, and will be free to users.\r\nThe Comet browser is designed to serve as a personal… [+1864 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "AMD and Intel's unlikely chipmaking partnership isn't without its benefits — how AMD could divest reliance on TSMC",
-      "description": "Intel and AMD have competed at opposite ends of the x86 spectrum for decades, but a potential deal could be mutually beneficial for both companies.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-in-early-talks-to-use-ifs",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/V6g9erh8DezsJ2RfiySJiT-2560-80.png",
-      "publishedAt": "2025-10-02T16:55:38Z",
-      "content": "Intel and AMD have mostly been rivals for decades, but for the first time in years, they may soon share a wafer. According to a new report, AMD is in early discussions with Intel to build some of its… [+5261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Do you get your news from AI? Who is - and isn't, according to Pew Research",
-      "description": "Americans are having a hard time trusting AI as a news source - and for good reason.",
-      "url": "https://www.zdnet.com/article/do-you-get-your-news-from-ai-who-is-and-isnt-according-to-pew-research/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/52265bd5b82667c5a320a96ae2c8f76d143eb285/2025/10/02/78e6b9bb-d66a-4432-9cae-767cbf84fefa/gettyimages-2207447081.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T16:51:57Z",
-      "content": "Francesco Carta fotografo/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most Americans aren't using AI as a news source.</li><li>Thos… [+2868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "How to get access to Alexa+ now - and which Echo devices support it",
-      "description": "Amazon's AI-powered Alexa+ has been rolling out for a few months. Here's how you can sign up for early access.",
-      "url": "https://www.zdnet.com/article/how-to-get-access-to-alexa-now-and-which-echo-devices-support-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/38048dedda8b975264387a64231beb79cfb4bcf8/2025/10/02/570328df-c8cb-46a0-8c62-de410d239563/how-to-get-early-access-to-alexa-and-which-amazon-echo-devices-support-it.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T16:46:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollowing the launch of the new Amazon devices, you may be wondering when you'll be able to access Alexa+. \r\nAmazon announced Alexa+ in February, a generative AI-powered… [+2436 chars]"
     }
   ]
 }
