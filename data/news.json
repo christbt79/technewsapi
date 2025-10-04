@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T16:09:10.130Z",
+  "fetchedAt": "2025-10-04T16:38:44.279Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia details efficiency of the NVFP4 format for LLM training — new paper reveals how NVFP4 offers benefits over FP8 and BF16",
+      "description": "Nvidia has demonstrated that its NVFP4 4-bit floating point format — originally intended for inference — can be used for stable, large-scale training of LLMs with minimal accuracy loss, offering significant gains in compute and memory efficiency over both FP8…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-details-efficiency-of-the-nvfp4-format-for-llm-training-new-paper-reveals-how-nvfp4-offers-benefits-over-fp8-and-bf16",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9qzh6KNM38G5k4VFDPnHTR-2560-80.jpg",
+      "publishedAt": "2025-10-03T16:19:25Z",
+      "content": "When Nvidia began to disclose details about its new 4-bit floating point format — NVFP4 — earlier this year, it stated that while it is mainly designed for inference, it could also be used for AI tra… [+8421 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/comet-perplexity.png?quality=90&strip=all&crop=4.0639208413038%2C19.316570067765%2C92.307526691133%2C61.36685986447&w=1200",
       "publishedAt": "2025-10-02T12:32:46Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI startup is styling Comet as a serious competitor to Chrome.\r\nThe AI startup is styling Comet as a serious competitor to Chrome.\r\nby\r\nRobert HartClose\r\nRob… [+2523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's Inside India newsletter: India’s gigawatt gold rush",
-      "description": "India’s data center sector is in the middle of a gold rush, with global giants, billionaires and even luxury property developers piling in.",
-      "url": "https://www.cnbc.com/2025/10/02/cnbcs-inside-india-newsletter-indias-gigawatt-gold-rush.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206876-1759396589790-gettyimages-2153630961-INDIA_YOTTA_NVIDIA.jpeg?v=1759396602&w=1920&h=1080",
-      "publishedAt": "2025-10-02T12:03:58Z",
-      "content": "A Nvidia HGX H100 server at the Yotta Data Services Pvt. data center in Navi Mumbai, India, on Thursday, Mar. 14, 2024.\r\nThis report is from this week's CNBC's \"Inside India\" newsletter, which brings… [+10084 chars]"
     }
   ]
 }
