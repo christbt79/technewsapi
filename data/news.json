@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-04T14:32:18.588Z",
+  "fetchedAt": "2025-10-04T15:07:12.293Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Leaked doc reveals the chaotic politics behind Trump Energy Department cuts | TechCrunch",
+      "description": "Harris-voting states were hit hardest by Department of Energy award cancellations, but not every blue-state project was cut. Politics might play a role.",
+      "url": "https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205749899.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-03T15:05:57Z",
+      "content": "This week, the Department of Energy canceled nearly $8 billion worth of awards a move touted by the Trump administration as an effort to protect fossil fuels at the expense of renewables. But documen… [+3802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "How to get Sora app invite codes for OpenAI's viral AI video creator",
+      "description": "Sora has already grabbed the top spot in Apple's App Store as its number one free app, despite being invite-only.",
+      "url": "https://www.cnbc.com/2025/10/03/sora-app-invite-codes-openai-viral-ai-video.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207459-1759493869690-gettyimages-2238318028-Illustration_Sora_2.jpeg?v=1759493935&w=1920&h=1080",
+      "publishedAt": "2025-10-03T15:00:04Z",
+      "content": "OpenAI's new artificial intelligence video app Sora has already grabbed the top spot in Apple's App Store as its number one free app, despite being invite-only.\r\nSora, which was launched on Tuesday, … [+1286 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steven Levy",
+      "title": "Sam Altman Says the GPT-5 Haters Got It All Wrong",
+      "description": "OpenAI's CEO explains that its large language model has been misunderstood—and that he's changed his attitude to AGI.",
+      "url": "https://www.wired.com/story/sam-altman-says-the-gpt-5-haters-got-it-all-wrong/",
+      "urlToImage": "https://media.wired.com/photos/68dd9017ba56dd85e2c33324/191:100/w_1280,c_limit/Backchannel-GPT5-Sam-Altman-Business-2214102480.jpg",
+      "publishedAt": "2025-10-03T15:00:00Z",
+      "content": "OpenAIs August launch of its GPT-5 large language model was somewhat of a disaster. There were glitches during the livestream, with the model generating charts with obviously inaccurate numbers. In a… [+4189 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Red Hat fesses up to GitLab breach after attackers brag of data theft",
+      "description": "Open source giant admits intruders broke into dedicated consulting instance, but insists core products untouched What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with …",
+      "url": "https://www.theregister.com/2025/10/03/red_hat_gitlab_breach/",
+      "urlToImage": "https://regmedia.co.uk/2019/10/17/shutterstock_gitlab_logo.jpg",
+      "publishedAt": "2025-10-03T14:42:04Z",
+      "content": "What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with data.\r\nThe IBM-owned open source giant said in a blog… [+3139 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/kbnZrASYje3B6GAvhTYukR-2560-80.jpg",
       "publishedAt": "2025-10-02T11:44:44Z",
       "content": "The Wi-Fi devices around us constantly share signals between each other, creating a perpetually reverberant environment where these radio waves become borderline spatially aware. Because the signals … [+3160 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Kwanwoo Jun",
-      "title": "Samsung, SK Hynix Rally on Partnership With OpenAI for Stargate Project",
-      "description": "Shares in Samsung Electronics and SK Hynix surged to multiyear highs, after the South Korean memory-chip makers struck initial agreements with ChatGPT maker ...",
-      "url": "https://www.wsj.com/finance/samsung-sk-hynix-rally-on-partnership-with-openai-for-stargate-project-54937adf",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1XXRiSPklp24R.QRQdpGSQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/d91a7998c674c8e8048906df377c958b",
-      "publishedAt": "2025-10-02T10:15:00Z",
-      "content": "Samsung Electronics is stepping up efforts to catch up in supplying next-generation HBM4 products. - odd andersen/Agence France-Presse/Getty Images\r\nShares in Samsung Electronics and SK Hynix surged … [+3233 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Music’s biggest labels are weeks away from major AI licensing deals",
-      "description": "Universal Music and Warner Music, record labels whose catalogs include Taylor Swift, Ariana Grande, and Charli XCX, are within weeks of striking licensing deals that could redefine how the music industry handles the AI era, according to the Financial Times.  …",
-      "url": "https://www.theverge.com/news/790405/warner-universal-music-ai-deals",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24261640/1443154946.jpg?quality=90&strip=all&crop=0%2C14.325415002447%2C100%2C71.349169995105&w=1200",
-      "publishedAt": "2025-10-02T09:48:03Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUniversal and Warner are pushing for a streaming-inspired payment model.\r\nUniversal and Warner are pushing for a streaming-inspired payment model.\r\nby\r\nRobert Ha… [+2409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Cybercrims claim raid on 28,000 Red Hat repos, say they have sensitive customer files",
-      "description": "570GB of data claimed to be stolen by the Crimson Collective A hacking crew claims to have broken into Red Hat's private GitHub repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. …",
-      "url": "https://www.theregister.com/2025/10/02/cybercrims_claim_raid_on_28000/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/02/red_hat.jpg",
-      "publishedAt": "2025-10-02T09:25:46Z",
-      "content": "A hacking crew claims to have broken into Red Hat's private GitHub repositories, exfiltrating some 570GB of compressed data, including sensitive documents belonging to customers. \r\nAn extortion group… [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "AI-generated security camera feed shows Sam Altman getting busted stealing GPUs from Target — ironic video shows OpenAI CEO saying he needs it for Sora inferencing",
-      "description": "OpenAI showcased the capabilities of Sora 2 by getting its CEO busted.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-generated-security-camera-feed-shows-sam-altman-getting-busted-stealing-gpus-from-target-ironic-video-shows-openai-ceo-saying-he-needs-it-for-sora-inferencing",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kKDFjp2ZnfRohTJoJnWwUK-1920-80.jpg",
-      "publishedAt": "2025-10-02T09:19:25Z",
-      "content": "A hilariously ironic AI-generated video is making the rounds online, showing OpenAI CEO Sam Altman getting busted for stealing a GPU from a supermarket. In the clip shared on X, we see an Altman taki… [+3011 chars]"
     }
   ]
 }
