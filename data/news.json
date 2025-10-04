@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T10:34:51.906Z",
+  "fetchedAt": "2025-10-04T11:03:35.314Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "For first-time job hunters, a college degree isn't unlocking the opportunities it once did",
+      "description": "Data shows young college grads are feeling the brunt of the labor market slowdown.",
+      "url": "https://www.cnbc.com/2025/10/03/job-market-new-grads-unemployment.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102564006-college-job-fair.jpg?v=1759283393&w=1920&h=1080",
+      "publishedAt": "2025-10-03T11:00:12Z",
+      "content": "Students wait in line before the start a career fair at the New York University Polytechnic School of Engineering in the Brooklyn borough of New York.\r\nWith a Georgetown degree and several internship… [+8463 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "U.S. model upgrades are pushing AI startups to move fast – it's unclear if Europe can keep up",
+      "description": "Frequent updates of AI models like ChatGPT and Claude are pushing companies built on top of them to iterate faster or risk falling behind.",
+      "url": "https://www.cnbc.com/2025/10/03/openai-anthropic-push-ai-startups-to-move-fast-can-europe-keep-up.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166937-1751460466152-gettyimages-2210000239-TFSPI_16042025-6546.jpeg?v=1759472466&w=1920&h=1080",
+      "publishedAt": "2025-10-03T10:54:52Z",
+      "content": "Founded in 2022, ElevenLabs is an AI voice generation startup based in London. It competes with the likes of Speechmatics and Hume AI.\r\nArtificial intelligence companies are the hottest ticket items … [+4878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Christian de Looper",
+      "title": "Apple AirPods Pro 3 vs. Samsung Galaxy Buds 3 Pro: I tested both earbuds, and this one wins",
+      "description": "It's a battle of device ecosystems - but is one truly better?",
+      "url": "https://www.zdnet.com/article/apple-airpods-pro-3-vs-samsung-galaxy-buds-3-pro-i-tested-both-earbuds-and-this-one-wins/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3723d81dfb59c4ffc61a2c21021e571a98c29bfc/2025/09/22/a2bbdfbe-b230-41b9-ae86-8777e3b546b6/app3bsgal.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T10:45:00Z",
+      "content": "Christian de Looper/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe first-party advantage is real. \r\nThe most obvious example of why first-party products are worth considering is th… [+6344 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
       "publishedAt": "2025-10-01T21:33:11Z",
       "content": "Several current and former OpenAI researchers are speaking out over the company’s first foray into social media: the Sora app, a TikTok-style feed filled with AI-generated videos and a lot of Sam Alt… [+6264 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Better Tomorrow Ventures closes $140M, remains bullish on fintech",
-      "description": "The six-year-old firm's third fund is nearly the size of it previous fund raised during the fintech boom in early 2022.",
-      "url": "https://techcrunch.com/2025/10/01/better-tomorrow-ventures-closes-140m-remains-bullish-on-fintech/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/sheeljake-cambrian-headshot.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-01T21:01:53Z",
-      "content": "Sheel Mohnot, co-founder and general partner of Better Tomorrow Ventures (BTV) has one simple answer for anyone claiming that investing in fintech has lost some of its attractiveness.\r\nThe world of f… [+2530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Adam Clark Estes",
-      "title": "We shouldn’t let kids be friends with ChatGPT",
-      "description": "The number of kids getting hurt by AI-powered chatbots is hard to know, but it’s not zero. Yet, for nearly three years, ChatGPT has been free for all ages to access without any guardrails. That sort of changed on Monday, when OpenAI introduced a suite of pare…",
-      "url": "https://www.vox.com/technology/463452/chatgpt-sora-openai-parental-controls",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2224162059.jpg?quality=90&strip=all&crop=0%2C10.726209445763%2C100%2C78.547581108473&w=1200",
-      "publishedAt": "2025-10-01T20:57:14Z",
-      "content": "OpenAI CEO Sam Altman wears sunglasses and talks to reporters at the Allen & Company Sun Valley Conference in Idaho on July 8, 2025.\r\n\n\nThe number of kids getting hurt by AI-powered chatbots is hard … [+7673 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Every Google Nest product that launched with Gemini today (and a new home speaker)",
-      "description": "A new Nest Doorbell and Nest Cams are joining the Google Home lineup, along with a major upgrade with generative AI.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/every-google-nest-product-that-launched-with-gemini-today-and-a-new-home-speaker/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a9b9835e59602d88e5510472f1e8860bc051c31e/2024/10/09/8bb04fba-3264-4e4d-84b4-b42f2a124ceb/nest11.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T20:46:00Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2143 chars]"
     }
   ]
 }
