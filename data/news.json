@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T09:08:29.641Z",
+  "fetchedAt": "2025-10-04T09:31:12.435Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "SiPearl unveils Europe's first dual-use sovereign processor with 80 cores — expected in 2027 for government, aerospace, and defense applications",
+      "description": "SiPearl's Athena1 derives from Rhea, packs up to 80 Neoverse V1 cores, and is aimed at both civilian and military use. But will it be competitive in the second half of 2027?",
+      "url": "https://www.tomshardware.com/tech-industry/sipearl-unveils-europes-first-dual-use-sovereign-processor-with-80-cores-expected-in-2027-for-government-aerospace-and-defense-applications",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ypjBpjGMuYu5AEqszCHkT6-1920-80.jpg",
+      "publishedAt": "2025-10-03T09:19:52Z",
+      "content": "SiPearl, a CPU developer funded by the EU, this week introduced its Ahena1, Europe's first high-performance processor with up to 80 cores designed for both civilian and military use. The CPU relies o… [+3676 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206486-1759333457164-gettyimages-470909736-84909429.jpeg?v=1759351170&w=1920&h=1080",
       "publishedAt": "2025-10-01T20:37:19Z",
       "content": "Microsoft's top-ranking sales leader, Judson Althoff, has been promoted to a bigger role as CEO of the company's commercial business.\r\nSatya Nadella, Microsoft's CEO, wrote in a memo on Wednesday tha… [+1472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "My favorite iOS 26 feature makes screenshots even more useful - and it's easy to enable",
-      "description": "With full-screen previews enabled in iOS 26, you can instantly access your screenshots and use new AI features on them - like asking ChatGPT.",
-      "url": "https://www.zdnet.com/article/my-favorite-ios-26-feature-makes-screenshots-even-more-useful-and-its-easy-to-enable/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/28bd70556be1686cb52f197fbd9f6ae696862c7a/2025/09/30/e9f3eb5a-a1f1-4038-a6b6-b04f0da71f89/dsc02915.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-01T20:35:00Z",
-      "content": "What can Visual Intelligence do on screenshots?\r\nApple's Visual Intelligence is handy for translating signs, dialing phone numbers, identifying plants or landmarks, and pulling up business info. Unti… [+2027 chars]"
     }
   ]
 }
