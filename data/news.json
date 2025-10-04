@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T07:07:28.426Z",
+  "fetchedAt": "2025-10-04T07:31:27.226Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "How the ONS data-sharing dream ended in budget cuts and three rival platforms",
+      "description": "UK Treasury called time on troubled integration scheme after £240M sunk Analysis  In 2020, the UK's Office for National Statistics (ONS), which provides data vital to form public sector policy and allocate resources, launched a plan to integrate government da…",
+      "url": "https://www.theregister.com/2025/10/03/ons_data_sharing_mess/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/30/shutterstock_ons.jpg",
+      "publishedAt": "2025-10-03T07:30:06Z",
+      "content": "Analysis In 2020, the UK's Office for National Statistics (ONS), which provides data vital to form public sector policy and allocate resources, launched a plan to integrate government data and provid… [+8080 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/28bd70556be1686cb52f197fbd9f6ae696862c7a/2025/09/30/e9f3eb5a-a1f1-4038-a6b6-b04f0da71f89/dsc02915.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-01T20:35:00Z",
       "content": "What can Visual Intelligence do on screenshots?\r\nApple's Visual Intelligence is handy for translating signs, dialing phone numbers, identifying plants or landmarks, and pulling up business info. Unti… [+2027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Microsoft declares bring your Copilot to work day, usurping IT authority",
-      "description": "Use your home subscription with your work Microsoft 365 account Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies …",
-      "url": "https://www.theregister.com/2025/10/01/microsoft_consumer_copilot_corporate/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstockmicrosoftcopilot.jpg",
-      "publishedAt": "2025-10-01T20:29:38Z",
-      "content": "Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that… [+2615 chars]"
     }
   ]
 }
