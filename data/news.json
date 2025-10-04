@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T09:31:12.435Z",
+  "fetchedAt": "2025-10-04T10:07:52.365Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray",
+      "title": "Consumers more likely to pay for 'responsible' AI tools, Deloitte survey says",
+      "description": "A survey of over 3,000 US consumers found that those who trust a product are more likely to pay money for it.",
+      "url": "https://www.zdnet.com/article/consumers-more-likely-to-pay-for-responsible-ai-tools-deloitte-survey-says/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/704ac25cf8d21a2b4631c30cb56a806e9ca30e96/2025/10/02/fe2856c4-b6e6-4f8e-a353-5d03543d3071/gettyimages-2230713121.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T10:00:30Z",
+      "content": "Phantip Tritreemak/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>40% of US gen AI consumers would pay for products and services.</li>… [+6569 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/a9b9835e59602d88e5510472f1e8860bc051c31e/2024/10/09/8bb04fba-3264-4e4d-84b4-b42f2a124ceb/nest11.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-01T20:46:00Z",
       "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft sales chief Althoff gets new role as CEO of company's commercial business",
-      "description": "Bringing together sales with marketing and other functions is critical for Microsoft to lead in the artificial intelligence era, CEO Satya Nadella said.",
-      "url": "https://www.cnbc.com/2025/10/01/microsoft-makes-sales-chief-althoff-ceo-of-commercial-business.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206486-1759333457164-gettyimages-470909736-84909429.jpeg?v=1759351170&w=1920&h=1080",
-      "publishedAt": "2025-10-01T20:37:19Z",
-      "content": "Microsoft's top-ranking sales leader, Judson Althoff, has been promoted to a bigger role as CEO of the company's commercial business.\r\nSatya Nadella, Microsoft's CEO, wrote in a memo on Wednesday tha… [+1472 chars]"
     }
   ]
 }
