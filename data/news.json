@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-04T18:40:31.703Z",
+  "fetchedAt": "2025-10-04T19:03:44.202Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Google goes straight to shell with AI command line coding tool",
+      "description": "Devs live in terminals - now Jules does too\nIn the beginning was the command line, and despite all the machine-learning froth, developers still live there. That is why Google has shoved its Jules coding agent into a terminal with a new tool it calls Jules Too…",
+      "url": "https://www.theregister.com/2025/10/03/google_ai_command_line/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_1232410663.jpg",
+      "publishedAt": "2025-10-03T18:46:03Z",
+      "content": "In the beginning was the command line, and despite all the machine-learning froth, developers still live there. That is why Google has shoved its Jules coding agent into a terminal with a new tool it… [+2986 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Can you think like a YC partner? This game will help you find out | TechCrunch",
+      "description": "The YC Partner Simulator game, created by an undergrad in Berlin, lets you see if you can predict what startups get into Y Combinator.",
+      "url": "https://techcrunch.com/2025/10/03/can-you-think-like-a-yc-partner-this-game-will-help-you-find-out/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/yc-sf.jpg?resize=1200,645",
+      "publishedAt": "2025-10-03T18:40:54Z",
+      "content": "Welcome to YC Arena, which is not a top secret fight club for Y Combinator founders, but a suite of games that give you a vague sense of what it’s like to be a partner at YC.\r\nCreated by a student in… [+3356 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106819384-1609876116428-gettyimages-1169704952-tdp03777.jpeg?v=1759257255&w=1920&h=1080",
       "publishedAt": "2025-10-02T14:44:17Z",
       "content": "The S&amp;P 500 index closed at a new all-time high on Wednesday amid a federal government shutdown. It rose to a new intraday high early Thursday.\r\nPrior to that, the index which is focused on large… [+3864 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "OpenAI is the world's most valuable private company after private stock sale | TechCrunch",
-      "description": "OpenAI is the world's most valuable private company after private stock sale | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/02/openai-is-the-worlds-most-valuable-private-company-after-private-stock-sale/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T14:38:02Z",
-      "content": "OpenAI has sold $6.6 billion in shares held by current and former employees, according to a new report from Bloomberg. The sale pushed OpenAI’s total valuation to $500 billion, the highest ever achie… [+2108 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Google's upcoming smart home speaker might actually make soundbars feel unnecessary",
-      "description": "A new Nest Doorbell and Nest Cams are joining the Google Home lineup, along with a major upgrade with generative AI.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/googles-upcoming-smart-home-speaker-might-actually-make-soundbars-feel-unnecessary/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/09a7aa92a20f5f7098ed96fc8a82915dc9659bbc/2025/09/30/e79ab7d3-83a8-4f3a-90d9-5c0c96f3a90e/gh.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T14:10:00Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google has just announced new Nest smart home devices.</li><li>The new devices include a smart speaker wi… [+2141 chars]"
     }
   ]
 }
