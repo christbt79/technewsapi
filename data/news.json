@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-04T05:34:39.199Z",
+  "fetchedAt": "2025-10-04T06:11:33.663Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "European stocks set to extend gains after touching fresh record high",
+      "description": "European stocks are poised to open higher on Friday, building on momentum that has seen regional indexes hit new record highs this week.",
+      "url": "https://www.cnbc.com/2025/10/03/europe-markets-oct-3-ftse-100-stoxx-600-tech-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027048-1724933007610-gettyimages-2162564338-AFP_364U4ZC.jpeg?v=1759470407&w=1920&h=1080",
+      "publishedAt": "2025-10-03T05:52:38Z",
+      "content": "European stocks are poised to open higher on Friday, building on momentum that has pushed regional indexes higher this week.\r\nThe pan-European Stoxx 600 added 0.5% in Thursday's session after reachin… [+1621 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstockmicrosoftcopilot.jpg",
       "publishedAt": "2025-10-01T20:29:38Z",
       "content": "Your job may not support BYOD, but how about BYOC? Microsoft has declared that people can bring their personal Microsoft 365 subscriptions to work to access various Copilot features at companies that… [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-bicchierai",
-      "title": "Anker offered to pay Eufy camera owners to share videos for training its AI | TechCrunch",
-      "description": "Hundreds of Eufy customers have donated hundreds of thousands of videos to train the company’s AI systems.",
-      "url": "https://techcrunch.com/2025/10/01/anker-offered-to-pay-eufy-camera-owners-to-share-videos-for-training-its-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/eufy-ai-security-camera.jpg?resize=1200,735",
-      "publishedAt": "2025-10-01T20:28:05Z",
-      "content": "Earlier this year, Anker, the Chinese company that makes Eufy security cameras, offered its users money in exchange for videos of packages and car thefts. \r\nThe popular internet-connected security ca… [+3571 chars]"
     }
   ]
 }
