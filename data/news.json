@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T19:03:44.202Z",
+  "fetchedAt": "2025-10-04T19:31:22.438Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Your Samsung phone has a secret Wi-Fi menu that's super useful - how to access it",
+      "description": "If you love Samsung's everything-but-the-kitchen-sink software approach, this OneUI feature is your next rabbit hole.",
+      "url": "https://www.zdnet.com/article/your-samsung-phone-has-a-secret-wi-fi-menu-thats-super-useful-how-to-access-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ee8b805d39516a6e148592751204316d6a3510f0/2025/07/02/5b987e1d-7735-480f-ab9d-984f61237767/dsc06221.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T19:30:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung's hidden \"Connectivity Labs\" unlocks secret Wi-Fi tools.</li><li>Features include Wi-Fi … [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Google’s Gemini AI app could soon be getting a big makeover",
+      "description": "Google's Gemini AI app is getting a redesign with suggested prompts, a reverse engineer finds.",
+      "url": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+      "publishedAt": "2025-10-03T19:18:43Z",
+      "content": "After the success of OpenAI’s video editing app Sora, now at the top of the U.S. App Store, Google may be looking to give its Gemini AI app a more visually focused revamp. The company is seemingly ex… [+1942 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Tales from the AI hiring frenzy",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. The billboard didn't say \"Listen Labs.\" It didn't say anything about hiring. It consisted of just a plain white ba…",
+      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/unnamed.jpg?quality=90&strip=all&crop=0%2C20.482863457416%2C100%2C59.034273085168&w=1200",
+      "publishedAt": "2025-10-03T19:18:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youre not OpenAI or Anthropic, hiring is more challenging than ever.\r\nIf youre not OpenAI or Anthropic, hiring is more challenging than ever.\r\nby\r\nAlex HeathC… [+5253 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Gates-Kianni-Speaker-16x9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-02T15:02:01Z",
       "content": "Consumer AI is having its breakout moment and few startups have captured the spotlight this year quite like Phia. The AI-powered shopping assistant has become one of 2025s buzziest launches, not only… [+2859 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "A new a16z report looks at which AI companies startups are actually paying for | TechCrunch",
-      "description": "a16z releases its first AI spending report that shows which AI-native application layer companies startups are actually spending money on .",
-      "url": "https://techcrunch.com/2025/10/02/a-new-a16z-report-looks-at-which-ai-companies-startups-are-actually-paying-for/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Top-50-Ai-companies-a16z.png?w=1024",
-      "publishedAt": "2025-10-02T15:01:50Z",
-      "content": "On Thursday, Andreessen Horowitz released its first AI Spending Report in partnership with the fintech firm Mercury. Using transaction data from Mercury, the report analyzes the top 50 AI-native appl… [+5823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "I took the iPhone 17 on a trip to Hawaii, and it surpassed my expectations (until it didn't)",
-      "description": "The base-model iPhone is more competitive than ever, but there are still some things you'll have to settle for.",
-      "url": "https://www.zdnet.com/article/i-took-the-iphone-17-on-a-trip-to-hawaii-and-it-surpassed-my-expectations-until-it-didnt/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1c3a7238bbac00a84073e9f4a988e8eb5c268622/2025/09/30/a8896901-e552-4bec-8819-19d7416da83d/dsc02863.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T14:56:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBase model iPhones are often overlooked. Apple's launch of the iPhone 17 lineup made that even more the case, with the ultra-thin iPhone Air and… [+8076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "With S&P 500 near record highs, it's time to reconsider the set-it-and-forget-it strategy, some experts say",
-      "description": "Even as the S&P 500 index has climbed to new highs, experts say a diversified portfolio will likely be the long-term winner.",
-      "url": "https://www.cnbc.com/2025/10/02/sp-500-set-it-and-forget-it-strategy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106819384-1609876116428-gettyimages-1169704952-tdp03777.jpeg?v=1759257255&w=1920&h=1080",
-      "publishedAt": "2025-10-02T14:44:17Z",
-      "content": "The S&amp;P 500 index closed at a new all-time high on Wednesday amid a federal government shutdown. It rose to a new intraday high early Thursday.\r\nPrior to that, the index which is focused on large… [+3864 chars]"
     }
   ]
 }
