@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-04T12:14:34.109Z",
+  "fetchedAt": "2025-10-04T12:54:28.125Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Chip designer Jim Keller says Intel still has 'a lot of work to do' — would consider it for Tenstorrent AI chip production, already in talks with TSMC, Rapidus, and Samsung for 2nm tech",
+      "description": "Chip design startup Tenstorrent has announced it'll work with TSMC and Samsung for its next-generation 2nm chips. It will also work with Japanese firm, Rapidus, and would consider Intel in the future, once it has a more defined roadmap.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chip-designer-jim-keller-says-intel-still-has-a-lot-of-work-to-do-would-consider-it-for-tenstorrent-ai-chip-production-already-in-talks-with-tsmc-rapidus-and-samsung-for-2nm-tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GjaAmh9CcQ8FWzjJmjUHaN-1920-80.jpg",
+      "publishedAt": "2025-10-03T12:27:40Z",
+      "content": "AI chip design startup, Tenstorrent, has announced it's working with a range of companies to build out its next-generation AI chips. These include TSMC, Samsung, and Japanese firm Rapidus, all of whi… [+2699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "All eyes on markets for AI Bubble Watch: Is it a Floater or a Popper?",
+      "description": "Exploding valuations and mountains of debt co-exist with a US government shutdown. How long can we stay on the hype-cycle rollercoaster?\nAnalysis In an employee share sell-off this week, OpenAI achieved a nominal value of $500 billion. In terms of valuation, …",
+      "url": "https://www.theregister.com/2025/10/03/ai_bubble_watch_markets/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_market.jpg",
+      "publishedAt": "2025-10-03T12:23:12Z",
+      "content": "Analysis In an employee share sell-off this week, OpenAI achieved a nominal value of $500 billion. In terms of valuation, the posterchild of GenAI which is yet to make a profit left in its dust compa… [+5449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Taiwan proposes strategic tech alliance with the White House — \"Taiwan Model\" would help companies invest easily in the U.S. to satisfy demands",
+      "description": "The \"Taiwan Model\" has been proposed by a new delegation that seeks to form a high-tech alliance between Taiwan and the U.S., whereby the former will help its companies make investments in the U.S. to satisfy demands for expansion into the country.",
+      "url": "https://www.tomshardware.com/tech-industry/taiwan-proposes-strategic-tech-alliance-with-the-white-house-taiwan-model-would-help-companies-invest-easily-in-the-u-s-to-satisfy-demands",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZmYh7SByZNPYZGMfedhERM-2000-80.jpg",
+      "publishedAt": "2025-10-03T12:15:28Z",
+      "content": "The U.S. and Taiwan have been engaged in months-long bipartisan trade talks since the Trump administration took over, negotiating largely around the tech both countries hold. According to Bloomberg, … [+3186 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/01216b6eb4a48ce6456c8331260173b5b75e8aa6/2025/10/01/cedf5032-d6d0-475a-905a-1428c7bffc72/9.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T02:00:00Z",
       "content": "Can you record an iPhone call without iOS 18.1 or later? \r\nYes. You can still record calls with another device or a third-party service. \r\nThe most common approach is to use a second device as a reco… [+4209 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Are smart gardens viable at home? Here's how my harvesting journey is going so far",
-      "description": "The Gardyn Studio 2 is the smartest indoor garden I've seen, even featuring a camera that uses AI to assess your plants.",
-      "url": "https://www.zdnet.com/article/are-smart-gardens-viable-at-home-heres-how-my-harvesting-journey-is-going-so-far/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/18c9cb24554cc12078f4ce24a9e011bb7d66043e/2025/10/01/69dfc7b6-6f5d-4b14-8043-82c6b4de785a/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T01:00:31Z",
-      "content": "Gardyn\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Gardyn just announced the new Studio 2 smart garden.</li><li>It's a compact upright garden with a 16-plan… [+3541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "SK Hynix shares hit multidecade highs, Samsung also surges on OpenAI partnership",
-      "description": "The partnership will \"focus on increasing the supply of advanced memory chips essential for next-generation AI and expanding data center capacity in Korea.\"",
-      "url": "https://www.cnbc.com/2025/10/02/sk-hynix-samsung-shares-openai-stargate-korea.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1753922875&w=1920&h=1080",
-      "publishedAt": "2025-10-02T00:35:48Z",
-      "content": "Shares of South Korean chip heavyweights Samsung Electronics and SK Hynix surged Thursday, a day after the two companies partnered with artificial-intelligence major OpenAI as part of the U.S. firm's… [+558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Meta will listen into AI conversations to personalize ads",
-      "description": "Religion, race, health and other dicey topics supposedly exempt\nMeta, having committed hundreds of billions to AI infrastructure and talent, says it will start using people's conversations and interactions with its AI services to create personalized content a…",
-      "url": "https://www.theregister.com/2025/10/01/meta_ai_use_informs_ads/",
-      "urlToImage": "https://regmedia.co.uk/2022/05/25/meta_facebook_logo.jpg",
-      "publishedAt": "2025-10-01T23:48:38Z",
-      "content": "Meta, having committed hundreds of billions to AI infrastructure and talent, says it will start using people's conversations and interactions with its AI services to create personalized content and a… [+3898 chars]"
     }
   ]
 }
