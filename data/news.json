@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-04T21:31:16.059Z",
+  "fetchedAt": "2025-10-04T22:07:18.680Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z",
+      "description": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z techcrunch.com",
+      "url": "https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Naveen-Rao-headshot.png?resize=1200,1000",
+      "publishedAt": "2025-10-03T21:57:57Z",
+      "content": "Naveen Rao, who was formerly the head of artificial intelligence at Databricks, is in talks to raise $1 billion at a $5 billion valuation for a new startup, called Unconventional, Inc., thats buildin… [+2184 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Acer’s latest Spin 514 is so close to Chromebook greatness",
+      "description": "I was cautiously optimistic about Acer's Chromebook Plus Spin 514 when I tested a preproduction model last month, but the final unit is here now and it sticks the landing. Well, mostly. Acer's latest convertible Chromebook has zippy performance and oodles of …",
+      "url": "https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257930_Acer_Chromebook_Plus_Spin_514_ADiBenedetto_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-03T21:37:49Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCrummy speakers aside, this is the convertible Chromebook to get.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statem… [+8036 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/38048dedda8b975264387a64231beb79cfb4bcf8/2025/10/02/570328df-c8cb-46a0-8c62-de410d239563/how-to-get-early-access-to-alexa-and-which-amazon-echo-devices-support-it.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T16:46:00Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollowing the launch of the new Amazon devices, you may be wondering when you'll be able to access Alexa+. \r\nAmazon announced Alexa+ in February, a generative AI-powered… [+2436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Sunny Grimm",
-      "title": "Phison CEO claims NAND shortage could last a staggering 10 years — says memory 'supercycle' imminent and 'severe' 2026 shortages are at hand",
-      "description": "Phison CEO Pua Khein-Seng has claimed in an interview this week that the upcoming forecasted NAND flash shortage will last \"for the next ten years\", rather than the more optimistic 1 year claimed by other industry insiders. The negative implications of the AI…",
-      "url": "https://www.tomshardware.com/pc-components/ssds/phison-ceo-claims-nand-shortage-could-last-a-staggering-10-years-says-memory-supercycle-imminent-and-severe-2026-shortages-are-at-hand",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iHNpsAJJPxBe5b4iXgMfUG-2000-80.jpg",
-      "publishedAt": "2025-10-02T16:44:07Z",
-      "content": "The implications of the AI data center boom continue to mount ever higher by the day. Pua Khein-Seng, CEO of Phison Electronics Corporation, claimed in a recent interview that NAND flash shortages fo… [+4234 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Vala Afshar",
-      "title": "How autonomous businesses succeed by engaging with the world",
-      "description": "Companies are becoming autonomous machines, and this 'outside-in' orientation has profound implications for how they think about customers, markets, and value creation.",
-      "url": "https://www.zdnet.com/article/how-autonomous-businesses-succeed-by-engaging-with-the-world/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/40bfbc029f64a4c099f5cb7c2c31c46d3c9362ad/2025/10/02/9b729380-10dc-4072-b9b7-ceebce8f2c8a/holgram5555gettyimages-1208410138.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T16:41:48Z",
-      "content": "Adrienne Bresnahan/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses that leverage digital labor and agentic AI are becoming au… [+10393 chars]"
     }
   ]
 }
