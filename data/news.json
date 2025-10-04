@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-04T20:33:22.297Z",
+  "fetchedAt": "2025-10-04T21:06:06.665Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Bezos plan for solar powered datacenters is out of this world… literally",
+      "description": "Aspiring Bond villain believes the best place to train our AI overlords is in orbit\nAmazon founder and executive chair Jeff Bezos says that, within two decades, gigawatt-scale datacenters powered by a continuous stream of photons from the sun will fill Earth'…",
+      "url": "https://www.theregister.com/2025/10/03/bezos_space_dcs/",
+      "urlToImage": "https://regmedia.co.uk/2021/09/09/shutterstock_jeff_bezos.jpg",
+      "publishedAt": "2025-10-03T20:58:33Z",
+      "content": "Amazon founder and executive chair Jeff Bezos says that, within two decades, gigawatt-scale datacenters powered by a continuous stream of photons from the sun will fill Earth's orbit.\r\nBezos' predict… [+3497 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "One of the best Apple Watches you can buy isn't Apple's newest (but it's on sale)",
+      "description": "The Apple Watch Series 10 might be last year's model, but its specs prove it's basically as capable as the Series 11. The main difference? It's cheaper.",
+      "url": "https://www.zdnet.com/article/one-of-the-best-apple-watches-you-can-buy-isnt-apples-newest-but-its-on-sale/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/63a6143b17db99b26adcfe7564e47175f2c77e8f/2025/06/23/e2d75e91-0548-42e2-8227-b1fb66d8ddd9/dsc03792.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-03T20:56:41Z",
+      "content": "Nina Raemont/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple unveiled its triple-watch lineup at its September iPhone event. The new contenders include the base model Series 11, … [+3851 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
       "publishedAt": "2025-10-02T15:48:05Z",
       "content": "Allan Brooks never set out to reinvent mathematics. But after weeks spent talking with ChatGPT, the 47-year-old Canadian came to believe he had discovered a new form of math powerful enough to take d… [+5897 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Perplexity’s Comet AI browser now free; Max users get new 'background assistant' | TechCrunch",
-      "description": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid subscribers, the startup has also launched a new ‘background…",
-      "url": "https://techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
-      "publishedAt": "2025-10-02T15:37:59Z",
-      "content": "AI search startup Perplexity is making its new Comet browser available to everyone in the world for free as it works to position the product against big browsers and search engines. For certain paid … [+3429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Mad man builds chatbot in Minecraft with redstone, Python, and patience",
-      "description": "Replies are slow and it's prone to gibberish – just like any other AI\nNever mind Doom running on a potato, or whatever – the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular…",
-      "url": "https://www.theregister.com/2025/10/02/minecraft_ai_chatbot/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/02/minecraft-craftgpt.jpg",
-      "publishedAt": "2025-10-02T15:27:10Z",
-      "content": "Never mind Doom running on a potato, or whatever the next generation of ridiculous computing belongs to Minecraft YouTuber Sammyuri, who built a working chatbot in the perennially popular voxel build… [+2921 chars]"
     }
   ]
 }
