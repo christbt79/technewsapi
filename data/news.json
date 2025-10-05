@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T04:37:39.321Z",
+  "fetchedAt": "2025-10-05T05:08:31.681Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Trump’s $100,000 H-1B fee draws rare rebuke from US business",
+      "description": "In a letter sent Friday to Trump, roughly a dozen industry organizations representing chipmakers, software companies and retailers said the new fee threatens to crimp a crucial talent pipeline of foreign skilled workers and leave critical jobs unfilled",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-03/trump-s-100-000-h-1b-fee-draws-rare-rebuke-from-business-groups",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/g5ku3u/article70097094.ece/alternates/LANDSCAPE_1200/2025-09-23T192201Z_762309994_RC26XGAKTNUE_RTRMADP_3_HEALTH-USA-VISAS.JPG",
+      "publishedAt": "2025-10-04T04:40:00Z",
+      "content": "A coalition of business groups warned President Donald Trump that a newly announced $100,000 fee for H-1B visa applications risks harming the US economy and urged the administration to avoid changes … [+3768 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T17:34:06Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's new Sora 2 AI video and audio engine is here.</li><li>Sora 2 is featured i… [+2597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Everyone can use Perplexity's Comet AI browser now - for free",
-      "description": "The company has been promoting Comet as a more dynamic alternative to traditional web browsers like Chrome and Safari, and even as the harbinger of a new era of search.",
-      "url": "https://www.zdnet.com/article/everyone-can-use-perplexitys-comet-ai-browser-now-for-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/44f391e7ebe1e066a09754b058bf992608438f64/2025/10/02/6a67caee-b61b-4840-baeb-2e3edc9c29e9/gettyimages-522165258.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T17:14:00Z",
-      "content": "Matthias Kulka/The Image Bank via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Comet is now available globally for free.</li><li>It debuted in J… [+3316 chars]"
     }
   ]
 }
