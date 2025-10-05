@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T19:31:24.937Z",
+  "fetchedAt": "2025-10-05T20:08:57.150Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "If you’re not an AI startup, good luck raising money from VCs | TechCrunch",
+      "description": "New PitchBook data illustrates how dramatically AI is dominating startup investment, with 2025 on-track to become the first year when AI accounts for more than half of all VC money invested.",
+      "url": "https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-941290532.jpg?resize=1200,800",
+      "publishedAt": "2025-10-04T20:07:29Z",
+      "content": "New PitchBook data illustrates how dramatically AI is dominating startup investment, with 2025 on-track to become the first year when AI accounts for more than half of all VC money invested.\r\nPitchBo… [+769 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/1a34ab8d81706087755402320f240255de3ab5dd/2024/09/03/95759641-4c64-4c2f-a3e6-62c76894d1c0/paper-pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T20:08:00Z",
       "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon announced its new Kindle Scribe Colorsoft, a premium writing tablet with a color display.… [+4630 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Lauren Feiner",
-      "title": "Google is destroying independent websites, and one sees no choice but to defend it anyway",
-      "description": "To WikiHow, Google is both tormentor and savior. And on Wednesday, as the search giant mounted its defense in the ongoing ad tech remedies trial, the how-to site came to Google's rescue. WikiHow CEO Elizabeth Douglas described to a court how websites like her…",
-      "url": "https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257989_wikihow_google_ad_tech_CVirginia_4.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-02T19:58:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWikiHows CEO says Googles ad tools give it stability, even as other parts of its business upend how users navigate websites.\r\nWikiHows CEO says Googles ad tools … [+6195 chars]"
     }
   ]
 }
