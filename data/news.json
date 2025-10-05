@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-05T12:14:48.723Z",
+  "fetchedAt": "2025-10-05T12:55:05.810Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Activist Irenic builds a stake in Workiva, hoping to gain a voice on the software company's board",
+      "description": "The activist investor is calling on Workiva to review strategic alternatives and refresh its board after years of posting losses.",
+      "url": "https://www.cnbc.com/2025/10/04/activist-irenic-builds-a-stake-in-workiva-hoping-to-gain-two-board-seats.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207260-1759439105969-gettyimages-2205311862-TFSPI_19032025-5641.jpeg?v=1759439174&w=1920&h=1080",
+      "publishedAt": "2025-10-04T12:43:47Z",
+      "content": "Company: Workiva (WK)\r\nBusiness: Workiva is a provider of cloud-based reporting solutions that are designed to solve financial and non-financial business challenges at the intersection of data, proce… [+8369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Inside the uranium plant at the center of U.S. plans to expand nuclear power",
+      "description": "Urenco operates the only uranium enrichment plant in the U.S. It is boosting production as the U.S. bans Russian fuel at the same time nuclear demand grows.",
+      "url": "https://www.cnbc.com/2025/10/04/urenco-centrus-orano-enriched-uranium-nuclear-russia-ai-data-center.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201973-1758544014913-IMG_7639.jpg?v=1758632648&w=1920&h=1080",
+      "publishedAt": "2025-10-04T12:40:09Z",
+      "content": "EUNICE, NEW MEXICO Paul Lorskulsint was a shift manager at a brand new uranium enrichment facility deep in the American Southwest when catastrophe struck Japan in 2011.\r\nA massive tsunami and earthqu… [+7700 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/P6CsxazmgYu94YntHG4DpZ-2560-80.jpg",
       "publishedAt": "2025-10-02T19:16:55Z",
       "content": "Microsoft has invested $33 billion into \"neocloud\" datacenter providers to date, with its latest deal with Nebius significantly raising this dollar amount. The $19.4 billion agreement currently being… [+3252 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Anthropic hires new CTO with focus on AI infrastructure | TechCrunch",
-      "description": "As part of the change, Anthropic is updating the structure of its core technical group, bringing the company's product-engineering team into closer contact with the infrastructure and inference teams.",
-      "url": "https://techcrunch.com/2025/10/02/anthropic-hires-new-cto-with-focus-on-ai-infrastructure/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-      "publishedAt": "2025-10-02T19:04:43Z",
-      "content": "Anthropic has a new chief technical officer, former Stripe CTO Rahul Patil. Patil started at the company earlier this week, taking over from co-founder Sam McCandlish, who will move to a new role as … [+2613 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Dan Ives says AI-related M&A 'floodgates' are about to open. Here are his takeover picks",
-      "description": "Dan Ives flagged several companies poised to become acquisition targets as AI-related dealmaking starts to boom.",
-      "url": "https://www.cnbc.com/2025/10/02/dan-ives-says-ai-related-ma-floodgates-are-about-to-open-here-are-his-takeover-picks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206876-1759396589790-gettyimages-2153630961-INDIA_YOTTA_NVIDIA.jpeg?v=1759415220&w=1920&h=1080",
-      "publishedAt": "2025-10-02T18:55:51Z",
-      "content": "Notable technology industry analyst Dan Ives says Big Tech companies and private equity firms are gearing up to make a flurry of acquisitions to stay ahead in the AI arms race. The analyst shared his… [+1986 chars]"
     }
   ]
 }
