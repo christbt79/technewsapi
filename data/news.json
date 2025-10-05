@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-05T09:31:17.714Z",
+  "fetchedAt": "2025-10-05T10:08:13.985Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "Despite AI-related job loss fears, tech hiring holds steady - and here are the most in-demand skills",
+      "description": "Two recent surveys, from ManpowerGroup and UpWork, show optimism for tech-related hiring for both jobs and gigs, now and into the remainder of the quarter.",
+      "url": "https://www.zdnet.com/article/despite-ai-related-job-loss-fears-tech-hiring-holds-steady-and-here-are-the-most-in-demand-skills/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d242bfffa0797366bcb6cc23160b9c32b1646140/2025/10/03/4c619f03-b973-40c8-98fa-6269bda23180/gettyimages-1447956741.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-04T10:00:32Z",
+      "content": "NeoLeo/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Tech hiring for the next quarter is steady compared to a year ago.</li><li>AI … [+5774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "Do you even need USB-C charging cables if this portable battery exists? My verdict after testing",
+      "description": "Drones, action cams, gimbals, and mics all demand serious power - and this Baseus power bank delivers exactly that.",
+      "url": "https://www.zdnet.com/home-and-office/energy/do-you-even-need-usb-c-charging-cables-if-this-portable-battery-exists-my-verdict-after-testing/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7cd75f7699f5eb9fdfc15e5dd70f092b7bc95ce5/2025/09/26/088535c2-8991-4790-9ad8-e55c09c22958/img-5343.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-04T10:00:24Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've noticed that when I'm in content creator mode and packing my favorite portable drone, action cameras, pocket-sized gimbal camera and portab… [+3411 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets",
+      "description": "Plus: Whoop lets you order blood tests, Arlo refreshes its security camera lineup, and Roland unveils a new analog drum machine.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/",
+      "urlToImage": "https://media.wired.com/photos/68e0778331ef4c178fea6ef9/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week%20October%204.png",
+      "publishedAt": "2025-10-04T10:00:00Z",
+      "content": "Adobe has had a busy year designing and redesigning a number of its most popular apps for mobile, and Premiere for iPhone is the latesta mobile-first video editing workflow that adapts most of the to… [+4821 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/6cafa7342eee062131a9bf1dcbf5750a8bfd6baa/2025/09/30/eff18b24-18f8-4d55-848b-90dbb9d4d652/img-0391.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T18:26:08Z",
       "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>New Kindle features will help readers catch up on what they read.</li><li>Both features consi… [+3427 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "OpenAI’s Sora soars to No. 3 on the U.S. App Store",
-      "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
-      "url": "https://techcrunch.com/2025/10/02/openais-sora-soars-to-no-3-on-the-u-s-app-store/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-02T18:24:54Z",
-      "content": "OpenAI’s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S. and Canada at launch. On its first day, Sora saw 56,000 downloads, and is now ranked… [+2518 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Jules enters developers' toolchains as AI coding agent competition heats up | TechCrunch",
-      "description": "Google's Jules enters developers' toolchains as AI coding agent competition heats up | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/02/googles-jules-enters-developers-toolchains-as-ai-coding-agent-competition-heats-up/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/google-jules.jpg?resize=1200,800",
-      "publishedAt": "2025-10-02T18:02:02Z",
-      "content": "Google is bringing its AI coding agentJules deeper into developer workflows with a new command-line interface and public API, allowing it to plug into terminals, CI/CD systems, and tools like Slack a… [+4594 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "How to get access to Alexa+ on your Amazon device (and which Echo models support it)",
-      "description": "Amazon's AI-powered Alexa+ has been rolling out for a few months. Here's how you can sign up for early access.",
-      "url": "https://www.zdnet.com/article/how-to-get-access-to-alexa-on-your-amazon-device-and-which-echo-models-support-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fca24ab5160db416e3ef855650d190a689c114b3/2025/02/26/a19ba532-cafa-4d53-8486-af03da81df91/img-1513.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T17:55:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Alexa+ is now in early access with gradual expansion planned.</li><li>You can join … [+2732 chars]"
     }
   ]
 }
