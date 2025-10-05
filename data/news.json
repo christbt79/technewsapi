@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T21:07:10.697Z",
+  "fetchedAt": "2025-10-05T21:31:30.850Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "A breach every month raises doubts about South Korea's digital defenses | TechCrunch",
+      "description": "Known for its blazing fast internet and home to some of the world’s biggest tech giants, South Korea has also faced a string of data breaches and cybersecurity lapses that has struggled to match the pace of its digital ambitions.",
+      "url": "https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/sk-telecom-breach-2211811483.jpg?resize=1200,840",
+      "publishedAt": "2025-10-04T21:14:21Z",
+      "content": "South Korea is world-famous for its blazing-fast internet, near-universal broadband coverage, and as a leader in digital innovation, hosting global tech brands like Hyundai, LG, and Samsung. But this… [+7147 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/06/22/shutterstock_chatgpt_judge.jpg",
       "publishedAt": "2025-10-02T20:10:10Z",
       "content": "A Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. \r\nAccording to court docu… [+3125 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Kindle Scribe vs. ReMarkable Paper Pro: I compared the two premium tablets, and here's the winner",
-      "description": "Amazon's new Kindle Scribe Colorsoft features an 11-inch color display, but how does it stack up against the ReMarkable Paper Pro? I broke it all down.",
-      "url": "https://www.zdnet.com/article/kindle-scribe-vs-remarkable-paper-pro-i-compared-the-two-premium-tablets-and-heres-the-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1a34ab8d81706087755402320f240255de3ab5dd/2024/09/03/95759641-4c64-4c2f-a3e6-62c76894d1c0/paper-pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T20:08:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon announced its new Kindle Scribe Colorsoft, a premium writing tablet with a color display.… [+4630 chars]"
     }
   ]
 }
