@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T00:45:39.038Z",
+  "fetchedAt": "2025-10-05T02:23:57.255Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "'The system is rigged': Founders and VCs weigh in on the UK's ambition deficit",
+      "description": "\"The ones that are left in the U.K. are here with gritted teeth, like by hook or by crook,\" one founder told CNBC Make It of Britain's entrepreneurs.",
+      "url": "https://www.cnbc.com/2025/10/04/founders-and-vcs-weigh-in-on-the-uks-ambition-deficit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206877-1759396669646-gettyimages-2097109502-stew07452.jpeg?v=1759419418&w=1920&h=1080",
+      "publishedAt": "2025-10-04T01:17:25Z",
+      "content": "Almost 60% of young people in the U.K. are interested in starting their own businesses, per the Generation Entrepreneur Report.\r\nYoung Brits are catching flak for their apparent lack of entrepreneuri… [+7816 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/44f391e7ebe1e066a09754b058bf992608438f64/2025/10/02/6a67caee-b61b-4840-baeb-2e3edc9c29e9/gettyimages-522165258.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T17:14:00Z",
       "content": "Matthias Kulka/The Image Bank via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Comet is now available globally for free.</li><li>It debuted in J… [+3316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Perplexity AI rolls out Comet browser for free worldwide",
-      "description": "Perplexity initially launched Comet in July to Perplexity Max subscribers for $200 a month",
-      "url": "https://www.cnbc.com/2025/10/02/perplexity-ai-comet-browser-free-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184850-1755017763034-gettyimages-2169504261-SKOREA_SK_TELECOM_PERPLEXITY.jpeg?v=1755017792&w=1920&h=1080",
-      "publishedAt": "2025-10-02T17:01:55Z",
-      "content": "Perplexity AI on Thursday announced that its artificial-intelligence-powered web browser Comet is available worldwide, and will be free to users.\r\nThe Comet browser is designed to serve as a personal… [+1864 chars]"
     }
   ]
 }
