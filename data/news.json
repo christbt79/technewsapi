@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T06:11:47.982Z",
+  "fetchedAt": "2025-10-05T06:41:57.632Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "Bezos predicts that millions will live in space kind of soon | TechCrunch",
+      "description": "Amazon founder Jeff Bezos made a rare public appearance at Italian Tech Week in Turin on Friday and used the opportunity to predict that millions of",
+      "url": "https://techcrunch.com/2025/10/03/bezos-predicts-that-millions-will-live-in-space-kind-of-soon/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
+      "publishedAt": "2025-10-04T06:40:38Z",
+      "content": "Amazon founder Jeff Bezos made a rare public appearance at Italian Tech Week in Turin on Friday and used the opportunity to predict that millions of people will be living in space “in the next couple… [+1025 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/02/chris_inglis.jpg",
       "publishedAt": "2025-10-02T17:47:24Z",
       "content": "interview The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ev… [+4343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "There's a new OpenAI app in town - here's what to know about Sora for iOS",
-      "description": "Sora by OpenAI is a short-form AI-generated video app, but accessing it has a few caveats. Here's how to sign up.",
-      "url": "https://www.zdnet.com/article/theres-a-new-openai-app-in-town-heres-what-to-know-about-sora-for-ios/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T17:34:06Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's new Sora 2 AI video and audio engine is here.</li><li>Sora 2 is featured i… [+2597 chars]"
     }
   ]
 }
