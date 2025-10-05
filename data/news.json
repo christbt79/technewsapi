@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T07:31:22.729Z",
+  "fetchedAt": "2025-10-05T08:10:18.718Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Mastufa Ahmed",
+      "title": "India's tech talent pipeline is sputtering",
+      "description": "AI and new wave of offshoring mean graduates can't get gigs\nFeature Shubh Kumar graduated from IIT Patna, one of India's famed Institutes of Technology – universities that attract millions of applicants but admit only 18,000 undergraduates.…",
+      "url": "https://www.theregister.com/2025/10/04/india_tech_talent_pipeline/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/01/indian_flag_shutterstock.jpg",
+      "publishedAt": "2025-10-04T08:00:10Z",
+      "content": "Feature Shubh Kumar graduated from IIT Patna, one of India's famed Institutes of Technology universities that attract millions of applicants but admit only 18,000 undergraduates.\r\nGoogle CEO Sundar P… [+7165 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/fca24ab5160db416e3ef855650d190a689c114b3/2025/02/26/a19ba532-cafa-4d53-8486-af03da81df91/img-1513.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T17:55:00Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Alexa+ is now in early access with gradual expansion planned.</li><li>You can join … [+2732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Ex-US cyber boss slams politics getting in the way of preparedness",
-      "description": "And don't even get him started on AI\ninterview The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ever to hold that job. …",
-      "url": "https://www.theregister.com/2025/10/02/exnational_cyber_boss_us_cyber/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/02/chris_inglis.jpg",
-      "publishedAt": "2025-10-02T17:47:24Z",
-      "content": "interview The bodies responsible for securing America from cyberattacks are currently too fragmented to be successful, according to former US National Cyber Director Chris Inglis, the first person ev… [+4343 chars]"
     }
   ]
 }
