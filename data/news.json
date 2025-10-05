@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-05T10:35:17.683Z",
+  "fetchedAt": "2025-10-05T11:02:32.695Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Ultra-rare unreleased Pentium 4 with 4.0 GHz clock speed discovered — CPU-Z confirms it is an Intel Pentium Extreme Edition 980",
+      "description": "A rare Intel engineering sample from the twilight of the Pentium 4 era has surfaced on social media.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/ultra-rare-unreleased-pentium-4-with-4-0-ghz-clock-speed-discovered-cpu-z-confirms-it-is-an-intel-pentium-extreme-edition-980",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XJug87JjCAHXwHKVZzbNnE-1920-80.jpg",
+      "publishedAt": "2025-10-04T10:53:55Z",
+      "content": "A rare Intel engineering sample from the twilight of the Pentium 4 era has surfaced on social media. We’ve never seen this 4.0 GHz chip before. On Reddit, the current owner of the purported Intel Pen… [+2732 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/59bbfe8d5310c103bf64d4e5d386332e1d1e47c9/2025/09/10/40a427c5-76d6-426f-be16-f4cc69550c65/iphone-17-pro-max-vs-google-pixel-10-pro-xl.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T18:36:00Z",
       "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nIt feels like yesterday when I sat in a Brooklyn warehouse to watch Jimmy Fallon introduce the Google Pixel 10 … [+6371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Why your Kindle's new catch-up features are perfect for busy and distracted readers",
-      "description": "Two generative AI tools - Story So Far and Ask This Book - are coming to Amazon's e-readers. Here's why I love these features.",
-      "url": "https://www.zdnet.com/article/why-your-kindles-new-catch-up-features-are-perfect-for-busy-and-distracted-readers/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6cafa7342eee062131a9bf1dcbf5750a8bfd6baa/2025/09/30/eff18b24-18f8-4d55-848b-90dbb9d4d652/img-0391.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T18:26:08Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>New Kindle features will help readers catch up on what they read.</li><li>Both features consi… [+3427 chars]"
     }
   ]
 }
