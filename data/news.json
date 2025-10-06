@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-06T14:09:42.896Z",
+  "fetchedAt": "2025-10-06T14:40:09.784Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Save 32% on this Kindle Scribe bundle before Prime Day",
+      "description": "Amazon's Kindle Scribe Bundle includes a stylus, pen, and adapter with the e-reader. In the lead up to Prime Day, all three combos are on sale.",
+      "url": "https://www.zdnet.com/article/save-32-on-this-kindle-scribe-bundle-before-prime-day/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cae65a42e9a47350437367410fb5e3ba934f7710/2022/12/15/78c8f519-0b5d-41da-84ce-18ff08c74746/kindle-scribe.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-05T14:28:05Z",
+      "content": "Amazon\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon's next Prime Day sales event is just days away, running Oct. 7-8. It's a major sale event where the site rolls out big discounts … [+2420 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-bicchierai",
+      "title": "The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025",
+      "description": "Young Minds gives parents control over what their kids do on the internet, while also protecting their children’s privacy and teaching them good online habits.",
+      "url": "https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Nino-Dvalidze.jpg?resize=1200,800",
+      "publishedAt": "2025-10-05T14:27:45Z",
+      "content": "An app called Young Minds wants to give parents control over what their kids do on the internet, while also protecting their childrens privacy and teaching them good online habits. \r\nThe startup was … [+2470 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://japan.zdnet.com/storage/2025/10/03/d1202b70612ca3782419bd16578b2ced/gettyimages-1717393421_1280.jpg",
       "publishedAt": "2025-10-03T01:04:00Z",
       "content": "Snowflake102Model Context ProtocolMCP2025AnthropicSnowflakeAIAI\r\nSnowflakeAICortex AICortex AIAnthropicOpenAICortex AI for Financial Services\r\nSnowflake MCP ServerSnowflakeCortex Knowledge Extensions… [+298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI's Sora 2 is putting safety and censorship to the test with stunningly real videos",
-      "description": "Fresh off a $6.6 billion share sale that cemented its $500 billion valuation, OpenAI is viral with Sora 2, its first feed-driven video app.",
-      "url": "https://www.cnbc.com/2025/10/02/openai-invite-code-sora-2-censorship.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207285-1759447450525-gettyimages-2238317673-Illustration_Sora_2.jpeg?v=1759447514&w=1920&h=1080",
-      "publishedAt": "2025-10-03T00:09:21Z",
-      "content": "Fresh off a $6.6 billion share sale that made it the world's most valuable private company, OpenAI's TikTok-style video app, powered by its new artificial intelligence model, Sora 2, is going viral. … [+4704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Salesforce pickin' up good vibrations",
-      "description": "Agentforce Vibes is a new AI-assisted IDE for building Salesforce apps and agents\nSalesforce is bringing \"vibe coding\" to enterprise customers through a service called Agentforce Vibes - and it may not be as troubling as it sounds.…",
-      "url": "https://www.theregister.com/2025/10/02/salesforce_vibe_coding/",
-      "urlToImage": "https://regmedia.co.uk/2016/08/23/shutterstock_zen.jpg",
-      "publishedAt": "2025-10-02T23:13:09Z",
-      "content": "Salesforce is bringing \"vibe coding\" to enterprise customers through a service called Agentforce Vibes - and it may not be as troubling as it sounds.\r\nDan Fernandez, VP of product for developer servi… [+4076 chars]"
     }
   ]
 }
