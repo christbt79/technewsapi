@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T13:02:09.889Z",
+  "fetchedAt": "2025-10-06T13:42:47.982Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Investors aren't the market's biggest loser if Trump, SEC end quarterly reporting",
+      "description": "The SEC may end the requirement for companies to report results quarterly. The 'Big Four' accounting firms, KPMG, Deloitte, PwC and EY, have a lot to lose.",
+      "url": "https://www.cnbc.com/2025/10/05/trump-sec-quarterly-earnings-reports-accounting-firms.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207498-1759497787293-gettyimages-2212002272-_90a9437_v0gjbshz.jpeg?v=1759497806&w=1920&h=1080",
+      "publishedAt": "2025-10-05T13:06:30Z",
+      "content": "With the Securities and Exchange Commission now pursuing President Trump's request to consider a rule that ends the mandate that public companies file quarterly reports, there's a lot to gain for com… [+8809 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206499-1759334012353-Traders-OB-Photo-20251001-CC-PRESS-4.jpg?v=1759334321&w=1920&h=1080",
       "publishedAt": "2025-10-02T22:06:09Z",
       "content": "Stock futures were little changed after the market recorded new highs on Thursday, driven by strength in the artificial intelligence trade that appeared to overpower concerns about the 2-day-old U.S.… [+3112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Bryan Walsh",
-      "title": "The age of endless AI slop is here",
-      "description": "Really, it’s almost unfair to hold a tech company to its mission statement. From Google’s “Don’t Be Evil” to WeWork’s “Elevate the World’s Consciousness,” mission statements are usually written in a company’s adolescence, at that awkward moment when their dre…",
-      "url": "https://www.vox.com/future-perfect/463596/openai-sora2-reels-videos-tiktok-chatgpt-deepfakes",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/SoraArt_Vox5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-02T21:49:36Z",
-      "content": "Really, its almost unfair to hold a tech company to its mission statement. From Googles Dont Be Evil to WeWorks Elevate the Worlds Consciousness, mission statements are usually written in a companys … [+6851 chars]"
     }
   ]
 }
