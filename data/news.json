@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T07:34:42.696Z",
+  "fetchedAt": "2025-10-06T08:13:24.520Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Do voice translation earbuds actually work in public? I tested some, here's my verdict",
+      "description": "I've tested countless earbuds with all manner of promises, but the Viaim RecDot earbuds have something special.",
+      "url": "https://www.zdnet.com/article/do-voice-translation-earbuds-actually-work-in-public-i-tested-some-heres-my-verdict/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/55de8eb23a97f03abdf128b22d6eb38e8085ee44/2025/09/30/561053b9-6723-4412-8953-22da67d411a8/viaimhand.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-05T08:10:27Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4975 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/6ac84d29e153efa842a7c4d695df997b406789a9/2025/09/30/355dd7bd-92fd-4f83-acc7-58453cdf82db/viaimhero.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-02T20:15:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "College student went on a destructive rampage, then confessed to ChatGPT, cops say",
-      "description": "Police say they found the evidence on his phone\nA Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. …<!--#include virtual='/data_centre/_…",
-      "url": "https://www.theregister.com/2025/10/02/chatgpt_vandalism_spree/",
-      "urlToImage": "https://regmedia.co.uk/2023/06/22/shutterstock_chatgpt_judge.jpg",
-      "publishedAt": "2025-10-02T20:10:10Z",
-      "content": "A Missouri college student has learned the hard way that admitting a vandalism spree to ChatGPT and asking whether he was likely to get caught may not be the best use of AI. \r\nAccording to court docu… [+3125 chars]"
     }
   ]
 }
