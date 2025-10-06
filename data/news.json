@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T19:31:40.291Z",
+  "fetchedAt": "2025-10-06T20:09:37.168Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Monica Bell",
+      "title": "Apple AirPods 4 are $90 before Prime Day",
+      "description": "Amazon October Prime Day is two days away, but Apple AirPods 4 are available now for just $90.",
+      "url": "https://www.zdnet.com/home-and-office/apple-airpods-4-are-90-before-prime-day/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4c978fdcb1d38f1bd249ee78d66e96362dec1396/2025/06/16/b1c49061-d3c7-48ce-99e9-a440fdcf2732/zdnet-prime-day-live-blog-6.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-05T20:04:39Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon October Prime Day is coming up on October 7th and 8th, but we've found some early deals that are available now. Apple p… [+2431 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027048-1724933007610-gettyimages-2162564338-AFP_364U4ZC.jpeg?v=1759470407&w=1920&h=1080",
       "publishedAt": "2025-10-03T05:52:38Z",
       "content": "European stocks are poised to open higher on Friday, building on momentum that has pushed regional indexes higher this week.\r\nThe pan-European Stoxx 600 added 0.5% in Thursday's session after reachin… [+1621 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "After nine years of grinding, Replit finally found its market. Can it keep it? | TechCrunch",
-      "description": "While AI coding startups like Cursor raise brow-raising rounds on barely three years of existence, Replit's path to a $3 billion valuation has been anything but swift.",
-      "url": "https://techcrunch.com/2025/10/02/after-nine-years-of-grinding-replit-finally-found-its-market-can-it-keep-it/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-02-at-9.34.51PM.png?resize=1200,668",
-      "publishedAt": "2025-10-03T04:59:21Z",
-      "content": "While AI coding startups like Cursor close brow-raising rounds on barely three years of existence, Replit’s path to a $3 billion valuation has been anything but swift. For CEO Amjad Masad, who’s been… [+9356 chars]"
     }
   ]
 }
