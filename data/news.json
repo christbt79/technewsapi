@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T13:42:47.982Z",
+  "fetchedAt": "2025-10-06T14:09:42.896Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nuclear in my backyard? More of America, and the market, seems OK with it",
+      "description": "Small modular reactors are being planned as big part of the nuclear power comeback across the U.S., with some communities pointing to jobs and economic growth.",
+      "url": "https://www.cnbc.com/2025/10/05/nuclear-power-modular-reactor-energy-demand-public-market-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107234152-1683046852769-SMR_-_Overview.jpg?v=1693415481&w=1920&h=1080",
+      "publishedAt": "2025-10-05T13:47:17Z",
+      "content": "GE Hitachi Nuclear Energy's BWRX-300 small modular reactor incorporates proven components.\r\nVan Buren County is a rural redoubt in southwestern Michigan, a quiet corner of a swing state. Pillow soft … [+11689 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2016/08/23/shutterstock_zen.jpg",
       "publishedAt": "2025-10-02T23:13:09Z",
       "content": "Salesforce is bringing \"vibe coding\" to enterprise customers through a service called Agentforce Vibes - and it may not be as troubling as it sounds.\r\nDan Fernandez, VP of product for developer servi… [+4076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Pia Singh",
-      "title": "Stock market today: Live updates",
-      "description": "The three major U.S. indexes notched record highs across the board on Thursday as strength in the AI trade persisted.",
-      "url": "https://www.cnbc.com/2025/10/02/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206499-1759334012353-Traders-OB-Photo-20251001-CC-PRESS-4.jpg?v=1759334321&w=1920&h=1080",
-      "publishedAt": "2025-10-02T22:06:09Z",
-      "content": "Stock futures were little changed after the market recorded new highs on Thursday, driven by strength in the artificial intelligence trade that appeared to overpower concerns about the 2-day-old U.S.… [+3112 chars]"
     }
   ]
 }
