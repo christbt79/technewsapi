@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T15:36:49.748Z",
+  "fetchedAt": "2025-10-06T16:11:03.388Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "TechCrunch Mobility: Toyota makes a $1.5B bet on the startup ecosystem | TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2025/10/05/techcrunch-mobility-toyota-makes-a-1-5b-bet-on-the-startup-ecosystem/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/07/toyota-ai.png?resize=1200,675",
+      "publishedAt": "2025-10-05T16:04:01Z",
+      "content": "Welcome back to TechCrunch Mobility, your hub for all things future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nMore than a month ago, I asked… [+7107 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/3edd5509e6e1d6bdc57571b7b80a70b9bb25b78c/2025/10/02/b1a184a6-9f34-47e1-ae31-f2ef276d2ab9/gettyimages-1811567831-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-03T02:15:24Z",
       "content": "Constantine Johnny/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Fast-changing targets leave people feeling burned out.</li><li>Smart busines… [+6461 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Silicon Valley’s new defense tech ‘neoprimes’ are pulling billions in funding to challenge legacy giants",
-      "description": "Venture-backed firms like Anduril and SpaceX are emerging as “neoprimes,” reshaping the U.S. defense industry once dominated by giants such as Lockheed Martin and Boeing.",
-      "url": "https://www.cnbc.com/2025/10/03/silicon-valley-defense-tech-startups-war-lockheed-boeing-raytheon-anduril-palantir-mva-milvet.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203096-1758680752113-gettyimages-1273601403-_r0a0074.jpeg?v=1758680796&w=1920&h=1080",
-      "publishedAt": "2025-10-03T02:09:17Z",
-      "content": "A wave of defense tech startups in Silicon Valley is drawing billions in funding and reshaping America's national security.\r\nAnduril Industries, recently valued at $30.5 billion following its latest … [+4630 chars]"
     }
   ]
 }
