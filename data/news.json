@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T12:17:37.082Z",
+  "fetchedAt": "2025-10-06T13:02:09.889Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "The age of silicon and software began 75 years ago with the patenting of the transistor",
+      "description": "75 years ago, the three Bell Labs scientists behind the invention of the transistor would, at last, have the U.S. Patent in their hands.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-age-of-silicon-and-software-began-75-years-ago-with-the-patenting-of-the-transistor",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5qphhtV8QeDXNdqPjv4YSA-1920-80.jpg",
+      "publishedAt": "2025-10-05T12:36:31Z",
+      "content": "75 years ago, the three Bell Labs scientists behind the invention of the transistor would, at last, have the U.S. Patent in their hands. This insignificant looking semiconductor device with three ele… [+2857 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/SoraArt_Vox5.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-02T21:49:36Z",
       "content": "Really, its almost unfair to hold a tech company to its mission statement. From Googles Dont Be Evil to WeWorks Elevate the Worlds Consciousness, mission statements are usually written in a companys … [+6851 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "With a Friend like this, who needs enemies?",
-      "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscr…",
-      "url": "https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257972_Friend_AKrales_0261.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-02T21:34:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nFriends make life better, but a mean, glowing AirTag on a shoestring isnt what I call a friend.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable… [+9874 chars]"
     }
   ]
 }
