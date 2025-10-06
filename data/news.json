@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T16:11:03.388Z",
+  "fetchedAt": "2025-10-06T16:42:40.338Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "OpenAI and Jony Ive may be struggling to figure out their AI device | TechCrunch",
+      "description": "OpenAI and Jony Ive reportedly face significant technical challenges as they work to develop a screen-less, AI-powered device.",
+      "url": "https://techcrunch.com/2025/10/05/openai-and-jony-ive-may-be-struggling-to-figure-out-their-ai-device/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+      "publishedAt": "2025-10-05T16:35:29Z",
+      "content": "OpenAI and Jony Ive face significant technical challenges as they work to develop a screen-less, AI-powered device, according to the Financial Times.\r\nBack in May, OpenAI acquired io, the device star… [+900 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-02-at-9.34.51PM.png?resize=1200,668",
       "publishedAt": "2025-10-03T04:59:21Z",
       "content": "While AI coding startups like Cursor close brow-raising rounds on barely three years of existence, Replit’s path to a $3 billion valuation has been anything but swift. For CEO Amjad Masad, who’s been… [+9356 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "Relaxing matters - 6 business leaders share their strategies for work-life balance",
-      "description": "These busy executives are finding time for family, hobbies, and relaxation. The businesses will be there when they return.",
-      "url": "https://www.zdnet.com/home-and-office/work-life/relaxing-matters-6-business-leaders-share-their-strategies-for-work-life-balance/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3edd5509e6e1d6bdc57571b7b80a70b9bb25b78c/2025/10/02/b1a184a6-9f34-47e1-ae31-f2ef276d2ab9/gettyimages-1811567831-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T02:15:24Z",
-      "content": "Constantine Johnny/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Fast-changing targets leave people feeling burned out.</li><li>Smart busines… [+6461 chars]"
     }
   ]
 }
