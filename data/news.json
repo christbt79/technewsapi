@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T14:40:09.784Z",
+  "fetchedAt": "2025-10-06T15:09:29.684Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "The Reinforcement Gap — or why some AI skills improve faster than others   | TechCrunch",
+      "description": "AI tasks that work well with reinforcement learning are getting better fast — and threatening to leave the rest of the industry behind.",
+      "url": "https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675",
+      "publishedAt": "2025-10-05T15:02:47Z",
+      "content": "AI coding tools are getting better fast. If you dont work in code, it can be hard to notice how much things are changing, but GPT-5 and Gemini 2.5 have made a whole new set of developer tricks possib… [+4436 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203096-1758680752113-gettyimages-1273601403-_r0a0074.jpeg?v=1758680796&w=1920&h=1080",
       "publishedAt": "2025-10-03T02:09:17Z",
       "content": "A wave of defense tech startups in Silicon Valley is drawing billions in funding and reshaping America's national security.\r\nAnduril Industries, recently valued at $30.5 billion following its latest … [+4630 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Radhika Rajkumar （ZDNET.com） 翻訳校正： 矢倉美登里 長谷睦 （ガリレオ）",
-      "title": "Snowflake、「MCP」のサポートと金融機関向け新AIスイートを発表",
-      "description": "Snowflakeが独自の「Model Context Protocol」（MCP）サーバーと、金融機関に特化した人工知能（AI）ツールの新パッケージ「Cortex AI for Financial Services」を発表した。",
-      "url": "https://japan.zdnet.com/article/35238762/",
-      "urlToImage": "https://japan.zdnet.com/storage/2025/10/03/d1202b70612ca3782419bd16578b2ced/gettyimages-1717393421_1280.jpg",
-      "publishedAt": "2025-10-03T01:04:00Z",
-      "content": "Snowflake102Model Context ProtocolMCP2025AnthropicSnowflakeAIAI\r\nSnowflakeAICortex AICortex AIAnthropicOpenAICortex AI for Financial Services\r\nSnowflake MCP ServerSnowflakeCortex Knowledge Extensions… [+298 chars]"
     }
   ]
 }
