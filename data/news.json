@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-06T08:13:24.520Z",
+  "fetchedAt": "2025-10-06T08:42:49.638Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Hacking contest kerfuffle over copied rules pits Wiz against ZDI",
+      "description": "'Seems like you should at least run that through ChatGPT to reword it'\nA new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.…",
+      "url": "https://www.theregister.com/2025/10/05/zdi_wiz_hacking_contest_kerfuffle/",
+      "urlToImage": "https://regmedia.co.uk/2019/11/05/shutterstock_ethical_hacking.jpg",
+      "publishedAt": "2025-10-05T08:32:09Z",
+      "content": "A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.\r\nWiz, the cloud-security shop that agreed to acquire for $32 billion (pending approvals), on… [+4312 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpeg?quality=90&strip=all&crop=0%2C7.0863839112696%2C100%2C85.827232177461&w=1200",
       "publishedAt": "2025-10-02T20:19:39Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSearch Party goes through footage from nearby Ring outdoor cameras when a dog goes missing. Admirable. But maybe ask me first.\r\nSearch Party goes through footage… [+5631 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Do voice translation earbuds actually work in the public? I tested a pair, and here's my advice",
-      "description": "I've tested countless earbuds over the years - so when a pair actually makes me raise an eyebrow, I know it's something special.",
-      "url": "https://www.zdnet.com/article/do-voice-translation-earbuds-actually-work-in-the-public-i-tested-a-pair-and-heres-my-advice/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6ac84d29e153efa842a7c4d695df997b406789a9/2025/09/30/355dd7bd-92fd-4f83-acc7-58453cdf82db/viaimhero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T20:15:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4927 chars]"
     }
   ]
 }
