@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-06T11:31:39.685Z",
+  "fetchedAt": "2025-10-06T12:17:37.082Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Top Wall Street analysts recommend these 3 dividend stocks for stable returns",
+      "description": "TipRanks' ranking service discusses three dividend-paying stocks, including Brookfield Infrastructure Partners and Ares Capital.",
+      "url": "https://www.cnbc.com/2025/10/05/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-stable-returns.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207640-1759509174781-gettyimages-2192875017-PSWAT_DSC04236.jpeg?v=1759509215&w=1920&h=1080",
+      "publishedAt": "2025-10-05T12:00:01Z",
+      "content": "In this photo illustration, the Brookfield Infrastructure Partners company logo is seen displayed on a smartphone screen. \r\nFears about the impact of a government shutdown, a slowing labor market, an… [+6307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "This Meta alum has spent 10 months leading OpenAI's nationwide hunt for its Stargate data centers",
+      "description": "OpenAI's effort to build a massive industrial base to power the future of artificial intelligence is being led by Keith Heyde.",
+      "url": "https://www.cnbc.com/2025/10/05/openai-stargate-data-center-buildout-infrastructure-lead-keith-heyde.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207865-1759528253539-20_1.JPG?v=1759542954&w=1920&h=1080",
+      "publishedAt": "2025-10-05T12:00:01Z",
+      "content": "Keith Heyde stands on site in Abilene, Texas, where OpenAI's Stargate infrastructure buildout is underway. Heyde, a former head of AI compute at Meta, is now leading OpenAIs physical expansion push.\r… [+6328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "AI chatbots that butter you up make you worse at conflict, study finds",
+      "description": "Top AI models keep saying you’re right, and that’s the problem\nState-of-the-art AI models tend to flatter users, and that praise makes people more convinced that they're right and less willing to resolve conflicts, recent research suggests.…",
+      "url": "https://www.theregister.com/2025/10/05/ai_models_flatter_users_worse_confilict/",
+      "urlToImage": "https://regmedia.co.uk/2019/06/06/shutterstock_hurrah.jpg",
+      "publishedAt": "2025-10-05T11:38:14Z",
+      "content": "State-of-the-art AI models tend to flatter users, and that praise makes people more convinced that they're right and less willing to resolve conflicts, recent research suggests.\r\nThese models, in oth… [+4924 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257972_Friend_AKrales_0261.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-02T21:34:30Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nFriends make life better, but a mean, glowing AirTag on a shoestring isnt what I call a friend.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable… [+9874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "10 Linux tips I give to both beginners and professionals for improved productivity",
-      "description": "Linux isn't just about picking a distro or desktop environment - it's also about optimizing how you interact with your PC for maximum efficiency.",
-      "url": "https://www.zdnet.com/article/10-linux-tips-i-give-to-both-beginners-and-professionals-for-improved-productivity/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7dc83b932ed72e220517ba6de32b7e78cf1ad669/2024/09/18/1fcabcc1-08eb-425c-aa9e-d2ddc4d54fa9/microsoft-surface-laptop-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-02T20:43:00Z",
-      "content": "Yuichiro Chino/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>With a bit of effort, you can elevate Linux's desktop efficiency.</li><li>These … [+7213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Microsoft CTO says he wants to swap most AMD and Nvidia GPUs for homemade chips",
-      "description": "Pivot will hinge on success of next-gen Maia accelerator\nMicrosoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond's leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.…",
-      "url": "https://www.theregister.com/2025/10/02/microsoft_maia_dc/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/02/microsoft_azure_maia_100_handout.jpg",
-      "publishedAt": "2025-10-02T20:41:26Z",
-      "content": "Microsoft buys a lot of GPUs from both Nvidia and AMD. But moving forward, Redmond's leaders want to shift the majority of its AI workloads from GPUs to its own homegrown accelerators.\r\nThe software … [+2481 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Ring’s new Search Party feature is on by default; should you opt out?",
-      "description": "This week, Ring, an Amazon-owned smart security company, announced Search Party, a new feature to help find lost dogs. When someone posts a picture of a lost dog on Ring’s Neighbors app, they will be able to initiate a Search Party. Ring then uses AI to scan …",
-      "url": "https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download.jpeg?quality=90&strip=all&crop=0%2C7.0863839112696%2C100%2C85.827232177461&w=1200",
-      "publishedAt": "2025-10-02T20:19:39Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSearch Party goes through footage from nearby Ring outdoor cameras when a dog goes missing. Admirable. But maybe ask me first.\r\nSearch Party goes through footage… [+5631 chars]"
     }
   ]
 }
