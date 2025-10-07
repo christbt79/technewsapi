@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-07T12:17:59.309Z",
+  "fetchedAt": "2025-10-07T13:02:15.439Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "An idea that won't sink: China planning underwater datacenter deployment",
+      "description": "Under the sea, under the sea... bit barnacle's better, down where it's wetter, take it from me\nChina is persevering with underwater datacenters - a deployment off the coast near Shanghai is expected to save on the energy costs of cooling compute infrastructur…",
+      "url": "https://www.theregister.com/2025/10/06/underwater_dc_china/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/01/shutterstock_underwater_dc.jpg",
+      "publishedAt": "2025-10-06T12:44:37Z",
+      "content": "China is persevering with underwater datacenters - a deployment off the coast near Shanghai is expected to save on the energy costs of cooling compute infrastructure thanks to ocean currents.\r\nBeijin… [+2957 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Fictional characters are (officially) coming to Sora as OpenAI manages copyright chaos",
+      "description": "Collabs with fictional characters are on the horizon for Sora. Officially, that is, as OpenAI moves to restrict the flow of unauthorized horrors like meth-cooking and Nazi SpongeBobs and criminal Pokémon that have plagued the platform from day one. Bill Peebl…",
+      "url": "https://www.theverge.com/news/792661/sora-fictional-copyright-characters",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2238549433.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+      "publishedAt": "2025-10-06T12:40:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe teased feature comes as Sam Altman slams the breaks on the companys controversial opt-out copyright policy.\r\nThe teased feature comes as Sam Altman slams the… [+2192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "The Editors of Tom's Hardware",
+      "title": "Grab a 4TB SSD for 5 cents per gigabyte during Prime Day sales – 8TB models start as low as 7 cents per GB",
+      "description": "Roomy 4TB SSDs have dropped precipitously in price in recent years, and even some 8TB models are inching closer to affordability.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/best-4tb-8tb-ssd-deals-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzJ6zGwM7otWrJ8BNVVae9-1288-80.jpg",
+      "publishedAt": "2025-10-06T12:24:06Z",
+      "content": "We've seen a lot of great deals and sales on SSD in recent months, and Amazon Prime Big Deals Day brings yet more. However, larger forces, like tariffs and geopolitical issues, threaten to push price… [+5112 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/7b41e0c1-e78e-4639-b3d2-b4cc5998e8bf.jpeg?resize=1157,1200",
       "publishedAt": "2025-10-03T14:02:43Z",
       "content": "Silicon Valley is full of comfortable offices with gleaming meeting rooms and on-site baristas. So when early HappyRobot engineer Ari Polakof decided to strike out and start his own company, he didn’… [+3776 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "The clock is ticking: Savings of up to 20% on group passes end tonight for TechCrunch Disrupt 2025",
-      "description": "The Founder Bundle Sale ends tonight at 11:59 p.m. PT. Save 15% on 4–9 Founder Passes and 20% off investor bundles to unlock sessions with leaders like Vinod Khosla, Aaron Levie, Jason Citron, and Karandeep Anand at TechCrunch Disrupt 2025.",
-      "url": "https://techcrunch.com/2025/10/03/the-clock-is-ticking-savings-of-up-to-20-on-group-passes-end-today-for-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
-      "publishedAt": "2025-10-03T14:00:00Z",
-      "content": "The Founder and Investor bundle sale for TechCrunch Disrupt 2025 is live but only until tonight at 11:59 p.m. PT. This is your only chance this year to lock in group bundle savings on Founder Passes … [+3161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Apple ices ICE agent tracker app under government heat",
-      "description": "Cupertino yanks ICEBlock citing safety risks for law enforcement Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents – apparently bowing to government pressure.…",
-      "url": "https://www.theregister.com/2025/10/03/apple_iceblock/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/05/ice.jpg",
-      "publishedAt": "2025-10-03T13:49:48Z",
-      "content": "Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents apparently bowing to government pressure.\r\nThe tech giant confirmed it had removed ICEBloc… [+1832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI's invite-only video generation app Sora tops Apple’s App Store",
-      "description": "The invite-based app launched this week and is only available on iOS devices.",
-      "url": "https://www.cnbc.com/2025/10/03/openai-sora-apple-app-store.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207460-1759493870027-gettyimages-2238549433-TFSPI_02102025-1224.jpeg?v=1759493935&w=1920&h=1080",
-      "publishedAt": "2025-10-03T13:35:51Z",
-      "content": "OpenAI now has two of the top three free apps in Apple's App Store, and its new video generation app Sora has snagged the coveted No. 1 spot.\r\nThe artificial intelligence startup launched Sora on Tue… [+1655 chars]"
     }
   ]
 }
