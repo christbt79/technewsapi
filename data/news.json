@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-07T09:09:53.432Z",
+  "fetchedAt": "2025-10-07T09:37:20.594Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Sam Altman and Jony Ive’s secret device won’t be ‘your weird AI girlfriend’",
+      "description": "OpenAI and designer Jony Ive are trying to solve a number of technical challenges before releasing their mysterious AI gadget, according to a Financial Times report. Two of the challenges include figuring out the palm-sized device’s “personality” and how ofte…",
+      "url": "https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sam-Altman-Jony-Ive.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
+      "publishedAt": "2025-10-06T09:28:04Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI is reportedly struggling to perfect the AI-gadgets voice and personality.\r\nOpenAI is reportedly struggling to perfect the AI-gadgets voice and personality… [+2967 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205276-1759172450928-BFW.JPG?v=1759172592&w=1920&h=1080",
       "publishedAt": "2025-10-03T12:00:01Z",
       "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4306 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "How developers are using Apple’s local AI models with iOS 26",
-      "description": "As iOS 26 is rolling out to all users, developers have been updating their apps to include features powered by Apple's local AI models.",
-      "url": "https://techcrunch.com/2025/10/03/how-developers-are-using-apples-local-ai-models-with-ios-26/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675",
-      "publishedAt": "2025-10-03T12:00:00Z",
-      "content": "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.\r\nThe compan… [+5504 chars]"
     }
   ]
 }
