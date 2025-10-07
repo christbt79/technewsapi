@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-07T07:33:18.337Z",
+  "fetchedAt": "2025-10-07T08:13:20.002Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "David Gordon",
+      "title": "AI's security paradox: how enterprises can have their cake and eat it too",
+      "description": "Speed or security? Why not have both? Sponsored Post  Here's the contradiction grinding on enterprise IT leaders like you: AI's value lives in your unstructured content (the sprawling information corpus that actually runs the business). You want to unlock it,…",
+      "url": "https://www.theregister.com/2025/10/06/ais_security_paradox_how/",
+      "urlToImage": "https://regmedia.co.uk/2025/08/12/ai.jpg",
+      "publishedAt": "2025-10-06T08:01:03Z",
+      "content": "Sponsored PostHere's the contradiction grinding on enterprise IT leaders like you: AI's value lives in your unstructured content (the sprawling information corpus that actually runs the business). Yo… [+3643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Apple's M4 MacBook Pro is $200 off ahead of Prime Day",
+      "description": "Multiple variants of Apple's latest flagship laptop have received discounts in the lead-up to Amazon's October Prime Day.",
+      "url": "https://www.zdnet.com/article/apples-m4-macbook-pro-is-200-off-ahead-of-prime-day/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4d49a453adf309775080f432b6e5466f8e0e84e1/2024/11/06/5deaa4ab-7b44-4b09-984f-5e0d38f4a272/dsc02534-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T08:00:43Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nWhen Apple's M4 processor came to the MacBook Pro laptop line, we noted how it improved upon the already powerful M3 Pro and M… [+3263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "AI: the ultimate slacker's dream come true",
+      "description": "Microsoft's Copilot helping workers perfect the ancient art of doing bugger all\nIt’s been less than three years since ChatGPT lit the fuse of the current explosion of AI everywhere. AI years move even faster than Internet years, so there’s been time not only …",
+      "url": "https://www.theregister.com/2025/10/06/at_last_microsoft_leads_the/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/02/office_shutterstock.jpg",
+      "publishedAt": "2025-10-06T08:00:15Z",
+      "content": "Its been less than three years since ChatGPT lit the fuse of the current explosion of AI everywhere. AI years move even faster than Internet years, so theres been time not only for the forcible injec… [+6314 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/04/27/shutterstock_shrug.jpg",
       "publishedAt": "2025-10-03T11:38:37Z",
       "content": "Oracle has finally broken its silence on those Clop-linked extortion emails, but only to tell customers what they already should have known: patch your damn systems.\r\nThe database giant posted an imp… [+2465 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Your Nest security devices are getting a major update for free - including a big one for Google Home",
-      "description": "The long-awaited Gemini for Home update is finally here - and it's rolling out to most Nest security devices.",
-      "url": "https://www.zdnet.com/article/your-nest-security-devices-are-getting-a-major-update-for-free-including-a-big-one-for-google-home/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2c3fb98206da4e152270d019182e74b38ab57b84/2024/10/09/331be6e5-b08d-4419-a582-16887531daee/nest1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T11:08:00Z",
-      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "How to get access to Alexa+ for free right now (and which Echo devices support it)",
-      "description": "Amazon has been gradually rolling out its AI-powered Alexa+. Here's how to join the early access program.",
-      "url": "https://www.zdnet.com/article/how-to-get-access-to-alexa-for-free-right-now-and-which-echo-devices-support-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3e37a0fe3fc659776a71ba815ed3d5eb2362006a/2025/09/30/7197cd2a-eff5-42d7-9f05-ff3b4cada25a/dsc07842.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T11:04:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Alexa+ is now in early access with gradual expansion planned.</li><li>You can join early by sign… [+2719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "For first-time job hunters, a college degree isn't unlocking the opportunities it once did",
-      "description": "Data shows young college grads are feeling the brunt of the labor market slowdown.",
-      "url": "https://www.cnbc.com/2025/10/03/job-market-new-grads-unemployment.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102564006-college-job-fair.jpg?v=1759283393&w=1920&h=1080",
-      "publishedAt": "2025-10-03T11:00:12Z",
-      "content": "Students wait in line before the start a career fair at the New York University Polytechnic School of Engineering in the Brooklyn borough of New York.\r\nWith a Georgetown degree and several internship… [+8463 chars]"
     }
   ]
 }
