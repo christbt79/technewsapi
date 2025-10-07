@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T20:09:41.786Z",
+  "fetchedAt": "2025-10-07T20:37:02.120Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "OpenAI tells developers ChatGPT is ready to be their gatekeeper",
+      "description": "Integrate your apps via their Apps SDK and maybe they'll send you some business\nOpenAI on Monday pitched its coding tools to software developers in the hope of generating the usage and revenue necessary to recoup the vast sums it spends to create and run its …",
+      "url": "https://www.theregister.com/2025/10/06/openai_opens_chatgpt_to_referring/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/06/devday2025.jpg",
+      "publishedAt": "2025-10-06T20:36:44Z",
+      "content": "OpenAI on Monday pitched its coding tools to software developers in the hope of generating the usage and revenue necessary to recoup the vast sums it spends to create and run its AI services.\r\nCEO Sa… [+5347 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Google’s AI bounty program pays bug hunters up to $30K",
+      "description": "On Monday, Google launched a new reward program dedicated specifically to finding bugs in AI products. Google’s list of qualifying bugs includes examples of the kind of rogue actions it’s looking for, like indirectly injecting an AI prompt that causes Google …",
+      "url": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-06T20:24:53Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle will dish out the biggest bucks for rooting out ways to command rogue actions from its AI bots.\r\nGoogle will dish out the biggest bucks for rooting out wa… [+3285 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -666,6 +692,19 @@
     },
     {
       "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jonathan Weil",
+      "title": "Nasdaq Has Become the Market of Choice for Dubious Penny-Stock IPOs",
+      "description": "Such listings surged starting last year. Now Nasdaq says it wants to tighten its standards.",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-has-become-the-market-of-choice-for-dubious-penny-stock-ipos-a01cae19",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mAViuq6WUiRmuS8RcImfSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/a2fa81b0f00130cdcf053220a6bc6260",
+      "publishedAt": "2025-10-06T11:00:00Z",
+      "content": "Final approval for Nasdaqs tightened listing standards could be months away. - Jimin Kim/ZUMA Press\r\nNasdaq is known as the markets home for tech stocks, in particular giants like Nvidia, Apple and M… [+4427 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "CNBC"
       },
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208733347.jpg?w=1024",
       "publishedAt": "2025-10-04T06:40:38Z",
       "content": "Amazon founder Jeff Bezos made a rare public appearance at Italian Tech Week in Turin on Friday and used the opportunity to predict that millions of people will be living in space “in the next couple… [+1025 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Trump’s $100,000 H-1B fee draws rare rebuke from US business",
-      "description": "In a letter sent Friday to Trump, roughly a dozen industry organizations representing chipmakers, software companies and retailers said the new fee threatens to crimp a crucial talent pipeline of foreign skilled workers and leave critical jobs unfilled",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-03/trump-s-100-000-h-1b-fee-draws-rare-rebuke-from-business-groups",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/g5ku3u/article70097094.ece/alternates/LANDSCAPE_1200/2025-09-23T192201Z_762309994_RC26XGAKTNUE_RTRMADP_3_HEALTH-USA-VISAS.JPG",
-      "publishedAt": "2025-10-04T04:40:00Z",
-      "content": "A coalition of business groups warned President Donald Trump that a newly announced $100,000 fee for H-1B visa applications risks harming the US economy and urged the administration to avoid changes … [+3768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "'The system is rigged': Founders and VCs weigh in on the UK's ambition deficit",
-      "description": "\"The ones that are left in the U.K. are here with gritted teeth, like by hook or by crook,\" one founder told CNBC Make It of Britain's entrepreneurs.",
-      "url": "https://www.cnbc.com/2025/10/04/founders-and-vcs-weigh-in-on-the-uks-ambition-deficit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206877-1759396669646-gettyimages-2097109502-stew07452.jpeg?v=1759419418&w=1920&h=1080",
-      "publishedAt": "2025-10-04T01:17:25Z",
-      "content": "Almost 60% of young people in the U.K. are interested in starting their own businesses, per the Generation Entrepreneur Report.\r\nYoung Brits are catching flak for their apparent lack of entrepreneuri… [+7816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cramer's Lightning Round: Broadcom over Ambiq Micro",
-      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-      "url": "https://www.cnbc.com/2025/10/03/cramers-lightning-round-broadcom-over-ambiq-micro.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1697237650&w=1920&h=1080",
-      "publishedAt": "2025-10-03T22:58:11Z",
-      "content": "Ambiq Micro: \"We got to be careful of that. There are so many good semiconductor companies out there. I'd rather see you in Broadcom.\"\r\nAlbertsons: \"I don't like Albertsons here.\"\r\nuniQure: \"...After… [+816 chars]"
     }
   ]
 }
