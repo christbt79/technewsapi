@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-07T17:36:16.789Z",
+  "fetchedAt": "2025-10-07T18:13:43.833Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Figma's stock pops as much as 16% after OpenAI CEO Altman touts ChatGPT integration",
+      "description": "A new assistant announced by OpenAI will allow ChatGPT users to have Figma run tasks from within their conversations.",
+      "url": "https://www.cnbc.com/2025/10/06/figma-stock-pops-15percent-after-openai-ceo-altman-touts-chatgpt-integration.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179786-1753972286629-gettyimages-2227152264-FIGMA_IPO.jpeg?v=1756991891&w=1920&h=1080",
+      "publishedAt": "2025-10-06T18:09:53Z",
+      "content": "Figma shares jumped more than 15% on Monday after the design software vendor's technology was promoted by OpenAI CEO Sam Altman in an onstage demo at his company's annual DevDay conference in San Fra… [+1510 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "OpenAI launches AgentKit to help developers build and ship AI agents  | TechCrunch",
+      "description": "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production, it is everything you need to build, deploy and optimize agent workflows with way less friction,” Sam Altman said Mo…",
+      "url": "https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.38.49PM.png?resize=1200,670",
+      "publishedAt": "2025-10-06T18:03:39Z",
+      "content": "OpenAI CEO Sam Altman on Monday announced the launch of AgentKit, a toolkit for building and deploying AI agents, at the firms Dev Day event.  \r\nAgentKit is a complete set of building blocks availabl… [+2158 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "OpenAI launches Apps Inside of ChatGPT | TechCrunch",
+      "description": "OpenAI is launching a new way for developers to build applications that appear directly inside of ChatGPT's conversations.",
+      "url": "https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+      "publishedAt": "2025-10-06T17:58:42Z",
+      "content": "OpenAI is launching a new way for developers to build applications inside of ChatGPT. Starting Monday, users in ChatGPT will be able to access interactive applications from companies like Booking.com… [+3208 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "OpenAI will let developers build apps that work inside ChatGPT",
+      "description": "OpenAI is introducing a way to work with apps right inside ChatGPT. The idea is that, from within a conversation with the chatbot, you can essentially tag in apps to help you complete a task while ChatGPT offers context and advice.  The company showed off a f…",
+      "url": "https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "publishedAt": "2025-10-06T17:48:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nRight within a ChatGPT conversation, youll be able to chat with apps like Spotify, Canva, and Zillow.\r\nRight within a ChatGPT conversation, youll be able to chat… [+2422 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKP217_Daniel_Ek_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-03T20:29:58Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nArtists arent rushing back just because of some title changes in the C-suite.\r\nArtists arent rushing back just because of some title changes in the C-suite.\r\nby\r… [+7724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Perplexity CEO: Comet AI browser can boost productivity so companies won't have to hire more people",
-      "description": "Chicago Fed Austan Goolsbee agreed that AI could be a boon to the GDP, but cautioned about over-investment.",
-      "url": "https://www.cnbc.com/2025/10/03/perplexity-ceo-comet-ai-browser-hiring-gdp.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184847-1755017630213-gettyimages-2218082216-BLOOMBERG_TECH.jpeg?v=1755017697&w=1920&h=1080",
-      "publishedAt": "2025-10-03T20:10:02Z",
-      "content": "Perplexity AI CEO and founder Aravind Srinivas said on Friday that the startup's Comet browser can boost productivity so that companies won't need extra employees.\r\n\"Instead of hiring one more person… [+2246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Your team can chat with Anthropic's Claude directly in Slack now - what it can do",
-      "description": "Another chatbot joins your workflow. Here's who can try it.",
-      "url": "https://www.zdnet.com/article/your-team-can-chat-with-anthropics-claude-directly-in-slack-now-what-it-can-do/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/97c4300e0af7f488737cb54603a7008930a191f1/2025/10/03/9296a6df-4d8b-49ba-9725-9b69c0fc589d/gettyimages-2215884272.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T19:59:07Z",
-      "content": "Andriy Onufriyenko/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>Claude in Slack is available now to teams with paid Slack plans.</li… [+3667 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "What to expect at OpenAI's DevDay 2025, and how to watch it | TechCrunch",
-      "description": "OpenAI's third-ever developer conference is around the corner, and it's shaping up to be the company's biggest yet.",
-      "url": "https://techcrunch.com/2025/10/03/what-to-expect-at-openais-devday-2025-and-how-to-watch-it/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778705142.jpg?resize=1200,758",
-      "publishedAt": "2025-10-03T19:38:11Z",
-      "content": "OpenAI is gearing up to host its third-ever annual developer conference, DevDay 2025, on Monday. The company says more than 1,500 people are scheduled to convene at Fort Mason in San Francisco for Op… [+3824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Your Samsung phone has a secret Wi-Fi menu that's super useful - how to access it",
-      "description": "If you love Samsung's everything-but-the-kitchen-sink software approach, this OneUI feature is your next rabbit hole.",
-      "url": "https://www.zdnet.com/article/your-samsung-phone-has-a-secret-wi-fi-menu-thats-super-useful-how-to-access-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ee8b805d39516a6e148592751204316d6a3510f0/2025/07/02/5b987e1d-7735-480f-ab9d-984f61237767/dsc06221.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T19:30:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung's hidden \"Connectivity Labs\" unlocks secret Wi-Fi tools.</li><li>Features include Wi-Fi … [+1719 chars]"
     }
   ]
 }
