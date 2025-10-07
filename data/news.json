@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-07T13:02:15.439Z",
+  "fetchedAt": "2025-10-07T13:43:11.017Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kayla Solino",
+      "title": "Best Amazon Prime Day laptop deals 2025: My 30 favorites sales live now",
+      "description": "Amazon October Prime Day starts tomorrow, but the laptop deals are already heating up. Here are the best we've found, from Apple, Lenovo, HP, and more.",
+      "url": "https://www.zdnet.com/article/best-amazon-october-prime-day-laptop-deals-10-06/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/07d39047f79390eb7d2cd73d658457bf0994e14d/2024/07/16/86339527-37bb-4901-86cf-7fc4714c0601/laptops-prime-day-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T13:36:00Z",
+      "content": "Prime Big Deal Days is Amazon's biggest sale event of the year, and it's almost here, from October 7th to the 8th. Some of the best laptop discounts are live right now, though, including several of t… [+5427 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "AMD to supply 6GW of compute capacity to OpenAI in chip deal worth tens of billions | TechCrunch",
+      "description": "AMD has signed a multi-year chip supply deal with OpenAI that could generate tens of billions in revenue for the chipmaker, helping accelerate its momentum in the AI industry.",
+      "url": "https://techcrunch.com/2025/10/06/amd-to-supply-6gw-of-compute-capacity-to-openai-in-chip-deal-worth-tens-of-billions/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2215621025.jpg?w=1024",
+      "publishedAt": "2025-10-06T13:34:35Z",
+      "content": "AMD has signed a multi-year chip supply deal with OpenAI that could generate tens of billions in revenue for the chipmaker, helping accelerate its momentum in the AI industry. \r\nAMD has agreed to sup… [+2502 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Joanna Stern",
+      "title": "Rivian CEO: ‘We’re really convicted’ about skipping CarPlay",
+      "description": "Hello, and welcome to Decoder! My guest today is Rivian CEO RJ Scaringe, and I’m very excited to be talking to him on my show today. And when I say my show… I mean Nilay Patel’s show. This is my final episode filling in for Nilay while he’s out on parental le…",
+      "url": "https://www.theverge.com/podcast/790685/rivian-ceo-rj-scaringe-r2-tariffs-china-ev-apple-carplay",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-RJ-Scaringe.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+      "publishedAt": "2025-10-06T13:14:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nRivian CEO: Were really convicted about skipping CarPlay\r\nRJ Scaringe on not politicizing his companys brand and dealing with tariffs, China, and the road to for… [+46489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "Google's new Jules Tools is very cool - how I'm using it and other Gemini AI CLIs",
+      "description": "Jules Tools has quietly joined Gemini CLI and GitHub Actions in Google's lineup. Here's how these command-line agents differ.",
+      "url": "https://www.zdnet.com/article/googles-new-jules-tools-is-very-cool-how-im-using-it-and-other-gemini-ai-clis/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a3506edeca9b7fddba92eb62b09fc8c79b0c7008/2025/10/06/22a042b3-7d47-4a15-9d37-f69cd4781725/new-jules-tools-cli-blends-cloud-autonomy-with-terminal-control.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T13:12:57Z",
+      "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google now has three AI CLIs for different workflows.</li><li>Gemini CLI … [+8608 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68dd9017ba56dd85e2c33324/191:100/w_1280,c_limit/Backchannel-GPT5-Sam-Altman-Business-2214102480.jpg",
       "publishedAt": "2025-10-03T15:00:00Z",
       "content": "OpenAIs August launch of its GPT-5 large language model was somewhat of a disaster. There were glitches during the livestream, with the model generating charts with obviously inaccurate numbers. In a… [+4189 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Red Hat fesses up to GitLab breach after attackers brag of data theft",
-      "description": "Open source giant admits intruders broke into dedicated consulting instance, but insists core products untouched What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with …",
-      "url": "https://www.theregister.com/2025/10/03/red_hat_gitlab_breach/",
-      "urlToImage": "https://regmedia.co.uk/2019/10/17/shutterstock_gitlab_logo.jpg",
-      "publishedAt": "2025-10-03T14:42:04Z",
-      "content": "What started as cyber crew bragging has now been confirmed by Red Hat: someone gained access to its consulting GitLab system and walked away with data.\r\nThe IBM-owned open source giant said in a blog… [+3139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "AI devs close to scraping bottom of data barrel",
-      "description": "Analysts at Goldman Sachs Global Institute say training is starting to hit its limits, enterprise info troves may be last hope\nThose spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have alr…",
-      "url": "https://www.theregister.com/2025/10/03/ai_training_requires_more_data/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_data_vault.jpg",
-      "publishedAt": "2025-10-03T14:20:09Z",
-      "content": "Those spiffy AI systems that tech companies keep promising require mountains of training data, but high-quality sources may have already run outunless enterprises can unlock the information trapped b… [+2973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "4 Apple devices you really shouldn't buy this month (and 9 that are safe for now)",
-      "description": "Before you buy that shiny new Apple product, let's look at Apple's release plans. Plus, here's how you can save on the AirPods Pro 3.",
-      "url": "https://www.zdnet.com/article/4-apple-devices-you-really-shouldnt-buy-this-month-and-9-that-are-safe-for-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cbcdf384f5430e0aa42f730ebc6ed4fed2404aee/2024/09/19/3fb11332-ba20-43ff-93a5-503c906b816d/apple-vision-pro-sep-2024-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T14:08:00Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The long-awaited iPhone 17 has landed, and the Air replaces the Plus.</li><li>Apple Watch als… [+9153 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "Flai is the latest startup bringing AI to car dealerships | TechCrunch",
-      "description": "The YC-backed startup has raised a $4.5 million seed round as it looks to win over more businesses by replacing cumbersome phone trees with AI-powered software.",
-      "url": "https://techcrunch.com/2025/10/03/flai-is-the-latest-startup-bringing-ai-to-car-dealerships/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/7b41e0c1-e78e-4639-b3d2-b4cc5998e8bf.jpeg?resize=1157,1200",
-      "publishedAt": "2025-10-03T14:02:43Z",
-      "content": "Silicon Valley is full of comfortable offices with gleaming meeting rooms and on-site baristas. So when early HappyRobot engineer Ari Polakof decided to strike out and start his own company, he didn’… [+3776 chars]"
     }
   ]
 }
