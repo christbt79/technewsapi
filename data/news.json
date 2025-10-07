@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-07T11:31:03.690Z",
+  "fetchedAt": "2025-10-07T12:17:59.309Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Online holiday spending growth set to slow to 5.3% as shoppers seek discounts",
+      "description": "Retail sales in the U.S. have chugged along, but concerns about higher tariffs and dipping consumer confidence have complicated the holiday outlook.",
+      "url": "https://www.cnbc.com/2025/10/06/online-holiday-spending-growth-adobe-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108081969-1735925319773-gettyimages-1744124538-252-0350.jpeg?v=1759429577&w=1920&h=1080",
+      "publishedAt": "2025-10-06T12:00:01Z",
+      "content": "Online holiday spending in the U.S. is expected to jump 5.3% year over year to $253.4 billion as consumers seek discounts and even enlist the help of artificial intelligence-powered chatbots, accordi… [+3876 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Swiss lab where researchers are working to create computers powered by mini human brains revealed in new report — mini brain organoids revealed, developers say 'we shouldn't be scared of them'",
+      "description": "A new report details a tour of a Swiss lab, where researchers are working to develop computers powered by mini human brains.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/swiss-lab-where-researchers-are-working-to-create-computers-powered-by-mini-human-brains-revealed-in-new-report-mini-brain-organoids-revealed-developers-say-we-shouldnt-be-scared-of-them",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FnzD2gpQL5qN4RRZnQ4V9k-1920-80.jpg",
+      "publishedAt": "2025-10-06T11:50:02Z",
+      "content": "A report detailing a tour of a Swiss lab, where researchers are working to develop computers powered by mini human brains, has been published by the BBC. The UK’s national broadcaster sent a reporter… [+3419 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "AMD teams up with OpenAI to challenge Nvidia’s AI chip dominance",
+      "description": "AMD is partnering with OpenAI to provide six gigawatts worth of processors for AI data centers, a move that challenges Nvidia’s AI chip market dominance. The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational dema…",
+      "url": "https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-06T11:33:05Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe five-year deal will commit OpenAI to purchasing six gigawatts worth of AMDs GPUs for its AI data centers.\r\nThe five-year deal will commit OpenAI to purchasin… [+2181 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207460-1759493870027-gettyimages-2238549433-TFSPI_02102025-1224.jpeg?v=1759493935&w=1920&h=1080",
       "publishedAt": "2025-10-03T13:35:51Z",
       "content": "OpenAI now has two of the top three free apps in Apple's App Store, and its new video generation app Sora has snagged the coveted No. 1 spot.\r\nThe artificial intelligence startup launched Sora on Tue… [+1655 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "The real price of a free TV",
-      "description": "Back in 2023, Telly CEO Ilya Pozin came on The Vergecast and made a surprisingly compelling case for the existence of a TV that doesn't cost you a dime - but shows ads all the time. It's a reasonable business model, and a pretty good deal for consumers! But a…",
-      "url": "https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1003_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-03T13:33:13Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: a new generation of HomePod-y smart speakers, life with the free Telly TV, and Chunk.\r\nOn The Vergecast: a new generation of HomePod-y smart sp… [+2835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Nvidia CEO Jensen Huang frustrated by UAE AI chip delay, claims report — White House said to be pressing nation to finalize U.S. investments before chip deliveries are authorized",
-      "description": "Nvidia cannot start shipping its AI chips to the UAE, as the country is reportedly yet to finalize its investments in the U.S.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-ceo-jensen-huang-frustrated-by-uae-ai-chip-delay-claims-report-white-house-said-to-be-pressing-nation-to-finalize-u-s-investments-before-chip-deliveries-are-authorized",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Hj3W5GcTdb6zZTSLG7YXWJ-2000-80.jpg",
-      "publishedAt": "2025-10-03T13:23:40Z",
-      "content": "Nvidia CEO Jensen Huang and several administration officials have been frustrated by delays to the AI chip company’s multi-billion-dollar deal with the United Arab Emirates (UAE). The deal was first … [+2784 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes | TechCrunch",
-      "description": "A new search engine raises $1.1M to let obsessive fans dive down internet rabbit holes | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/03/a-new-search-engine-raises-1-1m-to-let-obsessive-fans-dive-down-internet-rabbit-holes/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Lore.png?resize=1200,675",
-      "publishedAt": "2025-10-03T13:04:50Z",
-      "content": "Zehra Naqvi, 26, grew up as an obsessive fan girl in the 2010s. \r\nThis was the era of Tumblr and Twitter. She would stay up all night breaking down the release dates of Marvel movies or analyzing the… [+4292 chars]"
     }
   ]
 }
