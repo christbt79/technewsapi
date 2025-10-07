@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-07T08:42:48.503Z",
+  "fetchedAt": "2025-10-07T09:09:53.432Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "I tested a $400 Android phone with an E Ink like display, and it was boringly awesome",
+      "description": "The TCL Nxtpaper 60 Ultra redefines 'Ultra,' prioritizing eye comfort and stylus performance over sheer power.",
+      "url": "https://www.zdnet.com/article/i-tested-a-400-android-phone-with-an-e-ink-like-display-and-it-was-boringly-awesome/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e68949d871852ec7f3eccca7ffad8b5f37154d9c/2025/09/20/f30c8bbf-bcb5-46dd-95d2-6fbed51e696e/pxl-20250920-002756553-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T09:00:32Z",
+      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7488 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/apple-iphone-16-apple-intelligence.jpg?resize=1200,675",
       "publishedAt": "2025-10-03T12:00:00Z",
       "content": "Earlier this year, Apple introduced its Foundation Models framework during WWDC 2025, which allows developers to use the company’s local AI models to power features in their applications.\r\nThe compan… [+5504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jeff Bezos says AI is in an 'industrial bubble' but society to get 'gigantic' benefits from the tech",
-      "description": "Amazon founder Jeff Bezos said that artificial intelligence is showing signs of being in an \"industrial bubble.\"",
-      "url": "https://www.cnbc.com/2025/10/03/jeff-bezos-ai-in-an-industrial-bubble-but-society-to-benefit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207384-1759486738896-Jeff_BEzos_Elkann.jpg?v=1759486969&w=1920&h=1080",
-      "publishedAt": "2025-10-03T11:40:22Z",
-      "content": "TURIN, Italy Artificial intelligence is currently in an \"industrial bubble\" but the technology is \"real\" and will bring big benefits to society, Amazon Founder Jeff Bezos said on Friday.\r\nThe term bu… [+1227 chars]"
     }
   ]
 }
