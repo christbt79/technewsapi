@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-06T23:31:32.040Z",
+  "fetchedAt": "2025-10-07T00:41:15.929Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Google just gave older smart home devices a useful upgrade for free - including these Nest models",
+      "description": "The long-awaited Gemini for Home update has finally arrived - and it's rolling out to most Nest security devices.",
+      "url": "https://www.zdnet.com/article/google-just-gave-older-smart-home-devices-a-useful-upgrade-for-free-including-these-nest-models/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2c3fb98206da4e152270d019182e74b38ab57b84/2024/10/09/331be6e5-b08d-4419-a582-16887531daee/nest1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T00:38:00Z",
+      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Kindle Scribe vs. ReMarkable Paper Pro: I compared both tablets, here's which is better",
+      "description": "I'm a big fan of the Remarkable Paper Pro, but Amazon's new Kindle Scribe looks pretty impressive. Here's how they compare.",
+      "url": "https://www.zdnet.com/article/kindle-scribe-vs-remarkable-paper-pro-i-compared-both-tablets-heres-which-is-better/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/84e40fbe8a663292b38eaf8dc5678e4cfa4709b2/2025/09/30/8685eb56-ee6f-4a1a-b7ca-9ab0054b4347/4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T00:36:37Z",
+      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon announced its new Kindle Scribe Colorsoft, a premium writing tablet with a color displ… [+5619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "This Raspberry Pi alternative let me build an AirTag-like tracker - here's the process",
+      "description": "Whether you're a seasoned Raspberry Pi enthusiast or just getting started, this project is perfect for diving in.",
+      "url": "https://www.zdnet.com/article/this-raspberry-pi-alternative-let-me-build-an-airtag-like-tracker-heres-the-process/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e85570b4e8b904ad6bdf0905f70ae883d3bfb6db/2025/09/12/002b1384-539b-4174-93ab-1ac069dc91d8/img-5151.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T00:18:00Z",
+      "content": "Adrian Kingsley-Hughes/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Challenger UWB is powered by the Raspberry Pi Pico 2040 chip.</li><li>It allows for… [+2658 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/704ac25cf8d21a2b4631c30cb56a806e9ca30e96/2025/10/02/fe2856c4-b6e6-4f8e-a353-5d03543d3071/gettyimages-2230713121.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-03T10:00:30Z",
       "content": "Phantip Tritreemak/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>40% of US gen AI consumers would pay for products and services.</li>… [+6569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "SiPearl unveils Europe's first dual-use sovereign processor with 80 cores — expected in 2027 for government, aerospace, and defense applications",
-      "description": "SiPearl's Athena1 derives from Rhea, packs up to 80 Neoverse V1 cores, and is aimed at both civilian and military use. But will it be competitive in the second half of 2027?",
-      "url": "https://www.tomshardware.com/tech-industry/sipearl-unveils-europes-first-dual-use-sovereign-processor-with-80-cores-expected-in-2027-for-government-aerospace-and-defense-applications",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ypjBpjGMuYu5AEqszCHkT6-1920-80.jpg",
-      "publishedAt": "2025-10-03T09:19:52Z",
-      "content": "SiPearl, a CPU developer funded by the EU, this week introduced its Ahena1, Europe's first high-performance processor with up to 80 cores designed for both civilian and military use. The CPU relies o… [+3676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "How the ONS data-sharing dream ended in budget cuts and three rival platforms",
-      "description": "UK Treasury called time on troubled integration scheme after £240M sunk Analysis  In 2020, the UK's Office for National Statistics (ONS), which provides data vital to form public sector policy and allocate resources, launched a plan to integrate government da…",
-      "url": "https://www.theregister.com/2025/10/03/ons_data_sharing_mess/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/30/shutterstock_ons.jpg",
-      "publishedAt": "2025-10-03T07:30:06Z",
-      "content": "Analysis In 2020, the UK's Office for National Statistics (ONS), which provides data vital to form public sector policy and allocate resources, launched a plan to integrate government data and provid… [+8080 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "European stocks set to extend gains after touching fresh record high",
-      "description": "European stocks are poised to open higher on Friday, building on momentum that has seen regional indexes hit new record highs this week.",
-      "url": "https://www.cnbc.com/2025/10/03/europe-markets-oct-3-ftse-100-stoxx-600-tech-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027048-1724933007610-gettyimages-2162564338-AFP_364U4ZC.jpeg?v=1759470407&w=1920&h=1080",
-      "publishedAt": "2025-10-03T05:52:38Z",
-      "content": "European stocks are poised to open higher on Friday, building on momentum that has pushed regional indexes higher this week.\r\nThe pan-European Stoxx 600 added 0.5% in Thursday's session after reachin… [+1621 chars]"
     }
   ]
 }
