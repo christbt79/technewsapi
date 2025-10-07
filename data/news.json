@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T14:41:12.579Z",
+  "fetchedAt": "2025-10-07T15:10:00.389Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Intel's upcoming Panther Lake family will reportedly feature new \"Core Ultra X\" branding for fully-spec'd iGPU configs — Core Ultra 7 and 9 processors tipped to feature 12 Xe3 GPU cores",
+      "description": "The Panther Lake lineup of mobile CPUs is reportedly set to debut Intel's Xe3 graphics IP, with the top-end SKUs featuring up to 12 Xe3 GPU cores, being dubbed \"Core Ultra X,\" according to the latest leaks. Initially, only Core Ultra 7 and 9 were thought to f…",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-panther-lake-family-will-reportedly-feature-new-core-ultra-x-branding-for-fully-specd-igpu-configs-core-ultra-7-and-9-processors-tipped-to-feature-12-xe3-gpu-cores",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pNwXwmUpQZq6QgzuAe3RjT-2560-80.jpg",
+      "publishedAt": "2025-10-06T14:57:53Z",
+      "content": "According to the company, Intel is set to share details of its Panther Lake lineup of mobile processors next week. Now, leaks are starting to seep out ahead of the reportedly imminent announcements. … [+5527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ashley Capoot",
+      "title": "OpenAI DevDay 2025: Live updates and analysis from the AI startup",
+      "description": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
+      "url": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208460-1759782196843-gettyimages-2239214432-AFP_77WD863.jpeg?v=1759782238&w=1920&h=1080",
+      "publishedAt": "2025-10-06T14:43:00Z",
+      "content": "Here's what's on the agenda at this year's DevDay.\r\n10 a.m PT: Altman will deliver the opening keynote with Romain Huet, OpenAI's head of developer experience. The pair will share announcements and w… [+1527 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c34cb27b8a7cd2b9ffd1265e8174e9092abc604d/2025/10/03/79a8a957-ad44-4faf-b5de-529037622e00/gettyimages-1280367495.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-03T16:47:45Z",
       "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's state-of-the-art image model is available for all.</li… [+3466 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia details efficiency of the NVFP4 format for LLM training — new paper reveals how NVFP4 offers benefits over FP8 and BF16",
-      "description": "Nvidia has demonstrated that its NVFP4 4-bit floating point format — originally intended for inference — can be used for stable, large-scale training of LLMs with minimal accuracy loss, offering significant gains in compute and memory efficiency over both FP8…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-details-efficiency-of-the-nvfp4-format-for-llm-training-new-paper-reveals-how-nvfp4-offers-benefits-over-fp8-and-bf16",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9qzh6KNM38G5k4VFDPnHTR-2560-80.jpg",
-      "publishedAt": "2025-10-03T16:19:25Z",
-      "content": "When Nvidia began to disclose details about its new 4-bit floating point format — NVFP4 — earlier this year, it stated that while it is mainly designed for inference, it could also be used for AI tra… [+8421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Qualcomm's big win over Arm could reverberate throughout the industry — ALA licensees could potentially develop custom designs without renegotiating terms",
-      "description": "Qualcomm's legal victory over Arm not only secures its right to deploy Nuvia's custom CPU cores under its existing license but also sets a major industry precedent, weakening Arm’s control over licensing as it pivots toward designing its own CPUs.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/qualcomms-big-win-over-arm-could-reverberate-throughout-the-industry-ala-licensees-could-potentially-develop-custom-designs-without-renegotiating-terms",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/B9rErcZG4KV2pRhYyYM8WU-1920-80.jpg",
-      "publishedAt": "2025-10-03T16:06:22Z",
-      "content": "This week, Qualcomm secured a final legal win against Arm in a high-profile licensing dispute around CPU cores developed by Nuvia, which Qualcomm acquired in 2021. A U.S. District Court has now rejec… [+9934 chars]"
     }
   ]
 }
