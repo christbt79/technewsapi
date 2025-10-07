@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T19:07:30.518Z",
+  "fetchedAt": "2025-10-07T19:31:31.867Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Microsoft buys another 100 MW of solar, this time in Japan | TechCrunch",
+      "description": "The new deal covers output from four different solar projects. Microsoft has said it will spend $2.9 billion to expand its infrastructure in Japan.",
+      "url": "https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-182939200.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-06T19:22:53Z",
+      "content": "Microsoft is buying 100 megawatts of solar capacity from Japanese developer Shizen Energy, the latest in a string of renewable energy deals designed to power the tech company’s growing compute needs.… [+891 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "OpenAI ramps up developer push with more powerful models in its API  | TechCrunch",
+      "description": "The updates were part of a series of announcements geared towards wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
+      "url": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-3.05.51PM.png?resize=1200,527",
+      "publishedAt": "2025-10-06T19:13:40Z",
+      "content": "OpenAI unveiled new API updates at its Dev Day on Monday, introducing GPT-5 Pro, its latest language model, its new video generation model Sora 2, and a smaller, cheaper voice model.  \r\nThe updates w… [+2261 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/101642748-20130429-0903-125.jpg?v=1512406065&w=1920&h=1080",
       "publishedAt": "2025-10-03T22:45:38Z",
       "content": "CNBC's Jim Cramer on Friday guided investors through next week on Wall Street, highlighting earnings reports from McCormick and Delta Air Lines as well as Dell's analyst meeting. He also suggested th… [+3186 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z",
-      "description": "Sources: Naveen Rao’s new AI hardware startup targets $5B valuation with backing from a16z techcrunch.com",
-      "url": "https://techcrunch.com/2025/10/03/sources-naveen-raos-new-ai-hardware-startup-targets-5b-valuation-with-backing-from-a16z/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/04/Naveen-Rao-headshot.png?resize=1200,1000",
-      "publishedAt": "2025-10-03T21:57:57Z",
-      "content": "Naveen Rao, who was formerly the head of artificial intelligence at Databricks, is in talks to raise $1 billion at a $5 billion valuation for a new startup, called Unconventional, Inc., thats buildin… [+2184 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Antonio G. Di Benedetto",
-      "title": "Acer’s latest Spin 514 is so close to Chromebook greatness",
-      "description": "I was cautiously optimistic about Acer's Chromebook Plus Spin 514 when I tested a preproduction model last month, but the final unit is here now and it sticks the landing. Well, mostly. Acer's latest convertible Chromebook has zippy performance and oodles of …",
-      "url": "https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257930_Acer_Chromebook_Plus_Spin_514_ADiBenedetto_0013.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-03T21:37:49Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCrummy speakers aside, this is the convertible Chromebook to get.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statem… [+8036 chars]"
     }
   ]
 }
