@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-07T06:14:15.656Z",
+  "fetchedAt": "2025-10-07T06:45:56.755Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Mongolia to join data center frenzy with Chinggis Khaan sovereign wealth fund",
+      "description": "Mongolia plans to build more data centers as the country readies its first sovereign wealth fund, tapping to the rising global demand for data center capacity.",
+      "url": "https://www.cnbc.com/2025/10/06/mongolia-data-center-sovereign-wealth-fund-infra-projects.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207400-1759487945843-gettyimages-2158583047-AFP_34YV3TT.jpeg?v=1759487956&w=1920&h=1080",
+      "publishedAt": "2025-10-06T06:31:36Z",
+      "content": "Mongolia, long reliant on mining, plans to build data centers powered by renewable energy as it prepares its first sovereign wealth fund aimed at channeling its mineral wealth to social welfare and i… [+3840 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/102564006-college-job-fair.jpg?v=1759283393&w=1920&h=1080",
       "publishedAt": "2025-10-03T11:00:12Z",
       "content": "Students wait in line before the start a career fair at the New York University Polytechnic School of Engineering in the Brooklyn borough of New York.\r\nWith a Georgetown degree and several internship… [+8463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "U.S. model upgrades are pushing AI startups to move fast – it's unclear if Europe can keep up",
-      "description": "Frequent updates of AI models like ChatGPT and Claude are pushing companies built on top of them to iterate faster or risk falling behind.",
-      "url": "https://www.cnbc.com/2025/10/03/openai-anthropic-push-ai-startups-to-move-fast-can-europe-keep-up.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166937-1751460466152-gettyimages-2210000239-TFSPI_16042025-6546.jpeg?v=1759472466&w=1920&h=1080",
-      "publishedAt": "2025-10-03T10:54:52Z",
-      "content": "Founded in 2022, ElevenLabs is an AI voice generation startup based in London. It competes with the likes of Speechmatics and Hume AI.\r\nArtificial intelligence companies are the hottest ticket items … [+4878 chars]"
     }
   ]
 }
