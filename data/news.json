@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-10-07T15:38:41.374Z",
+  "fetchedAt": "2025-10-07T16:10:59.210Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Grab the M4 MacBook Air at a new low price at Amazon",
+      "description": "Apple has dropped the price on its latest ultraportable MacBook to a record low $799 at Amazon ahead of Prime Day.",
+      "url": "https://www.zdnet.com/article/grab-the-m4-macbook-air-at-a-new-low-price-at-amazon/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T16:02:19Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nIt's crazy to think about, but Amazon's October Prime Day kicks off tomorrow, October 7. It's a major sales event during … [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Anthropic lands its biggest enterprise deployment ever with Deloitte deal",
+      "description": "Deloitte is rolling out Anthropic's Claude to more than 470,000 employees across 150 countries.",
+      "url": "https://www.cnbc.com/2025/10/06/anthropic-deloitte-enterprise-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204189-1758834976885-gettyimages-2233950387-boivin-notitle250909_npSDA.jpeg?v=1758835007&w=1920&h=1080",
+      "publishedAt": "2025-10-06T16:00:01Z",
+      "content": "Deloitte on Monday announced a deal to bring Anthropic's artificial intelligence assistant Claude to more than 470,000 of its employees around the globe. \r\nThe rollout will be Anthropic's largest ent… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "palcorn@outlook.com (Paul Alcorn) , Paul Alcorn",
+      "title": "Best Prime Day Hard Drive deals 2025 — HDD deals you can still get from WD, Seagate, and Toshiba",
+      "description": "These are the best HDD deals, guaranteed to expand your PC's storage without emptying your wallet.",
+      "url": "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-amazon-prime-day-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/f5KGune2Aj7zUP6Th2Q7eC-2000-80.jpg",
+      "publishedAt": "2025-10-06T15:56:06Z",
+      "content": "Mechanical hard drives may seem like ancient technology, but they still provide 'good enough' performance in many applications, and easily offer the most storage capacity for the price. We've collect… [+3832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Deloitte refunds Aussie gov after AI fabrications slip into $440K welfare report",
+      "description": "Big Four consultancy billed Canberra top dollar, only for investigators to find bits written by a chatbot\nDeloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citat…",
+      "url": "https://www.theregister.com/2025/10/06/deloitte_ai_report_australia/",
+      "urlToImage": "https://regmedia.co.uk/2016/10/06/ai.jpg",
+      "publishedAt": "2025-10-06T15:55:09Z",
+      "content": "Deloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citations, phantom footnotes, and even a made-up qu… [+3353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kayla Solino",
+      "title": "This Nespresso machine brews barista-quality coffee at home, and it's priced below $150 for Prime Day",
+      "description": "Skip the coffee shop and save hundreds of dollars with this Nespresso machine for $70 off.",
+      "url": "https://www.zdnet.com/home-and-office/this-nespresso-machine-brews-barista-quality-coffee-at-home-and-its-priced-below-150-for-prime-day/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4e443bcbb6d55b8a4e4dd14831b98bc4b874c20a/2024/04/01/85d467a1-9cc1-4382-a48b-b117a335f332/img-1285.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T15:51:27Z",
+      "content": "Sabrina Ortiz/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nDoes your cup of coffee feel like it gets pricier every time you order it? \r\nYou're not a alone. ZDNET's senior AI reporte… [+2690 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory | TechCrunch",
+      "description": "19-year-old Dhravya Shah, who is originally from Mumbai, has build a memory layer for AI applications with Google's AI chief's backing.",
+      "url": "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Dhravya-Shah-Supermemory.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-06T15:47:56Z",
+      "content": "Context windows of AI models, which indicate the ability of a model to “remember” information, have increased over time. However, researchers have suggestednew ways to increase long-term memory of AI… [+4440 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Which Meta Ray-Bans model should you buy? I tested both pairs, and here's how to decide",
+      "description": "How much difference can two years make? That depends on how you judge the latest Meta Ray-Bans.",
+      "url": "https://www.zdnet.com/article/which-meta-ray-bans-model-should-you-buy-i-tested-both-pairs-and-heres-how-to-decide/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e4fd749607d36e3f109519487b370bf0966aad79/2025/09/17/5f003e20-75ab-494c-bfb4-21298db81f5a/ray-ban-meta-gen2-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T15:46:00Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Meta Ray-Bans are arguably the most successful AI hardware product in the past three years, with enough momentum to encou… [+4174 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season | TechCrunch",
+      "description": "Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/06/adobe-predicts-ai-assisted-online-shopping-to-grow-520-during-the-2025-u-s-holiday-season/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/JPM-hero-GettyImages-1492413753.jpg?resize=1200,800",
+      "publishedAt": "2025-10-06T15:41:06Z",
+      "content": "The U.S. holiday shopping season is expected to bring in $253.4 billion in online sales this year, up 5.3% year-over-year, according to a new report from Adobe’s e-commerce connected division, Adobe … [+2862 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/k69VD2pt8Ai4zZhpasMAWS-1920-80.jpg",
       "publishedAt": "2025-10-03T17:22:48Z",
       "content": "Chinese company Highlander is building a server pod near Shanghai, where it will be submerged underwater to reduce the power consumption used by the facility for cooling. According to the South China… [+2621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "Hackers stole 1 billion records from Salesforce customer databases with this simple trick - don't fall for it",
-      "description": "According to the FBI, hackers used social engineering tactics - including a new type of phishing attack - to gain access to Salesforce accounts. Here's how.",
-      "url": "https://www.zdnet.com/article/hackers-stole-1-billion-customer-records-from-salesforce-databases-with-this-simple-trick-dont-fall-for-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6231d9a1136e4a0d29f3d5f3637ca539b97371e9/2025/10/03/26078e1e-0dd5-45a6-a275-4ac1f826d76a/gettyimages-2157258952.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T17:13:20Z",
-      "content": "NurPhoto / Contributor / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Hackers claim theft of 1 billion records from Salesforce databases.</li><… [+6177 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "I’ve fallen into Sora’s slippery slop",
-      "description": "An anime version of Jesus Christ flipping tables. OpenAI employees performing in Hamilton costumes. News anchors discussing a story on television. A man doing a thirst-trap TikTok dance. Sam Altman - stealing GPUs on CCTV, listening to a business pitch, cryin…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ai-label-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-03T17:08:32Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIve fallen into Soras slippery slop\r\nOpenAI is the latest company filling your social media feed with AI but are the memes worth the harms?\r\nby\r\nHayden FieldClos… [+9609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Startups binge on AI while big firms sip cautiously, study shows",
-      "description": "Better hope that bubble doesn't pop\nThe Andreessen Horowitz venture capital firm (aka A16z) crunched startup spending data and found young firms stuffing AI into everything, while bigger businesses remain far more restrained.…",
-      "url": "https://www.theregister.com/2025/10/03/startups_binge_on_ai/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_2582185805.jpg",
-      "publishedAt": "2025-10-03T17:06:01Z",
-      "content": "The Andreessen Horowitz venture capital firm (aka A16z) crunched startup spending data and found young firms stuffing AI into everything, while bigger businesses remain far more restrained.\r\nTo see w… [+4765 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "AI data centers are swallowing the world's memory and storage supply, setting the stage for a pricing apocalypse that could last a decade",
-      "description": "As flash demand climbs and legacy DRAM supply lags, memory prices are rising across the board. Meanwhile, nearline HDD shortages are forcing hyperscalers to accelerate the adoption of QLC SSDs for roles once gated by cost, tightening both ends of the storage …",
-      "url": "https://www.tomshardware.com/pc-components/storage/perfect-storm-of-demand-and-supply-driving-up-storage-costs",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9FDNMo8RQMZVeCFzURP926-1280-80.jpg",
-      "publishedAt": "2025-10-03T17:02:39Z",
-      "content": "This free-to-access article was made possible by Tom's Hardware Premium, where you can find in-depth news analysis, features and access to Bench.\r\nNearly every analyst firm and memory maker is now wa… [+11076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Is Samsung bringing Apple-like AI notification summaries to Galaxy phones? Here's what we know",
-      "description": "A new feature for One UI 8.5 will take long notifications and make them easier to read.",
-      "url": "https://www.zdnet.com/article/is-samsung-bringing-apple-like-ai-notification-summaries-to-galaxy-phones-heres-what-we-know/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3e68f41db237bb79a0b46633e77652b49e7d4838/2025/05/12/d4028d88-319d-459b-bc72-69d871652a02/dsc05634.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T16:53:19Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung is working on a feature that notification summary feature.</li><li>The feature showed up… [+2105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "BlackRock subsidiary buys up 78 data centers totaling 5 gigawatts in $40 billion deal — AI vendor Aligned added to company's portfolio",
-      "description": "BlackRock subsidiary Global Infrastructure Partners set to buy out Aligned Data Centers for $40 billion.",
-      "url": "https://www.tomshardware.com/tech-industry/blackrock-subsidiary-buys-up-78-data-centers-totaling-5-gigawatts-in-usd40-billion-deal-ai-vendor-aligned-added-to-companys-portfolio",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QBqPxXY5AAr9Rmd9z32qJa-2560-80.jpg",
-      "publishedAt": "2025-10-03T16:52:34Z",
-      "content": "Another day, another blimp with billions flying the skies of AI. Today's currency transfer comes from BlackRock subsidiary Global Infrastructure Partners (GIP), an investment fund set to write a big … [+2187 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "OpenAI’s Sora soars to No. 1 on the US App Store",
-      "description": "Sora becomes the No. 3 US app after 164K downloads in 2 days, making the AI video app an early hit.",
-      "url": "https://techcrunch.com/2025/10/03/openais-sora-soars-to-no-1-on-the-u-s-app-store/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-03T16:48:32Z",
-      "content": "OpenAI’s Sora app for AI videos is a viral hit, despite being invite-only for now and limited to users in the U.S. and Canada at launch. On its first day, Sora saw 56,000 downloads, and is now ranked… [+2785 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Google's Gemini 2.5 Flash Image 'nano banana' model is generally available",
-      "description": "Here's who can try the generator, which now comes with new aspect ratios.",
-      "url": "https://www.zdnet.com/article/googles-gemini-2-5-flash-image-nano-banana-model-is-generally-available/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c34cb27b8a7cd2b9ffd1265e8174e9092abc604d/2025/10/03/79a8a957-ad44-4faf-b5de-529037622e00/gettyimages-1280367495.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T16:47:45Z",
-      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's state-of-the-art image model is available for all.</li… [+3466 chars]"
     }
   ]
 }
