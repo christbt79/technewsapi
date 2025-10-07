@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-07T18:13:43.833Z",
+  "fetchedAt": "2025-10-07T18:45:43.521Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Peter Lynch on why he isn't in the AI trade: 'I literally couldn't pronounce Nvidia until about 8 months ago'",
+      "description": "Lynch described himself as \"low tech\" and emphasized the importance of understanding the stocks you own.",
+      "url": "https://www.cnbc.com/2025/10/06/peter-lynch-ai-trade-investing.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107230518-1682425024898-SG-PeterLynch-01.jpg?v=1682429773&w=1920&h=1080",
+      "publishedAt": "2025-10-06T18:40:12Z",
+      "content": "Legendary investor Peter Lynch built a reputation for routinely beating the market while overseeing Fidelity Magellan Fund in the 1980s. Decades later, he has some advice for the next generation of i… [+4746 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "OpenAI's Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI",
+      "description": "OpenAI’s latest move in the race to build massive data centers in the US shows it believes demand for AI will keep surging—even as skeptics warn of a bubble.",
+      "url": "https://www.wired.com/story/openai-amd-deal-data-center-chips/",
+      "urlToImage": "https://media.wired.com/photos/68e3f1d32a7fb4206cabf17c/191:100/w_1280,c_limit/OpenAI-Blockbuster-AMD-Deal-Is-Another-Bet-on-Near-Limitless-Demand-AI-Business-2213420891.jpg",
+      "publishedAt": "2025-10-06T18:31:40Z",
+      "content": "The data center gold rush hinges in part on the idea that models will improve in line with the laws of scalingso long as theyre trained on more data and compute. There's this basic story that scale i… [+1413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "OpenAI DevDay event live updates: Agent Kit, Apps SDK, ChatGPT, and more",
+      "description": "The company has announced a new Agentic Builder, ChatGPT updates, and more.",
+      "url": "https://www.zdnet.com/article/openai-devday-event-live-updates-agent-kit-apps-sdk-chatgpt-and-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/97a409997b671b80015b391a1f74924a157d6634/2025/10/06/63706bfd-8a4a-410a-976d-e799ce507aee/img-1178-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T18:24:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOpenAI is holding its DevDay 2025 event today, Oct. 6, and the company has already teased that it has a host of product lau… [+8769 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/12820ac01e32cca73a5d555615d76e1cb9cfa4fe/2025/09/25/a153c27c-85b1-4d0d-b4d3-abbb9b0a7218/gettyimages-1828490321.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-03T21:11:36Z",
       "content": "Andriy Onufriyenko/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The AI boom has fueled hefty investments in software companies.</li><li>Yet, no… [+5335 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Bezos plan for solar powered datacenters is out of this world… literally",
-      "description": "Aspiring Bond villain believes the best place to train our AI overlords is in orbit\nAmazon founder and executive chair Jeff Bezos says that, within two decades, gigawatt-scale datacenters powered by a continuous stream of photons from the sun will fill Earth'…",
-      "url": "https://www.theregister.com/2025/10/03/bezos_space_dcs/",
-      "urlToImage": "https://regmedia.co.uk/2021/09/09/shutterstock_jeff_bezos.jpg",
-      "publishedAt": "2025-10-03T20:58:33Z",
-      "content": "Amazon founder and executive chair Jeff Bezos says that, within two decades, gigawatt-scale datacenters powered by a continuous stream of photons from the sun will fill Earth's orbit.\r\nBezos' predict… [+3497 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "One of the best Apple Watches you can buy isn't Apple's newest (but it's on sale)",
-      "description": "The Apple Watch Series 10 might be last year's model, but its specs prove it's basically as capable as the Series 11. The main difference? It's cheaper.",
-      "url": "https://www.zdnet.com/article/one-of-the-best-apple-watches-you-can-buy-isnt-apples-newest-but-its-on-sale/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/63a6143b17db99b26adcfe7564e47175f2c77e8f/2025/06/23/e2d75e91-0548-42e2-8227-b1fb66d8ddd9/dsc03792.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-03T20:56:41Z",
-      "content": "Nina Raemont/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple unveiled its triple-watch lineup at its September iPhone event. The new contenders include the base model Series 11, … [+3851 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Daniel Ek stepping down changes nothing for Spotify",
-      "description": "Spotify has found itself the target of artists' ire for many reasons over the years: poor audio quality, terrible payouts, giving Joe Rogan millions of dollars… the list goes on. But recently it's been CEO and founder Daniel Ek's extracurricular activities th…",
-      "url": "https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKP217_Daniel_Ek_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-03T20:29:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nArtists arent rushing back just because of some title changes in the C-suite.\r\nArtists arent rushing back just because of some title changes in the C-suite.\r\nby\r… [+7724 chars]"
     }
   ]
 }
