@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T10:39:47.701Z",
+  "fetchedAt": "2025-10-07T11:07:57.713Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rhett Allain",
+      "title": "How to Get Your Kids Into STEM Even When Its Future Is Uncertain",
+      "description": "Thinking about science and technology in terms of return on investment misses the point. Here’s what kids really need to know.",
+      "url": "https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/",
+      "urlToImage": "https://media.wired.com/photos/68dffd4da53aa7c33a6d9722/191:100/w_1280,c_limit/Importance-of-STEM-Culture-1499825393.jpg",
+      "publishedAt": "2025-10-06T11:00:00Z",
+      "content": "What about AI? If artificial intelligence takes over, some argue, theres little point in studying physics or any science. AI could be doing half your job before you even get your degree. But that arg… [+2540 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Mackenzie Sigalos",
+      "title": "OpenAI looks to take 10% stake in AMD through AI chip deal",
+      "description": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
+      "url": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207932-1759714573516-gettyimages-2213398756-SENATE_AI.jpeg?v=1759714728&w=1920&h=1080",
+      "publishedAt": "2025-10-06T10:54:47Z",
+      "content": "Sam Altman, chief executive officer of OpenAI, left, and Lisa Su, chair and chief executive officer of Advanced Micro Devices, arrive for a Senate Commerce, Science, and Transportation Committee hear… [+4123 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257993_Jen_Tuohy_AMA_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-03T13:03:16Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nFrom new Echo Shows and Ring doorbells, to new Nest Cams and a new Google Home smart speaker, theres a lot of new smart home gear coming. You have questions, I h… [+3457 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "New deep tech fund Wave Function Ventures raises $15 million",
-      "description": "Former SpaceX Falcon 9 engineer Jamie Gull, who started the fund, has already made nine investments.",
-      "url": "https://techcrunch.com/2025/10/03/new-deep-tech-fund-wave-function-ventures-raises-15-million/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/wave-function-ventures.jpg?resize=1200,1166",
-      "publishedAt": "2025-10-03T13:02:31Z",
-      "content": "When Jamie Gull graduated from Stanford University in 2007 with a master’s degree in aeronautics, there was one place he wanted to go next: the desert. \r\nThe Mojave desert, to be specific. A company … [+4183 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Chip designer Jim Keller says Intel still has 'a lot of work to do' — would consider it for Tenstorrent AI chip production, already in talks with TSMC, Rapidus, and Samsung for 2nm tech",
-      "description": "Chip design startup Tenstorrent has announced it'll work with TSMC and Samsung for its next-generation 2nm chips. It will also work with Japanese firm, Rapidus, and would consider Intel in the future, once it has a more defined roadmap.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chip-designer-jim-keller-says-intel-still-has-a-lot-of-work-to-do-would-consider-it-for-tenstorrent-ai-chip-production-already-in-talks-with-tsmc-rapidus-and-samsung-for-2nm-tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GjaAmh9CcQ8FWzjJmjUHaN-1920-80.jpg",
-      "publishedAt": "2025-10-03T12:27:40Z",
-      "content": "AI chip design startup, Tenstorrent, has announced it's working with a range of companies to build out its next-generation AI chips. These include TSMC, Samsung, and Japanese firm Rapidus, all of whi… [+2699 chars]"
     }
   ]
 }
