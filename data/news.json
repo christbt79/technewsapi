@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T19:31:31.867Z",
+  "fetchedAt": "2025-10-07T20:09:41.786Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Monica Bell",
+      "title": "Grab a pair of AirPods 4 for under $90 - the lowest price yet",
+      "description": "Ahead of Amazon Prime Day, Apple's latest base-model AirPods get a $40 discount, bringing them to an all-time-low price.",
+      "url": "https://www.zdnet.com/article/grab-a-pair-of-airpods-4-for-under-90-the-lowest-price-yet/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e8c4552f93d2955f78a52b121b0b19b7564fb8be/2024/09/30/4d6105bc-de3a-41c1-bb6d-262d3516613f/airpods4-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T19:48:13Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon October Prime Day starts tomorrow, but we've found some great early deals that are already live. Apple products are alw… [+2435 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Will Knight",
+      "title": "OpenAI Wants ChatGPT to Be Your Future Operation System",
+      "description": "At OpenAI’s Developer Day, CEO Sam Altman showed off apps that run entirely inside the chat window—a new effort to turn ChatGPT into a platform.",
+      "url": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/",
+      "urlToImage": "https://media.wired.com/photos/68e418e683909ddc0a48c4c8/191:100/w_1280,c_limit/OpenAI-Wants-ChatGPT-to-be-Your-Future-Operation-System-Business-2218344212.jpg",
+      "publishedAt": "2025-10-06T19:34:23Z",
+      "content": "OpenAI didnt share details around any revenue-share agreements with Canva, Zillow, Spotify, and the other apps it highlighted today.\r\nThe new SDK announcement signals a deeper commitment to working w… [+1640 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507374-104044814.jpg?v=1697237650&w=1920&h=1080",
       "publishedAt": "2025-10-03T22:58:11Z",
       "content": "Ambiq Micro: \"We got to be careful of that. There are so many good semiconductor companies out there. I'd rather see you in Broadcom.\"\r\nAlbertsons: \"I don't like Albertsons here.\"\r\nuniQure: \"...After… [+816 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "With its latest acqui-hire, OpenAI is doubling down on personalized consumer AI",
-      "description": "OpenAI is acquiring the CEO of Roi, an AI financial companion. Roi will sunset its service as its talent heads to OpenAI, ostensibly to help boost revenue in consumer apps.",
-      "url": "https://techcrunch.com/2025/10/03/with-its-latest-acqui-hire-openai-is-doubling-down-on-personalized-consumer-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-03-at-6.27.11PM.png?resize=1200,743",
-      "publishedAt": "2025-10-03T22:52:14Z",
-      "content": "OpenAI has acquired Roi, an AI-powered personal finance app. In keeping with a recent trend in the AI industry, only the CEO is making the jump.  \r\nChief executive and co-founder Sujith Vishwajith an… [+3781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cramer's week ahead: Dell's analyst meeting and earnings from McCormick, Delta",
-      "description": "CNBC's Jim Cramer on Friday guided investors through next week on Wall Street.",
-      "url": "https://www.cnbc.com/2025/10/03/cramers-week-ahead-dells-analyst-meeting-earnings-mccormick-delta.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/101642748-20130429-0903-125.jpg?v=1512406065&w=1920&h=1080",
-      "publishedAt": "2025-10-03T22:45:38Z",
-      "content": "CNBC's Jim Cramer on Friday guided investors through next week on Wall Street, highlighting earnings reports from McCormick and Delta Air Lines as well as Dell's analyst meeting. He also suggested th… [+3186 chars]"
     }
   ]
 }
