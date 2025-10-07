@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-07T13:43:11.017Z",
+  "fetchedAt": "2025-10-07T14:10:09.062Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "OpenAI and AMD link arms for AI buildout: It's a power-for-equity swap",
+      "description": "6GW chip pact sends AMD stock soaring, Nvidia has a rival for Altman biz love AMD and OpenAI have forged a 6 gigawatt agreement to power OpenAI’s AI infrastructure across multiple generations of AMD Instinct GPUs.…",
+      "url": "https://www.theregister.com/2025/10/06/openai_and_amd_join_forces/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/11/altman_shutterstock.jpg",
+      "publishedAt": "2025-10-06T14:09:33Z",
+      "content": "AMD and OpenAI have forged a 6 gigawatt agreement to power OpenAIs AI infrastructure across multiple generations of AMD Instinct GPUs.\r\nIn a statement, the chipmaker said the first deployment of MI45… [+2358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "OpenAI's Sora 2 app soars to No. 1 in the App Store - why there's a feeding frenzy to try it",
+      "description": "Many people are turning to OpenAI's Discord server, Reddit, and other spots to beg, borrow, or steal.",
+      "url": "https://www.zdnet.com/article/openais-sora-2-app-soars-to-no-1-in-the-app-store-why-theres-a-feeding-frenzy-to-try-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a76e91f06aef5fb5b3d9a433bda55c03ea46ecfc/2025/05/28/f6ddfe85-e01d-425b-baf1-760ea89d3d73/20250528-1455-futuristic-sora-iphone-simple-compose-01jwc3wb2pfv7brvwsgvt3j9rn.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T14:06:23Z",
+      "content": "Sabrina Ortiz/ZDNET via ChatGPT\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new Sora by OpenAI app is tops in Apple's App Store.</li><li>Using the Sora … [+3195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Samsung's newest Galaxy Watch 8 got me running again (and it's already on sale)",
+      "description": "The smartwatch debuted this summer, but early October Prime Day deals already cut the price down. It's a feature-rich fitness tracker I'd recommend to most people.",
+      "url": "https://www.zdnet.com/article/samsungs-newest-galaxy-watch-8-got-me-running-again-and-its-already-on-sale/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/df836bd2ce4518673ce1d902ee25a1468b656300/2025/07/23/6b8e3a0b-9e29-45b6-b35e-ffca98ce4d6d/img-7737.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T13:53:28Z",
+      "content": "What's the deal? \r\nSamsung's Galaxy Watch 8 is on sale for $330, one day ahead of October Prime Day. Could this mean that the price of the smartwatch will be cut even further during the two-day deals… [+6243 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/bL5iYiBUY2rLX6QTRp4iaU-1920-80.jpg",
       "publishedAt": "2025-10-03T15:44:37Z",
       "content": "Intel is thought to be working on its Panther Lake lineup of mobile CPUs set to release toward the end of this year or early in 2026. Beyond that, the 2026 roadmap is filled with its Nova Lake client… [+3228 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Leaked doc reveals the chaotic politics behind Trump Energy Department cuts | TechCrunch",
-      "description": "Harris-voting states were hit hardest by Department of Energy award cancellations, but not every blue-state project was cut. Politics might play a role.",
-      "url": "https://techcrunch.com/2025/10/03/leaked-doc-reveals-the-chaotic-politics-behind-trump-energy-department-cuts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205749899.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-03T15:05:57Z",
-      "content": "This week, the Department of Energy canceled nearly $8 billion worth of awards a move touted by the Trump administration as an effort to protect fossil fuels at the expense of renewables. But documen… [+3802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "How to get Sora app invite codes for OpenAI's viral AI video creator",
-      "description": "Sora has already grabbed the top spot in Apple's App Store as its number one free app, despite being invite-only.",
-      "url": "https://www.cnbc.com/2025/10/03/sora-app-invite-codes-openai-viral-ai-video.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207459-1759493869690-gettyimages-2238318028-Illustration_Sora_2.jpeg?v=1759493935&w=1920&h=1080",
-      "publishedAt": "2025-10-03T15:00:04Z",
-      "content": "OpenAI's new artificial intelligence video app Sora has already grabbed the top spot in Apple's App Store as its number one free app, despite being invite-only.\r\nSora, which was launched on Tuesday, … [+1286 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Steven Levy",
-      "title": "Sam Altman Says the GPT-5 Haters Got It All Wrong",
-      "description": "OpenAI's CEO explains that its large language model has been misunderstood—and that he's changed his attitude to AGI.",
-      "url": "https://www.wired.com/story/sam-altman-says-the-gpt-5-haters-got-it-all-wrong/",
-      "urlToImage": "https://media.wired.com/photos/68dd9017ba56dd85e2c33324/191:100/w_1280,c_limit/Backchannel-GPT5-Sam-Altman-Business-2214102480.jpg",
-      "publishedAt": "2025-10-03T15:00:00Z",
-      "content": "OpenAIs August launch of its GPT-5 large language model was somewhat of a disaster. There were glitches during the livestream, with the model generating charts with obviously inaccurate numbers. In a… [+4189 chars]"
     }
   ]
 }
