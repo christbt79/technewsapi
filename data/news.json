@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-07T22:08:25.001Z",
+  "fetchedAt": "2025-10-07T22:35:00.509Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI | TechCrunch",
+      "description": "Deloitte is rolling out Claude to its nearly 500,000 employees after issuing a refund for a report that contained AI hallucinations.",
+      "url": "https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2169550517.jpg?w=1024",
+      "publishedAt": "2025-10-06T22:33:16Z",
+      "content": "Professional services and consultant firm Deloitte announced a landmark AI enterprise deal with Anthropic the same day it was revealed the company would issue a refund for a government-contracted rep… [+3129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Iain Thomson",
+      "title": "Senate report says AI will take 97M US jobs in the next 10 years, but those numbers come from ChatGPT",
+      "description": "Bernie Sanders calls for a robot tax and a 32-hour work week in response\nai-pocalypse A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. Ther…",
+      "url": "https://www.theregister.com/2025/10/06/ai_job_losses_us_senate_report/",
+      "urlToImage": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg",
+      "publishedAt": "2025-10-06T22:27:04Z",
+      "content": "ai-pocalypse A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. There's just one … [+4464 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
+      "description": "In a Q&A with reporters Monday at OpenAI’s DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his “favorite feature we’ve launched in a long time,” and he didn’t rule out including ads in the future. Pulse is OpenAI’s l…",
+      "url": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ChatGPT_Pulse.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-06T22:10:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIn a Q&amp;A with reporters Monday at OpenAIs DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his favorite feature wev… [+2108 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207260-1759439105969-gettyimages-2205311862-TFSPI_19032025-5641.jpeg?v=1759439174&w=1920&h=1080",
       "publishedAt": "2025-10-04T12:43:47Z",
       "content": "Company: Workiva (WK)\r\nBusiness: Workiva is a provider of cloud-based reporting solutions that are designed to solve financial and non-financial business challenges at the intersection of data, proce… [+8369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Inside the uranium plant at the center of U.S. plans to expand nuclear power",
-      "description": "Urenco operates the only uranium enrichment plant in the U.S. It is boosting production as the U.S. bans Russian fuel at the same time nuclear demand grows.",
-      "url": "https://www.cnbc.com/2025/10/04/urenco-centrus-orano-enriched-uranium-nuclear-russia-ai-data-center.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201973-1758544014913-IMG_7639.jpg?v=1758632648&w=1920&h=1080",
-      "publishedAt": "2025-10-04T12:40:09Z",
-      "content": "EUNICE, NEW MEXICO Paul Lorskulsint was a shift manager at a brand new uranium enrichment facility deep in the American Southwest when catastrophe struck Japan in 2011.\r\nA massive tsunami and earthqu… [+7700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI Sam Altman and the Sora copyright gamble: 'I hope Nintendo doesn't sue us'",
-      "description": "CNBC has seen videos of characters from shows like \"SpongeBob SquarePants\" on the platform and was able to independently generate other characters.",
-      "url": "https://www.cnbc.com/2025/10/04/sora-openai-video-app.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108163503-1750799829087-gettyimages-2218344204-_75a5852_mh3s8rn5.jpeg?v=1759530558&w=1920&h=1080",
-      "publishedAt": "2025-10-04T12:00:01Z",
-      "content": "OpenAI launched short-form video app Sora this week, and users have flooded the platform with artificial intelligence-generated clips of popular brands and animated characters.\r\nThe startup could soo… [+4979 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Ultra-rare unreleased Pentium 4 with 4.0 GHz clock speed discovered — CPU-Z confirms it is an Intel Pentium Extreme Edition 980",
-      "description": "A rare Intel engineering sample from the twilight of the Pentium 4 era has surfaced on social media.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/ultra-rare-unreleased-pentium-4-with-4-0-ghz-clock-speed-discovered-cpu-z-confirms-it-is-an-intel-pentium-extreme-edition-980",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XJug87JjCAHXwHKVZzbNnE-1920-80.jpg",
-      "publishedAt": "2025-10-04T10:53:55Z",
-      "content": "A rare Intel engineering sample from the twilight of the Pentium 4 era has surfaced on social media. We’ve never seen this 4.0 GHz chip before. On Reddit, the current owner of the purported Intel Pen… [+2732 chars]"
     }
   ]
 }
