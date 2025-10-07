@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T09:37:20.594Z",
+  "fetchedAt": "2025-10-07T10:09:34.520Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "Vibe Coding Is the New Open Source—in the Worst Way Possible",
+      "description": "As developers increasingly lean on AI-generated code to build out their software—as they have with open source in the past—they risk introducing critical security failures along the way.",
+      "url": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
+      "urlToImage": "https://media.wired.com/photos/68ba13d001e4a62962c43550/191:100/w_1280,c_limit/security_vibecoding_software_failures.jpg",
+      "publishedAt": "2025-10-06T10:00:00Z",
+      "content": "Just like you probably don't grow and grind wheat to make flour for your bread, most software developers don't write every line of code in a new project from scratch. Doing so would be extremely slow… [+2588 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "OpenAI announcements make waves in stock market it has shunned",
+      "description": "Then a blog post detailing new features the company is using internally sent a fresh wave of jitters through software stocks like Atlassian Corp., already reeling from fears about AI disruption",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-06/openai-is-fast-becoming-a-whale-in-stock-market-it-has-shunned",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/murojt/article70124581.ece/alternates/LANDSCAPE_1200/2025-09-01T055818Z_199270814_RC2UMCAEZ91K_RTRMADP_3_OPENAI-INDIA.JPG",
+      "publishedAt": "2025-10-06T09:41:29Z",
+      "content": "OpenAI may not be publicly traded, but the worlds most valuable startup is increasingly making waves in the stock market.\r\nJust last week, OpenAI sent shares of e-commerce companies Shopify Inc. and … [+4416 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZmYh7SByZNPYZGMfedhERM-2000-80.jpg",
       "publishedAt": "2025-10-03T12:15:28Z",
       "content": "The U.S. and Taiwan have been engaged in months-long bipartisan trade talks since the Trump administration took over, negotiating largely around the tech both countries hold. According to Bloomberg, … [+3186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Goldman boss David Solomon warns of a stock market drawdown: ‘People won’t feel good’",
-      "description": "The Goldman Sachs CEO said AI presented opportunities, but some investors were overlooking “things you should be skeptical about.\"",
-      "url": "https://www.cnbc.com/2025/10/03/goldman-sachs-ceo-david-solomon-warns-stock-market-drawdown-is-coming.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207433-1759491949006-gettyimages-2202646094-AUSTRALIA_AFR_SUMMIT.jpeg?v=1759492612&w=1920&h=1080",
-      "publishedAt": "2025-10-03T12:02:57Z",
-      "content": "David Solomon, chief executive officer of Goldman Sachs.\r\nStock markets are due a \"drawdown\" in the next year or two after years of being propelled to record highs by an AI frenzy, according to Goldm… [+3419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Property tech 'winter' is over, but climate investment is still struggling, says Fifth Wall CEO",
-      "description": "Higher interest rates, a capital market retraction and a push by almost all venture capital into AI collectively hit property tech hard.",
-      "url": "https://www.cnbc.com/2025/10/03/fifth-wall-ceo-property-tech-winter.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108205276-1759172450928-BFW.JPG?v=1759172592&w=1920&h=1080",
-      "publishedAt": "2025-10-03T12:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4306 chars]"
     }
   ]
 }
