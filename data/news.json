@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-07T23:08:16.456Z",
+  "fetchedAt": "2025-10-07T23:31:26.225Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Cerebras CEO insists dinner-plate-sized chip startup will still go public",
+      "description": "Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so m…",
+      "url": "https://www.theregister.com/2025/10/06/cerebras_ipo_rest/",
+      "urlToImage": "https://regmedia.co.uk/2022/11/14/andromeda_supercomputer_cerebras.jpg",
+      "publishedAt": "2025-10-06T23:30:09Z",
+      "content": "Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation. \r\nAmid growing concerns of an AI bubble… [+2561 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/191:100/w_1280,c_limit/EARLY%20PRIME%20DAY%20DEALS_A.jpg",
       "publishedAt": "2025-10-04T17:07:10Z",
       "content": "Its that time of year again, and Prime Day deals are back. The Amazon Prime Big Deal Days eventalso known as Amazon Prime Day 2is officially arriving on October 7 and 8, but early deals have already … [+7087 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Instacrops will demo its water-saving, crop-boosting AI at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "Agriculture consumes a vast amount of water, and some countries are under more stress than others. Instacrops pivoted to AI to help farmers cut water use by 30%.",
-      "url": "https://techcrunch.com/2025/10/04/instacrops-will-demo-its-water-saving-crop-boosting-ai-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1007976994.jpeg?resize=1200,740",
-      "publishedAt": "2025-10-04T16:31:33Z",
-      "content": "Agriculture is a thirsty industry, consuming 70% of all fresh water used worldwide. In some countries, like India or Chile, it can be more than 90%.\r\nFor Mario Bustamante, who lives in Chile, the pro… [+2229 chars]"
     }
   ]
 }
