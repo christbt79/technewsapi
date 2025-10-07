@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T10:09:34.520Z",
+  "fetchedAt": "2025-10-07T10:39:47.701Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Jaguar Land Rover engines ready to roar again after weeks-long cyber stall",
+      "description": "No confirmed date but workers expected to return in the coming days\nJaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to The Reg.…",
+      "url": "https://www.theregister.com/2025/10/06/jlr_phased_production/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/06/jaguar_landrover_car.jpg",
+      "publishedAt": "2025-10-06T10:28:05Z",
+      "content": "Jaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to The Reg.\r\nThe cyber-stricken automaker did not commit to a firm restart date, but t… [+3952 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Sora provides better control over videos featuring your AI self",
+      "description": "Sora now lets you rein in your AI doubles, giving you more say on how and where deepfake versions of you make an appearance on the app. The update lands as OpenAI hurries to show it actually cares about its users’ concerns as an all-too-predictable tsunami of…",
+      "url": "https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-06T10:23:34Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt wont help stop the avalanche of AI slop OpenAI has unleashed.\r\nIt wont help stop the avalanche of AI slop OpenAI has unleashed.\r\nby\r\nRobert HartClose\r\nRobert … [+3219 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/GjaAmh9CcQ8FWzjJmjUHaN-1920-80.jpg",
       "publishedAt": "2025-10-03T12:27:40Z",
       "content": "AI chip design startup, Tenstorrent, has announced it's working with a range of companies to build out its next-generation AI chips. These include TSMC, Samsung, and Japanese firm Rapidus, all of whi… [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "All eyes on markets for AI Bubble Watch: Is it a Floater or a Popper?",
-      "description": "Exploding valuations and mountains of debt co-exist with a US government shutdown. How long can we stay on the hype-cycle rollercoaster?\nAnalysis In an employee share sell-off this week, OpenAI achieved a nominal value of $500 billion. In terms of valuation, …",
-      "url": "https://www.theregister.com/2025/10/03/ai_bubble_watch_markets/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_market.jpg",
-      "publishedAt": "2025-10-03T12:23:12Z",
-      "content": "Analysis In an employee share sell-off this week, OpenAI achieved a nominal value of $500 billion. In terms of valuation, the posterchild of GenAI which is yet to make a profit left in its dust compa… [+5449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Taiwan proposes strategic tech alliance with the White House — \"Taiwan Model\" would help companies invest easily in the U.S. to satisfy demands",
-      "description": "The \"Taiwan Model\" has been proposed by a new delegation that seeks to form a high-tech alliance between Taiwan and the U.S., whereby the former will help its companies make investments in the U.S. to satisfy demands for expansion into the country.",
-      "url": "https://www.tomshardware.com/tech-industry/taiwan-proposes-strategic-tech-alliance-with-the-white-house-taiwan-model-would-help-companies-invest-easily-in-the-u-s-to-satisfy-demands",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZmYh7SByZNPYZGMfedhERM-2000-80.jpg",
-      "publishedAt": "2025-10-03T12:15:28Z",
-      "content": "The U.S. and Taiwan have been engaged in months-long bipartisan trade talks since the Trump administration took over, negotiating largely around the tech both countries hold. According to Bloomberg, … [+3186 chars]"
     }
   ]
 }
