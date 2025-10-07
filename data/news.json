@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T22:35:00.509Z",
+  "fetchedAt": "2025-10-07T23:08:16.456Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "OpenAI's Altman calls AI sector 'bubbly', but says we shouldn't worry - here's why",
+      "description": "On the heels of a massive compute deal with AMD, OpenAI stresses value of investments in AI space.",
+      "url": "https://www.zdnet.com/article/openais-altman-calls-ai-sector-bubbly-but-says-we-shouldnt-worry-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/571d34f4ce44bfcf046d48b8037683b5f928c756/2025/10/06/526f1c81-a83e-4d7b-90e0-134cd60778c9/fullsizerender-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T23:06:51Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI partners with AMD to utilize GPUs for its AI infrastructure.</li><li>OpenAI CEO Sam A… [+4789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer says OpenAI might be developing an edge after inking deal with AMD",
+      "description": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race on Monday.",
+      "url": "https://www.cnbc.com/2025/10/06/jim-cramer-openai-amd.html",
+      "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804&w=1920&h=1080",
+      "publishedAt": "2025-10-06T22:41:46Z",
+      "content": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race, saying OpenAI's latest deal with chipmaker AMD makes the ChatGPT owner more competitive.\r\n\"The hyperscalers are all vul… [+2503 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1007976994.jpeg?resize=1200,740",
       "publishedAt": "2025-10-04T16:31:33Z",
       "content": "Agriculture is a thirsty industry, consuming 70% of all fresh water used worldwide. In some countries, like India or Chile, it can be more than 90%.\r\nFor Mario Bustamante, who lives in Chile, the pro… [+2229 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Sam Altman says Sora will add ‘granular,’ opt-in copyright controls",
-      "description": "OpenAI may be reversing course on how it approaches copyright and intellectual property in its new video app Sora.",
-      "url": "https://techcrunch.com/2025/10/04/sam-altman-says-sora-will-add-granular-opt-in-copyright-controls/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-04T16:26:50Z",
-      "content": "OpenAI may be reversing course on how it approaches copyright and intellectual property in its new video app Sora.\r\nPrior to Soras launch this week, The Wall Street Journal reported that OpenAI had b… [+2160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Activist Irenic builds a stake in Workiva, hoping to gain a voice on the software company's board",
-      "description": "The activist investor is calling on Workiva to review strategic alternatives and refresh its board after years of posting losses.",
-      "url": "https://www.cnbc.com/2025/10/04/activist-irenic-builds-a-stake-in-workiva-hoping-to-gain-two-board-seats.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207260-1759439105969-gettyimages-2205311862-TFSPI_19032025-5641.jpeg?v=1759439174&w=1920&h=1080",
-      "publishedAt": "2025-10-04T12:43:47Z",
-      "content": "Company: Workiva (WK)\r\nBusiness: Workiva is a provider of cloud-based reporting solutions that are designed to solve financial and non-financial business challenges at the intersection of data, proce… [+8369 chars]"
     }
   ]
 }
