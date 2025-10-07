@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T21:07:46.808Z",
+  "fetchedAt": "2025-10-07T21:31:17.764Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Amazing is selling the M3 MacBook Air for its lowest price yet - how the deal works",
+      "description": "Apple has dropped the price on its latest ultraportable MacBook to a record low $799 at Amazon ahead of Prime Day.",
+      "url": "https://www.zdnet.com/article/amazing-is-selling-the-m3-macbook-air-for-its-lowest-price-yet-how-the-deal-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T21:28:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nIt's crazy to think about, but Amazon's October Prime Day kicks off tomorrow, Oct. 7. It's a major sales event during whi… [+2328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win'",
+      "description": "The Altimeter Capital founder said the deals provide \"more evidence that the world will remain compute-constrained.\"",
+      "url": "https://www.cnbc.com/2025/10/06/gerstner-open-ai-amd-nvidia-chips.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308533-1695926023092-107308533-1695924795035-IMG_6662.jpg?v=1706571689&w=1920&h=1080",
+      "publishedAt": "2025-10-06T21:18:01Z",
+      "content": "Investor Brad Gerstner cautioned Monday that OpenAI's deals with Nvidia and AMD are purely announcements, not deployments. \r\n\"Now we will see what gets delivered,\" the Altimeter Capital founder told … [+1536 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/d242bfffa0797366bcb6cc23160b9c32b1646140/2025/10/03/4c619f03-b973-40c8-98fa-6269bda23180/gettyimages-1447956741.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-04T10:00:32Z",
       "content": "NeoLeo/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Tech hiring for the next quarter is steady compared to a year ago.</li><li>AI … [+5774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "Do you even need USB-C charging cables if this portable battery exists? My verdict after testing",
-      "description": "Drones, action cams, gimbals, and mics all demand serious power - and this Baseus power bank delivers exactly that.",
-      "url": "https://www.zdnet.com/home-and-office/energy/do-you-even-need-usb-c-charging-cables-if-this-portable-battery-exists-my-verdict-after-testing/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7cd75f7699f5eb9fdfc15e5dd70f092b7bc95ce5/2025/09/26/088535c2-8991-4790-9ad8-e55c09c22958/img-5343.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-04T10:00:24Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've noticed that when I'm in content creator mode and packing my favorite portable drone, action cameras, pocket-sized gimbal camera and portab… [+3411 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets",
-      "description": "Plus: Whoop lets you order blood tests, Arlo refreshes its security camera lineup, and Roland unveils a new analog drum machine.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/",
-      "urlToImage": "https://media.wired.com/photos/68e0778331ef4c178fea6ef9/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week%20October%204.png",
-      "publishedAt": "2025-10-04T10:00:00Z",
-      "content": "Adobe has had a busy year designing and redesigning a number of its most popular apps for mobile, and Premiere for iPhone is the latesta mobile-first video editing workflow that adapts most of the to… [+4821 chars]"
     }
   ]
 }
