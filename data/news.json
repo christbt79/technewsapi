@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-07T14:10:09.062Z",
+  "fetchedAt": "2025-10-07T14:41:12.579Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Acer chief says Nvidia’s Intel investment will complicate PC supply chains — says Lutnick's 50/50 proposal could take 50 years to realize",
+      "description": "Acer CEO Jason Chen says that the Nvidia-Intel partnership could potentially complicate product planning and placement for PC makers.",
+      "url": "https://www.tomshardware.com/tech-industry/acer-chief-says-nvidias-intel-investment-will-complicate-pc-supply-chains-says-lutnicks-50-50-proposal-could-take-50-years-to-realize",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q2d6FdmapiXuedESvcJLza-1920-80.jpg",
+      "publishedAt": "2025-10-06T14:39:29Z",
+      "content": "Acer Chairman and CEO Jason Chen stated during the company’s annual Long Time Smile Awards that the Nvidia–Intel partnership, which will produce new x86 chips, could potentially complicate the PC sup… [+2710 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025",
+      "description": "Microsoft CTO Kevin Scott joins the Disrupt Stage at TechCrunch Disrupt 2025 to share how one of the world’s largest technology companies is navigating the AI revolution and what it means for startups and the future of innovation. Register now to join.",
+      "url": "https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Kevin-Scott-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-06T14:30:00Z",
+      "content": "Microsoft CTO Kevin Scott joins the Disrupt Stage at TechCrunch Disrupt 2025 to share how one of the worlds largest technology companies is navigating the AI revolution and what it means for startups… [+1381 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/B9rErcZG4KV2pRhYyYM8WU-1920-80.jpg",
       "publishedAt": "2025-10-03T16:06:22Z",
       "content": "This week, Qualcomm secured a final legal win against Arm in a high-profile licensing dispute around CPU cores developed by Nuvia, which Qualcomm acquired in 2021. A U.S. District Court has now rejec… [+9934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Quantum stocks Rigetti Computing and D-Wave surged double-digits this week. Here's what's driving the big move",
-      "description": "Nvidia highlighted accelerated computing, which it argues can make \"quantum computing breakthroughs of today and tomorrow possible.\"",
-      "url": "https://www.cnbc.com/2025/10/03/quantum-stocks-rigetti-computing-d-wave.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108133732-1744950858083-Chandelier-thumb.jpg?v=1759505467&w=1920&h=1080",
-      "publishedAt": "2025-10-03T15:58:05Z",
-      "content": "Quantum computing stocks are wrapping up a big week of double-digit gains.\r\nShares of Rigetti Computing, D-Wave Quantum and Quantum Computing have surged more than 20%. Rigetti and D-Wave Quantum hav… [+843 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Intel's next-gen Nova Lake and Diamond Rapids microarchitectures get official confirmation — Latest ISA reference doc details the P-Cores and E-Cores upcoming CPUs will use",
-      "description": "Intel's upcoming client and server CPUs will use brand new core micro-architectures, as confirmed by the latest edition of the ISA reference doc. Nova Lake client processors will use Coyote Cove P-Cores and Arctic Wolf E-Cores, while Diamond Rapids workstatio…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-next-gen-nova-lake-and-diamond-rapids-microarchitectures-get-official-confirmation-latest-isa-reference-doc-details-the-p-cores-and-e-cores-upcoming-cpus-will-use",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bL5iYiBUY2rLX6QTRp4iaU-1920-80.jpg",
-      "publishedAt": "2025-10-03T15:44:37Z",
-      "content": "Intel is thought to be working on its Panther Lake lineup of mobile CPUs set to release toward the end of this year or early in 2026. Beyond that, the 2026 roadmap is filled with its Nova Lake client… [+3228 chars]"
     }
   ]
 }
