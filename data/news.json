@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-07T17:07:58.576Z",
+  "fetchedAt": "2025-10-07T17:36:16.789Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Best Amazon Prime Day Apple deals in October 2025: Save up to 32% on MacBook, AirPods, and more",
+      "description": "Amazon's October Prime Day is tomorrow, but I've already found some great deals on Apple tech, including iPhones, AirPods, iPads, and Apple Watches.",
+      "url": "https://www.zdnet.com/article/amazon-prime-day-apple-deals-10-6-2025/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/53559b4d6d01ddfffe25394374e7114e6d67ae12/2025/09/19/a4483bbe-60ca-4f16-88c9-523265487581/zdnet-prime-day-apple.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T17:35:22Z",
+      "content": "October is here, and Amazon's Prime Big Deal Days sale is one day away. \r\nThe fall sale -- also known as October Prime Day -- runs from Oct. 7-8. We expect to see Apple deals available not just on Am… [+6321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "OpenAI DevDay event live updates: AI wearable announcement likely",
+      "description": "We are expecting the highly anticipated AI wearable, a new Agentic Builder, ChatGPT updates, and more.",
+      "url": "https://www.zdnet.com/article/openai-devday-event-live-updates-ai-wearable-announcement-likely-how-to-watch/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/97a409997b671b80015b391a1f74924a157d6634/2025/10/06/63706bfd-8a4a-410a-976d-e799ce507aee/img-1178-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-06T17:34:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOpenAI is holding its DevDay 2025 event today, Oct. 6, and the company has already teased that it has a host of product lau… [+4808 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Sam Altman says ChatGPT has hit 800M weekly active users",
+      "description": "OpenAI CEO Sam Altman said Monday at Dev Day that ChatGPT has reached 800 million weekly active users, marking an increase of adoption among consumers, developers, enterprises, and governments.",
+      "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
+      "publishedAt": "2025-10-06T17:30:27Z",
+      "content": "OpenAI CEO Sam Altman said Monday that ChatGPT has reached 800 million weekly active users, marking an increase of adoption among consumers, developers, enterprises, and governments.  \r\nChatGPT’s imp… [+1420 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers, Rebecca Bellan",
+      "title": "Meta Llama: Everything you need to know about the open generative AI model",
+      "description": "Here's everything you need to know about Meta’s Llama, from its capabilities and editions to where you can use it. We'll keep this post updated as Meta releases upgrades and introduces new dev tools to support the model's use.",
+      "url": "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-959993436-e1718640411389.jpg?resize=1200,675",
+      "publishedAt": "2025-10-06T17:11:50Z",
+      "content": "Like every Big Tech company these days, Meta has its own flagship generative AI model, called Llama. Llama is somewhat unique among major models in that it’s “open,” meaning developers can download a… [+9290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cerebras CEO explains IPO withdrawal, says it still intends to go public",
+      "description": "Cerebras wants to give investors clearer information on its strategy, but CEO Andrew Feldman didn't provide a timeline for a new filing.",
+      "url": "https://www.cnbc.com/2025/10/06/cerebras-ceo-says-company-still-intends-to-go-public.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208243-1759766925216-gettyimages-2152329941-CEREBRASCHIP.jpeg?v=1759766998&w=1920&h=1080",
+      "publishedAt": "2025-10-06T17:08:14Z",
+      "content": "Cerebras CEO Andrew Feldman admitted that his artificial intelligence chipmaker made a mistake last week when it didn't immediately explain its decision to withdraw its registration for an IPO.\r\nIn a… [+1738 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ee8b805d39516a6e148592751204316d6a3510f0/2025/07/02/5b987e1d-7735-480f-ab9d-984f61237767/dsc06221.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-03T19:30:00Z",
       "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung's hidden \"Connectivity Labs\" unlocks secret Wi-Fi tools.</li><li>Features include Wi-Fi … [+1719 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Gemini AI app could soon be getting a big makeover",
-      "description": "Google's Gemini AI app is getting a redesign with suggested prompts, a reverse engineer finds.",
-      "url": "https://techcrunch.com/2025/10/03/googles-gemini-ai-app-could-soon-be-getting-a-big-makeover/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
-      "publishedAt": "2025-10-03T19:18:43Z",
-      "content": "After the success of OpenAI’s video editing app Sora, now at the top of the U.S. App Store, Google may be looking to give its Gemini AI app a more visually focused revamp. The company is seemingly ex… [+1942 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Alex Heath",
-      "title": "Tales from the AI hiring frenzy",
-      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. The billboard didn't say \"Listen Labs.\" It didn't say anything about hiring. It consisted of just a plain white ba…",
-      "url": "https://www.theverge.com/column/791572/ai-hiring-frenzy-startup-challenges",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/unnamed.jpg?quality=90&strip=all&crop=0%2C20.482863457416%2C100%2C59.034273085168&w=1200",
-      "publishedAt": "2025-10-03T19:18:43Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf youre not OpenAI or Anthropic, hiring is more challenging than ever.\r\nIf youre not OpenAI or Anthropic, hiring is more challenging than ever.\r\nby\r\nAlex HeathC… [+5253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Google goes straight to shell with AI command line coding tool",
-      "description": "Devs live in terminals - now Jules does too\nIn the beginning was the command line, and despite all the machine-learning froth, developers still live there. That is why Google has shoved its Jules coding agent into a terminal with a new tool it calls Jules Too…",
-      "url": "https://www.theregister.com/2025/10/03/google_ai_command_line/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/03/shutterstock_1232410663.jpg",
-      "publishedAt": "2025-10-03T18:46:03Z",
-      "content": "In the beginning was the command line, and despite all the machine-learning froth, developers still live there. That is why Google has shoved its Jules coding agent into a terminal with a new tool it… [+2986 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Can you think like a YC partner? This game will help you find out | TechCrunch",
-      "description": "The YC Partner Simulator game, created by an undergrad in Berlin, lets you see if you can predict what startups get into Y Combinator.",
-      "url": "https://techcrunch.com/2025/10/03/can-you-think-like-a-yc-partner-this-game-will-help-you-find-out/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/yc-sf.jpg?resize=1200,645",
-      "publishedAt": "2025-10-03T18:40:54Z",
-      "content": "Welcome to YC Arena, which is not a top secret fight club for Y Combinator founders, but a suite of games that give you a vague sense of what it’s like to be a partner at YC.\r\nCreated by a student in… [+3356 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "Can AI companies turn brainrot into revenue? | TechCrunch",
-      "description": "Watch as Equity hosts break down how the government shutdown may threaten startups and why AI companies are scrambling to turn brainrot into revenue.",
-      "url": "https://techcrunch.com/video/can-ai-companies-turn-brainrot-into-revenue/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-03T18:22:32Z",
-      "content": "The U.S. government shutdown that began this week is the first in seven years. While it might not feel immediately disruptive, for startups waiting on permits, visas, or regulatory approvals, even a … [+567 chars]"
     }
   ]
 }
