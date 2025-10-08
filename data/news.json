@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-08T15:38:17.245Z",
+  "fetchedAt": "2025-10-08T16:11:26.198Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oracle stock slips 5% on report company is seeing thin cloud margins from Nvidia chips",
+      "description": "Oracle had 14% gross margins on $900 million in sales in its Nvidia cloud business in the three months ending in August, according to the report.",
+      "url": "https://www.cnbc.com/2025/10/07/oracle-stock-nvidia-chip-margins.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203265-1758719646927-gettyimages-2236587647-STARGATE_DATA_CENTER.jpeg?v=1759852567&w=1920&h=1080",
+      "publishedAt": "2025-10-07T16:06:04Z",
+      "content": "Oracle stock slipped 5% on Tuesday after a report from The Information that raised questions about the company's plans to buy billions of Nvidia chips to rent as a cloud provider to clients like Open… [+964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "You can use ChatGPT to build a personalized Spotify playlist now - here's how",
+      "description": "ChatGPT can see your Spotify history and make recommendations.",
+      "url": "https://www.zdnet.com/article/you-can-use-chatgpt-to-build-a-personalized-spotify-playlist-now-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6941543620095e71e98de3219c91550c2758b7e2/2025/10/07/1c3c79b2-f4e0-498f-bc55-a54b4940151b/you-can-now-use-chatgpt-to-build-a-personalized-spotify-playlist-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T16:05:22Z",
+      "content": "Spotify / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>You can now connect ChatGPT to your Spotify account.</li><li>With a promp… [+2738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "97% of companies struggle to prove AI's ROI - but these 5 expert tips can help",
+      "description": "Measuring AI ROI doesn't have to be an intractable challenge.",
+      "url": "https://www.zdnet.com/article/97-of-companies-struggle-to-prove-ais-roi-but-these-5-expert-tips-can-help/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c252e8d84cc9bbc4c1e03340e4a8b352645c9c28/2025/10/07/25a29937-68ce-4387-9169-2504ee11be39/gettyimages-1338806093.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T16:04:24Z",
+      "content": "MirageC / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most business leaders struggle to prove the value of AI projects.</li><li>Succe… [+7219 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoë Schiffer, Louise Matsakis",
+      "title": "OpenAI Sneezes, and Software Firms Catch a Cold",
+      "description": "OpenAI revealed last week the custom AI tools it uses internally. The news sent some software companies into turmoil.",
+      "url": "https://www.wired.com/story/openai-chatgpt-docusign-saas-market/",
+      "urlToImage": "https://media.wired.com/photos/68e439afe05a13eb9d10f152/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Tanks-DocuSign-Stocks-Business.jpg",
+      "publishedAt": "2025-10-07T16:00:00Z",
+      "content": "Allan Thygesen, the CEO of Docusign, was not particularly concerned when he saw the news last week that OpenAI had created an internal tool called DocuGPT. He might have preferred that OpenAI choose … [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "The Editors of Tom's Hardware",
+      "title": "Grab a 4TB SSD for 5 cents per gigabyte during Prime Day sales – 8TB models start as low as 7 cents per GB",
+      "description": "Roomy 4TB SSDs have dropped precipitously in price in recent years, and even some 8TB models are inching closer to affordability.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/best-4tb-and-8tb-ssds-5-cents-per-gigabyte-gb-deals-2025",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzJ6zGwM7otWrJ8BNVVae9-1288-80.jpg",
+      "publishedAt": "2025-10-07T15:59:08Z",
+      "content": "We've seen a lot of great deals and sales on SSDs in recent months, and Amazon Prime Big Deals Day brings yet more. However, larger forces, like tariffs and geopolitical issues, threaten to push pric… [+5121 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/a76e91f06aef5fb5b3d9a433bda55c03ea46ecfc/2025/05/28/f6ddfe85-e01d-425b-baf1-760ea89d3d73/20250528-1455-futuristic-sora-iphone-simple-compose-01jwc3wb2pfv7brvwsgvt3j9rn.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-06T14:06:23Z",
       "content": "Sabrina Ortiz/ZDNET via ChatGPT\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new Sora by OpenAI app is tops in Apple's App Store.</li><li>Using the Sora … [+3195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Samsung's newest Galaxy Watch 8 got me running again (and it's already on sale)",
-      "description": "The smartwatch debuted this summer, but early October Prime Day deals already cut the price down. It's a feature-rich fitness tracker I'd recommend to most people.",
-      "url": "https://www.zdnet.com/article/samsungs-newest-galaxy-watch-8-got-me-running-again-and-its-already-on-sale/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/df836bd2ce4518673ce1d902ee25a1468b656300/2025/07/23/6b8e3a0b-9e29-45b6-b35e-ffca98ce4d6d/img-7737.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T13:53:28Z",
-      "content": "What's the deal? \r\nSamsung's Galaxy Watch 8 is on sale for $330, one day ahead of October Prime Day. Could this mean that the price of the smartwatch will be cut even further during the two-day deals… [+6243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kayla Solino",
-      "title": "Best Amazon Prime Day laptop deals 2025: My 30 favorites sales live now",
-      "description": "Amazon October Prime Day starts tomorrow, but the laptop deals are already heating up. Here are the best we've found, from Apple, Lenovo, HP, and more.",
-      "url": "https://www.zdnet.com/article/best-amazon-october-prime-day-laptop-deals-10-06/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/07d39047f79390eb7d2cd73d658457bf0994e14d/2024/07/16/86339527-37bb-4901-86cf-7fc4714c0601/laptops-prime-day-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T13:36:00Z",
-      "content": "Prime Big Deal Days is Amazon's biggest sale event of the year, and it's almost here, from October 7th to the 8th. Some of the best laptop discounts are live right now, though, including several of t… [+5427 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "AMD to supply 6GW of compute capacity to OpenAI in chip deal worth tens of billions | TechCrunch",
-      "description": "AMD has signed a multi-year chip supply deal with OpenAI that could generate tens of billions in revenue for the chipmaker, helping accelerate its momentum in the AI industry.",
-      "url": "https://techcrunch.com/2025/10/06/amd-to-supply-6gw-of-compute-capacity-to-openai-in-chip-deal-worth-tens-of-billions/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2215621025.jpg?w=1024",
-      "publishedAt": "2025-10-06T13:34:35Z",
-      "content": "AMD has signed a multi-year chip supply deal with OpenAI that could generate tens of billions in revenue for the chipmaker, helping accelerate its momentum in the AI industry. \r\nAMD has agreed to sup… [+2502 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Joanna Stern",
-      "title": "Rivian CEO: ‘We’re really convicted’ about skipping CarPlay",
-      "description": "Hello, and welcome to Decoder! My guest today is Rivian CEO RJ Scaringe, and I’m very excited to be talking to him on my show today. And when I say my show… I mean Nilay Patel’s show. This is my final episode filling in for Nilay while he’s out on parental le…",
-      "url": "https://www.theverge.com/podcast/790685/rivian-ceo-rj-scaringe-r2-tariffs-china-ev-apple-carplay",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-RJ-Scaringe.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "publishedAt": "2025-10-06T13:14:38Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nRivian CEO: Were really convicted about skipping CarPlay\r\nRJ Scaringe on not politicizing his companys brand and dealing with tariffs, China, and the road to for… [+46489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "Google's new Jules Tools is very cool - how I'm using it and other Gemini AI CLIs",
-      "description": "Jules Tools has quietly joined Gemini CLI and GitHub Actions in Google's lineup. Here's how these command-line agents differ.",
-      "url": "https://www.zdnet.com/article/googles-new-jules-tools-is-very-cool-how-im-using-it-and-other-gemini-ai-clis/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a3506edeca9b7fddba92eb62b09fc8c79b0c7008/2025/10/06/22a042b3-7d47-4a15-9d37-f69cd4781725/new-jules-tools-cli-blends-cloud-autonomy-with-terminal-control.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T13:12:57Z",
-      "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google now has three AI CLIs for different workflows.</li><li>Gemini CLI … [+8608 chars]"
     }
   ]
 }
