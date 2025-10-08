@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-08T12:18:16.527Z",
+  "fetchedAt": "2025-10-08T13:02:24.547Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray",
+      "title": "DeepSeek claims its new AI model can cut the cost of predictions by 75% - here's how",
+      "description": "The Chinese startup is once again exploiting the computing principle known as sparsity.",
+      "url": "https://www.zdnet.com/article/deepseek-claims-its-new-ai-model-can-cut-the-cost-of-predictions-by-75-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b33c18b8e98366b7ffa8a8b2536579419083dbbb/2025/10/07/43a4234d-b408-445d-ae19-5cabb7c2eecc/deepseek.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T13:01:39Z",
+      "content": "Nikolas Kokovlis/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>DeepSeek unveils a new AI model focused on cost efficiency.</li><li>The… [+5908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Qualcomm acquires Italian hardware company Arduino to push deeper into robotics",
+      "description": "Arduino's inexpensive programmable boards are ubiquitous inside hardware startups and robotics labs for prototyping.",
+      "url": "https://www.cnbc.com/2025/10/07/qualcomm-acquires-italian-hardware-company-arduino-in-robotics-play-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178364-1753794610196-gettyimages-2147877328-cros-notitle240228_np4fK.jpeg?v=1753794656&w=1920&h=1080",
+      "publishedAt": "2025-10-07T13:00:01Z",
+      "content": "Qualcomm wants to get closer to robot makers.\r\nThe company said Tuesday that it's acquiring Arduino, an electronics maker whose inexpensive programmable circuit boards and computers are common in har… [+3203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Berlind",
+      "title": "Unchecked AI agents could be disastrous for us all - but OpenID Foundation has a solution",
+      "description": "OpenID Foundation is urging organizations to treat autonomous agents as first-class citizens and adopt standards to govern their access and behavior. Here's why.",
+      "url": "https://www.zdnet.com/article/unchecked-ai-agents-could-be-disastrous-for-us-all-but-openid-foundation-has-a-solution/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f8221c201437c7d4aef310cdd487e0764a6ef1dc/2025/10/07/f5d6a198-72eb-409c-a637-177feb4857f4/gettyimages-2219277219.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T13:00:00Z",
+      "content": "Richard Drury / DigitalVision / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>AI agents pose risks to sensitive business information and processes.… [+8780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Are voice translation earbuds actually viable in public? I tested some, here's my advice",
+      "description": "I've tested numerous earbuds with all manner of promises, but the Viaim RecDot have something I've seen on only a few pairs.",
+      "url": "https://www.zdnet.com/article/are-voice-translation-earbuds-actually-viable-in-public-i-tested-some-heres-my-advice/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/55de8eb23a97f03abdf128b22d6eb38e8085ee44/2025/09/30/561053b9-6723-4412-8953-22da67d411a8/viaimhand.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T12:53:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Texas Instruments to cut 183 positions in its North Texas facilities, claims report — about 400 employees in total expected to be laid off due to closure of older plants",
+      "description": "Texas Instruments is closing its older 150mm fabs, with the company laying off employees working in these older sites.",
+      "url": "https://www.tomshardware.com/tech-industry/texas-instruments-to-cut-183-positions-in-its-north-texas-facilities-claims-report-about-400-employees-in-total-expected-to-be-laid-off-due-to-closure-of-older-plants",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TEyqU38R2uaPs6W6wJixB6-2000-80.jpg",
+      "publishedAt": "2025-10-07T12:43:09Z",
+      "content": "Texas Instruments has reportedly notified employees of up to 400 layoffs as the company wraps up the operation of its older 150-millimeter facilities in Dallas and Sherman, according to KXII. As repo… [+2532 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Amkor breaks ground on Arizona advanced packaging campus, plugging critical gap in US semiconductor supply chain — production expected in 2028, investment could extend to $7 billion with 3,000 jobs in tow",
+      "description": "Amkor has broken ground on a new semiconductor packaging and test campus in Peoria, Arizona, marking a rare domestic expansion in one of the industry’s most critical and capacity-constrained areas.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amkor-breaks-ground-on-arizona-advanced-packaging-campus",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HgEVGyH8PSqV3Uurqa49Ra-1309-80.png",
+      "publishedAt": "2025-10-07T12:18:18Z",
+      "content": "Amkor has broken ground on a new semiconductor packaging and test campus in Peoria, Arizona, marking a rare domestic expansion in one of the industry’s most critical and capacity-constrained areas. T… [+2719 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/08/12/ai.jpg",
       "publishedAt": "2025-10-06T08:01:03Z",
       "content": "Sponsored PostHere's the contradiction grinding on enterprise IT leaders like you: AI's value lives in your unstructured content (the sprawling information corpus that actually runs the business). Yo… [+3643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Apple's M4 MacBook Pro is $200 off ahead of Prime Day",
-      "description": "Multiple variants of Apple's latest flagship laptop have received discounts in the lead-up to Amazon's October Prime Day.",
-      "url": "https://www.zdnet.com/article/apples-m4-macbook-pro-is-200-off-ahead-of-prime-day/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4d49a453adf309775080f432b6e5466f8e0e84e1/2024/11/06/5deaa4ab-7b44-4b09-984f-5e0d38f4a272/dsc02534-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T08:00:43Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nWhen Apple's M4 processor came to the MacBook Pro laptop line, we noted how it improved upon the already powerful M3 Pro and M… [+3263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Paul Kunert",
-      "title": "AI: the ultimate slacker's dream come true",
-      "description": "Microsoft's Copilot helping workers perfect the ancient art of doing bugger all\nIt’s been less than three years since ChatGPT lit the fuse of the current explosion of AI everywhere. AI years move even faster than Internet years, so there’s been time not only …",
-      "url": "https://www.theregister.com/2025/10/06/at_last_microsoft_leads_the/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/02/office_shutterstock.jpg",
-      "publishedAt": "2025-10-06T08:00:15Z",
-      "content": "Its been less than three years since ChatGPT lit the fuse of the current explosion of AI everywhere. AI years move even faster than Internet years, so theres been time not only for the forcible injec… [+6314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Mongolia to join data center frenzy with Chinggis Khaan sovereign wealth fund",
-      "description": "Mongolia plans to build more data centers as the country readies its first sovereign wealth fund, tapping to the rising global demand for data center capacity.",
-      "url": "https://www.cnbc.com/2025/10/06/mongolia-data-center-sovereign-wealth-fund-infra-projects.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207400-1759487945843-gettyimages-2158583047-AFP_34YV3TT.jpeg?v=1759487956&w=1920&h=1080",
-      "publishedAt": "2025-10-06T06:31:36Z",
-      "content": "Mongolia, long reliant on mining, plans to build data centers powered by renewable energy as it prepares its first sovereign wealth fund aimed at channeling its mineral wealth to social welfare and i… [+3840 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-Madori Davis",
-      "title": "Heidi Health raises $65M Series B led by Steve Cohen’s Point72",
-      "description": "Heidi Health raised a $65 million Series B led by Steven Cohen’s Point72.",
-      "url": "https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Dr.-Tim-Kelly.jpg?resize=1200,800",
-      "publishedAt": "2025-10-06T04:02:00Z",
-      "content": "Dr. Tom Kelly is a trauma surgeon, and everywhere, he sees doctors drowning in administrative work. He wanted change, so he set out to build it. \r\nWe wanted to build an AI care partner that would sta… [+3094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Lights out and away we go into the new week",
-      "description": "Important developments are afoot: Japan's on the verge of seeing its first female prime minister, OPEC+ supply increases, and weak jobs data in the U.S.",
-      "url": "https://www.cnbc.com/2025/10/06/cnbc-daily-open-lights-out-and-away-we-go-into-the-new-week.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206166-1759291390399-gettyimages-2173719401-cm3_9526_2gjz9rvo.jpeg?v=1759714068&w=1920&h=1080",
-      "publishedAt": "2025-10-06T01:28:13Z",
-      "content": "Over the weekend, all the world was a stage in many ways.\r\nIn Tokyo, Sanae Takaichi took pole position in Japan's political Grand Prix, becoming the ruling Liberal Democratic Party's first female lea… [+2711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Google just gave older smart home devices a useful upgrade for free - including these Nest models",
-      "description": "The long-awaited Gemini for Home update has finally arrived - and it's rolling out to most Nest security devices.",
-      "url": "https://www.zdnet.com/article/google-just-gave-older-smart-home-devices-a-useful-upgrade-for-free-including-these-nest-models/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2c3fb98206da4e152270d019182e74b38ab57b84/2024/10/09/331be6e5-b08d-4419-a582-16887531daee/nest1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T00:38:00Z",
-      "content": "Some of the updates coming to Google Home will require a subscription, much like the current Nest Aware subscription. In fact, the prices for what Google is calling a Home Premium subscription will c… [+897 chars]"
     }
   ]
 }
