@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-08T18:13:57.213Z",
+  "fetchedAt": "2025-10-08T18:46:44.202Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Allison Murray",
+      "title": "Apple's smallest iPad packs a punch - and just hit an all-time-low price",
+      "description": "The iPad Mini is perfect for those looking for a portable yet powerful tablet. It gets the biggest discount we've seen for Amazon Prime Day.",
+      "url": "https://www.zdnet.com/article/apples-smallest-ipad-packs-a-punch-and-just-hit-an-all-time-low-price/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/956da57b86d0b88eadcd87c405701b5d02366d62/2024/11/04/f164824b-0567-4835-9b17-34ff8c82c988/2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T18:31:36Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThey say good things come in small packages, and that certainly is true for the powerful iPad Mini with the A17 Pro chip that … [+1658 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brad Bourque",
+      "title": "Best Prime Day Apple iPad Deals",
+      "description": "We'll help you choose between Apple's wide array of discounted tablets during Amazon's Prime Big Deal Days sale event.",
+      "url": "https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e5590d91b150d3a8db625b/191:100/w_1280,c_limit/These%20Are%20The%20Best%20iPad%20Deals%20This%20Prime%20Day.png",
+      "publishedAt": "2025-10-07T18:26:37Z",
+      "content": "It's Amazon Prime day once again, and our favorite Apple iPad is on deep discount for Prime members. The 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for … [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Nena Farrell",
+      "title": "The Best Prime Day Vacuum Deals (2025): Dyson, Bissell, Black + Decker",
+      "description": "Amazon's Prime Day is back, and some of our favorite vacuums (from great Dyson to powerful robot vacuums!) are on sale.",
+      "url": "https://www.wired.com/story/prime-day-vacuum-deals-october-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e0a8b172fa1df1fdbfaa7b/191:100/w_1280,c_limit/The%20Best%20Prime%20Big%20Deal%20Day%20Vacuum%20Deals.png",
+      "publishedAt": "2025-10-07T18:18:12Z",
+      "content": "It's Prime Day againwell, officially it's Amazon Prime Big Deal Daysand we're hunting for the best Prime Day vacuum deals. Not all the advertised sales are worth shopping, but vacuums tend to have so… [+3751 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/f5KGune2Aj7zUP6Th2Q7eC-2000-80.jpg",
       "publishedAt": "2025-10-06T15:56:06Z",
       "content": "Mechanical hard drives may seem like ancient technology, but they still provide 'good enough' performance in many applications, and easily offer the most storage capacity for the price. We've collect… [+3832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Deloitte refunds Aussie gov after AI fabrications slip into $440K welfare report",
-      "description": "Big Four consultancy billed Canberra top dollar, only for investigators to find bits written by a chatbot\nDeloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citat…",
-      "url": "https://www.theregister.com/2025/10/06/deloitte_ai_report_australia/",
-      "urlToImage": "https://regmedia.co.uk/2016/10/06/ai.jpg",
-      "publishedAt": "2025-10-06T15:55:09Z",
-      "content": "Deloitte has agreed to refund part of an Australian government contract after admitting it used generative AI to produce a report riddled with fake citations, phantom footnotes, and even a made-up qu… [+3353 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kayla Solino",
-      "title": "This Nespresso machine brews barista-quality coffee at home, and it's priced below $150 for Prime Day",
-      "description": "Skip the coffee shop and save hundreds of dollars with this Nespresso machine for $70 off.",
-      "url": "https://www.zdnet.com/home-and-office/this-nespresso-machine-brews-barista-quality-coffee-at-home-and-its-priced-below-150-for-prime-day/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4e443bcbb6d55b8a4e4dd14831b98bc4b874c20a/2024/04/01/85d467a1-9cc1-4382-a48b-b117a335f332/img-1285.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T15:51:27Z",
-      "content": "Sabrina Ortiz/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nDoes your cup of coffee feel like it gets pricier every time you order it? \r\nYou're not a alone. ZDNET's senior AI reporte… [+2690 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "A 19-year-old nabs backing from Google execs for his AI memory startup, Supermemory | TechCrunch",
-      "description": "19-year-old Dhravya Shah, who is originally from Mumbai, has build a memory layer for AI applications with Google's AI chief's backing.",
-      "url": "https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Dhravya-Shah-Supermemory.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-06T15:47:56Z",
-      "content": "Context windows of AI models, which indicate the ability of a model to “remember” information, have increased over time. However, researchers have suggestednew ways to increase long-term memory of AI… [+4440 chars]"
     }
   ]
 }
