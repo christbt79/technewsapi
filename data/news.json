@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-08T22:08:42.386Z",
+  "fetchedAt": "2025-10-08T22:36:41.756Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "As the market pulls back, Jim Cramer explains how to handle sell-offs",
+      "description": "CNBC's Jim Cramer unpacked Tuesday's market action and told investors that it can be worthwhile to stick with good stocks as they weather losses.",
+      "url": "https://www.cnbc.com/2025/10/07/-jim-cramer-how-to-handle-sell-offs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104816239-IMG_3584-jim-cramer.jpg?v=1690328876&w=1920&h=1080",
+      "publishedAt": "2025-10-07T22:30:11Z",
+      "content": "CNBC's Jim Cramer unpacked Tuesday's market action and suggested that it can be worthwhile to stick with good stocks as they weather losses, telling investors to buy, not sell, into weakness.\r\n\"When … [+2291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Google declares AI bug hunting season open, sets a $30K max reward",
+      "description": "Jailbreaks, direct prompt injection not allowed\nGoogle on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.…",
+      "url": "https://www.theregister.com/2025/10/07/google_ai_bug_bounty/",
+      "urlToImage": "https://regmedia.co.uk/2018/10/17/shuttertsock_target_missed.jpg",
+      "publishedAt": "2025-10-07T22:19:47Z",
+      "content": "Google on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.\r\nI… [+5575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I tested this Oura Ring alternative with similar health tracking features but at half the price",
+      "description": "The budget-friendly RingConn Gen 2 Air delivers impressive health-tracking features that compete with top-tier rivals. And it's more affordable than ever during Prime Day.",
+      "url": "https://www.zdnet.com/article/i-tested-this-oura-ring-alternative-with-similar-health-tracking-features-but-at-half-the-price/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ccc4a4da87830eba063c84f234eec2f8a43cfe44/2025/03/20/2ff8d1a4-232a-46fa-a70e-77cf90fcd035/img-5143.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T22:16:52Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-182939200.jpeg?resize=1200,800",
       "publishedAt": "2025-10-06T19:22:53Z",
       "content": "Microsoft is buying 100 megawatts of solar capacity from Japanese developer Shizen Energy, the latest in a string of renewable energy deals designed to power the tech company’s growing compute needs.… [+891 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "OpenAI ramps up developer push with more powerful models in its API  | TechCrunch",
-      "description": "The updates were part of a series of announcements geared towards wooing developers to OpenAI’s ecosystem, including the launch of an agent-building tool and the ability to build apps in ChatGPT.",
-      "url": "https://techcrunch.com/2025/10/06/openai-ramps-up-developer-push-with-more-powerful-models-in-its-api/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-3.05.51PM.png?resize=1200,527",
-      "publishedAt": "2025-10-06T19:13:40Z",
-      "content": "OpenAI unveiled new API updates at its Dev Day on Monday, introducing GPT-5 Pro, its latest language model, its new video generation model Sora 2, and a smaller, cheaper voice model.  \r\nThe updates w… [+2261 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "MrBeast says AI could threaten creators' livelihoods, calling it 'scary times' for the industry | TechCrunch",
-      "description": "MrBeast says AI could threaten creators' livelihoods, calling it 'scary times' for the industry | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/06/mrbeast-says-ai-could-threaten-creators-livelihoods-calling-it-scary-times-for-the-industry/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Beast-Games-Suit-Arms-Crossed.jpg?w=1200",
-      "publishedAt": "2025-10-06T19:06:05Z",
-      "content": "Top YouTube creator MrBeast is worried about AI’s impact on creators’ livelihoods, despite having dabbled with using the technology himself. On Monday, the creator posted his concerns on social media… [+2381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I tried this massive 25-inch Android tablet for a week - and it surprised me",
-      "description": "If you're looking for a big-screen tablet, KTC's 25-inch Android display is a lot of fun. Here's why.",
-      "url": "https://www.zdnet.com/article/i-tried-this-massive-25-inch-android-tablet-for-a-week-and-it-surprised-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/db0bccbd4ca7f88200279f63e868e021f30868fe/2025/09/02/0c907395-e111-44f5-a936-de606154405f/xtc1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T19:00:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI love that Android makes it possible for companies to create devices for various scenarios. For example, you might want to have a large touchsc… [+5205 chars]"
     }
   ]
 }
