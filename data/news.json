@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-07T23:31:26.225Z",
+  "fetchedAt": "2025-10-08T00:41:13.645Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to open mixed, following Wall Street gains on AMD rally",
+      "description": "Overnight, shares of AMD skyrocketed almost 24% after it announced a deal with OpenAI, which could see the latter take a 10% stake in the chipmaker.",
+      "url": "https://www.cnbc.com/2025/10/07/asia-markets-tuesday-chips-stocks-amd-openai-deal-rally.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106935960-1630492901864-gettyimages-1278708840-dji_0274-hdr.jpeg?v=1759792039&w=1920&h=1080",
+      "publishedAt": "2025-10-06T23:43:19Z",
+      "content": "Asia-Pacific markets were set to open mostly higher Tuesday, tracking Wall Street gains on a tech rally fueled by the massive deal between OpenAI and AMD, in one of the most direct challenges to chip… [+1246 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/bryce-durbin-capitol.jpeg?resize=1200,675",
       "publishedAt": "2025-10-04T19:12:28Z",
       "content": "The tie between startups and the U.S. government have strengthened in recent years, a shift buoyed by an interest in using AI, automation, space, robotics, and climate tech for defense. And while tha… [+2784 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Louryn Strampe",
-      "title": "40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear (2025)",
-      "description": "Amazon Prime Day is back, starting on October 7, but we’ve already found good deals on WIRED-approved gear.",
-      "url": "https://www.wired.com/story/early-prime-day-deals-october-2025-2/",
-      "urlToImage": "https://media.wired.com/photos/68dad2557c8ce51335c5e1c4/191:100/w_1280,c_limit/EARLY%20PRIME%20DAY%20DEALS_A.jpg",
-      "publishedAt": "2025-10-04T17:07:10Z",
-      "content": "Its that time of year again, and Prime Day deals are back. The Amazon Prime Big Deal Days eventalso known as Amazon Prime Day 2is officially arriving on October 7 and 8, but early deals have already … [+7087 chars]"
     }
   ]
 }
