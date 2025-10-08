@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-08T00:41:13.645Z",
+  "fetchedAt": "2025-10-08T02:14:27.095Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers, Boone Ashworth",
+      "title": "Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’",
+      "description": "“I don’t think we have an easy relationship with our technology at the moment,” the former Apple designer said at OpenAI's developer conference in San Francisco on Monday.",
+      "url": "https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/",
+      "urlToImage": "https://media.wired.com/photos/68e408a2089e9a406fb333fb/191:100/w_1280,c_limit/gear-jony-ive-openai-AP25141660380307.jpg",
+      "publishedAt": "2025-10-07T01:19:36Z",
+      "content": "At OpenAIs developer conference in San Francisco on Monday, CEO Sam Altman and ex-Apple designer Jony Ive spoke in vague terms about the family of devices the pair are currently working to develop.\r\n… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: The AI industry's 'happy few'",
+      "description": "The arrangement between OpenAI and AMD adds a new layer to the increasingly circular nature of AI's corporate economy.",
+      "url": "https://www.cnbc.com/2025/10/07/cnbc-daily-open-the-ai-industrys-happy-few-openai-amd.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107358932-1705330915065-Davos_Promenade_AI_Lead_picture.jpg?v=1705481127&w=1920&h=1080",
+      "publishedAt": "2025-10-07T01:19:24Z",
+      "content": "\"We few, we happy few, we band of brothers.\" The rallying cry from Shakespeare's Henry V,ahead of the Battle of Agincourt, might as well be the motto of today's artificial intelligence elites.\r\nLast … [+2643 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elizabeth Lopatto",
+      "title": "Memo to Bari Weiss Re: CBS News: You’re doomed",
+      "description": "To: Bari Weiss RE: Good luck, babe! I honestly cannot believe you've willingly decided to go into the worst kind of job that exists: management at a dying company. This is the glass cliff to end all glass cliffs Managing sucks! It sucks even when you like the…",
+      "url": "https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194604196.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-07T00:46:57Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMemo to Bari Weiss Re: CBS News: Youre doomed\r\nby\r\nElizabeth LopattoClose\r\nElizabeth Lopatto\r\nPosts from this author will be added to your daily email digest and… [+13121 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/55de8eb23a97f03abdf128b22d6eb38e8085ee44/2025/09/30/561053b9-6723-4412-8953-22da67d411a8/viaimhand.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-05T08:10:27Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4975 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "A breach every month raises doubts about South Korea's digital defenses | TechCrunch",
-      "description": "Known for its blazing fast internet and home to some of the world’s biggest tech giants, South Korea has also faced a string of data breaches and cybersecurity lapses that has struggled to match the pace of its digital ambitions.",
-      "url": "https://techcrunch.com/2025/10/04/a-breach-every-month-raises-doubts-about-south-koreas-digital-defenses/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/sk-telecom-breach-2211811483.jpg?resize=1200,840",
-      "publishedAt": "2025-10-04T21:14:21Z",
-      "content": "South Korea is world-famous for its blazing-fast internet, near-universal broadband coverage, and as a leader in digital innovation, hosting global tech brands like Hyundai, LG, and Samsung. But this… [+7147 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "If you’re not an AI startup, good luck raising money from VCs | TechCrunch",
-      "description": "New PitchBook data illustrates how dramatically AI is dominating startup investment, with 2025 on-track to become the first year when AI accounts for more than half of all VC money invested.",
-      "url": "https://techcrunch.com/2025/10/04/if-youre-not-an-ai-startup-good-luck-raising-money-from-vcs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-941290532.jpg?resize=1200,800",
-      "publishedAt": "2025-10-04T20:07:29Z",
-      "content": "New PitchBook data illustrates how dramatically AI is dominating startup investment, with 2025 on-track to become the first year when AI accounts for more than half of all VC money invested.\r\nPitchBo… [+769 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "Startups and the U.S. government: It's getting complicated | TechCrunch",
-      "description": "Equity co-hosts Anthony Ha, Kirsten Korosec, and Max Zeff explore the how startups are navigating a topsy-turvy relationship with the U.S. government.",
-      "url": "https://techcrunch.com/2025/10/04/startups-and-the-u-s-government-its-getting-complicated/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/07/bryce-durbin-capitol.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-04T19:12:28Z",
-      "content": "The tie between startups and the U.S. government have strengthened in recent years, a shift buoyed by an interest in using AI, automation, space, robotics, and climate tech for defense. And while tha… [+2784 chars]"
     }
   ]
 }
