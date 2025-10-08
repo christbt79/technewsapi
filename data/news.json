@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T10:39:58.497Z",
+  "fetchedAt": "2025-10-08T11:07:48.507Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Asus reveals how $500,000 ROG Astral RTX 5090D was made — world's most expensive GPU is hewn from 5KG of pure gold",
+      "description": "Asus influencer Uncle Tony built it, and a private collector has already bought it, with proceeds going to charity.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/asus-reveals-how-usd500-000-rog-astral-rtx-5090d-was-made-worlds-most-expensive-gpu-is-hewn-from-5kg-of-pure-gold",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/V7vtSZhSrt5di6HrKmZRQA-2113-80.jpg",
+      "publishedAt": "2025-10-07T10:46:41Z",
+      "content": "Asus China influencer Uncle Tony has shared a video (Chinese language) on social media which reveals how the world’s most expensive graphics card was made (h/t VideoCardz). We aren’t talking about th… [+2259 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/07/toyota-ai.png?resize=1200,675",
       "publishedAt": "2025-10-05T16:04:01Z",
       "content": "Welcome back to TechCrunch Mobility, your hub for all things future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nMore than a month ago, I asked… [+7107 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "The Reinforcement Gap — or why some AI skills improve faster than others   | TechCrunch",
-      "description": "AI tasks that work well with reinforcement learning are getting better fast — and threatening to leave the rest of the industry behind.",
-      "url": "https://techcrunch.com/2025/10/05/the-reinforcement-gap-or-why-some-ai-skills-improve-faster-than-others/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675",
-      "publishedAt": "2025-10-05T15:02:47Z",
-      "content": "AI coding tools are getting better fast. If you dont work in code, it can be hard to notice how much things are changing, but GPT-5 and Gemini 2.5 have made a whole new set of developer tricks possib… [+4436 chars]"
     }
   ]
 }
