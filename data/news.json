@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T07:32:53.769Z",
+  "fetchedAt": "2025-10-08T08:13:30.384Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tony Webb",
+      "title": "Companies are making the same mistake with AI that Tesla made with robots",
+      "description": "Some early experiments with AI are revealing the technology's shortcomings - and, by extension, the value of human workers.",
+      "url": "https://www.zdnet.com/article/companies-are-making-the-same-mistake-with-ai-that-tesla-made-with-robots/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a6b750569b2b94d883052185b19ab654c3002343/2025/10/06/c444028b-6490-4276-a6df-be38857b443f/gettyimages-1792835636.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T08:00:43Z",
+      "content": "Eugene Mymrin/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>82% of people prefer human customer service reps to AI. </li><li>Overrelia… [+4933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Eirik Salmi, system analyst, Passwork",
+      "title": "Credential stuffing: £2.31 million fine shows passwords are still the weakest link",
+      "description": "How recycled passwords and poor security habits are fueling a cybercrime gold rush Partner Content  If you're still using \"password123\" for more than one account, there's a good chance you've already exposed yourself to credential stuffing attacks — one of th…",
+      "url": "https://www.theregister.com/2025/10/07/credential_stuffing_231_million/",
+      "urlToImage": "https://regmedia.co.uk/2024/07/12/money_shutterstock.jpg",
+      "publishedAt": "2025-10-07T08:00:14Z",
+      "content": "Partner ContentIf you're still using \"password123\" for more than one account, there's a good chance you've already exposed yourself to credential stuffing attacks one of the most prevalent and damagi… [+10616 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107234152-1683046852769-SMR_-_Overview.jpg?v=1693415481&w=1920&h=1080",
       "publishedAt": "2025-10-05T13:47:17Z",
       "content": "GE Hitachi Nuclear Energy's BWRX-300 small modular reactor incorporates proven components.\r\nVan Buren County is a rural redoubt in southwestern Michigan, a quiet corner of a swing state. Pillow soft … [+11689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Investors aren't the market's biggest loser if Trump, SEC end quarterly reporting",
-      "description": "The SEC may end the requirement for companies to report results quarterly. The 'Big Four' accounting firms, KPMG, Deloitte, PwC and EY, have a lot to lose.",
-      "url": "https://www.cnbc.com/2025/10/05/trump-sec-quarterly-earnings-reports-accounting-firms.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207498-1759497787293-gettyimages-2212002272-_90a9437_v0gjbshz.jpeg?v=1759497806&w=1920&h=1080",
-      "publishedAt": "2025-10-05T13:06:30Z",
-      "content": "With the Securities and Exchange Commission now pursuing President Trump's request to consider a rule that ends the mandate that public companies file quarterly reports, there's a lot to gain for com… [+8809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "The age of silicon and software began 75 years ago with the patenting of the transistor",
-      "description": "75 years ago, the three Bell Labs scientists behind the invention of the transistor would, at last, have the U.S. Patent in their hands.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-age-of-silicon-and-software-began-75-years-ago-with-the-patenting-of-the-transistor",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5qphhtV8QeDXNdqPjv4YSA-1920-80.jpg",
-      "publishedAt": "2025-10-05T12:36:31Z",
-      "content": "75 years ago, the three Bell Labs scientists behind the invention of the transistor would, at last, have the U.S. Patent in their hands. This insignificant looking semiconductor device with three ele… [+2857 chars]"
     }
   ]
 }
