@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-08T20:37:17.653Z",
+  "fetchedAt": "2025-10-08T21:07:54.546Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases  | TechCrunch",
+      "description": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases  | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
+      "publishedAt": "2025-10-07T21:03:10Z",
+      "content": "After AMD and OpenAI announced an expanded partnership on Monday, the chatter immediately turned to the unusual way OpenAI would pay for its AMD purchases. It will use AMDs own stock to do so. \r\nTo r… [+2818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Michael Dell says 'at some point there'll be too many' AI data centers, but not yet",
+      "description": "Dell Technologies CEO Michael Dell said that demand for AI computing power is \"tremendous.\"",
+      "url": "https://www.cnbc.com/2025/10/07/michael-dell-too-many-ai-data-centers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027353-1724959199104-gettyimages-2153343037-DELL_TECHNOLOGIES_CONFERENCE.jpeg?v=1759865096&w=1920&h=1080",
+      "publishedAt": "2025-10-07T21:02:02Z",
+      "content": "Dell Technologies CEO Michael Dell said Tuesday that while demand for computing power is \"tremendous,\" the production of artificial intelligence data centers will eventually top out.\r\n\"I'm sure at so… [+1089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "The M4 MacBook Air just got a rare $200 discount on Amazon, and I don't expect it to last long",
+      "description": "Apple has dropped the price on its latest ultraportable MacBook to a record low $799 during the commerce giant's big sales event.",
+      "url": "https://www.zdnet.com/article/the-m4-macbook-air-just-got-a-rare-200-discount-on-amazon-and-i-dont-expect-it-to-last-long/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/16cb10e93773eab4e20367b3cc9bfb4969e77555/2024/03/04/c03ad361-d88a-4ead-ad6f-840c93784aec/dsc09961-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T20:55:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nIt's crazy to think about, but Amazon's October Prime Day has arrived to kick off the early holiday shopping season. It's… [+2359 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tina Nguyen",
+      "title": "Big Tech is ‘donating’ to Trump’s ‘nonprofits’",
+      "description": "Hello and welcome to Regulator. I was recently riding a Lime scooter around downtown DC (don't hate the player) and zipped across the intersection of 16th Street and I Street NW when I zoomed by the Motion Picture Association's office building. Except now it …",
+      "url": "https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-07T20:52:37Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThose ballrooms arent going to pay for themselves.\r\nThose ballrooms arent going to pay for themselves.\r\nby\r\nTina NguyenClose\r\nTina Nguyen\r\nSenior Reporter, Washi… [+17015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "China is building a thriving semi industry off US leftovers, export controls be damned",
+      "description": "House Committee on China wants more comprehensive ban on chipmaking equipment exports to Middle Kingdom US export controls have had mixed results in stemming the flow of chipmaking equipment into China, according to a congressional investigation, which found …",
+      "url": "https://www.theregister.com/2025/10/07/china_chip_gear/",
+      "urlToImage": "https://regmedia.co.uk/2022/08/04/shutterstock_president_xi_china.jpg",
+      "publishedAt": "2025-10-07T20:43:06Z",
+      "content": "US export controls have had mixed results in stemming the flow of chipmaking equipment into China, according to a congressional investigation, which found US and allied companies sold $38 billion wor… [+3163 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Former Apple bosses slam decision to take down ICEBlock",
+      "description": "Apple is facing pressure from a former executive and senior manager over its decision to remove the ICE-spotting app, ICEBlock, from the App Store. In a letter to Apple CEO Tim Cook, Wiley Hodges says he’s “deeply disturbed” by the move, as spotted earlier by…",
+      "url": "https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-07T20:38:37Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOne Apple alum tells Tim Cook that taking down ICEBlock marks an erosion of Apples key principles.\r\nOne Apple alum tells Tim Cook that taking down ICEBlock marks… [+4252 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179786-1753972286629-gettyimages-2227152264-FIGMA_IPO.jpeg?v=1756991891&w=1920&h=1080",
       "publishedAt": "2025-10-06T18:09:53Z",
       "content": "Figma shares jumped more than 15% on Monday after the design software vendor's technology was promoted by OpenAI CEO Sam Altman in an onstage demo at his company's annual DevDay conference in San Fra… [+1510 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "OpenAI launches AgentKit to help developers build and ship AI agents  | TechCrunch",
-      "description": "“AgentKit is a complete set of building blocks available in the open AI platform designed to help you take agents from prototype to production, it is everything you need to build, deploy and optimize agent workflows with way less friction,” Sam Altman said Mo…",
-      "url": "https://techcrunch.com/2025/10/06/openai-launches-agentkit-to-help-developers-build-and-ship-ai-agents/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.38.49PM.png?resize=1200,670",
-      "publishedAt": "2025-10-06T18:03:39Z",
-      "content": "OpenAI CEO Sam Altman on Monday announced the launch of AgentKit, a toolkit for building and deploying AI agents, at the firms Dev Day event.  \r\nAgentKit is a complete set of building blocks availabl… [+2158 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "OpenAI launches Apps Inside of ChatGPT | TechCrunch",
-      "description": "OpenAI is launching a new way for developers to build applications that appear directly inside of ChatGPT's conversations.",
-      "url": "https://techcrunch.com/2025/10/06/openai-launches-apps-inside-of-chatgpt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
-      "publishedAt": "2025-10-06T17:58:42Z",
-      "content": "OpenAI is launching a new way for developers to build applications inside of ChatGPT. Starting Monday, users in ChatGPT will be able to access interactive applications from companies like Booking.com… [+3208 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "OpenAI will let developers build apps that work inside ChatGPT",
-      "description": "OpenAI is introducing a way to work with apps right inside ChatGPT. The idea is that, from within a conversation with the chatbot, you can essentially tag in apps to help you complete a task while ChatGPT offers context and advice.  The company showed off a f…",
-      "url": "https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "publishedAt": "2025-10-06T17:48:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nRight within a ChatGPT conversation, youll be able to chat with apps like Spotify, Canva, and Zillow.\r\nRight within a ChatGPT conversation, youll be able to chat… [+2422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "Best Amazon Prime Day Apple deals in October 2025: Save up to 32% on MacBook, AirPods, and more",
-      "description": "Amazon's October Prime Day is tomorrow, but I've already found some great deals on Apple tech, including iPhones, AirPods, iPads, and Apple Watches.",
-      "url": "https://www.zdnet.com/article/amazon-prime-day-apple-deals-10-6-2025/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/53559b4d6d01ddfffe25394374e7114e6d67ae12/2025/09/19/a4483bbe-60ca-4f16-88c9-523265487581/zdnet-prime-day-apple.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T17:35:22Z",
-      "content": "October is here, and Amazon's Prime Big Deal Days sale is one day away. \r\nThe fall sale -- also known as October Prime Day -- runs from Oct. 7-8. We expect to see Apple deals available not just on Am… [+6321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "OpenAI DevDay event live updates: AI wearable announcement likely",
-      "description": "We are expecting the highly anticipated AI wearable, a new Agentic Builder, ChatGPT updates, and more.",
-      "url": "https://www.zdnet.com/article/openai-devday-event-live-updates-ai-wearable-announcement-likely-how-to-watch/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/97a409997b671b80015b391a1f74924a157d6634/2025/10/06/63706bfd-8a4a-410a-976d-e799ce507aee/img-1178-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T17:34:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOpenAI is holding its DevDay 2025 event today, Oct. 6, and the company has already teased that it has a host of product lau… [+4808 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Sam Altman says ChatGPT has hit 800M weekly active users",
-      "description": "OpenAI CEO Sam Altman said Monday at Dev Day that ChatGPT has reached 800 million weekly active users, marking an increase of adoption among consumers, developers, enterprises, and governments.",
-      "url": "https://techcrunch.com/2025/10/06/sam-altman-says-chatgpt-has-hit-800m-weekly-active-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
-      "publishedAt": "2025-10-06T17:30:27Z",
-      "content": "OpenAI CEO Sam Altman said Monday that ChatGPT has reached 800 million weekly active users, marking an increase of adoption among consumers, developers, enterprises, and governments.  \r\nChatGPT’s imp… [+1420 chars]"
     }
   ]
 }
