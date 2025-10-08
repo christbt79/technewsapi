@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T13:43:15.298Z",
+  "fetchedAt": "2025-10-08T14:09:47.867Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Google hints at a new Nest Hub",
+      "description": "Last week, Google announced a new smart speaker for its AI-infused Gemini smart home platform, but there was no sign of a new smart display. The good news for fans of Google’s Nest Hubs is that Google Home’s Anish Kattukaran tells The Verge the company is “de…",
+      "url": "https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/nest-hub-max-hands-on-googles-first-smart-display-with-a-camera.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-07T14:04:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says its still committed to smart displays, as Amazon doubles down on the category.\r\nThe company says its still committed to smart displays, as Amazo… [+4042 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207932-1759714573516-gettyimages-2213398756-SENATE_AI.jpeg?v=1759714728&w=1920&h=1080",
       "publishedAt": "2025-10-06T10:54:47Z",
       "content": "Sam Altman, chief executive officer of OpenAI, left, and Lisa Su, chair and chief executive officer of Advanced Micro Devices, arrive for a Senate Commerce, Science, and Transportation Committee hear… [+4123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Jaguar Land Rover engines ready to roar again after weeks-long cyber stall",
-      "description": "No confirmed date but workers expected to return in the coming days\nJaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to The Reg.…",
-      "url": "https://www.theregister.com/2025/10/06/jlr_phased_production/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/06/jaguar_landrover_car.jpg",
-      "publishedAt": "2025-10-06T10:28:05Z",
-      "content": "Jaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to The Reg.\r\nThe cyber-stricken automaker did not commit to a firm restart date, but t… [+3952 chars]"
     }
   ]
 }
