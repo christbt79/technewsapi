@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-08T13:02:24.547Z",
+  "fetchedAt": "2025-10-08T13:43:15.298Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Forget Google - my new go-to search tool won't track you or push AI, and it's free",
+      "description": "YaCy is completely private and can be installed on Linux, Mac, and Windows PCs.",
+      "url": "https://www.zdnet.com/article/forget-google-my-new-go-to-search-tool-wont-track-you-or-push-ai-and-its-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/413b35a8ddd9bbb286a5dc8a2b66e28f04ce569b/2025/10/07/bca0ee02-b5fc-47b9-8bd8-1bf6a207ccdf/why-use-a-third-party-search-tool-when-you-can-install-and-use-your-own.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T13:36:51Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to abandon Google, you can install your own search engine.<… [+5357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Why this $350 Google Pixel is my sleeper pick for best Prime Day phone deal",
+      "description": "It's not the flashiest model out there, but you really can't go wrong with this phone at this price.",
+      "url": "https://www.zdnet.com/article/why-this-350-google-pixel-is-my-sleeper-pick-for-best-prime-day-phone-deal/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b3205a693a44959cc7cbec6a9fdf3d1f7a680b32/2025/04/10/d6598995-33e1-44a8-a566-274398becf85/dsc05273.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T13:36:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Pixel 9a launched earlier this year as a midrange Android phone that balanced performance and price. So, it was only a matt… [+2690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Qualcomm solders Arduino to its edge AI ambitions",
+      "description": "Cali chip giant insists single-board computer house will remain independent\nQualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino pr…",
+      "url": "https://www.theregister.com/2025/10/07/qualcomm_arduino_acquisition/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/07/arduinounoqsmall.jpg",
+      "publishedAt": "2025-10-07T13:35:15Z",
+      "content": "Qualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino product based on o… [+3942 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Google’s extreme smart home makeover",
+      "description": "Google has a long history of building something interesting, making a lot of big promises about its future, then seemingly forgetting it exists and killing it a few months or years later. Over the last few years, you'd be forgiven for thinking the smart home …",
+      "url": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1007_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-07T13:22:21Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Why Google thinks Gemini can fix your house, why Peloton gear is so expensive, and more.\r\nOn The Vergecast: Why Google thinks Gemini can fix yo… [+3351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Everything OpenAI announced at DevDay 2025: Agent Kit, Apps SDK, ChatGPT, and more",
+      "description": "The company announced several updates to its software development platform. But there wasn't any hardware news.",
+      "url": "https://www.zdnet.com/article/everything-openai-announced-at-devday-2025-agent-kit-apps-sdk-chatgpt-and-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T13:11:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOpenAI held its DevDay 2025 event this week on Oct. 6, and the company had plenty to share regarding how developers can bui… [+8666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "WTO hikes global trade forecast for 2025 — but next year doesn't look so good",
+      "description": "Global trade volumes rose sharply in the first half of 2025 as businesses front-loaded imports ahead of higher tariffs.",
+      "url": "https://www.cnbc.com/2025/10/07/wto-hikes-global-trade-forecast-for-2025-slowdown-expected-in-2026-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108128968-1744205305706-108128968-17442003242025-04-09t115716z_1001206588_rc2buda685l4_rtrmadp_0_usa-trump-tariffs-shipping.jpg?v=1744205312&w=1920&h=1080",
+      "publishedAt": "2025-10-07T13:05:05Z",
+      "content": "The World Trade Organization on Tuesday hiked its forecast for global trade growth in 2025 but warned that the outlook for 2026 had deteriorated.\r\nIn its latest \"Global Trade Outlook and Statistics\" … [+4223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "OpenAI signs AMD deal for 6GW of AI GPUs with a massive equity kicker, OpenAI to obtain up to 160 million AMD shares at one cent apiece",
+      "description": "OpenAI has secured up to 6 gigawatts of AMD GPU compute in a landmark supply agreement that could see the ChatGPT maker take a 10% stake in AMD.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/openai-signs-6gw-amd-gpu-deal",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wRiMtq3bXaRfAVrPsuiXjE-1920-80.jpg",
+      "publishedAt": "2025-10-07T13:04:07Z",
+      "content": "OpenAI has secured up to 6 gigawatts of AMD GPU compute in a landmark supply agreement that could see the ChatGPT maker take a 10% stake in AMD.\r\nThe deal, announced on October 6, begins with AMD’s n… [+5369 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/06/jaguar_landrover_car.jpg",
       "publishedAt": "2025-10-06T10:28:05Z",
       "content": "Jaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to The Reg.\r\nThe cyber-stricken automaker did not commit to a firm restart date, but t… [+3952 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Sora provides better control over videos featuring your AI self",
-      "description": "Sora now lets you rein in your AI doubles, giving you more say on how and where deepfake versions of you make an appearance on the app. The update lands as OpenAI hurries to show it actually cares about its users’ concerns as an all-too-predictable tsunami of…",
-      "url": "https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-06T10:23:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt wont help stop the avalanche of AI slop OpenAI has unleashed.\r\nIt wont help stop the avalanche of AI slop OpenAI has unleashed.\r\nby\r\nRobert HartClose\r\nRobert … [+3219 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lily Hay Newman",
-      "title": "Vibe Coding Is the New Open Source—in the Worst Way Possible",
-      "description": "As developers increasingly lean on AI-generated code to build out their software—as they have with open source in the past—they risk introducing critical security failures along the way.",
-      "url": "https://www.wired.com/story/vibe-coding-is-the-new-open-source/",
-      "urlToImage": "https://media.wired.com/photos/68ba13d001e4a62962c43550/191:100/w_1280,c_limit/security_vibecoding_software_failures.jpg",
-      "publishedAt": "2025-10-06T10:00:00Z",
-      "content": "Just like you probably don't grow and grind wheat to make flour for your bread, most software developers don't write every line of code in a new project from scratch. Doing so would be extremely slow… [+2588 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "OpenAI announcements make waves in stock market it has shunned",
-      "description": "Then a blog post detailing new features the company is using internally sent a fresh wave of jitters through software stocks like Atlassian Corp., already reeling from fears about AI disruption",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-06/openai-is-fast-becoming-a-whale-in-stock-market-it-has-shunned",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/murojt/article70124581.ece/alternates/LANDSCAPE_1200/2025-09-01T055818Z_199270814_RC2UMCAEZ91K_RTRMADP_3_OPENAI-INDIA.JPG",
-      "publishedAt": "2025-10-06T09:41:29Z",
-      "content": "OpenAI may not be publicly traded, but the worlds most valuable startup is increasingly making waves in the stock market.\r\nJust last week, OpenAI sent shares of e-commerce companies Shopify Inc. and … [+4416 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Sam Altman and Jony Ive’s secret device won’t be ‘your weird AI girlfriend’",
-      "description": "OpenAI and designer Jony Ive are trying to solve a number of technical challenges before releasing their mysterious AI gadget, according to a Financial Times report. Two of the challenges include figuring out the palm-sized device’s “personality” and how ofte…",
-      "url": "https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Sam-Altman-Jony-Ive.jpg?quality=90&strip=all&crop=0,15.095986038394,100,69.808027923211",
-      "publishedAt": "2025-10-06T09:28:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI is reportedly struggling to perfect the AI-gadgets voice and personality.\r\nOpenAI is reportedly struggling to perfect the AI-gadgets voice and personality… [+2967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "I tested a $400 Android phone with an E Ink like display, and it was boringly awesome",
-      "description": "The TCL Nxtpaper 60 Ultra redefines 'Ultra,' prioritizing eye comfort and stylus performance over sheer power.",
-      "url": "https://www.zdnet.com/article/i-tested-a-400-android-phone-with-an-e-ink-like-display-and-it-was-boringly-awesome/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e68949d871852ec7f3eccca7ffad8b5f37154d9c/2025/09/20/f30c8bbf-bcb5-46dd-95d2-6fbed51e696e/pxl-20250920-002756553-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T09:00:32Z",
-      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7488 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Your Sony headphones have new tricks in a free update - but there's a catch",
-      "description": "A recent firmware update expands Bluetooth LE Audio and Google Find Hub compatibility to select Sony headphones and earbuds, but only certain smartphones are compatible.",
-      "url": "https://www.zdnet.com/article/your-sony-headphones-have-new-tricks-in-a-free-update-but-theres-a-catch/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/eaabaef30a557b15d0c28b2e501c44331109dc9f/2025/05/12/89089ed7-3975-4e57-8f08-136e5ba24777/xm6-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T08:25:37Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Android expanded support for LE Audio to select Sony headphones and earbuds.</li><li>Users can … [+3301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "David Gordon",
-      "title": "AI's security paradox: how enterprises can have their cake and eat it too",
-      "description": "Speed or security? Why not have both? Sponsored Post  Here's the contradiction grinding on enterprise IT leaders like you: AI's value lives in your unstructured content (the sprawling information corpus that actually runs the business). You want to unlock it,…",
-      "url": "https://www.theregister.com/2025/10/06/ais_security_paradox_how/",
-      "urlToImage": "https://regmedia.co.uk/2025/08/12/ai.jpg",
-      "publishedAt": "2025-10-06T08:01:03Z",
-      "content": "Sponsored PostHere's the contradiction grinding on enterprise IT leaders like you: AI's value lives in your unstructured content (the sprawling information corpus that actually runs the business). Yo… [+3643 chars]"
     }
   ]
 }
