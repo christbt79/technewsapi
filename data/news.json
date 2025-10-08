@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T09:10:30.071Z",
+  "fetchedAt": "2025-10-08T09:37:51.800Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Parker Hall",
+      "title": "61 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
+      "description": "We've scoured Amazon for the best deals under a Benjamin, from Roku to Instant Pot.",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e08e6d026132543e222e51/191:100/w_1280,c_limit/The%20Best%20Prime%20Day%20Deals%20Under%20$100.png",
+      "publishedAt": "2025-10-07T09:36:28Z",
+      "content": "Eufy Security Indoor Cam S350 for $80 ($60 off): This indoor camera is a powerhouse, featuring pan/tilt, a dual-lens 4K system with 8x zoom, and onboard AI.\r\nBlink Mini 2 for $20 ($20 off): The tiny … [+1271 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Nino-Dvalidze.jpg?resize=1200,800",
       "publishedAt": "2025-10-05T14:27:45Z",
       "content": "An app called Young Minds wants to give parents control over what their kids do on the internet, while also protecting their childrens privacy and teaching them good online habits. \r\nThe startup was … [+2470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nuclear in my backyard? More of America, and the market, seems OK with it",
-      "description": "Small modular reactors are being planned as big part of the nuclear power comeback across the U.S., with some communities pointing to jobs and economic growth.",
-      "url": "https://www.cnbc.com/2025/10/05/nuclear-power-modular-reactor-energy-demand-public-market-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107234152-1683046852769-SMR_-_Overview.jpg?v=1693415481&w=1920&h=1080",
-      "publishedAt": "2025-10-05T13:47:17Z",
-      "content": "GE Hitachi Nuclear Energy's BWRX-300 small modular reactor incorporates proven components.\r\nVan Buren County is a rural redoubt in southwestern Michigan, a quiet corner of a swing state. Pillow soft … [+11689 chars]"
     }
   ]
 }
