@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T17:36:41.620Z",
+  "fetchedAt": "2025-10-08T18:13:57.213Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Consumer outlook sours as inflation expectations rise, New York Fed survey finds",
+      "description": "Americans are increasingly pessimistic about their financial future as a wave of economic uncertainty takes hold.",
+      "url": "https://www.cnbc.com/2025/10/07/new-york-fed-consumer-outlook-sours-as-inflation-expectations-rise.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108149746-1747965775021-gettyimages-2150739474-sharleenkazi_01730.jpeg?v=1759854209&w=1920&h=1080",
+      "publishedAt": "2025-10-07T18:02:21Z",
+      "content": "Americans are increasingly concerned about their financial situation amid expectations that inflation could pick up, according to a New York Federal Reserve survey released Tuesday.\r\nThe central bank… [+2031 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’",
+      "description": "The social network says Premium Business will help companies drive growth on the platform by boosting credibility with a gold checkmark and increasing visibility through affiliate badges.",
+      "url": "https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+      "publishedAt": "2025-10-07T18:00:00Z",
+      "content": "X announced on Tuesday that Verified Organizations, its premium subscription offering for businesses and governments, is being rebranded and will now be split into two offerings: Premium Business and… [+2422 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Dhravya-Shah-Supermemory.jpeg?resize=1200,800",
       "publishedAt": "2025-10-06T15:47:56Z",
       "content": "Context windows of AI models, which indicate the ability of a model to “remember” information, have increased over time. However, researchers have suggestednew ways to increase long-term memory of AI… [+4440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Which Meta Ray-Bans model should you buy? I tested both pairs, and here's how to decide",
-      "description": "How much difference can two years make? That depends on how you judge the latest Meta Ray-Bans.",
-      "url": "https://www.zdnet.com/article/which-meta-ray-bans-model-should-you-buy-i-tested-both-pairs-and-heres-how-to-decide/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e4fd749607d36e3f109519487b370bf0966aad79/2025/09/17/5f003e20-75ab-494c-bfb4-21298db81f5a/ray-ban-meta-gen2-01.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T15:46:00Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Meta Ray-Bans are arguably the most successful AI hardware product in the past three years, with enough momentum to encou… [+4174 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season | TechCrunch",
-      "description": "Adobe predicts AI-assisted online shopping to grow 520% during the 2025 U.S. holiday season | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/06/adobe-predicts-ai-assisted-online-shopping-to-grow-520-during-the-2025-u-s-holiday-season/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/JPM-hero-GettyImages-1492413753.jpg?resize=1200,800",
-      "publishedAt": "2025-10-06T15:41:06Z",
-      "content": "The U.S. holiday shopping season is expected to bring in $253.4 billion in online sales this year, up 5.3% year-over-year, according to a new report from Adobe’s e-commerce connected division, Adobe … [+2862 chars]"
     }
   ]
 }
