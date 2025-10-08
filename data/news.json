@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T14:41:28.621Z",
+  "fetchedAt": "2025-10-08T15:09:50.023Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "JetBrains backs open AI coding standard that could gnaw at VS Code dominance",
+      "description": "Google and Zed have already adopted ACP – will Microsoft now follow?\nJetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development envir…",
+      "url": "https://www.theregister.com/2025/10/07/jetbrains_acp_vs_code/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/07/shutterstock_idea_bulb.jpg",
+      "publishedAt": "2025-10-07T14:58:07Z",
+      "content": "JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (… [+2898 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "The AirPods Max are (still) the best headphones for Apple users - and $120 off",
+      "description": "We appreciate Apple's AirPods Max for their solid ANC and transparency mode. Right now, they're $429 during Amazon Prime Day.",
+      "url": "https://www.zdnet.com/article/the-airpods-max-are-still-the-best-headphones-for-apple-users-and-120-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6b24d2ae6d2df557f3f7fdcc64354f31588b5a85/2025/08/25/5530e55a-e9d4-4b02-9a85-bdf4ce1ba6fc/hiner-airpods-max-2025.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T14:51:00Z",
+      "content": "Jada Jones/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple's AirPods Max headphones aren't the newest pair of cans on the market -- they've been around since 2020 and haven't rec… [+3118 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzJ6zGwM7otWrJ8BNVVae9-1288-80.jpg",
       "publishedAt": "2025-10-06T12:24:06Z",
       "content": "We've seen a lot of great deals and sales on SSD in recent months, and Amazon Prime Big Deals Day brings yet more. However, larger forces, like tariffs and geopolitical issues, threaten to push price… [+5112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Online holiday spending growth set to slow to 5.3% as shoppers seek discounts",
-      "description": "Retail sales in the U.S. have chugged along, but concerns about higher tariffs and dipping consumer confidence have complicated the holiday outlook.",
-      "url": "https://www.cnbc.com/2025/10/06/online-holiday-spending-growth-adobe-report.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108081969-1735925319773-gettyimages-1744124538-252-0350.jpeg?v=1759429577&w=1920&h=1080",
-      "publishedAt": "2025-10-06T12:00:01Z",
-      "content": "Online holiday spending in the U.S. is expected to jump 5.3% year over year to $253.4 billion as consumers seek discounts and even enlist the help of artificial intelligence-powered chatbots, accordi… [+3876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Swiss lab where researchers are working to create computers powered by mini human brains revealed in new report — mini brain organoids revealed, developers say 'we shouldn't be scared of them'",
-      "description": "A new report details a tour of a Swiss lab, where researchers are working to develop computers powered by mini human brains.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/swiss-lab-where-researchers-are-working-to-create-computers-powered-by-mini-human-brains-revealed-in-new-report-mini-brain-organoids-revealed-developers-say-we-shouldnt-be-scared-of-them",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FnzD2gpQL5qN4RRZnQ4V9k-1920-80.jpg",
-      "publishedAt": "2025-10-06T11:50:02Z",
-      "content": "A report detailing a tour of a Swiss lab, where researchers are working to develop computers powered by mini human brains, has been published by the BBC. The UK’s national broadcaster sent a reporter… [+3419 chars]"
     }
   ]
 }
