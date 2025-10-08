@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T17:08:03.412Z",
+  "fetchedAt": "2025-10-08T17:36:41.620Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Facebook updates its algorithm to give users more control over which videos they see",
+      "description": "Facebook updated its algorithm so users can have greater control over which Reels videos they see.",
+      "url": "https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Facebooks-upgraded-recommendations.jpg?w=1200",
+      "publishedAt": "2025-10-07T17:16:52Z",
+      "content": "Meta announced on Tuesday a new Facebook algorithm update that will showcase more Reels videos tailored to users’ preferences. The update includes features that offer users greater control over the v… [+1492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's Sora 2 must stop allowing copyright infringement, Motion Picture Association says",
+      "description": "The Motion Picture Association called out OpenAI's new video generation model Sora 2 for content infringement.",
+      "url": "https://www.cnbc.com/2025/10/07/openais-sora-2-must-stop-allowing-copyright-infringement-mpa-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071393-1733338128992-gettyimages-2076713473-Illustration_AliExpress.jpeg?v=1733338170&w=1920&h=1080",
+      "publishedAt": "2025-10-07T17:13:16Z",
+      "content": "The Motion Picture Association on Monday urged OpenAI to \"take immediate and decisive action\" against its new video creation model Sora 2, which is being used to produce content that it says is infri… [+2066 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/JPM-hero-GettyImages-1492413753.jpg?resize=1200,800",
       "publishedAt": "2025-10-06T15:41:06Z",
       "content": "The U.S. holiday shopping season is expected to bring in $253.4 billion in online sales this year, up 5.3% year-over-year, according to a new report from Adobe’s e-commerce connected division, Adobe … [+2862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Intel's upcoming Panther Lake family will reportedly feature new \"Core Ultra X\" branding for fully-spec'd iGPU configs — Core Ultra 7 and 9 processors tipped to feature 12 Xe3 GPU cores",
-      "description": "The Panther Lake lineup of mobile CPUs is reportedly set to debut Intel's Xe3 graphics IP, with the top-end SKUs featuring up to 12 Xe3 GPU cores, being dubbed \"Core Ultra X,\" according to the latest leaks. Initially, only Core Ultra 7 and 9 were thought to f…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-panther-lake-family-will-reportedly-feature-new-core-ultra-x-branding-for-fully-specd-igpu-configs-core-ultra-7-and-9-processors-tipped-to-feature-12-xe3-gpu-cores",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pNwXwmUpQZq6QgzuAe3RjT-2560-80.jpg",
-      "publishedAt": "2025-10-06T14:57:53Z",
-      "content": "According to the company, Intel is set to share details of its Panther Lake lineup of mobile processors next week. Now, leaks are starting to seep out ahead of the reportedly imminent announcements. … [+5527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Ashley Capoot",
-      "title": "OpenAI DevDay 2025: Live updates and analysis from the AI startup",
-      "description": "Fresh off an AI chip deal with AMD, OpenAI makes its case to developers about the latest in research, product and engineering.",
-      "url": "https://www.cnbc.com/2025/10/06/open-ai-devday-live-updates-altman-jony-ive.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208460-1759782196843-gettyimages-2239214432-AFP_77WD863.jpeg?v=1759782238&w=1920&h=1080",
-      "publishedAt": "2025-10-06T14:43:00Z",
-      "content": "Here's what's on the agenda at this year's DevDay.\r\n10 a.m PT: Altman will deliver the opening keynote with Romain Huet, OpenAI's head of developer experience. The pair will share announcements and w… [+1527 chars]"
     }
   ]
 }
