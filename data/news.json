@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T19:31:34.641Z",
+  "fetchedAt": "2025-10-08T20:10:08.117Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "I found one of the biggest Prime Day laptop sales - the Surface Laptop is $600 off",
+      "description": "The Surface Laptop was one of my favorite laptops of 2024. Now, it's on sale for $999, a very competitive price for a flagship Copilot+ PC.",
+      "url": "https://www.zdnet.com/article/i-found-one-of-the-biggest-prime-day-laptop-sales-the-surface-laptop-is-600-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/32b682ff3bad7ce50d6cbc016d85b5530115fb7d/2024/09/18/4a26b383-e911-4127-9445-26dbe60872bb/microsoft-surface-laptop-6.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T20:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nWhen I reviewed Microsoft's Surface Laptop with the Snapdragon X Elite chip last summer, I was impressed with its snappy … [+2981 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google launches its AI vibe-coding app Opal in 15 more countries",
+      "description": "The app, which lets you create mini web apps using text prompts, is now available in Canada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Singapore, Colombia, El Salvador, Costa Rica, Panamá, Honduras, Argentina and Pakistan.",
+      "url": "https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?resize=1200,675",
+      "publishedAt": "2025-10-07T19:54:34Z",
+      "content": "Google is expanding access to Opal, its AI vibe-coding app, to 15 more countries. The app, which lets you create mini web apps using text prompts, is now available in Canada, India, Japan, South Kore… [+1972 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-959993436-e1718640411389.jpg?resize=1200,675",
       "publishedAt": "2025-10-06T17:11:50Z",
       "content": "Like every Big Tech company these days, Meta has its own flagship generative AI model, called Llama. Llama is somewhat unique among major models in that it’s “open,” meaning developers can download a… [+9290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cerebras CEO explains IPO withdrawal, says it still intends to go public",
-      "description": "Cerebras wants to give investors clearer information on its strategy, but CEO Andrew Feldman didn't provide a timeline for a new filing.",
-      "url": "https://www.cnbc.com/2025/10/06/cerebras-ceo-says-company-still-intends-to-go-public.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208243-1759766925216-gettyimages-2152329941-CEREBRASCHIP.jpeg?v=1759766998&w=1920&h=1080",
-      "publishedAt": "2025-10-06T17:08:14Z",
-      "content": "Cerebras CEO Andrew Feldman admitted that his artificial intelligence chipmaker made a mistake last week when it didn't immediately explain its decision to withdraw its registration for an IPO.\r\nIn a… [+1738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "OpenAI DevDay event live updates: AI wearable announcement likely",
-      "description": "We are expecting the highly anticipated AI wearable, a new Agentic Builder, ChatGPT updates, and more.",
-      "url": "https://www.zdnet.com/article/openai-devday-event-live-updates-ai-wearable-announcement-likely/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/97a409997b671b80015b391a1f74924a157d6634/2025/10/06/63706bfd-8a4a-410a-976d-e799ce507aee/img-1178-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T17:04:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOpenAI is holding its DevDay 2025 event today, Oct. 6, and the company has already teased that it has a host of product lau… [+2447 chars]"
     }
   ]
 }
