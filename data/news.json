@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T16:42:47.183Z",
+  "fetchedAt": "2025-10-08T17:08:03.412Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale",
+      "description": "Black Friday might bring some of the deepest discounts on tech like robot vacuums, but if you’d like to tidy up before Halloween parties and Thanksgiving guests arrive, Amazon’s fall Prime Day event features plenty of great robot vacuum deals, including disco…",
+      "url": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/roborock-saros-z70-picking-up-socks.jpg?quality=90&strip=all&crop=0%2C1.6918751211945%2C100%2C96.616249757611&w=1200",
+      "publishedAt": "2025-10-07T16:43:27Z",
+      "content": "Roborock’s Saros Z70 features a built-in robotic arm and is down to its best price yet.\r\n\n\nBlack Friday might bring some of the deepest discounts on tech like robot vacuums, but if you’d like to tidy… [+8980 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208460-1759782196843-gettyimages-2239214432-AFP_77WD863.jpeg?v=1759782238&w=1920&h=1080",
       "publishedAt": "2025-10-06T14:43:00Z",
       "content": "Here's what's on the agenda at this year's DevDay.\r\n10 a.m PT: Altman will deliver the opening keynote with Romain Huet, OpenAI's head of developer experience. The pair will share announcements and w… [+1527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Acer chief says Nvidia’s Intel investment will complicate PC supply chains — says Lutnick's 50/50 proposal could take 50 years to realize",
-      "description": "Acer CEO Jason Chen says that the Nvidia-Intel partnership could potentially complicate product planning and placement for PC makers.",
-      "url": "https://www.tomshardware.com/tech-industry/acer-chief-says-nvidias-intel-investment-will-complicate-pc-supply-chains-says-lutnicks-50-50-proposal-could-take-50-years-to-realize",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q2d6FdmapiXuedESvcJLza-1920-80.jpg",
-      "publishedAt": "2025-10-06T14:39:29Z",
-      "content": "Acer Chairman and CEO Jason Chen stated during the company’s annual Long Time Smile Awards that the Nvidia–Intel partnership, which will produce new x86 chips, could potentially complicate the PC sup… [+2710 chars]"
     }
   ]
 }
