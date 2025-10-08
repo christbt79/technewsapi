@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T03:08:29.619Z",
+  "fetchedAt": "2025-10-08T03:44:14.447Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "ChatGPT wants to act more like an OS -- as it transforms into an app platform",
+      "description": "While ChatGPT started as a chatbot, it is evolving to something more like Mac, Windows, or Android -- and those ambitions became clear at OpenAI DevDay 2025.",
+      "url": "https://www.zdnet.com/article/chatgpt-wants-to-act-more-like-an-os-as-it-transforms-into-an-app-platform/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/de15c595caab07475d544f44f4153907793738c2/2025/10/06/9cea938a-48a1-4606-b95f-4399a155a5d1/img-1192.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T03:18:03Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>At OpenAI DevDay, the company unveiled new capabilities for apps in ChatGPT.</li><li>This is… [+4046 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2019/11/05/shutterstock_ethical_hacking.jpg",
       "publishedAt": "2025-10-05T08:32:09Z",
       "content": "A new hacking contest has caused a social media kerfuffle over allegations of rule copying and plagiarism.\r\nWiz, the cloud-security shop that agreed to acquire for $32 billion (pending approvals), on… [+4312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Do voice translation earbuds actually work in public? I tested some, here's my verdict",
-      "description": "I've tested countless earbuds with all manner of promises, but the Viaim RecDot earbuds have something special.",
-      "url": "https://www.zdnet.com/article/do-voice-translation-earbuds-actually-work-in-public-i-tested-some-heres-my-verdict/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/55de8eb23a97f03abdf128b22d6eb38e8085ee44/2025/09/30/561053b9-6723-4412-8953-22da67d411a8/viaimhand.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-05T08:10:27Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4975 chars]"
     }
   ]
 }
