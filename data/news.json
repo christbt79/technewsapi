@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-08T16:11:26.198Z",
+  "fetchedAt": "2025-10-08T16:42:47.183Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Billionaire tech investor Orlando Bravo says 'valuations in AI are at a bubble'",
+      "description": "One key difference between the dotcom bubble and today, Bravo said, is that big companies with healthy balance sheets are financing tech startups.",
+      "url": "https://www.cnbc.com/2025/10/07/tech-vc-orlando-bravo-ai-bubble.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107128581-1664833391865-IMG_9221r.jpg?v=1664833541&w=1920&h=1080",
+      "publishedAt": "2025-10-07T16:41:58Z",
+      "content": "Thoma Bravo co-founder Orlando Bravo said that valuations for artificial intelligence companies are \"at a bubble,\" comparing it to the dotcom era. \r\nBut one key difference in the market now, he said,… [+1313 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Anthropic plans to open India office, eyes tie-up with billionaire Ambani | TechCrunch",
+      "description": "Anthropic plans to open India office, eyes tie-up with billionaire Ambani | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/07/anthropic-plans-to-open-india-office-eyes-tie-up-with-billionaire-ambani/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+      "publishedAt": "2025-10-07T16:28:31Z",
+      "content": "Anthropic co-founder and CEO Dario Amodei is in India this week, with plans to set up an office in Bengaluru and explore a partnership with Mukesh Ambani’s Reliance Industries, TechCrunch has learned… [+4009 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Anthropic and IBM announce strategic partnership | TechCrunch",
+      "description": "Anthropic's Claude large language model family will be incorporated into some of IBM's software development products.",
+      "url": "https://techcrunch.com/2025/10/07/anthropic-and-ibm-announce-strategic-partnership/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
+      "publishedAt": "2025-10-07T16:23:56Z",
+      "content": "Tech behemoth IBM is teaming up with AI research lab Anthropic to bring AI into its software. \r\nArmonk, New York-based IBM announced it will be adding Anthropics Claude large language model family in… [+1018 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q2d6FdmapiXuedESvcJLza-1920-80.jpg",
       "publishedAt": "2025-10-06T14:39:29Z",
       "content": "Acer Chairman and CEO Jason Chen stated during the company’s annual Long Time Smile Awards that the Nvidia–Intel partnership, which will produce new x86 chips, could potentially complicate the PC sup… [+2710 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Inside Microsoft’s AI bet with CTO Kevin Scott at TechCrunch Disrupt 2025",
-      "description": "Microsoft CTO Kevin Scott joins the Disrupt Stage at TechCrunch Disrupt 2025 to share how one of the world’s largest technology companies is navigating the AI revolution and what it means for startups and the future of innovation. Register now to join.",
-      "url": "https://techcrunch.com/2025/10/06/inside-microsofts-ai-bet-with-cto-kevin-scott-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Kevin-Scott-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-06T14:30:00Z",
-      "content": "Microsoft CTO Kevin Scott joins the Disrupt Stage at TechCrunch Disrupt 2025 to share how one of the worlds largest technology companies is navigating the AI revolution and what it means for startups… [+1381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "OpenAI and AMD link arms for AI buildout: It's a power-for-equity swap",
-      "description": "6GW chip pact sends AMD stock soaring, Nvidia has a rival for Altman biz love AMD and OpenAI have forged a 6 gigawatt agreement to power OpenAI’s AI infrastructure across multiple generations of AMD Instinct GPUs.…",
-      "url": "https://www.theregister.com/2025/10/06/openai_and_amd_join_forces/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/11/altman_shutterstock.jpg",
-      "publishedAt": "2025-10-06T14:09:33Z",
-      "content": "AMD and OpenAI have forged a 6 gigawatt agreement to power OpenAIs AI infrastructure across multiple generations of AMD Instinct GPUs.\r\nIn a statement, the chipmaker said the first deployment of MI45… [+2358 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "OpenAI's Sora 2 app soars to No. 1 in the App Store - why there's a feeding frenzy to try it",
-      "description": "Many people are turning to OpenAI's Discord server, Reddit, and other spots to beg, borrow, or steal.",
-      "url": "https://www.zdnet.com/article/openais-sora-2-app-soars-to-no-1-in-the-app-store-why-theres-a-feeding-frenzy-to-try-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a76e91f06aef5fb5b3d9a433bda55c03ea46ecfc/2025/05/28/f6ddfe85-e01d-425b-baf1-760ea89d3d73/20250528-1455-futuristic-sora-iphone-simple-compose-01jwc3wb2pfv7brvwsgvt3j9rn.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T14:06:23Z",
-      "content": "Sabrina Ortiz/ZDNET via ChatGPT\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new Sora by OpenAI app is tops in Apple's App Store.</li><li>Using the Sora … [+3195 chars]"
     }
   ]
 }
