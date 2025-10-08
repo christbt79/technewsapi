@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T20:10:08.117Z",
+  "fetchedAt": "2025-10-08T20:37:17.653Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Employees regularly paste company secrets into ChatGPT",
+      "description": "Microsoft Copilot, not so much Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Information (PII) or Payment Card Indu…",
+      "url": "https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/07/shutterstock_1619490175.jpg",
+      "publishedAt": "2025-10-07T20:18:05Z",
+      "content": "Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Informati… [+4440 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
       "publishedAt": "2025-10-06T17:30:27Z",
       "content": "OpenAI CEO Sam Altman said Monday that ChatGPT has reached 800 million weekly active users, marking an increase of adoption among consumers, developers, enterprises, and governments.  \r\nChatGPT’s imp… [+1420 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kyle Wiggers, Rebecca Bellan",
-      "title": "Meta Llama: Everything you need to know about the open generative AI model",
-      "description": "Here's everything you need to know about Meta’s Llama, from its capabilities and editions to where you can use it. We'll keep this post updated as Meta releases upgrades and introduces new dev tools to support the model's use.",
-      "url": "https://techcrunch.com/2025/10/06/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-959993436-e1718640411389.jpg?resize=1200,675",
-      "publishedAt": "2025-10-06T17:11:50Z",
-      "content": "Like every Big Tech company these days, Meta has its own flagship generative AI model, called Llama. Llama is somewhat unique among major models in that it’s “open,” meaning developers can download a… [+9290 chars]"
     }
   ]
 }
