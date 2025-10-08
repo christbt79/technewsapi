@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T21:31:52.689Z",
+  "fetchedAt": "2025-10-08T22:08:42.386Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Min",
+      "title": "Stock market today: Live updates",
+      "description": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
+      "url": "https://www.cnbc.com/2025/10/07/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206414-1759874774335-108206414-1759329302141-gettyimages-2238557509-anotherday123715883_pygnxms1.jpeg?v=1759874795&w=1920&h=1080",
+      "publishedAt": "2025-10-07T22:06:35Z",
+      "content": "U.S. stock futures were little changed on Tuesday night, after the S&amp;P 500 capped a seven-day win streak because of a drop in Oracle that called to question the sustainability of the artificial i… [+1789 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Kyndall Cunningham",
+      "title": "In times of uncertainty, Gen Z is “locked in”",
+      "description": "TikTokers love a challenge, especially if it involves some sort of self-imposed hibernation period that will transform their lives and pay off in physical or financial success.  Currently, my feed is full of young people participating in “The Great Lock-In,” …",
+      "url": "https://www.vox.com/culture/464023/great-lock-in-tiktok-hard-75-winter-arc-gen-z",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-1359131129.jpg?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
+      "publishedAt": "2025-10-07T22:03:26Z",
+      "content": "Locking in defies previous stereotypes we’ve held about Gen Z and its relationship to work. | We Are/Getty Images\r\n\n\nTikTokers love a challenge, especially if it involves some sort of self-imposed hi… [+8815 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/db0bccbd4ca7f88200279f63e868e021f30868fe/2025/09/02/0c907395-e111-44f5-a936-de606154405f/xtc1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-06T19:00:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI love that Android makes it possible for companies to create devices for various scenarios. For example, you might want to have a large touchsc… [+5205 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Luke Larsen",
-      "title": "This 16-Inch Laptop Just Won Best Buy's Techtober Sale",
-      "description": "This Acer laptop just won Best Buy's Techtober sales event, sporting remarkably high specs for the price.",
-      "url": "https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e0b4dcc71e9489baa520c1/191:100/w_1280,c_limit/I've%20Never%20Seen%20a%20High-End%20Laptop%20Sell%20For%20This%20Cheap.png",
-      "publishedAt": "2025-10-06T18:48:08Z",
-      "content": "As part of Best Buy's Techtober sales event, I stumbled upon the best laptop deal I've seen in a while. It's for $450 off the Acer Swift 16 AI (8/10, WIRED Recommends), costing $800. Now, I'm not say… [+1649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Peter Lynch on why he isn't in the AI trade: 'I literally couldn't pronounce Nvidia until about 8 months ago'",
-      "description": "Lynch described himself as \"low tech\" and emphasized the importance of understanding the stocks you own.",
-      "url": "https://www.cnbc.com/2025/10/06/peter-lynch-ai-trade-investing.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107230518-1682425024898-SG-PeterLynch-01.jpg?v=1682429773&w=1920&h=1080",
-      "publishedAt": "2025-10-06T18:40:12Z",
-      "content": "Legendary investor Peter Lynch built a reputation for routinely beating the market while overseeing Fidelity Magellan Fund in the 1980s. Decades later, he has some advice for the next generation of i… [+4746 chars]"
     }
   ]
 }
