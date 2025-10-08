@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-08T14:09:47.867Z",
+  "fetchedAt": "2025-10-08T14:41:28.621Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Qualcomm is acquiring DIY electronics platform Arduino",
+      "description": "Qualcomm is acquiring Arduino, the Italian open-source electronics platform behind a range of boards for tinkerers, DIY hobbyists, and educators, for an undisclosed amount. In an announcement on Tuesday, Qualcomm says the Arduino “brand, tools, and mission” w…",
+      "url": "https://www.theverge.com/news/794452/qualcomm-arduino-acquisition-uno-q",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ArduinoUnoQ.png?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
+      "publishedAt": "2025-10-07T14:41:07Z",
+      "content": "<ul><li></li><li></li></ul>\r\nArduino is also launching a Qualcomm-equipped Uno Q that functions as a single-board computer and microcontroller.\r\nArduino is also launching a Qualcomm-equipped Uno Q th… [+2713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Google will pay you up to $30,000 in rewards to find bugs in its AI products",
+      "description": "Google products included in the new AI bug bounty program include Gemini, Search, AI Studio, and Workspace.",
+      "url": "https://www.zdnet.com/article/google-will-pay-you-up-to-30000-in-rewards-to-find-bugs-in-its-ai-products/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/734466a280bb127ceea79e05d36930f911dfef81/2025/10/07/8fd77d41-9e47-4927-a584-a6007551b935/gettyimages-2238327351.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T14:38:00Z",
+      "content": "NurPhoto / Contributor / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The new program focuses on vulnerabilities related to AI products.</li><l… [+4135 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "OpenAI and the race for AI-driven commerce | TechCrunch",
+      "description": "OpenAI now has all the pieces in place for AI-driven commerce, establishing ChatGPT as a place customers go to buy and retailers go to sell.",
+      "url": "https://techcrunch.com/2025/10/07/openai-and-the-race-for-ai-driven-commerce/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-07-at-9.35.14-AM.jpg?resize=1200,603",
+      "publishedAt": "2025-10-07T14:25:04Z",
+      "content": "OpenAI held its annual dev day on Monday, where the company rolled out its plan to build apps into ChatGPT. The demo was impressive, showing how programs like Spotify and Figma can be called or disco… [+4121 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Google Pixel 10 and Pixel 10 Pro Are on Sale for Prime Big Deal Days",
+      "description": "Snag the first Qi2 flagship Android phones at hefty discounts during Amazon's Prime Big Deal Days.",
+      "url": "https://www.wired.com/story/google-pixel-10-sale-amazon-prime-big-deal-days-october-2025/",
+      "urlToImage": "https://media.wired.com/photos/68aea51fcb3116c38839e107/191:100/w_1280,c_limit/Google%20Pixel%2010%20Pro%20and%20Pixel%2010%20Pro%20XL%20SOURCE%20Julian%20Chokkattu.png",
+      "publishedAt": "2025-10-07T14:23:13Z",
+      "content": "Barely a month has passed, and Google's entire new Pixel 10 smartphone lineup is on sale for Amazon's Prime Big Deal Days event. There's a whopping $150 discount on the Pixel 10, bringing it down to … [+3194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "One of the best Apple Watches you can buy isn't Apple's newest (but it's $120 off)",
+      "description": "The Apple Watch Series 10 might be last year's model, but its specs prove it's basically as capable as the Series 11. The main difference? It's 30% off during Prime Day.",
+      "url": "https://www.zdnet.com/article/one-of-the-best-apple-watches-you-can-buy-isnt-apples-newest-but-its-120-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/63a6143b17db99b26adcfe7564e47175f2c77e8f/2025/06/23/e2d75e91-0548-42e2-8227-b1fb66d8ddd9/dsc03792.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-07T14:17:26Z",
+      "content": "Nina Raemont/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple unveiled its triple-watch lineup at its September iPhone event. The new contenders include the base model Series 11, … [+3734 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/FnzD2gpQL5qN4RRZnQ4V9k-1920-80.jpg",
       "publishedAt": "2025-10-06T11:50:02Z",
       "content": "A report detailing a tour of a Swiss lab, where researchers are working to develop computers powered by mini human brains, has been published by the BBC. The UK’s national broadcaster sent a reporter… [+3419 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "AMD teams up with OpenAI to challenge Nvidia’s AI chip dominance",
-      "description": "AMD is partnering with OpenAI to provide six gigawatts worth of processors for AI data centers, a move that challenges Nvidia’s AI chip market dominance. The five-year agreement aims to help OpenAI bolster its infrastructure to meet growing computational dema…",
-      "url": "https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_180529_1777_amd_0001.0.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-06T11:33:05Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe five-year deal will commit OpenAI to purchasing six gigawatts worth of AMDs GPUs for its AI data centers.\r\nThe five-year deal will commit OpenAI to purchasin… [+2181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
-      "title": "OpenAI and AMD announce multibillion-dollar partnership — AMD to supply 6 gigawatts in chips, OpenAI could get up to 10% of AMD shares in return",
-      "description": "AMD and OpenAI have announced a multibillion-dollar partnership to collaborate on AI data centers powered by AMD chips.",
-      "url": "https://www.tomshardware.com/tech-industry/openai-and-amd-announce-multibillion-dollar-partnership-amd-to-supply-6-gigawatts-in-chips-openai-could-get-up-to-10-percent-of-amd-shares-in-return",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/k2unqBsM738uDzGer6hebh-2560-80.jpg",
-      "publishedAt": "2025-10-06T11:23:33Z",
-      "content": "OpenAI and AMD have announced a multibillion-dollar partnership that will see the companies collaborate on AI data centers powered by AMD processors. OpenAI has committed to purchasing 6 gigawatts of… [+2748 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rhett Allain",
-      "title": "How to Get Your Kids Into STEM Even When Its Future Is Uncertain",
-      "description": "Thinking about science and technology in terms of return on investment misses the point. Here’s what kids really need to know.",
-      "url": "https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/",
-      "urlToImage": "https://media.wired.com/photos/68dffd4da53aa7c33a6d9722/191:100/w_1280,c_limit/Importance-of-STEM-Culture-1499825393.jpg",
-      "publishedAt": "2025-10-06T11:00:00Z",
-      "content": "What about AI? If artificial intelligence takes over, some argue, theres little point in studying physics or any science. AI could be doing half your job before you even get your degree. But that arg… [+2540 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Jonathan Weil",
-      "title": "Nasdaq Has Become the Market of Choice for Dubious Penny-Stock IPOs",
-      "description": "Such listings surged starting last year. Now Nasdaq says it wants to tighten its standards.",
-      "url": "https://www.wsj.com/finance/stocks/nasdaq-has-become-the-market-of-choice-for-dubious-penny-stock-ipos-a01cae19",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mAViuq6WUiRmuS8RcImfSg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/a2fa81b0f00130cdcf053220a6bc6260",
-      "publishedAt": "2025-10-06T11:00:00Z",
-      "content": "Final approval for Nasdaqs tightened listing standards could be months away. - Jimin Kim/ZUMA Press\r\nNasdaq is known as the markets home for tech stocks, in particular giants like Nvidia, Apple and M… [+4427 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Mackenzie Sigalos",
-      "title": "OpenAI looks to take 10% stake in AMD through AI chip deal",
-      "description": "OpenAI will deploy up to 6 gigawatts of AMD Instinct GPUs over multiple years, beginning with a 1-gigawatt rollout in 2026.",
-      "url": "https://www.cnbc.com/2025/10/06/openai-amd-chip-deal-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207932-1759714573516-gettyimages-2213398756-SENATE_AI.jpeg?v=1759714728&w=1920&h=1080",
-      "publishedAt": "2025-10-06T10:54:47Z",
-      "content": "Sam Altman, chief executive officer of OpenAI, left, and Lisa Su, chair and chief executive officer of Advanced Micro Devices, arrive for a Senate Commerce, Science, and Transportation Committee hear… [+4123 chars]"
     }
   ]
 }
