@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-08T09:37:51.800Z",
+  "fetchedAt": "2025-10-08T10:09:57.641Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Beam",
+      "title": "The Future of AI Filmmaking Is a Parody of the Apocalypse, Made by a Guy Named Josh",
+      "description": "Behold Neural Viz, the first great cinematic universe of the AI era.",
+      "url": "https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/",
+      "urlToImage": "https://media.wired.com/photos/68cb1faf9529bd41c6c2b376/191:100/w_1280,c_limit/NV_TA.jpg",
+      "publishedAt": "2025-10-07T10:00:00Z",
+      "content": "The AI kept getting things wrong. In one shot, Tiggy looked inexplicably jacked. In another, his back was too dry. When the filmmaker told one piece of software to give the back of Tiggys head frog-l… [+1974 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "The Best Cheap Asus Chromebook Has Dropped Below $250",
+      "description": "Asus' budget Chromebook is cheaper than ever this Prime Day, with the price dropping to below $250 for the first time ever.",
+      "url": "https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e084d76a01e9d010452816/191:100/w_1280,c_limit/The%20Chromebook%20I%20Recommend%20to%20Everyone%20Is%20Cheaper%20Than%20Ever%20on%20Prime%20Day.png",
+      "publishedAt": "2025-10-07T09:55:00Z",
+      "content": "Chromebooks are a dime a dozen, but precious few of them are actually worth recommending. The Asus CX15 is a rare exception. Its one of the best Chromebooks you can buy, not only because it offers de… [+1879 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675",
       "publishedAt": "2025-10-05T15:02:47Z",
       "content": "AI coding tools are getting better fast. If you dont work in code, it can be hard to notice how much things are changing, but GPT-5 and Gemini 2.5 have made a whole new set of developer tricks possib… [+4436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Save 32% on this Kindle Scribe bundle before Prime Day",
-      "description": "Amazon's Kindle Scribe Bundle includes a stylus, pen, and adapter with the e-reader. In the lead up to Prime Day, all three combos are on sale.",
-      "url": "https://www.zdnet.com/article/save-32-on-this-kindle-scribe-bundle-before-prime-day/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cae65a42e9a47350437367410fb5e3ba934f7710/2022/12/15/78c8f519-0b5d-41da-84ce-18ff08c74746/kindle-scribe.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-05T14:28:05Z",
-      "content": "Amazon\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon's next Prime Day sales event is just days away, running Oct. 7-8. It's a major sale event where the site rolls out big discounts … [+2420 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-bicchierai",
-      "title": "The Young Minds App wants to protect and educate children online and will show its tech at TechCrunch Disrupt 2025",
-      "description": "Young Minds gives parents control over what their kids do on the internet, while also protecting their children’s privacy and teaching them good online habits.",
-      "url": "https://techcrunch.com/2025/10/05/the-young-minds-app-wants-to-protect-and-educate-children-online-and-will-show-its-tech-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Nino-Dvalidze.jpg?resize=1200,800",
-      "publishedAt": "2025-10-05T14:27:45Z",
-      "content": "An app called Young Minds wants to give parents control over what their kids do on the internet, while also protecting their childrens privacy and teaching them good online habits. \r\nThe startup was … [+2470 chars]"
     }
   ]
 }
