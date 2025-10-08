@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-08T22:36:41.756Z",
+  "fetchedAt": "2025-10-08T23:07:59.707Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jensen Huang explains why Nvidia's latest partnership with OpenAI is different",
+      "description": "In a interview with CNBC's Jim Cramer on Tuesday, Nvidia CEO Jensen Huang discussed his company's new deal with ChatGPT maker OpenAI.",
+      "url": "https://www.cnbc.com/2025/10/07/jensen-huang-nvidia-openai-different.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208973-1759860674853-dsc_6113.jpg?v=1759867932&w=1920&h=1080",
+      "publishedAt": "2025-10-07T22:53:21Z",
+      "content": "In an interview with CNBC's Jim Cramer, Nvidia CEO Jensen Huang discussed his company's new deal with OpenAI, saying it's the first \"direct partnership\" with the ChatGPT maker.\r\n\"This is a partnershi… [+2053 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "You can't libel the dead. But that doesn't mean you should deepfake them. | TechCrunch",
+      "description": "\"Please, just stop sending me AI videos of Dad,\" the late Robin Williams' daughter Zelda wrote on Instagram.",
+      "url": "https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2211311216.jpg?resize=1200,800",
+      "publishedAt": "2025-10-07T22:51:34Z",
+      "content": "Zelda Williams, daughter of the late actor Robin Williams, has a poignant message for her father’s fans.\r\n“Please, just stop sending me AI videos of Dad. Stop believing I wanna see it or that I’ll un… [+3670 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google’s latest AI model uses a web browser like you do",
+      "description": "Google is previewing a new Gemini AI model designed to navigate and interact with the web via a browser, letting AI agents do things inside interfaces designed for use by people and not robots. The model, called Gemini 2.5 Computer Use, uses “visual understan…",
+      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-07T22:43:33Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Gemini 2.5 Computer Use model can click, scroll, and type in a browser window to access data thats not available via an API. \r\nThe new Gemini 2.5 Compute… [+3048 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-06T20:24:53Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle will dish out the biggest bucks for rooting out ways to command rogue actions from its AI bots.\r\nGoogle will dish out the biggest bucks for rooting out wa… [+3285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Monica Bell",
-      "title": "Grab a pair of AirPods 4 for under $90 - the lowest price yet",
-      "description": "Ahead of Amazon Prime Day, Apple's latest base-model AirPods get a $40 discount, bringing them to an all-time-low price.",
-      "url": "https://www.zdnet.com/article/grab-a-pair-of-airpods-4-for-under-90-the-lowest-price-yet/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e8c4552f93d2955f78a52b121b0b19b7564fb8be/2024/09/30/4d6105bc-de3a-41c1-bb6d-262d3516613f/airpods4-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T19:48:13Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon October Prime Day starts tomorrow, but we've found some great early deals that are already live. Apple products are alw… [+2435 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lauren Goode, Will Knight",
-      "title": "OpenAI Wants ChatGPT to Be Your Future Operation System",
-      "description": "At OpenAI’s Developer Day, CEO Sam Altman showed off apps that run entirely inside the chat window—a new effort to turn ChatGPT into a platform.",
-      "url": "https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/",
-      "urlToImage": "https://media.wired.com/photos/68e418e683909ddc0a48c4c8/191:100/w_1280,c_limit/OpenAI-Wants-ChatGPT-to-be-Your-Future-Operation-System-Business-2218344212.jpg",
-      "publishedAt": "2025-10-06T19:34:23Z",
-      "content": "OpenAI didnt share details around any revenue-share agreements with Canva, Zillow, Spotify, and the other apps it highlighted today.\r\nThe new SDK announcement signals a deeper commitment to working w… [+1640 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Microsoft buys another 100 MW of solar, this time in Japan | TechCrunch",
-      "description": "The new deal covers output from four different solar projects. Microsoft has said it will spend $2.9 billion to expand its infrastructure in Japan.",
-      "url": "https://techcrunch.com/2025/10/06/microsoft-buys-another-100-mw-of-solar-this-time-in-japan/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-182939200.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-06T19:22:53Z",
-      "content": "Microsoft is buying 100 megawatts of solar capacity from Japanese developer Shizen Energy, the latest in a string of renewable energy deals designed to power the tech company’s growing compute needs.… [+891 chars]"
     }
   ]
 }
