@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-09T20:37:31.869Z",
+  "fetchedAt": "2025-10-09T21:07:54.926Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Samsung Galaxy Z Fold 7 vs. Google Pixel 10 Pro Fold: We tested both, there's a clear winner",
+      "description": "Samsung and Google's new foldables target different types of users - here's how to decide which one to buy.",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-we-tested-both-theres-a-clear-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ba654d38aa63b929e8b1657fa28bb914d8519f02/2025/10/08/99af3842-985b-483c-a8e0-45b03b45b7fd/dsc07981.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T21:05:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Google Pixel 10 Pro Fold officially goes on sale today, and it already faces stiff competition from the Samsung Galaxy … [+6705 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kat Tenbarge",
+      "title": "Fans Call on Taylor Swift to ‘Do Better’ After Accusations of Using AI for Promo Videos",
+      "description": "A scavenger hunt campaign to promote Taylor Swift’s new album The Life of a Showgirl resulted in a viral #SwiftiesAgainstAI campaign.",
+      "url": "https://www.wired.com/story/taylor-swift-swifties-against-ai-viral/",
+      "urlToImage": "https://media.wired.com/photos/68e5828d8c3af7cdfe932788/191:100/w_1280,c_limit/Taylor-Swift-AI-Promo-Culture-2239032475.jpg",
+      "publishedAt": "2025-10-08T20:53:21Z",
+      "content": "We are very much losing this battle against common sense when it comes to using generative AI, Schnitt says, adding that if the videos are AI and Swift apologizes for it, the move could be a touchsto… [+2393 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims",
+      "description": "Federal law enforcement has arrested a suspect in connection with starting what became the Palisades blaze that killed 12 people and burned through thousands of acres. Among the evidence cited is an AI image of a burning city that the suspect allegedly genera…",
+      "url": "https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2192316305.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "publishedAt": "2025-10-08T20:44:18Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nProsecutors accuse Jonathan Rinderknecht of generating the image a few months before the Palisades fire. \r\nProsecutors accuse Jonathan Rinderknecht of generating… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Adam Clark Estes",
+      "title": "Don’t get too excited about AI’s downfall",
+      "description": "It’s been a big couple weeks for OpenAI. The most valuable startup in the world recently announced that ChatGPT will become more like an operating system, released its first social networking app, and even spread rumors about launching a device designed to ma…",
+      "url": "https://www.vox.com/technology/464187/openai-chatgpt-ai-bubble-nvidia-stock",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2236865005.jpg?quality=90&strip=all&crop=0%2C10.743757137009%2C100%2C78.512485725982&w=1200",
+      "publishedAt": "2025-10-08T20:42:15Z",
+      "content": "On Wednesday, the Bank of England cautioned that the risk of a “sudden correction” to global markets is growing as the valuations of top AI companies increase.\r\n\n\nIt’s been a big couple weeks for Ope… [+5474 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -796,19 +848,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -819,6 +858,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-1359131129.jpg?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
       "publishedAt": "2025-10-07T22:03:26Z",
       "content": "Locking in defies previous stereotypes we’ve held about Gen Z and its relationship to work. | We Are/Getty Images\r\n\n\nTikTokers love a challenge, especially if it involves some sort of self-imposed hi… [+8815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Truth about AI, jobs and the future? 'No one knows anything,' says Wharton expert Ethan Mollick",
-      "description": "For all the rapid progress in gen AI, what we still don't know about artificial intelligence and the future is just about everything.",
-      "url": "https://www.cnbc.com/2025/10/07/generative-ai-knowledge-learning-jobs-education-skills-wharton-ethan-mollick.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200695-1758204091659-gettyimages-2169853690-ACSL_laptop_website_Openai.jpeg?v=1759865769&w=1920&h=1080",
-      "publishedAt": "2025-10-07T21:15:54Z",
-      "content": "Ethan Mollick is considered one of the top experts on the emerging world of generative AI, jobs and the economy, but you might not think so if you take his word for it.\r\n\"Leading is not that far a le… [+10079 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Trump's DOE proposes cutting billions in grants for GM, Ford, and lots of startups",
-      "description": "Trump's Department of Energy wants to cancel billions more in awards that were granted by the Biden administration, and startups are in the crosshairs.",
-      "url": "https://techcrunch.com/2025/10/07/trumps-doe-proposes-cutting-billions-in-grants-for-gm-ford-and-lots-of-startups/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/critical-infrastructure.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-07T21:12:39Z",
-      "content": "The Department of Energy is looking to cut billions more in federal funding, and many promising startups as well as automakers Ford, General Motors, and Stellantis could be affected by the Trump admi… [+3296 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Nobel Prize in Physics goes to early research that led to today’s quantum computers",
-      "description": "On Thursday, three physicists received the 2025 Nobel Prize in Physics for their work on quantum mechanics in the 1980s. Researchers John Clarke, Michel Devoret, and John Martinis created a circuit with no electrical resistance to demonstrate a phenomenon kno…",
-      "url": "https://www.theverge.com/news/795295/nobel-prize-phyics-quantum-computers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC9688_StandardJPEG60.jpg?quality=90&strip=all&crop=0%2C10.729351485746%2C100%2C78.541297028509&w=1200",
-      "publishedAt": "2025-10-07T21:09:53Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nModern cell phones are also built on the work of todays winners from 40 years ago. \r\nModern cell phones are also built on the work of todays winners from 40 year… [+2780 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases  | TechCrunch",
-      "description": "Wall Street analysts explain how AMD’s own stock will pay for OpenAI’s billions in chip purchases  | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/07/wall-street-analysts-explain-how-amds-own-stock-will-pay-for-openais-billions-in-chip-purchases/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
-      "publishedAt": "2025-10-07T21:03:10Z",
-      "content": "After AMD and OpenAI announced an expanded partnership on Monday, the chatter immediately turned to the unusual way OpenAI would pay for its AMD purchases. It will use AMDs own stock to do so. \r\nTo r… [+2818 chars]"
     }
   ]
 }
