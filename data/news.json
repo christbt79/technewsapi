@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-09T22:36:14.550Z",
+  "fetchedAt": "2025-10-09T23:08:29.427Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says | TechCrunch",
+      "description": "Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+      "publishedAt": "2025-10-08T23:04:14Z",
+      "content": "At nearly the same moment as Nvidia CEO Jensen Huang was expressing surprise over OpenAI’s multibillion-dollar deal with competitor AMD shortly after his company agreed to invest up to $100 billion i… [+3994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cramer's Lightning Round: IFF is 'just flatlining'",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2025/10/08/cramers-lightning-round-iff-is-just-flatlining.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102079128-1539342565979105501689.jpg?v=1698448473&w=1920&h=1080",
+      "publishedAt": "2025-10-08T22:54:02Z",
+      "content": "IFF: \"The problem there is that it's just flatlining. The sales have flatlined, there's really nothing that I can say that's good about it. It has no growth, and that's disappointing. It used to be a… [+226 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "The Dell 14 Plus Is Now Only $650",
+      "description": "For Prime Day, the Dell 14 Plus has dropped to just $650, and for that price, it's the Windows laptop most people should buy.",
+      "url": "https://www.wired.com/story/dell-14-plus-prime-day-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e6dbbcabf8e4d2e9b8e82c/191:100/w_1280,c_limit/Why%20This%20$650%20Laptop%20Is%20the%20Only%20Windows%20Device%20You%20Should%20Buy%20on%20Prime%20Day.png",
+      "publishedAt": "2025-10-08T22:46:57Z",
+      "content": "The best laptop deal of this big week of deals can't be found on Amazon. Not on Best Buy or Walmart either. Instead, at Dell.com, you'll find the Dell 14 Plus (6/10, WIRED Reviewed) selling for just … [+2287 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -913,19 +952,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -936,6 +962,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188068-1755617017472-gettyimages-2230271863-porzycki-inteland250819_npxew.jpeg?v=1756305627&w=1920&h=1080",
       "publishedAt": "2025-10-08T00:08:16Z",
       "content": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters. It is part of an effort to reassur… [+3331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jensen Huang explains why Nvidia's latest partnership with OpenAI is different",
-      "description": "In a interview with CNBC's Jim Cramer on Tuesday, Nvidia CEO Jensen Huang discussed his company's new deal with ChatGPT maker OpenAI.",
-      "url": "https://www.cnbc.com/2025/10/07/jensen-huang-nvidia-openai-different.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208973-1759860674853-dsc_6113.jpg?v=1759867932&w=1920&h=1080",
-      "publishedAt": "2025-10-07T22:53:21Z",
-      "content": "In an interview with CNBC's Jim Cramer, Nvidia CEO Jensen Huang discussed his company's new deal with OpenAI, saying it's the first \"direct partnership\" with the ChatGPT maker.\r\n\"This is a partnershi… [+2053 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "You can't libel the dead. But that doesn't mean you should deepfake them. | TechCrunch",
-      "description": "\"Please, just stop sending me AI videos of Dad,\" the late Robin Williams' daughter Zelda wrote on Instagram.",
-      "url": "https://techcrunch.com/2025/10/07/you-cant-libel-the-dead-but-that-doesnt-mean-you-should-deepfake-them/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2211311216.jpg?resize=1200,800",
-      "publishedAt": "2025-10-07T22:51:34Z",
-      "content": "Zelda Williams, daughter of the late actor Robin Williams, has a poignant message for her father’s fans.\r\n“Please, just stop sending me AI videos of Dad. Stop believing I wanna see it or that I’ll un… [+3670 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Google’s latest AI model uses a web browser like you do",
-      "description": "Google is previewing a new Gemini AI model designed to navigate and interact with the web via a browser, letting AI agents do things inside interfaces designed for use by people and not robots. The model, called Gemini 2.5 Computer Use, uses “visual understan…",
-      "url": "https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-07T22:43:33Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Gemini 2.5 Computer Use model can click, scroll, and type in a browser window to access data thats not available via an API. \r\nThe new Gemini 2.5 Compute… [+3048 chars]"
     }
   ]
 }
