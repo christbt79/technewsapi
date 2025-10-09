@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-09T18:44:44.567Z",
+  "fetchedAt": "2025-10-09T19:07:48.454Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Motorola's flagship foldable is now $300 off on Amazon",
+      "description": "Motorola's Razr Ultra is a premium flip phone with a notably sturdy design. For October Prime Day, it's on sale for 23% off.",
+      "url": "https://www.zdnet.com/article/motorolas-flagship-foldable-is-now-300-off-on-amazon/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c3136d0f81bc5499fbb26f87a7bb26940ff2be8e/2025/05/14/72faf7fc-1ce9-45db-9848-fb839aed753b/dsc05906-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T18:54:50Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon's Prime Day is well into its second day. It's a major sales event where the retail platform slashes prices on a wide ran… [+2221 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2154742440.jpg?resize=1200,799",
       "publishedAt": "2025-10-07T19:17:40Z",
       "content": "Otter.ai CEO Sam Liang isn’t satisfied with the company being viewed, and used, as just a meeting notetaker. Liang wants Otter.ai to become a go-to source for enterprises and a new batch of products … [+3173 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Adrienne So",
-      "title": "Ultrahuman's Tracker Ring Requires No Subscription, and It’s Under $300 for Prime Day",
-      "description": "You have until October 21 to buy the Ultrahuman smart ring. Or check out one of these other fitness tracker deals for Prime Day.",
-      "url": "https://www.wired.com/story/ultrahuman-prime-day-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e0b3f8026132543e222e53/191:100/w_1280,c_limit/Our%20Favorite%20Smart%20Ring%20Without%20a%20Subscription%20Is%20Now%20$50%20Off.png",
-      "publishedAt": "2025-10-07T19:11:43Z",
-      "content": "This is a crazy year to be writing about smart rings. Normally, we call rings in, test them, and write about them. But Finnish ring manufacturer Oura has jumped so far ahead of the pack that it's sca… [+3006 chars]"
     }
   ]
 }
