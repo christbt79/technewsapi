@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T09:37:08.101Z",
+  "fetchedAt": "2025-10-09T10:10:11.891Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon launches prescription vending machines at One Medical clinics in Los Angeles",
+      "description": "The kiosks are operated by Amazon Pharmacy and stock a range of commonly prescribed medications, such as antibiotics, inhalers and blood pressure treatments.",
+      "url": "https://www.cnbc.com/2025/10/08/amazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209055-1759869425516-Amazon_Pharmacy_Kiosks_-_OM_lobby.png?v=1759869684&w=1920&h=1080",
+      "publishedAt": "2025-10-08T10:00:01Z",
+      "content": "Amazon is launching prescription drug kiosks at some One Medical offices in Los Angeles, the company announced Wednesday, in a move that could disrupt brick-and-mortar pharmacy businesses.\r\nThe kiosk… [+3229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Dell bets big on an AI infrastructure payoff—new four-year revenue forecast doubles prior guidance",
+      "description": "Dell has nearly doubled its long-term growth outlook on the back of surging demand for AI servers, raising revenue and earnings projections through fiscal 2030.",
+      "url": "https://www.tomshardware.com/tech-industry/dell-doubles-long-term-growth-expectations-due-to-surging-ai-demands",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jyLCBofMQtCDtRSnyeQ5YK-2560-80.jpg",
+      "publishedAt": "2025-10-08T10:00:00Z",
+      "content": "Dell has nearly doubled its long-term growth outlook\r\n on the back of surging demand for AI servers, raising revenue and earnings projections through its fiscal 2030 as it leans into the data center … [+2976 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e408a2089e9a406fb333fb/191:100/w_1280,c_limit/gear-jony-ive-openai-AP25141660380307.jpg",
       "publishedAt": "2025-10-07T01:19:36Z",
       "content": "At OpenAIs developer conference in San Francisco on Monday, CEO Sam Altman and ex-Apple designer Jony Ive spoke in vague terms about the family of devices the pair are currently working to develop.\r\n… [+1929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: The AI industry's 'happy few'",
-      "description": "The arrangement between OpenAI and AMD adds a new layer to the increasingly circular nature of AI's corporate economy.",
-      "url": "https://www.cnbc.com/2025/10/07/cnbc-daily-open-the-ai-industrys-happy-few-openai-amd.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107358932-1705330915065-Davos_Promenade_AI_Lead_picture.jpg?v=1705481127&w=1920&h=1080",
-      "publishedAt": "2025-10-07T01:19:24Z",
-      "content": "\"We few, we happy few, we band of brothers.\" The rallying cry from Shakespeare's Henry V,ahead of the Battle of Agincourt, might as well be the motto of today's artificial intelligence elites.\r\nLast … [+2643 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elizabeth Lopatto",
-      "title": "Memo to Bari Weiss Re: CBS News: You’re doomed",
-      "description": "To: Bari Weiss RE: Good luck, babe! I honestly cannot believe you've willingly decided to go into the worst kind of job that exists: management at a dying company. This is the glass cliff to end all glass cliffs Managing sucks! It sucks even when you like the…",
-      "url": "https://www.theverge.com/business/793525/bari-weiss-cbs-news-glass-cliff",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194604196.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-07T00:46:57Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMemo to Bari Weiss Re: CBS News: Youre doomed\r\nby\r\nElizabeth LopattoClose\r\nElizabeth Lopatto\r\nPosts from this author will be added to your daily email digest and… [+13121 chars]"
     }
   ]
 }
