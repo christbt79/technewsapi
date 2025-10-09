@@ -1,6 +1,136 @@
 {
-  "fetchedAt": "2025-10-09T16:45:06.228Z",
+  "fetchedAt": "2025-10-09T17:08:30.185Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "H-1B visa changes explained: The loophole costing startups talent | TechCrunch",
+      "description": "Jeremy Neufeld of the Institute for Progress breaks down Trump's $100K H-1B fee, the loophole letting 80% skip it, and what startups need to know.",
+      "url": "https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
+      "publishedAt": "2025-10-08T17:04:25Z",
+      "content": "Today on TechCrunch’s Equity podcast, Dominic-Madori Davis was joined by Jeremy Neufeld, the Director of Immigration Policy at the Institute for Progress, to break down what the recent H-1B change me… [+714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Bank of England smells hint of dotcom bubble 2.0 in AI froth",
+      "description": "UK central bank warns of 'sudden correction' in tech stocks\nThe Bank of England's Financial Policy Committee has warned of the dangers of a sudden correction in the financial markets, owing to the value of tech and AI stocks, and has compared the risks to the…",
+      "url": "https://www.theregister.com/2025/10/08/boe_dotcom_bubble_ai/",
+      "urlToImage": "https://regmedia.co.uk/2017/05/26/bubble_shutterstock.jpg",
+      "publishedAt": "2025-10-08T17:03:26Z",
+      "content": "The Bank of England's Financial Policy Committee has warned of the dangers of a sudden correction in the financial markets, owing to the value of tech and AI stocks, and has compared the risks to the… [+3637 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Zendesk says its new AI agent can solve 80% of support issues | TechCrunch",
+      "description": "Zendesk has launched a new autonomous support agent that should solve 80% of support issues without human intervention.",
+      "url": "https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1082161742.jpg?w=1024",
+      "publishedAt": "2025-10-08T17:02:26Z",
+      "content": "Zendesk announced Wednesday at its AI summit a string of LLM-driven products meant to reshape the company’s reliance on human technicians.\r\nThe center of the new features is an autonomous support age… [+2403 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Felipe De La Hoz",
+      "title": "Trump’s vague and confusing immigration policies are the point",
+      "description": "In August, the US Citizenship and Immigration Services, the agency that adjudicates and grants immigration benefits like visas, residency, and naturalization, put out a bizarre three-page policy alert. Among other things, it noted vaguely that the agency woul…",
+      "url": "https://www.theverge.com/policy/794893/anti-american-activities-immigration-policy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257941_anti-americanism_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T17:01:47Z",
+      "content": "<ul><li></li></ul>\r\nTrumps vague and confusing immigration policies are the point\r\nThe administration cited anti-Americanism as a way to deny visas. Legal experts are bewildered by what that means.\r\n… [+8893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Google Pixel 10 Pro Fold vs. Samsung Galaxy Z Fold 7: We tested both, and the winner is not so obvious",
+      "description": "Samsung and Google's new foldables target different types of users - here's the one that's right for you.",
+      "url": "https://www.zdnet.com/article/google-pixel-10-pro-fold-vs-samsung-galaxy-z-fold-7-we-tested-both-and-the-winner-is-not-so-obvious/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ba654d38aa63b929e8b1657fa28bb914d8519f02/2025/10/08/99af3842-985b-483c-a8e0-45b03b45b7fd/dsc07981.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T17:00:47Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Google Pixel 10 Pro Fold officially goes on sale today, and it already faces stiff competition from the Samsung Galaxy … [+6705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I tested the Pixel Watch 4, and it's convinced me to put away my Galaxy Watch 8 for good",
+      "description": "Google's latest AI-powered smartwatch gets several upgrades that keep it competitive with its Android competition.",
+      "url": "https://www.zdnet.com/article/i-tested-the-pixel-watch-4-and-its-convinced-me-to-put-away-my-galaxy-watch-8-for-good/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2ef42d09a280a296e8a88858adc5818a4d81a082/2025/08/15/d97bc0f0-ebe9-464e-b5d0-5a70fc60d06d/dsc06849.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T17:00:46Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Google Pixel Watch 4 Review: The Best Smartwatch for Android",
+      "description": "A gorgeous domed display and smarter assistant make this the best Pixel Watch to date. Just make sure to swap the strap.",
+      "url": "https://www.wired.com/review/google-pixel-watch-4/",
+      "urlToImage": "https://media.wired.com/photos/68e5988a9d63ba6ae813bdbd/191:100/w_1280,c_limit/DSC_6385.jpg",
+      "publishedAt": "2025-10-08T17:00:00Z",
+      "content": "The caveat is that you cannot see your workout information on the watch if you have this passive method turned on. You can start the workout manually, but if you forget, the watch will not ping you 1… [+1843 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Nvidia is turning GPUs into capital, but questions exist around sustainability — AI companies are financing hardware like debt, as bank warns of 'sharp market correction'",
+      "description": "As demand for GPUs outpaces supply, AI companies are financing hardware through debt, leasing, and vendor-backed equity. Elon Musk’s xAI and OpenAI are at the center of billion-dollar deals that blur the line between chip vendor and capital provider.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-turning-gpus-into-capital-questions-exist-around-circularity",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YAQU3zRSbuCHbUYm5L4oD4-1920-80.jpg",
+      "publishedAt": "2025-10-08T16:57:44Z",
+      "content": "Compute used to be something you rented. You spun up a few cloud instances and paid your AWS bill. If you needed more, you just scaled up your usage. That model still exists, but with the generative … [+6472 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Google Pixel 10 Pro Fold review: finally, a more durable foldable",
+      "description": "It's one thing to know that the folding phone you're using is fully dust resistant. It's an entirely different thing to watch an $1,800 phone with delicate mechanical parts sink half an inch into the sand with the screen wide open. There's more to that story,…",
+      "url": "https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-10-08T16:55:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles latest folding phone isnt afraid of a little sand. Ask me how I know.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our e… [+10075 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Google Pixel Buds 2A review: the right kind of compromise",
+      "description": "The current state of headphones is a bummer. In one sense, the market has never been so good: from Bose to Sony to Apple to Google to Samsung to Sennheiser to JBL to unpronounceable Chinese knockoffs, you can't spin around in a Best Buy without finding a pair…",
+      "url": "https://www.theverge.com/tech/796411/google-pixel-buds-2a-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257998_Pixel_Buds_2A_AKrales_0023.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T16:48:13Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles latest headphones sound good, work well, and arent missing much. If only everyone could use them.\r\nGoogles latest headphones sound good, work well, and a… [+8103 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1170,136 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/roborock-saros-z70-picking-up-socks.jpg?quality=90&strip=all&crop=0%2C1.6918751211945%2C100%2C96.616249757611&w=1200",
       "publishedAt": "2025-10-07T16:43:27Z",
       "content": "Roborock’s Saros Z70 features a built-in robotic arm and is down to its best price yet.\r\n\n\nBlack Friday might bring some of the deepest discounts on tech like robot vacuums, but if you’d like to tidy… [+8980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Billionaire tech investor Orlando Bravo says 'valuations in AI are at a bubble'",
-      "description": "One key difference between the dotcom bubble and today, Bravo said, is that big companies with healthy balance sheets are financing tech startups.",
-      "url": "https://www.cnbc.com/2025/10/07/tech-vc-orlando-bravo-ai-bubble.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107128581-1664833391865-IMG_9221r.jpg?v=1664833541&w=1920&h=1080",
-      "publishedAt": "2025-10-07T16:41:58Z",
-      "content": "Thoma Bravo co-founder Orlando Bravo said that valuations for artificial intelligence companies are \"at a bubble,\" comparing it to the dotcom era. \r\nBut one key difference in the market now, he said,… [+1313 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Anthropic plans to open India office, eyes tie-up with billionaire Ambani | TechCrunch",
-      "description": "Anthropic plans to open India office, eyes tie-up with billionaire Ambani | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/07/anthropic-plans-to-open-india-office-eyes-tie-up-with-billionaire-ambani/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-      "publishedAt": "2025-10-07T16:28:31Z",
-      "content": "Anthropic co-founder and CEO Dario Amodei is in India this week, with plans to set up an office in Bengaluru and explore a partnership with Mukesh Ambani’s Reliance Industries, TechCrunch has learned… [+4009 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Anthropic and IBM announce strategic partnership | TechCrunch",
-      "description": "Anthropic's Claude large language model family will be incorporated into some of IBM's software development products.",
-      "url": "https://techcrunch.com/2025/10/07/anthropic-and-ibm-announce-strategic-partnership/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
-      "publishedAt": "2025-10-07T16:23:56Z",
-      "content": "Tech behemoth IBM is teaming up with AI research lab Anthropic to bring AI into its software. \r\nArmonk, New York-based IBM announced it will be adding Anthropics Claude large language model family in… [+1018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Oracle stock slips 5% on report company is seeing thin cloud margins from Nvidia chips",
-      "description": "Oracle had 14% gross margins on $900 million in sales in its Nvidia cloud business in the three months ending in August, according to the report.",
-      "url": "https://www.cnbc.com/2025/10/07/oracle-stock-nvidia-chip-margins.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203265-1758719646927-gettyimages-2236587647-STARGATE_DATA_CENTER.jpeg?v=1759852567&w=1920&h=1080",
-      "publishedAt": "2025-10-07T16:06:04Z",
-      "content": "Oracle stock slipped 5% on Tuesday after a report from The Information that raised questions about the company's plans to buy billions of Nvidia chips to rent as a cloud provider to clients like Open… [+964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "You can use ChatGPT to build a personalized Spotify playlist now - here's how",
-      "description": "ChatGPT can see your Spotify history and make recommendations.",
-      "url": "https://www.zdnet.com/article/you-can-use-chatgpt-to-build-a-personalized-spotify-playlist-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6941543620095e71e98de3219c91550c2758b7e2/2025/10/07/1c3c79b2-f4e0-498f-bc55-a54b4940151b/you-can-now-use-chatgpt-to-build-a-personalized-spotify-playlist-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T16:05:22Z",
-      "content": "Spotify / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>You can now connect ChatGPT to your Spotify account.</li><li>With a promp… [+2738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "97% of companies struggle to prove AI's ROI - but these 5 expert tips can help",
-      "description": "Measuring AI ROI doesn't have to be an intractable challenge.",
-      "url": "https://www.zdnet.com/article/97-of-companies-struggle-to-prove-ais-roi-but-these-5-expert-tips-can-help/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c252e8d84cc9bbc4c1e03340e4a8b352645c9c28/2025/10/07/25a29937-68ce-4387-9169-2504ee11be39/gettyimages-1338806093.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T16:04:24Z",
-      "content": "MirageC / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most business leaders struggle to prove the value of AI projects.</li><li>Succe… [+7219 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zoë Schiffer, Louise Matsakis",
-      "title": "OpenAI Sneezes, and Software Firms Catch a Cold",
-      "description": "OpenAI revealed last week the custom AI tools it uses internally. The news sent some software companies into turmoil.",
-      "url": "https://www.wired.com/story/openai-chatgpt-docusign-saas-market/",
-      "urlToImage": "https://media.wired.com/photos/68e439afe05a13eb9d10f152/191:100/w_1280,c_limit/Model-Behavior-OpenAI-Tanks-DocuSign-Stocks-Business.jpg",
-      "publishedAt": "2025-10-07T16:00:00Z",
-      "content": "Allan Thygesen, the CEO of Docusign, was not particularly concerned when he saw the news last week that OpenAI had created an internal tool called DocuGPT. He might have preferred that OpenAI choose … [+2011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "The Editors of Tom's Hardware",
-      "title": "Grab a 4TB SSD for 5 cents per gigabyte during Prime Day sales – 8TB models start as low as 7 cents per GB",
-      "description": "Roomy 4TB SSDs have dropped precipitously in price in recent years, and even some 8TB models are inching closer to affordability.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/best-4tb-and-8tb-ssds-5-cents-per-gigabyte-gb-deals-2025",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzJ6zGwM7otWrJ8BNVVae9-1288-80.jpg",
-      "publishedAt": "2025-10-07T15:59:08Z",
-      "content": "We've seen a lot of great deals and sales on SSDs in recent months, and Amazon Prime Big Deals Day brings yet more. However, larger forces, like tariffs and geopolitical issues, threaten to push pric… [+5121 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "OpenAI bans suspected Chinese accounts using ChatGPT to plan surveillance",
-      "description": "It also banned some suspected Russian accounts trying to create influence campaigns and malware\nOpenAI has banned ChatGPT accounts believed to be linked to Chinese government entities attempting to use AI models to surveil individuals and social media account…",
-      "url": "https://www.theregister.com/2025/10/07/openai_bans_suspected_china_accounts/",
-      "urlToImage": "https://regmedia.co.uk/2023/06/07/shutterstock_2259037073.jpg",
-      "publishedAt": "2025-10-07T15:36:06Z",
-      "content": "OpenAI has banned ChatGPT accounts believed to be linked to Chinese government entities attempting to use AI models to surveil individuals and social media accounts.\r\nIn its most recent threat report… [+4220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zhiye Liu",
-      "title": "GPU mirror lets you watch your RTX 5090 melt in real time without straining your neck — blocks the other PCIe slots on your motherboard, though",
-      "description": "Japanese accessory manufacturer Nagao Industry Inc. has introduced a graphics card mirror display that can be installed beneath a graphics card to reflect the front design.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/gpu-mirror-lets-you-watch-your-rtx-5090-melt-in-real-time-without-straining-your-neck-blocks-the-other-pcie-slots-on-your-motherboard-though",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N2NXyMJHqzTPZDQEXa35uL-1920-80.jpg",
-      "publishedAt": "2025-10-07T15:34:40Z",
-      "content": "Some graphics cards may possess narcissistic characteristics, particularly if they are among the best graphics cards that money can buy. The most recent addition to intriguing yet unconventional hard… [+2611 chars]"
     }
   ]
 }
