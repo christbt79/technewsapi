@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T08:43:03.945Z",
+  "fetchedAt": "2025-10-09T09:10:04.174Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "This solid midrange HP laptop is now nearly 50% off at Walmart",
+      "description": "HP's OmniBook 5 is perfect for anyone who wants a lightweight laptop with a great screen. Over at Walmart, it's almost 50% off",
+      "url": "https://www.zdnet.com/article/this-solid-midrange-hp-laptop-is-now-nearly-50-off-at-walmart/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ed17e4dbb3c666f3538f05834470a1e74ab82731/2025/10/06/324f7448-2fc0-46ad-9e13-02e781e15dc9/hp-omnibook-5-2k-october-prime-day-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T09:00:29Z",
+      "content": "HP/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAmazon's Prime Day deals event is officially here. But it's not the only retailer joining in on price drops: For a limited time, Walm… [+1750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Qualcomm acquires Arduino to make AI development more accessible — microcontroller maker's hardware becomes the foundation of mobile tech giant's edge AI stack",
+      "description": "Qualcomm has acquired microcontroller maker Arduino to further its ambitions of bringing AI to the edge.",
+      "url": "https://www.tomshardware.com/tech-industry/qualcomm-acquires-arduino-to-make-ai-development-more-accessible-microcontroller-makers-hardware-becomes-the-foundation-of-mobile-tech-giants-edge-ai-stack",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/i7HeB4T9noHFwh9usbxdda-1165-80.jpg",
+      "publishedAt": "2025-10-08T09:00:00Z",
+      "content": "Recent AI market plays have produced all sorts of inter-company investments and flat-out acquisitions. Most of those are somewhat predictable, but occasionally an unexpected deal comes out of left fi… [+3749 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/11/14/andromeda_supercomputer_cerebras.jpg",
       "publishedAt": "2025-10-06T23:30:09Z",
       "content": "Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation. \r\nAmid growing concerns of an AI bubble… [+2561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "OpenAI's Altman calls AI sector 'bubbly', but says we shouldn't worry - here's why",
-      "description": "On the heels of a massive compute deal with AMD, OpenAI stresses value of investments in AI space.",
-      "url": "https://www.zdnet.com/article/openais-altman-calls-ai-sector-bubbly-but-says-we-shouldnt-worry-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/571d34f4ce44bfcf046d48b8037683b5f928c756/2025/10/06/526f1c81-a83e-4d7b-90e0-134cd60778c9/fullsizerender-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T23:06:51Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI partners with AMD to utilize GPUs for its AI infrastructure.</li><li>OpenAI CEO Sam A… [+4789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jim Cramer says OpenAI might be developing an edge after inking deal with AMD",
-      "description": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race on Monday.",
-      "url": "https://www.cnbc.com/2025/10/06/jim-cramer-openai-amd.html",
-      "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804&w=1920&h=1080",
-      "publishedAt": "2025-10-06T22:41:46Z",
-      "content": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race, saying OpenAI's latest deal with chipmaker AMD makes the ChatGPT owner more competitive.\r\n\"The hyperscalers are all vul… [+2503 chars]"
     }
   ]
 }
