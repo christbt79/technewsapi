@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T11:31:56.996Z",
+  "fetchedAt": "2025-10-09T12:17:23.869Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Nvidia reportedly signs another blockbuster AI supply deal, this time with Elon Musk's xAI — investment will support $20 billion Colossus 2 Memphis project",
+      "description": "Elon Musk’s AI venture xAI is preparing to raise roughly $20 billion through a mixture of equity and debt, with Nvidia playing a central role in the funding structure and chip supply.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-backs-20-billion-xai-chip-deal",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nikRfCseM7p4Aw77vXZiRj-1920-80.jpg",
+      "publishedAt": "2025-10-08T12:08:45Z",
+      "content": "Elon Musk’s AI venture, xAI, is preparing to raise roughly $20 billion through a combination of equity and debt, with Nvidia playing a central role in the funding structure and chip supply. According… [+2746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Danny Bradbury",
+      "title": "How chatbots are coaching vulnerable users into crisis",
+      "description": "From homework helper to psychological hazard in 300 hours of sycophantic validation Feature  When a close family member contacted Etienne Brisson to tell him that he'd created the world's first sentient AI, the Quebecois business coach was intrigued. But thin…",
+      "url": "https://www.theregister.com/2025/10/08/ai_psychosis/",
+      "urlToImage": "https://regmedia.co.uk/2023/03/26/aitraining.jpg",
+      "publishedAt": "2025-10-08T11:58:12Z",
+      "content": "Feature When a close family member contacted Etienne Brisson to tell him that he'd created the world's first sentient AI, the Quebecois business coach was intrigued. But things quickly turned dark. T… [+9463 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/a6b750569b2b94d883052185b19ab654c3002343/2025/10/06/c444028b-6490-4276-a6df-be38857b443f/gettyimages-1792835636.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-07T08:00:43Z",
       "content": "Eugene Mymrin/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>82% of people prefer human customer service reps to AI. </li><li>Overrelia… [+4933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Eirik Salmi, system analyst, Passwork",
-      "title": "Credential stuffing: £2.31 million fine shows passwords are still the weakest link",
-      "description": "How recycled passwords and poor security habits are fueling a cybercrime gold rush Partner Content  If you're still using \"password123\" for more than one account, there's a good chance you've already exposed yourself to credential stuffing attacks — one of th…",
-      "url": "https://www.theregister.com/2025/10/07/credential_stuffing_231_million/",
-      "urlToImage": "https://regmedia.co.uk/2024/07/12/money_shutterstock.jpg",
-      "publishedAt": "2025-10-07T08:00:14Z",
-      "content": "Partner ContentIf you're still using \"password123\" for more than one account, there's a good chance you've already exposed yourself to credential stuffing attacks one of the most prevalent and damagi… [+10616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Google DeepMind minds the patch with AI flaw-fixing scheme",
-      "description": "CodeMender has been generating fixes for vulnerabilities in open source projects\nGoogle says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.…",
-      "url": "https://www.theregister.com/2025/10/07/google_deepmind_patches_holes/",
-      "urlToImage": "https://regmedia.co.uk/2020/11/30/deepmind.jpg",
-      "publishedAt": "2025-10-07T07:03:13Z",
-      "content": "Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.\r\nThe Chocolate Factory is already … [+3115 chars]"
     }
   ]
 }
