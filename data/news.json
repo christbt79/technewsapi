@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-09T17:08:30.185Z",
+  "fetchedAt": "2025-10-09T17:37:38.674Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AMD's deal with OpenAI gives Nvidia much-needed challenger in market it dominates",
+      "description": "The last time AMD played the role of distant challenger Intel was the giant in semiconductors.",
+      "url": "https://www.cnbc.com/2025/10/08/amd-deal-with-openai-gives-nvidia-a-needed-challenger-in-ai-chips.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117783-1742321371853-Traders-Photo-MW-20250318-PRESS-8.jpg?v=1742493999&w=1920&h=1080",
+      "publishedAt": "2025-10-08T17:35:47Z",
+      "content": "Lisa Su, CEO of AMD, left, and Jensen Huang, CEO of Nvidia\r\nIn the 1990s, when Intel dominated the PC chip market, the semiconductor maker needed Advanced Micro Devices to exist as a viable No. 2 to … [+7672 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071393-1733338128992-gettyimages-2076713473-Illustration_AliExpress.jpeg?v=1733338170&w=1920&h=1080",
       "publishedAt": "2025-10-07T17:13:16Z",
       "content": "The Motion Picture Association on Monday urged OpenAI to \"take immediate and decisive action\" against its new video creation model Sora 2, which is being used to produce content that it says is infri… [+2066 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale",
-      "description": "Black Friday might bring some of the deepest discounts on tech like robot vacuums, but if you’d like to tidy up before Halloween parties and Thanksgiving guests arrive, Amazon’s fall Prime Day event features plenty of great robot vacuum deals, including disco…",
-      "url": "https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/roborock-saros-z70-picking-up-socks.jpg?quality=90&strip=all&crop=0%2C1.6918751211945%2C100%2C96.616249757611&w=1200",
-      "publishedAt": "2025-10-07T16:43:27Z",
-      "content": "Roborock’s Saros Z70 features a built-in robotic arm and is down to its best price yet.\r\n\n\nBlack Friday might bring some of the deepest discounts on tech like robot vacuums, but if you’d like to tidy… [+8980 chars]"
     }
   ]
 }
