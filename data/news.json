@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T09:10:04.174Z",
+  "fetchedAt": "2025-10-09T09:37:08.101Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's The China Connection newsletter: Venture capitalist who spotted Pop Mart early reveals his China playbook",
+      "description": "Black Ant Capital has drawn attention from global investors with early investment in some of China's most talked-about consumer plays: Pop Mart, Laopu Gold and BusyMing.",
+      "url": "https://www.cnbc.com/2025/10/08/china-connection-newsletter-black-ant-ba-capital-david-he-pop-mart-labubu-laopu-consumer-busyming.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208089-1759753859966-gettyimages-1415203824-vcg111396620556.jpeg?v=1759753944&w=1920&h=1080",
+      "publishedAt": "2025-10-08T09:19:41Z",
+      "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+9300 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Anthropic to open first India office as rival OpenAI boosts presence in the country",
+      "description": "AI adoption among both consumers and businesses is expected to ramp up quickly in India. Amazon-backed Anthropic wants to be involved.",
+      "url": "https://www.cnbc.com/2025/10/08/anthropic-to-open-first-india-office-in-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204189-1758834976885-gettyimages-2233950387-boivin-notitle250909_npSDA.jpeg?v=1759912431&w=1920&h=1080",
+      "publishedAt": "2025-10-08T09:17:33Z",
+      "content": "Anthropic on Wednesday said it plans to open its first office in India, entering a market where artificial intelligence usage is growing and its rival OpenAI is already making headway.\r\nThe Amazon-ba… [+1876 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194604196.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-07T00:46:57Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nMemo to Bari Weiss Re: CBS News: Youre doomed\r\nby\r\nElizabeth LopattoClose\r\nElizabeth Lopatto\r\nPosts from this author will be added to your daily email digest and… [+13121 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to open mixed, following Wall Street gains on AMD rally",
-      "description": "Overnight, shares of AMD skyrocketed almost 24% after it announced a deal with OpenAI, which could see the latter take a 10% stake in the chipmaker.",
-      "url": "https://www.cnbc.com/2025/10/07/asia-markets-tuesday-chips-stocks-amd-openai-deal-rally.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106935960-1630492901864-gettyimages-1278708840-dji_0274-hdr.jpeg?v=1759792039&w=1920&h=1080",
-      "publishedAt": "2025-10-06T23:43:19Z",
-      "content": "Asia-Pacific markets were set to open mostly higher Tuesday, tracking Wall Street gains on a tech rally fueled by the massive deal between OpenAI and AMD, in one of the most direct challenges to chip… [+1246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Cerebras CEO insists dinner-plate-sized chip startup will still go public",
-      "description": "Inference service launched a month before IPO filing turns out to have been a much bigger business than initially thought Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so m…",
-      "url": "https://www.theregister.com/2025/10/06/cerebras_ipo_rest/",
-      "urlToImage": "https://regmedia.co.uk/2022/11/14/andromeda_supercomputer_cerebras.jpg",
-      "publishedAt": "2025-10-06T23:30:09Z",
-      "content": "Just days after announcing a $1.1 billion Series G funding round, AI chip startup Cerebras Systems pulled its S-1 IPO filing without so much as an explanation. \r\nAmid growing concerns of an AI bubble… [+2561 chars]"
     }
   ]
 }
