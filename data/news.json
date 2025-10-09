@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-09T13:43:47.417Z",
+  "fetchedAt": "2025-10-09T14:09:46.106Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Google launches extensions system for its command-line coding tool | TechCrunch",
+      "description": "Google launched a new feature for its command-line AI system, Gemini CLI, allowing outside companies to integrate directly into the product.",
+      "url": "https://techcrunch.com/2025/10/08/google-launches-extensions-system-for-its-command-line-coding-tool/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-08-at-9.22.17-AM.jpg?resize=1200,578",
+      "publishedAt": "2025-10-08T14:04:05Z",
+      "content": "On Wednesday, Google officially launched a new feature for its command-line AI system, Gemini CLI, allowing outside companies to integrate directly into the AI product. Called Gemini CLI Extensions, … [+1495 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025",
+      "description": "NBA champion Tristan Thompson joins TechCrunch Disrupt 2025 to discuss how AI and athletes are transforming sports, startups, and innovation. Register here to save up to $444 on your pass, or up to 30% on group tickets.",
+      "url": "https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Tristan-Thompson-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-08T14:00:00Z",
+      "content": "Former NBA champion, fintech entrepreneur, and AI founder Tristan Thompson is bringing a different kind of game to TechCrunch Disrupt 2025 in October at San Francisco’s Moscone West one that blends a… [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "ChatGPT's Codex just got a huge upgrade that makes it more powerful than ever - what's new",
+      "description": "OpenAI has fully launched Codex, and it comes with new tools for developers, including Slack integration and more.",
+      "url": "https://www.zdnet.com/article/chatgpts-codex-just-got-a-huge-upgrade-that-makes-it-more-powerful-than-ever-whats-new/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/75031e3495f8338feefbff76a32c39a199b83b17/2025/10/08/2458a703-d183-4287-946f-3e45e586f7d9/openai-makes-codex-official-with-automation-slack-and-admin-controls.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T13:52:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI makes Codex available to all developers and teams.</li><li>Slack integration… [+7149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "IBM invites CockroachDB to infest its mainframes with PostgreSQL",
+      "description": "Vendors promote bridge to modern architecture for legacy systems, but Db2 not going anywhere just yet\nIBM has signed an OEM agreement with Cockroach Labs – maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB – in a bid to help modernize mission-c…",
+      "url": "https://www.theregister.com/2025/10/08/ibm_cockroachdb_mainframe_postgres/",
+      "urlToImage": "https://regmedia.co.uk/2025/04/07/ibm_z17.jpg",
+      "publishedAt": "2025-10-08T13:48:12Z",
+      "content": "IBM has signed an OEM agreement with Cockroach Labs maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB in a bid to help modernize mission-critical applications reliant on mainframe hard… [+6137 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -81,19 +133,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -104,6 +143,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178364-1753794610196-gettyimages-2147877328-cros-notitle240228_np4fK.jpeg?v=1753794656&w=1920&h=1080",
       "publishedAt": "2025-10-07T13:00:01Z",
       "content": "Qualcomm wants to get closer to robot makers.\r\nThe company said Tuesday that it's acquiring Arduino, an electronics maker whose inexpensive programmable circuit boards and computers are common in har… [+3203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Berlind",
-      "title": "Unchecked AI agents could be disastrous for us all - but OpenID Foundation has a solution",
-      "description": "OpenID Foundation is urging organizations to treat autonomous agents as first-class citizens and adopt standards to govern their access and behavior. Here's why.",
-      "url": "https://www.zdnet.com/article/unchecked-ai-agents-could-be-disastrous-for-us-all-but-openid-foundation-has-a-solution/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f8221c201437c7d4aef310cdd487e0764a6ef1dc/2025/10/07/f5d6a198-72eb-409c-a637-177feb4857f4/gettyimages-2219277219.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T13:00:00Z",
-      "content": "Richard Drury / DigitalVision / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>AI agents pose risks to sensitive business information and processes.… [+8780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Are voice translation earbuds actually viable in public? I tested some, here's my advice",
-      "description": "I've tested numerous earbuds with all manner of promises, but the Viaim RecDot have something I've seen on only a few pairs.",
-      "url": "https://www.zdnet.com/article/are-voice-translation-earbuds-actually-viable-in-public-i-tested-some-heres-my-advice/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/55de8eb23a97f03abdf128b22d6eb38e8085ee44/2025/09/30/561053b9-6723-4412-8953-22da67d411a8/viaimhand.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T12:53:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAn earbud is an earbud… right?\r\nUntil it offers a feature that's seriously impressive.\r\nOne such pair is the Viaim RecDot, which can serve as an… [+4986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Texas Instruments to cut 183 positions in its North Texas facilities, claims report — about 400 employees in total expected to be laid off due to closure of older plants",
-      "description": "Texas Instruments is closing its older 150mm fabs, with the company laying off employees working in these older sites.",
-      "url": "https://www.tomshardware.com/tech-industry/texas-instruments-to-cut-183-positions-in-its-north-texas-facilities-claims-report-about-400-employees-in-total-expected-to-be-laid-off-due-to-closure-of-older-plants",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TEyqU38R2uaPs6W6wJixB6-2000-80.jpg",
-      "publishedAt": "2025-10-07T12:43:09Z",
-      "content": "Texas Instruments has reportedly notified employees of up to 400 layoffs as the company wraps up the operation of its older 150-millimeter facilities in Dallas and Sherman, according to KXII. As repo… [+2532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Amkor breaks ground on Arizona advanced packaging campus, plugging critical gap in US semiconductor supply chain — production expected in 2028, investment could extend to $7 billion with 3,000 jobs in tow",
-      "description": "Amkor has broken ground on a new semiconductor packaging and test campus in Peoria, Arizona, marking a rare domestic expansion in one of the industry’s most critical and capacity-constrained areas.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amkor-breaks-ground-on-arizona-advanced-packaging-campus",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HgEVGyH8PSqV3Uurqa49Ra-1309-80.png",
-      "publishedAt": "2025-10-07T12:18:18Z",
-      "content": "Amkor has broken ground on a new semiconductor packaging and test campus in Peoria, Arizona, marking a rare domestic expansion in one of the industry’s most critical and capacity-constrained areas. T… [+2719 chars]"
     }
   ]
 }
