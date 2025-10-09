@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T21:32:50.089Z",
+  "fetchedAt": "2025-10-09T22:07:56.850Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Dominic-madori Davis",
+      "title": "Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show | TechCrunch",
+      "description": "The show is one of many on Draper's newly launched television channel, DraperTV, which offers programming around business and entrepreneurship, available via streaming services like Roku.",
+      "url": "https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1249830062.jpg?w=1024",
+      "publishedAt": "2025-10-08T22:03:31Z",
+      "content": "There was barely a breeze on the roof of the MCM studios building in Manhattan last week as six entrepreneurs graced a stage to pitch their businesses.\r\nAt one point, it was April Wachtels turn. She … [+7233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kayla Solino",
+      "title": "Here's the lowest-priced Chromebook I found on Prime Day - why I recommend it",
+      "description": "Lenovo's IdeaPad Slim 3 Chromebook (2024) is on sale for $176 and comes with a MicroSD card slot for easy storage.",
+      "url": "https://www.zdnet.com/article/heres-the-lowest-priced-chromebook-i-found-on-prime-day-why-i-recommend-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4c978fdcb1d38f1bd249ee78d66e96362dec1396/2025/06/16/b1c49061-d3c7-48ce-99e9-a440fdcf2732/zdnet-prime-day-live-blog-6.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T21:52:00Z",
+      "content": "Lenovo/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nChromebooks are known for being affordable, but the Lenovo IdeaPad Slim 3 is certainly one of the more affordable options out the… [+2211 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ccc4a4da87830eba063c84f234eec2f8a43cfe44/2025/03/20/2ff8d1a4-232a-46fa-a70e-77cf90fcd035/img-5143.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-07T22:16:52Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sarah Min",
-      "title": "Stock market today: Live updates",
-      "description": "A drop in Oracle on Tuesday called to question the sustainability of the artificial intelligence trade.",
-      "url": "https://www.cnbc.com/2025/10/07/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206414-1759874774335-108206414-1759329302141-gettyimages-2238557509-anotherday123715883_pygnxms1.jpeg?v=1759874795&w=1920&h=1080",
-      "publishedAt": "2025-10-07T22:06:35Z",
-      "content": "U.S. stock futures were little changed on Tuesday night, after the S&amp;P 500 capped a seven-day win streak because of a drop in Oracle that called to question the sustainability of the artificial i… [+1789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Kyndall Cunningham",
-      "title": "In times of uncertainty, Gen Z is “locked in”",
-      "description": "TikTokers love a challenge, especially if it involves some sort of self-imposed hibernation period that will transform their lives and pay off in physical or financial success.  Currently, my feed is full of young people participating in “The Great Lock-In,” …",
-      "url": "https://www.vox.com/culture/464023/great-lock-in-tiktok-hard-75-winter-arc-gen-z",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-1359131129.jpg?quality=90&strip=all&crop=0%2C17.277486910995%2C100%2C65.44502617801&w=1200",
-      "publishedAt": "2025-10-07T22:03:26Z",
-      "content": "Locking in defies previous stereotypes we’ve held about Gen Z and its relationship to work. | We Are/Getty Images\r\n\n\nTikTokers love a challenge, especially if it involves some sort of self-imposed hi… [+8815 chars]"
     }
   ]
 }
