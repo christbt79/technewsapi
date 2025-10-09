@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T08:12:49.349Z",
+  "fetchedAt": "2025-10-09T08:43:03.945Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Green stocks are quietly beating the world’s biggest trades",
+      "description": "Investors have turned more positive on green stocks as the energy needed to power AI can’t be delivered without renewables",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/green-stocks-are-quietly-beating-the-world-s-biggest-trades",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/o6cft0/article70138721.ece/alternates/LANDSCAPE_1200/BL25_Think_green_industry.jpg",
+      "publishedAt": "2025-10-08T08:35:18Z",
+      "content": "A global benchmark of clean energy stocks is outperforming major equity indexes and even gold, as investors respond to soaring demand for renewables needed to power the boom in artificial intelligenc… [+2453 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Parker Hall",
+      "title": "90 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
+      "description": "We've scoured Amazon for the best prime day deals under a Benjamin, from Roku to Instant Pot.",
+      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/",
+      "urlToImage": "https://media.wired.com/photos/68e08e6d026132543e222e51/191:100/w_1280,c_limit/The%20Best%20Prime%20Day%20Deals%20Under%20$100.png",
+      "publishedAt": "2025-10-08T08:31:38Z",
+      "content": "Eufy Security Indoor Cam S350 for $80 ($60 off): This indoor camera is a powerhouse, featuring pan/tilt, a dual-lens 4K system with 8x zoom, and onboard AI.\r\nBlink Mini 2 for $20 ($20 off): The tiny … [+1689 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804&w=1920&h=1080",
       "publishedAt": "2025-10-06T22:41:46Z",
       "content": "CNBC's Jim Cramer opined on the accelerating artificial intelligence arms race, saying OpenAI's latest deal with chipmaker AMD makes the ChatGPT owner more competitive.\r\n\"The hyperscalers are all vul… [+2503 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Deloitte goes all in on AI — despite having to issue a hefty refund for use of AI | TechCrunch",
-      "description": "Deloitte is rolling out Claude to its nearly 500,000 employees after issuing a refund for a report that contained AI hallucinations.",
-      "url": "https://techcrunch.com/2025/10/06/deloitte-goes-all-in-on-ai-despite-having-to-issue-a-hefty-refund-for-use-of-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2169550517.jpg?w=1024",
-      "publishedAt": "2025-10-06T22:33:16Z",
-      "content": "Professional services and consultant firm Deloitte announced a landmark AI enterprise deal with Anthropic the same day it was revealed the company would issue a refund for a government-contracted rep… [+3129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Iain Thomson",
-      "title": "Senate report says AI will take 97M US jobs in the next 10 years, but those numbers come from ChatGPT",
-      "description": "Bernie Sanders calls for a robot tax and a 32-hour work week in response\nai-pocalypse A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. Ther…",
-      "url": "https://www.theregister.com/2025/10/06/ai_job_losses_us_senate_report/",
-      "urlToImage": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg",
-      "publishedAt": "2025-10-06T22:27:04Z",
-      "content": "ai-pocalypse A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. There's just one … [+4464 chars]"
     }
   ]
 }
