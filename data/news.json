@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-09T14:09:46.106Z",
+  "fetchedAt": "2025-10-09T14:49:08.397Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+      "title": "Synology walks back controversial compatibility policy for 2025 NAS units — third-party HDD and SSD support returns with DiskStation Manager 7.3 update",
+      "description": "Synology’s latest update reinstates compatibility with major drive brands like Western Digital and Seagate.",
+      "url": "https://www.tomshardware.com/pc-components/nas/synology-walks-back-controversial-compatibility-policy-for-2025-nas-units-third-party-hdd-and-ssd-support-returns-with-diskstation-manager-7-3-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tvFCDYFcPb3xA6dEmEhHwe-1920-80.jpg",
+      "publishedAt": "2025-10-08T14:32:31Z",
+      "content": "Synology has backtracked on its controversial self-branded drives-only policy, restoring the ability to use third-party and certified HDDs and SSDs on its 2025 Plus series NAS units. With the launch … [+2819 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "Unveiling the next wave of Startup Battlefield 200 VC judges at Disrupt 2025 | TechCrunch",
+      "description": "5 more VC leaders from Accel, 776, Lockstep, IVP, and more join the Startup Battlefield 200 judge panel at TechCrunch Disrupt 2025. Register to join.",
+      "url": "https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Presler-Gates-Holloway-Ittelson-Sethi_5-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-08T14:32:11Z",
+      "content": "Startup Battlefield 200 at TechCrunch Disrupt 2025 is almost here, and the pressure has never been higher. With $100,000 on the line, the top 20 early-stage startups know they must deliver their very… [+4569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Forget the MacBook: The Surface Laptop for $600 off might be a better Prime Day deal for you",
+      "description": "The Microsoft Surface Laptop was one of my favorite laptops of 2024. Now, the 512GB variant is on sale with its biggest discount yet.",
+      "url": "https://www.zdnet.com/article/forget-the-macbook-the-surface-laptop-for-600-off-might-be-a-better-prime-day-deal-for-you/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9ba515d86f472217cd3e03694ef7e5acc7313241/2024/06/19/1adda4ae-b2cd-4b9a-982c-ad3454d31208/dsc00995.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T14:23:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nEditor's Note: If you don't see the $600 discounted price, make sure you're logged into Amazon and manually click the \"Sn… [+3142 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Why a capital gains tax change in Trump's new bill may be boon to business founders, early employee wealth",
+      "description": "A tax change in President Trump's One Big Beautiful Bill may help startup founders, investors and early employees keep more of their company stock income.",
+      "url": "https://www.cnbc.com/2025/10/08/trump-tax-law-capital-gains-stock-founders-startup-wealth.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202201-1758556807341-gettyimages-2216570751-AFP_487V4Y6.jpeg?v=1758556838&w=1920&h=1080",
+      "publishedAt": "2025-10-08T14:17:19Z",
+      "content": "When it comes to tax planning by business owners on Main Street, many aspects of President Trump's One Big Beautiful Bill Act were at best incremental, unlike the fundamental shifts introduced under … [+7877 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "SoftBank bulks up its robotics portfolio with ABB Group’s robotics unit | TechCrunch",
+      "description": "SoftBank says this acquisition will help it dive deeper into robotics as it considers physical AI to be the next frontier.",
+      "url": "https://techcrunch.com/2025/10/08/softbank-bulks-up-its-robotics-portfolio-with-abb-groups-robotics-unit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1980672274.jpg?resize=1200,764",
+      "publishedAt": "2025-10-08T14:13:39Z",
+      "content": "Japanese investing conglomerate SoftBank Group is buying a robotics company as the financial behemoth says physical AI is its next frontier.  \r\nSoftBank announced on Wednesday that it has acquired Zu… [+1998 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -133,19 +198,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -156,6 +208,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1007_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-07T13:22:21Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Why Google thinks Gemini can fix your house, why Peloton gear is so expensive, and more.\r\nOn The Vergecast: Why Google thinks Gemini can fix yo… [+3351 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Everything OpenAI announced at DevDay 2025: Agent Kit, Apps SDK, ChatGPT, and more",
-      "description": "The company announced several updates to its software development platform. But there wasn't any hardware news.",
-      "url": "https://www.zdnet.com/article/everything-openai-announced-at-devday-2025-agent-kit-apps-sdk-chatgpt-and-more/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/57a4ef9feef706bea6f5cefac8138d585185dc2c/2025/09/29/acffb1b1-f252-4636-aa59-1fe99f0f74ee/chatgpt-expands-parental-controls-to-let-parents-manage-their-teens-account2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T13:11:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOpenAI held its DevDay 2025 event this week on Oct. 6, and the company had plenty to share regarding how developers can bui… [+8666 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "WTO hikes global trade forecast for 2025 — but next year doesn't look so good",
-      "description": "Global trade volumes rose sharply in the first half of 2025 as businesses front-loaded imports ahead of higher tariffs.",
-      "url": "https://www.cnbc.com/2025/10/07/wto-hikes-global-trade-forecast-for-2025-slowdown-expected-in-2026-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108128968-1744205305706-108128968-17442003242025-04-09t115716z_1001206588_rc2buda685l4_rtrmadp_0_usa-trump-tariffs-shipping.jpg?v=1744205312&w=1920&h=1080",
-      "publishedAt": "2025-10-07T13:05:05Z",
-      "content": "The World Trade Organization on Tuesday hiked its forecast for global trade growth in 2025 but warned that the outlook for 2026 had deteriorated.\r\nIn its latest \"Global Trade Outlook and Statistics\" … [+4223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "OpenAI signs AMD deal for 6GW of AI GPUs with a massive equity kicker, OpenAI to obtain up to 160 million AMD shares at one cent apiece",
-      "description": "OpenAI has secured up to 6 gigawatts of AMD GPU compute in a landmark supply agreement that could see the ChatGPT maker take a 10% stake in AMD.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/openai-signs-6gw-amd-gpu-deal",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wRiMtq3bXaRfAVrPsuiXjE-1920-80.jpg",
-      "publishedAt": "2025-10-07T13:04:07Z",
-      "content": "OpenAI has secured up to 6 gigawatts of AMD GPU compute in a landmark supply agreement that could see the ChatGPT maker take a 10% stake in AMD.\r\nThe deal, announced on October 6, begins with AMD’s n… [+5369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Tiernan Ray",
-      "title": "DeepSeek claims its new AI model can cut the cost of predictions by 75% - here's how",
-      "description": "The Chinese startup is once again exploiting the computing principle known as sparsity.",
-      "url": "https://www.zdnet.com/article/deepseek-claims-its-new-ai-model-can-cut-the-cost-of-predictions-by-75-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b33c18b8e98366b7ffa8a8b2536579419083dbbb/2025/10/07/43a4234d-b408-445d-ae19-5cabb7c2eecc/deepseek.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T13:01:39Z",
-      "content": "Nikolas Kokovlis/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>DeepSeek unveils a new AI model focused on cost efficiency.</li><li>The… [+5908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Qualcomm acquires Italian hardware company Arduino to push deeper into robotics",
-      "description": "Arduino's inexpensive programmable boards are ubiquitous inside hardware startups and robotics labs for prototyping.",
-      "url": "https://www.cnbc.com/2025/10/07/qualcomm-acquires-italian-hardware-company-arduino-in-robotics-play-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178364-1753794610196-gettyimages-2147877328-cros-notitle240228_np4fK.jpeg?v=1753794656&w=1920&h=1080",
-      "publishedAt": "2025-10-07T13:00:01Z",
-      "content": "Qualcomm wants to get closer to robot makers.\r\nThe company said Tuesday that it's acquiring Arduino, an electronics maker whose inexpensive programmable circuit boards and computers are common in har… [+3203 chars]"
     }
   ]
 }
