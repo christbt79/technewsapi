@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T19:07:48.454Z",
+  "fetchedAt": "2025-10-09T19:31:22.989Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I put my Sony and Bose away the moment I listened to these competing earbuds - here's why",
+      "description": "If you haven't heard of this NYC-based audio brand, you'll be as surprised as I was by its unique pair of earbuds.",
+      "url": "https://www.zdnet.com/article/i-put-my-sony-and-bose-away-the-moment-i-listened-to-these-competing-earbuds-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ccee2a228db7ba1fba0ab91724704c33a523bec5/2025/09/16/c6c8ae88-8cfa-4f81-b370-9deaabc7a373/proxhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T19:30:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've tested so many headphones and earbuds these days that it's getting harder and harder to tell them apart. But I've never tested a pair quite… [+5007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "My sleeper phone deal for Prime Day is this $350 Google Pixel - here's why",
+      "description": "It's not the flashiest model, but at this price, you really can't go wrong with this model.",
+      "url": "https://www.zdnet.com/article/my-sleeper-phone-deal-for-prime-day-is-this-350-google-pixel-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ae6c0f0ec9f43d058044f5ed26a30fa326263250/2025/04/10/294ef91a-b7fe-4927-b612-230cec8b2908/dsc05287.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T19:28:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Pixel 9a launched earlier this year as a midrange Android phone that balanced performance and price. So, it was only a matt… [+2690 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/3dd26e77e3f23e408f7728425a743c8341061c06/2025/10/07/aee6b482-b580-4882-8248-b9e122cbd8d8/you-can-buy-refurbished-tech-from-back-market-in-person-now.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-07T19:30:00Z",
       "content": "Back Market\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Refurbished tech marketplace Back Market opened a US store.</li><li>Consumers can test used devices … [+4519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "'We are on the precipice of an incredibly contracting workforce,' says jobs expert",
-      "description": "As the number of retirees outpace young workers available to be hired, the contracting workforce is going to create a talent challenge for companies.",
-      "url": "https://www.cnbc.com/2025/10/07/on-precipice-of-incredibly-contracting-workforce-says-jobs-expert.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108195351-1757309407276-gettyimages-2233901120-anotherday111707875_x3fai1th.jpeg?v=1759861711&w=1920&h=1080",
-      "publishedAt": "2025-10-07T19:17:52Z",
-      "content": "The government shutdown curtailed the release of data from the Labor Department, but the current outlook for jobs is far from rosy. \r\nLast week, payrolls processing firm ADP reported a loss of 32,000… [+2591 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "How Otter.ai's CEO is pushing the company to be more than just a meeting scribe | TechCrunch",
-      "description": "Otter is launching a suite of enterprise tools to help companies use its tech to create a central knowledge base.",
-      "url": "https://techcrunch.com/2025/10/07/how-otter-ais-ceo-is-pushing-the-company-to-be-more-than-just-a-meeting-scribe/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2154742440.jpg?resize=1200,799",
-      "publishedAt": "2025-10-07T19:17:40Z",
-      "content": "Otter.ai CEO Sam Liang isn’t satisfied with the company being viewed, and used, as just a meeting notetaker. Liang wants Otter.ai to become a go-to source for enterprises and a new batch of products … [+3173 chars]"
     }
   ]
 }
