@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T16:13:01.410Z",
+  "fetchedAt": "2025-10-09T16:45:06.228Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "5 things Nvidia's Jensen Huang said about the state of the AI race with China",
+      "description": "While the U.S. may be leading in advanced chip designs, Huang warned not to discount China's growing chip development.",
+      "url": "https://www.cnbc.com/2025/10/08/nvidia-huang-ai-race-china-us-trump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1759941334&w=1920&h=1080",
+      "publishedAt": "2025-10-08T16:41:03Z",
+      "content": "Nvidia CEO Jensen Huang said Wednesday that the U.S. is \"not far ahead\" of China in the artificial intelligence race, and that the country needs a \"nuanced strategy\" to stay on higher ground.\r\nHuang … [+3997 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Stretched AI valuations, Fed credibility concerns raise risk of market correction: BoE",
+      "description": "In its quarterly Financial Stability Report, the UK central bank noted that asset valuations have continued to rise despite global economic uncertainties.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/soaring-ai-valuations-spur-market-correction-risk-boe-says",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/xqx9wc/article70140872.ece/alternates/LANDSCAPE_1200/2025-10-04T181726Z_1892769214_RC2C0GALIQCS_RTRMADP_3_BRITAIN-BONDS-INVESTORS.JPG",
+      "publishedAt": "2025-10-08T16:20:36Z",
+      "content": "Stretched valuations for artificial intelligence companies and challenges to the Federal Reserves independence have fueled the risks of a sharp market correction, the Bank of England said on Wednesda… [+4136 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/N2NXyMJHqzTPZDQEXa35uL-1920-80.jpg",
       "publishedAt": "2025-10-07T15:34:40Z",
       "content": "Some graphics cards may possess narcissistic characteristics, particularly if they are among the best graphics cards that money can buy. The most recent addition to intriguing yet unconventional hard… [+2611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Hiner",
-      "title": "I've used every iPhone 17 model, and my yearly buying advice is changing in 2025",
-      "description": "With Apple upgrading the base iPhone 17, redesigning both Pro models, and launching the all-new iPhone Air, this might be the most difficult year yet to decide. Here's how I'm going about it.",
-      "url": "https://www.zdnet.com/article/ive-used-every-iphone-17-model-and-my-yearly-buying-advice-is-changing-in-2025/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e85381409db90e44c0e52eb92d907baa2eaaf1f8/2025/09/24/c1d2066b-0d05-4e4b-b46b-e9454492b504/hiner-iphone-17-pro-max-review.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T15:25:00Z",
-      "content": "This photo of the iPhone 17 Pro Max in Cosmic Orange was taken with the telephoto lens on an iPhone 17 Pro Max.\r\nJason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe idea of … [+10744 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "JetBrains backs open AI coding standard that could gnaw at VS Code dominance",
-      "description": "Google and Zed have already adopted ACP – will Microsoft now follow?\nJetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development envir…",
-      "url": "https://www.theregister.com/2025/10/07/jetbrains_acp_vs_code/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/07/shutterstock_idea_bulb.jpg",
-      "publishedAt": "2025-10-07T14:58:07Z",
-      "content": "JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (… [+2898 chars]"
     }
   ]
 }
