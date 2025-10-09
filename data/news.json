@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-09T22:07:56.850Z",
+  "fetchedAt": "2025-10-09T22:36:14.550Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CoreWeave CEO pushes back against circular investment concerns",
+      "description": "CoreWeave CEO Michael Intrator discussed his company's deals with a number of artificial intelligence giants in a Wednesday interview with CNBC's Jim Cramer.",
+      "url": "https://www.cnbc.com/2025/10/08/coreweave-ceo-pushes-back-against-circular-investment-concerns-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202196-1758556569066-gettyimages-2236260070-US_STOCKS.jpeg?v=1759946088&w=1920&h=1080",
+      "publishedAt": "2025-10-08T22:35:40Z",
+      "content": "In a interview Wednesday with CNBC's Jim Cramer, CoreWeave CEO Michael Intrator brushed off concerns that the company's deals with other artificial intelligence giants are circular investments, sayin… [+2387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer breaks down three major sectors of this economy",
+      "description": "CNBC's Jim Cramer on Wednesday identified and reviewed three distinct aspects of the current economy.",
+      "url": "https://www.cnbc.com/2025/10/08/jim-cramer-breaks-down-major-sectors-economy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104434800-IMG_3503r.jpg?v=1697496468&w=1920&h=1080",
+      "publishedAt": "2025-10-08T22:16:15Z",
+      "content": "CNBC's Jim Cramer on Wednesday identified and reviewed three distinct aspects of the current economy, explaining how he thinks this dynamic is impacting market action.\r\n\"We have three economies right… [+2784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Alex Harring",
+      "title": "Stock market today: Live updates",
+      "description": "The S&P 500 and Nasdaq Composite finished Wedneday's session at records.",
+      "url": "https://www.cnbc.com/2025/10/08/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209356-1759934708494-Traders-Photo-20251007-KK-PRESS-008.jpg?v=1759934831&w=1920&h=1080",
+      "publishedAt": "2025-10-08T22:09:33Z",
+      "content": "S&amp;P 500 futures are near flat on Wednesday night after the benchmark index rose to all-time highs.\r\nFutures tied to the broad index traded around its flatline, as did Nasdaq 100 futures. Dow Jone… [+1373 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-07T22:43:33Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new Gemini 2.5 Computer Use model can click, scroll, and type in a browser window to access data thats not available via an API. \r\nThe new Gemini 2.5 Compute… [+3048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "As the market pulls back, Jim Cramer explains how to handle sell-offs",
-      "description": "CNBC's Jim Cramer unpacked Tuesday's market action and told investors that it can be worthwhile to stick with good stocks as they weather losses.",
-      "url": "https://www.cnbc.com/2025/10/07/-jim-cramer-how-to-handle-sell-offs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104816239-IMG_3584-jim-cramer.jpg?v=1690328876&w=1920&h=1080",
-      "publishedAt": "2025-10-07T22:30:11Z",
-      "content": "CNBC's Jim Cramer unpacked Tuesday's market action and suggested that it can be worthwhile to stick with good stocks as they weather losses, telling investors to buy, not sell, into weakness.\r\n\"When … [+2291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Google declares AI bug hunting season open, sets a $30K max reward",
-      "description": "Jailbreaks, direct prompt injection not allowed\nGoogle on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.…",
-      "url": "https://www.theregister.com/2025/10/07/google_ai_bug_bounty/",
-      "urlToImage": "https://regmedia.co.uk/2018/10/17/shuttertsock_target_missed.jpg",
-      "publishedAt": "2025-10-07T22:19:47Z",
-      "content": "Google on Monday rolled out a new AI Vulnerability Reward Program to encourage researchers to find and report flaws in its AI systems, with rewards of up to $30,000 for a single qualifying report.\r\nI… [+5575 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I tested this Oura Ring alternative with similar health tracking features but at half the price",
-      "description": "The budget-friendly RingConn Gen 2 Air delivers impressive health-tracking features that compete with top-tier rivals. And it's more affordable than ever during Prime Day.",
-      "url": "https://www.zdnet.com/article/i-tested-this-oura-ring-alternative-with-similar-health-tracking-features-but-at-half-the-price/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ccc4a4da87830eba063c84f234eec2f8a43cfe44/2025/03/20/2ff8d1a4-232a-46fa-a70e-77cf90fcd035/img-5143.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T22:16:52Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
     }
   ]
 }
