@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-09T20:10:03.685Z",
+  "fetchedAt": "2025-10-09T20:37:31.869Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Cisco’s new router unites disparate datacenters into AI training behemoths",
+      "description": "With enough routers, Switchzilla says it can link bit barns 1,000 km apart and scale fabrics beyond 3 exabits per second\nCisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together th…",
+      "url": "https://www.theregister.com/2025/10/08/cisco_multi_datacenter/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/08/shutterstock_2530031367.jpg",
+      "publishedAt": "2025-10-08T20:29:38Z",
+      "content": "Cisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together their existing datacenters into a single unified compute cluste… [+2948 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Some of my favorite smart kitchen gadgets are on sale for Prime Day",
+      "description": "Regular readers of The Verge will know that my favorite room in my smart home is my kitchen. As an avid home cook and mom of two, this is the room where I spend the most time, and where I look for as much convenience and extra help as I can get. As a result, …",
+      "url": "https://www.theverge.com/tech/796213/smart-kitchen-gadgets-prime-day-sale-coffee-machine-air-fryer",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/8A0A0340.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T20:27:32Z",
+      "content": "The GE Profile Stand Mixer knows when your meringue is whipped.\r\n\n\nRegular readers of The Verge will know that my favorite room in my smart home is my kitchen. As an avid home cook and mom of two, th… [+4414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AMD stock continues rally after OpenAI deal, now up 43% this week so far",
+      "description": "Investors took the partnership to mean that AMD could become a viable challenger to Nvidia's current top position in the AI chip market.",
+      "url": "https://www.cnbc.com/2025/10/08/amd-stock-rally-openai-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208259-1759767774187-gettyimages-2239199521-AMD_OPENAI.jpeg?v=1759767826&w=1920&h=1080",
+      "publishedAt": "2025-10-08T20:15:20Z",
+      "content": "AMD stock climbed 11% on Wednesday, continuing a massive run since OpenAI announced plans to buy billions of dollars of AI equipment from the chipmaker earlier this week.\r\nOn Monday, the ChatGPT make… [+1055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I put away my Samsung Galaxy Watch just hours after testing this Google Pixel",
+      "description": "Google's latest AI-powered smartwatch gets several upgrades that keep it competitive with its Android competition.",
+      "url": "https://www.zdnet.com/article/i-put-away-my-samsung-galaxy-watch-just-hours-after-testing-this-google-pixel/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6930f3c7291c74fe1282d6c61583945522759f2f/2025/08/15/2b0c13f9-f28a-4af1-9716-b51f3a523914/dsc06885.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T20:11:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -744,19 +796,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -767,6 +806,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1165704565.jpg?w=1024",
       "publishedAt": "2025-10-07T21:03:10Z",
       "content": "After AMD and OpenAI announced an expanded partnership on Monday, the chatter immediately turned to the unusual way OpenAI would pay for its AMD purchases. It will use AMDs own stock to do so. \r\nTo r… [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Michael Dell says 'at some point there'll be too many' AI data centers, but not yet",
-      "description": "Dell Technologies CEO Michael Dell said that demand for AI computing power is \"tremendous.\"",
-      "url": "https://www.cnbc.com/2025/10/07/michael-dell-too-many-ai-data-centers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108027353-1724959199104-gettyimages-2153343037-DELL_TECHNOLOGIES_CONFERENCE.jpeg?v=1759865096&w=1920&h=1080",
-      "publishedAt": "2025-10-07T21:02:02Z",
-      "content": "Dell Technologies CEO Michael Dell said Tuesday that while demand for computing power is \"tremendous,\" the production of artificial intelligence data centers will eventually top out.\r\n\"I'm sure at so… [+1089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "The M4 MacBook Air just got a rare $200 discount on Amazon, and I don't expect it to last long",
-      "description": "Apple has dropped the price on its latest ultraportable MacBook to a record low $799 during the commerce giant's big sales event.",
-      "url": "https://www.zdnet.com/article/the-m4-macbook-air-just-got-a-rare-200-discount-on-amazon-and-i-dont-expect-it-to-last-long/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/16cb10e93773eab4e20367b3cc9bfb4969e77555/2024/03/04/c03ad361-d88a-4ead-ad6f-840c93784aec/dsc09961-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T20:55:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nIt's crazy to think about, but Amazon's October Prime Day has arrived to kick off the early holiday shopping season. It's… [+2359 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tina Nguyen",
-      "title": "Big Tech is ‘donating’ to Trump’s ‘nonprofits’",
-      "description": "Hello and welcome to Regulator. I was recently riding a Lime scooter around downtown DC (don't hate the player) and zipped across the intersection of 16th Street and I Street NW when I zoomed by the Motion Picture Association's office building. Except now it …",
-      "url": "https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK466_ELECTION_2024_CVirginia_F.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-07T20:52:37Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThose ballrooms arent going to pay for themselves.\r\nThose ballrooms arent going to pay for themselves.\r\nby\r\nTina NguyenClose\r\nTina Nguyen\r\nSenior Reporter, Washi… [+17015 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "China is building a thriving semi industry off US leftovers, export controls be damned",
-      "description": "House Committee on China wants more comprehensive ban on chipmaking equipment exports to Middle Kingdom US export controls have had mixed results in stemming the flow of chipmaking equipment into China, according to a congressional investigation, which found …",
-      "url": "https://www.theregister.com/2025/10/07/china_chip_gear/",
-      "urlToImage": "https://regmedia.co.uk/2022/08/04/shutterstock_president_xi_china.jpg",
-      "publishedAt": "2025-10-07T20:43:06Z",
-      "content": "US export controls have had mixed results in stemming the flow of chipmaking equipment into China, according to a congressional investigation, which found US and allied companies sold $38 billion wor… [+3163 chars]"
     }
   ]
 }
