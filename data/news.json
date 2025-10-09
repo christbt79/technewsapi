@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-09T19:31:22.989Z",
+  "fetchedAt": "2025-10-09T20:10:03.685Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "OpenAI's Nick Turley on transforming ChatGPT into an operating system | TechCrunch",
+      "description": "In an interview, OpenAI's Head of ChatGPT discusses the company's push into developing an AI operating system full of third-party apps.",
+      "url": "https://techcrunch.com/2025/10/08/openais-nick-turley-on-transforming-chatgpt-into-an-operating-system/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/ilgmyzin-agFmImWyPso-unsplash.jpg?resize=1200,675",
+      "publishedAt": "2025-10-08T20:03:26Z",
+      "content": "When Nick Turley joined OpenAI in 2022 as the head of ChatGPT, he was tasked with commercializing the company’s research. He has made great strides toward that goal, growing the product to 800 millio… [+12671 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Kat Merck",
+      "title": "This Is the Best Smart Hummingbird Feeder I've Tested, and It's $50 off Right Now",
+      "description": "Bird Buddy's Pro model is fun to use, easy to clean, and makes a great gift for family—or yourself. Don't miss out on these last hours of Amazon Prime Day.",
+      "url": "https://www.wired.com/story/bird-buddy-pro-hummingbird-prime-day-sale-2025/",
+      "urlToImage": "https://media.wired.com/photos/68e6a3bc392eda998ff4e5c5/191:100/w_1280,c_limit/Bird%20Buddy%20Standalone.png",
+      "publishedAt": "2025-10-08T20:01:00Z",
+      "content": "I test smartbird feeders year-round for WIRED. While I love the variety of birds attracted by seed feeders, theres something to be said for the simplicity of a hummingbird feeder. The visitors are so… [+2213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "AI is making cybercriminal workflows more efficient too, OpenAI finds",
+      "description": "A new OpenAI report explores current trends in cybercrime and how threat actors are weaponizing AI tools, including ChatGPT.",
+      "url": "https://www.zdnet.com/article/ai-is-making-cybercriminal-workflows-more-efficient-too-openai-finds/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/205270170617236574b980f15d66dbe82e8b802a/2025/09/05/90bd08cb-99d0-4f46-ae0b-0e80c16d15f5/gettyimages-2173923412.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T20:00:03Z",
+      "content": "koto_feja/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's new report shows how cybercriminals are using AI.</li><li>This includes the a… [+4973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google adds limits to 'Work from Anywhere' policy that began during Covid",
+      "description": "Google is putting restrictions on its “Work from Anywhere” policy, limiting the number of days employees can take advantage of the perk.",
+      "url": "https://www.cnbc.com/2025/10/08/google-adds-limits-to-work-from-anywhere-policy-that-began-in-covid.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1757946638&w=1920&h=1080",
+      "publishedAt": "2025-10-08T19:44:43Z",
+      "content": "Google is continuing to put restrictions on remote work, this time with a popular policy called \"Work from Anywhere\" that was established during the Covid pandemic.\r\nThe policy has allowed employees … [+2881 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "1Password says it can fix login security for AI browser agents",
+      "description": "1Password’s browser extension fills in your passwords automatically when you browse, and now the company has built a similar tool for AI bots browsing the web on your behalf, but for a very different reason. AI tools and browsers built on Claude, Gemini, and …",
+      "url": "https://www.theverge.com/news/796921/1password-secure-agentic-autofill-ai-browser-agents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK414_AI_CVIRGINIA_2_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T19:44:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt remembers the passwords that you cant, and hides them from AI bots that cant be trusted to forget.\r\nIt remembers the passwords that you cant, and hides them f… [+2591 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/08/04/shutterstock_president_xi_china.jpg",
       "publishedAt": "2025-10-07T20:43:06Z",
       "content": "US export controls have had mixed results in stemming the flow of chipmaking equipment into China, according to a congressional investigation, which found US and allied companies sold $38 billion wor… [+3163 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Former Apple bosses slam decision to take down ICEBlock",
-      "description": "Apple is facing pressure from a former executive and senior manager over its decision to remove the ICE-spotting app, ICEBlock, from the App Store. In a letter to Apple CEO Tim Cook, Wiley Hodges says he’s “deeply disturbed” by the move, as spotted earlier by…",
-      "url": "https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK071_APPLE_H.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-07T20:38:37Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOne Apple alum tells Tim Cook that taking down ICEBlock marks an erosion of Apples key principles.\r\nOne Apple alum tells Tim Cook that taking down ICEBlock marks… [+4252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Employees regularly paste company secrets into ChatGPT",
-      "description": "Microsoft Copilot, not so much Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Information (PII) or Payment Card Indu…",
-      "url": "https://www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/07/shutterstock_1619490175.jpg",
-      "publishedAt": "2025-10-07T20:18:05Z",
-      "content": "Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Informati… [+4440 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "I found one of the biggest Prime Day laptop sales - the Surface Laptop is $600 off",
-      "description": "The Surface Laptop was one of my favorite laptops of 2024. Now, it's on sale for $999, a very competitive price for a flagship Copilot+ PC.",
-      "url": "https://www.zdnet.com/article/i-found-one-of-the-biggest-prime-day-laptop-sales-the-surface-laptop-is-600-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/32b682ff3bad7ce50d6cbc016d85b5530115fb7d/2024/09/18/4a26b383-e911-4127-9445-26dbe60872bb/microsoft-surface-laptop-6.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T20:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nWhen I reviewed Microsoft's Surface Laptop with the Snapdragon X Elite chip last summer, I was impressed with its snappy … [+2981 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Google launches its AI vibe-coding app Opal in 15 more countries",
-      "description": "The app, which lets you create mini web apps using text prompts, is now available in Canada, India, Japan, South Korea, Vietnam, Indonesia, Brazil, Singapore, Colombia, El Salvador, Costa Rica, Panamá, Honduras, Argentina and Pakistan.",
-      "url": "https://techcrunch.com/2025/10/07/google-launches-its-ai-vibe-coding-app-opal-in-15-more-countries/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?resize=1200,675",
-      "publishedAt": "2025-10-07T19:54:34Z",
-      "content": "Google is expanding access to Opal, its AI vibe-coding app, to 15 more countries. The app, which lets you create mini web apps using text prompts, is now available in Canada, India, Japan, South Kore… [+1972 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Radhika Rajkumar",
-      "title": "You can buy refurbished tech from Back Market in person now - here's where",
-      "description": "Curious about repaired devices? Test them out before you buy.",
-      "url": "https://www.zdnet.com/article/you-can-buy-refurbished-tech-from-back-market-in-person-now-heres-where/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3dd26e77e3f23e408f7728425a743c8341061c06/2025/10/07/aee6b482-b580-4882-8248-b9e122cbd8d8/you-can-buy-refurbished-tech-from-back-market-in-person-now.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T19:30:00Z",
-      "content": "Back Market\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Refurbished tech marketplace Back Market opened a US store.</li><li>Consumers can test used devices … [+4519 chars]"
     }
   ]
 }
