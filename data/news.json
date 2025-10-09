@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-09T05:09:16.649Z",
+  "fetchedAt": "2025-10-09T05:38:15.150Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's UK Exchange newsletter: The U.K.’s labor market conundrum – and where to look for clues",
+      "description": "The U.K.'s labor market is a complex one, and economists are finding it harder to decipher what is going on.",
+      "url": "https://www.cnbc.com/2025/10/08/cnbcs-uk-exchange-newsletter-the-uks-labor-market-conundrum.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208837-1759849290255-gettyimages-76489962-Par1492221.jpeg?v=1759849307&w=1920&h=1080",
+      "publishedAt": "2025-10-08T05:28:26Z",
+      "content": "Commuters on London Bridge.\r\nThis report is from this week's CNBC's UK Exchange newsletter. Like what you see? You can subscribe here.\r\nThe dispatch\r\nDespite the de-equitisation of the last decade, t… [+8273 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-06T21:28:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nIt's crazy to think about, but Amazon's October Prime Day kicks off tomorrow, Oct. 7. It's a major sales event during whi… [+2328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Brad Gerstner on OpenAI's dealmaking with AMD, Nvidia: 'The best chips will win'",
-      "description": "The Altimeter Capital founder said the deals provide \"more evidence that the world will remain compute-constrained.\"",
-      "url": "https://www.cnbc.com/2025/10/06/gerstner-open-ai-amd-nvidia-chips.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308533-1695926023092-107308533-1695924795035-IMG_6662.jpg?v=1706571689&w=1920&h=1080",
-      "publishedAt": "2025-10-06T21:18:01Z",
-      "content": "Investor Brad Gerstner cautioned Monday that OpenAI's deals with Nvidia and AMD are purely announcements, not deployments. \r\n\"Now we will see what gets delivered,\" the Altimeter Capital founder told … [+1536 chars]"
     }
   ]
 }
