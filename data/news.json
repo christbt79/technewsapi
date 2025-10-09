@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-08T23:31:27.805Z",
+  "fetchedAt": "2025-10-09T00:41:57.779Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cnbc",
+      "title": "Intel to reveal tech details on forthcoming PC chip, sources say: Reuters",
+      "description": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters.",
+      "url": "https://www.cnbc.com/2025/10/07/intel-to-reveal-tech-details-on-forthcoming-pc-chip-sources-say-reuters.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188068-1755617017472-gettyimages-2230271863-porzycki-inteland250819_npxew.jpeg?v=1756305627&w=1920&h=1080",
+      "publishedAt": "2025-10-08T00:08:16Z",
+      "content": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters. It is part of an effort to reassur… [+3331 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/06/devday2025.jpg",
       "publishedAt": "2025-10-06T20:36:44Z",
       "content": "OpenAI on Monday pitched its coding tools to software developers in the hope of generating the usage and revenue necessary to recoup the vast sums it spends to create and run its AI services.\r\nCEO Sa… [+5347 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Google’s AI bounty program pays bug hunters up to $30K",
-      "description": "On Monday, Google launched a new reward program dedicated specifically to finding bugs in AI products. Google’s list of qualifying bugs includes examples of the kind of rogue actions it’s looking for, like indirectly injecting an AI prompt that causes Google …",
-      "url": "https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-06T20:24:53Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle will dish out the biggest bucks for rooting out ways to command rogue actions from its AI bots.\r\nGoogle will dish out the biggest bucks for rooting out wa… [+3285 chars]"
     }
   ]
 }
