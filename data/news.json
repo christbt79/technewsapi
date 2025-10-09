@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-09T11:07:52.831Z",
+  "fetchedAt": "2025-10-09T11:31:56.996Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI is poised to disrupt the job market — some roles could 'radically transform,' report finds",
+      "description": "Artificial intelligence is most likely to impact white-collar jobs, while those requiring more physical labor and intervention are relatively insulated.",
+      "url": "https://www.cnbc.com/2025/10/08/how-ai-is-poised-to-disrupt-the-job-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208463-1759782252260-gettyimages-2050177197-2z6_3851.jpeg?v=1759782287&w=1920&h=1080",
+      "publishedAt": "2025-10-08T11:30:01Z",
+      "content": "Artificial intelligence is poised to disrupt the job market but some workers are in the crosshairs more than others, according to labor experts.\r\nRoughly 1 in 4 (or, 26%) of the jobs posted on career… [+4933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "As real life banks close, network operator starts a Scam School to stop Granny getting mugged online",
+      "description": "Broadband biz teams up with Good Things Foundation to teach the digitally doddery how to dodge fraud UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becomin…",
+      "url": "https://www.theregister.com/2025/10/08/vmo2_scam_school/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/07/shutterstock_rust.jpg",
+      "publishedAt": "2025-10-08T11:15:13Z",
+      "content": "UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becoming victims.\r\nDubbed the \"Scam Schools\" pro… [+3113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "This Oura Ring rival offers similar tracking features at half the price (no subscription required)",
+      "description": "The budget-friendly RingConn Gen 2 Air delivers impressive health-tracking features that compete with top-tier rivals. And it's more affordable than ever during Prime Day.",
+      "url": "https://www.zdnet.com/article/this-oura-ring-rival-offers-similar-tracking-features-at-half-the-price-no-subscription-required/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ccc4a4da87830eba063c84f234eec2f8a43cfe44/2025/03/20/2ff8d1a4-232a-46fa-a70e-77cf90fcd035/img-5143.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T11:10:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2020/11/30/deepmind.jpg",
       "publishedAt": "2025-10-07T07:03:13Z",
       "content": "Google says its AI-powered security repair tool CodeMender has been helping secure open source projects through automated patch creation, subject to human approval.\r\nThe Chocolate Factory is already … [+3115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Skipping the AirPods Pro 3? Your best alternative are at their lowest price ever",
-      "description": "The Powerbeats Pro 2 have similar features to the AirPods Pro 3 - and they're 28% cheaper during Amazon Prime Day.",
-      "url": "https://www.zdnet.com/article/skipping-the-airpods-pro-3-your-best-alternative-are-at-their-lowest-price/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0b22f62cfafc8995bddc743d4241254f0fe94f5e/2025/03/10/e89a3fa4-3e43-4e77-97c4-b2b910e308fd/powerbeats-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T07:00:58Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAmazon's October Prime Day sale is in full swing, and products like the Powerbeats Pro 2 are at their lowest price during the … [+3554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Why this $350 Google Pixel 9a deal is the only one I'm considering for Prime day",
-      "description": "It's not the flashiest model out there, but you really can't go wrong with this phone at this price.",
-      "url": "https://www.zdnet.com/article/why-this-350-google-pixel-9a-deal-is-the-only-one-im-considering-for-prime-day/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/46ab62c30fb54f98e5c065bc0b24726fd4afd765/2025/04/10/627024cc-3a56-44e6-a97f-3bb02c3f580d/dsc05284.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T07:00:57Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Pixel 9a launched earlier this year as a midrange Android phone that balanced performance and price. So, it was only a matt… [+2690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "The Samsung Galaxy S25 just hit an all-time-low price, making it an instant buy",
-      "description": "The Samsung Galaxy S25 is now available at FE prices with a $140 discount for a limited time for Amazon Prime Day.",
-      "url": "https://www.zdnet.com/article/the-samsung-galaxy-s25-just-hit-an-all-time-low-price-making-it-an-instant-buy/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ea993248f91d52a5adf81418cd53917e8888e243/2025/01/21/afa4d3ed-f76a-4b3a-8f49-8b6ac6aa9a1d/img-20250121-084214.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T07:00:32Z",
-      "content": "Prakhar Khanna/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Samsung Galaxy S25 is capable and compact. </li><li>It is now selling at a 23% discount… [+6100 chars]"
     }
   ]
 }
