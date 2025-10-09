@@ -1,6 +1,123 @@
 {
-  "fetchedAt": "2025-10-09T18:12:55.614Z",
+  "fetchedAt": "2025-10-09T18:44:44.567Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "One of our favorite hybrid mopping vacs just hit its lowest price yet",
+      "description": "Amazon’s Prime Big Deal Days brought a ton of great robot vacuum deals — so many that we felt compelled to put all of them in a post. However, this post is dedicated to one of our favorites when it comes to both vacuuming and mopping. The Eufy X10 Pro Omni ea…",
+      "url": "https://www.theverge.com/tech/795522/amazon-october-prime-day-robot-mop-eufy-x10-pro-omni-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25767809/eufy_x10_pro_omni.png?quality=90&strip=all&crop=0%2C10.723721019849%2C100%2C78.552557960301&w=1200",
+      "publishedAt": "2025-10-08T18:42:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\n$499.99 is a great price for a hybrid vacuum and mop with a squircle design thats great for corners.\r\n$499.99 is a great price for a hybrid vacuum and mop with a… [+2504 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-bicchierai",
+      "title": "“It Just Works”: How Windows on Snapdragon Raises the PC Bar | TechCrunch",
+      "description": "It’s the great, universal frustration of computing: You’re trying to finish a project, but your laptop just isn’t working, and you can’t do much about it. Maybe the battery is draining too rapidly, maybe apps are glitching, maybe certain use cases are slowing…",
+      "url": "https://techcrunch.com/sponsor/snapdragon/it-just-works-how-windows-on-snapdragon-raises-the-pc-bar/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Hero-1024x683_Image-1-3.jpg?w=1024",
+      "publishedAt": "2025-10-08T18:37:37Z",
+      "content": "Its the great, universal frustration of computing: Youre trying to finish a project, but your laptop just isnt working, and you cant do much about it. Maybe the battery is draining too rapidly, maybe… [+7603 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "This Startup Wants to Spark a US DeepSeek Moment",
+      "description": "With the US falling behind on open source models, one startup has a bold idea for democratizing AI: let anyone run reinforcement learning.",
+      "url": "https://www.wired.com/story/prime-intellect-startup-us-deepseek-moment/",
+      "urlToImage": "https://media.wired.com/photos/68e564624bf4fef4e1ddd7ad/191:100/w_1280,c_limit/AI-Lab-America-Needs-DeepSeek-Moment-Business.jpg",
+      "publishedAt": "2025-10-08T18:30:00Z",
+      "content": "Ever since DeepSeek burst onto the scene in January, momentum has grown around open source Chinese artificial intelligence models. Some researchers are pushing for an even more open approach to build… [+1926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "I compared the heart rate monitoring on Apple's latest earbuds, and there's a surprise winner",
+      "description": "Beats' Powerbeats Pro 2 and Apple's AirPods Pro 2 offer in-ear heart rate monitoring. But which earbud suits your lifestyle better?",
+      "url": "https://www.zdnet.com/article/i-compared-the-heart-rate-monitoring-on-apples-latest-earbuds-and-theres-a-surprise-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T18:27:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "The Toniebox is perfect for kids and parents and just hit its lowest price ever",
+      "description": "The Toniebox is a popular kid-friendly audio player for music, stories, and educational content. I've had mine for two years, and here's why my kids love it.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/the-toniebox-is-perfect-for-kids-and-parents-and-just-hit-its-lowest-price-ever-prime-day-2025/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/21e44e1ab7b859cf2bc3366beb01375653db28f8/2025/10/08/4a03c0c0-dbaa-4547-bb01-eb87553fd025/1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T18:22:56Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nMy kid had been asking for a Toniebox for two years, but I always talked her out of it. I'm no Grinch, but each basic starter … [+3438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Need a Pocket replacement? My 6 favorite 'read it later' apps are even better",
+      "description": "Pocket dumped you? Don't despair: Some of these 'read it later' replacements deliver more than Mozilla's service - and for less.",
+      "url": "https://www.zdnet.com/home-and-office/work-life/need-a-pocket-replacement-my-6-favorite-read-it-later-apps-are-even-better/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3353e178782aeda1f665044cf2ff8e4bc576a0c2/2025/10/08/523fbd97-5518-434d-94dc-f3dab8acf4ed/gettyimages-1400480877.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T18:21:06Z",
+      "content": "farakos/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nMozilla's \"read it later\" bookmarking service, Pocket, shut down, and that's a shame because it was widely u… [+7857 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CoreWeave stock rallies as it introduces new AI tools for developers",
+      "description": "CoreWeave is working to expand its business with tools targeting software developers, while adding capacity to accommodate business from Meta and OpenAI.",
+      "url": "https://www.cnbc.com/2025/10/08/coreweave-stock-ai-developer-tools.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202196-1758556569066-gettyimages-2236260070-US_STOCKS.jpeg?v=1759946088&w=1920&h=1080",
+      "publishedAt": "2025-10-08T18:16:47Z",
+      "content": "CoreWeave shares rose as much as 8% Wednesday as the artificial intelligence cloud provider announced new tools to help programmers develop AI agents.\r\nWith the new serverless reinforcement learning … [+1914 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
+      "description": "Sora had a pretty great first week on the US App Store, nearing the size of ChatGPT's debut.",
+      "url": "https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "publishedAt": "2025-10-08T18:12:54Z",
+      "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2005 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sora’s downloads in its first week was nearly as big as ChatGPT’s launch",
+      "description": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
+      "url": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "publishedAt": "2025-10-08T18:12:54Z",
+      "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2005 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,123 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e0b3f8026132543e222e53/191:100/w_1280,c_limit/Our%20Favorite%20Smart%20Ring%20Without%20a%20Subscription%20Is%20Now%20$50%20Off.png",
       "publishedAt": "2025-10-07T19:11:43Z",
       "content": "This is a crazy year to be writing about smart rings. Normally, we call rings in, test them, and write about them. But Finnish ring manufacturer Oura has jumped so far ahead of the pack that it's sca… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "One of my favorite Dell laptops from 2025 is $850 off",
-      "description": "The Dell 16 Premium is perfect for creatives looking for a powerful laptop. And right now, all three models are on sale.",
-      "url": "https://www.zdnet.com/article/one-of-my-favorite-dell-laptops-from-2025-is-850-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3ba09043468d9d7ab775f7f3714e28be9c371da4/2025/07/24/d9dfb6b6-f2d7-4574-816e-c2435a8a2a79/dell-premium-16-image-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T19:06:48Z",
-      "content": "https://www.zdnet.com/article/best-amazon-october-prime-day-samsung-deals-10-07-2025/\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAmazon's Prime Day deals event is officially here. It's … [+2557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Anthropic's open-source safety tool found AI models whisteblowing - in all the wrong places",
-      "description": "The Petri tool found AI \"may be influenced by narrative patterns more than by a coherent drive to minimize harm.\" Here's how the most deceptive models ranked.",
-      "url": "https://www.zdnet.com/article/anthropics-open-source-safety-tool-found-ai-models-whisteblowing-in-all-the-wrong-places/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cd4b0b4da3e79cc838c488e6b3a0ce9d552f4efa/2025/10/07/cb786df6-637c-4129-8f7b-2454050b36db/gettyimages-1743890143.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T19:06:00Z",
-      "content": "J Studios/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The \"Petri\" tool deploys AI agents to evaluate frontier models.</li><li… [+6171 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "You can now chat with third-party apps in ChatGPT - here's how",
-      "description": "With the new ChatGPT third-party integration, you can request help and information from such apps and services as Booking.com, Coursera, Expedia, and Zillow.",
-      "url": "https://www.zdnet.com/article/you-can-now-chat-with-third-party-apps-in-chatgpt-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f2cedf9a9c825b60b4b666772f0c49dbc1726c32/2025/10/07/2962396e-7860-4007-b545-7af414f27f6b/screenshot-2025-10-07-at-1-50-33pm.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T18:53:18Z",
-      "content": "OpenAI\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT now lets you chat with certain third-party apps.</li><li>You can interact with an app directly in… [+7164 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Allison Murray",
-      "title": "Apple's smallest iPad packs a punch - and just hit an all-time-low price",
-      "description": "The iPad Mini is perfect for those looking for a portable yet powerful tablet. It gets the biggest discount we've seen for Amazon Prime Day.",
-      "url": "https://www.zdnet.com/article/apples-smallest-ipad-packs-a-punch-and-just-hit-an-all-time-low-price/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/956da57b86d0b88eadcd87c405701b5d02366d62/2024/11/04/f164824b-0567-4835-9b17-34ff8c82c988/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T18:31:36Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThey say good things come in small packages, and that certainly is true for the powerful iPad Mini with the A17 Pro chip that … [+1658 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brad Bourque",
-      "title": "Best Prime Day Apple iPad Deals",
-      "description": "We'll help you choose between Apple's wide array of discounted tablets during Amazon's Prime Big Deal Days sale event.",
-      "url": "https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e5590d91b150d3a8db625b/191:100/w_1280,c_limit/These%20Are%20The%20Best%20iPad%20Deals%20This%20Prime%20Day.png",
-      "publishedAt": "2025-10-07T18:26:37Z",
-      "content": "It's Amazon Prime day once again, and our favorite Apple iPad is on deep discount for Prime members. The 11-inch Apple iPad with the A16 chip (8/10, WIRED Recommends) is marked down to just $328 for … [+2284 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Nena Farrell",
-      "title": "The Best Prime Day Vacuum Deals (2025): Dyson, Bissell, Black + Decker",
-      "description": "Amazon's Prime Day is back, and some of our favorite vacuums (from great Dyson to powerful robot vacuums!) are on sale.",
-      "url": "https://www.wired.com/story/prime-day-vacuum-deals-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e0a8b172fa1df1fdbfaa7b/191:100/w_1280,c_limit/The%20Best%20Prime%20Big%20Deal%20Day%20Vacuum%20Deals.png",
-      "publishedAt": "2025-10-07T18:18:12Z",
-      "content": "It's Prime Day againwell, officially it's Amazon Prime Big Deal Daysand we're hunting for the best Prime Day vacuum deals. Not all the advertised sales are worth shopping, but vacuums tend to have so… [+3751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Consumer outlook sours as inflation expectations rise, New York Fed survey finds",
-      "description": "Americans are increasingly pessimistic about their financial future as a wave of economic uncertainty takes hold.",
-      "url": "https://www.cnbc.com/2025/10/07/new-york-fed-consumer-outlook-sours-as-inflation-expectations-rise.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108149746-1747965775021-gettyimages-2150739474-sharleenkazi_01730.jpeg?v=1759854209&w=1920&h=1080",
-      "publishedAt": "2025-10-07T18:02:21Z",
-      "content": "Americans are increasingly concerned about their financial situation amid expectations that inflation could pick up, according to a New York Federal Reserve survey released Tuesday.\r\nThe central bank… [+2031 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "X splits Verified Organizations into ‘Premium Business’ and ‘Premium Organizations’",
-      "description": "The social network says Premium Business will help companies drive growth on the platform by boosting credibility with a gold checkmark and increasing visibility through affiliate badges.",
-      "url": "https://techcrunch.com/2025/10/07/x-splits-verified-organizations-into-premium-business-and-premium-organizations/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "publishedAt": "2025-10-07T18:00:00Z",
-      "content": "X announced on Tuesday that Verified Organizations, its premium subscription offering for businesses and governments, is being rebranded and will now be split into two offerings: Premium Business and… [+2422 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Facebook updates its algorithm to give users more control over which videos they see",
-      "description": "Facebook updated its algorithm so users can have greater control over which Reels videos they see.",
-      "url": "https://techcrunch.com/2025/10/07/facebook-updates-its-algorithm-to-give-users-more-control-over-which-videos-they-see/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Facebooks-upgraded-recommendations.jpg?w=1200",
-      "publishedAt": "2025-10-07T17:16:52Z",
-      "content": "Meta announced on Tuesday a new Facebook algorithm update that will showcase more Reels videos tailored to users’ preferences. The update includes features that offer users greater control over the v… [+1492 chars]"
     }
   ]
 }
