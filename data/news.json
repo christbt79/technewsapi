@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-09T10:10:11.891Z",
+  "fetchedAt": "2025-10-09T10:40:52.580Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "This Is the MacBook I'd Buy For Amazon Big Deal Days This Year",
+      "description": "With new MacBooks on the horizon and Prime Day discounts here, here's my advice on what MacBooks to buy today.",
+      "url": "https://www.wired.com/story/macbook-to-buy-amazon-prime-day/",
+      "urlToImage": "https://media.wired.com/photos/68e55e72abed7c3ca412ae37/191:100/w_1280,c_limit/The%20MacBook%20I'd%20Buy%20For%20Amazon%20Big%20Deal%20Days%20This%20Year.png",
+      "publishedAt": "2025-10-08T10:33:52Z",
+      "content": "There's also the M1 MacBook Air to consider. Yes, this five-year old laptop is still being sold, exclusively through Walmart, and the price is now down to $600. It's been that price since this summer… [+2456 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/de15c595caab07475d544f44f4153907793738c2/2025/10/06/9cea938a-48a1-4606-b95f-4399a155a5d1/img-1192.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-07T03:18:03Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>At OpenAI DevDay, the company unveiled new capabilities for apps in ChatGPT.</li><li>This is… [+4046 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers, Boone Ashworth",
-      "title": "Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’",
-      "description": "“I don’t think we have an easy relationship with our technology at the moment,” the former Apple designer said at OpenAI's developer conference in San Francisco on Monday.",
-      "url": "https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/",
-      "urlToImage": "https://media.wired.com/photos/68e408a2089e9a406fb333fb/191:100/w_1280,c_limit/gear-jony-ive-openai-AP25141660380307.jpg",
-      "publishedAt": "2025-10-07T01:19:36Z",
-      "content": "At OpenAIs developer conference in San Francisco on Monday, CEO Sam Altman and ex-Apple designer Jony Ive spoke in vague terms about the family of devices the pair are currently working to develop.\r\n… [+1929 chars]"
     }
   ]
 }
