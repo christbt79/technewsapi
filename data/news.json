@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-09T23:08:29.427Z",
+  "fetchedAt": "2025-10-09T23:31:13.860Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Russell",
+      "title": "I never lose my wallet with Nomad’s slim tracker, which is 20 percent off right now",
+      "description": "I used to misplace my wallet all the time, which always led to a mad scramble before leaving the house. I tried remembering to place it on the valet tray next to my keys, but it often wound up somewhere else. That’s why when Nomad launched its Tracking Card, …",
+      "url": "https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&strip=all&crop=0%2C11.554469977437%2C100%2C76.891060045127&w=1200",
+      "publishedAt": "2025-10-08T23:24:53Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nDespite its thin design, the Tracking Card lasts up to five months on a single charge.\r\nDespite its thin design, the Tracking Card lasts up to five months on a s… [+3388 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "SoftBank-owned Graphcore to invest $1.3 billion in India, set up AI research hub in Bengaluru",
+      "description": "SoftBank-owned Graphcore to invest £1 billion in India, launch an AI research hub in Bengaluru, and hire 500 people over the next five years.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-08/softbank-s-graphcore-plans-1-billion-chip-investment-in-india",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/t6buvh/article70141395.ece/alternates/LANDSCAPE_1200/graphcore1.jpg",
+      "publishedAt": "2025-10-08T23:20:21Z",
+      "content": "Graphcore, the British chip designer owned by SoftBank Group Corp., is planning to announce a £1 billion ($1.3 billion) investment package in India that includes a new research hub.\r\nThe announcement… [+2652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "CoreWeave bets on serverless agent builder to woo penny-pinching enterprises",
+      "description": "Because what enterprises really love are vague consumption-based pricing models\nRent-a-GPU outfit CoreWeave continued its push into the AI services arena on Wednesday with the introduction of a platform that aims to make reinforcement learning more accessible…",
+      "url": "https://www.theregister.com/2025/10/08/coreweave_serverless_rl/",
+      "urlToImage": "https://regmedia.co.uk/2022/03/15/datacenter_ab.jpg",
+      "publishedAt": "2025-10-08T23:10:33Z",
+      "content": "Rent-a-GPU outfit CoreWeave continued its push into the AI services arena on Wednesday with the introduction of a platform that aims to make reinforcement learning more accessible to enterprise custo… [+2389 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8da4da6a42cf93bc9a9b023459a19724c5981bcd/2025/10/07/bd3321aa-c28e-4be2-9991-0ec7925baa95/gettyimages-2184107008.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-08T02:00:30Z",
       "content": "anilakkus/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot can now remember or forget details based on your com… [+5515 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "OpenAI wasn’t expecting Sora’s copyright drama",
-      "description": "When OpenAI released its new AI-generated video app Sora last week, it launched with an opt-out policy for copyright holders - media companies would need to expressly indicate they didn't want their AI-generated characters running rampant on the app. But afte…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/795171/openai-devday-sam-altman-sora-launch-copyright",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ai-label-1.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T01:30:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd it didnt realize people might not want their deepfakes to say offensive things.\r\nAnd it didnt realize people might not want their deepfakes to say offensive … [+9340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Gold skeptics are from Mars, investors are from Earth",
-      "description": "Martians may be scratching their head, but earthlings are not, and are scrambling over one another for the glittery stuff.",
-      "url": "https://www.cnbc.com/2025/10/08/cnbc-daily-open-gold-skeptics-are-from-mars-investors-are-from-earth.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209044-1759867612682-gettyimages-2239818092-_73a5795_4qqhw9j6.jpeg?v=1759867702&w=1920&h=1080",
-      "publishedAt": "2025-10-08T01:08:20Z",
-      "content": "In this photo illustration, a one-ounce gold bar, a gold nugget, and gold coins are displayed at Witter Coins on Oct. 7, 2025 in San Francisco, California. \r\nJ.P Morgan famously said in his 1912 cong… [+3347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc",
-      "title": "Intel to reveal tech details on forthcoming PC chip, sources say: Reuters",
-      "description": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters.",
-      "url": "https://www.cnbc.com/2025/10/07/intel-to-reveal-tech-details-on-forthcoming-pc-chip-sources-say-reuters.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188068-1755617017472-gettyimages-2230271863-porzycki-inteland250819_npxew.jpeg?v=1756305627&w=1920&h=1080",
-      "publishedAt": "2025-10-08T00:08:16Z",
-      "content": "Intel plans to release technical details about its forthcoming chip for laptops, known as Panther Lake, on Thursday, four sources briefed on the plans told Reuters. It is part of an effort to reassur… [+3331 chars]"
     }
   ]
 }
