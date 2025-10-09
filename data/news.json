@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-09T06:14:40.001Z",
+  "fetchedAt": "2025-10-09T06:47:11.364Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play",
+      "description": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion.",
+      "url": "https://www.cnbc.com/2025/10/08/softbank-to-buy-abb-robotics-unit-for-5point4-billion-in-ai-push.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108164958-1751005488968-gettyimages-2221537382-JAPAN_SOFTBANK.jpeg?v=1759904517&w=1920&h=1080",
+      "publishedAt": "2025-10-08T06:27:29Z",
+      "content": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion, as the Japanese giant looks to bolster its artificial intelligence plays.\r\nThe… [+1312 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-06T21:52:36Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nZillow, Canva, and Spotify are just some of the apps that already work with the new ChatGPT SDK\r\nZillow, Canva, and Spotify are just some of the apps that alread… [+5253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Amazing is selling the M3 MacBook Air for its lowest price yet - how the deal works",
-      "description": "Apple has dropped the price on its latest ultraportable MacBook to a record low $799 at Amazon ahead of Prime Day.",
-      "url": "https://www.zdnet.com/article/amazing-is-selling-the-m3-macbook-air-for-its-lowest-price-yet-how-the-deal-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-06T21:28:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nIt's crazy to think about, but Amazon's October Prime Day kicks off tomorrow, Oct. 7. It's a major sales event during whi… [+2328 chars]"
     }
   ]
 }
