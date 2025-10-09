@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T06:47:11.364Z",
+  "fetchedAt": "2025-10-09T07:09:24.726Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "AI companion bots use emotional manipulation to boost usage",
+      "description": "Researchers argue that this dark pattern poses a legal risk\nAI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.…",
+      "url": "https://www.theregister.com/2025/10/08/ai_bots_use_emotional_manipulation/",
+      "urlToImage": "https://regmedia.co.uk/2017/05/23/puppet-master.jpg",
+      "publishedAt": "2025-10-08T07:02:12Z",
+      "content": "AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.\r\nUsers of these apps of… [+4791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Gold: Earthlings' favorite element",
+      "description": "Martians may be scratching their head, but earthlings are not, and are scrambling over one another for the glittery stuff.",
+      "url": "https://www.cnbc.com/2025/10/08/cnbc-daily-open-gold-earthlings-favorite-element.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209045-1759867612983-gettyimages-2239818203-_73a5734_82dtrtou.jpeg?v=1759867702&w=1920&h=1080",
+      "publishedAt": "2025-10-08T06:53:38Z",
+      "content": "J.P Morgan famously said in his 1912 congressional testimony that \"Gold is money, everything is credit.\" \r\nIt seems unsurprising then that many investors seem to be fleeing from credit and are parkin… [+2861 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg",
       "publishedAt": "2025-10-06T22:27:04Z",
       "content": "ai-pocalypse A US Senate committee led by Bernie Sanders (I-VT) has produced a report claiming that about 97 million US jobs could be lost to AI and automation over the next decade. There's just one … [+4464 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out",
-      "description": "In a Q&A with reporters Monday at OpenAI’s DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his “favorite feature we’ve launched in a long time,” and he didn’t rule out including ads in the future. Pulse is OpenAI’s l…",
-      "url": "https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ChatGPT_Pulse.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-06T22:10:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIn a Q&amp;A with reporters Monday at OpenAIs DevDay event in San Francisco, CEO Sam Altman said the recently-launched ChatGPT Pulse was his favorite feature wev… [+2108 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "ChatGPT apps are live: Here are the first ones you can try",
-      "description": "OpenAI has launched new integrations that plug controls for other apps directly inside ChatGPT, letting you call them up to make a playlist in Spotify or search for local real estate listings on Zillow without leaving the chatbot.   It’s a bit like the “mini”…",
-      "url": "https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-06T21:52:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nZillow, Canva, and Spotify are just some of the apps that already work with the new ChatGPT SDK\r\nZillow, Canva, and Spotify are just some of the apps that alread… [+5253 chars]"
     }
   ]
 }
