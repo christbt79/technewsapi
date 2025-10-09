@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-09T15:26:01.475Z",
+  "fetchedAt": "2025-10-09T15:47:01.518Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Exchange Online will start archiving your oldest emails before your inbox bursts",
+      "description": "Microsoft promises fewer 'mailbox full' errors in face of message deluge\nMicrosoft's latest attempt to make the dreaded \"mailbox full\" response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange On…",
+      "url": "https://www.theregister.com/2025/10/08/microsoft_archiving_move/",
+      "urlToImage": "https://regmedia.co.uk/2018/06/20/shutterstock_email_attack.jpg",
+      "publishedAt": "2025-10-08T15:30:45Z",
+      "content": "Microsoft's latest attempt to make the dreaded \"mailbox full\" response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange Online.\r\nThe pl… [+1748 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Google’s AI try-on imagines your feet in new shoes",
+      "description": "Google will now use AI to help you “try on” shoes while sitting at home. Now, when you browse through shoes on Google Shopping, you can hit the “try it on” button on the new heels, sneakers, or sandals you’re looking at to see how they might look on you. In c…",
+      "url": "https://www.theverge.com/news/796308/google-ai-shopping-try-on-shoes",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/google-ai-try-on-shoes.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T15:26:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou dont need to give Google your feet pics for the feature to work.\r\nYou dont need to give Google your feet pics for the feature to work.\r\nby\r\nEmma RothClose\r\nE… [+2128 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -237,19 +263,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -260,6 +273,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/63a6143b17db99b26adcfe7564e47175f2c77e8f/2025/06/23/e2d75e91-0548-42e2-8227-b1fb66d8ddd9/dsc03792.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-07T14:17:26Z",
       "content": "Nina Raemont/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple unveiled its triple-watch lineup at its September iPhone event. The new contenders include the base model Series 11, … [+3734 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Google hints at a new Nest Hub",
-      "description": "Last week, Google announced a new smart speaker for its AI-infused Gemini smart home platform, but there was no sign of a new smart display. The good news for fans of Google’s Nest Hubs is that Google Home’s Anish Kattukaran tells The Verge the company is “de…",
-      "url": "https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/nest-hub-max-hands-on-googles-first-smart-display-with-a-camera.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-07T14:04:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says its still committed to smart displays, as Amazon doubles down on the category.\r\nThe company says its still committed to smart displays, as Amazo… [+4042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Forget Google - my new go-to search tool won't track you or push AI, and it's free",
-      "description": "YaCy is completely private and can be installed on Linux, Mac, and Windows PCs.",
-      "url": "https://www.zdnet.com/article/forget-google-my-new-go-to-search-tool-wont-track-you-or-push-ai-and-its-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/413b35a8ddd9bbb286a5dc8a2b66e28f04ce569b/2025/10/07/bca0ee02-b5fc-47b9-8bd8-1bf6a207ccdf/why-use-a-third-party-search-tool-when-you-can-install-and-use-your-own.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T13:36:51Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to abandon Google, you can install your own search engine.<… [+5357 chars]"
     }
   ]
 }
