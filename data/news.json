@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-09T15:47:01.518Z",
+  "fetchedAt": "2025-10-09T16:13:01.410Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "IBM's big iron to get Spyre AI accelerator upgrade this month",
+      "description": "Giving the mainframe customers what they want\nIBM's Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Power11 systems.…",
+      "url": "https://www.theregister.com/2025/10/08/ibm_z17_spyre_accelerator/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/08/ibm_spyre_accelerator.jpg",
+      "publishedAt": "2025-10-08T16:09:32Z",
+      "content": "IBM's Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Powe… [+3317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Hiner",
+      "title": "Buy Meta Ray-Ban Display for $799? These glasses are even geekier - and they're $200 off until Oct 10",
+      "description": "I spent a couple weeks with the Rokid Glasses and they have features you won't find in any of the Meta smart glasses -- if you're willing to trade style for substance.",
+      "url": "https://www.zdnet.com/article/buy-meta-ray-ban-display-for-799-these-glasses-are-even-geekier-and-theyre-200-off-until-oct-10/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d8cd1f2fb4a520a7bbb4d97cc4758fa596414555/2025/10/08/81084552-c37d-44da-a293-9f1bae98955f/rokid-glasses-hiner-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T16:04:46Z",
+      "content": "Jason Hiner/ZDNET\r\nIf you're interested in buying a pair of the Meta Ray-Ban Display smart glasses, good luck. They are only available in the US, are back-ordered for weeks or months in several place… [+10608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Hiner",
+      "title": "Buy Meta Ray-Ban Display for $799? These glasses are even geekier - and they're $120 off until Oct 10",
+      "description": "I spent a couple weeks with the Rokid Glasses and they have features you won't find in any of the Meta smart glasses -- if you're willing to trade style for substance.",
+      "url": "https://www.zdnet.com/article/buy-meta-ray-ban-display-for-799-these-glasses-are-even-geekier-and-theyre-120-off-until-oct-10/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d8cd1f2fb4a520a7bbb4d97cc4758fa596414555/2025/10/08/81084552-c37d-44da-a293-9f1bae98955f/rokid-glasses-hiner-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T16:04:00Z",
+      "content": "Jason Hiner/ZDNET\r\nIf you're interested in buying a pair of the Meta Ray-Ban Display smart glasses, good luck. They are only available in the US, are back-ordered for weeks or months in several place… [+10614 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt | TechCrunch",
+      "description": "Ganiga's fleet of waste-sorting technology is meant to help companies track and reduce the waste they produce.",
+      "url": "https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Ganiga_49.jpg?resize=1200,900",
+      "publishedAt": "2025-10-08T16:02:33Z",
+      "content": "Despite the well-known environmental benefits of recycling, its estimated that less than 10% of the worlds plastic gets recycled. Ganiga Innovation looks to bring that percentage up using AI-enabled … [+3489 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "The problems with AI in the smart home and how Amazon and Google plan to fix them",
+      "description": "Last week, Amazon and Google kick-started what could be the next chapter of the smart home. Their new voice assistants, Alexa Plus and Gemini for Home, have been rebuilt from the ground up on generative AI and large language models to be more conversational, …",
+      "url": "https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258001_ai_smart_home_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T15:57:16Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of false starts, the promise of ambient intelligence has arrived, but will it be worth the price?\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattiso… [+12278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "38-year-old's startup, backed by Bill Gates, has raised $33M to reinvent butter without cows: We want 'to save the world'",
+      "description": "Food tech startup Savor wants to change the way people eat butter, and help save the environment in the process. It has a long way to go to reach those goals.",
+      "url": "https://www.cnbc.com/2025/10/08/bill-gates-backed-startup-savor-wants-to-reinvent-butter-without-cows.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197711-1757616544899-savor_founders_.jpg?v=1759937921&w=1920&h=1080",
+      "publishedAt": "2025-10-08T15:53:38Z",
+      "content": "Kathleen Alexander wove through a crowded room to reach the cash register at San Francisco-based One65's patisserie.\r\nThere, the co-founder and CEO of Savor watched her company chocolate bonbons get … [+8584 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -263,19 +341,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -286,6 +351,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/07/shutterstock_idea_bulb.jpg",
       "publishedAt": "2025-10-07T14:58:07Z",
       "content": "JetBrains has joined Google and Zed Industries in adopting the fledgling Agent Client Protocol (ACP), a standard for how AI agents interact with code editors and integrated development environments (… [+2898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "The AirPods Max are (still) the best headphones for Apple users - and $120 off",
-      "description": "We appreciate Apple's AirPods Max for their solid ANC and transparency mode. Right now, they're $429 during Amazon Prime Day.",
-      "url": "https://www.zdnet.com/article/the-airpods-max-are-still-the-best-headphones-for-apple-users-and-120-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6b24d2ae6d2df557f3f7fdcc64354f31588b5a85/2025/08/25/5530e55a-e9d4-4b02-9a85-bdf4ce1ba6fc/hiner-airpods-max-2025.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T14:51:00Z",
-      "content": "Jada Jones/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple's AirPods Max headphones aren't the newest pair of cans on the market -- they've been around since 2020 and haven't rec… [+3118 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Qualcomm is acquiring DIY electronics platform Arduino",
-      "description": "Qualcomm is acquiring Arduino, the Italian open-source electronics platform behind a range of boards for tinkerers, DIY hobbyists, and educators, for an undisclosed amount. In an announcement on Tuesday, Qualcomm says the Arduino “brand, tools, and mission” w…",
-      "url": "https://www.theverge.com/news/794452/qualcomm-arduino-acquisition-uno-q",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ArduinoUnoQ.png?quality=90&strip=all&crop=0,23.821989528796,100,52.356020942408",
-      "publishedAt": "2025-10-07T14:41:07Z",
-      "content": "<ul><li></li><li></li></ul>\r\nArduino is also launching a Qualcomm-equipped Uno Q that functions as a single-board computer and microcontroller.\r\nArduino is also launching a Qualcomm-equipped Uno Q th… [+2713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "Google will pay you up to $30,000 in rewards to find bugs in its AI products",
-      "description": "Google products included in the new AI bug bounty program include Gemini, Search, AI Studio, and Workspace.",
-      "url": "https://www.zdnet.com/article/google-will-pay-you-up-to-30000-in-rewards-to-find-bugs-in-its-ai-products/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/734466a280bb127ceea79e05d36930f911dfef81/2025/10/07/8fd77d41-9e47-4927-a584-a6007551b935/gettyimages-2238327351.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T14:38:00Z",
-      "content": "NurPhoto / Contributor / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The new program focuses on vulnerabilities related to AI products.</li><l… [+4135 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "OpenAI and the race for AI-driven commerce | TechCrunch",
-      "description": "OpenAI now has all the pieces in place for AI-driven commerce, establishing ChatGPT as a place customers go to buy and retailers go to sell.",
-      "url": "https://techcrunch.com/2025/10/07/openai-and-the-race-for-ai-driven-commerce/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-07-at-9.35.14-AM.jpg?resize=1200,603",
-      "publishedAt": "2025-10-07T14:25:04Z",
-      "content": "OpenAI held its annual dev day on Monday, where the company rolled out its plan to build apps into ChatGPT. The demo was impressive, showing how programs like Spotify and Figma can be called or disco… [+4121 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Google Pixel 10 and Pixel 10 Pro Are on Sale for Prime Big Deal Days",
-      "description": "Snag the first Qi2 flagship Android phones at hefty discounts during Amazon's Prime Big Deal Days.",
-      "url": "https://www.wired.com/story/google-pixel-10-sale-amazon-prime-big-deal-days-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68aea51fcb3116c38839e107/191:100/w_1280,c_limit/Google%20Pixel%2010%20Pro%20and%20Pixel%2010%20Pro%20XL%20SOURCE%20Julian%20Chokkattu.png",
-      "publishedAt": "2025-10-07T14:23:13Z",
-      "content": "Barely a month has passed, and Google's entire new Pixel 10 smartphone lineup is on sale for Amazon's Prime Big Deal Days event. There's a whopping $150 discount on the Pixel 10, bringing it down to … [+3194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "One of the best Apple Watches you can buy isn't Apple's newest (but it's $120 off)",
-      "description": "The Apple Watch Series 10 might be last year's model, but its specs prove it's basically as capable as the Series 11. The main difference? It's 30% off during Prime Day.",
-      "url": "https://www.zdnet.com/article/one-of-the-best-apple-watches-you-can-buy-isnt-apples-newest-but-its-120-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/63a6143b17db99b26adcfe7564e47175f2c77e8f/2025/06/23/e2d75e91-0548-42e2-8227-b1fb66d8ddd9/dsc03792.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T14:17:26Z",
-      "content": "Nina Raemont/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nApple unveiled its triple-watch lineup at its September iPhone event. The new contenders include the base model Series 11, … [+3734 chars]"
     }
   ]
 }
