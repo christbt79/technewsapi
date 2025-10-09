@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-09T12:17:23.869Z",
+  "fetchedAt": "2025-10-09T13:02:48.502Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "SoftBank makes a $5.4 billion bet on AI robots",
+      "description": "Remember Pepper, the overhyped “emotional robot” that flopped hard a few years ago? Well, one of its makers, SoftBank, is getting back into the bot business with a $5.4 billion acquisition of ABB’s robotics division. The deal, which still needs the green ligh…",
+      "url": "https://www.theverge.com/news/796068/softbank-bets-on-ai-robots",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-528174668.jpg?quality=90&strip=all&crop=0%2C12.609851960529%2C100%2C74.780296078941&w=1200",
+      "publishedAt": "2025-10-08T13:00:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSoftBanks next frontier is Physical AI, said founder Masayoshi Son.\r\nSoftBanks next frontier is Physical AI, said founder Masayoshi Son.\r\nby\r\nRobert HartClose\r\nR… [+1959 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Square launches AI voice ordering and an integrated Bitcoin solution for merchants",
+      "description": "Block is now allowing Square merchants to accept Bitcoin payments without any processing fee for one year",
+      "url": "https://techcrunch.com/2025/10/08/square-launches-ai-voice-ordering-and-an-integrated-bitcoin-solution-for-merchants/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Restaurant.jpg?w=1200",
+      "publishedAt": "2025-10-08T13:00:00Z",
+      "content": "Square, Block’s merchant payments platform, has launched new features for merchants, including AI-powered voice ordering for restaurants, enhancements to its AI assistants — such as providing local i… [+3781 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia's Huang says AI computing demand is up 'substantially' in the last 6 months",
+      "description": null,
+      "url": "https://www.cnbc.com/2025/10/08/jensen-huang-nvidia-computing-demand.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209275-1759927200338-Jensen2.jpg?v=1759927281&w=1920&h=1080",
+      "publishedAt": "2025-10-08T12:49:39Z",
+      "content": "Nvidia CEO Jensen Huang said demand is up huge this year as artificial intelligence models develop further from answering simple questions to complex reasoning. \r\n\"This year, particularly the last si… [+271 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dominic Chopping and Eliot Brown",
+      "title": "SoftBank Expands AI Footprint With Multibillion-Dollar Robotics Deal",
+      "description": "The acquisition from ABB marks the largest in a long and patchy record of robotics investments by SoftBank Chief Executive Masayoshi Son.",
+      "url": "https://www.wsj.com/business/deals/softbank-to-buy-abbs-robotics-unit-in-5-38-billion-deal-f95024c8",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DnhiC0Bxb9Ak_lhnd5zAOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/ef00b03d56f1dfe40a996e4f25f37b49",
+      "publishedAt": "2025-10-08T12:19:00Z",
+      "content": "SoftBank CEO Masayoshi Sons autonomous aspirations go back years. - kim kyung-hoon/Reuters\r\nTech conglomerate SoftBank Group has agreed to a $5.4 billion deal for the industrial-robotics-focused busi… [+3079 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257690_Google_Pixel_9A_AJohnson_0003.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
       "publishedAt": "2025-10-07T11:44:14Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest discount bests the all-time low we saw in July by $50.\r\nThe latest discount bests the all-time low we saw in July by $50.\r\nby\r\nBrandon RussellClose\r\nB… [+3444 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "The best Apple deals available during Amazon’s fall Prime Day event",
-      "description": "At long last, Amazon’s October Prime Day event has begun — and as expected, it’s packed with a slew of notable Apple deals. If you don’t want to wait until Black Friday or Cyber Monday to score a discount, the current promo is a great opportunity to save, as …",
-      "url": "https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24040655/226285_AIRPODS_PRO_2_cwelch_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-07T11:43:50Z",
-      "content": "The last-gen AirPods Pro are an excellent deal at $139.99 when purchased in refurbished condition.\r\n\n\nAt long last, Amazon’s October Prime Day event has begun — and as expected, it’s packed with a sl… [+10830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Asus reveals how $500,000 ROG Astral RTX 5090D was made — world's most expensive GPU is hewn from 5KG of pure gold",
-      "description": "Asus influencer Uncle Tony built it, and a private collector has already bought it, with proceeds going to charity.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/asus-reveals-how-usd500-000-rog-astral-rtx-5090d-was-made-worlds-most-expensive-gpu-is-hewn-from-5kg-of-pure-gold",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/V7vtSZhSrt5di6HrKmZRQA-2113-80.jpg",
-      "publishedAt": "2025-10-07T10:46:41Z",
-      "content": "Asus China influencer Uncle Tony has shared a video (Chinese language) on social media which reveals how the world’s most expensive graphics card was made (h/t VideoCardz). We aren’t talking about th… [+2259 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Christopher Beam",
-      "title": "The Future of AI Filmmaking Is a Parody of the Apocalypse, Made by a Guy Named Josh",
-      "description": "Behold Neural Viz, the first great cinematic universe of the AI era.",
-      "url": "https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/",
-      "urlToImage": "https://media.wired.com/photos/68cb1faf9529bd41c6c2b376/191:100/w_1280,c_limit/NV_TA.jpg",
-      "publishedAt": "2025-10-07T10:00:00Z",
-      "content": "The AI kept getting things wrong. In one shot, Tiggy looked inexplicably jacked. In another, his back was too dry. When the filmmaker told one piece of software to give the back of Tiggys head frog-l… [+1974 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "The Best Cheap Asus Chromebook Has Dropped Below $250",
-      "description": "Asus' budget Chromebook is cheaper than ever this Prime Day, with the price dropping to below $250 for the first time ever.",
-      "url": "https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e084d76a01e9d010452816/191:100/w_1280,c_limit/The%20Chromebook%20I%20Recommend%20to%20Everyone%20Is%20Cheaper%20Than%20Ever%20on%20Prime%20Day.png",
-      "publishedAt": "2025-10-07T09:55:00Z",
-      "content": "Chromebooks are a dime a dozen, but precious few of them are actually worth recommending. The Asus CX15 is a rare exception. Its one of the best Chromebooks you can buy, not only because it offers de… [+1879 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Parker Hall",
-      "title": "61 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
-      "description": "We've scoured Amazon for the best deals under a Benjamin, from Roku to Instant Pot.",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e08e6d026132543e222e51/191:100/w_1280,c_limit/The%20Best%20Prime%20Day%20Deals%20Under%20$100.png",
-      "publishedAt": "2025-10-07T09:36:28Z",
-      "content": "Eufy Security Indoor Cam S350 for $80 ($60 off): This indoor camera is a powerhouse, featuring pan/tilt, a dual-lens 4K system with 8x zoom, and onboard AI.\r\nBlink Mini 2 for $20 ($20 off): The tiny … [+1271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Tony Webb",
-      "title": "Companies are making the same mistake with AI that Tesla made with robots",
-      "description": "Some early experiments with AI are revealing the technology's shortcomings - and, by extension, the value of human workers.",
-      "url": "https://www.zdnet.com/article/companies-are-making-the-same-mistake-with-ai-that-tesla-made-with-robots/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a6b750569b2b94d883052185b19ab654c3002343/2025/10/06/c444028b-6490-4276-a6df-be38857b443f/gettyimages-1792835636.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T08:00:43Z",
-      "content": "Eugene Mymrin/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>82% of people prefer human customer service reps to AI. </li><li>Overrelia… [+4933 chars]"
     }
   ]
 }
