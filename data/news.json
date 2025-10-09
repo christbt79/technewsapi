@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-09T14:49:08.397Z",
+  "fetchedAt": "2025-10-09T15:26:01.475Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Powerbeats Pro 2 vs. AirPods Pro 3: I compared the heart rate monitoring, and here's the winner",
+      "description": "Beats' Powerbeats Pro 2 and Apple's AirPods Pro 2 offer in-ear heart rate monitoring. But which earbud suits your lifestyle better?",
+      "url": "https://www.zdnet.com/article/powerbeats-pro-2-vs-airpods-pro-3-i-compared-the-heart-rate-monitoring-and-heres-the-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T15:06:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Ariana Aspuru, Sean Rameswaram",
+      "title": "We’re swimming in AI slop. Here’s how to tell the difference.",
+      "description": "If your feed isn’t already filled with AI-generated video slop, it’s only a matter of time.  Meta and OpenAI will make sure of it. Meta recently announced its endless slop-feed Vibes, made up entirely of AI-generated content: cats, dogs, and blobs. And that’s…",
+      "url": "https://www.vox.com/technology/464097/meta-openai-sora-slop-ai",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939749.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T14:55:13Z",
+      "content": "If your feed isn’t already filled with AI-generated video slop, it’s only a matter of time. \n\nMeta and OpenAI will make sure of it. Meta recently announced its endless slop-feed Vibes, made up entire… [+5324 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google's virtual try-on shopping tool expands to more countries, now lets you try on shoes | TechCrunch",
+      "description": "To virtually try on a pair of shoes, users need to tap on any product listing on Google, select the \"try it on\" button, and add a full length photo themselves.",
+      "url": "https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/11/screen-shot-2016-11-18-at-10-24-48-am.png?w=791",
+      "publishedAt": "2025-10-08T14:53:11Z",
+      "content": "Google announced on Wednesday that its AI feature that lets users virtually try on clothes is expanding to Australia, Canada, and Japan. The tech giant also announced that the feature now lets users … [+1624 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -198,19 +237,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -221,6 +247,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/413b35a8ddd9bbb286a5dc8a2b66e28f04ce569b/2025/10/07/bca0ee02-b5fc-47b9-8bd8-1bf6a207ccdf/why-use-a-third-party-search-tool-when-you-can-install-and-use-your-own.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-07T13:36:51Z",
       "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to abandon Google, you can install your own search engine.<… [+5357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Why this $350 Google Pixel is my sleeper pick for best Prime Day phone deal",
-      "description": "It's not the flashiest model out there, but you really can't go wrong with this phone at this price.",
-      "url": "https://www.zdnet.com/article/why-this-350-google-pixel-is-my-sleeper-pick-for-best-prime-day-phone-deal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b3205a693a44959cc7cbec6a9fdf3d1f7a680b32/2025/04/10/d6598995-33e1-44a8-a566-274398becf85/dsc05273.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-07T13:36:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Pixel 9a launched earlier this year as a midrange Android phone that balanced performance and price. So, it was only a matt… [+2690 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Qualcomm solders Arduino to its edge AI ambitions",
-      "description": "Cali chip giant insists single-board computer house will remain independent\nQualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino pr…",
-      "url": "https://www.theregister.com/2025/10/07/qualcomm_arduino_acquisition/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/07/arduinounoqsmall.jpg",
-      "publishedAt": "2025-10-07T13:35:15Z",
-      "content": "Qualcomm has acquired Arduino, maker of microcontrollers (and now single-board computers), in a move designed to boost its presence in edge computing, as evidenced by a new Arduino product based on o… [+3942 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Google’s extreme smart home makeover",
-      "description": "Google has a long history of building something interesting, making a lot of big promises about its future, then seemingly forgetting it exists and killing it a few months or years later. Over the last few years, you'd be forgiven for thinking the smart home …",
-      "url": "https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1007_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-07T13:22:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Why Google thinks Gemini can fix your house, why Peloton gear is so expensive, and more.\r\nOn The Vergecast: Why Google thinks Gemini can fix yo… [+3351 chars]"
     }
   ]
 }
