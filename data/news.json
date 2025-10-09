@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-09T13:02:48.502Z",
+  "fetchedAt": "2025-10-09T13:43:47.417Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The Google Pixel Watch 4 is the Android watch to beat",
+      "description": "Five years ago, I used to groan when it came time to review an Android smartwatch. Back then, anything that wasn't a Samsung watch was disappointing at best. The space was fragmented, battery life was dismal, and interest just didn't seem to be there. But now…",
+      "url": "https://www.theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0416.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-08T13:39:03Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter lagging behind for so long, its been wild to see Google come this far in the smartwatch game.\r\nIf you buy something from a Verge link, Vox Media may earn a… [+11413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Texas senators cry foul over Smithsonian's pricy Space Shuttle shuffle",
+      "description": "Can be shifted for a tenth of the price AND the wings don't have to come off – allegedly Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute's cost estimates are \"more than …",
+      "url": "https://www.theregister.com/2025/10/08/senators_smithsonian_discovery/",
+      "urlToImage": "https://regmedia.co.uk/2023/10/18/spaceshuttlediscovery.jpg",
+      "publishedAt": "2025-10-08T13:27:07Z",
+      "content": "Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute's cost estimates are \"more than ten times higher\" than quotes… [+3658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Bank of England warns of 'sharp market correction' if AI bubble bursts",
+      "description": "The Bank of England has warned that risk of a sharp market correction has increased, amid stretched AI-related valuations.",
+      "url": "https://www.cnbc.com/2025/10/08/bank-of-england-warns-of-sharp-market-correction-if-ai-bubble-bursts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108118813-1742464050338-gettyimages-2201301185-20250219_bank_of_england_002.jpeg?v=1759929749&w=1920&h=1080",
+      "publishedAt": "2025-10-08T13:22:40Z",
+      "content": "The Bank of England on Wednesday warned that the risk of a \"sharp market correction\" has increased, noting that stock market valuations appear stretched, particularly for artificial intelligence-focu… [+3118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "4 ways KDE Plasma 6.5 beta is shaping up to be a beautiful, customizable Linux desktop",
+      "description": "One of Linux's most popular desktops is getting a huge upgrade.",
+      "url": "https://www.zdnet.com/article/4-ways-kde-plasma-6-5-beta-is-shaping-up-to-be-a-beautiful-customizable-linux-desktop/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/471cdf0025967977d26d7e5e2a8ea0849d1ec53e/2025/10/08/8efece08-cba0-4320-bc3e-dc08de881452/kde-6-5-beta-highlights-some-exciting-features-coming-to-the-desktop.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-08T13:05:16Z",
+      "content": "KDE / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>KDE Plasma 6.5 beta is now available for testing.</li><li>New release brings be… [+4820 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/HgEVGyH8PSqV3Uurqa49Ra-1309-80.png",
       "publishedAt": "2025-10-07T12:18:18Z",
       "content": "Amkor has broken ground on a new semiconductor packaging and test campus in Peoria, Arizona, marking a rare domestic expansion in one of the industry’s most critical and capacity-constrained areas. T… [+2719 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "xAI hires former Morgan Stanley banker Anthony Armstrong as CFO | TechCrunch",
-      "description": "Armstrong, who advised Musk during his Twitter takeover, will oversee the finances of both xAI and X, which were merged in April, the report said.",
-      "url": "https://techcrunch.com/2025/10/07/xai-hires-former-morgan-stanley-banker-anthony-armstrong-as-cfo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-      "publishedAt": "2025-10-07T12:14:14Z",
-      "content": "Elon Musk’s AI company, xAI, now has a new chief financial officer: Former Morgan Stanley banker Anthony Armstrong, the Financial Times reported, citing anonymous sources.\r\nArmstrong, who previously … [+992 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Google Pixel 9a Sees Its First Major Discount for Prime Big Deal Days",
-      "description": "The Pixel 9a is an amazing phone for the money, and now it's even better with this Amazon Prime Big Deal Days sale.",
-      "url": "https://www.wired.com/story/google-pixel-9a-prime-day-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e42d2c3cc785bf73dfa3b5/191:100/w_1280,c_limit/Google's%20Pixel%209a%20Is%20Down%20to%20$350.png",
-      "publishedAt": "2025-10-07T12:08:24Z",
-      "content": "WIRED's top smartphone recommendation for most people is Google's Pixel 9a (9/10, WIRED Recommends), thanks to its incredible balance of performance and features for its $499 MSRP. But Amazon's Prime… [+3113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc",
-      "title": "Nobel physics prize goes to pioneers of quantum mechanics",
-      "description": "U.S.-based scientists John Clarke, Michel Devoret and John Martinis won the 2025 Nobel Prize in Physics.",
-      "url": "https://www.cnbc.com/2025/10/07/nobel-physics-prize-goes-to-pioneers-of-quantum-mechanics.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208718-1759838768451-gettyimages-2239281397-AFP_77XQ9RD.jpeg?v=1759838823&w=1920&h=1080",
-      "publishedAt": "2025-10-07T12:07:31Z",
-      "content": "Photos of (LtoR) British physicist John Clarke at the University of California, USA, French physicist Michel H Devoret (University of California and Yale) and US physicist John M Martinis (University… [+4832 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "The excellent Pixel 9A has dropped to just $349 for Amazon’s fall Prime Day",
-      "description": "Google’s smartphone lineup has never been better thanks to the recent launch of its Pixel 10 lineup, but the Pixel 9A remains a smart buy. It’s our favorite midrange phone, one that’s remarkably well balanced in terms of hardware, features, and value. And tha…",
-      "url": "https://www.theverge.com/tech/789306/amazon-october-prime-day-google-pixel-9a-deal-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/257690_Google_Pixel_9A_AJohnson_0003.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "publishedAt": "2025-10-07T11:44:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest discount bests the all-time low we saw in July by $50.\r\nThe latest discount bests the all-time low we saw in July by $50.\r\nby\r\nBrandon RussellClose\r\nB… [+3444 chars]"
     }
   ]
 }
