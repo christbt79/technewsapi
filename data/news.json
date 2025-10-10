@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-10T02:16:31.588Z",
+  "fetchedAt": "2025-10-10T03:11:35.961Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Russell",
+      "title": "Sony’s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off",
+      "description": "While the WH-1000XM6 are the top dog in Sony’s lineup, the discount for Prime Big Deal Days is relatively modest at just $21 off. If you don’t need the latest tech, though, you can save a lot more by grabbing the last-gen WH-1000XM5 in black, which are down t…",
+      "url": "https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454335/DSCF7811.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-09T03:04:11Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre a great alternative to the newer, pricier XM6.\r\nTheyre a great alternative to the newer, pricier XM6.\r\nby\r\nBrandon RussellClose\r\nBrandon Russell\r\nPosts fr… [+2997 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1017,19 +1030,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -1040,6 +1040,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209045-1759867612983-gettyimages-2239818203-_73a5734_82dtrtou.jpeg?v=1759867702&w=1920&h=1080",
       "publishedAt": "2025-10-08T06:53:38Z",
       "content": "J.P Morgan famously said in his 1912 congressional testimony that \"Gold is money, everything is credit.\" \r\nIt seems unsurprising then that many investors seem to be fleeing from credit and are parkin… [+2861 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "SoftBank to buy ABB robotics unit for $5.4 billion as it boosts its AI play",
-      "description": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion.",
-      "url": "https://www.cnbc.com/2025/10/08/softbank-to-buy-abb-robotics-unit-for-5point4-billion-in-ai-push.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108164958-1751005488968-gettyimages-2221537382-JAPAN_SOFTBANK.jpeg?v=1759904517&w=1920&h=1080",
-      "publishedAt": "2025-10-08T06:27:29Z",
-      "content": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion, as the Japanese giant looks to bolster its artificial intelligence plays.\r\nThe… [+1312 chars]"
     }
   ]
 }
