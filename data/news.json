@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-10T16:11:15.187Z",
+  "fetchedAt": "2025-10-10T16:41:57.996Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "OpenAI’s Sora has already hit more than 1 million downloads",
+      "description": "OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch. That’s according to Sora head Bill Peebles, who said on Wednesday that Sora racked up downloads faster than ChatGPT did at launch des…",
+      "url": "https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "publishedAt": "2025-10-09T16:38:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says the AI video generation app is outpacing ChatGPTs growth at launch.\r\nThe company says the AI video generation app is outpacing ChatGPTs growth a… [+2499 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Figma partners with Google to add Gemini AI to its design platform",
+      "description": "Figma is adding Gemini to its AI toolset.",
+      "url": "https://techcrunch.com/2025/10/09/figma-partners-with-google-to-add-gemini-ai-to-its-design-platform/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/AI-Feature-Highlight.png?resize=1200,675",
+      "publishedAt": "2025-10-09T16:34:35Z",
+      "content": "Design platform Figma is partnering with Google to add more AI features, the company announced on Thursday. While Figma had previously introduced AI app-building tools of its own, the new integration… [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "US PC shipments hit the buffers as Trump’s tariffs take their toll",
+      "description": "Rest of the world surges on Windows 10 end-of-life upgrades WORLD WAR FEE  The global PC market is ticking upward as Windows 10's end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.…",
+      "url": "https://www.theregister.com/2025/10/09/us_pc_shipments_flat_trump_tarriffs/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_1445581070.jpg",
+      "publishedAt": "2025-10-09T16:31:37Z",
+      "content": "WORLD WAR FEE The global PC market is ticking upward as Windows 10's end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.\r\nMicrosoft's announced cu… [+2784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Talent agency CAA slams OpenAI's Sora for posing 'significant risk' to its clients",
+      "description": "Talent agency CAA slams OpenAI's AI video generation app Sora for posing \"significant risk\" to its clients",
+      "url": "https://www.cnbc.com/2025/10/09/caa-open-ai-sora-copyright-talent-agency.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207285-1759447450525-gettyimages-2238317673-Illustration_Sora_2.jpeg?v=1759500024&w=1920&h=1080",
+      "publishedAt": "2025-10-09T16:28:46Z",
+      "content": "The Creative Artists Agency on Thursday slammed OpenAI's new video creation app Sora for posing \"significant risks\" to their clients and intellectual property.\r\nThe talent agency, which represents ar… [+2756 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -575,19 +627,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -598,6 +637,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202196-1758556569066-gettyimages-2236260070-US_STOCKS.jpeg?v=1759946088&w=1920&h=1080",
       "publishedAt": "2025-10-08T18:16:47Z",
       "content": "CoreWeave shares rose as much as 8% Wednesday as the artificial intelligence cloud provider announced new tools to help programmers develop AI agents.\r\nWith the new serverless reinforcement learning … [+1914 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sora’s first week on iOS in the US was nearly as big as ChatGPT’s",
-      "description": "Sora had a pretty great first week on the US App Store, nearing the size of ChatGPT's debut.",
-      "url": "https://techcrunch.com/2025/10/08/soras-first-week-on-ios-in-the-us-was-nearly-as-big-as-chatgpts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-08T18:12:54Z",
-      "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2005 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sora’s downloads in its first week was nearly as big as ChatGPT’s launch",
-      "description": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
-      "url": "https://techcrunch.com/2025/10/08/soras-downloads-in-its-first-week-was-nearly-as-big-as-chatgpts-launch/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-08T18:12:54Z",
-      "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "AI gets more 'meh' as you get to know it better, researchers discover",
-      "description": "Most scientists now use the tech in their work, but still question its usefulness\nAI hype is colliding with reality yet again. Wiley's global survey of researchers finds more of them using the tech than ever, and fewer convinced it's up to the job.…",
-      "url": "https://www.theregister.com/2025/10/08/more_researchers_use_ai_few_confident/",
-      "urlToImage": "https://regmedia.co.uk/2018/02/20/skeptical.jpg",
-      "publishedAt": "2025-10-08T17:53:08Z",
-      "content": "AI hype is colliding with reality yet again. Wiley's global survey of researchers finds more of them using the tech than ever, and fewer convinced it's up to the job.\r\nAcademic publisher Wiley noted … [+5642 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AMD's deal with OpenAI gives Nvidia much-needed challenger in market it dominates",
-      "description": "The last time AMD played the role of distant challenger Intel was the giant in semiconductors.",
-      "url": "https://www.cnbc.com/2025/10/08/amd-deal-with-openai-gives-nvidia-a-needed-challenger-in-ai-chips.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117783-1742321371853-Traders-Photo-MW-20250318-PRESS-8.jpg?v=1742493999&w=1920&h=1080",
-      "publishedAt": "2025-10-08T17:35:47Z",
-      "content": "Lisa Su, CEO of AMD, left, and Jensen Huang, CEO of Nvidia\r\nIn the 1990s, when Intel dominated the PC chip market, the semiconductor maker needed Advanced Micro Devices to exist as a viable No. 2 to … [+7672 chars]"
     }
   ]
 }
