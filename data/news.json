@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T14:09:26.887Z",
+  "fetchedAt": "2025-10-10T14:39:51.899Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Intel gives first look at next-gen chips, says Arizona fab is fully operational",
+      "description": "The U.S. government took a 10% stake in the company in August, and Intel has received investments from Nvidia and SoftBank.",
+      "url": "https://www.cnbc.com/2025/10/09/intel-chips-panther-lake-clearwater-forest.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
+      "publishedAt": "2025-10-09T14:18:59Z",
+      "content": "Intel on Thursday announced its new PC chips slated to debut in laptops next year as the chipmaker battles to turn around its struggling business.\r\nThe company said the new Panther Lake processor is … [+1196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "That perfect-looking house for sale may have an owner using AI to virtually enhance the listing",
+      "description": "If a home for sale looks too perfect, that may be because the owner is using AI to virtually enhance the real estate listing.",
+      "url": "https://www.cnbc.com/2025/10/09/homeowners-stage-house-home-for-sale-real-estate-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206725-1759350575203-gettyimages-2237705869-2025-09-19-202.jpeg?v=1759350601&w=1920&h=1080",
+      "publishedAt": "2025-10-09T14:16:25Z",
+      "content": "Matthew Ping, principal broker with Porcupine Real Estate in New Hampshire, recently came across a listing for a property online with a lawn so lush that it caught his eye, prompting him to click thr… [+6113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Windows 11 gets a fresh Start in latest Canary build",
+      "description": "Meanwhile, Microsoft resurrects Edit and kills .NET 3.5 SP1 on demand\nIt's taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand,…",
+      "url": "https://www.theregister.com/2025/10/09/windows_11_canary_build/",
+      "urlToImage": "https://regmedia.co.uk/2025/05/20/vulture.png",
+      "publishedAt": "2025-10-09T14:15:11Z",
+      "content": "It's taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand, and addin… [+2179 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -302,19 +341,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -325,6 +351,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197711-1757616544899-savor_founders_.jpg?v=1759937921&w=1920&h=1080",
       "publishedAt": "2025-10-08T15:53:38Z",
       "content": "Kathleen Alexander wove through a crowded room to reach the cash register at San Francisco-based One65's patisserie.\r\nThere, the co-founder and CEO of Savor watched her company chocolate bonbons get … [+8584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Exchange Online will start archiving your oldest emails before your inbox bursts",
-      "description": "Microsoft promises fewer 'mailbox full' errors in face of message deluge\nMicrosoft's latest attempt to make the dreaded \"mailbox full\" response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange On…",
-      "url": "https://www.theregister.com/2025/10/08/microsoft_archiving_move/",
-      "urlToImage": "https://regmedia.co.uk/2018/06/20/shutterstock_email_attack.jpg",
-      "publishedAt": "2025-10-08T15:30:45Z",
-      "content": "Microsoft's latest attempt to make the dreaded \"mailbox full\" response a thing of the past is rolling out in October and November. Threshold-based auto-archiving is coming to Exchange Online.\r\nThe pl… [+1748 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Google’s AI try-on imagines your feet in new shoes",
-      "description": "Google will now use AI to help you “try on” shoes while sitting at home. Now, when you browse through shoes on Google Shopping, you can hit the “try it on” button on the new heels, sneakers, or sandals you’re looking at to see how they might look on you. In c…",
-      "url": "https://www.theverge.com/news/796308/google-ai-shopping-try-on-shoes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/google-ai-try-on-shoes.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T15:26:41Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou dont need to give Google your feet pics for the feature to work.\r\nYou dont need to give Google your feet pics for the feature to work.\r\nby\r\nEmma RothClose\r\nE… [+2128 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Powerbeats Pro 2 vs. AirPods Pro 3: I compared the heart rate monitoring, and here's the winner",
-      "description": "Beats' Powerbeats Pro 2 and Apple's AirPods Pro 2 offer in-ear heart rate monitoring. But which earbud suits your lifestyle better?",
-      "url": "https://www.zdnet.com/article/powerbeats-pro-2-vs-airpods-pro-3-i-compared-the-heart-rate-monitoring-and-heres-the-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T15:06:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6454 chars]"
     }
   ]
 }
