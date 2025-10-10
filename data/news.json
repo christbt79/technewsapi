@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T11:07:49.673Z",
+  "fetchedAt": "2025-10-10T11:31:34.693Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Family offices still bet on AI and health care even as deals slow down",
+      "description": "Investment firms of the ultra-rich made 46% fewer direct investments in September compared with the same period last year, according to Fintrx.",
+      "url": "https://www.cnbc.com/2025/10/09/family-offices-still-bet-on-ai-and-health-care-even-as-deals-slow-down.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071596-1733351938345-gettyimages-2188276591-mms17151_mvkdhn2p.jpeg?v=1736282149&w=1920&h=1080",
+      "publishedAt": "2025-10-09T11:30:01Z",
+      "content": "Jeff Bezos, founder and executive chairman of Amazon and owner of the Washington Post, takes the stage during the New York Times annual DealBook summit at Jazz at Lincoln Center on December 04, 2024 … [+3992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I compared the two best Android smartwatches right now - and here's my winner",
+      "description": "Google's latest Pixel Watch 4 gets several upgrades that keep it competitive with its Android competition.",
+      "url": "https://www.zdnet.com/article/i-compared-the-two-best-android-smartwatches-right-now-and-heres-my-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d5a1e908b62acca832ad72154b321ff6403ce5b7/2025/08/19/2ef38c38-8258-4f6d-aaaf-a714933e3316/made-by-google-pixel-event-2025-photo-71.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T11:21:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -29,19 +55,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -52,6 +65,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1251,19 +1277,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -1278,28 +1291,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "Theregister.com"
       },
-      "author": null,
-      "title": "Nvidia's Huang says AI computing demand is up 'substantially' in the last 6 months",
-      "description": null,
-      "url": "https://www.cnbc.com/2025/10/08/jensen-huang-nvidia-computing-demand.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209275-1759927200338-Jensen2.jpg?v=1759927281&w=1920&h=1080",
-      "publishedAt": "2025-10-08T12:49:39Z",
-      "content": "Nvidia CEO Jensen Huang said demand is up huge this year as artificial intelligence models develop further from answering simple questions to complex reasoning. \r\n\"This year, particularly the last si… [+271 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Dominic Chopping and Eliot Brown",
-      "title": "SoftBank Expands AI Footprint With Multibillion-Dollar Robotics Deal",
-      "description": "The acquisition from ABB marks the largest in a long and patchy record of robotics investments by SoftBank Chief Executive Masayoshi Son.",
-      "url": "https://www.wsj.com/business/deals/softbank-to-buy-abbs-robotics-unit-in-5-38-billion-deal-f95024c8",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DnhiC0Bxb9Ak_lhnd5zAOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/ef00b03d56f1dfe40a996e4f25f37b49",
-      "publishedAt": "2025-10-08T12:19:00Z",
-      "content": "SoftBank CEO Masayoshi Sons autonomous aspirations go back years. - kim kyung-hoon/Reuters\r\nTech conglomerate SoftBank Group has agreed to a $5.4 billion deal for the industrial-robotics-focused busi… [+3079 chars]"
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     }
   ]
 }
