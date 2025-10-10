@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T20:36:50.494Z",
+  "fetchedAt": "2025-10-10T21:07:22.454Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic",
+      "description": "Just 250 malicious training documents can poison a 13B parameter model - that's 0.00016% of a whole dataset\nPoisoning AI models might be way easier than previously thought if an Anthropic study is anything to go on. …",
+      "url": "https://www.theregister.com/2025/10/09/its_trivially_easy_to_poison/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_720129613.jpg",
+      "publishedAt": "2025-10-09T20:45:14Z",
+      "content": "Poisoning AI models might be way easier than previously thought if an Anthropic study is anything to go on. \r\nResearchers at the US AI firm, working with the UK AI Security Institute, Alan Turing Ins… [+4014 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Louise Matsakis, Zeyi Yang",
+      "title": "How China Is Hoping to Attract Tech Talent",
+      "description": "In this episode of \"Uncanny Valley,\" WIRED senior correspondent Lauren Goode is joined by senior business editor Louise Matsakis and senior writer Zeyi Yang to uncover how America's new $100,000 H-1B golden visa has thrown tech workers and their employers int…",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-china-is-hoping-to-attract-tech-talent/",
+      "urlToImage": "https://media.wired.com/photos/68e439ec3af653221caab15e/191:100/w_1280,c_limit/Uncanny-Valley-roundup-H1B-Visa-.jpg",
+      "publishedAt": "2025-10-09T20:39:15Z",
+      "content": "Lauren Goode: What's an example of that?\r\nLouise Matsakis: So, for example, there were some Chinese influencers who were spreading these conspiracy theories that Indians were plotting to use the visa… [+3603 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -900,19 +926,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -923,6 +936,19 @@
       "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4c978fdcb1d38f1bd249ee78d66e96362dec1396/2025/06/16/b1c49061-d3c7-48ce-99e9-a440fdcf2732/zdnet-prime-day-live-blog-6.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-08T21:52:00Z",
       "content": "Lenovo/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nChromebooks are known for being affordable, but the Lenovo IdeaPad Slim 3 is certainly one of the more affordable options out the… [+2211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Samsung Galaxy Z Fold 7 vs. Google Pixel 10 Pro Fold: We tested both, there's a clear winner",
-      "description": "Samsung and Google's new foldables target different types of users - here's how to decide which one to buy.",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-we-tested-both-theres-a-clear-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ba654d38aa63b929e8b1657fa28bb914d8519f02/2025/10/08/99af3842-985b-483c-a8e0-45b03b45b7fd/dsc07981.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T21:05:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Google Pixel 10 Pro Fold officially goes on sale today, and it already faces stiff competition from the Samsung Galaxy … [+6705 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kat Tenbarge",
-      "title": "Fans Call on Taylor Swift to ‘Do Better’ After Accusations of Using AI for Promo Videos",
-      "description": "A scavenger hunt campaign to promote Taylor Swift’s new album The Life of a Showgirl resulted in a viral #SwiftiesAgainstAI campaign.",
-      "url": "https://www.wired.com/story/taylor-swift-swifties-against-ai-viral/",
-      "urlToImage": "https://media.wired.com/photos/68e5828d8c3af7cdfe932788/191:100/w_1280,c_limit/Taylor-Swift-AI-Promo-Culture-2239032475.jpg",
-      "publishedAt": "2025-10-08T20:53:21Z",
-      "content": "We are very much losing this battle against common sense when it comes to using generative AI, Schnitt says, adding that if the videos are AI and Swift apologizes for it, the move could be a touchsto… [+2393 chars]"
     }
   ]
 }
