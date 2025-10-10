@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T09:37:07.057Z",
+  "fetchedAt": "2025-10-10T10:10:39.629Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "How I download YouTube videos for free - 2 ways, including my favorite",
+      "description": "You can download YouTube videos to watch anytime - even without Premium. Here's how.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/how-i-download-youtube-videos-for-free-2-ways-including-my-favorite/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/86e105e92865d44f548f70bf8f5396278bc767d1/2025/10/08/fb3d13d7-471d-48e7-8650-a7f94fe35158/how-i-download-youtube-videos-for-free-2-ways-including-my-favorite2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>ClipGrab and WinX/MacX are the best free tools for YouTube downloads.</li><li>YouT… [+6425 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1186,19 +1225,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -1209,6 +1235,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/03/26/aitraining.jpg",
       "publishedAt": "2025-10-08T11:58:12Z",
       "content": "Feature When a close family member contacted Etienne Brisson to tell him that he'd created the world's first sentient AI, the Quebecois business coach was intrigued. But things quickly turned dark. T… [+9463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI is poised to disrupt the job market — some roles could 'radically transform,' report finds",
-      "description": "Artificial intelligence is most likely to impact white-collar jobs, while those requiring more physical labor and intervention are relatively insulated.",
-      "url": "https://www.cnbc.com/2025/10/08/how-ai-is-poised-to-disrupt-the-job-market.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208463-1759782252260-gettyimages-2050177197-2z6_3851.jpeg?v=1759782287&w=1920&h=1080",
-      "publishedAt": "2025-10-08T11:30:01Z",
-      "content": "Artificial intelligence is poised to disrupt the job market but some workers are in the crosshairs more than others, according to labor experts.\r\nRoughly 1 in 4 (or, 26%) of the jobs posted on career… [+4933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "As real life banks close, network operator starts a Scam School to stop Granny getting mugged online",
-      "description": "Broadband biz teams up with Good Things Foundation to teach the digitally doddery how to dodge fraud UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becomin…",
-      "url": "https://www.theregister.com/2025/10/08/vmo2_scam_school/",
-      "urlToImage": "https://regmedia.co.uk/2021/04/07/shutterstock_rust.jpg",
-      "publishedAt": "2025-10-08T11:15:13Z",
-      "content": "UK network Virgin Media O2 is taking steps to combat fraud with a nationwide education scheme that aims to help vulnerable people and older folk avoid becoming victims.\r\nDubbed the \"Scam Schools\" pro… [+3113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "This Oura Ring rival offers similar tracking features at half the price (no subscription required)",
-      "description": "The budget-friendly RingConn Gen 2 Air delivers impressive health-tracking features that compete with top-tier rivals. And it's more affordable than ever during Prime Day.",
-      "url": "https://www.zdnet.com/article/this-oura-ring-rival-offers-similar-tracking-features-at-half-the-price-no-subscription-required/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ccc4a4da87830eba063c84f234eec2f8a43cfe44/2025/03/20/2ff8d1a4-232a-46fa-a70e-77cf90fcd035/img-5143.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T11:10:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
     }
   ]
 }
