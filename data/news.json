@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T08:13:09.640Z",
+  "fetchedAt": "2025-10-10T08:42:32.866Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "McKinsey wonders how to sell AI apps with no measurable benefits",
+      "description": "Consultant says software vendors risk hiking prices without cutting costs or boosting productivity Software vendors keen to monetize AI should tread cautiously, since they risk inflating costs for their customers without delivering any promised benefits such …",
+      "url": "https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/",
+      "urlToImage": "https://regmedia.co.uk/2024/11/20/shutterstock_aidissapointment.jpg",
+      "publishedAt": "2025-10-09T08:28:07Z",
+      "content": "Software vendors keen to monetize AI should tread cautiously, since they risk inflating costs for their customers without delivering any promised benefits such as reducing employee head count.\r\nThe l… [+4129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI expands budget-friendly ChatGPT Go to 16 more countries in Asia",
+      "description": "OpenAI has expanded its budget-friendly ChatGPT Go plan to 16 more countries across Asia, after launching it in India and Indonesia earlier this year.",
+      "url": "https://www.cnbc.com/2025/10/09/openai-expands-its-cheapest-chatgpt-plan-to-16-more-countries-in-asia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209778-1759986401217-gettyimages-2236404267-radecka-illustra250920_np0Hx.jpeg?v=1759986466&w=1920&h=1080",
+      "publishedAt": "2025-10-09T08:26:50Z",
+      "content": "OpenAI has expanded its lower-cost subscription plan, ChatGPT Go, to 16 more countries across Asia, company head Nick Turley announced Thursday.\r\n\"Making ChatGPT more affordable has been a key ask fr… [+1800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's Inside India newsletter: From X to TikTok clones, and now a 'WhatsApp killer’: India’s search for indigenous apps",
+      "description": "Can Arattai, the latest Indian messaging app, finally break the hold of American tech giant WhatsApp's or will it be another flash-in-the-pan product.",
+      "url": "https://www.cnbc.com/2025/10/09/cnbc-inside-india-newsletter-arattai-x-tiktok-clones-and-now-a-whatsapp-killer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209147-1759892174872-gettyimages-1622967050-AFP_33TK3XD.jpeg?v=1759892226&w=1920&h=1080",
+      "publishedAt": "2025-10-09T08:19:16Z",
+      "content": "Tourists are seen at the promenade of the iconic Gateway of India next to digital displays of messaging app WhatsApp, in Mumbai on August 25, 2023. (Photo by INDRANIL MUKHERJEE / AFP) (Photo by INDRA… [+9396 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1121,19 +1160,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -1144,6 +1170,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e55e72abed7c3ca412ae37/191:100/w_1280,c_limit/The%20MacBook%20I'd%20Buy%20For%20Amazon%20Big%20Deal%20Days%20This%20Year.png",
       "publishedAt": "2025-10-08T10:33:52Z",
       "content": "There's also the M1 MacBook Air to consider. Yes, this five-year old laptop is still being sold, exclusively through Walmart, and the price is now down to $600. It's been that price since this summer… [+2456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon launches prescription vending machines at One Medical clinics in Los Angeles",
-      "description": "The kiosks are operated by Amazon Pharmacy and stock a range of commonly prescribed medications, such as antibiotics, inhalers and blood pressure treatments.",
-      "url": "https://www.cnbc.com/2025/10/08/amazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209055-1759869425516-Amazon_Pharmacy_Kiosks_-_OM_lobby.png?v=1759869684&w=1920&h=1080",
-      "publishedAt": "2025-10-08T10:00:01Z",
-      "content": "Amazon is launching prescription drug kiosks at some One Medical offices in Los Angeles, the company announced Wednesday, in a move that could disrupt brick-and-mortar pharmacy businesses.\r\nThe kiosk… [+3229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Dell bets big on an AI infrastructure payoff—new four-year revenue forecast doubles prior guidance",
-      "description": "Dell has nearly doubled its long-term growth outlook on the back of surging demand for AI servers, raising revenue and earnings projections through fiscal 2030.",
-      "url": "https://www.tomshardware.com/tech-industry/dell-doubles-long-term-growth-expectations-due-to-surging-ai-demands",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jyLCBofMQtCDtRSnyeQ5YK-2560-80.jpg",
-      "publishedAt": "2025-10-08T10:00:00Z",
-      "content": "Dell has nearly doubled its long-term growth outlook\r\n on the back of surging demand for AI servers, raising revenue and earnings projections through its fiscal 2030 as it leans into the data center … [+2976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's The China Connection newsletter: Venture capitalist who spotted Pop Mart early reveals his China playbook",
-      "description": "Black Ant Capital has drawn attention from global investors with early investment in some of China's most talked-about consumer plays: Pop Mart, Laopu Gold and BusyMing.",
-      "url": "https://www.cnbc.com/2025/10/08/china-connection-newsletter-black-ant-ba-capital-david-he-pop-mart-labubu-laopu-consumer-busyming.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208089-1759753859966-gettyimages-1415203824-vcg111396620556.jpeg?v=1759753944&w=1920&h=1080",
-      "publishedAt": "2025-10-08T09:19:41Z",
-      "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+9300 chars]"
     }
   ]
 }
