@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T07:33:07.921Z",
+  "fetchedAt": "2025-10-10T08:13:09.640Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "Battlefield alum DevAlly raises €2M to help companies with Europe's feisty new accessibility law | TechCrunch",
+      "description": "Battlefield alum DevAlly raises €2M to help companies with Europe's feisty new accessibility law | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/09/battlefield-alum-devally-raises-e2m-to-help-companies-with-europes-feisty-new-accessibility-law/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/From-left-to-right-Patrick-Guiney-Cormac-Chisholm-and-Darren-Britton-of-DevAlly-Photo-Conor-McCabe.jpg?resize=1200,800",
+      "publishedAt": "2025-10-09T08:03:02Z",
+      "content": "Many businesses that provide goods and services to the EUs 450 million consumers must comply with new accessibility standards that took effect in June. Like the GDPR before it, this new act had compa… [+4822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China expands rare earth export restrictions ahead of possible Trump-Xi meeting",
+      "description": "China has leveraged its control of the sector in trade talks with the U.S. by threatening a disruptive global shortage of the critically-needed minerals.",
+      "url": "https://www.cnbc.com/2025/10/09/china-expands-rare-earth-export-restrictions-ahead-of-possible-trump-xi-meeting.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173323-17527576292020-04-22t000000z_1005996467_rc2n9g9taaqi_rtrmadp_0_usa-rareearths.jpeg?v=1752757676&w=1920&h=1080",
+      "publishedAt": "2025-10-09T07:57:22Z",
+      "content": "China has tightened export controls on rare earths and related technologies while barring its citizens from participating in unauthorized mining overseas, adding fresh strains to a sector central to … [+4714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "'Buckle up': IMF and Bank of England join growing chorus warning of an AI bubble",
+      "description": "As industry spending surges, top financial institutions say a sharp correction could occur if investor appetite for artificial intelligence turns sour.",
+      "url": "https://www.cnbc.com/2025/10/09/imf-and-bank-of-england-join-growing-chorus-warning-of-an-ai-bubble.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209810-1759994151411-gettyimages-2239418163-IMF_WORLD_BANK.jpeg?v=1759994561&w=1920&h=1080",
+      "publishedAt": "2025-10-09T07:54:32Z",
+      "content": "Kristalina Georgieva, managing director of the International Monetary Fund (IMF), during a curtain raiser speech ahead of the International Monetary Fund (IMF) and World Bank Fall meetings at The Mil… [+3344 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1082,19 +1121,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -1105,6 +1131,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208089-1759753859966-gettyimages-1415203824-vcg111396620556.jpeg?v=1759753944&w=1920&h=1080",
       "publishedAt": "2025-10-08T09:19:41Z",
       "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+9300 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Anthropic to open first India office as rival OpenAI boosts presence in the country",
-      "description": "AI adoption among both consumers and businesses is expected to ramp up quickly in India. Amazon-backed Anthropic wants to be involved.",
-      "url": "https://www.cnbc.com/2025/10/08/anthropic-to-open-first-india-office-in-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204189-1758834976885-gettyimages-2233950387-boivin-notitle250909_npSDA.jpeg?v=1759912431&w=1920&h=1080",
-      "publishedAt": "2025-10-08T09:17:33Z",
-      "content": "Anthropic on Wednesday said it plans to open its first office in India, entering a market where artificial intelligence usage is growing and its rival OpenAI is already making headway.\r\nThe Amazon-ba… [+1876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "This solid midrange HP laptop is now nearly 50% off at Walmart",
-      "description": "HP's OmniBook 5 is perfect for anyone who wants a lightweight laptop with a great screen. Over at Walmart, it's almost 50% off",
-      "url": "https://www.zdnet.com/article/this-solid-midrange-hp-laptop-is-now-nearly-50-off-at-walmart/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ed17e4dbb3c666f3538f05834470a1e74ab82731/2025/10/06/324f7448-2fc0-46ad-9e13-02e781e15dc9/hp-omnibook-5-2k-october-prime-day-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T09:00:29Z",
-      "content": "HP/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAmazon's Prime Day deals event is officially here. But it's not the only retailer joining in on price drops: For a limited time, Walm… [+1750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Qualcomm acquires Arduino to make AI development more accessible — microcontroller maker's hardware becomes the foundation of mobile tech giant's edge AI stack",
-      "description": "Qualcomm has acquired microcontroller maker Arduino to further its ambitions of bringing AI to the edge.",
-      "url": "https://www.tomshardware.com/tech-industry/qualcomm-acquires-arduino-to-make-ai-development-more-accessible-microcontroller-makers-hardware-becomes-the-foundation-of-mobile-tech-giants-edge-ai-stack",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/i7HeB4T9noHFwh9usbxdda-1165-80.jpg",
-      "publishedAt": "2025-10-08T09:00:00Z",
-      "content": "Recent AI market plays have produced all sorts of inter-company investments and flat-out acquisitions. Most of those are somewhat predictable, but occasionally an unexpected deal comes out of left fi… [+3749 chars]"
     }
   ]
 }
