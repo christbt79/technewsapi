@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T17:08:21.339Z",
+  "fetchedAt": "2025-10-10T17:34:37.027Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "GitHub Copilot Chat turns blabbermouth with crafty prompt injection attack",
+      "description": "AI assistant could be duped into leaking code and tokens via sneaky markdown\nGitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.…",
+      "url": "https://www.theregister.com/2025/10/09/github_copilot_chat_vulnerability/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/05/githubcopilot.jpg",
+      "publishedAt": "2025-10-09T17:15:07Z",
+      "content": "GitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.\r\nResearcher Omer Mayraz of Legit Security disclosed a critical vulnerability… [+2746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "This solid midrange HP laptop is still almost 50% off at Walmart",
+      "description": "HP's OmniBook 5 is perfect for anyone who wants a lightweight laptop with a great screen. Over at Walmart, it's almost 50% off",
+      "url": "https://www.zdnet.com/article/this-solid-midrange-hp-laptop-is-still-almost-50-off-at-walmart/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ed17e4dbb3c666f3538f05834470a1e74ab82731/2025/10/06/324f7448-2fc0-46ad-9e13-02e781e15dc9/hp-omnibook-5-2k-october-prime-day-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T17:11:19Z",
+      "content": "HP/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAmazon's Prime Day is over, but you can still find great deals on laptops at other retailers. For a limited time, Walmart is offering… [+1731 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -666,19 +692,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -689,6 +702,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Hero-1024x683_Image-1-3.jpg?w=1024",
       "publishedAt": "2025-10-08T18:37:37Z",
       "content": "Its the great, universal frustration of computing: Youre trying to finish a project, but your laptop just isnt working, and you cant do much about it. Maybe the battery is draining too rapidly, maybe… [+7603 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "This Startup Wants to Spark a US DeepSeek Moment",
-      "description": "With the US falling behind on open source models, one startup has a bold idea for democratizing AI: let anyone run reinforcement learning.",
-      "url": "https://www.wired.com/story/prime-intellect-startup-us-deepseek-moment/",
-      "urlToImage": "https://media.wired.com/photos/68e564624bf4fef4e1ddd7ad/191:100/w_1280,c_limit/AI-Lab-America-Needs-DeepSeek-Moment-Business.jpg",
-      "publishedAt": "2025-10-08T18:30:00Z",
-      "content": "Ever since DeepSeek burst onto the scene in January, momentum has grown around open source Chinese artificial intelligence models. Some researchers are pushing for an even more open approach to build… [+1926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "I compared the heart rate monitoring on Apple's latest earbuds, and there's a surprise winner",
-      "description": "Beats' Powerbeats Pro 2 and Apple's AirPods Pro 2 offer in-ear heart rate monitoring. But which earbud suits your lifestyle better?",
-      "url": "https://www.zdnet.com/article/i-compared-the-heart-rate-monitoring-on-apples-latest-earbuds-and-theres-a-surprise-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T18:27:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6454 chars]"
     }
   ]
 }
