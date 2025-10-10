@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-09T23:31:13.860Z",
+  "fetchedAt": "2025-10-10T00:41:54.020Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to open higher, tracking Wall Street gains as tech rally continues",
+      "description": "The S&P 500 and Nasdaq Composite scored new intraday and closing highs Wednesday stateside.",
+      "url": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209729-1759966309038-gettyimages-2198787070-JAPAN_SKYLINE.jpeg?v=1759966318&w=1920&h=1080",
+      "publishedAt": "2025-10-08T23:52:05Z",
+      "content": "Asia-Pacific markets were set to open higher Thursday, tracking Wall Street gains as investors shrugged off concerns of an artificial intelligence bubble.\r\nNvidia shares advanced Wednesday stateside … [+1661 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -991,19 +1004,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -1014,6 +1014,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
+      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
+      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208837-1759849290255-gettyimages-76489962-Par1492221.jpeg?v=1759849307&w=1920&h=1080",
       "publishedAt": "2025-10-08T05:28:26Z",
       "content": "Commuters on London Bridge.\r\nThis report is from this week's CNBC's UK Exchange newsletter. Like what you see? You can subscribe here.\r\nThe dispatch\r\nDespite the de-equitisation of the last decade, t… [+8273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "You can now edit Microsoft Copilot's memories about you - here's how",
-      "description": "A fine balance between forgetfulness and memory makes the perfect, privacy-protecting chatbot.",
-      "url": "https://www.zdnet.com/article/you-can-now-edit-microsoft-copilots-memories-about-you-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8da4da6a42cf93bc9a9b023459a19724c5981bcd/2025/10/07/bd3321aa-c28e-4be2-9991-0ec7925baa95/gettyimages-2184107008.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T02:00:30Z",
-      "content": "anilakkus/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot can now remember or forget details based on your com… [+5515 chars]"
     }
   ]
 }
