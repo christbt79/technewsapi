@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T18:43:42.592Z",
+  "fetchedAt": "2025-10-10T19:07:17.208Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "3 tips for navigating the AI swarm - 4M models and counting",
+      "description": "There are about four million open-source AI models on Hugging Face, alone. Here's what you need to know.",
+      "url": "https://www.zdnet.com/article/3-tips-for-navigating-the-ai-swarm-4m-models-and-counting/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7040ec99dc81811e3c438abb4fa03f0924b58859/2025/10/09/7935ac63-70af-4b3b-8007-d0d773e242fc/gettyimages-1148109695-cropped-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T19:04:25Z",
+      "content": "KTSDESIGN/SCIENCE PHOTO LIBRARY/Science Photo Library via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Open source dominates software technologies; AI … [+4381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "3 tips for navigating the open-source AI swarm - 4M models and counting",
+      "description": "There are about four million open-source AI models on Hugging Face, alone. Here's what you need to know.",
+      "url": "https://www.zdnet.com/article/3-tips-for-navigating-the-open-source-ai-swarm-4m-models-and-counting/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7040ec99dc81811e3c438abb4fa03f0924b58859/2025/10/09/7935ac63-70af-4b3b-8007-d0d773e242fc/gettyimages-1148109695-cropped-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T19:04:00Z",
+      "content": "KTSDESIGN/SCIENCE PHOTO LIBRARY/Science Photo Library via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Open source dominates software technologies; AI … [+4381 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -783,19 +809,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -806,6 +819,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/ilgmyzin-agFmImWyPso-unsplash.jpg?resize=1200,675",
       "publishedAt": "2025-10-08T20:03:26Z",
       "content": "When Nick Turley joined OpenAI in 2022 as the head of ChatGPT, he was tasked with commercializing the company’s research. He has made great strides toward that goal, growing the product to 800 millio… [+12671 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kat Merck",
-      "title": "This Is the Best Smart Hummingbird Feeder I've Tested, and It's $50 off Right Now",
-      "description": "Bird Buddy's Pro model is fun to use, easy to clean, and makes a great gift for family—or yourself. Don't miss out on these last hours of Amazon Prime Day.",
-      "url": "https://www.wired.com/story/bird-buddy-pro-hummingbird-prime-day-sale-2025/",
-      "urlToImage": "https://media.wired.com/photos/68e6a3bc392eda998ff4e5c5/191:100/w_1280,c_limit/Bird%20Buddy%20Standalone.png",
-      "publishedAt": "2025-10-08T20:01:00Z",
-      "content": "I test smartbird feeders year-round for WIRED. While I love the variety of birds attracted by seed feeders, theres something to be said for the simplicity of a hummingbird feeder. The visitors are so… [+2213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "AI is making cybercriminal workflows more efficient too, OpenAI finds",
-      "description": "A new OpenAI report explores current trends in cybercrime and how threat actors are weaponizing AI tools, including ChatGPT.",
-      "url": "https://www.zdnet.com/article/ai-is-making-cybercriminal-workflows-more-efficient-too-openai-finds/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/205270170617236574b980f15d66dbe82e8b802a/2025/09/05/90bd08cb-99d0-4f46-ae0b-0e80c16d15f5/gettyimages-2173923412.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T20:00:03Z",
-      "content": "koto_feja/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's new report shows how cybercriminals are using AI.</li><li>This includes the a… [+4973 chars]"
     }
   ]
 }
