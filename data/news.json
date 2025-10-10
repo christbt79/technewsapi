@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-10T05:09:17.441Z",
+  "fetchedAt": "2025-10-10T05:37:58.894Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "European markets set to open in negative territory as traders assess France news",
+      "description": "European stocks are set to open in negative territory on Thursday with all eyes on France after President Emmanuel Macron's office said he will pick a new PM.",
+      "url": "https://www.cnbc.com/2025/10/09/european-markets-on-oct-9-stoxx-600-cac-dax-ftse-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202362-1758568731861-gettyimages-2236304161-AFP_76EL8D8.jpeg?v=1758568784&w=1920&h=1080",
+      "publishedAt": "2025-10-09T05:29:09Z",
+      "content": "LONDON European stocks are expected to open in negative territory on Thursday, with all eyes on France again after President Emmanuel Macron's office said he will pick a new prime minister in the nex… [+2087 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/05/23/puppet-master.jpg",
       "publishedAt": "2025-10-08T07:02:12Z",
       "content": "AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.\r\nUsers of these apps of… [+4791 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Gold: Earthlings' favorite element",
-      "description": "Martians may be scratching their head, but earthlings are not, and are scrambling over one another for the glittery stuff.",
-      "url": "https://www.cnbc.com/2025/10/08/cnbc-daily-open-gold-earthlings-favorite-element.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209045-1759867612983-gettyimages-2239818203-_73a5734_82dtrtou.jpeg?v=1759867702&w=1920&h=1080",
-      "publishedAt": "2025-10-08T06:53:38Z",
-      "content": "J.P Morgan famously said in his 1912 congressional testimony that \"Gold is money, everything is credit.\" \r\nIt seems unsurprising then that many investors seem to be fleeing from credit and are parkin… [+2861 chars]"
     }
   ]
 }
