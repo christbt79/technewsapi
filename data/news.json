@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-10T11:31:34.693Z",
+  "fetchedAt": "2025-10-10T12:17:55.275Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Google ramps up its 'AI in the workplace' ambitions with Gemini Enterprise | TechCrunch",
+      "description": "The new product launched Thursday already has customers, including Gordon Foods, Macquarie Bank, and Virgin Voyages.",
+      "url": "https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/gemini-enterprise.jpg?resize=1200,667",
+      "publishedAt": "2025-10-09T12:11:27Z",
+      "content": "Google on Thursday launched a comprehensive AI platform for businesses called Gemini Enterprise, the latest effort by the Alphabet-owned company to compete with Anthropic and OpenAI in the fast-growi… [+3401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google launches Gemini subscriptions to help corporate workers build AI agents",
+      "description": "Google is augmenting its Agentspace product for easily building AI agents at work with new tools for data science and customer engagement.",
+      "url": "https://www.cnbc.com/2025/10/09/google-launches-gemini-enterprise-to-boost-ai-agent-use-at-work.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209783-1759987027007-gettyimages-2209279501-cw1_7703_vcm1yjgr.jpeg?v=1759987093&w=1920&h=1080",
+      "publishedAt": "2025-10-09T12:00:02Z",
+      "content": "Google is taking another shot at selling businesses on artificial intelligence agents by introducing subscriptions featuring agents that perform specific work tasks.\r\nGemini Enterprise targets large … [+2748 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "DC Comics won’t support generative AI: ‘not now, not ever’",
+      "description": "DC Comics president and publisher Jim Lee said that the company “will not support AI-generated storytelling or artwork,” assuring fans that its future will remain rooted in human creativity. “Not now, not ever, as long as [SVP, general manager] Anne DePies an…",
+      "url": "https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK326267.jpg?quality=90&strip=all&crop=0%2C10.354857475276%2C100%2C79.290285049447&w=1200",
+      "publishedAt": "2025-10-09T11:54:29Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPresident Jim Lee says that fans value authentic human creativity in storytelling and artwork.\r\nPresident Jim Lee says that fans value authentic human creativity… [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "‘Focus on value creation; the stock market will settle itself,’ says Snowflake CEO amid bubble fears",
+      "description": "Snowflake CEO Sridhar Ramaswamy said his company is focused on working on adding value as talk of an AI bubble mounts.",
+      "url": "https://www.cnbc.com/2025/10/09/focus-on-value-the-stock-market-will-settle-itself-says-snowflake-ceo-amid-bubble-fears-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206045-1759265547118-Snowflake-CB-Photo-20250930-KK-PRESS-029.jpg?v=1759265883&w=1920&h=1080",
+      "publishedAt": "2025-10-09T11:54:05Z",
+      "content": "The CEO of AI data firm Snowflake isn't letting the stock market distract him from ambitions to become \"one of the great technology companies in this world,\" he told CNBC.\r\nThe company a cloud data s… [+3281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Bank of England, IMF, warn AI bubble risk has shades of 2000 dotcom crash — Goldman Sachs cautions we're not there 'yet'",
+      "description": "Major banking institutions are starting to warn of an impending market correction for AI companies and their stock prices. Although not all agree when it'll happen, most suggest it is coming as the major industry players continue to invest in each other, driv…",
+      "url": "https://www.tomshardware.com/tech-industry/bank-of-england-imf-warn-ai-bubble-risk-has-shades-of-2000-dotcom-crash-goldman-sachs-cautions-were-not-there-yet",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NLpDMVuTFGS9Tg7ZddiU67-1600-80.jpg",
+      "publishedAt": "2025-10-09T11:51:11Z",
+      "content": "Major banking institutions can't agree on whether the AI industry is already a bubble or if we're not quite there yet. Both the Bank of England (BOE) and International Monetary Fund (IMF) issued warn… [+3363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region",
+      "description": "The U.S. has approved tens of billions worth of Nvidia AI hardware exports to the UAE under a new bilateral agreement linking up to 500,000 GPU shipments per year with $1.4 trillion in Emirati investment, in the U.S.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JnFgj2Y4HeKmY254WXX9N7-1920-80.jpg",
+      "publishedAt": "2025-10-09T11:37:48Z",
+      "content": "The U.S. government has finally granted Nvidia an export license to ship tens of billions of dollars' worth of leading-edge AI GPUs to the United Arab Emirates, initiating the first stage of a large … [+3165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Apple iPhone 17 Pro Max vs. Samsung Galaxy S25 Ultra: I tested both flagships, and here's who wins",
+      "description": "Which flagship phone should you buy in 2025? Here's how Apple and Samsung's $1,000-plus models stack up.",
+      "url": "https://www.zdnet.com/article/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-tested-both-flagships-and-heres-who-wins/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T11:34:00Z",
+      "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple last month announced its new iPhone 17 lineup at the Awe-Dropping Event in Cupertino, California. After y… [+5638 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0416.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-08T13:39:03Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter lagging behind for so long, its been wild to see Google come this far in the smartwatch game.\r\nIf you buy something from a Verge link, Vox Media may earn a… [+11413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Texas senators cry foul over Smithsonian's pricy Space Shuttle shuffle",
-      "description": "Can be shifted for a tenth of the price AND the wings don't have to come off – allegedly Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute's cost estimates are \"more than …",
-      "url": "https://www.theregister.com/2025/10/08/senators_smithsonian_discovery/",
-      "urlToImage": "https://regmedia.co.uk/2023/10/18/spaceshuttlediscovery.jpg",
-      "publishedAt": "2025-10-08T13:27:07Z",
-      "content": "Texas senators John Cornyn and Ted Cruz have hit back at a Smithsonian memo on relocating Space Shuttle Discovery, claiming the institute's cost estimates are \"more than ten times higher\" than quotes… [+3658 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Bank of England warns of 'sharp market correction' if AI bubble bursts",
-      "description": "The Bank of England has warned that risk of a sharp market correction has increased, amid stretched AI-related valuations.",
-      "url": "https://www.cnbc.com/2025/10/08/bank-of-england-warns-of-sharp-market-correction-if-ai-bubble-bursts.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108118813-1742464050338-gettyimages-2201301185-20250219_bank_of_england_002.jpeg?v=1759929749&w=1920&h=1080",
-      "publishedAt": "2025-10-08T13:22:40Z",
-      "content": "The Bank of England on Wednesday warned that the risk of a \"sharp market correction\" has increased, noting that stock market valuations appear stretched, particularly for artificial intelligence-focu… [+3118 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "4 ways KDE Plasma 6.5 beta is shaping up to be a beautiful, customizable Linux desktop",
-      "description": "One of Linux's most popular desktops is getting a huge upgrade.",
-      "url": "https://www.zdnet.com/article/4-ways-kde-plasma-6-5-beta-is-shaping-up-to-be-a-beautiful-customizable-linux-desktop/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/471cdf0025967977d26d7e5e2a8ea0849d1ec53e/2025/10/08/8efece08-cba0-4320-bc3e-dc08de881452/kde-6-5-beta-highlights-some-exciting-features-coming-to-the-desktop.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T13:05:16Z",
-      "content": "KDE / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>KDE Plasma 6.5 beta is now available for testing.</li><li>New release brings be… [+4820 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "SoftBank makes a $5.4 billion bet on AI robots",
-      "description": "Remember Pepper, the overhyped “emotional robot” that flopped hard a few years ago? Well, one of its makers, SoftBank, is getting back into the bot business with a $5.4 billion acquisition of ABB’s robotics division. The deal, which still needs the green ligh…",
-      "url": "https://www.theverge.com/news/796068/softbank-bets-on-ai-robots",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-528174668.jpg?quality=90&strip=all&crop=0%2C12.609851960529%2C100%2C74.780296078941&w=1200",
-      "publishedAt": "2025-10-08T13:00:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSoftBanks next frontier is Physical AI, said founder Masayoshi Son.\r\nSoftBanks next frontier is Physical AI, said founder Masayoshi Son.\r\nby\r\nRobert HartClose\r\nR… [+1959 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Square launches AI voice ordering and an integrated Bitcoin solution for merchants",
-      "description": "Block is now allowing Square merchants to accept Bitcoin payments without any processing fee for one year",
-      "url": "https://techcrunch.com/2025/10/08/square-launches-ai-voice-ordering-and-an-integrated-bitcoin-solution-for-merchants/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Restaurant.jpg?w=1200",
-      "publishedAt": "2025-10-08T13:00:00Z",
-      "content": "Square, Block’s merchant payments platform, has launched new features for merchants, including AI-powered voice ordering for restaurants, enhancements to its AI assistants — such as providing local i… [+3781 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Germany slams brakes on EU's Chat Control device-scanning snoopfest",
-      "description": "Berlin's opposition likely kills off Brussels' bid to scan everyone's messages\nGermany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.…<!--#include virtual='/da…",
-      "url": "https://www.theregister.com/2025/10/08/germany_chat_control_opposition/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
     }
   ]
 }
