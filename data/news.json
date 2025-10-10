@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-10T00:41:54.020Z",
+  "fetchedAt": "2025-10-10T02:16:31.588Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: The Fed spoke, but AI roared",
+      "description": "AI stocks such as Nvidia are now masters of the market narrative, driving record highs across the S&P 500 and Nasdaq.",
+      "url": "https://www.cnbc.com/2025/10/09/cnbc-daily-open-the-fed-spoke-but-ai-roared.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200211-1758135300569-gettyimages-2235974290-_s010691_gnjmxvpd.jpeg?v=1758738774&w=1920&h=1080",
+      "publishedAt": "2025-10-09T01:11:15Z",
+      "content": "Federal Reserve Chair Jerome Powell takes questions from reporters during a news conference following a two-day meeting of the Federal Open Market Committee at the Federal Reserve on Sept. 17, 2025 i… [+3348 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1004,19 +1017,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
-      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
-      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-      "publishedAt": "2025-10-08T12:53:10Z",
-      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -1027,6 +1027,19 @@
       "urlToImage": "https://regmedia.co.uk/2024/10/24/shutterstock_eujustice.jpg",
       "publishedAt": "2025-10-08T12:53:10Z",
       "content": "Germany has committed to oppose the EU's controversial \"Chat Control\" regulations following huge pressure from multiple activists and major organizations.\r\nThe draft regs would allow authorities to c… [+8027 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google's Search Live comes to India, AI Mode gets more languages | TechCrunch",
+      "description": "With this launch, India becomes the second market after the U.S. to get Google's Search Live.",
+      "url": "https://techcrunch.com/2025/10/08/googles-search-live-comes-to-india-ai-mode-gets-more-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-08T12:53:10Z",
+      "content": "Google is bringing its AI-powered conversational search feature, Search Live, to India launching in English and Hindi and expanding AI Mode to seven new Indian languages, as the company strengthens i… [+2751 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108164958-1751005488968-gettyimages-2221537382-JAPAN_SOFTBANK.jpeg?v=1759904517&w=1920&h=1080",
       "publishedAt": "2025-10-08T06:27:29Z",
       "content": "SoftBank Group on Monday said it had agreed to buy the robotics division of Swiss engineering firm ABB for $5.4 billion, as the Japanese giant looks to bolster its artificial intelligence plays.\r\nThe… [+1312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's UK Exchange newsletter: The U.K.’s labor market conundrum – and where to look for clues",
-      "description": "The U.K.'s labor market is a complex one, and economists are finding it harder to decipher what is going on.",
-      "url": "https://www.cnbc.com/2025/10/08/cnbcs-uk-exchange-newsletter-the-uks-labor-market-conundrum.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208837-1759849290255-gettyimages-76489962-Par1492221.jpeg?v=1759849307&w=1920&h=1080",
-      "publishedAt": "2025-10-08T05:28:26Z",
-      "content": "Commuters on London Bridge.\r\nThis report is from this week's CNBC's UK Exchange newsletter. Like what you see? You can subscribe here.\r\nThe dispatch\r\nDespite the de-equitisation of the last decade, t… [+8273 chars]"
     }
   ]
 }
