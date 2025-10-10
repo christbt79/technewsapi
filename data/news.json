@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-10T06:14:05.889Z",
+  "fetchedAt": "2025-10-10T06:46:49.957Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: It's AI's world and the Fed's just living in it",
+      "description": "AI stocks such as Nvidia are now masters of the market narrative, driving record highs across the S&P 500 and Nasdaq.",
+      "url": "https://www.cnbc.com/2025/10/09/cnbc-daily-open-its-ais-world-and-the-feds-just-living-in-it.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200211-1758135300569-gettyimages-2235974290-_s010691_gnjmxvpd.jpeg?v=1758738774&w=1920&h=1080",
+      "publishedAt": "2025-10-09T06:30:01Z",
+      "content": "Traders work, as a screen broadcasts a news conference by U.S. Federal Reserve Chair Jerome Powell following the Fed rate announcement, on the floor of the New York Stock Exchange (NYSE) in New York … [+3285 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e08e6d026132543e222e51/191:100/w_1280,c_limit/The%20Best%20Prime%20Day%20Deals%20Under%20$100.png",
       "publishedAt": "2025-10-08T08:31:38Z",
       "content": "Eufy Security Indoor Cam S350 for $80 ($60 off): This indoor camera is a powerhouse, featuring pan/tilt, a dual-lens 4K system with 8x zoom, and onboard AI.\r\nBlink Mini 2 for $20 ($20 off): The tiny … [+1689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "AI companion bots use emotional manipulation to boost usage",
-      "description": "Researchers argue that this dark pattern poses a legal risk\nAI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.…",
-      "url": "https://www.theregister.com/2025/10/08/ai_bots_use_emotional_manipulation/",
-      "urlToImage": "https://regmedia.co.uk/2017/05/23/puppet-master.jpg",
-      "publishedAt": "2025-10-08T07:02:12Z",
-      "content": "AI companion apps such as Character.ai and Replika commonly try to boost user engagement with emotional manipulation, a practice that academics characterize as a dark pattern.\r\nUsers of these apps of… [+4791 chars]"
     }
   ]
 }
