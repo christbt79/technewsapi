@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-10T15:09:10.078Z",
+  "fetchedAt": "2025-10-10T15:34:51.815Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Gartner warns agentic AI startups: Prepare to be consolidated",
+      "description": "Analyst predicts over-supply will trigger a market correction in favor of deep-pocketed incumbents\nGartner has signaled that the supply of \"agentic AI\" in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to co…",
+      "url": "https://www.theregister.com/2025/10/09/gartner_agentic_ai_correction/",
+      "urlToImage": "https://regmedia.co.uk/2017/07/13/robot_workers_photo_via_shutterstock.jpg",
+      "publishedAt": "2025-10-09T15:33:11Z",
+      "content": "Gartner has signaled that the supply of \"agentic AI\" in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to consolidation and market correction.\r\nThe… [+2326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I tested this Oura Ring 4 rival that's functions similarly but at half the price (and no subscriptions)",
+      "description": "The budget-friendly RingConn Gen 2 Air delivers impressive health-tracking features that compete with top-tier rivals.",
+      "url": "https://www.zdnet.com/article/i-tested-this-oura-ring-4-rival-thats-functions-similarly-but-at-half-the-price-and-no-subscriptions/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/45a6ee92adacef3d19ba4e3549d0a1b84ca50f05/2025/02/11/e907420c-f0f5-4428-a76f-7d78cdd0a76e/img-4655.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T15:21:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sora hit 1M downloads faster than ChatGPT",
+      "description": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
+      "url": "https://techcrunch.com/2025/10/09/sora-hit-1m-downloads-faster-than-chatgpt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "publishedAt": "2025-10-09T15:17:31Z",
+      "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2659 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Knapsack picks up $10M to help bridge the gap between design and engineering teams | TechCrunch",
+      "description": "Knapsack creates a unified workspace that integrates design and coding tools to ensure design and engineering teams are on the same page.",
+      "url": "https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-856876712.jpg?resize=1200,758",
+      "publishedAt": "2025-10-09T15:16:16Z",
+      "content": "Getting design and engineering teams on the same page about what digital product to create and how to build it continues to be a challenge. \r\nA lot of companies find themselves dealing with scattered… [+3934 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "This distributed data storage startup wants to take on Big Cloud | TechCrunch",
+      "description": "Tigris has raised $25 million to expand its growing network of localized data storage centers — the storage layer for decentralized computing infrastructure.",
+      "url": "https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TigrisFounders0012.jpg?resize=1200,800",
+      "publishedAt": "2025-10-09T15:15:59Z",
+      "content": "The explosion of AI companies has pushed demand for computing power to new extremes, and companies like CoreWeave, Together AI and Lambda Labs have capitalized on that demand, attracting immense amou… [+4308 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Owen Hughes",
+      "title": "Humans flunk the Turing test for voices as bots get chattier",
+      "description": "Coin toss odds for spotting a deepfake, study finds. And that's before the machines learn to sing\nThink you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. …",
+      "url": "https://www.theregister.com/2025/10/09/voice_clone_detection_study/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2534604055.jpg",
+      "publishedAt": "2025-10-09T15:15:13Z",
+      "content": "Think you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. \r\nResearchers at Queen Mary University of London and University College Lo… [+2908 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -419,19 +497,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -442,6 +507,19 @@
       "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/2ef42d09a280a296e8a88858adc5818a4d81a082/2025/08/15/d97bc0f0-ebe9-464e-b5d0-5a70fc60d06d/dsc06849.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-08T17:00:46Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Google Pixel Watch 4 Review: The Best Smartwatch for Android",
-      "description": "A gorgeous domed display and smarter assistant make this the best Pixel Watch to date. Just make sure to swap the strap.",
-      "url": "https://www.wired.com/review/google-pixel-watch-4/",
-      "urlToImage": "https://media.wired.com/photos/68e5988a9d63ba6ae813bdbd/191:100/w_1280,c_limit/DSC_6385.jpg",
-      "publishedAt": "2025-10-08T17:00:00Z",
-      "content": "The caveat is that you cannot see your workout information on the watch if you have this passive method turned on. You can start the workout manually, but if you forget, the watch will not ping you 1… [+1843 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Nvidia is turning GPUs into capital, but questions exist around sustainability — AI companies are financing hardware like debt, as bank warns of 'sharp market correction'",
-      "description": "As demand for GPUs outpaces supply, AI companies are financing hardware through debt, leasing, and vendor-backed equity. Elon Musk’s xAI and OpenAI are at the center of billion-dollar deals that blur the line between chip vendor and capital provider.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-is-turning-gpus-into-capital-questions-exist-around-circularity",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YAQU3zRSbuCHbUYm5L4oD4-1920-80.jpg",
-      "publishedAt": "2025-10-08T16:57:44Z",
-      "content": "Compute used to be something you rented. You spun up a few cloud instances and paid your AWS bill. If you needed more, you just scaled up your usage. That model still exists, but with the generative … [+6472 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Allison Johnson",
-      "title": "Google Pixel 10 Pro Fold review: finally, a more durable foldable",
-      "description": "It's one thing to know that the folding phone you're using is fully dust resistant. It's an entirely different thing to watch an $1,800 phone with delicate mechanical parts sink half an inch into the sand with the screen wide open. There's more to that story,…",
-      "url": "https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258002_Google_Pixel_10_Pro_Fold_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "publishedAt": "2025-10-08T16:55:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles latest folding phone isnt afraid of a little sand. Ask me how I know.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our e… [+10075 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Google Pixel Buds 2A review: the right kind of compromise",
-      "description": "The current state of headphones is a bummer. In one sense, the market has never been so good: from Bose to Sony to Apple to Google to Samsung to Sennheiser to JBL to unpronounceable Chinese knockoffs, you can't spin around in a Best Buy without finding a pair…",
-      "url": "https://www.theverge.com/tech/796411/google-pixel-buds-2a-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257998_Pixel_Buds_2A_AKrales_0023.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T16:48:13Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles latest headphones sound good, work well, and arent missing much. If only everyone could use them.\r\nGoogles latest headphones sound good, work well, and a… [+8103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "5 things Nvidia's Jensen Huang said about the state of the AI race with China",
-      "description": "While the U.S. may be leading in advanced chip designs, Huang warned not to discount China's growing chip development.",
-      "url": "https://www.cnbc.com/2025/10/08/nvidia-huang-ai-race-china-us-trump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186410-1755244900069-gettyimages-2224768312-CHINA_JENSEN_HUANG.jpeg?v=1759941334&w=1920&h=1080",
-      "publishedAt": "2025-10-08T16:41:03Z",
-      "content": "Nvidia CEO Jensen Huang said Wednesday that the U.S. is \"not far ahead\" of China in the artificial intelligence race, and that the country needs a \"nuanced strategy\" to stay on higher ground.\r\nHuang … [+3997 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Stretched AI valuations, Fed credibility concerns raise risk of market correction: BoE",
-      "description": "In its quarterly Financial Stability Report, the UK central bank noted that asset valuations have continued to rise despite global economic uncertainties.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-08/soaring-ai-valuations-spur-market-correction-risk-boe-says",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/xqx9wc/article70140872.ece/alternates/LANDSCAPE_1200/2025-10-04T181726Z_1892769214_RC2C0GALIQCS_RTRMADP_3_BRITAIN-BONDS-INVESTORS.JPG",
-      "publishedAt": "2025-10-08T16:20:36Z",
-      "content": "Stretched valuations for artificial intelligence companies and challenges to the Federal Reserves independence have fueled the risks of a sharp market correction, the Bank of England said on Wednesda… [+4136 chars]"
     }
   ]
 }
