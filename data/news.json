@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-10T12:17:55.275Z",
+  "fetchedAt": "2025-10-10T13:00:31.493Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode",
+      "title": "Inside Intel's Hail Mary to Reclaim Chip Dominance",
+      "description": "The struggling American chipmaker is betting that a new plant and fresh product line will help turn around its fortunes.",
+      "url": "https://www.wired.com/story/intel-arizona-fabrication-chips-trump-manufacturing/",
+      "urlToImage": "https://media.wired.com/photos/68e5432d8f7f9fe2c489c3b3/191:100/w_1280,c_limit/Intel-Hail-Mary-Business-JC0_8721.jpg",
+      "publishedAt": "2025-10-09T13:00:00Z",
+      "content": "Everyone who enters the fabs has to wear a bunny suit, and get dressedor be dressedin a clean room. Makeup, hair products, perfumes, colognes, and any aerosol products are prohibited. Workers are sep… [+2617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Owen Hughes",
+      "title": "SoftBank snaps up ABB's robotics biz for $5.4B to fuel 'physical AI' dreams",
+      "description": "Japanese tech goliath gets grabby with industrial automation as ABB shelves spin-off plans\nSoftBank Group has added more arms to its portfolio, this time of the robotic kind.…",
+      "url": "https://www.theregister.com/2025/10/09/softbank_snaps_up_abbs_robotics/",
+      "urlToImage": "https://regmedia.co.uk/2022/06/29/iiot.jpg",
+      "publishedAt": "2025-10-09T12:36:30Z",
+      "content": "SoftBank Group has added more arms to its portfolio, this time of the robotic kind.\r\nThe Japanese tech goliath is pushing ahead in its pursuit of \"artificial super intelligence\" after agreeing to buy… [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "I'm an AI tools expert, and these are the 4 I pay for now (plus 2 I'm eyeing)",
+      "description": "Generative AI can supercharge productivity, but most tools aren't worth it. Here are the one I rely on for coding, design, and creative work.",
+      "url": "https://www.zdnet.com/article/im-an-ai-tools-expert-and-these-are-the-4-i-pay-for-now-plus-2-im-eyeing/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b23b9f43eab116c51821ca4869a7fcf83230bc5e/2025/10/09/cbd816e8-ae5c-4d88-a6bb-87d4115ed721/im-an-ai-tools-expert-and-these-are-the-only-three-i-pay-for-plus-two-im-considering.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T12:36:00Z",
+      "content": "Jorg Greuel / Photodisc / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>AI tools help me work smarter across creative and technical projects.</li><… [+13567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "China expands rare-earth export controls, creating risks for PC component supply — Beijing tightens grip on materials for HDDs and more to protect national security",
+      "description": "China has expanded its export controls on rare-earth elements, adding new items to a growing list of restricted materials and processing technologies.",
+      "url": "https://www.tomshardware.com/tech-industry/china-expands-rare-earth-export-controls",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyvmQua5dV2BYfE2NozYgL-1920-80.jpg",
+      "publishedAt": "2025-10-09T12:33:28Z",
+      "content": "China has expanded its export controls on rare-earth elements, adding new items to a growing list of restricted materials and processing technologies. The updated rules, which take effect in December… [+3090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Washington's ambition for a 50/50 semiconductor deal with Taiwan is missing a key component — lack of a mature homegrown supply chain could be the missing link",
+      "description": "U.S. Commerce Secretary Howard Lutnick's plan to split leading-edge chip production equally between America and Taiwan seeks greater self-sufficiency and security but lacks clarity, overlooks U.S. industry realities, and remains largely symbolic given global …",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/washingtons-ambition-for-a-50-50-semiconductor-deal-with-taiwan-is-missing-a-key-component-lack-of-a-mature-homegrown-supply-chain-could-be-the-missing-link",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YAQU3zRSbuCHbUYm5L4oD4-1920-80.jpg",
+      "publishedAt": "2025-10-09T12:29:37Z",
+      "content": "Last week, U.S. Commerce Secretary Howard Lutnick attempted to urge Taiwan to agree to a 50% - 50% arrangement, under which chips used in devices for the American market would be produced equally in … [+14022 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Alex Harring",
+      "title": "5 things to know before the stock market opens Thursday",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/09/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209277-1759927200338-Jensen5.jpg?v=1759927281&w=1920&h=1080",
+      "publishedAt": "2025-10-09T12:22:35Z",
+      "content": "This is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are five key things investors need to know to start the trading day:\r\n1. Milestone mania\r\n2. P… [+3336 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202201-1758556807341-gettyimages-2216570751-AFP_487V4Y6.jpeg?v=1758556838&w=1920&h=1080",
       "publishedAt": "2025-10-08T14:17:19Z",
       "content": "When it comes to tax planning by business owners on Main Street, many aspects of President Trump's One Big Beautiful Bill Act were at best incremental, unlike the fundamental shifts introduced under … [+7877 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "SoftBank bulks up its robotics portfolio with ABB Group’s robotics unit | TechCrunch",
-      "description": "SoftBank says this acquisition will help it dive deeper into robotics as it considers physical AI to be the next frontier.",
-      "url": "https://techcrunch.com/2025/10/08/softbank-bulks-up-its-robotics-portfolio-with-abb-groups-robotics-unit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1980672274.jpg?resize=1200,764",
-      "publishedAt": "2025-10-08T14:13:39Z",
-      "content": "Japanese investing conglomerate SoftBank Group is buying a robotics company as the financial behemoth says physical AI is its next frontier.  \r\nSoftBank announced on Wednesday that it has acquired Zu… [+1998 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Google launches extensions system for its command-line coding tool | TechCrunch",
-      "description": "Google launched a new feature for its command-line AI system, Gemini CLI, allowing outside companies to integrate directly into the product.",
-      "url": "https://techcrunch.com/2025/10/08/google-launches-extensions-system-for-its-command-line-coding-tool/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-08-at-9.22.17-AM.jpg?resize=1200,578",
-      "publishedAt": "2025-10-08T14:04:05Z",
-      "content": "On Wednesday, Google officially launched a new feature for its command-line AI system, Gemini CLI, allowing outside companies to integrate directly into the AI product. Called Gemini CLI Extensions, … [+1495 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "From courtside to code: Tristan Thompson on AI, sports, and startups at TechCrunch Disrupt 2025",
-      "description": "NBA champion Tristan Thompson joins TechCrunch Disrupt 2025 to discuss how AI and athletes are transforming sports, startups, and innovation. Register here to save up to $444 on your pass, or up to 30% on group tickets.",
-      "url": "https://techcrunch.com/2025/10/08/tristan-thompson-on-ai-sports-and-startups-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Tristan-Thompson-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-08T14:00:00Z",
-      "content": "Former NBA champion, fintech entrepreneur, and AI founder Tristan Thompson is bringing a different kind of game to TechCrunch Disrupt 2025 in October at San Francisco’s Moscone West one that blends a… [+2011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "ChatGPT's Codex just got a huge upgrade that makes it more powerful than ever - what's new",
-      "description": "OpenAI has fully launched Codex, and it comes with new tools for developers, including Slack integration and more.",
-      "url": "https://www.zdnet.com/article/chatgpts-codex-just-got-a-huge-upgrade-that-makes-it-more-powerful-than-ever-whats-new/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/75031e3495f8338feefbff76a32c39a199b83b17/2025/10/08/2458a703-d183-4287-946f-3e45e586f7d9/openai-makes-codex-official-with-automation-slack-and-admin-controls.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T13:52:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI makes Codex available to all developers and teams.</li><li>Slack integration… [+7149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "IBM invites CockroachDB to infest its mainframes with PostgreSQL",
-      "description": "Vendors promote bridge to modern architecture for legacy systems, but Db2 not going anywhere just yet\nIBM has signed an OEM agreement with Cockroach Labs – maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB – in a bid to help modernize mission-c…",
-      "url": "https://www.theregister.com/2025/10/08/ibm_cockroachdb_mainframe_postgres/",
-      "urlToImage": "https://regmedia.co.uk/2025/04/07/ibm_z17.jpg",
-      "publishedAt": "2025-10-08T13:48:12Z",
-      "content": "IBM has signed an OEM agreement with Cockroach Labs maker of the distributed PostgreSQL-like cloud RDBMS CockroachDB in a bid to help modernize mission-critical applications reliant on mainframe hard… [+6137 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "The Google Pixel Watch 4 is the Android watch to beat",
-      "description": "Five years ago, I used to groan when it came time to review an Android smartwatch. Back then, anything that wasn't a Samsung watch was disappointing at best. The space was fragmented, battery life was dismal, and interest just didn't seem to be there. But now…",
-      "url": "https://www.theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257970_Pixel_Watch_4_AKrales_0416.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T13:39:03Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter lagging behind for so long, its been wild to see Google come this far in the smartwatch game.\r\nIf you buy something from a Verge link, Vox Media may earn a… [+11413 chars]"
     }
   ]
 }
