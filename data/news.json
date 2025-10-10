@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T16:41:57.996Z",
+  "fetchedAt": "2025-10-10T17:08:21.339Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Welcome to 'age of frumpy but functional AI,' says Forrester",
+      "description": "Is AI hype becoming passe? New data suggests a 'market correction' is coming.",
+      "url": "https://www.zdnet.com/article/welcome-to-age-of-frumpy-but-functional-ai-says-forrester/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0f4bffe3faee3e1bcab6ffb6188de0ee80266da1/2025/10/09/778bc139-949b-4984-b360-90c9fd3f6ebc/gettyimages-1389877084.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T17:00:00Z",
+      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI hype is waning, according to Forrester.</li><li>Businesses a… [+4413 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Datacurve raises $15 million to take on ScaleAI | TechCrunch",
+      "description": "Datacurve uses a “bounty hunter” system to attract skilled software engineers to complete the hardest-to-source datasets.",
+      "url": "https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Chemistry_251008_Serena_Ge_0642-v2.jpg?resize=1200,900",
+      "publishedAt": "2025-10-09T16:59:13Z",
+      "content": "As AI companies mature, the fight for high-quality data has become one of the most competitive areas in the industry, launching companies like Mercor, Surge, and, most prominently, Alexandr Wangs Sca… [+2145 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Startup Battlefield company SpotitEarly trained dogs and AI to sniff out common cancers | TechCrunch",
+      "description": "Startup Battlefield company SpotitEarly trained dogs and AI to sniff out common cancers | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/09/startup-battlefield-company-spotitearly-trained-dogs-and-ai-to-sniff-out-common-cancers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/spotitearly.jpeg?resize=1200,506",
+      "publishedAt": "2025-10-09T16:46:41Z",
+      "content": "Developing comprehensive screening for early-stage cancer is the key to saving the most lives.\r\nAlthough multi-cancer early detection (MCED) tests are still being researched and lack FDA approval, se… [+3442 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -627,19 +666,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -650,6 +676,19 @@
       "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-08T18:27:00Z",
       "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "The Toniebox is perfect for kids and parents and just hit its lowest price ever",
-      "description": "The Toniebox is a popular kid-friendly audio player for music, stories, and educational content. I've had mine for two years, and here's why my kids love it.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/the-toniebox-is-perfect-for-kids-and-parents-and-just-hit-its-lowest-price-ever-prime-day-2025/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/21e44e1ab7b859cf2bc3366beb01375653db28f8/2025/10/08/4a03c0c0-dbaa-4547-bb01-eb87553fd025/1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T18:22:56Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nMy kid had been asking for a Toniebox for two years, but I always talked her out of it. I'm no Grinch, but each basic starter … [+3438 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Need a Pocket replacement? My 6 favorite 'read it later' apps are even better",
-      "description": "Pocket dumped you? Don't despair: Some of these 'read it later' replacements deliver more than Mozilla's service - and for less.",
-      "url": "https://www.zdnet.com/home-and-office/work-life/need-a-pocket-replacement-my-6-favorite-read-it-later-apps-are-even-better/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3353e178782aeda1f665044cf2ff8e4bc576a0c2/2025/10/08/523fbd97-5518-434d-94dc-f3dab8acf4ed/gettyimages-1400480877.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T18:21:06Z",
-      "content": "farakos/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nMozilla's \"read it later\" bookmarking service, Pocket, shut down, and that's a shame because it was widely u… [+7857 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CoreWeave stock rallies as it introduces new AI tools for developers",
-      "description": "CoreWeave is working to expand its business with tools targeting software developers, while adding capacity to accommodate business from Meta and OpenAI.",
-      "url": "https://www.cnbc.com/2025/10/08/coreweave-stock-ai-developer-tools.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202196-1758556569066-gettyimages-2236260070-US_STOCKS.jpeg?v=1759946088&w=1920&h=1080",
-      "publishedAt": "2025-10-08T18:16:47Z",
-      "content": "CoreWeave shares rose as much as 8% Wednesday as the artificial intelligence cloud provider announced new tools to help programmers develop AI agents.\r\nWith the new serverless reinforcement learning … [+1914 chars]"
     }
   ]
 }
