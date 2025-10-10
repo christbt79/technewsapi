@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-10T06:46:49.957Z",
+  "fetchedAt": "2025-10-10T07:09:24.094Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "OpenAI’s affordable ChatGPT Go plan expands to 16 new countries in Asia",
+      "description": "OpenAI is expanding its $5 per month ChatGPT Go plan to 16 more countries.",
+      "url": "https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/ChatGPT-Go_white-background.jpeg?resize=1200,675",
+      "publishedAt": "2025-10-09T07:01:57Z",
+      "content": "OpenAI is rapidly expanding its affordable ChatGPT Go plan, which costs under $5, to 16 new countries across Asia. The subscription tier is now available in Afghanistan, Bangladesh, Bhutan, Brunei Da… [+2853 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/o6cft0/article70138721.ece/alternates/LANDSCAPE_1200/BL25_Think_green_industry.jpg",
       "publishedAt": "2025-10-08T08:35:18Z",
       "content": "A global benchmark of clean energy stocks is outperforming major equity indexes and even gold, as investors respond to soaring demand for renewables needed to power the boom in artificial intelligenc… [+2453 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Parker Hall",
-      "title": "90 Best Prime Day Deals Under $100 (2025): Chargers, Earbuds, and More",
-      "description": "We've scoured Amazon for the best prime day deals under a Benjamin, from Roku to Instant Pot.",
-      "url": "https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/",
-      "urlToImage": "https://media.wired.com/photos/68e08e6d026132543e222e51/191:100/w_1280,c_limit/The%20Best%20Prime%20Day%20Deals%20Under%20$100.png",
-      "publishedAt": "2025-10-08T08:31:38Z",
-      "content": "Eufy Security Indoor Cam S350 for $80 ($60 off): This indoor camera is a powerhouse, featuring pan/tilt, a dual-lens 4K system with 8x zoom, and onboard AI.\r\nBlink Mini 2 for $20 ($20 off): The tiny … [+1689 chars]"
     }
   ]
 }
