@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-10T13:41:17.691Z",
+  "fetchedAt": "2025-10-10T14:09:26.887Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Google's new Gemini 2.5 Computer Use model can click, type, and scroll",
+      "description": "Now available in public preview, the new model is another step toward AI that can operate across web environments with minimal human oversight.",
+      "url": "https://www.zdnet.com/article/googles-new-gemini-2-5-computer-use-model-can-click-type-and-scroll/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c0e34cee0b2b54c898e8cd0d88ba46c645c8a60c/2025/10/09/f0992a7e-a1c4-437a-b839-3c0844e8de44/gettyimages-2207967834.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T14:06:49Z",
+      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new AI model can interact directly with website UIs.</… [+3641 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at Techcrunch Disrupt 2025",
+      "description": "From ride-hailing at massive global scale to autonomous delivery bots on neighborhood streets, AI is reinventing how people and goods move. Uber Technologies’ Chief Product Officer Sachin Kansal and Nuro Co-Founder Dave Ferguson take the stage to discuss the …",
+      "url": "https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Ferguson-Kansal-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-09T14:00:00Z",
+      "content": "Artificial intelligence is not just changing how we work its transforming how we move. At TechCrunch Disrupt 2025, happening October 27-29 at San Francisco’s Moscone West, two industry leaders at the… [+2610 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Google fights to prevent search remedies from inhibiting its AI ambitions",
+      "description": "A court order will require Google to scale back some of its more aggressive tactics to get its search engine in front of as many users as possible, but it’s still fighting to make sure new restrictions won’t limit its AI expansion.  At a hearing in a federal …",
+      "url": "https://www.theverge.com/news/797639/google-search-remedies-doj-gemini-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly__chain_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-09T13:57:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle and the DOJ are hashing out the finer details of the search remedies order.\r\nGoogle and the DOJ are hashing out the finer details of the search remedies o… [+2899 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Clearview AI sees red as UK tribunal sides with regulator over $10M GDPR fine",
+      "description": "Court says ICO can chase US outfit for unlawfully hoovering up Brits' selfies\nThe UK General Regulatory Chamber's Upper Tribunal (UT) has ruled in favor of the Information Commissioner's Office (ICO), which appealed against a 2023 decision that it could not f…",
+      "url": "https://www.theregister.com/2025/10/09/ico_clearview_ai_tribunal/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/13/clearview.jpg",
+      "publishedAt": "2025-10-09T13:42:08Z",
+      "content": "The UK General Regulatory Chamber's Upper Tribunal (UT) has ruled in favor of the Information Commissioner's Office (ICO), which appealed against a 2023 decision that it could not fine Clearview AI o… [+4522 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-08T15:06:00Z",
       "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Ariana Aspuru, Sean Rameswaram",
-      "title": "We’re swimming in AI slop. Here’s how to tell the difference.",
-      "description": "If your feed isn’t already filled with AI-generated video slop, it’s only a matter of time.  Meta and OpenAI will make sure of it. Meta recently announced its endless slop-feed Vibes, made up entirely of AI-generated content: cats, dogs, and blobs. And that’s…",
-      "url": "https://www.vox.com/technology/464097/meta-openai-sora-slop-ai",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939749.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T14:55:13Z",
-      "content": "If your feed isn’t already filled with AI-generated video slop, it’s only a matter of time. \n\nMeta and OpenAI will make sure of it. Meta recently announced its endless slop-feed Vibes, made up entire… [+5324 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Google's virtual try-on shopping tool expands to more countries, now lets you try on shoes | TechCrunch",
-      "description": "To virtually try on a pair of shoes, users need to tap on any product listing on Google, select the \"try it on\" button, and add a full length photo themselves.",
-      "url": "https://techcrunch.com/2025/10/08/googles-virtual-try-on-shopping-tool-expands-to-more-countries-now-lets-you-try-on-shoes/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/11/screen-shot-2016-11-18-at-10-24-48-am.png?w=791",
-      "publishedAt": "2025-10-08T14:53:11Z",
-      "content": "Google announced on Wednesday that its AI feature that lets users virtually try on clothes is expanding to Australia, Canada, and Japan. The tech giant also announced that the feature now lets users … [+1624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Synology walks back controversial compatibility policy for 2025 NAS units — third-party HDD and SSD support returns with DiskStation Manager 7.3 update",
-      "description": "Synology’s latest update reinstates compatibility with major drive brands like Western Digital and Seagate.",
-      "url": "https://www.tomshardware.com/pc-components/nas/synology-walks-back-controversial-compatibility-policy-for-2025-nas-units-third-party-hdd-and-ssd-support-returns-with-diskstation-manager-7-3-update",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tvFCDYFcPb3xA6dEmEhHwe-1920-80.jpg",
-      "publishedAt": "2025-10-08T14:32:31Z",
-      "content": "Synology has backtracked on its controversial self-branded drives-only policy, restoring the ability to use third-party and certified HDDs and SSDs on its 2025 Plus series NAS units. With the launch … [+2819 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Techcrunch Events",
-      "title": "Unveiling the next wave of Startup Battlefield 200 VC judges at Disrupt 2025 | TechCrunch",
-      "description": "5 more VC leaders from Accel, 776, Lockstep, IVP, and more join the Startup Battlefield 200 judge panel at TechCrunch Disrupt 2025. Register to join.",
-      "url": "https://techcrunch.com/2025/10/08/unveiling-the-next-wave-of-startup-battlefield-200-vc-judges-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Presler-Gates-Holloway-Ittelson-Sethi_5-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-08T14:32:11Z",
-      "content": "Startup Battlefield 200 at TechCrunch Disrupt 2025 is almost here, and the pressure has never been higher. With $100,000 on the line, the top 20 early-stage startups know they must deliver their very… [+4569 chars]"
     }
   ]
 }
