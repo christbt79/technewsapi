@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T20:09:31.128Z",
+  "fetchedAt": "2025-10-10T20:36:50.494Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Amazon's Quick Suite is like agentic AI training wheels for enterprises",
+      "description": "Slow down there Andy; you wouldn't want to bump into any hallucinations\nDespite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worke…",
+      "url": "https://www.theregister.com/2025/10/09/amazons_quick_suite/",
+      "urlToImage": "https://regmedia.co.uk/2018/04/17/shutterstock_training_wheels_648.jpg",
+      "publishedAt": "2025-10-09T20:23:11Z",
+      "content": "Despite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worker, they'll b… [+4137 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Is your PC drowning in photos? Microsoft's new OneDrive app can help - try it now",
+      "description": "The goal is to help you more easily and quickly find, access, and share your favorite photos.",
+      "url": "https://www.zdnet.com/article/is-your-pc-drowning-in-photos-microsofts-new-onedrive-app-can-help-try-it-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cd7e4a5ec1db21180a748990b660a44500613ab7/2025/10/09/7db44c36-80d8-4c11-9609-3887e6d4b0de/microsoft-new-onedrive-windows-app.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T20:14:48Z",
+      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new OneDrive Windows app can help manage your photos.</li><li>The new app … [+4421 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "We’re all about to be in wearable hell",
+      "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscr…",
+      "url": "https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Optimizer6_3.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+      "publishedAt": "2025-10-09T20:12:11Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nI signed up for wearable maximalism, but with each passing day, I feel more cyborg than human.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable … [+8297 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e5828d8c3af7cdfe932788/191:100/w_1280,c_limit/Taylor-Swift-AI-Promo-Culture-2239032475.jpg",
       "publishedAt": "2025-10-08T20:53:21Z",
       "content": "We are very much losing this battle against common sense when it comes to using generative AI, Schnitt says, adding that if the videos are AI and Swift apologizes for it, the move could be a touchsto… [+2393 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims",
-      "description": "Federal law enforcement has arrested a suspect in connection with starting what became the Palisades blaze that killed 12 people and burned through thousands of acres. Among the evidence cited is an AI image of a burning city that the suspect allegedly genera…",
-      "url": "https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2192316305.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-      "publishedAt": "2025-10-08T20:44:18Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nProsecutors accuse Jonathan Rinderknecht of generating the image a few months before the Palisades fire. \r\nProsecutors accuse Jonathan Rinderknecht of generating… [+3606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Adam Clark Estes",
-      "title": "Don’t get too excited about AI’s downfall",
-      "description": "It’s been a big couple weeks for OpenAI. The most valuable startup in the world recently announced that ChatGPT will become more like an operating system, released its first social networking app, and even spread rumors about launching a device designed to ma…",
-      "url": "https://www.vox.com/technology/464187/openai-chatgpt-ai-bubble-nvidia-stock",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2236865005.jpg?quality=90&strip=all&crop=0%2C10.743757137009%2C100%2C78.512485725982&w=1200",
-      "publishedAt": "2025-10-08T20:42:15Z",
-      "content": "On Wednesday, the Bank of England cautioned that the risk of a “sudden correction” to global markets is growing as the valuations of top AI companies increase.\r\n\n\nIt’s been a big couple weeks for Ope… [+5474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Cisco’s new router unites disparate datacenters into AI training behemoths",
-      "description": "With enough routers, Switchzilla says it can link bit barns 1,000 km apart and scale fabrics beyond 3 exabits per second\nCisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together th…",
-      "url": "https://www.theregister.com/2025/10/08/cisco_multi_datacenter/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/08/shutterstock_2530031367.jpg",
-      "publishedAt": "2025-10-08T20:29:38Z",
-      "content": "Cisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together their existing datacenters into a single unified compute cluste… [+2948 chars]"
     }
   ]
 }
