@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T09:10:33.141Z",
+  "fetchedAt": "2025-10-10T09:37:07.057Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Sunny Grimm",
+      "title": "RISC-V set to announce 25% market penetration — open-standard ISA is ahead of schedule, securing fast-growing silicon footprint",
+      "description": "RISC-V International will announce that silicon on the ISA has reached 25% market penetration later this month. This outpaces projections set just last year by other research groups like Omdia.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/risc-v-set-to-announce-25-percent-market-penetration-open-standard-isa-is-ahead-of-schedule-securing-fast-growing-silicon-footprint",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cVFksGvo8LTwENWnrQhi99-2000-80.jpg",
+      "publishedAt": "2025-10-09T09:28:52Z",
+      "content": "ARM has some competition in the reduced-complexity chip space, and it's gaining ground quickly. RISC-V International plans to announce that silicon on the open-standard has reached 25% market penetra… [+2981 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "The Browser Company’s Dia is now available on Mac, no invite needed",
+      "description": "The wait(list) is over for The Browser Company’s Dia, its AI-powered follow-up to Arc. If you have a Mac, that is. The Browser Company, which was acquired by software giant Atlassian for $610 million last month, said “Dia is now open to everyone on MacOS.” It…",
+      "url": "https://www.theverge.com/news/797436/dia-browser-available-mac",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Image-1600x901-1.png?quality=90&strip=all&crop=0%2C3.5129669767739%2C100%2C92.974066046452&w=1200",
+      "publishedAt": "2025-10-09T09:22:57Z",
+      "content": "A screenshot of the Dia browser.\r\n\n\nThe wait(list) is over for The Browser Company’s Dia, its AI-powered follow-up to Arc. If you have a Mac, that is.\n\nThe Browser Company, which was acquired by soft… [+441 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ccc4a4da87830eba063c84f234eec2f8a43cfe44/2025/03/20/2ff8d1a4-232a-46fa-a70e-77cf90fcd035/img-5143.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-08T11:10:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Amazfit’s Active 2, one of our favorite fitness trackers, is a steal at just $81",
-      "description": "Smartwatches from big brands like Apple, Google, and Garmin may get all the attention when it comes to wearables, but they’re not the only ones worth considering if you’re in the market for a capable fitness tracker. Amazfit’s Active 2 is a fantastic option i…",
-      "url": "https://www.theverge.com/tech/791143/amazon-october-prime-day-amazfit-active-2-deal-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25818553/257470_Amazfit_Active_2_ADiBenedetto_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T10:48:22Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis budget-friendly wearable packs an impressive set of features for the price.\r\nThis budget-friendly wearable packs an impressive set of features for the price… [+3147 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Luke Larsen",
-      "title": "This Is the MacBook I'd Buy For Amazon Big Deal Days This Year",
-      "description": "With new MacBooks on the horizon and Prime Day discounts here, here's my advice on what MacBooks to buy today.",
-      "url": "https://www.wired.com/story/macbook-to-buy-amazon-prime-day/",
-      "urlToImage": "https://media.wired.com/photos/68e55e72abed7c3ca412ae37/191:100/w_1280,c_limit/The%20MacBook%20I'd%20Buy%20For%20Amazon%20Big%20Deal%20Days%20This%20Year.png",
-      "publishedAt": "2025-10-08T10:33:52Z",
-      "content": "There's also the M1 MacBook Air to consider. Yes, this five-year old laptop is still being sold, exclusively through Walmart, and the price is now down to $600. It's been that price since this summer… [+2456 chars]"
     }
   ]
 }
