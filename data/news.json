@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-10T15:34:51.815Z",
+  "fetchedAt": "2025-10-10T16:11:15.187Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "This $80 gadget solved my biggest frustration with headless servers - and it's highly customizable",
+      "description": "Struggling with monitors and mice cluttering your server rack? This device might be the remote-access solution your home lab or NVR setup needs.",
+      "url": "https://www.zdnet.com/home-and-office/networking/this-80-gadget-solved-my-biggest-frustration-with-headless-servers-and-its-highly-customizable/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e1077d39908e41db680cfda952a8d82df35c38c6/2025/07/28/84877efd-2ba7-437d-a114-2dccd40a7235/main-shot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T16:07:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIt's always a happy day when I find a new gadget, and it's particularly happy when that gadget solves an existing problem or (even better) remov… [+4643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "AWS's new agentic solution is a searchable AI hub for all your enterprise needs",
+      "description": "Amazon Quick Suite aims to be 'everything you want to do with ChatGPT at work, but can't.'",
+      "url": "https://www.zdnet.com/article/awss-new-agentic-solution-is-a-searchable-ai-hub-for-all-your-enterprise-needs/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fa833f5939f27e8dd6c21b869585f63ee1cbdde5/2025/07/16/9d27d333-0c5c-4c97-a2be-d9099c0d86e1/img-0178-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T16:01:28Z",
+      "content": "AWS Summit 2025 at the Javits Center in NYC. \r\nSabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon Quick Suite is an agentic AI experienc… [+4091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Forget the MacBook: The Surface Laptop is still $350 off as Prime Day wraps up",
+      "description": "The Microsoft Surface Laptop was one of my favorite laptops of 2024, and the 16GB configuration is still on sale after Prime Day.",
+      "url": "https://www.zdnet.com/article/forget-the-macbook-the-surface-laptop-is-still-350-off-as-prime-day-wraps-up/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ebf795134c60409d42f5654fe05bb47a5374353d/2024/09/26/8da41e20-32a0-4120-84dd-0a3af34aafcc/microsoft-surface-laptop-10.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T16:01:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nEditor's Note: If you don't see the discounted price, make sure you're logged into Amazon and manually click the \"Snapdra… [+3156 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Meta adds Hindi and Portuguese support for its AI translation feature for Reels",
+      "description": "Meta is expanding its AI-powered translation features for Reels with support for Hindi and Portuguese to target markets like India and Brazil",
+      "url": "https://techcrunch.com/2025/10/09/meta-adds-hindi-and-portuguese-support-for-its-ai-translation-feature-for-reels/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Facebook-2.jpeg?resize=1200,857",
+      "publishedAt": "2025-10-09T16:00:00Z",
+      "content": "Meta is already putting Reels in front and center of the Instagram experience on iPad and on mobile in countries like India and South Korea. Now, to allow more people to consume and understand Reels … [+2350 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "The AI industry is at a major crossroads",
+      "description": "Hey there, and welcome to Decoder! I’m Hayden Field, senior AI reporter at The Verge and your Thursday episode guest host. I’m subbing in for Nilay while he’s still out on parental leave, and I’m excited to keep diving into the good, the bad, and the question…",
+      "url": "https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_1009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-09T15:53:36Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI industry is at a major crossroads\r\nImbue CEO Kanjun Qiu comes on the show to discuss this weeks OpenAI news and whether the AI industry will trend toward … [+4479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Ex-Google CEO Eric Schmidt warns AI models can be hacked: 'They learn how to kill someone'",
+      "description": "\"There's evidence that you can take models ... and you can hack them to remove their guardrails,\" ex-Google CEO Eric Schmidt said.",
+      "url": "https://www.cnbc.com/2025/10/09/ex-google-ceo-warns-ai-models-can-be-hacked-they-learn-how-to-kill.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209855-1760006644269-gettyimages-2223516904-FRANCE_RAISE_SUMMIT.jpeg?v=1760006895&w=1920&h=1080",
+      "publishedAt": "2025-10-09T15:46:55Z",
+      "content": "Google's former CEO Eric Schmidt has issued a stark reminder about the dangers of AI and how susceptible it is to being hacked.\r\nSchmidt, who served as Google's chief executive from 2001 to 2011, war… [+3359 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117783-1742321371853-Traders-Photo-MW-20250318-PRESS-8.jpg?v=1742493999&w=1920&h=1080",
       "publishedAt": "2025-10-08T17:35:47Z",
       "content": "Lisa Su, CEO of AMD, left, and Jensen Huang, CEO of Nvidia\r\nIn the 1990s, when Intel dominated the PC chip market, the semiconductor maker needed Advanced Micro Devices to exist as a viable No. 2 to … [+7672 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "H-1B visa changes explained: The loophole costing startups talent | TechCrunch",
-      "description": "Jeremy Neufeld of the Institute for Progress breaks down Trump's $100K H-1B fee, the loophole letting 80% skip it, and what startups need to know.",
-      "url": "https://techcrunch.com/video/h-1b-visa-changes-explained-the-loophole-costing-startups-talent/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
-      "publishedAt": "2025-10-08T17:04:25Z",
-      "content": "Today on TechCrunch’s Equity podcast, Dominic-Madori Davis was joined by Jeremy Neufeld, the Director of Immigration Policy at the Institute for Progress, to break down what the recent H-1B change me… [+714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Bank of England smells hint of dotcom bubble 2.0 in AI froth",
-      "description": "UK central bank warns of 'sudden correction' in tech stocks\nThe Bank of England's Financial Policy Committee has warned of the dangers of a sudden correction in the financial markets, owing to the value of tech and AI stocks, and has compared the risks to the…",
-      "url": "https://www.theregister.com/2025/10/08/boe_dotcom_bubble_ai/",
-      "urlToImage": "https://regmedia.co.uk/2017/05/26/bubble_shutterstock.jpg",
-      "publishedAt": "2025-10-08T17:03:26Z",
-      "content": "The Bank of England's Financial Policy Committee has warned of the dangers of a sudden correction in the financial markets, owing to the value of tech and AI stocks, and has compared the risks to the… [+3637 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Zendesk says its new AI agent can solve 80% of support issues | TechCrunch",
-      "description": "Zendesk has launched a new autonomous support agent that should solve 80% of support issues without human intervention.",
-      "url": "https://techcrunch.com/2025/10/08/zendesk-says-its-new-ai-agent-can-solve-80-of-support-issues/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1082161742.jpg?w=1024",
-      "publishedAt": "2025-10-08T17:02:26Z",
-      "content": "Zendesk announced Wednesday at its AI summit a string of LLM-driven products meant to reshape the company’s reliance on human technicians.\r\nThe center of the new features is an autonomous support age… [+2403 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Felipe De La Hoz",
-      "title": "Trump’s vague and confusing immigration policies are the point",
-      "description": "In August, the US Citizenship and Immigration Services, the agency that adjudicates and grants immigration benefits like visas, residency, and naturalization, put out a bizarre three-page policy alert. Among other things, it noted vaguely that the agency woul…",
-      "url": "https://www.theverge.com/policy/794893/anti-american-activities-immigration-policy",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257941_anti-americanism_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T17:01:47Z",
-      "content": "<ul><li></li></ul>\r\nTrumps vague and confusing immigration policies are the point\r\nThe administration cited anti-Americanism as a way to deny visas. Legal experts are bewildered by what that means.\r\n… [+8893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Google Pixel 10 Pro Fold vs. Samsung Galaxy Z Fold 7: We tested both, and the winner is not so obvious",
-      "description": "Samsung and Google's new foldables target different types of users - here's the one that's right for you.",
-      "url": "https://www.zdnet.com/article/google-pixel-10-pro-fold-vs-samsung-galaxy-z-fold-7-we-tested-both-and-the-winner-is-not-so-obvious/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ba654d38aa63b929e8b1657fa28bb914d8519f02/2025/10/08/99af3842-985b-483c-a8e0-45b03b45b7fd/dsc07981.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T17:00:47Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Google Pixel 10 Pro Fold officially goes on sale today, and it already faces stiff competition from the Samsung Galaxy … [+6705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I tested the Pixel Watch 4, and it's convinced me to put away my Galaxy Watch 8 for good",
-      "description": "Google's latest AI-powered smartwatch gets several upgrades that keep it competitive with its Android competition.",
-      "url": "https://www.zdnet.com/article/i-tested-the-pixel-watch-4-and-its-convinced-me-to-put-away-my-galaxy-watch-8-for-good/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2ef42d09a280a296e8a88858adc5818a4d81a082/2025/08/15/d97bc0f0-ebe9-464e-b5d0-5a70fc60d06d/dsc06849.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T17:00:46Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
     }
   ]
 }
