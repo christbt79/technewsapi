@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T13:00:31.493Z",
+  "fetchedAt": "2025-10-10T13:41:17.691Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Intel's open source future in question as exec says he's done carrying the competition",
+      "description": "Kevork Kechichian says x86 giant's contributions should benefit Intel first Over the years, Intel has established itself as a paragon of the open source community, but that could soon change under the x86 giant's new leadership.  …",
+      "url": "https://www.theregister.com/2025/10/09/intel_open_source_commitment/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/08/kevork_kechichian_intel_dcg.jpg",
+      "publishedAt": "2025-10-09T13:05:08Z",
+      "content": "Over the years, Intel has established itself as a paragon of the open source community, but that could soon change under the x86 giant's new leadership.  \r\nSpeaking to press and analysts at Intel's T… [+3784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "86% of businesses use AI for this one surprising task, Deloitte finds",
+      "description": "Despite a lack of ROI elsewhere, AI and humans are working well side-by-side on some tasks - here's how.",
+      "url": "https://www.zdnet.com/article/86-of-businesses-use-ai-for-this-one-surprising-task-deloitte-finds/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eda2136b3a18124218341ef65efd3a49810ee7eb/2025/10/09/7d8e409c-f51a-40e9-8238-07d98de29a7e/gettyimages-1537332636.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T13:00:34Z",
+      "content": "JARAMA/iStrock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses are using AI for mergers and acquisitions.</li><li>… [+3814 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -224,19 +250,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -247,6 +260,19 @@
       "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Presler-Gates-Holloway-Ittelson-Sethi_5-Speaker-16x9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-08T14:32:11Z",
       "content": "Startup Battlefield 200 at TechCrunch Disrupt 2025 is almost here, and the pressure has never been higher. With $100,000 on the line, the top 20 early-stage startups know they must deliver their very… [+4569 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Forget the MacBook: The Surface Laptop for $600 off might be a better Prime Day deal for you",
-      "description": "The Microsoft Surface Laptop was one of my favorite laptops of 2024. Now, the 512GB variant is on sale with its biggest discount yet.",
-      "url": "https://www.zdnet.com/article/forget-the-macbook-the-surface-laptop-for-600-off-might-be-a-better-prime-day-deal-for-you/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9ba515d86f472217cd3e03694ef7e5acc7313241/2024/06/19/1adda4ae-b2cd-4b9a-982c-ad3454d31208/dsc00995.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T14:23:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nEditor's Note: If you don't see the $600 discounted price, make sure you're logged into Amazon and manually click the \"Sn… [+3142 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Why a capital gains tax change in Trump's new bill may be boon to business founders, early employee wealth",
-      "description": "A tax change in President Trump's One Big Beautiful Bill may help startup founders, investors and early employees keep more of their company stock income.",
-      "url": "https://www.cnbc.com/2025/10/08/trump-tax-law-capital-gains-stock-founders-startup-wealth.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202201-1758556807341-gettyimages-2216570751-AFP_487V4Y6.jpeg?v=1758556838&w=1920&h=1080",
-      "publishedAt": "2025-10-08T14:17:19Z",
-      "content": "When it comes to tax planning by business owners on Main Street, many aspects of President Trump's One Big Beautiful Bill Act were at best incremental, unlike the fundamental shifts introduced under … [+7877 chars]"
     }
   ]
 }
