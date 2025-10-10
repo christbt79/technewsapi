@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-10T19:31:20.968Z",
+  "fetchedAt": "2025-10-10T20:09:31.128Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sora copycats flooded Apple’s App Store, and some still remain",
+      "description": "Imposter Sora apps saw hundreds of thousands of downloads before Apple pulled them from the App Store.",
+      "url": "https://techcrunch.com/2025/10/09/sora-copycats-flooded-apples-app-store-and-some-still-remain/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+      "publishedAt": "2025-10-09T20:06:49Z",
+      "content": "Sora’s rapid adoption drove a number of App Store scammers to try to get in on the act. Following the launch of OpenAI’s invite-only, video-generating mobile app last week, Apple’s App Store was floo… [+2552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Google rearranges Agentspace into Gemini Enterprise",
+      "description": "A new spin on workflow automation as Chocolate Factory tries to displace Microsoft as the enterprise go-to Google on Thursday announced the launch of Gemini Enterprise, a platform for automating business workflows using the company's Gemini family of machine …",
+      "url": "https://www.theregister.com/2025/10/09/google_rearranges_agentspace_into_gemini/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/27/gemini_shutterstock.jpg",
+      "publishedAt": "2025-10-09T19:52:39Z",
+      "content": "Google on Thursday announced the launch of Gemini Enterprise, a platform for automating business workflows using the company's Gemini family of machine learning models.\r\nNo less than Sundar Pichai, C… [+6850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "What Qualcomm's Arduino deal means for Raspberry Pi",
+      "description": "Also: A new Qualcomm-powered UNO Q board is available for $44.",
+      "url": "https://www.zdnet.com/article/what-qualcomms-arduino-deal-means-for-raspberry-pi/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/82cc968aa329527abf4ed31187917295fd655884/2025/10/09/99376e43-a63f-49a6-a70d-1b0c027ec4c7/xnapper-2025-10-09-13-45-21.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-09T19:32:22Z",
+      "content": "Arduino/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Qualcomm is acquiring Arduino but allowing it to operate independently.</li><li>The new Qualcomm-p… [+2610 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/08/shutterstock_2530031367.jpg",
       "publishedAt": "2025-10-08T20:29:38Z",
       "content": "Cisco has unveiled a new routing ASIC designed to help bit barn operators overcome power and capacity constraints by stitching together their existing datacenters into a single unified compute cluste… [+2948 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Some of my favorite smart kitchen gadgets are on sale for Prime Day",
-      "description": "Regular readers of The Verge will know that my favorite room in my smart home is my kitchen. As an avid home cook and mom of two, this is the room where I spend the most time, and where I look for as much convenience and extra help as I can get. As a result, …",
-      "url": "https://www.theverge.com/tech/796213/smart-kitchen-gadgets-prime-day-sale-coffee-machine-air-fryer",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/8A0A0340.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T20:27:32Z",
-      "content": "The GE Profile Stand Mixer knows when your meringue is whipped.\r\n\n\nRegular readers of The Verge will know that my favorite room in my smart home is my kitchen. As an avid home cook and mom of two, th… [+4414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AMD stock continues rally after OpenAI deal, now up 43% this week so far",
-      "description": "Investors took the partnership to mean that AMD could become a viable challenger to Nvidia's current top position in the AI chip market.",
-      "url": "https://www.cnbc.com/2025/10/08/amd-stock-rally-openai-deal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208259-1759767774187-gettyimages-2239199521-AMD_OPENAI.jpeg?v=1759767826&w=1920&h=1080",
-      "publishedAt": "2025-10-08T20:15:20Z",
-      "content": "AMD stock climbed 11% on Wednesday, continuing a massive run since OpenAI announced plans to buy billions of dollars of AI equipment from the chipmaker earlier this week.\r\nOn Monday, the ChatGPT make… [+1055 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I put away my Samsung Galaxy Watch just hours after testing this Google Pixel",
-      "description": "Google's latest AI-powered smartwatch gets several upgrades that keep it competitive with its Android competition.",
-      "url": "https://www.zdnet.com/article/i-put-away-my-samsung-galaxy-watch-just-hours-after-testing-this-google-pixel/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6930f3c7291c74fe1282d6c61583945522759f2f/2025/08/15/2b0c13f9-f28a-4af1-9716-b51f3a523914/dsc06885.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T20:11:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
     }
   ]
 }
