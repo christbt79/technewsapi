@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-10T07:09:24.094Z",
+  "fetchedAt": "2025-10-10T07:33:07.921Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Hobble your AI agents to prevent them from hurting you too badly",
+      "description": "That's the main takeaway from the Zenity AI Agent Security Summit\nMichael Bargury, CTO of AI security company Zenity, welcomed attendees to the company's AI Agent Security Summit on Wednesday with an unexpected admission.…",
+      "url": "https://www.theregister.com/2025/10/09/zenity_ai_agent_security_summit_recap/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/08/zenity_ai_agent_summit.jpg",
+      "publishedAt": "2025-10-09T07:27:09Z",
+      "content": "Michael Bargury, CTO of AI security company Zenity, welcomed attendees to the company's AI Agent Security Summit on Wednesday with an unexpected admission.\r\n\"This is a new space and we frankly don't … [+4772 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/i7HeB4T9noHFwh9usbxdda-1165-80.jpg",
       "publishedAt": "2025-10-08T09:00:00Z",
       "content": "Recent AI market plays have produced all sorts of inter-company investments and flat-out acquisitions. Most of those are somewhat predictable, but occasionally an unexpected deal comes out of left fi… [+3749 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Green stocks are quietly beating the world’s biggest trades",
-      "description": "Investors have turned more positive on green stocks as the energy needed to power AI can’t be delivered without renewables",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-08/green-stocks-are-quietly-beating-the-world-s-biggest-trades",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/o6cft0/article70138721.ece/alternates/LANDSCAPE_1200/BL25_Think_green_industry.jpg",
-      "publishedAt": "2025-10-08T08:35:18Z",
-      "content": "A global benchmark of clean energy stocks is outperforming major equity indexes and even gold, as investors respond to soaring demand for renewables needed to power the boom in artificial intelligenc… [+2453 chars]"
     }
   ]
 }
