@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T22:35:12.834Z",
+  "fetchedAt": "2025-10-10T23:08:22.043Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Reflection raises $2B to be America's open frontier AI lab, challenging DeepSeek | TechCrunch",
+      "description": "Reflection, once focused on autonomous coding agents, has raised $2B at an $8B valuation to expand into both an open-source alternative to closed frontier labs like OpenAI and Anthropic, and a Western equivalent to Chinese AI firms like DeepSeek.",
+      "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+      "publishedAt": "2025-10-09T22:37:28Z",
+      "content": "Reflection, a startup founded just last year by two former Google DeepMind researchers, has raised $2 billion at an $8 billion valuation, a whopping 15x leap from its $545 million valuation just seve… [+5222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "RondoDox botnet fires 'exploit shotgun' at nearly every router and internet-connected home device",
+      "description": "56 bugs across routers, DVRs, CCTV systems, web servers … time to run for cover\nA new RondoDox botnet campaign uses an \"exploit shotgun\" - fire at everything, see what hits - to target 56 vulnerabilities across at least 30 different vendors' routers, DVRs, CC…",
+      "url": "https://www.theregister.com/2025/10/09/rondodox_botnet_fires_exploit_shotgun/",
+      "urlToImage": "https://regmedia.co.uk/2018/02/12/shotgun.jpg",
+      "publishedAt": "2025-10-09T22:35:50Z",
+      "content": "A new RondoDox botnet campaign uses an \"exploit shotgun\" - fire at everything, see what hits - to target 56 vulnerabilities across at least 30 different vendors' routers, DVRs, CCTV systems, web serv… [+3082 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209356-1759934708494-Traders-Photo-20251007-KK-PRESS-008.jpg?v=1759934831&w=1920&h=1080",
       "publishedAt": "2025-10-08T22:09:33Z",
       "content": "S&amp;P 500 futures are near flat on Wednesday night after the benchmark index rose to all-time highs.\r\nFutures tied to the broad index traded around its flatline, as did Nasdaq 100 futures. Dow Jone… [+1373 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "Here’s what it’s really like to appear on billionaire VC Tim Draper’s ‘Meet the Drapers’ pitch show | TechCrunch",
-      "description": "The show is one of many on Draper's newly launched television channel, DraperTV, which offers programming around business and entrepreneurship, available via streaming services like Roku.",
-      "url": "https://techcrunch.com/2025/10/08/heres-what-its-really-like-to-appear-on-billionaire-vc-tim-drapers-meet-the-drapers-pitch-show/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1249830062.jpg?w=1024",
-      "publishedAt": "2025-10-08T22:03:31Z",
-      "content": "There was barely a breeze on the roof of the MCM studios building in Manhattan last week as six entrepreneurs graced a stage to pitch their businesses.\r\nAt one point, it was April Wachtels turn. She … [+7233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kayla Solino",
-      "title": "Here's the lowest-priced Chromebook I found on Prime Day - why I recommend it",
-      "description": "Lenovo's IdeaPad Slim 3 Chromebook (2024) is on sale for $176 and comes with a MicroSD card slot for easy storage.",
-      "url": "https://www.zdnet.com/article/heres-the-lowest-priced-chromebook-i-found-on-prime-day-why-i-recommend-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4c978fdcb1d38f1bd249ee78d66e96362dec1396/2025/06/16/b1c49061-d3c7-48ce-99e9-a440fdcf2732/zdnet-prime-day-live-blog-6.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T21:52:00Z",
-      "content": "Lenovo/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nChromebooks are known for being affordable, but the Lenovo IdeaPad Slim 3 is certainly one of the more affordable options out the… [+2211 chars]"
     }
   ]
 }
