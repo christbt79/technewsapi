@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-10T10:39:35.091Z",
+  "fetchedAt": "2025-10-10T11:07:49.673Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "Hundreds of millions of business PCs are still on Windows 10 as D-Day nears",
+      "description": "It's the end of support as we know it and users feel fine With days to go before Microsoft finally pulls the plug on Windows 10 support, there are hundreds of millions of computers that have yet to upgrade to Windows 11, despite the best efforts of hardware m…",
+      "url": "https://www.theregister.com/2025/10/09/business_windows_10_eol/",
+      "urlToImage": "https://regmedia.co.uk/2020/11/18/windows.jpg",
+      "publishedAt": "2025-10-09T11:00:36Z",
+      "content": "With days to go before Microsoft finally pulls the plug on Windows 10 support, there are hundreds of millions of computers that have yet to upgrade to Windows 11, despite the best efforts of hardware… [+2738 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "OneDrive is getting a new Windows app and an AI photo agent",
+      "description": "Microsoft is getting ready to release a new OneDrive app on Windows next year that will include a photo gallery, people view, AI-powered slideshows, and editing features. It’s part of a number of new features coming to OneDrive in the coming months, including…",
+      "url": "https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/chrome_qy5PD2m28o_6bef09.jpg?quality=90&strip=all&crop=0%2C3.371471696079%2C100%2C93.257056607842&w=1200",
+      "publishedAt": "2025-10-09T10:44:54Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is overhauling its OneDrive Windows app with a new gallery view, AI-powered slideshows, and more.\r\nMicrosoft is overhauling its OneDrive Windows app wi… [+3160 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/DnhiC0Bxb9Ak_lhnd5zAOQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/ef00b03d56f1dfe40a996e4f25f37b49",
       "publishedAt": "2025-10-08T12:19:00Z",
       "content": "SoftBank CEO Masayoshi Sons autonomous aspirations go back years. - kim kyung-hoon/Reuters\r\nTech conglomerate SoftBank Group has agreed to a $5.4 billion deal for the industrial-robotics-focused busi… [+3079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Nvidia reportedly signs another blockbuster AI supply deal, this time with Elon Musk's xAI — investment will support $20 billion Colossus 2 Memphis project",
-      "description": "Elon Musk’s AI venture xAI is preparing to raise roughly $20 billion through a mixture of equity and debt, with Nvidia playing a central role in the funding structure and chip supply.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-backs-20-billion-xai-chip-deal",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nikRfCseM7p4Aw77vXZiRj-1920-80.jpg",
-      "publishedAt": "2025-10-08T12:08:45Z",
-      "content": "Elon Musk’s AI venture, xAI, is preparing to raise roughly $20 billion through a combination of equity and debt, with Nvidia playing a central role in the funding structure and chip supply. According… [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Danny Bradbury",
-      "title": "How chatbots are coaching vulnerable users into crisis",
-      "description": "From homework helper to psychological hazard in 300 hours of sycophantic validation Feature  When a close family member contacted Etienne Brisson to tell him that he'd created the world's first sentient AI, the Quebecois business coach was intrigued. But thin…",
-      "url": "https://www.theregister.com/2025/10/08/ai_psychosis/",
-      "urlToImage": "https://regmedia.co.uk/2023/03/26/aitraining.jpg",
-      "publishedAt": "2025-10-08T11:58:12Z",
-      "content": "Feature When a close family member contacted Etienne Brisson to tell him that he'd created the world's first sentient AI, the Quebecois business coach was intrigued. But things quickly turned dark. T… [+9463 chars]"
     }
   ]
 }
