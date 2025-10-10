@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-10T14:39:51.899Z",
+  "fetchedAt": "2025-10-10T15:09:10.078Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "Meta will move React to Linux Foundation to address vendor dominance fears",
+      "description": "Independent technical governance will hope to unite fractured ecosystem Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that \"it is important that no single company or organi…",
+      "url": "https://www.theregister.com/2025/10/09/meta_react_foundation/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2483306579.jpg",
+      "publishedAt": "2025-10-09T15:05:31Z",
+      "content": "Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that \"it is important that no single company or organization is ov… [+3322 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "India pilots AI chatbot-led e-commerce with ChatGPT, Gemini, Claude in the mix | TechCrunch",
+      "description": "India pilots AI chatbot-led e-commerce with ChatGPT, Gemini, Claude in the mix | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/09/india-pilots-ai-chatbot-led-e-commerce-with-chatgpt-gemini-claude-in-the-mix/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?resize=1200,800",
+      "publishedAt": "2025-10-09T15:03:20Z",
+      "content": "India has kicked off a pilot to let consumers shop and pay directly through AI chatbots, with OpenAI’s ChatGPT leading the rollout and integrations with Google’s Gemini and Anthropic’s Claude in deve… [+4577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "China moves to extend control over tech industry's critical rare earths",
+      "description": "New laws restrict goods that are manufactured outside of China China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before the…",
+      "url": "https://www.theregister.com/2025/10/09/china_moves_to_extend_control/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2305290875.jpg",
+      "publishedAt": "2025-10-09T15:01:08Z",
+      "content": "China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before they c… [+4431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's Sora hit 1 million downloads in less than five days",
+      "description": "Sora reached 1 million downloads even faster than ChatGPT, OpenAI's popular AI chatbot that supports 800 million weekly active users.",
+      "url": "https://www.cnbc.com/2025/10/09/openais-sora-downloads.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207460-1759493870027-gettyimages-2238549433-TFSPI_02102025-1224.jpeg?v=1759702809&w=1920&h=1080",
+      "publishedAt": "2025-10-09T14:57:09Z",
+      "content": "OpenAI's short-form artificial intelligence video app Sora hit 1 million downloads less than five days after its launch in late September, according to an executive.\r\nBill Peebles, head of Sora at Op… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "AMD could beat Nvidia to launching AI GPUs on the cutting-edge 2nm node — Instinct MI450 is officially the first AMD GPU to launch with TSMC's finest tech",
+      "description": "AMD is set to use TSMC's leading-edge N2 fabrication process for its next-generation CDNA 5-based Instinct MI450 accelerators, but Nvidia's Rubin may have an edge over these GPUs when it comes to brute force compute performance.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-could-beat-nvidia-to-launching-ai-gpus-on-the-cutting-edge-2nm-node-instinct-mi450-is-officially-the-first-amd-gpu-to-launch-with-tsmcs-finest-tech",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qyjUB3huorCFKoESjX7JFS-970-80.png",
+      "publishedAt": "2025-10-09T14:49:35Z",
+      "content": "Compute chiplets of AMD's next-generation Instinct MI450-series accelerators based on the CDNA 5 architecture set to be introduced in the second half of next year will be made on TSMC's N2 (2nm-class… [+3682 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Leak details Samsung’s Android XR headset weeks before expected launch",
+      "description": "Samsung is expected to launch its Project Moohan XR headset as soon as this month, but a leak shared by Android Headlines may give us an early look at its specs. The leak suggests that the Android-based headset will offer a 4K micro-OLED display with 4,032 pi…",
+      "url": "https://www.theverge.com/news/797679/samsung-android-xr-project-moohan-leak",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/vpavic_20250122_Untitled_Job_0008.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-09T14:42:07Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSamsungs Project Moohan could offer a 4K micro-OLED display with 4,032 pixels per inch.\r\nSamsungs Project Moohan could offer a 4K micro-OLED display with 4,032 p… [+3100 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/xqx9wc/article70140872.ece/alternates/LANDSCAPE_1200/2025-10-04T181726Z_1892769214_RC2C0GALIQCS_RTRMADP_3_BRITAIN-BONDS-INVESTORS.JPG",
       "publishedAt": "2025-10-08T16:20:36Z",
       "content": "Stretched valuations for artificial intelligence companies and challenges to the Federal Reserves independence have fueled the risks of a sharp market correction, the Bank of England said on Wednesda… [+4136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "IBM's big iron to get Spyre AI accelerator upgrade this month",
-      "description": "Giving the mainframe customers what they want\nIBM's Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Power11 systems.…",
-      "url": "https://www.theregister.com/2025/10/08/ibm_z17_spyre_accelerator/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/08/ibm_spyre_accelerator.jpg",
-      "publishedAt": "2025-10-08T16:09:32Z",
-      "content": "IBM's Spyre Accelerator is set to be generally available later this month, delivering a boost to the AI capabilities of its enterprise-grade hardware including the z17 mainframe, LinuxONE 5, and Powe… [+3317 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Hiner",
-      "title": "Buy Meta Ray-Ban Display for $799? These glasses are even geekier - and they're $200 off until Oct 10",
-      "description": "I spent a couple weeks with the Rokid Glasses and they have features you won't find in any of the Meta smart glasses -- if you're willing to trade style for substance.",
-      "url": "https://www.zdnet.com/article/buy-meta-ray-ban-display-for-799-these-glasses-are-even-geekier-and-theyre-200-off-until-oct-10/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d8cd1f2fb4a520a7bbb4d97cc4758fa596414555/2025/10/08/81084552-c37d-44da-a293-9f1bae98955f/rokid-glasses-hiner-01.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T16:04:46Z",
-      "content": "Jason Hiner/ZDNET\r\nIf you're interested in buying a pair of the Meta Ray-Ban Display smart glasses, good luck. They are only available in the US, are back-ordered for weeks or months in several place… [+10608 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Hiner",
-      "title": "Buy Meta Ray-Ban Display for $799? These glasses are even geekier - and they're $120 off until Oct 10",
-      "description": "I spent a couple weeks with the Rokid Glasses and they have features you won't find in any of the Meta smart glasses -- if you're willing to trade style for substance.",
-      "url": "https://www.zdnet.com/article/buy-meta-ray-ban-display-for-799-these-glasses-are-even-geekier-and-theyre-120-off-until-oct-10/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d8cd1f2fb4a520a7bbb4d97cc4758fa596414555/2025/10/08/81084552-c37d-44da-a293-9f1bae98955f/rokid-glasses-hiner-01.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-08T16:04:00Z",
-      "content": "Jason Hiner/ZDNET\r\nIf you're interested in buying a pair of the Meta Ray-Ban Display smart glasses, good luck. They are only available in the US, are back-ordered for weeks or months in several place… [+10614 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Ganiga will showcase its waste-sorting robots at TechCrunch Disrupt | TechCrunch",
-      "description": "Ganiga's fleet of waste-sorting technology is meant to help companies track and reduce the waste they produce.",
-      "url": "https://techcrunch.com/2025/10/08/ganiga-will-showcase-its-waste-sorting-robots-at-techcrunch-disrupt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Ganiga_49.jpg?resize=1200,900",
-      "publishedAt": "2025-10-08T16:02:33Z",
-      "content": "Despite the well-known environmental benefits of recycling, its estimated that less than 10% of the worlds plastic gets recycled. Ganiga Innovation looks to bring that percentage up using AI-enabled … [+3489 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "The problems with AI in the smart home and how Amazon and Google plan to fix them",
-      "description": "Last week, Amazon and Google kick-started what could be the next chapter of the smart home. Their new voice assistants, Alexa Plus and Gemini for Home, have been rebuilt from the ground up on generative AI and large language models to be more conversational, …",
-      "url": "https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258001_ai_smart_home_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-08T15:57:16Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter years of false starts, the promise of ambient intelligence has arrived, but will it be worth the price?\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattiso… [+12278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "38-year-old's startup, backed by Bill Gates, has raised $33M to reinvent butter without cows: We want 'to save the world'",
-      "description": "Food tech startup Savor wants to change the way people eat butter, and help save the environment in the process. It has a long way to go to reach those goals.",
-      "url": "https://www.cnbc.com/2025/10/08/bill-gates-backed-startup-savor-wants-to-reinvent-butter-without-cows.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197711-1757616544899-savor_founders_.jpg?v=1759937921&w=1920&h=1080",
-      "publishedAt": "2025-10-08T15:53:38Z",
-      "content": "Kathleen Alexander wove through a crowded room to reach the cash register at San Francisco-based One65's patisserie.\r\nThere, the co-founder and CEO of Savor watched her company chocolate bonbons get … [+8584 chars]"
     }
   ]
 }
