@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T10:35:42.984Z",
+  "fetchedAt": "2025-10-11T11:04:54.409Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Koebler",
+      "title": "Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’",
+      "description": "Mark Zuckerberg's metaverse chief is urging employees to adopt AI across every workflow as part of a broader shift inside the company.",
+      "url": "https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/",
+      "urlToImage": "https://media.wired.com/photos/68e83d5303215037ef400a32/191:100/w_1280,c_limit/GettyImages-2206406655.jpg",
+      "publishedAt": "2025-10-10T11:00:00Z",
+      "content": "A Meta executive in charge of building the companys metaverse products told employees that they should be using AI to go 5X faster according to an internal message obtained by 404 Media.\r\nMetaverse A… [+2453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China retaliates against U.S. port fees with new charges on American ships",
+      "description": "The move comes a day after China ramped up restrictions on rare earths exports amid ongoing tensions with the U.S.",
+      "url": "https://www.cnbc.com/2025/10/10/china-retaliates-against-us-port-fees-with-charges-on-american-ships.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210425-1760082545598-gettyimages-2239462651-WTO_Lowers_Global_Goods_Trade_Growth_Forecast_for_2026.jpeg?v=1760082563&w=1920&h=1080",
+      "publishedAt": "2025-10-10T10:35:53Z",
+      "content": "BEIJING China on Friday announced that starting Oct. 14, the country will start charging U.S. ships for docking at Chinese ports a direct response to Washington for imposing fees on Chinese vessels a… [+2806 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1134,19 +1160,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1157,6 +1170,19 @@
       "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209810-1759994151411-gettyimages-2239418163-IMF_WORLD_BANK.jpeg?v=1759994561&w=1920&h=1080",
       "publishedAt": "2025-10-09T07:54:32Z",
       "content": "Kristalina Georgieva, managing director of the International Monetary Fund (IMF), during a curtain raiser speech ahead of the International Monetary Fund (IMF) and World Bank Fall meetings at The Mil… [+3344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Hobble your AI agents to prevent them from hurting you too badly",
-      "description": "That's the main takeaway from the Zenity AI Agent Security Summit\nMichael Bargury, CTO of AI security company Zenity, welcomed attendees to the company's AI Agent Security Summit on Wednesday with an unexpected admission.…",
-      "url": "https://www.theregister.com/2025/10/09/zenity_ai_agent_security_summit_recap/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/08/zenity_ai_agent_summit.jpg",
-      "publishedAt": "2025-10-09T07:27:09Z",
-      "content": "Michael Bargury, CTO of AI security company Zenity, welcomed attendees to the company's AI Agent Security Summit on Wednesday with an unexpected admission.\r\n\"This is a new space and we frankly don't … [+4772 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "OpenAI’s affordable ChatGPT Go plan expands to 16 new countries in Asia",
-      "description": "OpenAI is expanding its $5 per month ChatGPT Go plan to 16 more countries.",
-      "url": "https://techcrunch.com/2025/10/09/openais-affordable-chatgpt-go-plan-expands-to-16-new-countries-in-asia/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/ChatGPT-Go_white-background.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-09T07:01:57Z",
-      "content": "OpenAI is rapidly expanding its affordable ChatGPT Go plan, which costs under $5, to 16 new countries across Asia. The subscription tier is now available in Afghanistan, Bangladesh, Bhutan, Brunei Da… [+2853 chars]"
     }
   ]
 }
