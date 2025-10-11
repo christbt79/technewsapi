@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T20:32:19.017Z",
+  "fetchedAt": "2025-10-11T21:07:09.131Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Govini, a defense tech startup taking on Palantir, hits $100 million in annual recurring revenue",
+      "description": "Defense tech startup Govini said it has surpassed $100 million in annual recurring revenue and secured a $150 million investment from Bain Capital.",
+      "url": "https://www.cnbc.com/2025/10/10/defense-tech-govini-palantir-revenue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108128052-1744079576004-gettyimages-1317950512-_r0a0224.jpeg?v=1760117396&w=1920&h=1080",
+      "publishedAt": "2025-10-10T20:55:50Z",
+      "content": "Govini, a defense tech software startup taking on the likes of Palantir, has blown past $100 million in annual recurring revenue, the company announced Friday.\r\n\"We're growing faster than 100% in a t… [+1999 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
       "publishedAt": "2025-10-09T15:17:31Z",
       "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2659 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Knapsack picks up $10M to help bridge the gap between design and engineering teams | TechCrunch",
-      "description": "Knapsack creates a unified workspace that integrates design and coding tools to ensure design and engineering teams are on the same page.",
-      "url": "https://techcrunch.com/2025/10/09/knapsack-picks-up-10m-to-help-bridge-the-gap-between-design-and-engineering-teams/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-856876712.jpg?resize=1200,758",
-      "publishedAt": "2025-10-09T15:16:16Z",
-      "content": "Getting design and engineering teams on the same page about what digital product to create and how to build it continues to be a challenge. \r\nA lot of companies find themselves dealing with scattered… [+3934 chars]"
     }
   ]
 }
