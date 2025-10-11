@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T21:31:21.659Z",
+  "fetchedAt": "2025-10-11T22:07:35.801Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Chinese phishing kit helps scammers who send fake texts impersonate TikTok, Coinbase, others",
+      "description": "Researchers tracking 2,158 domains hosting YYlaiyu phishing pages\nExclusive A Chinese-developed phishing kit hosted on thousands of domains and boasting 97 different brands to make criminals' scams look more believable is driving a surge in financial fraud ar…",
+      "url": "https://www.theregister.com/2025/10/10/chinese_phishing_kit_fraud/",
+      "urlToImage": "https://regmedia.co.uk/2020/10/29/phishing.jpg",
+      "publishedAt": "2025-10-10T22:01:11Z",
+      "content": "Exclusive A Chinese-developed phishing kit hosted on thousands of domains and boasting 97 different brands to make criminals' scams look more believable is driving a surge in financial fraud around t… [+4884 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_1009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-09T15:53:36Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI industry is at a major crossroads\r\nImbue CEO Kanjun Qiu comes on the show to discuss this weeks OpenAI news and whether the AI industry will trend toward … [+4479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Ex-Google CEO Eric Schmidt warns AI models can be hacked: 'They learn how to kill someone'",
-      "description": "\"There's evidence that you can take models ... and you can hack them to remove their guardrails,\" ex-Google CEO Eric Schmidt said.",
-      "url": "https://www.cnbc.com/2025/10/09/ex-google-ceo-warns-ai-models-can-be-hacked-they-learn-how-to-kill.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209855-1760006644269-gettyimages-2223516904-FRANCE_RAISE_SUMMIT.jpeg?v=1760006895&w=1920&h=1080",
-      "publishedAt": "2025-10-09T15:46:55Z",
-      "content": "Google's former CEO Eric Schmidt has issued a stark reminder about the dangers of AI and how susceptible it is to being hacked.\r\nSchmidt, who served as Google's chief executive from 2001 to 2011, war… [+3359 chars]"
     }
   ]
 }
