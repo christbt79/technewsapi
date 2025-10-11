@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T12:14:53.078Z",
+  "fetchedAt": "2025-10-11T12:54:48.636Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "How federal workers became a bargaining chip in the government shutdown",
+      "description": "The government may fire thousands of federal workers during the shutdown, advancing the long-term goals of influential conservatives in Washington.",
+      "url": "https://www.cnbc.com/2025/10/10/why-president-trump-wants-to-fire-federal-workers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108114921-1741797726203-gettyimages-2204111314-US_FEDERAL_WORKERS.jpeg?v=1759853409&w=1920&h=1080",
+      "publishedAt": "2025-10-10T12:24:03Z",
+      "content": "The Trump administration is threatening to lay off thousands of federal workers if the government shutdown continues.\r\nAmid the lapse in congressional appropriations that began Oct. 1, President Dona… [+3077 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1225,19 +1238,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -1248,6 +1248,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Image-1600x901-1.png?quality=90&strip=all&crop=0%2C3.5129669767739%2C100%2C92.974066046452&w=1200",
       "publishedAt": "2025-10-09T09:22:57Z",
       "content": "A screenshot of the Dia browser.\r\n\n\nThe wait(list) is over for The Browser Company’s Dia, its AI-powered follow-up to Arc. If you have a Mac, that is.\n\nThe Browser Company, which was acquired by soft… [+441 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "McKinsey wonders how to sell AI apps with no measurable benefits",
-      "description": "Consultant says software vendors risk hiking prices without cutting costs or boosting productivity Software vendors keen to monetize AI should tread cautiously, since they risk inflating costs for their customers without delivering any promised benefits such …",
-      "url": "https://www.theregister.com/2025/10/09/mckinsey_ai_monetization/",
-      "urlToImage": "https://regmedia.co.uk/2024/11/20/shutterstock_aidissapointment.jpg",
-      "publishedAt": "2025-10-09T08:28:07Z",
-      "content": "Software vendors keen to monetize AI should tread cautiously, since they risk inflating costs for their customers without delivering any promised benefits such as reducing employee head count.\r\nThe l… [+4129 chars]"
     }
   ]
 }
