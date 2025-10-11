@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T18:38:50.417Z",
+  "fetchedAt": "2025-10-11T19:03:25.642Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "President Trump warns of massively increased tariffs in wake of China's rare earth mineral 'monopoly position' — Xi Jinping meeting cancelled as Trump promises retaliation for Beijing's expanded export controls",
+      "description": "President Trump, in a fiery Truth Social post, has just warned China about potential new tarriffs as a response to Beijing's expanded export controls surrounding rare earth minerals. Trump says for every element China monopolizes, America has two, and that ot…",
+      "url": "https://www.tomshardware.com/tech-industry/president-trump-warns-of-massively-increased-tariffs-in-wake-of-chinas-rare-earth-mineral-monopoly-position-xi-jinping-meeting-cancelled-as-trump-promises-retaliation-for-beijings-expanded-export-controls",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b24kvEjwWd9LvM48U3R6bi-2000-80.jpg",
+      "publishedAt": "2025-10-10T18:38:53Z",
+      "content": "Heads of state from the U.S. and China had planned to convene next week in South Korea, amid prolonged and ongoing trade tensions between the two nations. It seems like this meeting is now off the ta… [+3829 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207460-1759493870027-gettyimages-2238549433-TFSPI_02102025-1224.jpeg?v=1759702809&w=1920&h=1080",
       "publishedAt": "2025-10-09T14:57:09Z",
       "content": "OpenAI's short-form artificial intelligence video app Sora hit 1 million downloads less than five days after its launch in late September, according to an executive.\r\nBill Peebles, head of Sora at Op… [+1822 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "AMD could beat Nvidia to launching AI GPUs on the cutting-edge 2nm node — Instinct MI450 is officially the first AMD GPU to launch with TSMC's finest tech",
-      "description": "AMD is set to use TSMC's leading-edge N2 fabrication process for its next-generation CDNA 5-based Instinct MI450 accelerators, but Nvidia's Rubin may have an edge over these GPUs when it comes to brute force compute performance.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-could-beat-nvidia-to-launching-ai-gpus-on-the-cutting-edge-2nm-node-instinct-mi450-is-officially-the-first-amd-gpu-to-launch-with-tsmcs-finest-tech",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qyjUB3huorCFKoESjX7JFS-970-80.png",
-      "publishedAt": "2025-10-09T14:49:35Z",
-      "content": "Compute chiplets of AMD's next-generation Instinct MI450-series accelerators based on the CDNA 5 architecture set to be introduced in the second half of next year will be made on TSMC's N2 (2nm-class… [+3682 chars]"
     }
   ]
 }
