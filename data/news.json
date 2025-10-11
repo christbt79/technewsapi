@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T07:07:23.873Z",
+  "fetchedAt": "2025-10-11T07:31:22.376Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft hypes PCs with NPUs, still can't offer a good reason to buy one",
+      "description": "AI tech not on the hardware compatibility list for now. But future Windows will need it Comment  Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more \"intelligent,\" even though the silicon is not currently on the ha…",
+      "url": "https://www.theregister.com/2025/10/10/microsoft_npu_windows_opinion/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/20/microsoft_npu_concept.jpg",
+      "publishedAt": "2025-10-10T07:28:11Z",
+      "content": "Comment Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more \"intelligent,\" even though the silicon is not currently on the hardware requirements list.\r\nNP… [+5185 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1056,19 +1069,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -1079,6 +1079,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Rana Alsoufi",
+      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
+      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
+      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
+      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209729-1759966309038-gettyimages-2198787070-JAPAN_SKYLINE.jpeg?v=1759966318&w=1920&h=1080",
       "publishedAt": "2025-10-08T23:52:05Z",
       "content": "Asia-Pacific markets were set to open higher Thursday, tracking Wall Street gains as investors shrugged off concerns of an artificial intelligence bubble.\r\nNvidia shares advanced Wednesday stateside … [+1661 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "I never lose my wallet with Nomad’s slim tracker, which is 20 percent off right now",
-      "description": "I used to misplace my wallet all the time, which always led to a mad scramble before leaving the house. I tried remembering to place it on the valet tray next to my keys, but it often wound up somewhere else. That’s why when Nomad launched its Tracking Card, …",
-      "url": "https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&strip=all&crop=0%2C11.554469977437%2C100%2C76.891060045127&w=1200",
-      "publishedAt": "2025-10-08T23:24:53Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nDespite its thin design, the Tracking Card lasts up to five months on a single charge.\r\nDespite its thin design, the Tracking Card lasts up to five months on a s… [+3388 chars]"
     }
   ]
 }
