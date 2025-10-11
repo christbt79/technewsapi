@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-11T14:06:56.679Z",
+  "fetchedAt": "2025-10-11T14:31:46.726Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "5 ways to keep your team's morale up when burnout hits and motivation dips",
+      "description": "If your team's energy is slipping, these simple leadership tips can help bring it back.",
+      "url": "https://www.zdnet.com/article/5-ways-to-keep-your-teams-morale-up-when-burnout-hits-and-motivation-dips/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/39803df1d85e7cdab67006823d893dce813d6d74/2025/10/10/39402946-880c-447c-a8cb-ad141805cf58/gettyimages-1800712941.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T14:28:08Z",
+      "content": "MirageC / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Most organizations struggle with low staff morale.</li><li>Effective business le… [+6390 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Natasha Bernal",
+      "title": "Google Search Could Change Forever in the UK",
+      "description": "New regulation from the UK’s competition authority means Google may be forced to make major changes in the way that people use its search engine.",
+      "url": "https://www.wired.com/story/uk-watchdog-targets-google-search-in-competition-crackdown/",
+      "urlToImage": "https://media.wired.com/photos/68e8e5813a29a338be03a173/191:100/w_1280,c_limit/GettyImages-2210074784.jpg",
+      "publishedAt": "2025-10-10T14:16:09Z",
+      "content": "The decision to formally designate Google with Strategic Market Status is an important step to improving competition in digital markets, argues Rocio Concha, director of policy and advocacy at UK con… [+2533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "How I mastered remote KVM control with this $80 gadget - and it's highly customizable",
+      "description": "Struggling with monitors and mice cluttering your server rack? This device might be the remote-access solution your home lab or NVR setup needs.",
+      "url": "https://www.zdnet.com/home-and-office/networking/how-i-mastered-remote-kvm-control-with-this-80-gadget-and-its-highly-customizable/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e1077d39908e41db680cfda952a8d82df35c38c6/2025/07/28/84877efd-2ba7-437d-a114-2dccd40a7235/main-shot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T14:14:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIt's always a happy day when I find a new gadget, and it's particularly happy when that gadget solves an existing problem or (even better) remov… [+4643 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T11:34:00Z",
       "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple last month announced its new iPhone 17 lineup at the Awe-Dropping Event in Cupertino, California. After y… [+5638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Family offices still bet on AI and health care even as deals slow down",
-      "description": "Investment firms of the ultra-rich made 46% fewer direct investments in September compared with the same period last year, according to Fintrx.",
-      "url": "https://www.cnbc.com/2025/10/09/family-offices-still-bet-on-ai-and-health-care-even-as-deals-slow-down.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071596-1733351938345-gettyimages-2188276591-mms17151_mvkdhn2p.jpeg?v=1736282149&w=1920&h=1080",
-      "publishedAt": "2025-10-09T11:30:01Z",
-      "content": "Jeff Bezos, founder and executive chairman of Amazon and owner of the Washington Post, takes the stage during the New York Times annual DealBook summit at Jazz at Lincoln Center on December 04, 2024 … [+3992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I compared the two best Android smartwatches right now - and here's my winner",
-      "description": "Google's latest Pixel Watch 4 gets several upgrades that keep it competitive with its Android competition.",
-      "url": "https://www.zdnet.com/article/i-compared-the-two-best-android-smartwatches-right-now-and-heres-my-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d5a1e908b62acca832ad72154b321ff6403ce5b7/2025/08/19/2ef38c38-8258-4f6d-aaaf-a714933e3316/made-by-google-pixel-event-2025-photo-71.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T11:21:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Paul Kunert",
-      "title": "Hundreds of millions of business PCs are still on Windows 10 as D-Day nears",
-      "description": "It's the end of support as we know it and users feel fine With days to go before Microsoft finally pulls the plug on Windows 10 support, there are hundreds of millions of computers that have yet to upgrade to Windows 11, despite the best efforts of hardware m…",
-      "url": "https://www.theregister.com/2025/10/09/business_windows_10_eol/",
-      "urlToImage": "https://regmedia.co.uk/2020/11/18/windows.jpg",
-      "publishedAt": "2025-10-09T11:00:36Z",
-      "content": "With days to go before Microsoft finally pulls the plug on Windows 10 support, there are hundreds of millions of computers that have yet to upgrade to Windows 11, despite the best efforts of hardware… [+2738 chars]"
     }
   ]
 }
