@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T04:10:10.205Z",
+  "fetchedAt": "2025-10-11T04:37:39.637Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China blacklists major chip research firm TechInsights following report on Huawei",
+      "description": "Beijing has banned semiconductor researcher TechInsights from working with or receiving data from entities in China.",
+      "url": "https://www.cnbc.com/2025/10/10/china-blacklists-major-chip-ai-research-firm-techinsights-analyzed-report-huawei.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174823-1753140722662-gettyimages-1228097339-huawei2.jpeg?v=1760064414&w=1920&h=1080",
+      "publishedAt": "2025-10-10T04:26:33Z",
+      "content": "Beijing has banned semiconductor research firm TechInsights from working with or receiving data from Chinese entities, in a move that could add to the opaqueness of the country's chip industry. \r\nChi… [+2544 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/03/15/datacenter_ab.jpg",
       "publishedAt": "2025-10-08T23:10:33Z",
       "content": "Rent-a-GPU outfit CoreWeave continued its push into the AI services arena on Wednesday with the introduction of a platform that aims to make reinforcement learning more accessible to enterprise custo… [+2389 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says | TechCrunch",
-      "description": "Even after Stargate, Oracle, Nvidia and AMD, OpenAI has more big deals coming soon, Sam Altman says | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/08/even-after-stargate-oracle-nvidia-and-amd-openai-has-more-big-deals-coming-soon-sam-altman-says/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "publishedAt": "2025-10-08T23:04:14Z",
-      "content": "At nearly the same moment as Nvidia CEO Jensen Huang was expressing surprise over OpenAI’s multibillion-dollar deal with competitor AMD shortly after his company agreed to invest up to $100 billion i… [+3994 chars]"
     }
   ]
 }
