@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-11T18:10:29.321Z",
+  "fetchedAt": "2025-10-11T18:38:50.417Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Intel's 18A production starts before TSMC’s competing N2 tech — here's how the two process nodes compare",
+      "description": "Intel has begun mass production of its Core Ultra 3 'Panther Lake' processors built on 18A node at Fab 52 in Arizona, marking the first large-scale deployment of this advanced process ahead of TSMC’s N2.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intels-18a-production-starts-before-tsmcs-competing-n2-tech-heres-how-the-two-process-nodes-compare",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FonzDcxPvgjCqk9CR2DQvn-2560-80.jpg",
+      "publishedAt": "2025-10-10T18:34:34Z",
+      "content": "Intel has started volume production of its Core Ultra 3-series 'Panther Lake' processors, the company said on Thursday. Intel's Panther Lake is a crucial CPU for the company, designed to demonstrate … [+8646 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "The billion-dollar infrastructure deals powering the AI boom | TechCrunch",
+      "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "url": "https://techcrunch.com/2025/10/10/the-billion-dollar-infrastructure-deals-powering-the-ai-boom/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+      "publishedAt": "2025-10-10T18:23:24Z",
+      "content": "It takes a lot of computing power to run an AI product and as the tech industry races to tap the power of AI models, theres a parallel race underway to build the infrastructure that will power them. … [+7160 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
+      "description": "The launch of OpenAI’s Sora 2 video service kicked off another round of anxiety among content creators in the U.S.",
+      "url": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210376-OpenAI_Hollywood_C_Clean.jpg?v=1760071837&w=1920&h=1080",
+      "publishedAt": "2025-10-10T18:11:35Z",
+      "content": "The launch of OpenAI's updated Sora 2 AI video service kicked off another round of anxiety among musicians, actors and other content creators.\r\nSora allows users to generate short videos for free by … [+928 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/qyjUB3huorCFKoESjX7JFS-970-80.png",
       "publishedAt": "2025-10-09T14:49:35Z",
       "content": "Compute chiplets of AMD's next-generation Instinct MI450-series accelerators based on the CDNA 5 architecture set to be introduced in the second half of next year will be made on TSMC's N2 (2nm-class… [+3682 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Leak details Samsung’s Android XR headset weeks before expected launch",
-      "description": "Samsung is expected to launch its Project Moohan XR headset as soon as this month, but a leak shared by Android Headlines may give us an early look at its specs. The leak suggests that the Android-based headset will offer a 4K micro-OLED display with 4,032 pi…",
-      "url": "https://www.theverge.com/news/797679/samsung-android-xr-project-moohan-leak",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/vpavic_20250122_Untitled_Job_0008.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-09T14:42:07Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSamsungs Project Moohan could offer a 4K micro-OLED display with 4,032 pixels per inch.\r\nSamsungs Project Moohan could offer a 4K micro-OLED display with 4,032 p… [+3100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Intel gives first look at next-gen chips, says Arizona fab is fully operational",
-      "description": "The U.S. government took a 10% stake in the company in August, and Intel has received investments from Nvidia and SoftBank.",
-      "url": "https://www.cnbc.com/2025/10/09/intel-chips-panther-lake-clearwater-forest.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
-      "publishedAt": "2025-10-09T14:18:59Z",
-      "content": "Intel on Thursday announced its new PC chips slated to debut in laptops next year as the chipmaker battles to turn around its struggling business.\r\nThe company said the new Panther Lake processor is … [+1196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "That perfect-looking house for sale may have an owner using AI to virtually enhance the listing",
-      "description": "If a home for sale looks too perfect, that may be because the owner is using AI to virtually enhance the real estate listing.",
-      "url": "https://www.cnbc.com/2025/10/09/homeowners-stage-house-home-for-sale-real-estate-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206725-1759350575203-gettyimages-2237705869-2025-09-19-202.jpeg?v=1759350601&w=1920&h=1080",
-      "publishedAt": "2025-10-09T14:16:25Z",
-      "content": "Matthew Ping, principal broker with Porcupine Real Estate in New Hampshire, recently came across a listing for a property online with a lawn so lush that it caught his eye, prompting him to click thr… [+6113 chars]"
     }
   ]
 }
