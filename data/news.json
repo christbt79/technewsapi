@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T16:08:49.840Z",
+  "fetchedAt": "2025-10-11T16:37:33.842Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Senate says Nvidia chips are for America first as China tightens import controls",
+      "description": "Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught…",
+      "url": "https://www.theregister.com/2025/10/10/nvidia_chips_us_china/",
+      "urlToImage": "https://regmedia.co.uk/2021/03/12/us_china_chips_shutterstock.jpg",
+      "publishedAt": "2025-10-10T16:28:10Z",
+      "content": "The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies… [+3294 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust | TechCrunch",
+      "description": "Instagram chief Adam Mosseri says AI will empower new creators while forcing society to rethink what’s real online as synthetic content grows.",
+      "url": "https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mrbeasts-ai-fears-but-admits-society-will-have-to-adjust/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
+      "publishedAt": "2025-10-10T16:17:08Z",
+      "content": "Instagram head Adam Mosseri said AI will change who can be creative, as the new tools and technology will give people who couldn’t be creators before the ability to produce content at a certain quali… [+4920 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/08/kevork_kechichian_intel_dcg.jpg",
       "publishedAt": "2025-10-09T13:05:08Z",
       "content": "Over the years, Intel has established itself as a paragon of the open source community, but that could soon change under the x86 giant's new leadership.  \r\nSpeaking to press and analysts at Intel's T… [+3784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "86% of businesses use AI for this one surprising task, Deloitte finds",
-      "description": "Despite a lack of ROI elsewhere, AI and humans are working well side-by-side on some tasks - here's how.",
-      "url": "https://www.zdnet.com/article/86-of-businesses-use-ai-for-this-one-surprising-task-deloitte-finds/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/eda2136b3a18124218341ef65efd3a49810ee7eb/2025/10/09/7d8e409c-f51a-40e9-8238-07d98de29a7e/gettyimages-1537332636.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T13:00:34Z",
-      "content": "JARAMA/iStrock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Businesses are using AI for mergers and acquisitions.</li><li>… [+3814 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lauren Goode",
-      "title": "Inside Intel's Hail Mary to Reclaim Chip Dominance",
-      "description": "The struggling American chipmaker is betting that a new plant and fresh product line will help turn around its fortunes.",
-      "url": "https://www.wired.com/story/intel-arizona-fabrication-chips-trump-manufacturing/",
-      "urlToImage": "https://media.wired.com/photos/68e5432d8f7f9fe2c489c3b3/191:100/w_1280,c_limit/Intel-Hail-Mary-Business-JC0_8721.jpg",
-      "publishedAt": "2025-10-09T13:00:00Z",
-      "content": "Everyone who enters the fabs has to wear a bunny suit, and get dressedor be dressedin a clean room. Makeup, hair products, perfumes, colognes, and any aerosol products are prohibited. Workers are sep… [+2617 chars]"
     }
   ]
 }
