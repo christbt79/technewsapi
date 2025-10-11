@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T19:31:07.469Z",
+  "fetchedAt": "2025-10-11T20:08:41.846Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoë Schiffer, Leah Feiger",
+      "title": "WIRED Roundup: Are We In An AI Bubble?",
+      "description": "In this episode of \"Uncanny Valley,\" we talk about one author's journey to flee the US, social media surveillance, chatbots and the world of AI, and conspiracy theories for an autism cure.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/",
+      "urlToImage": "https://media.wired.com/photos/68e81570a68ae1e7a129fd64/191:100/w_1280,c_limit/openai-value-biz-2181653413.jpg",
+      "publishedAt": "2025-10-10T19:50:22Z",
+      "content": "Zoë Schiffer: Our first story this week is about Mark Bray. He is a professor at Rutgers University and he wrote a book almost a decade ago about antifa, and he's currently trying to flee the United … [+2628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Managers are throwing entry-level workers under the bus in race to adopt AI",
+      "description": "Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers ai-pocalypse  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young colle…",
+      "url": "https://www.theregister.com/2025/10/10/ai_is_displacing_entrylevel_professionals/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/11/work_shutterstock.jpg",
+      "publishedAt": "2025-10-10T19:49:20Z",
+      "content": "ai-pocalypse Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young college grads are being hit hardest.\r\nBSI published a rep… [+5437 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2483306579.jpg",
       "publishedAt": "2025-10-09T15:05:31Z",
       "content": "Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that \"it is important that no single company or organization is ov… [+3322 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "India pilots AI chatbot-led e-commerce with ChatGPT, Gemini, Claude in the mix | TechCrunch",
-      "description": "India pilots AI chatbot-led e-commerce with ChatGPT, Gemini, Claude in the mix | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/09/india-pilots-ai-chatbot-led-e-commerce-with-chatgpt-gemini-claude-in-the-mix/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?resize=1200,800",
-      "publishedAt": "2025-10-09T15:03:20Z",
-      "content": "India has kicked off a pilot to let consumers shop and pay directly through AI chatbots, with OpenAI’s ChatGPT leading the rollout and integrations with Google’s Gemini and Anthropic’s Claude in deve… [+4577 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "China moves to extend control over tech industry's critical rare earths",
-      "description": "New laws restrict goods that are manufactured outside of China China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before the…",
-      "url": "https://www.theregister.com/2025/10/09/china_moves_to_extend_control/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2305290875.jpg",
-      "publishedAt": "2025-10-09T15:01:08Z",
-      "content": "China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before they c… [+4431 chars]"
     }
   ]
 }
