@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-11T15:30:47.780Z",
+  "fetchedAt": "2025-10-11T16:08:49.840Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Microsoft cancels Wisconsin data center after community pushback — 244-acre Caledonia site on hold, but Redmond says it remains committed to the region",
+      "description": "Microsoft is canceling its plans to build a data center near the Oak Creek Power Plant after the community rallied against its plans.",
+      "url": "https://www.tomshardware.com/desktops/servers/microsoft-cancels-wisconsin-data-center-after-community-pushback-244-acre-caledonia-site-on-hold-but-redmond-says-it-remains-committed-to-the-region",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AXYhwBq7Tg5WB5Cv9hSfyQ-1024-80.jpg",
+      "publishedAt": "2025-10-10T15:43:06Z",
+      "content": "Microsoft has cancelled its initial plan of building a data center in Caledonia, Wisconsin, after residents and elected officials objected to the plan. According to the Milwaukee Journal Sentinel, Re… [+2676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "I exported my Snapchat Memories to avoid the monthly storage fee - here's how",
+      "description": "Snapchat just capped how many Memories you can store. Here's what it'll cost now - and how to avoid paying for more space.",
+      "url": "https://www.zdnet.com/article/i-exported-my-snapchat-memories-to-avoid-the-monthly-storage-fee-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6e79b99e5a3b7028a2a3980a88de65ae34c33509/2025/10/10/2557bee1-ee43-46cb-a3ef-8cdbc7d4f590/snap-memories.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T15:37:54Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Snapchat now limits free Memories storage to 5GB.</li><li>Paid plans start at $1.99… [+2864 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "You can now connect your Spotify account to ChatGPT. Here’s how to do it",
+      "description": "You can now connect your Spotify account in ChatGPT and it will perform tasks for you, such as creating personalized playlists.",
+      "url": "https://techcrunch.com/2025/10/10/you-can-now-connect-your-spotify-account-to-chatgpt-heres-how-to-do-it/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/spotify-integration.jpg?w=1200",
+      "publishedAt": "2025-10-10T15:31:31Z",
+      "content": "Earlier this week, OpenAI launched a way for developers to build apps within ChatGPT, allowing users to prompt the assistant to perform tasks and answer questions directly related to the participatin… [+3007 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e5432d8f7f9fe2c489c3b3/191:100/w_1280,c_limit/Intel-Hail-Mary-Business-JC0_8721.jpg",
       "publishedAt": "2025-10-09T13:00:00Z",
       "content": "Everyone who enters the fabs has to wear a bunny suit, and get dressedor be dressedin a clean room. Makeup, hair products, perfumes, colognes, and any aerosol products are prohibited. Workers are sep… [+2617 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Owen Hughes",
-      "title": "SoftBank snaps up ABB's robotics biz for $5.4B to fuel 'physical AI' dreams",
-      "description": "Japanese tech goliath gets grabby with industrial automation as ABB shelves spin-off plans\nSoftBank Group has added more arms to its portfolio, this time of the robotic kind.…",
-      "url": "https://www.theregister.com/2025/10/09/softbank_snaps_up_abbs_robotics/",
-      "urlToImage": "https://regmedia.co.uk/2022/06/29/iiot.jpg",
-      "publishedAt": "2025-10-09T12:36:30Z",
-      "content": "SoftBank Group has added more arms to its portfolio, this time of the robotic kind.\r\nThe Japanese tech goliath is pushing ahead in its pursuit of \"artificial super intelligence\" after agreeing to buy… [+2348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "I'm an AI tools expert, and these are the 4 I pay for now (plus 2 I'm eyeing)",
-      "description": "Generative AI can supercharge productivity, but most tools aren't worth it. Here are the one I rely on for coding, design, and creative work.",
-      "url": "https://www.zdnet.com/article/im-an-ai-tools-expert-and-these-are-the-4-i-pay-for-now-plus-2-im-eyeing/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b23b9f43eab116c51821ca4869a7fcf83230bc5e/2025/10/09/cbd816e8-ae5c-4d88-a6bb-87d4115ed721/im-an-ai-tools-expert-and-these-are-the-only-three-i-pay-for-plus-two-im-considering.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T12:36:00Z",
-      "content": "Jorg Greuel / Photodisc / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>AI tools help me work smarter across creative and technical projects.</li><… [+13567 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "China expands rare-earth export controls, creating risks for PC component supply — Beijing tightens grip on materials for HDDs and more to protect national security",
-      "description": "China has expanded its export controls on rare-earth elements, adding new items to a growing list of restricted materials and processing technologies.",
-      "url": "https://www.tomshardware.com/tech-industry/china-expands-rare-earth-export-controls",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyvmQua5dV2BYfE2NozYgL-1920-80.jpg",
-      "publishedAt": "2025-10-09T12:33:28Z",
-      "content": "China has expanded its export controls on rare-earth elements, adding new items to a growing list of restricted materials and processing technologies. The updated rules, which take effect in December… [+3090 chars]"
     }
   ]
 }
