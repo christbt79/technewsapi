@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-11T15:07:02.620Z",
+  "fetchedAt": "2025-10-11T15:30:47.780Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft lets bosses spot teams that are dodging Copilot",
+      "description": "Viva Insights turns AI guzzling into a leaderboard\nMicrosoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.…",
+      "url": "https://www.theregister.com/2025/10/10/microsoft_copilot_viva_insights/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/07/shutterstock_biz_race.jpg",
+      "publishedAt": "2025-10-10T15:30:36Z",
+      "content": "Microsoft is adding Copilot adoption benchmarks to Viva Insights, a tool that lets managers monitor teams to spot those that are gulping down the AI Kool-Aid fastest.\r\nViva Insights is Microsoft's va… [+2433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "China’s new rare-earth curbs target chipmaking industry in retaliation to US restrictions — rare earth curbs reach back to older 14nm process tech and 256-layer memory",
+      "description": "Beijing expands export rules to cover advanced semiconductor uses and foreign goods made with Chinese inputs.",
+      "url": "https://www.tomshardware.com/chinas-new-rare-earth-curbs-hit-14nm-and-256-layer-chipmaking",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/R7GiyAUhM7Lawv67xCop8N-2000-80.jpg",
+      "publishedAt": "2025-10-10T15:23:44Z",
+      "content": "China has quietly extended its rare-earth export controls into the heart of the semiconductor supply chain. Based on machine translation of a new notice published October 9, the Ministry of Commerce … [+2909 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple’s executive reshuffling isn’t over",
+      "description": "Apple is preparing to shuffle executive positions ahead of former COO Jeff Williams’ retirement this year, according to a report from Bloomberg’s Mark Gurman.  Among other changes, Eddy Cue, Apple’s head of services, will reportedly oversee the health and fit…",
+      "url": "https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T15:18:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nEddy Cue is reportedly taking over health and fitness, as chip guru Johnny Srouji is evaluating his future with Apple.\r\nEddy Cue is reportedly taking over health… [+2480 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "ChatGPT Go is just $10 a month - here's who gets it",
+      "description": "The latest subscription tier is now available in 18 countries. This is what it includes.",
+      "url": "https://www.zdnet.com/article/chatgpt-go-is-just-10-a-month-heres-who-gets-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/839a369714b16097bf5b93dbbccdc6164fb2578c/2025/09/29/6d8b293f-34da-48f4-8088-3011a97c178e/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T15:14:36Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI announced a new subscription tier, ChatGPT Go.</li><li>The $10 monthly plan … [+2129 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyvmQua5dV2BYfE2NozYgL-1920-80.jpg",
       "publishedAt": "2025-10-09T12:33:28Z",
       "content": "China has expanded its export controls on rare-earth elements, adding new items to a growing list of restricted materials and processing technologies. The updated rules, which take effect in December… [+3090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Washington's ambition for a 50/50 semiconductor deal with Taiwan is missing a key component — lack of a mature homegrown supply chain could be the missing link",
-      "description": "U.S. Commerce Secretary Howard Lutnick's plan to split leading-edge chip production equally between America and Taiwan seeks greater self-sufficiency and security but lacks clarity, overlooks U.S. industry realities, and remains largely symbolic given global …",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/washingtons-ambition-for-a-50-50-semiconductor-deal-with-taiwan-is-missing-a-key-component-lack-of-a-mature-homegrown-supply-chain-could-be-the-missing-link",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YAQU3zRSbuCHbUYm5L4oD4-1920-80.jpg",
-      "publishedAt": "2025-10-09T12:29:37Z",
-      "content": "Last week, U.S. Commerce Secretary Howard Lutnick attempted to urge Taiwan to agree to a 50% - 50% arrangement, under which chips used in devices for the American market would be produced equally in … [+14022 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Alex Harring",
-      "title": "5 things to know before the stock market opens Thursday",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/09/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209277-1759927200338-Jensen5.jpg?v=1759927281&w=1920&h=1080",
-      "publishedAt": "2025-10-09T12:22:35Z",
-      "content": "This is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are five key things investors need to know to start the trading day:\r\n1. Milestone mania\r\n2. P… [+3336 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "Google ramps up its 'AI in the workplace' ambitions with Gemini Enterprise | TechCrunch",
-      "description": "The new product launched Thursday already has customers, including Gordon Foods, Macquarie Bank, and Virgin Voyages.",
-      "url": "https://techcrunch.com/2025/10/09/google-ramps-up-its-ai-in-the-workplace-ambitions-with-gemini-enterprise/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/gemini-enterprise.jpg?resize=1200,667",
-      "publishedAt": "2025-10-09T12:11:27Z",
-      "content": "Google on Thursday launched a comprehensive AI platform for businesses called Gemini Enterprise, the latest effort by the Alphabet-owned company to compete with Anthropic and OpenAI in the fast-growi… [+3401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google launches Gemini subscriptions to help corporate workers build AI agents",
-      "description": "Google is augmenting its Agentspace product for easily building AI agents at work with new tools for data science and customer engagement.",
-      "url": "https://www.cnbc.com/2025/10/09/google-launches-gemini-enterprise-to-boost-ai-agent-use-at-work.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209783-1759987027007-gettyimages-2209279501-cw1_7703_vcm1yjgr.jpeg?v=1759987093&w=1920&h=1080",
-      "publishedAt": "2025-10-09T12:00:02Z",
-      "content": "Google is taking another shot at selling businesses on artificial intelligence agents by introducing subscriptions featuring agents that perform specific work tasks.\r\nGemini Enterprise targets large … [+2748 chars]"
     }
   ]
 }
