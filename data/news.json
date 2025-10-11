@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-11T13:33:57.254Z",
+  "fetchedAt": "2025-10-11T14:06:56.679Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "China bans research company that helped unearth Huawei's use of TSMC tech despite U.S. bans — TechInsights added to Unreliable Entity List by state authorities",
+      "description": "Beijing has banned TechInsights from doing business with Chinese companies because it has \"defied China's strong objections to engage in activities such as so-called military-technical cooperation with Taiwan, made malicious remarks concerning China, and assi…",
+      "url": "https://www.tomshardware.com/tech-industry/china-bans-research-company-that-helped-unearth-huaweis-use-of-tsmc-tech-despite-u-s-bans-techinsights-added-to-unreliable-entity-list-by-state-authorities",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pxT6ZmtWJuEUxrRahtNvfS-2000-80.jpg",
+      "publishedAt": "2025-10-10T13:55:57Z",
+      "content": "The Ministry of Commerce of the People’s Republic of China just added several prominent Western companies to its Unreliable Entity List, including the research firm TechInsights. This Canada-based co… [+2966 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Maybe it’s real, maybe it’s Sora",
+      "description": "Big week for OpenAI! The company is running basically every tech industry playbook, all at the same time, and it actually seems to be working. The company is adding apps to ChatGPT, in an effort to turn the chatbot into something more like an operating system…",
+      "url": "https://www.theverge.com/podcast/798173/openai-sora-chatgpt-apps-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1010_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T13:44:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: ChatGPT apps, TikTok clones, AI wearables, and everything else OpenAI is up to.\r\nOn The Vergecast: ChatGPT apps, TikTok clones, AI wearables, a… [+2951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Climate goals go up in smoke as US datacenters turn to coal",
+      "description": "High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack\nUS datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…",
+      "url": "https://www.theregister.com/2025/10/10/datacenter_coal_power/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/14/shutterstock_coalpowerstation.jpg",
+      "publishedAt": "2025-10-10T13:44:12Z",
+      "content": "US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.\r\nAccording to a research note from financial … [+3556 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "UK slaps Google Search with special market status, making way for stricter regulations | TechCrunch",
+      "description": "The CMA has designated Google as having \"strategic market status\" in the search and search advertising markets, which means the company has such \"a substantial and entrenched\" position that it requires special regulations to ensure fair competition.",
+      "url": "https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2225230891.jpg?resize=1200,800",
+      "publishedAt": "2025-10-10T13:43:55Z",
+      "content": "The United Kingdom’s Competition and Markets Authority (CMA) on Friday designated Google with a special status in the market for online search that would enable the regulator to enforce stricter regu… [+3252 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "The world is just not quite ready for humanoids yet | TechCrunch",
+      "description": "Famed robotics Rodney Brooks recently sounded the alarm on the amount of money going into humanoid startups. He's not the only skeptic.",
+      "url": "https://techcrunch.com/2025/10/10/the-world-is-just-not-quite-ready-for-humanoids-yet/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800",
+      "publishedAt": "2025-10-10T13:34:10Z",
+      "content": "Famed roboticist and iRobot founder Rodney Brooks has sounded the alarm on a humanoid robot investment bubble. He’s not the only one.\r\nIn a recent essay, Brooks calls out the billions of venture doll… [+5456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster — 4,608 GB300 GPUs linked together to form a single, unified accelerator capable of 1.44 PFLOPS of inference",
+      "description": "Microsoft has just added a GB300 NVL72 supercluster to Azure, deploying a total of 4,608 GB300 GPUs across 64 racks. Each rack consists of 72x GPUs interconnected via NVLink, allowing for 1.44 PFLOPS of FP4 Tensor Core performance. Each rack is then intra-con…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2YFymL3qMNnApYJB7AiCUZ-1280-80.jpg",
+      "publishedAt": "2025-10-10T13:34:04Z",
+      "content": "Microsoft has just upgraded its Azure cloud platform with Nvidia's Blackwell Ultra, deploying what it calls the world's first large-scale GB300 NVL72 supercomputing cluster. This cluster includes sev… [+3453 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2020/11/18/windows.jpg",
       "publishedAt": "2025-10-09T11:00:36Z",
       "content": "With days to go before Microsoft finally pulls the plug on Windows 10 support, there are hundreds of millions of computers that have yet to upgrade to Windows 11, despite the best efforts of hardware… [+2738 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "OneDrive is getting a new Windows app and an AI photo agent",
-      "description": "Microsoft is getting ready to release a new OneDrive app on Windows next year that will include a photo gallery, people view, AI-powered slideshows, and editing features. It’s part of a number of new features coming to OneDrive in the coming months, including…",
-      "url": "https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/chrome_qy5PD2m28o_6bef09.jpg?quality=90&strip=all&crop=0%2C3.371471696079%2C100%2C93.257056607842&w=1200",
-      "publishedAt": "2025-10-09T10:44:54Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is overhauling its OneDrive Windows app with a new gallery view, AI-powered slideshows, and more.\r\nMicrosoft is overhauling its OneDrive Windows app wi… [+3160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Rana Alsoufi",
-      "title": "The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits",
-      "description": "The online trend takes a comedic approach to spreading anti-AI messaging, but some creators are using racist references to make their point.",
-      "url": "https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/",
-      "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "How I download YouTube videos for free - 2 ways, including my favorite",
-      "description": "You can download YouTube videos to watch anytime - even without Premium. Here's how.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/how-i-download-youtube-videos-for-free-2-ways-including-my-favorite/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/86e105e92865d44f548f70bf8f5396278bc767d1/2025/10/08/fb3d13d7-471d-48e7-8650-a7f94fe35158/how-i-download-youtube-videos-for-free-2-ways-including-my-favorite2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>ClipGrab and WinX/MacX are the best free tools for YouTube downloads.</li><li>YouT… [+6425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Sunny Grimm",
-      "title": "RISC-V set to announce 25% market penetration — open-standard ISA is ahead of schedule, securing fast-growing silicon footprint",
-      "description": "RISC-V International will announce that silicon on the ISA has reached 25% market penetration later this month. This outpaces projections set just last year by other research groups like Omdia.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/risc-v-set-to-announce-25-percent-market-penetration-open-standard-isa-is-ahead-of-schedule-securing-fast-growing-silicon-footprint",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cVFksGvo8LTwENWnrQhi99-2000-80.jpg",
-      "publishedAt": "2025-10-09T09:28:52Z",
-      "content": "ARM has some competition in the reduced-complexity chip space, and it's gaining ground quickly. RISC-V International plans to announce that silicon on the open-standard has reached 25% market penetra… [+2981 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "The Browser Company’s Dia is now available on Mac, no invite needed",
-      "description": "The wait(list) is over for The Browser Company’s Dia, its AI-powered follow-up to Arc. If you have a Mac, that is. The Browser Company, which was acquired by software giant Atlassian for $610 million last month, said “Dia is now open to everyone on MacOS.” It…",
-      "url": "https://www.theverge.com/news/797436/dia-browser-available-mac",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Image-1600x901-1.png?quality=90&strip=all&crop=0%2C3.5129669767739%2C100%2C92.974066046452&w=1200",
-      "publishedAt": "2025-10-09T09:22:57Z",
-      "content": "A screenshot of the Dia browser.\r\n\n\nThe wait(list) is over for The Browser Company’s Dia, its AI-powered follow-up to Arc. If you have a Mac, that is.\n\nThe Browser Company, which was acquired by soft… [+441 chars]"
     }
   ]
 }
