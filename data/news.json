@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T17:04:57.980Z",
+  "fetchedAt": "2025-10-11T17:31:36.226Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
+      "description": "The company expanded on its $7 billion lease agreement for artificial intelligence data centers with CoreWeave.",
+      "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210640-1760111093462-gettyimages-2237856798-img_8507.jpeg?v=1760111127&w=1920&h=1080",
+      "publishedAt": "2025-10-10T17:14:38Z",
+      "content": "Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue that was boosted by artificial intelligence data center demand, putting the stock up more than 350% f… [+1799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "U.S. Senate passes bill that forces AI chipmakers to prioritize sales to American companies — House now set to amend or pass legislation",
+      "description": "The Senate just passed the bill forcing Nvidia and AMD to prioritize US orders over exports.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-senate-passes-bill-that-forces-ai-chipmakers-to-prioritize-sales-to-american-companies-house-now-set-to-amend-or-pass-legislation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cjq8PoSfXYyXTkL7EreevJ-1920-80.jpg",
+      "publishedAt": "2025-10-10T17:05:20Z",
+      "content": "The United States Senate has just passed the 'GAIN AI' legislation as part of the National Defense Authorization Act (NDAA), which would require AI chipmakers like Nvidia and AMD to prioritize chip o… [+2478 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c0e34cee0b2b54c898e8cd0d88ba46c645c8a60c/2025/10/09/f0992a7e-a1c4-437a-b839-3c0844e8de44/gettyimages-2207967834.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T14:06:49Z",
       "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new AI model can interact directly with website UIs.</… [+3641 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "How AI is shaping the future of mobility with Uber’s CPO and Nuro’s co-founder at Techcrunch Disrupt 2025",
-      "description": "From ride-hailing at massive global scale to autonomous delivery bots on neighborhood streets, AI is reinventing how people and goods move. Uber Technologies’ Chief Product Officer Sachin Kansal and Nuro Co-Founder Dave Ferguson take the stage to discuss the …",
-      "url": "https://techcrunch.com/2025/10/09/how-ai-is-shaping-the-future-of-mobility-with-ubers-cpo-and-nuros-co-founder-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Ferguson-Kansal-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-09T14:00:00Z",
-      "content": "Artificial intelligence is not just changing how we work its transforming how we move. At TechCrunch Disrupt 2025, happening October 27-29 at San Francisco’s Moscone West, two industry leaders at the… [+2610 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Lauren Feiner",
-      "title": "Google fights to prevent search remedies from inhibiting its AI ambitions",
-      "description": "A court order will require Google to scale back some of its more aggressive tactics to get its search engine in front of as many users as possible, but it’s still fighting to make sure new restrictions won’t limit its AI expansion.  At a hearing in a federal …",
-      "url": "https://www.theverge.com/news/797639/google-search-remedies-doj-gemini-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly__chain_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-09T13:57:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle and the DOJ are hashing out the finer details of the search remedies order.\r\nGoogle and the DOJ are hashing out the finer details of the search remedies o… [+2899 chars]"
     }
   ]
 }
