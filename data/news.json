@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T06:11:40.414Z",
+  "fetchedAt": "2025-10-11T06:42:05.637Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: The rare earths must flow, but only with Beijing’s permission",
+      "description": "Beijing may be signalling its leverage ahead of a potential high-stakes Trump-Xi meeting by tightening control over rare earth exports.",
+      "url": "https://www.cnbc.com/2025/10/10/cnbc-daily-open-the-rare-earths-must-flow-but-only-with-beijings-permission.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173318-1752757488531-gettyimages-1148483593-338739672_1-5.jpeg?v=1760021738&w=1920&h=1080",
+      "publishedAt": "2025-10-10T06:34:44Z",
+      "content": "A dump truck moves raw ore inside the pit at the Mountain Pass mine, operated by MP Materials, in Mountain Pass, California, U.S., on Friday, June 7, 2019.\r\nIn the 1984 science fiction film Dune, Bar… [+3708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "European stocks poised for lackluster open as investors assess Trump-backed Gaza ceasefire deal",
+      "description": "Stocks listed in Europe are heading for a mixed open on Friday.",
+      "url": "https://www.cnbc.com/2025/10/10/europe-markets-oct-10-ftse-100-stoxx-600-israel-gaza-peace-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176891-1753422180178-gettyimages-2211256583-250425_lseg_31.jpeg?v=1758158619&w=1920&h=1080",
+      "publishedAt": "2025-10-10T06:27:10Z",
+      "content": "Stocks listed in Europe look set for a mixed open on Friday, amid tentative signs that a peace deal brokered by U.S. President Donald Trump is taking hold in the Middle East.\r\nFutures tied to London'… [+1512 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Nomad-Tracking-Card.png?quality=90&strip=all&crop=0%2C11.554469977437%2C100%2C76.891060045127&w=1200",
       "publishedAt": "2025-10-08T23:24:53Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nDespite its thin design, the Tracking Card lasts up to five months on a single charge.\r\nDespite its thin design, the Tracking Card lasts up to five months on a s… [+3388 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "SoftBank-owned Graphcore to invest $1.3 billion in India, set up AI research hub in Bengaluru",
-      "description": "SoftBank-owned Graphcore to invest £1 billion in India, launch an AI research hub in Bengaluru, and hire 500 people over the next five years.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-08/softbank-s-graphcore-plans-1-billion-chip-investment-in-india",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/t6buvh/article70141395.ece/alternates/LANDSCAPE_1200/graphcore1.jpg",
-      "publishedAt": "2025-10-08T23:20:21Z",
-      "content": "Graphcore, the British chip designer owned by SoftBank Group Corp., is planning to announce a £1 billion ($1.3 billion) investment package in India that includes a new research hub.\r\nThe announcement… [+2652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "CoreWeave bets on serverless agent builder to woo penny-pinching enterprises",
-      "description": "Because what enterprises really love are vague consumption-based pricing models\nRent-a-GPU outfit CoreWeave continued its push into the AI services arena on Wednesday with the introduction of a platform that aims to make reinforcement learning more accessible…",
-      "url": "https://www.theregister.com/2025/10/08/coreweave_serverless_rl/",
-      "urlToImage": "https://regmedia.co.uk/2022/03/15/datacenter_ab.jpg",
-      "publishedAt": "2025-10-08T23:10:33Z",
-      "content": "Rent-a-GPU outfit CoreWeave continued its push into the AI services arena on Wednesday with the introduction of a platform that aims to make reinforcement learning more accessible to enterprise custo… [+2389 chars]"
     }
   ]
 }
