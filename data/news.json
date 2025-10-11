@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T09:31:30.239Z",
+  "fetchedAt": "2025-10-11T10:08:23.565Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Copilot on Windows can now create Office documents and connect to Gmail",
+      "description": "Microsoft is updating its Copilot app on Windows to allow it to create documents from a chat session and connect to Gmail and Outlook accounts. The updated Copilot app is rolling out initially to all Windows Insiders, ahead of a general release to all Windows…",
+      "url": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T09:47:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can create Word, Excel, and PowerPoint files from the Copilot chat interface.\r\nYou can create Word, Excel, and PowerPoint files from the Copilot chat interfa… [+2668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google search comes under renewed scrutiny in UK as competition watchdog flexes new powers",
+      "description": "Britain's competition regulator activated new powers to regulate Google's search activities, putting the tech giant in the firing line for further regulation.",
+      "url": "https://www.cnbc.com/2025/10/10/uks-cma-activates-new-powers-to-regulate-google-search.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199151-1758008394340-gettyimages-2210075113-VukValcicGoogleHQ170425_3.jpeg?v=1760088060&w=1920&h=1080",
+      "publishedAt": "2025-10-10T09:35:33Z",
+      "content": "LONDON Britain's competition regulator on Friday activated new powers to regulate Google's search activities, putting the U.S. tech giant in the firing line for further regulatory action.\r\nThe Compet… [+1319 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454335/DSCF7811.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-09T03:04:11Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre a great alternative to the newer, pricier XM6.\r\nTheyre a great alternative to the newer, pricier XM6.\r\nby\r\nBrandon RussellClose\r\nBrandon Russell\r\nPosts fr… [+2997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: The Fed spoke, but AI roared",
-      "description": "AI stocks such as Nvidia are now masters of the market narrative, driving record highs across the S&P 500 and Nasdaq.",
-      "url": "https://www.cnbc.com/2025/10/09/cnbc-daily-open-the-fed-spoke-but-ai-roared.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200211-1758135300569-gettyimages-2235974290-_s010691_gnjmxvpd.jpeg?v=1758738774&w=1920&h=1080",
-      "publishedAt": "2025-10-09T01:11:15Z",
-      "content": "Federal Reserve Chair Jerome Powell takes questions from reporters during a news conference following a two-day meeting of the Federal Open Market Committee at the Federal Reserve on Sept. 17, 2025 i… [+3348 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to open higher, tracking Wall Street gains as tech rally continues",
-      "description": "The S&P 500 and Nasdaq Composite scored new intraday and closing highs Wednesday stateside.",
-      "url": "https://www.cnbc.com/2025/10/09/asia-pacific-markets-thursday-october-9-nikkei-225-asx-ai-buble-tech.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209729-1759966309038-gettyimages-2198787070-JAPAN_SKYLINE.jpeg?v=1759966318&w=1920&h=1080",
-      "publishedAt": "2025-10-08T23:52:05Z",
-      "content": "Asia-Pacific markets were set to open higher Thursday, tracking Wall Street gains as investors shrugged off concerns of an artificial intelligence bubble.\r\nNvidia shares advanced Wednesday stateside … [+1661 chars]"
     }
   ]
 }
