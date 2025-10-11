@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T16:37:33.842Z",
+  "fetchedAt": "2025-10-11T17:04:57.980Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "SoftBank is seeking $5 billion loan to invest in OpenAI, plans to use Arm shares as collateral — rapid AI expansion continues, investment could top $30 billion",
+      "description": "SoftBank is securing a $5 billion loan backed by Arm shares to expand its OpenAI and AI infrastructure investments, raising total Arm-collateralized debt to $18.5 billion and further highlighting its leveraged AI expansion strategy.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-is-seeking-usd5-billion-loan-to-invest-in-openai-plans-to-use-arm-shares-as-collateral-rapid-ai-expansion-continues-investment-could-top-usd30-billion",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3GS89WEqgsTxq2rNHfF2bL-2000-80.jpg",
+      "publishedAt": "2025-10-10T16:51:36Z",
+      "content": "SoftBank is arranging a new $5 billion margin loan to invest in OpenAI and use its shares in Arm Holdings as collateral, reports Bloomberg. The move will enable the company to increase its stake in O… [+2634 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Best iPad apps for unleashing and exploring your creativity",
+      "description": "If you have an iPad and want to start using it to unleash and express your creativity, there are a number of apps that can help you do so.",
+      "url": "https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1454243032.jpg?resize=1200,800",
+      "publishedAt": "2025-10-10T16:50:44Z",
+      "content": "There are a number of iPad apps that can help you explore and express your creativity. Although the iPad started off as a simple device that could be used to stream content or browse the web on the g… [+6416 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK452_Google_Antitrust__Monopoly__chain_Kristen_Radtke.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-09T13:57:14Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle and the DOJ are hashing out the finer details of the search remedies order.\r\nGoogle and the DOJ are hashing out the finer details of the search remedies o… [+2899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Clearview AI sees red as UK tribunal sides with regulator over $10M GDPR fine",
-      "description": "Court says ICO can chase US outfit for unlawfully hoovering up Brits' selfies\nThe UK General Regulatory Chamber's Upper Tribunal (UT) has ruled in favor of the Information Commissioner's Office (ICO), which appealed against a 2023 decision that it could not f…",
-      "url": "https://www.theregister.com/2025/10/09/ico_clearview_ai_tribunal/",
-      "urlToImage": "https://regmedia.co.uk/2021/04/13/clearview.jpg",
-      "publishedAt": "2025-10-09T13:42:08Z",
-      "content": "The UK General Regulatory Chamber's Upper Tribunal (UT) has ruled in favor of the Information Commissioner's Office (ICO), which appealed against a 2023 decision that it could not fine Clearview AI o… [+4522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Intel's open source future in question as exec says he's done carrying the competition",
-      "description": "Kevork Kechichian says x86 giant's contributions should benefit Intel first Over the years, Intel has established itself as a paragon of the open source community, but that could soon change under the x86 giant's new leadership.  …",
-      "url": "https://www.theregister.com/2025/10/09/intel_open_source_commitment/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/08/kevork_kechichian_intel_dcg.jpg",
-      "publishedAt": "2025-10-09T13:05:08Z",
-      "content": "Over the years, Intel has established itself as a paragon of the open source community, but that could soon change under the x86 giant's new leadership.  \r\nSpeaking to press and analysts at Intel's T… [+3784 chars]"
     }
   ]
 }
