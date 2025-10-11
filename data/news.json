@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-11T14:31:46.726Z",
+  "fetchedAt": "2025-10-11T15:07:02.620Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "I tested all of ChatGPT's new app integrations - here are the ones actually worth your time",
+      "description": "The future of ChatGPT with Spotify, Canva, and more shows promise, but there are still kinks to work out.",
+      "url": "https://www.zdnet.com/article/i-tested-all-of-chatgpts-new-app-integrations-here-are-the-ones-actually-worth-your-time/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/df8c784763248efd9edebf1b4944990b0c82803a/2025/07/07/4bf2b9ad-51a3-4145-bef8-2334bc66b034/chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T15:01:20Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI launched ChatGPT Apps earlier this week. </li><li>You can connect to apps li… [+9136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "At-risk teens and AI chatbot crisis: 'You need to know what's going on,' warns Talkspace CEO",
+      "description": "Jon Cohen, CEO of Talkspace, which provides online mental health to teens, says everyone should be worried about at-risk youth turning to large language models.",
+      "url": "https://www.cnbc.com/2025/10/10/talkspace-online-therapy-therapists-mental-health.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209532-1759948235731-2025_10_07_WEC_834.jpg?v=1759948750&w=1920&h=1080",
+      "publishedAt": "2025-10-10T14:45:42Z",
+      "content": "Talkspace has grown to be one of the largest online therapy platforms in the U.S., covering an estimated market of 200 million Americans. As the mental health platform has grown, it has also pioneere… [+7389 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Former UK Prime Minister Rishi Sunak to advise Microsoft and Anthropic  | TechCrunch",
+      "description": "Former Conservative PM Rishi Sunak served from 2022 to 2024. Britain's Acoba flagged concerns of granting \"unfair access\" to Anthropic and Microsoft.",
+      "url": "https://techcrunch.com/2025/10/10/former-uk-prime-minister-rishi-sunak-to-advise-microsoft-and-anthropic/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Rishi-Sunak.jpg?w=799",
+      "publishedAt": "2025-10-10T14:40:06Z",
+      "content": "Rishi Sunak, who served as the United Kingdom’s prime minister from 2022 to 2024, has taken on senior advisory roles as Microsoft and Anthropic, The Guardian reports.  \r\nLetters from the Parliaments … [+1925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Finally, wireless earbuds that can easily replace my Bose and Sony for all-day listening",
+      "description": "If you haven't heard of this NYC-based audio brand, you'll be as surprised as I was by its latest pair of earbuds.",
+      "url": "https://www.zdnet.com/article/finally-wireless-earbuds-that-can-easily-replace-my-bose-and-sony-for-all-day-listening/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fc05a82351c402243e212be78d4de5b251b10f17/2025/09/16/c3fddc0e-7916-4f11-b116-0002166ef0c8/prox1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T14:40:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've tested so many headphones and earbuds these days that it's getting harder and harder to tell them apart. But I've never tested a pair quite… [+5007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I compared the best smartwatches by Google and Samsung - here's how Pixel wins out",
+      "description": "Google's latest Pixel Watch 4 gets several upgrades that keep it competitive with its Android competition.",
+      "url": "https://www.zdnet.com/article/i-compared-the-best-smartwatches-by-google-and-samsung-heres-how-pixel-wins-out/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7e08ca6404b1b15d354ddda168da5242b49ea646/2025/08/15/e77029ef-de74-43bc-821c-e76dda6c052d/dsc06850.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T14:36:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209783-1759987027007-gettyimages-2209279501-cw1_7703_vcm1yjgr.jpeg?v=1759987093&w=1920&h=1080",
       "publishedAt": "2025-10-09T12:00:02Z",
       "content": "Google is taking another shot at selling businesses on artificial intelligence agents by introducing subscriptions featuring agents that perform specific work tasks.\r\nGemini Enterprise targets large … [+2748 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "DC Comics won’t support generative AI: ‘not now, not ever’",
-      "description": "DC Comics president and publisher Jim Lee said that the company “will not support AI-generated storytelling or artwork,” assuring fans that its future will remain rooted in human creativity. “Not now, not ever, as long as [SVP, general manager] Anne DePies an…",
-      "url": "https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK326267.jpg?quality=90&strip=all&crop=0%2C10.354857475276%2C100%2C79.290285049447&w=1200",
-      "publishedAt": "2025-10-09T11:54:29Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPresident Jim Lee says that fans value authentic human creativity in storytelling and artwork.\r\nPresident Jim Lee says that fans value authentic human creativity… [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "‘Focus on value creation; the stock market will settle itself,’ says Snowflake CEO amid bubble fears",
-      "description": "Snowflake CEO Sridhar Ramaswamy said his company is focused on working on adding value as talk of an AI bubble mounts.",
-      "url": "https://www.cnbc.com/2025/10/09/focus-on-value-the-stock-market-will-settle-itself-says-snowflake-ceo-amid-bubble-fears-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206045-1759265547118-Snowflake-CB-Photo-20250930-KK-PRESS-029.jpg?v=1759265883&w=1920&h=1080",
-      "publishedAt": "2025-10-09T11:54:05Z",
-      "content": "The CEO of AI data firm Snowflake isn't letting the stock market distract him from ambitions to become \"one of the great technology companies in this world,\" he told CNBC.\r\nThe company a cloud data s… [+3281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Bank of England, IMF, warn AI bubble risk has shades of 2000 dotcom crash — Goldman Sachs cautions we're not there 'yet'",
-      "description": "Major banking institutions are starting to warn of an impending market correction for AI companies and their stock prices. Although not all agree when it'll happen, most suggest it is coming as the major industry players continue to invest in each other, driv…",
-      "url": "https://www.tomshardware.com/tech-industry/bank-of-england-imf-warn-ai-bubble-risk-has-shades-of-2000-dotcom-crash-goldman-sachs-cautions-were-not-there-yet",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/NLpDMVuTFGS9Tg7ZddiU67-1600-80.jpg",
-      "publishedAt": "2025-10-09T11:51:11Z",
-      "content": "Major banking institutions can't agree on whether the AI industry is already a bubble or if we're not quite there yet. Both the Bank of England (BOE) and International Monetary Fund (IMF) issued warn… [+3363 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "U.S. finally grants Nvidia license to ship AI GPUs to UAE: 500,000 Blackwell GPUs coming to the Gulf region",
-      "description": "The U.S. has approved tens of billions worth of Nvidia AI hardware exports to the UAE under a new bilateral agreement linking up to 500,000 GPU shipments per year with $1.4 trillion in Emirati investment, in the U.S.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-finally-grants-nvidia-license-to-ship-ai-gpus-to-uae-500-000-blackwell-gpus-coming-to-the-gulf-region",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JnFgj2Y4HeKmY254WXX9N7-1920-80.jpg",
-      "publishedAt": "2025-10-09T11:37:48Z",
-      "content": "The U.S. government has finally granted Nvidia an export license to ship tens of billions of dollars' worth of leading-edge AI GPUs to the United Arab Emirates, initiating the first stage of a large … [+3165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Apple iPhone 17 Pro Max vs. Samsung Galaxy S25 Ultra: I tested both flagships, and here's who wins",
-      "description": "Which flagship phone should you buy in 2025? Here's how Apple and Samsung's $1,000-plus models stack up.",
-      "url": "https://www.zdnet.com/article/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-tested-both-flagships-and-heres-who-wins/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T11:34:00Z",
-      "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple last month announced its new iPhone 17 lineup at the Awe-Dropping Event in Cupertino, California. After y… [+5638 chars]"
     }
   ]
 }
