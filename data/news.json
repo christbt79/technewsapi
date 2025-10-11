@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-11T10:08:23.565Z",
+  "fetchedAt": "2025-10-11T10:35:42.984Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "‘Tron: Ares’ Wants to Gaslight You About the Future of AI",
+      "description": "The latest film in the “Tron” franchise seems to have not learned any lessons from sci-fi movies past—or from current reality.",
+      "url": "https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/",
+      "urlToImage": "https://media.wired.com/photos/68e54fb5710268531c9b34b2/191:100/w_1280,c_limit/Tron-Ares-Would-Like-to-Gaslight-You-About-Future-of-AI-Culture-T3-07576_R2.jpg",
+      "publishedAt": "2025-10-10T10:30:00Z",
+      "content": "Ares, named after the Greek god of war, was built to be an AI super-soldier. Then he found out about Frankenstein, started listening to Depeche Mode, and realized the tech bro who made him might be a… [+2584 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Inside the boardroom drama that is shaking up one India's most powerful business empire",
+      "description": "A power struggle looks to be brewing inside Tata, which also owns iconic brands including Taj Hotels, Jaguar Land Rover and Tetley Tea.",
+      "url": "https://www.cnbc.com/2025/10/10/inside-the-boardroom-drama-that-is-shaking-up-tatas-business-empire.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210440-1760090278573-gettyimages-2203897918-INDIA_TCS.jpeg?v=1760090377&w=1920&h=1080",
+      "publishedAt": "2025-10-10T10:23:36Z",
+      "content": "A dispute in the boardroom of Tata Trusts has shaken the Indian corporate world and its tremors have reached Delhi.\r\nTata Trusts is the philanthropic body that controls 66% of Tata Sons  the holding … [+7244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Qualcomm shares fall after China opens antitrust probe into the U.S. chip giant",
+      "description": "Qualcomm has a big business in China selling its smartphone chips to some of the biggest players in the country such as Xiaomi.",
+      "url": "https://www.cnbc.com/2025/10/10/qualcomm-shares-today-after-china-opens-antitrust-probe.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178363-1753794609661-gettyimages-1251437334-porzycki-microchi230410_npEgg.jpeg?v=1760090690&w=1920&h=1080",
+      "publishedAt": "2025-10-10T10:21:41Z",
+      "content": "Qualcomm shares fell on Friday after Chinese regulators said it would investigate the American tech giant's acquisition of chip firm Autotalks, ramping up tensions between the U.S. and China ahead of… [+1488 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/ChatGPT-Go_white-background.jpeg?resize=1200,675",
       "publishedAt": "2025-10-09T07:01:57Z",
       "content": "OpenAI is rapidly expanding its affordable ChatGPT Go plan, which costs under $5, to 16 new countries across Asia. The subscription tier is now available in Afghanistan, Bangladesh, Bhutan, Brunei Da… [+2853 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: It's AI's world and the Fed's just living in it",
-      "description": "AI stocks such as Nvidia are now masters of the market narrative, driving record highs across the S&P 500 and Nasdaq.",
-      "url": "https://www.cnbc.com/2025/10/09/cnbc-daily-open-its-ais-world-and-the-feds-just-living-in-it.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200211-1758135300569-gettyimages-2235974290-_s010691_gnjmxvpd.jpeg?v=1758738774&w=1920&h=1080",
-      "publishedAt": "2025-10-09T06:30:01Z",
-      "content": "Traders work, as a screen broadcasts a news conference by U.S. Federal Reserve Chair Jerome Powell following the Fed rate announcement, on the floor of the New York Stock Exchange (NYSE) in New York … [+3285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "European markets set to open in negative territory as traders assess France news",
-      "description": "European stocks are set to open in negative territory on Thursday with all eyes on France after President Emmanuel Macron's office said he will pick a new PM.",
-      "url": "https://www.cnbc.com/2025/10/09/european-markets-on-oct-9-stoxx-600-cac-dax-ftse-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202362-1758568731861-gettyimages-2236304161-AFP_76EL8D8.jpeg?v=1758568784&w=1920&h=1080",
-      "publishedAt": "2025-10-09T05:29:09Z",
-      "content": "LONDON European stocks are expected to open in negative territory on Thursday, with all eyes on France again after President Emmanuel Macron's office said he will pick a new prime minister in the nex… [+2087 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "Sony’s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off",
-      "description": "While the WH-1000XM6 are the top dog in Sony’s lineup, the discount for Prime Big Deal Days is relatively modest at just $21 off. If you don’t need the latest tech, though, you can save a lot more by grabbing the last-gen WH-1000XM5 in black, which are down t…",
-      "url": "https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23454335/DSCF7811.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-09T03:04:11Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyre a great alternative to the newer, pricier XM6.\r\nTheyre a great alternative to the newer, pricier XM6.\r\nby\r\nBrandon RussellClose\r\nBrandon Russell\r\nPosts fr… [+2997 chars]"
     }
   ]
 }
