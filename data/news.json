@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T17:31:36.226Z",
+  "fetchedAt": "2025-10-11T18:10:29.321Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "The underdog AI startups on a16z's top 50 list",
+      "description": "The VC firm's first-ever AI Application Spending Report reveals illuminating trends about which kinds of AI tools are winning the AI race.",
+      "url": "https://www.zdnet.com/article/the-underdog-ai-startups-on-a16zs-top-50-list/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c2df02b4093fb34a2f00ff8220215bded82d4598/2025/10/09/9c9f626b-8c9d-4bfa-bdf7-5a7f3624e784/gettyimages-2159107141.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T18:03:17Z",
+      "content": "twomeows/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI and Anthropic, predictably, are getting the most money.</li><li>Four vib… [+6956 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Prezent raises $30 million to acquire AI services firms -- starting with founder's other company | TechCrunch",
+      "description": "Months after raising $20 million, enterprise-focused AI presentation startup Prezent is raising $30 million for acquisitions.",
+      "url": "https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/prezent_slide-library_laptop@2x.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-10T17:40:31Z",
+      "content": "Prezent, a startup that offers an AI-powered presentation builder to enterprises, said today that it has raised $30 million in funding led by Multiplier Capital, Greycroft, and Nomura Strategic Ventu… [+4132 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206725-1759350575203-gettyimages-2237705869-2025-09-19-202.jpeg?v=1759350601&w=1920&h=1080",
       "publishedAt": "2025-10-09T14:16:25Z",
       "content": "Matthew Ping, principal broker with Porcupine Real Estate in New Hampshire, recently came across a listing for a property online with a lawn so lush that it caught his eye, prompting him to click thr… [+6113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Windows 11 gets a fresh Start in latest Canary build",
-      "description": "Meanwhile, Microsoft resurrects Edit and kills .NET 3.5 SP1 on demand\nIt's taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand,…",
-      "url": "https://www.theregister.com/2025/10/09/windows_11_canary_build/",
-      "urlToImage": "https://regmedia.co.uk/2025/05/20/vulture.png",
-      "publishedAt": "2025-10-09T14:15:11Z",
-      "content": "It's taken a while, but Microsoft has finally made its redesigned Start menu available to Canary Channel Windows Insiders, while also removing .NET Framework 3.5 SP1 as a Feature On Demand, and addin… [+2179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Google's new Gemini 2.5 Computer Use model can click, type, and scroll",
-      "description": "Now available in public preview, the new model is another step toward AI that can operate across web environments with minimal human oversight.",
-      "url": "https://www.zdnet.com/article/googles-new-gemini-2-5-computer-use-model-can-click-type-and-scroll/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c0e34cee0b2b54c898e8cd0d88ba46c645c8a60c/2025/10/09/f0992a7e-a1c4-437a-b839-3c0844e8de44/gettyimages-2207967834.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T14:06:49Z",
-      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new AI model can interact directly with website UIs.</… [+3641 chars]"
     }
   ]
 }
