@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-11T21:07:09.131Z",
+  "fetchedAt": "2025-10-11T21:31:21.659Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "OpenAI allegedly sent police to an AI regulation advocate’s door",
+      "description": "Will OpenAI send police to your door if you advocate for AI regulation?  Nathan Calvin, a lawyer who shapes policies surrounding the technology at Encode AI, claims OpenAI did just that. “One Tuesday night, as my wife and I sat down for dinner, a sheriff’s de…",
+      "url": "https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T21:31:05Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI giant reportedly asked the advocate to turn over a trove of personal messages. \r\nThe AI giant reportedly asked the advocate to turn over a trove of person… [+3632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Tech megacaps lose $770 billion in value as Nasdaq suffers steepest drop since April",
+      "description": "Nvidia dropped almost 5%, pacing a steep decline in tech stocks, after President Trump threatened more tariffs on China.",
+      "url": "https://www.cnbc.com/2025/10/10/tech-megacaps-market-cap-mag-7.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200522-1758187156935-gettyimages-2235458143-boivin-notitle250917_npZhw.jpeg?v=1760081677&w=1920&h=1080",
+      "publishedAt": "2025-10-10T21:22:15Z",
+      "content": "Shares of Amazon, Nvidia and Tesla each dropped around 5% on Friday, as tech's megacaps lost $770 billion in market cap, following President Donald Trump's threats for increased tariffs on Chinese go… [+2441 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Hollywood has no idea what to do about AI",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. This week, I got an up-close look at how far apart Silicon Valley and Hollywood are on what to do about AI. First,…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS512_OSCARS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T21:15:21Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI is speedrunning the entertainment industry.\r\nOpenAI is speedrunning the entertainment industry.\r\nby\r\nAlex HeathClose\r\nAlex Heath\r\nSources author, Verge co… [+4711 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209855-1760006644269-gettyimages-2223516904-FRANCE_RAISE_SUMMIT.jpeg?v=1760006895&w=1920&h=1080",
       "publishedAt": "2025-10-09T15:46:55Z",
       "content": "Google's former CEO Eric Schmidt has issued a stark reminder about the dangers of AI and how susceptible it is to being hacked.\r\nSchmidt, who served as Google's chief executive from 2001 to 2011, war… [+3359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Gartner warns agentic AI startups: Prepare to be consolidated",
-      "description": "Analyst predicts over-supply will trigger a market correction in favor of deep-pocketed incumbents\nGartner has signaled that the supply of \"agentic AI\" in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to co…",
-      "url": "https://www.theregister.com/2025/10/09/gartner_agentic_ai_correction/",
-      "urlToImage": "https://regmedia.co.uk/2017/07/13/robot_workers_photo_via_shutterstock.jpg",
-      "publishedAt": "2025-10-09T15:33:11Z",
-      "content": "Gartner has signaled that the supply of \"agentic AI\" in terms of models, platforms, and products far outstrips demand, creating a situation that will lead to consolidation and market correction.\r\nThe… [+2326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I tested this Oura Ring 4 rival that's functions similarly but at half the price (and no subscriptions)",
-      "description": "The budget-friendly RingConn Gen 2 Air delivers impressive health-tracking features that compete with top-tier rivals.",
-      "url": "https://www.zdnet.com/article/i-tested-this-oura-ring-4-rival-thats-functions-similarly-but-at-half-the-price-and-no-subscriptions/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/45a6ee92adacef3d19ba4e3549d0a1b84ca50f05/2025/02/11/e907420c-f0f5-4428-a76f-7d78cdd0a76e/img-4655.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T15:21:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nSmart rings are rising in popularity, but the big names -- the Ouras, Samsungs, and Ultrahumans -- can run $300 to $400. That's not counting the… [+7450 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sora hit 1M downloads faster than ChatGPT",
-      "description": "This level of consumer adoption is worth noting because Sora remains an invite-only app, while ChatGPT was more publicly available at launch. That makes Sora's performance more impressive.",
-      "url": "https://techcrunch.com/2025/10/09/sora-hit-1m-downloads-faster-than-chatgpt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-09T15:17:31Z",
-      "content": "After OpenAI’s video-generating app Sora surged to the No. 1 position on the U.S. App Store, it has now, technically, experienced a bigger first week than ChatGPT on iOS, according to new data from a… [+2659 chars]"
     }
   ]
 }
