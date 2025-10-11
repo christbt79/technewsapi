@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-11T20:08:41.846Z",
+  "fetchedAt": "2025-10-11T20:32:19.017Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "OpenAI GPT-5: great taste, less filling, now with 30% less bias",
+      "description": "AI model maker touts effort to depoliticize its product\nOpenAI says GPT-5 has 30 percent less political bias than its prior AI models.…",
+      "url": "https://www.theregister.com/2025/10/10/openai_gpt5_bias/",
+      "urlToImage": "https://regmedia.co.uk/2022/10/05/justice_shutterstock.jpg",
+      "publishedAt": "2025-10-10T20:20:11Z",
+      "content": "OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.\r\nThat's a difficult claim to assess, given that AI model bias has been an issue since machine learning became a thing, a… [+3468 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "Why Deloitte is betting big on AI despite a $10M refund | TechCrunch",
+      "description": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employees. On the very same day, the Australian government forced D…",
+      "url": "https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2169550517.jpg?w=1024",
+      "publishedAt": "2025-10-10T20:13:36Z",
+      "content": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employe… [+949 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "OpenAI is trying to clamp down on ‘bias’ in ChatGPT",
+      "description": "“ChatGPT shouldn’t have political bias in any direction,” OpenAI wrote in a post on Thursday. The latest GPT-5 models come the closest to achieving that objective goal, according to results from an internal company “stress-test” of ChatGPT’s responses to divi…",
+      "url": "https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T20:11:18Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter evaluating it with hundreds of leading questions, the company claims GPT-5 is the least biased model yet.\r\nAfter evaluating it with hundreds of leading que… [+5323 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-856876712.jpg?resize=1200,758",
       "publishedAt": "2025-10-09T15:16:16Z",
       "content": "Getting design and engineering teams on the same page about what digital product to create and how to build it continues to be a challenge. \r\nA lot of companies find themselves dealing with scattered… [+3934 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "This distributed data storage startup wants to take on Big Cloud | TechCrunch",
-      "description": "Tigris has raised $25 million to expand its growing network of localized data storage centers — the storage layer for decentralized computing infrastructure.",
-      "url": "https://techcrunch.com/2025/10/09/this-distributed-data-storage-startup-wants-to-take-on-big-cloud/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TigrisFounders0012.jpg?resize=1200,800",
-      "publishedAt": "2025-10-09T15:15:59Z",
-      "content": "The explosion of AI companies has pushed demand for computing power to new extremes, and companies like CoreWeave, Together AI and Lambda Labs have capitalized on that demand, attracting immense amou… [+4308 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Owen Hughes",
-      "title": "Humans flunk the Turing test for voices as bots get chattier",
-      "description": "Coin toss odds for spotting a deepfake, study finds. And that's before the machines learn to sing\nThink you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. …",
-      "url": "https://www.theregister.com/2025/10/09/voice_clone_detection_study/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2534604055.jpg",
-      "publishedAt": "2025-10-09T15:15:13Z",
-      "content": "Think you can distinguish between a human voice and a robot? Think again, because the numbers are starting to say otherwise. \r\nResearchers at Queen Mary University of London and University College Lo… [+2908 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "Meta will move React to Linux Foundation to address vendor dominance fears",
-      "description": "Independent technical governance will hope to unite fractured ecosystem Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that \"it is important that no single company or organi…",
-      "url": "https://www.theregister.com/2025/10/09/meta_react_foundation/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2483306579.jpg",
-      "publishedAt": "2025-10-09T15:05:31Z",
-      "content": "Meta will contribute React, React Native, and JSX (JavaScript XML) to a new React Foundation, part of the Linux Foundation, and said that \"it is important that no single company or organization is ov… [+3322 chars]"
     }
   ]
 }
