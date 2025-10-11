@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-11T11:31:23.572Z",
+  "fetchedAt": "2025-10-11T12:14:53.078Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "UK slaps 'strategic market status' on Google, unlocking power to pry open search",
+      "description": "Competition watchdog can now meddle in how the tech giant runs the biggest wing of its organization\nThe UK's competition watchdog has officially slapped Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to r…",
+      "url": "https://www.theregister.com/2025/10/10/cma_google_strategic_status/",
+      "urlToImage": "https://regmedia.co.uk/2017/03/27/search_shutterstock.jpg",
+      "publishedAt": "2025-10-10T12:08:41Z",
+      "content": "The UK's competition watchdog has officially slapped Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to rein in how the search giant runs its emp… [+2780 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "China issues port crackdown on all Nvidia AI chip imports, says report — enforcement teams deployed to quash smuggling and investigate data center hardware, targeting H20 and RTX 6000D shipments",
+      "description": "Chinese customs authorities have launched a sweeping crackdown on unlicensed Nvidia chip shipments, with enforcement teams deploying at major ports to inspect hardware shipments.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/china-launches-port-crackdown-on-nvidia-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/687RM9xKv6bnEQhqKspsDT-1280-80.jpg",
+      "publishedAt": "2025-10-10T11:56:53Z",
+      "content": "Chinese customs authorities have launched a sweeping crackdown on Nvidia chip shipments, according to reporting by The Financial Timespublished October 9. The report says enforcement teams have been … [+2677 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1199,19 +1225,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
-      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
-      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
-      "publishedAt": "2025-10-09T10:00:00Z",
-      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1222,6 +1235,19 @@
       "urlToImage": "https://media.wired.com/photos/68e0386324bca0f477533aea/191:100/w_1280,c_limit/culture_robot_slur_clanker_925167526.jpg",
       "publishedAt": "2025-10-09T10:00:00Z",
       "content": "In July, just after receiving an email pitch about the perfect AI girlfriend, content creator Harrison Stewart made a TikTok skit using the anti-AI slur clanker.\r\nPretending to be a disapproving fath… [+2059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AI adoption far outpaces that of the early Internet — report sheds light on worldwide AI penetration and usage patterns",
+      "description": "A Financial Times report sheds light on worldwide AI penetration and usage patterns",
+      "url": "https://www.tomshardware.com/tech-industry/ai-adoption-far-outpaces-that-of-the-early-internet-report-sheds-light-on-worldwide-ai-penetration-and-usage-patterns",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVKdizDZ6abHGDuRYT53yJ-2560-80.jpg",
+      "publishedAt": "2025-10-09T10:00:00Z",
+      "content": "Saying that AI is everywhere is an axiom by now, but a question that begets answering is \"how much, exactly?\" That's what the Financial Times (FT)set out to discover, by collecting data and interview… [+5028 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/11/20/shutterstock_aidissapointment.jpg",
       "publishedAt": "2025-10-09T08:28:07Z",
       "content": "Software vendors keen to monetize AI should tread cautiously, since they risk inflating costs for their customers without delivering any promised benefits such as reducing employee head count.\r\nThe l… [+4129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI expands budget-friendly ChatGPT Go to 16 more countries in Asia",
-      "description": "OpenAI has expanded its budget-friendly ChatGPT Go plan to 16 more countries across Asia, after launching it in India and Indonesia earlier this year.",
-      "url": "https://www.cnbc.com/2025/10/09/openai-expands-its-cheapest-chatgpt-plan-to-16-more-countries-in-asia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209778-1759986401217-gettyimages-2236404267-radecka-illustra250920_np0Hx.jpeg?v=1759986466&w=1920&h=1080",
-      "publishedAt": "2025-10-09T08:26:50Z",
-      "content": "OpenAI has expanded its lower-cost subscription plan, ChatGPT Go, to 16 more countries across Asia, company head Nick Turley announced Thursday.\r\n\"Making ChatGPT more affordable has been a key ask fr… [+1800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's Inside India newsletter: From X to TikTok clones, and now a 'WhatsApp killer’: India’s search for indigenous apps",
-      "description": "Can Arattai, the latest Indian messaging app, finally break the hold of American tech giant WhatsApp's or will it be another flash-in-the-pan product.",
-      "url": "https://www.cnbc.com/2025/10/09/cnbc-inside-india-newsletter-arattai-x-tiktok-clones-and-now-a-whatsapp-killer.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209147-1759892174872-gettyimages-1622967050-AFP_33TK3XD.jpeg?v=1759892226&w=1920&h=1080",
-      "publishedAt": "2025-10-09T08:19:16Z",
-      "content": "Tourists are seen at the promenade of the iconic Gateway of India next to digital displays of messaging app WhatsApp, in Mumbai on August 25, 2023. (Photo by INDRANIL MUKHERJEE / AFP) (Photo by INDRA… [+9396 chars]"
     }
   ]
 }
