@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-11T19:03:25.642Z",
+  "fetchedAt": "2025-10-11T19:31:07.469Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "InferenceMax AI benchmark tests software stacks, efficiency, and TCO — vendor-neutral suite runs nightly and tracks performance changes over time",
+      "description": "In AI, much like with phones, software matters as much if not oftentimes more than the hardware.",
+      "url": "https://www.tomshardware.com/tech-industry/inferencemax-ai-benchmark-tests-software-stacks-efficiency-and-tco-vendor-neutral-suite-runs-nightly-and-tracks-performance-changes-over-time",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o4ZZCskmZnveyPZ2acvGuf-2560-80.jpg",
+      "publishedAt": "2025-10-10T19:19:12Z",
+      "content": "News coverage surrounding artificial intelligence almost invariably focuses on the deals that send hundreds of billions of dollars flying, or the latest hardware developments in the GPU or datacenter… [+5784 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2305290875.jpg",
       "publishedAt": "2025-10-09T15:01:08Z",
       "content": "China is hitting back at US export restrictions with some of its own, tightening its control on so-called rare earth minerals and introducing laws that require companies to get licenses before they c… [+4431 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI's Sora hit 1 million downloads in less than five days",
-      "description": "Sora reached 1 million downloads even faster than ChatGPT, OpenAI's popular AI chatbot that supports 800 million weekly active users.",
-      "url": "https://www.cnbc.com/2025/10/09/openais-sora-downloads.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207460-1759493870027-gettyimages-2238549433-TFSPI_02102025-1224.jpeg?v=1759702809&w=1920&h=1080",
-      "publishedAt": "2025-10-09T14:57:09Z",
-      "content": "OpenAI's short-form artificial intelligence video app Sora hit 1 million downloads less than five days after its launch in late September, according to an executive.\r\nBill Peebles, head of Sora at Op… [+1822 chars]"
     }
   ]
 }
