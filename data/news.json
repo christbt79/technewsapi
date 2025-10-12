@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-12T19:04:48.096Z",
+  "fetchedAt": "2025-10-12T19:31:25.611Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Thinking Machines Lab co-founder Andrew Tulloch heads to Meta | TechCrunch",
+      "description": "AI researcher Andrew Tulloch reportedly announced his departure to employees in a message on Friday.",
+      "url": "https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "publishedAt": "2025-10-11T19:10:37Z",
+      "content": "Thinking Machines Lab, the AI startup led by former OpenAI CTO Mira Murati, has lost one of its co-founders to Meta.\r\nThe Wall Street Journal reports that AI researcher Andrew Tulloch announced his d… [+676 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177865-1753719244057-gettyimages-1226946348-img36937371.jpeg?v=1753719272&w=1920&h=1080",
       "publishedAt": "2025-10-09T17:47:28Z",
       "content": "In the ever-evolving long-term competition between the United States and China, it can be easy to lose sight of the quieter but more enduring risks that lie beneath the headlines.\r\nCase in point: Chi… [+8332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "GitHub Copilot Chat turns blabbermouth with crafty prompt injection attack",
-      "description": "AI assistant could be duped into leaking code and tokens via sneaky markdown\nGitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.…",
-      "url": "https://www.theregister.com/2025/10/09/github_copilot_chat_vulnerability/",
-      "urlToImage": "https://regmedia.co.uk/2025/09/05/githubcopilot.jpg",
-      "publishedAt": "2025-10-09T17:15:07Z",
-      "content": "GitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.\r\nResearcher Omer Mayraz of Legit Security disclosed a critical vulnerability… [+2746 chars]"
     }
   ]
 }
