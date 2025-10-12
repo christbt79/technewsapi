@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-12T12:14:53.806Z",
+  "fetchedAt": "2025-10-12T12:55:05.038Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Trump strikes back at China with a 100% tariff and critical software ban — major escalation retaliates for China's rare earth restrictions",
+      "description": "President Trump imposed a 100% tariff on Chinese goods and announced export controls on undefined 'critical software,' a move that could cripple China’s tech and manufacturing sectors more than tariffs themselves.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/trump-strikes-back-at-china-with-a-100-percent-tariff-and-critical-software-ban-major-escalation-retaliates-for-chinas-rare-earth-restrictions",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aoT7haYsHdeZtxcyikgCWY-2560-80.jpg",
+      "publishedAt": "2025-10-11T12:52:29Z",
+      "content": "Just hours after U.S. President Donald Trump threatened to impose tariffs on China-made goods in retaliation for unprecedented export controls on rare earth materials, he actually did so, increasing … [+3980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Bride surprises new husband with an RTX 5090 on wedding day — Chinese number slang reveals surprise gift",
+      "description": "A wedding video on social media shows a young couple exchanging gifts, with the groom receiving a GeForce RTX 5090 graphics card.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/bride-surprises-new-husband-with-an-rtx-5090-on-wedding-day-chinese-number-slang-reveals-surprise-gift",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bozZG7nrNCNbFaLpPqx6Ug-1920-80.jpg",
+      "publishedAt": "2025-10-11T12:33:19Z",
+      "content": "Perhaps we don’t have enough romance on these pages. But today we have a story that will melt your heart, or at least make you a little envious. Redditor Zestyclose-Salad-290 shared a wedding video o… [+2688 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
       "publishedAt": "2025-10-09T16:38:38Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says the AI video generation app is outpacing ChatGPTs growth at launch.\r\nThe company says the AI video generation app is outpacing ChatGPTs growth a… [+2499 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Figma partners with Google to add Gemini AI to its design platform",
-      "description": "Figma is adding Gemini to its AI toolset.",
-      "url": "https://techcrunch.com/2025/10/09/figma-partners-with-google-to-add-gemini-ai-to-its-design-platform/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/AI-Feature-Highlight.png?resize=1200,675",
-      "publishedAt": "2025-10-09T16:34:35Z",
-      "content": "Design platform Figma is partnering with Google to add more AI features, the company announced on Thursday. While Figma had previously introduced AI app-building tools of its own, the new integration… [+2384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "US PC shipments hit the buffers as Trump’s tariffs take their toll",
-      "description": "Rest of the world surges on Windows 10 end-of-life upgrades WORLD WAR FEE  The global PC market is ticking upward as Windows 10's end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.…",
-      "url": "https://www.theregister.com/2025/10/09/us_pc_shipments_flat_trump_tarriffs/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_1445581070.jpg",
-      "publishedAt": "2025-10-09T16:31:37Z",
-      "content": "WORLD WAR FEE The global PC market is ticking upward as Windows 10's end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.\r\nMicrosoft's announced cu… [+2784 chars]"
     }
   ]
 }
