@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-12T16:38:44.859Z",
+  "fetchedAt": "2025-10-12T17:06:25.033Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Dominic-madori Davis",
+      "title": "Prince Harry and Meghan call out the harmful effects of social media on today's youth | TechCrunch",
+      "description": "Prince Harry and Meghan call out the harmful effects of social media on today's youth | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2240202358.jpg?resize=1200,800",
+      "publishedAt": "2025-10-11T16:59:00Z",
+      "content": "The guests sipped prosecco and chattered away while dessert was served at the third annual Project Health Minds Gala on Thursday.  \r\nThe evening was winding down, but there was still one big award to… [+8660 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/0f4bffe3faee3e1bcab6ffb6188de0ee80266da1/2025/10/09/778bc139-949b-4984-b360-90c9fd3f6ebc/gettyimages-1389877084.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T17:00:00Z",
       "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI hype is waning, according to Forrester.</li><li>Businesses a… [+4413 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Datacurve raises $15 million to take on ScaleAI | TechCrunch",
-      "description": "Datacurve uses a “bounty hunter” system to attract skilled software engineers to complete the hardest-to-source datasets.",
-      "url": "https://techcrunch.com/2025/10/09/datacurve-raises-15-million-to-take-on-scaleai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Chemistry_251008_Serena_Ge_0642-v2.jpg?resize=1200,900",
-      "publishedAt": "2025-10-09T16:59:13Z",
-      "content": "As AI companies mature, the fight for high-quality data has become one of the most competitive areas in the industry, launching companies like Mercor, Surge, and, most prominently, Alexandr Wangs Sca… [+2145 chars]"
     }
   ]
 }
