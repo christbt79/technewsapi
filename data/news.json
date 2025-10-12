@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-12T18:40:50.052Z",
+  "fetchedAt": "2025-10-12T19:04:48.096Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Apple says goodbye to the Clips app",
+      "description": "Apple appears to be winding down support of Clips, with the company removing Clips from the App Store and saying it will no longer be making any updates.",
+      "url": "https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/img_2225.jpg?resize=1200,800",
+      "publishedAt": "2025-10-11T18:47:59Z",
+      "content": "Apple appears to be winding down support of Clips, with the company removing Clips from the App Store and saying it will no longer be making any updates.\r\nIn a support page on the Apple website, the … [+1455 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/09/05/githubcopilot.jpg",
       "publishedAt": "2025-10-09T17:15:07Z",
       "content": "GitHub's Copilot Chat, the chatbot meant to help developers code faster, could be helping attackers to steal code instead.\r\nResearcher Omer Mayraz of Legit Security disclosed a critical vulnerability… [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "This solid midrange HP laptop is still almost 50% off at Walmart",
-      "description": "HP's OmniBook 5 is perfect for anyone who wants a lightweight laptop with a great screen. Over at Walmart, it's almost 50% off",
-      "url": "https://www.zdnet.com/article/this-solid-midrange-hp-laptop-is-still-almost-50-off-at-walmart/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ed17e4dbb3c666f3538f05834470a1e74ab82731/2025/10/06/324f7448-2fc0-46ad-9e13-02e781e15dc9/hp-omnibook-5-2k-october-prime-day-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T17:11:19Z",
-      "content": "HP/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAmazon's Prime Day is over, but you can still find great deals on laptops at other retailers. For a limited time, Walmart is offering… [+1731 chars]"
     }
   ]
 }
