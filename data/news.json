@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-12T09:31:12.043Z",
+  "fetchedAt": "2025-10-12T10:08:36.297Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Samsung Galaxy Z Fold 7 vs. Google Pixel 10 Pro Fold: We compared the two, and here's the verdict",
+      "description": "Samsung's and Google's new foldables cater to different users - here's how to figure out which one best suits you.",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-7-vs-google-pixel-10-pro-fold-we-compared-the-two-and-heres-the-verdict/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d718e971e7f8c9368b49923ba95e9003e34cce89/2025/10/08/44519259-3e98-4b26-9ac3-58d1ed4de8e6/dsc07963.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-11T10:00:31Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe Google Pixel 10 Pro Fold officially went on sale this week, and it already faces stiff competition from the Samsung Gal… [+6688 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month",
+      "description": "Plus: PlayStation 6 rumors heat up, Meta’s Ray-Ban glasses are hard to fix, and Logitech disables its smart-home buttons.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/",
+      "urlToImage": "https://media.wired.com/photos/68e9a568945734540e18d2d2/191:100/w_1280,c_limit/Intel%20Panther%20Lake%20SOURCE%20Intel%20(1).jpg",
+      "publishedAt": "2025-10-11T10:00:00Z",
+      "content": "Intel's future has never seemed so uncertain. But most of the company's roller-coaster ride of a year has been a lead-up to its next-gen CPU launch, announced this week. The chips will be known as In… [+3523 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e1077d39908e41db680cfda952a8d82df35c38c6/2025/07/28/84877efd-2ba7-437d-a114-2dccd40a7235/main-shot.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T16:07:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIt's always a happy day when I find a new gadget, and it's particularly happy when that gadget solves an existing problem or (even better) remov… [+4643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "AWS's new agentic solution is a searchable AI hub for all your enterprise needs",
-      "description": "Amazon Quick Suite aims to be 'everything you want to do with ChatGPT at work, but can't.'",
-      "url": "https://www.zdnet.com/article/awss-new-agentic-solution-is-a-searchable-ai-hub-for-all-your-enterprise-needs/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fa833f5939f27e8dd6c21b869585f63ee1cbdde5/2025/07/16/9d27d333-0c5c-4c97-a2be-d9099c0d86e1/img-0178-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T16:01:28Z",
-      "content": "AWS Summit 2025 at the Javits Center in NYC. \r\nSabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon Quick Suite is an agentic AI experienc… [+4091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Forget the MacBook: The Surface Laptop is still $350 off as Prime Day wraps up",
-      "description": "The Microsoft Surface Laptop was one of my favorite laptops of 2024, and the 16GB configuration is still on sale after Prime Day.",
-      "url": "https://www.zdnet.com/article/forget-the-macbook-the-surface-laptop-is-still-350-off-as-prime-day-wraps-up/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ebf795134c60409d42f5654fe05bb47a5374353d/2024/09/26/8da41e20-32a0-4120-84dd-0a3af34aafcc/microsoft-surface-laptop-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T16:01:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nEditor's Note: If you don't see the discounted price, make sure you're logged into Amazon and manually click the \"Snapdra… [+3156 chars]"
     }
   ]
 }
