@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-12T14:07:17.528Z",
+  "fetchedAt": "2025-10-12T14:33:30.504Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "New 7-Zip high-severity vulnerabilities expose systems to remote attackers — users should update to version 25 ASAP",
+      "description": "Two newly disclosed vulnerabilities in 7-Zip could allow attackers to execute arbitrary code by tricking users into opening a malicious ZIP archive.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/7-zip-flaws-open-door-to-remote-code-execution",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d4GP9oaFCjSAd6BXXqgjm7-1920-80.jpg",
+      "publishedAt": "2025-10-11T14:22:15Z",
+      "content": "Two newly disclosed vulnerabilities in 7-Zip could allow attackers to execute arbitrary code by tricking users into opening a malicious ZIP archive. The issues, reported October 7 by Trend Micro’s Ze… [+2579 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/spotitearly.jpeg?resize=1200,506",
       "publishedAt": "2025-10-09T16:46:41Z",
       "content": "Developing comprehensive screening for early-stage cancer is the key to saving the most lives.\r\nAlthough multi-cancer early detection (MCED) tests are still being researched and lack FDA approval, se… [+3442 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "OpenAI’s Sora has already hit more than 1 million downloads",
-      "description": "OpenAI’s social AI video-generating app, Sora, has reached over 1 million downloads in fewer than five days since its launch. That’s according to Sora head Bill Peebles, who said on Wednesday that Sora racked up downloads faster than ChatGPT did at launch des…",
-      "url": "https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "publishedAt": "2025-10-09T16:38:38Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company says the AI video generation app is outpacing ChatGPTs growth at launch.\r\nThe company says the AI video generation app is outpacing ChatGPTs growth a… [+2499 chars]"
     }
   ]
 }
