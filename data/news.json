@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-12T11:31:23.988Z",
+  "fetchedAt": "2025-10-12T12:14:53.806Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
+      "description": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting the company in competition with a growing list of startups.",
+      "url": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208338-1759772906679-gettyimages-2236543888-STARGATE_DATA_CENTER.jpeg?v=1759773439&w=1920&h=1080",
+      "publishedAt": "2025-10-11T12:00:01Z",
+      "content": "Virtually every successful tech startup throughout history has faced the reality that it could get swallowed up or run over by a large incumbent at any moment. It's part of daily life for an entrepre… [+7759 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?",
+      "description": "No Windows laptop is dethroning the MacBook Pro anytime soon, but the Yoga Pro 9i 16 gets surprisingly close.",
+      "url": "https://www.wired.com/review/lenovo-yoga-pro-9i-16/",
+      "urlToImage": "https://media.wired.com/photos/68e96bf77c192a1493f91916/191:100/w_1280,c_limit/IMG_1898.JPG",
+      "publishedAt": "2025-10-11T12:00:00Z",
+      "content": "We shouldnt expect any Windows laptop with a powerful discrete GPU to truly replicate what the MacBook Pro does. Yes, there are more powerful systems out there, but efficiency is just not what those … [+1903 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_1445581070.jpg",
       "publishedAt": "2025-10-09T16:31:37Z",
       "content": "WORLD WAR FEE The global PC market is ticking upward as Windows 10's end-of-life nears, except in North America, where tariff shocks and economic jitters have slowed demand.\r\nMicrosoft's announced cu… [+2784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Talent agency CAA slams OpenAI's Sora for posing 'significant risk' to its clients",
-      "description": "Talent agency CAA slams OpenAI's AI video generation app Sora for posing \"significant risk\" to its clients",
-      "url": "https://www.cnbc.com/2025/10/09/caa-open-ai-sora-copyright-talent-agency.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207285-1759447450525-gettyimages-2238317673-Illustration_Sora_2.jpeg?v=1759500024&w=1920&h=1080",
-      "publishedAt": "2025-10-09T16:28:46Z",
-      "content": "The Creative Artists Agency on Thursday slammed OpenAI's new video creation app Sora for posing \"significant risks\" to their clients and intellectual property.\r\nThe talent agency, which represents ar… [+2756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "This $80 gadget solved my biggest frustration with headless servers - and it's highly customizable",
-      "description": "Struggling with monitors and mice cluttering your server rack? This device might be the remote-access solution your home lab or NVR setup needs.",
-      "url": "https://www.zdnet.com/home-and-office/networking/this-80-gadget-solved-my-biggest-frustration-with-headless-servers-and-its-highly-customizable/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e1077d39908e41db680cfda952a8d82df35c38c6/2025/07/28/84877efd-2ba7-437d-a114-2dccd40a7235/main-shot.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T16:07:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIt's always a happy day when I find a new gadget, and it's particularly happy when that gadget solves an existing problem or (even better) remov… [+4643 chars]"
     }
   ]
 }
