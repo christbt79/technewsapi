@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-12T17:31:51.808Z",
+  "fetchedAt": "2025-10-12T18:11:34.850Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Ready or not, enterprises are betting on AI | TechCrunch",
+      "description": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM announcing a strategic partnership, and Deloitte also announcing…",
+      "url": "https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
+      "publishedAt": "2025-10-11T17:52:57Z",
+      "content": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM anno… [+4155 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ed17e4dbb3c666f3538f05834470a1e74ab82731/2025/10/06/324f7448-2fc0-46ad-9e13-02e781e15dc9/hp-omnibook-5-2k-october-prime-day-image-1.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T17:11:19Z",
       "content": "HP/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAmazon's Prime Day is over, but you can still find great deals on laptops at other retailers. For a limited time, Walmart is offering… [+1731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Welcome to 'age of frumpy but functional AI,' says Forrester",
-      "description": "Is AI hype becoming passe? New data suggests a 'market correction' is coming.",
-      "url": "https://www.zdnet.com/article/welcome-to-age-of-frumpy-but-functional-ai-says-forrester/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0f4bffe3faee3e1bcab6ffb6188de0ee80266da1/2025/10/09/778bc139-949b-4984-b360-90c9fd3f6ebc/gettyimages-1389877084.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T17:00:00Z",
-      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI hype is waning, according to Forrester.</li><li>Businesses a… [+4413 chars]"
     }
   ]
 }
