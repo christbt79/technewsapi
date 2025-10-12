@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-12T15:07:28.420Z",
+  "fetchedAt": "2025-10-12T15:31:27.351Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Froth risks are bubbling up across high-momentum markets",
+      "description": "The scope of the risk was brought home Friday as markets absorbed their biggest jolt yet amid a six-month run in credit, crypto and equities",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-10/froth-risks-are-bubbling-up-across-high-momentum-markets",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/cc5rf4/article70147251.ece/alternates/LANDSCAPE_1200/BL12_Think_percent2.jpg",
+      "publishedAt": "2025-10-11T15:12:00Z",
+      "content": "Bill Harnisch is no permabear. His hedge fund is up 580 per cent since 2020 thanks to a honed portfolio of bets that this year alone has tripled the S&amp;P 500s return.\r\nBut right now the Wall Stree… [+5715 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Chemistry_251008_Serena_Ge_0642-v2.jpg?resize=1200,900",
       "publishedAt": "2025-10-09T16:59:13Z",
       "content": "As AI companies mature, the fight for high-quality data has become one of the most competitive areas in the industry, launching companies like Mercor, Surge, and, most prominently, Alexandr Wangs Sca… [+2145 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Startup Battlefield company SpotitEarly trained dogs and AI to sniff out common cancers | TechCrunch",
-      "description": "Startup Battlefield company SpotitEarly trained dogs and AI to sniff out common cancers | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/09/startup-battlefield-company-spotitearly-trained-dogs-and-ai-to-sniff-out-common-cancers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/spotitearly.jpeg?resize=1200,506",
-      "publishedAt": "2025-10-09T16:46:41Z",
-      "content": "Developing comprehensive screening for early-stage cancer is the key to saving the most lives.\r\nAlthough multi-cancer early detection (MCED) tests are still being researched and lack FDA approval, se… [+3442 chars]"
     }
   ]
 }
