@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-13T10:41:28.381Z",
+  "fetchedAt": "2025-10-13T11:08:02.381Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "AI datacenters in the US aren't 'running on coal' — but this dirty fuel has found favor for feeding demand spikes due to increased gas prices",
+      "description": "AI datacenters are driving up U.S. power demand and boosting coal generation by nearly 20%, but while nuclear plants supply the steady output needed for long training runs, coal and renewables mainly serve to stabilize the grid and absorb the sharp, unpredict…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-datacenters-in-the-us-arent-running-on-coal-but-this-dirty-fuel-has-found-favor-for-feeding-demand-spikes-due-to-increased-gas-prices",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/n4uucZP4dV7mmuFv43MWGE-2560-80.jpg",
+      "publishedAt": "2025-10-12T11:01:41Z",
+      "content": "U.S. datacenters are increasingly relying on coal-fired electricity as expanding AI infrastructure drives up power needs and makes natural gas less affordable, reports The Register. However, in state… [+3489 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "These Bose headphones took my favorite AirPods Max battery feature - and did it even better",
+      "description": "Expanded battery capacity is a plus, but smarter power management is even better.",
+      "url": "https://www.zdnet.com/article/these-bose-headphones-took-my-favorite-airpods-max-battery-feature-and-did-it-even-better/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0eb168c0c83eb34036ffdc05cb3bc9d4b43b3d6b/2025/10/10/2eb8d4a8-2a4d-4598-95c2-d0e96222e576/qcu2-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-12T11:00:29Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been one of Bose's weaknesses. Its … [+4185 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024",
       "publishedAt": "2025-10-09T18:15:44Z",
       "content": "Six months after Lip-Bu Tan’s began his quest to turn around struggling Intel, the semiconductor giant has announced a major hardware upgrade.\r\nOn Thursday, Intel unveiled a new processor, codenamed … [+1922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Space Shuttle war of words takes off as senator blasts 'woke Smithsonian'",
-      "description": "Houston, we have a custody battle\nExclusive The war of words over the possible relocation of Space Shuttle Discovery has ratcheted up, with the office of Senator John Cornyn (R-TX) telling The Register that the orbiter belongs in Houston \"whether the woke Smi…",
-      "url": "https://www.theregister.com/2025/10/09/cornyn_smithsonian_shuttle_comments/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/23/uhaul_shutterstock.jpg",
-      "publishedAt": "2025-10-09T18:00:08Z",
-      "content": "Exclusive The war of words over the possible relocation of Space Shuttle Discovery has ratcheted up, with the office of Senator John Cornyn (R-TX) telling The Register that the orbiter belongs in Hou… [+3597 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Free AI-powered Dia browser now available to all Mac users - Windows users can join a waitlist",
-      "description": "If you want to go all-in on AI, here's your chance. The Browser Company offers a Pro version, too.",
-      "url": "https://www.zdnet.com/article/free-ai-powered-dia-browser-now-available-to-all-mac-users-windows-users-can-join-a-waitlist/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9e56016034eb6b93eaaa9a3ae0842dc1e395a880/2025/10/09/23454be1-ec15-400d-b6f4-9673ab41bb85/dissmaller555gettyimages-2228260058.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T17:48:49Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The AI-powered Dia browser is now open to all Mac users.</li><li>Dia … [+2442 chars]"
     }
   ]
 }
