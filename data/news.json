@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-13T13:44:09.758Z",
+  "fetchedAt": "2025-10-13T14:09:52.625Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "China says it is 'not afraid' of a trade war, in response to US 100% tariffs threat",
+      "description": "High stakes trade war set to escalate, but there's still time before the November 1 deadline.",
+      "url": "https://www.tomshardware.com/tech-industry/china-says-it-is-not-afraid-of-a-trade-war-in-response-to-us-100-percent-tariffs-threat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rD24zGiC8EYStp2huyMizK-2560-80.jpg",
+      "publishedAt": "2025-10-12T14:09:26Z",
+      "content": "China has responded to President Donald Trump’s threats of a 100% tariff on Chinese goods, plus a ban on critical software, because of its expanded rare-earth export controls. According to Newsweek, … [+2620 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "4 Best Website Builders (2025), Tested and Reviewed",
+      "description": "Don't fuss around with files and servers. Just use one of these WIRED-tested website builders.",
+      "url": "https://www.wired.com/story/best-website-builders/",
+      "urlToImage": "https://media.wired.com/photos/68e80dcb34a4e22944e3d3d0/191:100/w_1280,c_limit/Squarespce-source-Squarespace.jpg",
+      "publishedAt": "2025-10-12T14:00:00Z",
+      "content": "Publishing a website is still more complicated than it has any right to be, but the best website builders streamline the process. Instead of juggling a bunch of files on a server and learning the ins… [+3958 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -338,6 +364,19 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS512_OSCARS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-10T21:15:21Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI is speedrunning the entertainment industry.\r\nOpenAI is speedrunning the entertainment industry.\r\nby\r\nAlex HeathClose\r\nAlex Heath\r\nSources author, Verge co… [+4711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Microsoft Copilot AI can now pull information directly from Outlook, Gmail, and other apps",
+      "description": "Here's what you can use the new connections for.",
+      "url": "https://www.zdnet.com/article/microsoft-copilot-ai-can-now-pull-information-directly-from-outlook-gmail-and-other-apps/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/74614f24a03ca5a9f7f0533eb20e77844c0f54ab/2025/10/13/8099d620-0787-473a-a0e9-30b5f08ea331/gettyimages-2225304197.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-10T21:00:00Z",
+      "content": "SOPA Images/Contributor/LightRocket via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot can now connect directly with OneDrive, Google Driv… [+3438 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
       "publishedAt": "2025-10-09T20:06:49Z",
       "content": "Sora’s rapid adoption drove a number of App Store scammers to try to get in on the act. Following the launch of OpenAI’s invite-only, video-generating mobile app last week, Apple’s App Store was floo… [+2552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Google rearranges Agentspace into Gemini Enterprise",
-      "description": "A new spin on workflow automation as Chocolate Factory tries to displace Microsoft as the enterprise go-to Google on Thursday announced the launch of Gemini Enterprise, a platform for automating business workflows using the company's Gemini family of machine …",
-      "url": "https://www.theregister.com/2025/10/09/google_rearranges_agentspace_into_gemini/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/27/gemini_shutterstock.jpg",
-      "publishedAt": "2025-10-09T19:52:39Z",
-      "content": "Google on Thursday announced the launch of Gemini Enterprise, a platform for automating business workflows using the company's Gemini family of machine learning models.\r\nNo less than Sundar Pichai, C… [+6850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "What Qualcomm's Arduino deal means for Raspberry Pi",
-      "description": "Also: A new Qualcomm-powered UNO Q board is available for $44.",
-      "url": "https://www.zdnet.com/article/what-qualcomms-arduino-deal-means-for-raspberry-pi/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/82cc968aa329527abf4ed31187917295fd655884/2025/10/09/99376e43-a63f-49a6-a70d-1b0c027ec4c7/xnapper-2025-10-09-13-45-21.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T19:32:22Z",
-      "content": "Arduino/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Qualcomm is acquiring Arduino but allowing it to operate independently.</li><li>The new Qualcomm-p… [+2610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "70,000 government IDs were exposed in a Discord breach - could yours be next?",
-      "description": "The platform's breach could serve as a cautionary tale when it comes to age verification policies.",
-      "url": "https://www.zdnet.com/article/70000-government-ids-were-exposed-in-a-discord-breach-could-yours-be-next/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3cb61d032d05c595daec919b764fdbdefe86c46c/2025/10/09/3de95ca4-8633-4ad7-8594-4efe3a19ed5e/gettyimages-2219715585.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T19:08:31Z",
-      "content": "NurPhoto/Contributor/Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A third-party service for customer support was hit.</li><li>About 70,000 users may ha… [+6398 chars]"
     }
   ]
 }
