@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-13T16:43:01.620Z",
+  "fetchedAt": "2025-10-13T17:08:01.058Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-bicchierai",
+      "title": "The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025  | TechCrunch",
+      "description": "The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025  | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-466247056.jpg?resize=1200,873",
+      "publishedAt": "2025-10-12T16:53:42Z",
+      "content": "Apart from antivirus apps, the cybersecurity industry has traditionally been business to business, with regular internet users left on their own to protect themselves. And older people, who did not g… [+3130 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e439ec3af653221caab15e/191:100/w_1280,c_limit/Uncanny-Valley-roundup-H1B-Visa-.jpg",
       "publishedAt": "2025-10-09T20:39:15Z",
       "content": "Lauren Goode: What's an example of that?\r\nLouise Matsakis: So, for example, there were some Chinese influencers who were spreading these conspiracy theories that Indians were plotting to use the visa… [+3603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Amazon's Quick Suite is like agentic AI training wheels for enterprises",
-      "description": "Slow down there Andy; you wouldn't want to bump into any hallucinations\nDespite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worke…",
-      "url": "https://www.theregister.com/2025/10/09/amazons_quick_suite/",
-      "urlToImage": "https://regmedia.co.uk/2018/04/17/shutterstock_training_wheels_648.jpg",
-      "publishedAt": "2025-10-09T20:23:11Z",
-      "content": "Despite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worker, they'll b… [+4137 chars]"
     }
   ]
 }
