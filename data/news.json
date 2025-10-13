@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-13T07:35:55.492Z",
+  "fetchedAt": "2025-10-13T08:14:25.983Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Inside the belly of the beast: A technical walk through Intel's 18A production facility at Fab52",
+      "description": "Now if Lip Bu Tan can just find a willing customer deep dive  Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.…",
+      "url": "https://www.theregister.com/2025/10/12/gelsingers_foundry_dream_lives_on/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/09/intel_fab52_asml_52.jpg",
+      "publishedAt": "2025-10-12T08:00:12Z",
+      "content": "deep dive Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.\r\nFour years late… [+8375 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9e56016034eb6b93eaaa9a3ae0842dc1e395a880/2025/10/09/23454be1-ec15-400d-b6f4-9673ab41bb85/dissmaller555gettyimages-2228260058.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T17:48:49Z",
       "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The AI-powered Dia browser is now open to all Mac users.</li><li>Dia … [+2442 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Op-ed: With rare earth restrictions back on radar, it's time for U.S. market to get real about Chinese lawfare",
-      "description": "What starts with rare earth restrictions will grow into a long era of 'lawfare,' and the U.S. economy is not yet fully prepared to challenge China.",
-      "url": "https://www.cnbc.com/2025/10/09/china-rare-earth-metals-restriction-us-market-economy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177865-1753719244057-gettyimages-1226946348-img36937371.jpeg?v=1753719272&w=1920&h=1080",
-      "publishedAt": "2025-10-09T17:47:28Z",
-      "content": "In the ever-evolving long-term competition between the United States and China, it can be easy to lose sight of the quieter but more enduring risks that lie beneath the headlines.\r\nCase in point: Chi… [+8332 chars]"
     }
   ]
 }
