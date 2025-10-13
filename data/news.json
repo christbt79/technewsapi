@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-13T21:31:09.402Z",
+  "fetchedAt": "2025-10-13T22:08:32.398Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "Is AI even worth it for your business? 5 expert tips to help prove ROI",
+      "description": "Measuring AI ROI doesn't have to be such an insurmountable challenge.",
+      "url": "https://www.zdnet.com/article/is-ai-even-worth-it-for-your-business-5-expert-tips-to-help-prove-roi/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fc52a8ed8aa748ffe72102fa27ff2209ee1dd139/2025/10/10/f9efff36-700b-4abc-82e4-48cdf8ff28da/gettyimages-2223538500.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-12T22:00:30Z",
+      "content": "narvo vexar/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most business leaders struggle to prove the value of AI projects.</li><l… [+7226 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2018/02/12/shotgun.jpg",
       "publishedAt": "2025-10-09T22:35:50Z",
       "content": "A new RondoDox botnet campaign uses an \"exploit shotgun\" - fire at everything, see what hits - to target 56 vulnerabilities across at least 30 different vendors' routers, DVRs, CCTV systems, web serv… [+3082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "It's trivially easy to poison LLMs into spitting out gibberish, says Anthropic",
-      "description": "Just 250 malicious training documents can poison a 13B parameter model - that's 0.00016% of a whole dataset\nPoisoning AI models might be way easier than previously thought if an Anthropic study is anything to go on. …",
-      "url": "https://www.theregister.com/2025/10/09/its_trivially_easy_to_poison/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_720129613.jpg",
-      "publishedAt": "2025-10-09T20:45:14Z",
-      "content": "Poisoning AI models might be way easier than previously thought if an Anthropic study is anything to go on. \r\nResearchers at the US AI firm, working with the UK AI Security Institute, Alan Turing Ins… [+4014 chars]"
     }
   ]
 }
