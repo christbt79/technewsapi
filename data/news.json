@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-13T13:03:09.544Z",
+  "fetchedAt": "2025-10-13T13:44:09.758Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Researchers achieve breakthrough integration of 2D materials on standard silicon chips",
+      "description": "Researchers at Fudan University have created a working memory chip just a few atoms thick, and the first to integrate 2D materials with standard silicon circuits.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/researchers-achieve-breakthrough-integration-of-2d-materials-on-silicon-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZooNVerTPyhBVzTBAksJS4-1280-80.jpg",
+      "publishedAt": "2025-10-12T13:36:31Z",
+      "content": "For the first time, scientists have successfully built a fully functional memory chip using two-dimensional materials and integrated it directly onto a conventional silicon die — a milestone that cou… [+2832 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Police are asking kids to stop pulling AI homeless man prank",
+      "description": "We’ve been so worried about deepfaked politicians, AI musicians, virtual actresses, and phony satellite imagery that we didn’t even consider the dangers posed by precocious teenagers. Kids are using AI to create images of a disheveled, seemingly unhoused pers…",
+      "url": "https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ai-homeless-prank-small-3.jpg?quality=90&strip=all&crop=0%2C10.743634419504%2C100%2C78.512731160992&w=1200",
+      "publishedAt": "2025-10-12T13:18:43Z",
+      "content": "<ul><li></li><li></li></ul>\r\nThe prank has gone viral, causing headaches for law enforcement.\r\nThe prank has gone viral, causing headaches for law enforcement.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'… [+2622 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/3cb61d032d05c595daec919b764fdbdefe86c46c/2025/10/09/3de95ca4-8633-4ad7-8594-4efe3a19ed5e/gettyimages-2219715585.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-09T19:08:31Z",
       "content": "NurPhoto/Contributor/Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A third-party service for customer support was hit.</li><li>About 70,000 users may ha… [+6398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "3 tips for navigating the AI swarm - 4M models and counting",
-      "description": "There are about four million open-source AI models on Hugging Face, alone. Here's what you need to know.",
-      "url": "https://www.zdnet.com/article/3-tips-for-navigating-the-ai-swarm-4m-models-and-counting/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7040ec99dc81811e3c438abb4fa03f0924b58859/2025/10/09/7935ac63-70af-4b3b-8007-d0d773e242fc/gettyimages-1148109695-cropped-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T19:04:25Z",
-      "content": "KTSDESIGN/SCIENCE PHOTO LIBRARY/Science Photo Library via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Open source dominates software technologies; AI … [+4381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "3 tips for navigating the open-source AI swarm - 4M models and counting",
-      "description": "There are about four million open-source AI models on Hugging Face, alone. Here's what you need to know.",
-      "url": "https://www.zdnet.com/article/3-tips-for-navigating-the-open-source-ai-swarm-4m-models-and-counting/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7040ec99dc81811e3c438abb4fa03f0924b58859/2025/10/09/7935ac63-70af-4b3b-8007-d0d773e242fc/gettyimages-1148109695-cropped-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T19:04:00Z",
-      "content": "KTSDESIGN/SCIENCE PHOTO LIBRARY/Science Photo Library via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Open source dominates software technologies; AI … [+4381 chars]"
     }
   ]
 }
