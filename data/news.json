@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-13T14:40:33.282Z",
+  "fetchedAt": "2025-10-13T15:09:26.758Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Sapphire Radeon RX 9070 XT drops to $729 —The best all-around graphics card for enthusiasts from AMD's best partner is at an all-time low on Amazon",
+      "description": "AMD's RX 9070 XT is our top choice for a GPU in 2025, and arguably its best variant, the Sapphire Nitro+ has just hit its all time-low price on Amazon. For $729, you get performance similar to the RTX 5070 Ti — even somewhat in ray tracing — while staying coo…",
+      "url": "https://www.tomshardware.com/pc-components/gpus/sapphire-radeon-rx-9070-xt-drops-to-usd729-the-best-all-around-graphics-card-for-enthusiasts-from-amds-best-partner-is-at-an-all-time-low-on-amazon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HQmGGSyxtDKsqw8a6pCzfY-1920-80.png",
+      "publishedAt": "2025-10-12T15:04:02Z",
+      "content": "AMD's RDNA 4 lineup of GPUs has been a heaven-sent for gamers seeking premium performance without breaking the bank, well, relatively. Just like Nvidia, even the Red Team's offerings have been plague… [+2176 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Optimizer6_3.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
       "publishedAt": "2025-10-09T20:12:11Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nI signed up for wearable maximalism, but with each passing day, I feel more cyborg than human.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Reviewer, Wearable … [+8297 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sora copycats flooded Apple’s App Store, and some still remain",
-      "description": "Imposter Sora apps saw hundreds of thousands of downloads before Apple pulled them from the App Store.",
-      "url": "https://techcrunch.com/2025/10/09/sora-copycats-flooded-apples-app-store-and-some-still-remain/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-      "publishedAt": "2025-10-09T20:06:49Z",
-      "content": "Sora’s rapid adoption drove a number of App Store scammers to try to get in on the act. Following the launch of OpenAI’s invite-only, video-generating mobile app last week, Apple’s App Store was floo… [+2552 chars]"
     }
   ]
 }
