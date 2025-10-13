@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-13T11:31:45.857Z",
+  "fetchedAt": "2025-10-13T12:17:45.872Z",
   "articles": [
     {
       "source": {
@@ -234,6 +234,19 @@
       "urlToImage": "https://regmedia.co.uk/2020/10/29/phishing.jpg",
       "publishedAt": "2025-10-10T22:01:11Z",
       "content": "Exclusive A Chinese-developed phishing kit hosted on thousands of domains and boasting 97 different brands to make criminals' scams look more believable is driving a surge in financial fraud around t… [+4884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Byrd Pinkerton",
+      "title": "What humans might learn from nature’s real-life zombies",
+      "description": "Zombies, it turns out, are real — and science journalist Mindy Weisberger can give you plenty of examples of them. She’s read up on the fungi that take over flies’ bodies, partially digesting them from the inside out before forcing them to climb up blades of …",
+      "url": "https://www.vox.com/podcasts/464170/what-humans-might-learn-from-natures-real-life-zombies",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-1320075498.jpg?quality=90&strip=all&crop=0%2C10.728605234901%2C100%2C78.542789530197&w=1200",
+      "publishedAt": "2025-10-10T21:45:06Z",
+      "content": "Cicadas can be infected by a fungal parasite that turns them into zombies. | Chip Somodevilla/Getty Images\r\n\n\nZombies, it turns out, are real — and science journalist Mindy Weisberger can give you pl… [+11163 chars]"
     },
     {
       "source": {
@@ -1147,6 +1160,19 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Slack is turning Slackbot into an AI assistant",
+      "description": "Slack is testing an update for Slackbot that transforms it into an AI assistant. Presently, it operates as a tool for delivering reminders and notifications. With the update, Slackbot can create custom plans tailored to your workspace, sift through a mountain…",
+      "url": "https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/slackbot-ai.png?quality=90&strip=all&crop=0%2C14.487195097204%2C100%2C71.025609805593&w=1200",
+      "publishedAt": "2025-10-09T20:19:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe revamped Slackbot acts more like an AI companion that can help you create plans, schedule meetings, find files, and more.\r\nThe revamped Slackbot acts more li… [+3927 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/09/shutterstock_2509179881.jpg",
       "publishedAt": "2025-10-09T18:32:14Z",
       "content": "Today's students are using AI for everything from tutoring to therapy to romance. A new study warns the tech may be dulling kids' social skills quietly, like booze on the brain.\r\nA survey of teachers… [+3599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "Ubuntu 25.10 'Questing Quokka' brings an array of advances - plus some trouble",
-      "description": "Canonical's latest Linux distro delivers cutting-edge features, improved security, and - ready or not - Wayland graphics.",
-      "url": "https://www.zdnet.com/article/ubuntu-25-10-questing-quokka-brings-an-array-of-advances-plus-some-trouble/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4d4aa082411eefd3496dd4585e8f8848ccc1a743/2025/10/09/7d753a97-6d8f-46eb-a885-ffc8ffe30aaf/qukka555gettyimages-2166572265.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T18:21:07Z",
-      "content": "Jack Wallen/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Ready or not, Ubuntu's default display will be Wayland.</li><li>The new Ubuntu includes the fi… [+6280 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Intel unveils new processor powered by its 18A semiconductor tech  | TechCrunch",
-      "description": "Intel announces new processors produced in Arizona as the company looks to increase its U.S. manufacturing.",
-      "url": "https://techcrunch.com/2025/10/09/intel-unveils-new-processor-powered-by-its-18a-semiconductor-tech/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024",
-      "publishedAt": "2025-10-09T18:15:44Z",
-      "content": "Six months after Lip-Bu Tan’s began his quest to turn around struggling Intel, the semiconductor giant has announced a major hardware upgrade.\r\nOn Thursday, Intel unveiled a new processor, codenamed … [+1922 chars]"
     }
   ]
 }
