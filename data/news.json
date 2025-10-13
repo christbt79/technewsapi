@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-13T15:37:08.797Z",
+  "fetchedAt": "2025-10-13T16:11:06.793Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Applied Materials preps for 'Angstrom Era' in chipmaking — spearheaded by its new Kinex, Xtera, and PROVision 10 systems",
+      "description": "Applied Materials has introduced three new chipmaking systems that are set to mark the beginning of the 'angstrom' and 3D chiplent integration era in chipmaking.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/applied-materials-preps-for-angstrom-era-in-chipmaking-spearheaded-by-its-new-kinex-xtera-and-provision-10-systems",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
+      "publishedAt": "2025-10-12T16:10:20Z",
+      "content": "Applied Materials has unveiled three new chipmaking tools that define what the company calls the 'angstrom era' of chipmaking, signaling a transition toward next-generation process technologies somet… [+4784 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Elon Musk vs. the regulators | TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+      "url": "https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/TBC16.jpg?resize=1200,857",
+      "publishedAt": "2025-10-12T16:04:37Z",
+      "content": "Welcome back to TechCrunch Mobility, your hub for all things future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nElon Musk has never had the be… [+7376 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2018/04/17/shutterstock_training_wheels_648.jpg",
       "publishedAt": "2025-10-09T20:23:11Z",
       "content": "Despite ongoing concerns over the accuracy, reliability, and trustworthiness of AI in the enterprise, Amazon believes that if it can just make building agents easier for the average worker, they'll b… [+4137 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Slack is turning Slackbot into an AI assistant",
-      "description": "Slack is testing an update for Slackbot that transforms it into an AI assistant. Presently, it operates as a tool for delivering reminders and notifications. With the update, Slackbot can create custom plans tailored to your workspace, sift through a mountain…",
-      "url": "https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/slackbot-ai.png?quality=90&strip=all&crop=0%2C14.487195097204%2C100%2C71.025609805593&w=1200",
-      "publishedAt": "2025-10-09T20:19:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe revamped Slackbot acts more like an AI companion that can help you create plans, schedule meetings, find files, and more.\r\nThe revamped Slackbot acts more li… [+3927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Is your PC drowning in photos? Microsoft's new OneDrive app can help - try it now",
-      "description": "The goal is to help you more easily and quickly find, access, and share your favorite photos.",
-      "url": "https://www.zdnet.com/article/is-your-pc-drowning-in-photos-microsofts-new-onedrive-app-can-help-try-it-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cd7e4a5ec1db21180a748990b660a44500613ab7/2025/10/09/7db44c36-80d8-4c11-9609-3887e6d4b0de/microsoft-new-onedrive-windows-app.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-09T20:14:48Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The new OneDrive Windows app can help manage your photos.</li><li>The new app … [+4421 chars]"
     }
   ]
 }
