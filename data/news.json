@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-14T12:18:25.992Z",
+  "fetchedAt": "2025-10-14T13:04:05.701Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "I tried the new Sora 2 to generate AI videos - and the results were pure sorcery",
+      "description": "The new Sora 2 app can turn text or images into videos with dialog and sound effects in seconds.",
+      "url": "https://www.zdnet.com/article/i-tried-the-new-sora-2-to-generate-ai-videos-and-the-results-were-pure-sorcery/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a38ac725d6750339a80be15f4a4ec437ae6a878a/2025/10/13/465db668-1523-4f72-8da8-d32fab7deb14/how-i-use-openais-new-sora-to-create-amazing-ai-generated-videos.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T12:34:00Z",
+      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's Sora 2 turns text prompts into short, AI-generated videos.</li><li>Yo… [+3103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "China probes Qualcomm's Autotalks deal amid rising US trade tensions",
+      "description": "Beijing insists it's business as usual – Washington might see it differently\nChina's competition regulator has launched an investigation into Qualcomm's purchase of Israeli firm Autotalks, the latest salvo in the escalating tech trade war between Washington a…",
+      "url": "https://www.theregister.com/2025/10/13/qualcomm_autotalks_china_probe/",
+      "urlToImage": "https://regmedia.co.uk/2024/06/07/investigate_shutterstock.jpg",
+      "publishedAt": "2025-10-13T12:21:11Z",
+      "content": "China's competition regulator has launched an investigation into Qualcomm's purchase of Israeli firm Autotalks, the latest salvo in the escalating tech trade war between Washington and Beijing.\r\nThe … [+2859 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/687RM9xKv6bnEQhqKspsDT-1280-80.jpg",
       "publishedAt": "2025-10-10T11:56:53Z",
       "content": "Chinese customs authorities have launched a sweeping crackdown on Nvidia chip shipments, according to reporting by The Financial Timespublished October 9. The report says enforcement teams have been … [+2677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "NBA looks to China for growth, renewing a foothold in its second-largest market",
-      "description": "The weekend marks a major milestone for the NBA, as years of rebuilding its relationship with China culminate with the Phoenix Suns and Brooklyn Nets facing off.",
-      "url": "https://www.cnbc.com/2025/10/10/nba-macao-games-kickstart-renewed-growth-in-china.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210189-1760034449988-gettyimages-2239475024-2239475024.jpeg?v=1760034540&w=1920&h=1080",
-      "publishedAt": "2025-10-10T11:30:01Z",
-      "content": "MACAO The National Basketball Association returns to China for the first of two Macao games on Friday, and the impact extends beyond the preseason.\r\nThe weekend marks a major milestone for the NBA, a… [+4530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Former UK prime minster Sunak becomes human Clippy for Microsoft, Anthropic",
-      "description": "Conservative MP told he must not lobby for corporations\nRishi Sunak is ready to kick-start his career with a couple of openings in the tech industry, a year after the end of his internship as the prime minister of the world’s sixth largest economy.…",
-      "url": "https://www.theregister.com/2025/10/10/former_uk_prime_minister_rishi/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/10/rishi_sunask.jpg",
-      "publishedAt": "2025-10-10T11:28:36Z",
-      "content": "Rishi Sunak is ready to kick-start his career with a couple of openings in the tech industry, a year after the end of his internship as the prime minister of the worlds sixth largest economy.\r\nFollow… [+3435 chars]"
     }
   ]
 }
