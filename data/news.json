@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T11:07:57.199Z",
+  "fetchedAt": "2025-10-14T11:31:47.460Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Dutch government seizes local chipmaker from its Chinese owner — Nexperia parent company Wingtech preps response to 'exceptional' steps taken to safeguard 'crucial technological knowledge'",
+      "description": "The Dutch government has taken control of the Chinese-owned Nexperia, an automotive and consumer chip production company, for national security reasons. It's claiming that to prevent key technologies from leaving European and Dutch soil, it needs to put hard …",
+      "url": "https://www.tomshardware.com/tech-industry/dutch-government-seizes-local-chipmaker-from-its-chinese-owner-nexperia-parent-company-wingtech-preps-response-to-exceptional-steps-taken-to-safeguard-crucial-technological-knowledge",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H8Pz8aghkUEQtjyxTYhzzD-1920-80.jpg",
+      "publishedAt": "2025-10-13T11:26:05Z",
+      "content": "The Dutch government has taken the \"exceptional\" step of seizing control of strategically important Dutch chip maker, Nexperia, from its Chinese owner, Wingtech, according to Reuters. The government … [+2969 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210425-1760082545598-gettyimages-2239462651-WTO_Lowers_Global_Goods_Trade_Growth_Forecast_for_2026.jpeg?v=1760082563&w=1920&h=1080",
       "publishedAt": "2025-10-10T10:35:53Z",
       "content": "BEIJING China on Friday announced that starting Oct. 14, the country will start charging U.S. ships for docking at Chinese ports a direct response to Washington for imposing fees on Chinese vessels a… [+2806 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Angela Watercutter",
-      "title": "‘Tron: Ares’ Wants to Gaslight You About the Future of AI",
-      "description": "The latest film in the “Tron” franchise seems to have not learned any lessons from sci-fi movies past—or from current reality.",
-      "url": "https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/",
-      "urlToImage": "https://media.wired.com/photos/68e54fb5710268531c9b34b2/191:100/w_1280,c_limit/Tron-Ares-Would-Like-to-Gaslight-You-About-Future-of-AI-Culture-T3-07576_R2.jpg",
-      "publishedAt": "2025-10-10T10:30:00Z",
-      "content": "Ares, named after the Greek god of war, was built to be an AI super-soldier. Then he found out about Frankenstein, started listening to Depeche Mode, and realized the tech bro who made him might be a… [+2584 chars]"
     }
   ]
 }
