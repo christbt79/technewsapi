@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-14T09:38:42.447Z",
+  "fetchedAt": "2025-10-14T10:10:01.293Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Inside the AI accelerator arms race: AMD, Nvidia, and hyperscalers commit to annual releases through the decade",
+      "description": "The AI hardware industry is shifting to an annual release cycle as AMD, Nvidia, and major hyperscalers like Amazon, Google, and Meta accelerate development of specialized accelerators for AI workloads through 2028.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/inside-the-ai-accelerator-arms-race-amd-nvidia-and-hyperscalers-commit-to-annual-releases-through-the-decade",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vYZ7Ecame3RzGytFMYbDAP-1920-80.jpg",
+      "publishedAt": "2025-10-13T10:00:00Z",
+      "content": "The artificial intelligence industry is developing so rapidly that the leading suppliers of AI accelerators — AMD and Nvidia — have moved to a yearly product release cadence. Furthermore, it appears … [+16479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Steven J. Vaughan-Nichols",
+      "title": "We're all going to be paying AI's Godzilla-sized power bills",
+      "description": "Even if you never use it, you'll be paying for it thanks to datacenters' never-ending hunger for electricity\nOpinion When I was a wet-behind-the-ears developer running my programs on an IBM 360, a mainframe that was slower than a Raspberry Pi Zero W, my machi…",
+      "url": "https://www.theregister.com/2025/10/13/ai_power_bills/",
+      "urlToImage": "https://regmedia.co.uk/2016/07/27/shutterstock_godzilla.jpg",
+      "publishedAt": "2025-10-13T09:45:08Z",
+      "content": "Opinion When I was a wet-behind-the-ears developer running my programs on an IBM 360, a mainframe that was slower than a Raspberry Pi Zero W, my machine used about 50 kilowatts (kW). I thought that w… [+6007 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173318-1752757488531-gettyimages-1148483593-338739672_1-5.jpeg?v=1760021738&w=1920&h=1080",
       "publishedAt": "2025-10-10T06:34:44Z",
       "content": "A dump truck moves raw ore inside the pit at the Mountain Pass mine, operated by MP Materials, in Mountain Pass, California, U.S., on Friday, June 7, 2019.\r\nIn the 1984 science fiction film Dune, Bar… [+3708 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "European stocks poised for lackluster open as investors assess Trump-backed Gaza ceasefire deal",
-      "description": "Stocks listed in Europe are heading for a mixed open on Friday.",
-      "url": "https://www.cnbc.com/2025/10/10/europe-markets-oct-10-ftse-100-stoxx-600-israel-gaza-peace-deal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176891-1753422180178-gettyimages-2211256583-250425_lseg_31.jpeg?v=1758158619&w=1920&h=1080",
-      "publishedAt": "2025-10-10T06:27:10Z",
-      "content": "Stocks listed in Europe look set for a mixed open on Friday, amid tentative signs that a peace deal brokered by U.S. President Donald Trump is taking hold in the Middle East.\r\nFutures tied to London'… [+1512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China blacklists major chip research firm TechInsights following report on Huawei",
-      "description": "Beijing has banned semiconductor researcher TechInsights from working with or receiving data from entities in China.",
-      "url": "https://www.cnbc.com/2025/10/10/china-blacklists-major-chip-ai-research-firm-techinsights-analyzed-report-huawei.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174823-1753140722662-gettyimages-1228097339-huawei2.jpeg?v=1760064414&w=1920&h=1080",
-      "publishedAt": "2025-10-10T04:26:33Z",
-      "content": "Beijing has banned semiconductor research firm TechInsights from working with or receiving data from Chinese entities, in a move that could add to the opaqueness of the country's chip industry. \r\nChi… [+2544 chars]"
     }
   ]
 }
