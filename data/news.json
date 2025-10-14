@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T20:09:56.063Z",
+  "fetchedAt": "2025-10-14T20:37:33.085Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "What Qualcomm's Arduino deal means for your Raspberry Pi",
+      "description": "So far, Raspberry Pi hasn't faced much serious competition. That could be about to change.",
+      "url": "https://www.zdnet.com/article/what-qualcomms-arduino-deal-means-for-your-raspberry-pi/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/09714cf8e2918efcf4b9518a6b92939bcc64c548/2025/10/13/cd3f7249-789b-4360-8140-a91b1ce81987/gettyimages-1980670267-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T20:28:00Z",
+      "content": "Chris Ratcliffe/Bloomberg via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Qualcomm is acquiring Arduino but allowing it to operate independentl… [+2639 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210376-OpenAI_Hollywood_C_Clean.jpg?v=1760071837&w=1920&h=1080",
       "publishedAt": "2025-10-10T18:11:35Z",
       "content": "The launch of OpenAI's updated Sora 2 AI video service kicked off another round of anxiety among musicians, actors and other content creators.\r\nSora allows users to generate short videos for free by … [+928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "The underdog AI startups on a16z's top 50 list",
-      "description": "The VC firm's first-ever AI Application Spending Report reveals illuminating trends about which kinds of AI tools are winning the AI race.",
-      "url": "https://www.zdnet.com/article/the-underdog-ai-startups-on-a16zs-top-50-list/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c2df02b4093fb34a2f00ff8220215bded82d4598/2025/10/09/9c9f626b-8c9d-4bfa-bdf7-5a7f3624e784/gettyimages-2159107141.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T18:03:17Z",
-      "content": "twomeows/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI and Anthropic, predictably, are getting the most money.</li><li>Four vib… [+6956 chars]"
     }
   ]
 }
