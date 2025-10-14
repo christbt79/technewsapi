@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T18:45:21.848Z",
+  "fetchedAt": "2025-10-14T19:06:52.316Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "10 open-source Windows apps I can't live without - and they're all free",
+      "description": "These free, open-source apps can supercharge your Windows PC and boost your productivity.",
+      "url": "https://www.zdnet.com/article/10-open-source-windows-apps-i-cant-live-without-and-theyre-all-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d7bfcda15d64856ad9fb55265550c17d30a04cb7/2025/10/13/38ed2a80-10bf-4746-8139-a4db10dfadf4/10-open-source-apps-i-always-recommend-windows-user-to-try-and-theyre-free.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T19:00:00Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>If Windows is your OS of choice, consider these open-source apps.</l… [+7587 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210640-1760111093462-gettyimages-2237856798-img_8507.jpeg?v=1760111127&w=1920&h=1080",
       "publishedAt": "2025-10-10T17:14:38Z",
       "content": "Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue that was boosted by artificial intelligence data center demand, putting the stock up more than 350% f… [+1799 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "U.S. Senate passes bill that forces AI chipmakers to prioritize sales to American companies — House now set to amend or pass legislation",
-      "description": "The Senate just passed the bill forcing Nvidia and AMD to prioritize US orders over exports.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-senate-passes-bill-that-forces-ai-chipmakers-to-prioritize-sales-to-american-companies-house-now-set-to-amend-or-pass-legislation",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cjq8PoSfXYyXTkL7EreevJ-1920-80.jpg",
-      "publishedAt": "2025-10-10T17:05:20Z",
-      "content": "The United States Senate has just passed the 'GAIN AI' legislation as part of the National Defense Authorization Act (NDAA), which would require AI chipmakers like Nvidia and AMD to prioritize chip o… [+2478 chars]"
     }
   ]
 }
