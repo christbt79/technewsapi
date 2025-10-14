@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T04:39:55.866Z",
+  "fetchedAt": "2025-10-14T05:09:34.237Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "India’s Tata Capital makes muted market debut after $1.75 billion IPO",
+      "description": "Tata Capital's $1.75 billion IPO was fully subscribed last week after a three-day bidding process.",
+      "url": "https://www.cnbc.com/2025/10/13/indias-tata-capital-makes-muted-market-debut-after-1point75-billion-ipo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210937-1760253244654-gettyimages-2233915766-aditya-notitle250909_npVaS.jpeg?v=1760253762&w=1920&h=1080",
+      "publishedAt": "2025-10-13T04:54:16Z",
+      "content": "Shares of Tata Capital rose 1.37% in their trading debut Monday on the National Stock Exchange and BSE, following a 155.1 billion ($1.75 billion) initial public offering.\r\nTata Capital's $1.75 billio… [+1291 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1066108038.jpg?w=1024",
       "publishedAt": "2025-10-09T23:57:34Z",
       "content": "Microsoft CEO Satya Nadella on Thursday tweeted a video of his companys first deployed massive AI system or AI factory as Nvidia likes to call them. He promised this is the first of many such Nvidia … [+1652 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Reflection raises $2B to be America's open frontier AI lab, challenging DeepSeek | TechCrunch",
-      "description": "Reflection, once focused on autonomous coding agents, has raised $2B at an $8B valuation to expand into both an open-source alternative to closed frontier labs like OpenAI and Anthropic, and a Western equivalent to Chinese AI firms like DeepSeek.",
-      "url": "https://techcrunch.com/2025/10/09/reflection-raises-2b-to-be-americas-open-frontier-ai-lab-challenging-deepseek/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-      "publishedAt": "2025-10-09T22:37:28Z",
-      "content": "Reflection, a startup founded just last year by two former Google DeepMind researchers, has raised $2 billion at an $8 billion valuation, a whopping 15x leap from its $545 million valuation just seve… [+5222 chars]"
     }
   ]
 }
