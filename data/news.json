@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-14T10:10:01.293Z",
+  "fetchedAt": "2025-10-14T10:40:36.452Z",
   "articles": [
     {
       "source": {
@@ -572,6 +572,19 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS512_OSCARS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-10T21:15:21Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI is speedrunning the entertainment industry.\r\nOpenAI is speedrunning the entertainment industry.\r\nby\r\nAlex HeathClose\r\nAlex Heath\r\nSources author, Verge co… [+4711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Ian Millhiser",
+      "title": "The uncomfortable problem with America’s greatest civil rights law",
+      "description": "The Voting Rights Act of 1965 is among the most successful laws in US history. And it is one of the most morally righteous things the United States of America has ever done. The law was America’s first serious attempt since Reconstruction to build a multiraci…",
+      "url": "https://www.vox.com/politics/464480/supreme-court-voting-rights-act-trump-maga-federalism",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194969562.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-10T21:14:09Z",
+      "content": "This is why we can’t have nice things. | Chip Somodevilla/Getty Images\r\n\n\nThe Voting Rights Act of 1965 is among the most successful laws in US history. And it is one of the most morally righteous th… [+17688 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/05/20/microsoft_npu_concept.jpg",
       "publishedAt": "2025-10-10T07:28:11Z",
       "content": "Comment Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more \"intelligent,\" even though the silicon is not currently on the hardware requirements list.\r\nNP… [+5185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: The rare earths must flow, but only with Beijing’s permission",
-      "description": "Beijing may be signalling its leverage ahead of a potential high-stakes Trump-Xi meeting by tightening control over rare earth exports.",
-      "url": "https://www.cnbc.com/2025/10/10/cnbc-daily-open-the-rare-earths-must-flow-but-only-with-beijings-permission.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173318-1752757488531-gettyimages-1148483593-338739672_1-5.jpeg?v=1760021738&w=1920&h=1080",
-      "publishedAt": "2025-10-10T06:34:44Z",
-      "content": "A dump truck moves raw ore inside the pit at the Mountain Pass mine, operated by MP Materials, in Mountain Pass, California, U.S., on Friday, June 7, 2019.\r\nIn the 1984 science fiction film Dune, Bar… [+3708 chars]"
     }
   ]
 }
