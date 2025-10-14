@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-14T17:33:14.427Z",
+  "fetchedAt": "2025-10-14T18:14:13.560Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft's OneDrive spots your mates, remembers their faces, and won't forget easily",
+      "description": "Then shalt thee change the setting three times, no more!\nMicrosoft's OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don't worry, it can be turned off – three times a year.…",
+      "url": "https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
+      "urlToImage": "https://regmedia.co.uk/2015/09/02/metal_faces_iron.jpg",
+      "publishedAt": "2025-10-13T17:48:48Z",
+      "content": "Microsoft's OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don't worry, it can be turned off three times a year.\r\nThis writer has bee… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oracle CEO Magouyrk: 'Of course' OpenAI can pay $60 billion per year",
+      "description": "In July, OpenAI signed a five-year cloud deal with Oracle, which is confident that the startup will be able to pay its bills.",
+      "url": "https://www.cnbc.com/2025/10/13/oracle-ceo-magouyrk-of-course-openai-can-pay-60-billion-per-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211335-1760372227610-ClayMagouryrk-1.jpg?v=1760372374&w=1920&h=1080",
+      "publishedAt": "2025-10-13T17:42:21Z",
+      "content": "Oracle CEO Clay Magouyrk, one of the two people tapped last month to lead the software company, is confident that OpenAI will be able to cover the costs of the massive amount of cloud infrastructure … [+1755 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/3GS89WEqgsTxq2rNHfF2bL-2000-80.jpg",
       "publishedAt": "2025-10-10T16:51:36Z",
       "content": "SoftBank is arranging a new $5 billion margin loan to invest in OpenAI and use its shares in Arm Holdings as collateral, reports Bloomberg. The move will enable the company to increase its stake in O… [+2634 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Best iPad apps for unleashing and exploring your creativity",
-      "description": "If you have an iPad and want to start using it to unleash and express your creativity, there are a number of apps that can help you do so.",
-      "url": "https://techcrunch.com/2025/10/10/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1454243032.jpg?resize=1200,800",
-      "publishedAt": "2025-10-10T16:50:44Z",
-      "content": "There are a number of iPad apps that can help you explore and express your creativity. Although the iPad started off as a simple device that could be used to stream content or browse the web on the g… [+6416 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "DirecTV will soon bring AI ads to your screensaver",
-      "description": "DirecTV wants to use AI to put you, your family, and your pets inside a custom TV screensaver. If that’s not uncanny enough, you’ll find items you can shop for within that AI environment, whether it’s a piece of clothing similar to the one your AI likeness is…",
-      "url": "https://www.theverge.com/news/798174/directv-glance-ai-shoppable-screensavers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/directv-glance-ai.png?quality=90&strip=all&crop=0%2C2.8466528367743%2C100%2C94.306694326451&w=1200",
-      "publishedAt": "2025-10-10T16:50:03Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can shop for the items that look similar to the ones in the AI-generated screensaver, like clothing or furniture.\r\nYou can shop for the items that look simil… [+3606 chars]"
     }
   ]
 }
