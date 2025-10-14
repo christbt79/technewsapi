@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T21:07:41.495Z",
+  "fetchedAt": "2025-10-14T21:31:47.631Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Microsoft AI announces first image generator created in-house",
+      "description": "Microsoft AI just announced its first text-to-image generator, MAI-Image-1, designed and developed in-house. The tech giant, which recently announced its first in-house developed AI models, called the new image generator “the next step on our journey.” Micros…",
+      "url": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-13T21:24:05Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe model has already secured a spot in the top 10 of LMArena.\r\nThe model has already secured a spot in the top 10 of LMArena.\r\nby\r\nAndrew J. HawkinsClose\r\nAndre… [+2316 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
       "publishedAt": "2025-10-10T18:23:24Z",
       "content": "It takes a lot of computing power to run an AI product and as the tech industry races to tap the power of AI models, theres a parallel race underway to build the infrastructure that will power them. … [+7160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "We tested OpenAI’s Sora 2 video generator to find out why Hollywood is freaking out",
-      "description": "The launch of OpenAI’s Sora 2 video service kicked off another round of anxiety among content creators in the U.S.",
-      "url": "https://www.cnbc.com/2025/10/10/how-sora-2-by-openai-is-challenging-hollywood.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210376-OpenAI_Hollywood_C_Clean.jpg?v=1760071837&w=1920&h=1080",
-      "publishedAt": "2025-10-10T18:11:35Z",
-      "content": "The launch of OpenAI's updated Sora 2 AI video service kicked off another round of anxiety among musicians, actors and other content creators.\r\nSora allows users to generate short videos for free by … [+928 chars]"
     }
   ]
 }
