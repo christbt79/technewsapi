@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-14T14:41:19.558Z",
+  "fetchedAt": "2025-10-14T15:10:23.501Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "OpenAI and Broadcom to co-develop 10GW of custom AI chips in yet another blockbuster AI partnership — deployments start in 2026",
+      "description": "OpenAI has signed a multi-year deal with Broadcom to co-develop and deploy 10 gigawatts of custom AI accelerators and rack systems.",
+      "url": "https://www.tomshardware.com/openai-broadcom-to-co-develop-10gw-of-custom-ai-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qZWfhqwRr8gniE9uNmNFLf-1600-80.jpg",
+      "publishedAt": "2025-10-13T15:03:48Z",
+      "content": "OpenAI has signed a multi-year deal with Broadcom to co-develop and deploy 10 gigawatts of custom AI accelerators and rack systems, the companies announced on October 13. OpenAI will handle accelerat… [+3006 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "OpenAI partners with Broadcom to produce its own AI chips",
+      "description": "OpenAI is teaming up with Broadcom to produce its own computer chips to power its AI data centers. The deal is the latest in a series of partnerships designed to reduce the company’s reliance on Nvidia and secure enough computing power to fuel apps like ChatG…",
+      "url": "https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-13T14:59:44Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nChipping away at Nvidias dominance one deal at a time.\r\nChipping away at Nvidias dominance one deal at a time.\r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from thi… [+2922 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "California becomes first state to regulate AI companion chatbots | TechCrunch",
+      "description": "SB 243 is designed to protect children and vulnerable users from harms associated with use of AI companion chatbots.",
+      "url": "https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2240040875.jpg?w=1024",
+      "publishedAt": "2025-10-13T14:51:53Z",
+      "content": "California Governor Gavin Newsom signed a landmark bill on Monday that regulates AI companion chatbots, making it the first state in the nation to require AI chatbot operators to implement safety pro… [+3411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Is heart rate monitoring on earbuds actually viable? I tested two pairs, and here's my advice",
+      "description": "Beats' Powerbeats Pro 2 and Apple's AirPods Pro 2 both feature in-ear heart rate monitoring - but which one's the better fit for your lifestyle?",
+      "url": "https://www.zdnet.com/article/is-heart-rate-monitoring-on-earbuds-actually-viable-i-tested-two-pairs-and-heres-my-advice/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f24f988199902723aa97f5a9f2599895647b729b/2025/10/02/9cbb60ef-36fa-4582-8776-1420c9cdb551/beatsvsapp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T14:50:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBeats and Apple each released flagship earbuds in 2025 with one standout feature: in-ear heart rate monitoring. Since Apple ow… [+6479 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Palmer Luckey’s Anduril launches EagleEye military helmet with help from buddy Zuck",
+      "description": "Anduril, the military tech company founded by Oculus creator Palmer Luckey, has announced the first hardware to come out of its recent partnership with Meta: EagleEye, an AI-powered mixed-reality (MR) system designed to be built into soldiers’ helmets. The mo…",
+      "url": "https://www.theverge.com/news/798821/anduril-eagleeye-palmer-luckey-mark-zuckerberg-meta-military-mr",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/anduril-eagleeye-palmer-luckey.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
+      "publishedAt": "2025-10-13T14:44:49Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnduril partnered up with Meta for its new mixed-reality helmet.\r\nAnduril partnered up with Meta for its new mixed-reality helmet.\r\nby\r\nDominic PrestonClose\r\nDom… [+2748 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-10T15:18:17Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nEddy Cue is reportedly taking over health and fitness, as chip guru Johnny Srouji is evaluating his future with Apple.\r\nEddy Cue is reportedly taking over health… [+2480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "ChatGPT Go is just $10 a month - here's who gets it",
-      "description": "The latest subscription tier is now available in 18 countries. This is what it includes.",
-      "url": "https://www.zdnet.com/article/chatgpt-go-is-just-10-a-month-heres-who-gets-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/839a369714b16097bf5b93dbbccdc6164fb2578c/2025/09/29/6d8b293f-34da-48f4-8088-3011a97c178e/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T15:14:36Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI announced a new subscription tier, ChatGPT Go.</li><li>The $10 monthly plan … [+2129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "I tested all of ChatGPT's new app integrations - here are the ones actually worth your time",
-      "description": "The future of ChatGPT with Spotify, Canva, and more shows promise, but there are still kinks to work out.",
-      "url": "https://www.zdnet.com/article/i-tested-all-of-chatgpts-new-app-integrations-here-are-the-ones-actually-worth-your-time/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/df8c784763248efd9edebf1b4944990b0c82803a/2025/07/07/4bf2b9ad-51a3-4145-bef8-2334bc66b034/chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T15:01:20Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI launched ChatGPT Apps earlier this week. </li><li>You can connect to apps li… [+9136 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "At-risk teens and AI chatbot crisis: 'You need to know what's going on,' warns Talkspace CEO",
-      "description": "Jon Cohen, CEO of Talkspace, which provides online mental health to teens, says everyone should be worried about at-risk youth turning to large language models.",
-      "url": "https://www.cnbc.com/2025/10/10/talkspace-online-therapy-therapists-mental-health.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209532-1759948235731-2025_10_07_WEC_834.jpg?v=1759948750&w=1920&h=1080",
-      "publishedAt": "2025-10-10T14:45:42Z",
-      "content": "Talkspace has grown to be one of the largest online therapy platforms in the U.S., covering an estimated market of 200 million Americans. As the mental health platform has grown, it has also pioneere… [+7389 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Former UK Prime Minister Rishi Sunak to advise Microsoft and Anthropic  | TechCrunch",
-      "description": "Former Conservative PM Rishi Sunak served from 2022 to 2024. Britain's Acoba flagged concerns of granting \"unfair access\" to Anthropic and Microsoft.",
-      "url": "https://techcrunch.com/2025/10/10/former-uk-prime-minister-rishi-sunak-to-advise-microsoft-and-anthropic/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Rishi-Sunak.jpg?w=799",
-      "publishedAt": "2025-10-10T14:40:06Z",
-      "content": "Rishi Sunak, who served as the United Kingdom’s prime minister from 2022 to 2024, has taken on senior advisory roles as Microsoft and Anthropic, The Guardian reports.  \r\nLetters from the Parliaments … [+1925 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Finally, wireless earbuds that can easily replace my Bose and Sony for all-day listening",
-      "description": "If you haven't heard of this NYC-based audio brand, you'll be as surprised as I was by its latest pair of earbuds.",
-      "url": "https://www.zdnet.com/article/finally-wireless-earbuds-that-can-easily-replace-my-bose-and-sony-for-all-day-listening/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fc05a82351c402243e212be78d4de5b251b10f17/2025/09/16/c3fddc0e-7916-4f11-b116-0002166ef0c8/prox1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T14:40:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've tested so many headphones and earbuds these days that it's getting harder and harder to tell them apart. But I've never tested a pair quite… [+5007 chars]"
     }
   ]
 }
