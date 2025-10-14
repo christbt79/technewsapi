@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-14T13:44:06.150Z",
+  "fetchedAt": "2025-10-14T14:10:13.650Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Android 'Pixnapping' attack can capture app data like 2FA codes",
+      "description": "GPU-based timing attack inspired by decade-old iframe technique\nSecurity researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.…",
+      "url": "https://www.theregister.com/2025/10/13/android_pixnapping_attack_captures_2fa_codes/",
+      "urlToImage": "https://regmedia.co.uk/2020/12/17/shutterstock_android_code.jpg",
+      "publishedAt": "2025-10-13T14:00:13Z",
+      "content": "Security researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.\r\nThe attack, dubbed Pixnapping, has yet to be mitigated. Concep… [+6203 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-13T14:00:00Z",
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-13T14:00:00Z",
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Next-gen MRAM breakthrough can flip bits at SRAM-rivalling speeds with low power consumption — researchers claim true next-gen breakthrough using Tungsten layer",
+      "description": "The major challenge that hampered the development and adoption of SOT-MRAM is now in the rearview mirror.",
+      "url": "https://www.tomshardware.com/pc-components/ram/next-gen-mram-breakthrough-using-a-tungsten-layer-can-flip-bits-at-sram-rivalling-speeds-with-very-low-power-researchers-claim-true-next-gen-breakthrough",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/97xF3fADzBMcrXsBowXMx-1920-80.jpg",
+      "publishedAt": "2025-10-13T13:55:44Z",
+      "content": "A cross-institutional research team has published a paper where a breakthrough in (MRAM) development is detailed. According to a blog post published by Taiwan’s National Yang Ming Chiao Tung Universi… [+3165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "RTX 5070 Ti with catastrophic damage brought back to life by RX 580 — AMD VRM graft resurrects card with a huge hole burned into its PCB",
+      "description": "In Brazil, a dead RTX 5070 Ti fell victim to a lightning surge so abhorrent, it burned a hole through the PCB. Thankfully, it was saved by a donor RX 580 by carefully siphoning power from its VRMs to resuscitate the Nvidia GPU. The repair job is temporary at …",
+      "url": "https://www.tomshardware.com/pc-components/gpus/rtx-5070-ti-with-catastrophic-damage-brought-back-to-life-by-rx-580-amd-vmr-graft-resurrects-card-with-a-huge-hole-burned-into-its-pcb",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZEw4xzb43usZkf7RjKKvsi-1920-80.png",
+      "publishedAt": "2025-10-13T13:45:41Z",
+      "content": "We've seen countless repair stories, shunt mods, and even custom-designed GPUs before, but nothing quite compares to a project like this. Marrying together one of the most iconic graphics cards ever … [+3483 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e1077d39908e41db680cfda952a8d82df35c38c6/2025/07/28/84877efd-2ba7-437d-a114-2dccd40a7235/main-shot.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-10T14:14:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIt's always a happy day when I find a new gadget, and it's particularly happy when that gadget solves an existing problem or (even better) remov… [+4643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "China bans research company that helped unearth Huawei's use of TSMC tech despite U.S. bans — TechInsights added to Unreliable Entity List by state authorities",
-      "description": "Beijing has banned TechInsights from doing business with Chinese companies because it has \"defied China's strong objections to engage in activities such as so-called military-technical cooperation with Taiwan, made malicious remarks concerning China, and assi…",
-      "url": "https://www.tomshardware.com/tech-industry/china-bans-research-company-that-helped-unearth-huaweis-use-of-tsmc-tech-despite-u-s-bans-techinsights-added-to-unreliable-entity-list-by-state-authorities",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pxT6ZmtWJuEUxrRahtNvfS-2000-80.jpg",
-      "publishedAt": "2025-10-10T13:55:57Z",
-      "content": "The Ministry of Commerce of the People’s Republic of China just added several prominent Western companies to its Unreliable Entity List, including the research firm TechInsights. This Canada-based co… [+2966 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Maybe it’s real, maybe it’s Sora",
-      "description": "Big week for OpenAI! The company is running basically every tech industry playbook, all at the same time, and it actually seems to be working. The company is adding apps to ChatGPT, in an effort to turn the chatbot into something more like an operating system…",
-      "url": "https://www.theverge.com/podcast/798173/openai-sora-chatgpt-apps-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1010_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-10T13:44:15Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: ChatGPT apps, TikTok clones, AI wearables, and everything else OpenAI is up to.\r\nOn The Vergecast: ChatGPT apps, TikTok clones, AI wearables, a… [+2951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Climate goals go up in smoke as US datacenters turn to coal",
-      "description": "High gas prices and surging AI demand send operators back to the dirtiest fuel in the stack\nUS datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.…",
-      "url": "https://www.theregister.com/2025/10/10/datacenter_coal_power/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/14/shutterstock_coalpowerstation.jpg",
-      "publishedAt": "2025-10-10T13:44:12Z",
-      "content": "US datacenters are experiencing a significant shift toward coal-powered energy due to elevated natural gas prices and rapidly growing electricity demand.\r\nAccording to a research note from financial … [+3556 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "UK slaps Google Search with special market status, making way for stricter regulations | TechCrunch",
-      "description": "The CMA has designated Google as having \"strategic market status\" in the search and search advertising markets, which means the company has such \"a substantial and entrenched\" position that it requires special regulations to ensure fair competition.",
-      "url": "https://techcrunch.com/2025/10/10/uk-slaps-google-search-with-special-market-status-making-way-for-stricter-regulations/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2225230891.jpg?resize=1200,800",
-      "publishedAt": "2025-10-10T13:43:55Z",
-      "content": "The United Kingdom’s Competition and Markets Authority (CMA) on Friday designated Google with a special status in the market for online search that would enable the regulator to enforce stricter regu… [+3252 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "The world is just not quite ready for humanoids yet | TechCrunch",
-      "description": "Famed robotics Rodney Brooks recently sounded the alarm on the amount of money going into humanoid startups. He's not the only skeptic.",
-      "url": "https://techcrunch.com/2025/10/10/the-world-is-just-not-quite-ready-for-humanoids-yet/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800",
-      "publishedAt": "2025-10-10T13:34:10Z",
-      "content": "Famed roboticist and iRobot founder Rodney Brooks has sounded the alarm on a humanoid robot investment bubble. He’s not the only one.\r\nIn a recent essay, Brooks calls out the billions of venture doll… [+5456 chars]"
     }
   ]
 }
