@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-14T10:40:36.452Z",
+  "fetchedAt": "2025-10-14T11:07:57.199Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Dutch government puts Nexperia on a short leash over chip security fears",
+      "description": "Minister invokes powers to stop firm shifting knowledge to China, citing governance shortcomings The Dutch government has placed Nexperia - a Chinese-owned semiconductor company that previously operated Britain's Newport Wafer Fab — under special administrati…",
+      "url": "https://www.theregister.com/2025/10/13/nexperia_special_measures/",
+      "urlToImage": "https://regmedia.co.uk/2023/03/09/dutch_shutterstock.jpg",
+      "publishedAt": "2025-10-13T11:01:02Z",
+      "content": "The Dutch government has placed Nexperia - a Chinese-owned semiconductor company that previously operated Britain's Newport Wafer Fab under special administrative measures, citing serious governance … [+2641 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gregory Barber",
+      "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
+      "description": "Whether your chip is running a vintage computer game or the latest DeepSeek model, it’ll reward you for speaking its native language.",
+      "url": "https://www.wired.com/story/programming-assembly-artificial-intelligence/",
+      "urlToImage": "https://media.wired.com/photos/68e6c45f693f7ce213ae491f/191:100/w_1280,c_limit/MR%20011%20'Assembly%20Codes'.jpg",
+      "publishedAt": "2025-10-13T11:00:00Z",
+      "content": "Rollercoaster Tycoon wasnt the most fashionable computer game out there in 1999. But if you took a look beneath the pixelsthe rickety rides, the crowds of hungry, thirsty, barfing people (and the jan… [+2486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "China probes Qualcomm with antitrust investigation in the latest asymmetric trade negotiation salvo — Autotalks acquisition risks fouling anti-monopoly laws",
+      "description": "Chinese regulators are investigating Qualcomm over a months-old deal to purchase connected car chip firm Autotalks, in a move that could be just the latest aggressive action from China as part of ongoing high-tech trade negotiations.",
+      "url": "https://www.tomshardware.com/tech-industry/china-probes-qualcomm-with-antitrust-investigation-in-the-latest-asymmetric-trade-negotiation-salvo-autotalks-acquisition-risks-fouling-anti-monopoly-laws",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pGD2aLHjjSgArcXSNL8n9F-1920-80.jpg",
+      "publishedAt": "2025-10-13T10:51:10Z",
+      "content": "China's regulatory body for business, the State Administration for Market Regulation (SAMD), has announced an antitrust investigation is now under, looking into the purchase of Israeli connected-vehi… [+6622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cnbc",
+      "title": "Mokyr, Aghion and Howitt win 2025 Nobel economics prize",
+      "description": "Joel Mokyr, Philippe Aghion and Peter Howitt won the 2025 Nobel economics prize, the Royal Swedish Academy of Sciences said on Monday.",
+      "url": "https://www.cnbc.com/2025/10/13/mokyr-aghion-and-howitt-win-2025-nobel-economics-prize.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211088-1760350007049-gettyimages-2240391532-AFP_78KH848.jpeg?v=1760350112&w=1920&h=1080",
+      "publishedAt": "2025-10-13T10:50:30Z",
+      "content": "The announcement of the winner of the 2025 Nobel Prize in Economics, at the Royal Swedish Academy of Sciences in Stockholm, Sweden, on October 13, 2025.\r\nJoel Mokyr, Philippe Aghion and Peter Howitt … [+3705 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Nvidia’s ‘personal AI supercomputer’ is now available to buy",
+      "description": "Nvidia will start selling its DGX Spark “personal AI supercomputer” this week. The machine is powerful enough to let users work on sophisticated AI models but small enough to fit on a desktop.   From Wednesday, Nvidia said Spark can be ordered online at nvidi…",
+      "url": "https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25822628/PXL_20250108_162058411.jpg?quality=90&strip=all&crop=0%2C15.226825767778%2C100%2C69.546348464445&w=1200",
+      "publishedAt": "2025-10-13T10:41:53Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe small-but-mighty Spark can handle sophisticated AI models and still fit on your desk.\r\nThe small-but-mighty Spark can handle sophisticated AI models and stil… [+3204 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e54fb5710268531c9b34b2/191:100/w_1280,c_limit/Tron-Ares-Would-Like-to-Gaslight-You-About-Future-of-AI-Culture-T3-07576_R2.jpg",
       "publishedAt": "2025-10-10T10:30:00Z",
       "content": "Ares, named after the Greek god of war, was built to be an AI super-soldier. Then he found out about Frankenstein, started listening to Depeche Mode, and realized the tech bro who made him might be a… [+2584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Inside the boardroom drama that is shaking up one India's most powerful business empire",
-      "description": "A power struggle looks to be brewing inside Tata, which also owns iconic brands including Taj Hotels, Jaguar Land Rover and Tetley Tea.",
-      "url": "https://www.cnbc.com/2025/10/10/inside-the-boardroom-drama-that-is-shaking-up-tatas-business-empire.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210440-1760090278573-gettyimages-2203897918-INDIA_TCS.jpeg?v=1760090377&w=1920&h=1080",
-      "publishedAt": "2025-10-10T10:23:36Z",
-      "content": "A dispute in the boardroom of Tata Trusts has shaken the Indian corporate world and its tremors have reached Delhi.\r\nTata Trusts is the philanthropic body that controls 66% of Tata Sons  the holding … [+7244 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Qualcomm shares fall after China opens antitrust probe into the U.S. chip giant",
-      "description": "Qualcomm has a big business in China selling its smartphone chips to some of the biggest players in the country such as Xiaomi.",
-      "url": "https://www.cnbc.com/2025/10/10/qualcomm-shares-today-after-china-opens-antitrust-probe.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178363-1753794609661-gettyimages-1251437334-porzycki-microchi230410_npEgg.jpeg?v=1760090690&w=1920&h=1080",
-      "publishedAt": "2025-10-10T10:21:41Z",
-      "content": "Qualcomm shares fell on Friday after Chinese regulators said it would investigate the American tech giant's acquisition of chip firm Autotalks, ramping up tensions between the U.S. and China ahead of… [+1488 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Copilot on Windows can now create Office documents and connect to Gmail",
-      "description": "Microsoft is updating its Copilot app on Windows to allow it to create documents from a chat session and connect to Gmail and Outlook accounts. The updated Copilot app is rolling out initially to all Windows Insiders, ahead of a general release to all Windows…",
-      "url": "https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-10T09:47:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can create Word, Excel, and PowerPoint files from the Copilot chat interface.\r\nYou can create Word, Excel, and PowerPoint files from the Copilot chat interfa… [+2668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google search comes under renewed scrutiny in UK as competition watchdog flexes new powers",
-      "description": "Britain's competition regulator activated new powers to regulate Google's search activities, putting the tech giant in the firing line for further regulation.",
-      "url": "https://www.cnbc.com/2025/10/10/uks-cma-activates-new-powers-to-regulate-google-search.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108199151-1758008394340-gettyimages-2210075113-VukValcicGoogleHQ170425_3.jpeg?v=1760088060&w=1920&h=1080",
-      "publishedAt": "2025-10-10T09:35:33Z",
-      "content": "LONDON Britain's competition regulator on Friday activated new powers to regulate Google's search activities, putting the U.S. tech giant in the firing line for further regulatory action.\r\nThe Compet… [+1319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft hypes PCs with NPUs, still can't offer a good reason to buy one",
-      "description": "AI tech not on the hardware compatibility list for now. But future Windows will need it Comment  Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more \"intelligent,\" even though the silicon is not currently on the ha…",
-      "url": "https://www.theregister.com/2025/10/10/microsoft_npu_windows_opinion/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/20/microsoft_npu_concept.jpg",
-      "publishedAt": "2025-10-10T07:28:11Z",
-      "content": "Comment Microsoft has talked up the role played by neural processing units (NPUs) in making Windows more \"intelligent,\" even though the silicon is not currently on the hardware requirements list.\r\nNP… [+5185 chars]"
     }
   ]
 }
