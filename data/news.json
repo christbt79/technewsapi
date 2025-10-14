@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-14T17:08:46.765Z",
+  "fetchedAt": "2025-10-14T17:33:14.427Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field, Dominic Preston",
+      "title": "New California law requires AI to tell you it’s AI",
+      "description": "A bill attempting to regulate the ever-growing industry of companion AI chatbots is now law in California, as of October 13th. California Gov. Gavin Newsom signed into law Senate Bill 243, billed as “first-in-the-nation AI chatbot safeguards” by state senator…",
+      "url": "https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-13T17:13:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSB 243 institutes new safeguards on AI chatbots.\r\nSB 243 institutes new safeguards on AI chatbots.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author w… [+3201 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner, Dominic Preston",
+      "title": "California enacts its own internet age-gating law",
+      "description": "California joins a growing group of states with a new internet age-gating law after Gov. Gavin Newsom (D) signed AB 1043, the Digital Age Assurance Act. The law mandates that device operating systems and app stores require users to enter their age or date of …",
+      "url": "https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-13T17:11:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGov. Gavin Newsom signed AB 1043 into law, joining a growing group of states with online age restrictions.\r\nGov. Gavin Newsom signed AB 1043 into law, joining a … [+4556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "AI use is up, but organizations still aren't seeing gains, Atlassian study finds",
+      "description": "Hype keeps crashing into reality. Here's what could make the difference for businesses struggling to see ROI on AI.",
+      "url": "https://www.zdnet.com/article/ai-use-is-up-but-organizations-still-arent-seeing-gains-atlassian-study-finds/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b28c04cf5cad9a3ccf98266c32d374c3e3d90e2b/2025/10/13/f8a01b81-ce63-4406-ac81-9c0f216487b0/gettyimages-2218439011.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T17:09:44Z",
+      "content": "MirageC/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Growing use of AI = isn't leading to big organizational wins.</li><li>AI hype cl… [+5466 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/directv-glance-ai.png?quality=90&strip=all&crop=0%2C2.8466528367743%2C100%2C94.306694326451&w=1200",
       "publishedAt": "2025-10-10T16:50:03Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can shop for the items that look similar to the ones in the AI-generated screensaver, like clothing or furniture.\r\nYou can shop for the items that look simil… [+3606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Senate says Nvidia chips are for America first as China tightens import controls",
-      "description": "Xi to the left of me, Trump is to the right; Huang I am, stuck in the middle with GPUs The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught…",
-      "url": "https://www.theregister.com/2025/10/10/nvidia_chips_us_china/",
-      "urlToImage": "https://regmedia.co.uk/2021/03/12/us_china_chips_shutterstock.jpg",
-      "publishedAt": "2025-10-10T16:28:10Z",
-      "content": "The US Senate has passed a provision that would give US firms first dibs on advanced chips, just as China tightens customs checks on Nvidia GPUs, leaving the company caught between competing policies… [+3294 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Instagram head Adam Mosseri pushes back on Mr. Beast’s AI fears, but admits society will have to adjust | TechCrunch",
-      "description": "Instagram chief Adam Mosseri says AI will empower new creators while forcing society to rethink what’s real online as synthetic content grows.",
-      "url": "https://techcrunch.com/2025/10/10/instagram-head-adam-mosseri-pushes-back-on-mrbeasts-ai-fears-but-admits-society-will-have-to-adjust/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
-      "publishedAt": "2025-10-10T16:17:08Z",
-      "content": "Instagram head Adam Mosseri said AI will change who can be creative, as the new tools and technology will give people who couldn’t be creators before the ability to produce content at a certain quali… [+4920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Microsoft cancels Wisconsin data center after community pushback — 244-acre Caledonia site on hold, but Redmond says it remains committed to the region",
-      "description": "Microsoft is canceling its plans to build a data center near the Oak Creek Power Plant after the community rallied against its plans.",
-      "url": "https://www.tomshardware.com/desktops/servers/microsoft-cancels-wisconsin-data-center-after-community-pushback-244-acre-caledonia-site-on-hold-but-redmond-says-it-remains-committed-to-the-region",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AXYhwBq7Tg5WB5Cv9hSfyQ-1024-80.jpg",
-      "publishedAt": "2025-10-10T15:43:06Z",
-      "content": "Microsoft has cancelled its initial plan of building a data center in Caledonia, Wisconsin, after residents and elected officials objected to the plan. According to the Milwaukee Journal Sentinel, Re… [+2676 chars]"
     }
   ]
 }
