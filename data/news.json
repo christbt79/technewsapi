@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-14T14:10:13.650Z",
+  "fetchedAt": "2025-10-14T14:41:19.558Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Kindle Scribe vs. ReMarkable Paper Pro: I compared both E Ink tablets and this one's better",
+      "description": "I'm a big fan of the ReMarkable Paper Pro, but Amazon's new Kindle Scribe is giving it serious competition. Here's how the two stack up.",
+      "url": "https://www.zdnet.com/article/kindle-scribe-vs-remarkable-paper-pro-i-compared-both-e-ink-tablets-and-this-ones-better/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c0f2a1943ba6ef0b804642c14793e105745f6d6a/2025/09/30/5e972d1d-0d87-4d5a-ae7e-04ebad2acaf3/dsc07896.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T14:21:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAt its recent September hardware launch, Amazon showcased its two new e-readers designed for note-taking: the Kindle Scribe and… [+5322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Bose just did what Apple couldn't with the QuietComfort Ultra headphones - and I'm sold",
+      "description": "Expanded battery capacity is a plus, but smarter power management is even better.",
+      "url": "https://www.zdnet.com/article/bose-just-did-what-apple-couldnt-with-the-quietcomfort-ultra-headphones-and-im-sold/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0eb168c0c83eb34036ffdc05cb3bc9d4b43b3d6b/2025/10/10/2eb8d4a8-2a4d-4598-95c2-d0e96222e576/qcu2-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T14:19:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been Bose's weaknesses. Its 2019 fl… [+4196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oaktree's Howard Marks says AI frenzy isn’t a bubble — at least not yet",
+      "description": "Marks said while enthusiasm for AI stocks is undeniable, it hasn't yet crossed into the realm of mania that defines a true bubble.",
+      "url": "https://www.cnbc.com/2025/10/13/oaktrees-howard-marks-says-ai-frenzy-isnt-a-bubble-at-least-not-yet.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105338261-1531940490011marks2.jpg?v=1681760860&w=1920&h=1080",
+      "publishedAt": "2025-10-13T14:17:49Z",
+      "content": "Veteran investor Howard Marks isn't calling the artificial intelligence boom a bubble at least not for now.\r\n\"My response to date has been that the valuations are ... high but not crazy\" the Oaktree … [+2073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Your Slack chatbot is about to get a huge AI upgrade - what's new",
+      "description": "Slackbot is turning into a fully personalized AI companion.",
+      "url": "https://www.zdnet.com/article/your-slack-chatbot-is-about-to-get-a-huge-ai-upgrade-whats-new/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4ca3c781ddec15b31a3a65019a5b14a57b179dec/2025/10/13/dfccb002-5d91-4125-9a35-c016b50751dd/slackbot-is-about-to-become-your-new-ai-work-companion-heres-what-it-can-do.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T14:16:14Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Slackbot will soon be a personalized AI companion</li><li>The assistant will be abl… [+2343 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/fc05a82351c402243e212be78d4de5b251b10f17/2025/09/16/c3fddc0e-7916-4f11-b116-0002166ef0c8/prox1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-10T14:40:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've tested so many headphones and earbuds these days that it's getting harder and harder to tell them apart. But I've never tested a pair quite… [+5007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I compared the best smartwatches by Google and Samsung - here's how Pixel wins out",
-      "description": "Google's latest Pixel Watch 4 gets several upgrades that keep it competitive with its Android competition.",
-      "url": "https://www.zdnet.com/article/i-compared-the-best-smartwatches-by-google-and-samsung-heres-how-pixel-wins-out/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7e08ca6404b1b15d354ddda168da5242b49ea646/2025/08/15/e77029ef-de74-43bc-821c-e76dda6c052d/dsc06850.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T14:36:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nGoogle has graced us with yet another smartwatch. The Pixel Watch 4 is finally available to purchase, after Google unveiled the device earlier t… [+6327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "5 ways to keep your team's morale up when burnout hits and motivation dips",
-      "description": "If your team's energy is slipping, these simple leadership tips can help bring it back.",
-      "url": "https://www.zdnet.com/article/5-ways-to-keep-your-teams-morale-up-when-burnout-hits-and-motivation-dips/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/39803df1d85e7cdab67006823d893dce813d6d74/2025/10/10/39402946-880c-447c-a8cb-ad141805cf58/gettyimages-1800712941.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T14:28:08Z",
-      "content": "MirageC / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Most organizations struggle with low staff morale.</li><li>Effective business le… [+6390 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Natasha Bernal",
-      "title": "Google Search Could Change Forever in the UK",
-      "description": "New regulation from the UK’s competition authority means Google may be forced to make major changes in the way that people use its search engine.",
-      "url": "https://www.wired.com/story/uk-watchdog-targets-google-search-in-competition-crackdown/",
-      "urlToImage": "https://media.wired.com/photos/68e8e5813a29a338be03a173/191:100/w_1280,c_limit/GettyImages-2210074784.jpg",
-      "publishedAt": "2025-10-10T14:16:09Z",
-      "content": "The decision to formally designate Google with Strategic Market Status is an important step to improving competition in digital markets, argues Rocio Concha, director of policy and advocacy at UK con… [+2533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "How I mastered remote KVM control with this $80 gadget - and it's highly customizable",
-      "description": "Struggling with monitors and mice cluttering your server rack? This device might be the remote-access solution your home lab or NVR setup needs.",
-      "url": "https://www.zdnet.com/home-and-office/networking/how-i-mastered-remote-kvm-control-with-this-80-gadget-and-its-highly-customizable/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e1077d39908e41db680cfda952a8d82df35c38c6/2025/07/28/84877efd-2ba7-437d-a114-2dccd40a7235/main-shot.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T14:14:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIt's always a happy day when I find a new gadget, and it's particularly happy when that gadget solves an existing problem or (even better) remov… [+4643 chars]"
     }
   ]
 }
