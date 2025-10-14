@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-14T13:04:05.701Z",
+  "fetchedAt": "2025-10-14T13:44:06.150Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "This $15 USB-C cable could be the easiest way to stop hackers from stealing your data",
+      "description": "If you often plug into random chargers, you're an easy target for hackers.",
+      "url": "https://www.zdnet.com/article/this-15-usb-c-cable-could-be-the-easiest-way-to-stop-hackers-from-stealing-your-data/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fa62adc8bbf7b16f8ca7b9e8cfbf694680932ad7/2025/10/11/298a53df-81a7-486c-8163-6af16e7bbb4d/img-0183.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T13:24:46Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Hiner",
+      "title": "I tested Meta Ray-Ban Display alternatives, and these are better in several ways for less money",
+      "description": "The Rokid smart glasses beat out the Meta in unique ways - but the trade-offs are just as notable.",
+      "url": "https://www.zdnet.com/article/i-tested-meta-ray-ban-display-alternatives-and-these-are-better-in-several-ways-for-less-money/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4fba1d1e9e6287ee138152be782c44d469b3a624/2025/10/08/89cb2583-d533-4c44-b225-10006ecde2ad/rokid-glasses-hiner-02.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T13:21:00Z",
+      "content": "Jason Hiner/ZDNET\r\nIf you're interested in buying a pair of the Meta Ray-Ban Display smart glasses, good luck. They are only available in the US, are back-ordered for weeks or months in several place… [+10578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Datacenter water use? California governor says don't ask, don't tell",
+      "description": "Bid for transparency on consumption evaporates with Newsom veto\nCalifornia Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state's water scarcity challenges.…",
+      "url": "https://www.theregister.com/2025/10/13/california_datacenter_water_bill/",
+      "urlToImage": "https://regmedia.co.uk/2015/06/21/drought.jpg",
+      "publishedAt": "2025-10-13T13:07:03Z",
+      "content": "California Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state's water scarcity challenges.\r\nAss… [+2820 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -965,6 +1004,19 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "DirecTV will soon bring AI ads to your screensaver",
+      "description": "DirecTV wants to use AI to put you, your family, and your pets inside a custom TV screensaver. If that’s not uncanny enough, you’ll find items you can shop for within that AI environment, whether it’s a piece of clothing similar to the one your AI likeness is…",
+      "url": "https://www.theverge.com/news/798174/directv-glance-ai-shoppable-screensavers",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/directv-glance-ai.png?quality=90&strip=all&crop=0%2C2.8466528367743%2C100%2C94.306694326451&w=1200",
+      "publishedAt": "2025-10-10T16:50:03Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can shop for the items that look similar to the ones in the AI-generated screensaver, like clothing or furniture.\r\nYou can shop for the items that look simil… [+3606 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800",
       "publishedAt": "2025-10-10T13:34:10Z",
       "content": "Famed roboticist and iRobot founder Rodney Brooks has sounded the alarm on a humanoid robot investment bubble. He’s not the only one.\r\nIn a recent essay, Brooks calls out the billions of venture doll… [+5456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Microsoft deploys world's first 'supercomputer-scale' GB300 NVL72 Azure cluster — 4,608 GB300 GPUs linked together to form a single, unified accelerator capable of 1.44 PFLOPS of inference",
-      "description": "Microsoft has just added a GB300 NVL72 supercluster to Azure, deploying a total of 4,608 GB300 GPUs across 64 racks. Each rack consists of 72x GPUs interconnected via NVLink, allowing for 1.44 PFLOPS of FP4 Tensor Core performance. Each rack is then intra-con…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-deploys-worlds-first-supercomputer-scale-gb300-nvl72-azure-cluster-4-608-gb300-gpus-linked-together-to-form-a-single-unified-accelerator-capable-of-1-44-pflops-of-inference",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2YFymL3qMNnApYJB7AiCUZ-1280-80.jpg",
-      "publishedAt": "2025-10-10T13:34:04Z",
-      "content": "Microsoft has just upgraded its Azure cloud platform with Nvidia's Blackwell Ultra, deploying what it calls the world's first large-scale GB300 NVL72 supercomputing cluster. This cluster includes sev… [+3453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "How federal workers became a bargaining chip in the government shutdown",
-      "description": "The government may fire thousands of federal workers during the shutdown, advancing the long-term goals of influential conservatives in Washington.",
-      "url": "https://www.cnbc.com/2025/10/10/why-president-trump-wants-to-fire-federal-workers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108114921-1741797726203-gettyimages-2204111314-US_FEDERAL_WORKERS.jpeg?v=1759853409&w=1920&h=1080",
-      "publishedAt": "2025-10-10T12:24:03Z",
-      "content": "The Trump administration is threatening to lay off thousands of federal workers if the government shutdown continues.\r\nAmid the lapse in congressional appropriations that began Oct. 1, President Dona… [+3077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "UK slaps 'strategic market status' on Google, unlocking power to pry open search",
-      "description": "Competition watchdog can now meddle in how the tech giant runs the biggest wing of its organization\nThe UK's competition watchdog has officially slapped Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to r…",
-      "url": "https://www.theregister.com/2025/10/10/cma_google_strategic_status/",
-      "urlToImage": "https://regmedia.co.uk/2017/03/27/search_shutterstock.jpg",
-      "publishedAt": "2025-10-10T12:08:41Z",
-      "content": "The UK's competition watchdog has officially slapped Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to rein in how the search giant runs its emp… [+2780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "China issues port crackdown on all Nvidia AI chip imports, says report — enforcement teams deployed to quash smuggling and investigate data center hardware, targeting H20 and RTX 6000D shipments",
-      "description": "Chinese customs authorities have launched a sweeping crackdown on unlicensed Nvidia chip shipments, with enforcement teams deploying at major ports to inspect hardware shipments.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/china-launches-port-crackdown-on-nvidia-chips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/687RM9xKv6bnEQhqKspsDT-1280-80.jpg",
-      "publishedAt": "2025-10-10T11:56:53Z",
-      "content": "Chinese customs authorities have launched a sweeping crackdown on Nvidia chip shipments, according to reporting by The Financial Timespublished October 9. The report says enforcement teams have been … [+2677 chars]"
     }
   ]
 }
