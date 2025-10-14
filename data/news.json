@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T18:14:13.560Z",
+  "fetchedAt": "2025-10-14T18:45:21.848Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "The $15 USB-C cable I always pack to avoid being hacked at public charging ports",
+      "description": "If you often plug into random chargers, you're an easy target for hackers.",
+      "url": "https://www.zdnet.com/article/the-15-usb-c-cable-i-always-pack-to-avoid-being-hacked-at-public-charging-ports/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T18:22:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cjq8PoSfXYyXTkL7EreevJ-1920-80.jpg",
       "publishedAt": "2025-10-10T17:05:20Z",
       "content": "The United States Senate has just passed the 'GAIN AI' legislation as part of the National Defense Authorization Act (NDAA), which would require AI chipmakers like Nvidia and AMD to prioritize chip o… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "SoftBank is seeking $5 billion loan to invest in OpenAI, plans to use Arm shares as collateral — rapid AI expansion continues, investment could top $30 billion",
-      "description": "SoftBank is securing a $5 billion loan backed by Arm shares to expand its OpenAI and AI infrastructure investments, raising total Arm-collateralized debt to $18.5 billion and further highlighting its leveraged AI expansion strategy.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-is-seeking-usd5-billion-loan-to-invest-in-openai-plans-to-use-arm-shares-as-collateral-rapid-ai-expansion-continues-investment-could-top-usd30-billion",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3GS89WEqgsTxq2rNHfF2bL-2000-80.jpg",
-      "publishedAt": "2025-10-10T16:51:36Z",
-      "content": "SoftBank is arranging a new $5 billion margin loan to invest in OpenAI and use its shares in Arm Holdings as collateral, reports Bloomberg. The move will enable the company to increase its stake in O… [+2634 chars]"
     }
   ]
 }
