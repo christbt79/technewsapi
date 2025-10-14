@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T15:10:23.501Z",
+  "fetchedAt": "2025-10-14T15:37:13.207Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "Bun 1.3 stuffs everything and kitchen sink into JS runtime",
+      "description": "All-in-one toolkit or over-ambitious feature creep? You decide\nVersion 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project's goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion…",
+      "url": "https://www.theregister.com/2025/10/13/bun_13_full_of_features/",
+      "urlToImage": "https://regmedia.co.uk/2025/06/10/shutterstock_developer_coding_code_reflection_in_glasses.jpg",
+      "publishedAt": "2025-10-13T15:17:28Z",
+      "content": "Version 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project's goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion ha… [+3400 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/R7GiyAUhM7Lawv67xCop8N-2000-80.jpg",
       "publishedAt": "2025-10-10T15:23:44Z",
       "content": "China has quietly extended its rare-earth export controls into the heart of the semiconductor supply chain. Based on machine translation of a new notice published October 9, the Ministry of Commerce … [+2909 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Apple’s executive reshuffling isn’t over",
-      "description": "Apple is preparing to shuffle executive positions ahead of former COO Jeff Williams’ retirement this year, according to a report from Bloomberg’s Mark Gurman.  Among other changes, Eddy Cue, Apple’s head of services, will reportedly oversee the health and fit…",
-      "url": "https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_APPLE_I.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-10T15:18:17Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nEddy Cue is reportedly taking over health and fitness, as chip guru Johnny Srouji is evaluating his future with Apple.\r\nEddy Cue is reportedly taking over health… [+2480 chars]"
     }
   ]
 }
