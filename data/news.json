@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-14T19:06:52.316Z",
+  "fetchedAt": "2025-10-14T19:31:26.098Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zhiye Liu",
+      "title": "This Thunderbolt 5 eGPU dock is the Swiss Army knife of all docks for $399 — 500W GaN power supply, M.2 slot, 5G Ethernet networking, LCD screen, and wireless charger all in one",
+      "description": "Humbird 3, an 11-in-1 Thunderbolt 5 eGPU dock, has 177 Kickstarter backers, raising over $63,000.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/this-thunderbolt-5-egpu-dock-is-the-swiss-army-knife-of-all-docks-for-usd399-500w-gan-power-supply-m-2-slot-5g-ethernet-networking-lcd-screen-and-wireless-charger",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8C4CLDCB7fX8JzbMtXQDhN-1920-80.jpg",
+      "publishedAt": "2025-10-13T19:16:58Z",
+      "content": "The Humbird 3, an innovative 11-in-1 Thunderbolt 5 eGPU dock, aims to become the only docking station you'll ever need. With support from over 177 backers on Kickstarter and more than $63,000 raised,… [+3292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "This new Flatpak app store should be installed by default on every Linux distro",
+      "description": "If you use Flatpak apps on Linux, do yourself a favor and install Bazaar to make your app management life a bit easier.",
+      "url": "https://www.zdnet.com/article/this-new-flatpak-app-store-should-be-installed-by-default-on-every-linux-distro/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/aef1bc669eb6d6a0ef5d7744c45433180ae51e7f/2025/10/13/2edbe6f4-542a-40db-b65b-1e62a4366516/bazaar3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-13T19:11:59Z",
+      "content": "Jack Wallen/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Bazaar is a free tool for managing Flatpak apps.</li><li>It can be installed on any Linux dist… [+3592 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c2df02b4093fb34a2f00ff8220215bded82d4598/2025/10/09/9c9f626b-8c9d-4bfa-bdf7-5a7f3624e784/gettyimages-2159107141.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-10T18:03:17Z",
       "content": "twomeows/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI and Anthropic, predictably, are getting the most money.</li><li>Four vib… [+6956 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Prezent raises $30 million to acquire AI services firms -- starting with founder's other company | TechCrunch",
-      "description": "Months after raising $20 million, enterprise-focused AI presentation startup Prezent is raising $30 million for acquisitions.",
-      "url": "https://techcrunch.com/2025/10/10/prezent-raises-30-million-to-acquire-ai-services-firms-starting-with-founders-other-company/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/prezent_slide-library_laptop@2x.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-10T17:40:31Z",
-      "content": "Prezent, a startup that offers an AI-powered presentation builder to enterprises, said today that it has raised $30 million in funding led by Multiplier Capital, Greycroft, and Nomura Strategic Ventu… [+4132 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Applied Digital stock climbs 16% as AI demand fuels data center growth",
-      "description": "The company expanded on its $7 billion lease agreement for artificial intelligence data centers with CoreWeave.",
-      "url": "https://www.cnbc.com/2025/10/10/applied-digital-stock-ai-data-center-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210640-1760111093462-gettyimages-2237856798-img_8507.jpeg?v=1760111127&w=1920&h=1080",
-      "publishedAt": "2025-10-10T17:14:38Z",
-      "content": "Applied Digital shares jumped 16% on Friday after the company posted strong first-quarter revenue that was boosted by artificial intelligence data center demand, putting the stock up more than 350% f… [+1799 chars]"
     }
   ]
 }
