@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-14T11:31:47.460Z",
+  "fetchedAt": "2025-10-14T12:18:25.992Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "End of Windows 10 support is the perfect time for the Windows 11 installer to fail",
+      "description": "Microsoft admits its media creation tool 'might not work as expected' Microsoft has broken its own Windows 11 media creation tool just as millions of users face a deadline to abandon Windows 10 — and with less than 24 hours until support officially ends.…",
+      "url": "https://www.theregister.com/2025/10/13/windows_11_media_creation/",
+      "urlToImage": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg",
+      "publishedAt": "2025-10-13T12:13:25Z",
+      "content": "Microsoft has broken its own Windows 11 media creation tool just as millions of users face a deadline to abandon Windows 10 and with less than 24 hours until support officially ends.\r\nThe company ack… [+1896 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Salesforce announces Agentforce 360 as enterprise AI competition heats up | TechCrunch",
+      "description": "Salesforce announces an upgraded version of its Agentforce platform designed to help enterprises build and deploy AI agents.",
+      "url": "https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2172735483.jpg?resize=1200,806",
+      "publishedAt": "2025-10-13T12:02:48Z",
+      "content": "Salesforce announced Monday the latest version of its AI agent platform as the company looks to lure enterprises to its AI software in an increasingly crowded market.\r\nThe customer relations manager … [+3056 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aria Alamalhodaei",
+      "title": "Anduril's new EagleEye MR helmet sees Palmer Luckey return to his VR roots | TechCrunch",
+      "description": "Anduril Industries on Monday unveiled “EagleEye,” a helmeted computing system that seeks to turn soldiers into AI-augmented warfighters.",
+      "url": "https://techcrunch.com/2025/10/13/andurils-new-eagleeye-mr-helmet-sees-palmer-luckey-return-to-his-vr-roots/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "publishedAt": "2025-10-13T11:56:36Z",
+      "content": "In the latest bid by a Silicon Valley defense firm to assert its own solution for the Armys mixed-reality ambitions, Anduril Industries on Monday unveiled EagleEye, a helmeted computing system that s… [+2048 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/10/rishi_sunask.jpg",
       "publishedAt": "2025-10-10T11:28:36Z",
       "content": "Rishi Sunak is ready to kick-start his career with a couple of openings in the tech industry, a year after the end of his internship as the prime minister of the worlds sixth largest economy.\r\nFollow… [+3435 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Shaq, Sam Altman-backed college startup Campus taps former Meta AI head as CTO",
-      "description": "As part of the deal, Campus will buy Pesenti's artificial intelligence learning platform Sizzle AI for an undisclosed amount.",
-      "url": "https://www.cnbc.com/2025/10/10/sam-altman-college-startup-campus-meta-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1758900553&w=1920&h=1080",
-      "publishedAt": "2025-10-10T11:23:17Z",
-      "content": "Campus, a college startup backed by Sam Altman, has hired Meta's former AI Vice President Jerome Pesenti as its technology head, the company announced Friday.\r\nAs part of the deal, Campus will buy Pe… [+1185 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jason Koebler",
-      "title": "Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’",
-      "description": "Mark Zuckerberg's metaverse chief is urging employees to adopt AI across every workflow as part of a broader shift inside the company.",
-      "url": "https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/",
-      "urlToImage": "https://media.wired.com/photos/68e83d5303215037ef400a32/191:100/w_1280,c_limit/GettyImages-2206406655.jpg",
-      "publishedAt": "2025-10-10T11:00:00Z",
-      "content": "A Meta executive in charge of building the companys metaverse products told employees that they should be using AI to go 5X faster according to an internal message obtained by 404 Media.\r\nMetaverse A… [+2453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China retaliates against U.S. port fees with new charges on American ships",
-      "description": "The move comes a day after China ramped up restrictions on rare earths exports amid ongoing tensions with the U.S.",
-      "url": "https://www.cnbc.com/2025/10/10/china-retaliates-against-us-port-fees-with-charges-on-american-ships.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210425-1760082545598-gettyimages-2239462651-WTO_Lowers_Global_Goods_Trade_Growth_Forecast_for_2026.jpeg?v=1760082563&w=1920&h=1080",
-      "publishedAt": "2025-10-10T10:35:53Z",
-      "content": "BEIJING China on Friday announced that starting Oct. 14, the country will start charging U.S. ships for docking at Chinese ports a direct response to Washington for imposing fees on Chinese vessels a… [+2806 chars]"
     }
   ]
 }
