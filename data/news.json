@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-14T23:31:34.112Z",
+  "fetchedAt": "2025-10-15T00:43:05.590Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Nvidia's GB10 workstations arrive with 1 petaFLOPS of compute, 128GB of VRAM, and a $3K+ price tag",
+      "description": "Systems from Nvidia, Dell, and others available starting Oct. 15\nNvidia's tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project …",
+      "url": "https://www.theregister.com/2025/10/13/nvidia_gb10_spark/",
+      "urlToImage": "https://regmedia.co.uk/2025/03/18/nvidia_dgx_spark.jpg",
+      "publishedAt": "2025-10-13T23:53:36Z",
+      "content": "Nvidia's tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project Digit… [+3675 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -358,12 +371,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -371,12 +384,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/b24kvEjwWd9LvM48U3R6bi-2000-80.jpg",
       "publishedAt": "2025-10-10T18:38:53Z",
       "content": "Heads of state from the U.S. and China had planned to convene next week in South Korea, amid prolonged and ongoing trade tensions between the two nations. It seems like this meeting is now off the ta… [+3829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Intel's 18A production starts before TSMC’s competing N2 tech — here's how the two process nodes compare",
-      "description": "Intel has begun mass production of its Core Ultra 3 'Panther Lake' processors built on 18A node at Fab 52 in Arizona, marking the first large-scale deployment of this advanced process ahead of TSMC’s N2.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intels-18a-production-starts-before-tsmcs-competing-n2-tech-heres-how-the-two-process-nodes-compare",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FonzDcxPvgjCqk9CR2DQvn-2560-80.jpg",
-      "publishedAt": "2025-10-10T18:34:34Z",
-      "content": "Intel has started volume production of its Core Ultra 3-series 'Panther Lake' processors, the company said on Thursday. Intel's Panther Lake is a crucial CPU for the company, designed to demonstrate … [+8646 chars]"
     }
   ]
 }
