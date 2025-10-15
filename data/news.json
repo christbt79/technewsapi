@@ -1,6 +1,136 @@
 {
-  "fetchedAt": "2025-10-15T15:36:08.533Z",
+  "fetchedAt": "2025-10-15T16:10:06.497Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Gmail now uses AI to help you find meeting times",
+      "description": "Google is trying to make it easier to find time to meet with coworkers and clients. It’s launching a new Gemini AI-powered “Help me schedule” feature that suggests meeting time slots based on your Google Calendar and the context of the message. You can direct…",
+      "url": "https://www.theverge.com/news/799160/google-gmail-gemini-ai-help-me-schedule",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-14T16:03:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI-powered Help me schedule feature will use the context of your email and your Google Calendar to help find available time slots.\r\nThe AI-powered Help me sc… [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump trade rep says new 100% tariff on China depends on Beijing's next move",
+      "description": null,
+      "url": "https://www.cnbc.com/2025/10/14/trump-trade-china-tariffs-greer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211870-1760456890008-Greer3.jpg?v=1760457021&w=1920&h=1080",
+      "publishedAt": "2025-10-14T16:03:18Z",
+      "content": "President Donald Trump could still slap China with 100% tariffs on Nov. 1 or sooner depending on Beijing's next move in a dispute over rare earths, U.S. Trade Representative Jamieson Greer told CNBC … [+620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Spend too much time scheduling meetings? This Gemini feature could save you the hassle",
+      "description": "Google says this new Gemini feature will put an end to tedious emailing. Here's how it works.",
+      "url": "https://www.zdnet.com/article/spend-too-much-time-scheduling-meetings-this-gemini-feature-could-save-you-the-hassle/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7977a84dc7f0550d0a871e026eb13488bc126a1b/2025/08/28/3848813c-a2ac-4a89-bf87-51682faa6585/gemini-on-premise.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T16:00:34Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google announced a new \"Help me schedule\" feature.</li><li>It enables Gemini to sch… [+2851 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Google Meet launches an AI-powered makeup feature",
+      "description": "Google Meet finally has a makeup filter for those days when you don't feel like applying lipstick.",
+      "url": "https://techcrunch.com/2025/10/14/google-meet-launches-an-ai-powered-makeup-feature/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GoogleMeet-makeup-e1760456693707.png?w=818",
+      "publishedAt": "2025-10-14T16:00:12Z",
+      "content": "Google Meet finally has an AI-powered makeup filter for those days when you don’t feel like applying real makeup before a meeting. The new capability will help Google Meet compete with other video-co… [+942 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoë Schiffer, Louise Matsakis",
+      "title": "‘Sovereign AI’ Has Become a New Front in the US-China Tech War",
+      "description": "OpenAI has announced “AI sovereignty\" partnerships with governments around the world, but can proprietary models compete with Beijing’s open source offerings?",
+      "url": "https://www.wired.com/story/openai-sovereign-ai-us-china-tech-war/",
+      "urlToImage": "https://media.wired.com/photos/68ed60d1bfe13206c9ff9d9f/191:100/w_1280,c_limit/Biz-model-behavior-stargate-uae-2236543888.jpg",
+      "publishedAt": "2025-10-14T16:00:00Z",
+      "content": "OpenAI has announced a number of projects this year with foreign governments to help build out what it has called their sovereign AI systems. The company says the deals, some of which are being coord… [+3539 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Coco Robotics taps UCLA professor to lead new physical AI research lab | TechCrunch",
+      "description": "Coco Robotics is working toward automating its fleet of delivery robots using its millions of miles of collected data.",
+      "url": "https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Coco-Robotics-image.jpg?resize=1200,960",
+      "publishedAt": "2025-10-14T15:53:32Z",
+      "content": "Coco Robotics, a startup known for its fleet of last-mile delivery bots, is looking to get more information out of the five years’ worth of data its robots have collected. Its answer: a physical AI l… [+2792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "You can test Microsoft's new in-house AI image generator model now - here's how",
+      "description": "It's already scoring in the top ten at the AI leaderboard LMArena.",
+      "url": "https://www.zdnet.com/article/you-can-test-microsofts-new-in-house-ai-image-generator-model-now-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8270da20b8f878684eb08f59c1f00a0f734bd3fc/2025/10/14/da187e9d-4cb8-4df2-8ad0-6478a492abce/gettyimages-2128592701.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T15:52:27Z",
+      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft is now testing its own in-house AI image generation model.</li><li>Y… [+3728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "I put AirTags on everything and this $65 deal makes the 4-pack too good to skip",
+      "description": "The Apple AirTag 4-pack is now at an all-time low price, making it the perfect accessory to track your keys, wallets, and luggage during the holiday travel season.",
+      "url": "https://www.zdnet.com/article/i-put-airtags-on-everything-and-this-65-deal-makes-the-4-pack-too-good-to-skip/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4b879ea3527a4c8ff4b76c6024c633dcf7d1eed7/2024/09/30/e7e268f6-caf5-4344-a640-71016a177cea/4pk.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T15:52:15Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe holiday season is almost here, which means that some of the busiest (and most stressful) travel days of the year are fast … [+3698 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "AMD and Oracle partner to deploy 50,000 MI450 Instinct GPUs in new AI superclusters — massive capacity expansion set for 2026, powered by AMD's Helios rack",
+      "description": "AMD is set to provide 50,000 of its next-generation MI450 Instinct GPUs for a new Oracle supercluster that will power next-generation AI inference and training. This joins the many other high-profile hardware and infrastructure deals that many of the top tech…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-oracle-partner-to-deploy-50-000-mi450-instinct-gpus-in-new-ai-superclusters-deployment-of-expansion-set-for-2026-powered-by-amds-helios-rack",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dj3e2xEdVMkhEEyKwVWHNM-1920-80.jpg",
+      "publishedAt": "2025-10-14T15:51:49Z",
+      "content": "AMD and Oracle have inked a deal for a deployment of 50,000 next-generation MI450 Instinct professional graphics cards and Zen 6 Epyc CPUs as part of an \"AI supercluster\" Oracle is developing for its… [+3306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "You can hide ads on Google now, thanks to this new feature - try it now",
+      "description": "You'll soon be able to see fewer sponsored ads in Search.",
+      "url": "https://www.zdnet.com/article/you-can-hide-ads-on-google-now-thanks-to-this-new-feature-try-it-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ac8325d9064533d659c5f62910b6a77e3979ee26/2025/10/14/2e4b7fd5-acb3-4004-baef-da8f1c4587d4/gettyimages-2197380148.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T15:50:08Z",
+      "content": "SOPA Images / Contributor/LightRocket via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new feature will hide sponsored results in Search.</li>… [+1997 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1170,136 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4fba1d1e9e6287ee138152be782c44d469b3a624/2025/10/08/89cb2583-d533-4c44-b225-10006ecde2ad/rokid-glasses-hiner-02.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-13T13:21:00Z",
       "content": "Jason Hiner/ZDNET\r\nIf you're interested in buying a pair of the Meta Ray-Ban Display smart glasses, good luck. They are only available in the US, are back-ordered for weeks or months in several place… [+10578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Datacenter water use? California governor says don't ask, don't tell",
-      "description": "Bid for transparency on consumption evaporates with Newsom veto\nCalifornia Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state's water scarcity challenges.…",
-      "url": "https://www.theregister.com/2025/10/13/california_datacenter_water_bill/",
-      "urlToImage": "https://regmedia.co.uk/2015/06/21/drought.jpg",
-      "publishedAt": "2025-10-13T13:07:03Z",
-      "content": "California Governor Gavin Newsom has vetoed legislation requiring data centers to disclose their water consumption, even as he champions efforts to address the state's water scarcity challenges.\r\nAss… [+2820 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "I tried the new Sora 2 to generate AI videos - and the results were pure sorcery",
-      "description": "The new Sora 2 app can turn text or images into videos with dialog and sound effects in seconds.",
-      "url": "https://www.zdnet.com/article/i-tried-the-new-sora-2-to-generate-ai-videos-and-the-results-were-pure-sorcery/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a38ac725d6750339a80be15f4a4ec437ae6a878a/2025/10/13/465db668-1523-4f72-8da8-d32fab7deb14/how-i-use-openais-new-sora-to-create-amazing-ai-generated-videos.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T12:34:00Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's Sora 2 turns text prompts into short, AI-generated videos.</li><li>Yo… [+3103 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "China probes Qualcomm's Autotalks deal amid rising US trade tensions",
-      "description": "Beijing insists it's business as usual – Washington might see it differently\nChina's competition regulator has launched an investigation into Qualcomm's purchase of Israeli firm Autotalks, the latest salvo in the escalating tech trade war between Washington a…",
-      "url": "https://www.theregister.com/2025/10/13/qualcomm_autotalks_china_probe/",
-      "urlToImage": "https://regmedia.co.uk/2024/06/07/investigate_shutterstock.jpg",
-      "publishedAt": "2025-10-13T12:21:11Z",
-      "content": "China's competition regulator has launched an investigation into Qualcomm's purchase of Israeli firm Autotalks, the latest salvo in the escalating tech trade war between Washington and Beijing.\r\nThe … [+2859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "End of Windows 10 support is the perfect time for the Windows 11 installer to fail",
-      "description": "Microsoft admits its media creation tool 'might not work as expected' Microsoft has broken its own Windows 11 media creation tool just as millions of users face a deadline to abandon Windows 10 — and with less than 24 hours until support officially ends.…",
-      "url": "https://www.theregister.com/2025/10/13/windows_11_media_creation/",
-      "urlToImage": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg",
-      "publishedAt": "2025-10-13T12:13:25Z",
-      "content": "Microsoft has broken its own Windows 11 media creation tool just as millions of users face a deadline to abandon Windows 10 and with less than 24 hours until support officially ends.\r\nThe company ack… [+1896 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Salesforce announces Agentforce 360 as enterprise AI competition heats up | TechCrunch",
-      "description": "Salesforce announces an upgraded version of its Agentforce platform designed to help enterprises build and deploy AI agents.",
-      "url": "https://techcrunch.com/2025/10/13/salesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2172735483.jpg?resize=1200,806",
-      "publishedAt": "2025-10-13T12:02:48Z",
-      "content": "Salesforce announced Monday the latest version of its AI agent platform as the company looks to lure enterprises to its AI software in an increasingly crowded market.\r\nThe customer relations manager … [+3056 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aria Alamalhodaei",
-      "title": "Anduril's new EagleEye MR helmet sees Palmer Luckey return to his VR roots | TechCrunch",
-      "description": "Anduril Industries on Monday unveiled “EagleEye,” a helmeted computing system that seeks to turn soldiers into AI-augmented warfighters.",
-      "url": "https://techcrunch.com/2025/10/13/andurils-new-eagleeye-mr-helmet-sees-palmer-luckey-return-to-his-vr-roots/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "publishedAt": "2025-10-13T11:56:36Z",
-      "content": "In the latest bid by a Silicon Valley defense firm to assert its own solution for the Armys mixed-reality ambitions, Anduril Industries on Monday unveiled EagleEye, a helmeted computing system that s… [+2048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Dutch government seizes local chipmaker from its Chinese owner — Nexperia parent company Wingtech preps response to 'exceptional' steps taken to safeguard 'crucial technological knowledge'",
-      "description": "The Dutch government has taken control of the Chinese-owned Nexperia, an automotive and consumer chip production company, for national security reasons. It's claiming that to prevent key technologies from leaving European and Dutch soil, it needs to put hard …",
-      "url": "https://www.tomshardware.com/tech-industry/dutch-government-seizes-local-chipmaker-from-its-chinese-owner-nexperia-parent-company-wingtech-preps-response-to-exceptional-steps-taken-to-safeguard-crucial-technological-knowledge",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H8Pz8aghkUEQtjyxTYhzzD-1920-80.jpg",
-      "publishedAt": "2025-10-13T11:26:05Z",
-      "content": "The Dutch government has taken the \"exceptional\" step of seizing control of strategically important Dutch chip maker, Nexperia, from its Chinese owner, Wingtech, according to Reuters. The government … [+2969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Dutch government puts Nexperia on a short leash over chip security fears",
-      "description": "Minister invokes powers to stop firm shifting knowledge to China, citing governance shortcomings The Dutch government has placed Nexperia - a Chinese-owned semiconductor company that previously operated Britain's Newport Wafer Fab — under special administrati…",
-      "url": "https://www.theregister.com/2025/10/13/nexperia_special_measures/",
-      "urlToImage": "https://regmedia.co.uk/2023/03/09/dutch_shutterstock.jpg",
-      "publishedAt": "2025-10-13T11:01:02Z",
-      "content": "The Dutch government has placed Nexperia - a Chinese-owned semiconductor company that previously operated Britain's Newport Wafer Fab under special administrative measures, citing serious governance … [+2641 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Gregory Barber",
-      "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
-      "description": "Whether your chip is running a vintage computer game or the latest DeepSeek model, it’ll reward you for speaking its native language.",
-      "url": "https://www.wired.com/story/programming-assembly-artificial-intelligence/",
-      "urlToImage": "https://media.wired.com/photos/68e6c45f693f7ce213ae491f/191:100/w_1280,c_limit/MR%20011%20'Assembly%20Codes'.jpg",
-      "publishedAt": "2025-10-13T11:00:00Z",
-      "content": "Rollercoaster Tycoon wasnt the most fashionable computer game out there in 1999. But if you took a look beneath the pixelsthe rickety rides, the crowds of hungry, thirsty, barfing people (and the jan… [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "China probes Qualcomm with antitrust investigation in the latest asymmetric trade negotiation salvo — Autotalks acquisition risks fouling anti-monopoly laws",
-      "description": "Chinese regulators are investigating Qualcomm over a months-old deal to purchase connected car chip firm Autotalks, in a move that could be just the latest aggressive action from China as part of ongoing high-tech trade negotiations.",
-      "url": "https://www.tomshardware.com/tech-industry/china-probes-qualcomm-with-antitrust-investigation-in-the-latest-asymmetric-trade-negotiation-salvo-autotalks-acquisition-risks-fouling-anti-monopoly-laws",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pGD2aLHjjSgArcXSNL8n9F-1920-80.jpg",
-      "publishedAt": "2025-10-13T10:51:10Z",
-      "content": "China's regulatory body for business, the State Administration for Market Regulation (SAMD), has announced an antitrust investigation is now under, looking into the purchase of Israeli connected-vehi… [+6622 chars]"
     }
   ]
 }
