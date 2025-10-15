@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-15T14:42:18.448Z",
+  "fetchedAt": "2025-10-15T15:10:06.379Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites | TechCrunch",
+      "description": "Flint raised a $5 million seed round led by Accel, with participation from Sheryl Sandberg’s fund, Sandberg Bernthal Venture Partners, and prior investor Neo.",
+      "url": "https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/DSC09795-1.jpg?resize=1200,801",
+      "publishedAt": "2025-10-14T15:05:28Z",
+      "content": "Sometimes, you can only spot what’s wrong when you’ve been part of the process for a while. That was the case for Michelle Lim, who, while running Warps growth marketing effort earlier this year, rea… [+3796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Juggling projects? This powerful tool can help you stay better organized - for free",
+      "description": "If you need help managing individual, family, or work projects, this handy service/app has really helped me keep things organized and moving forward.",
+      "url": "https://www.zdnet.com/home-and-office/work-life/juggling-projects-this-powerful-tool-can-help-you-stay-better-organized-for-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cc52852348f43ec4353f3dab33cd7ecd7e35430e/2025/10/14/792e7d7b-fed1-4058-b369-3b6109a71a8b/zenkit.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T14:58:01Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Zenkit is a project management tool for all platforms.</li><li>Individuals and smal… [+4929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The AI boom is lifting the stock market, but it may be masking a weaker economy",
+      "description": "AI spending is powering growth in GDP and profits but experts warn the rest of the U.S. economy may be weakening.",
+      "url": "https://www.cnbc.com/2025/10/14/ai-infrastructure-boom-masks-potential-us-recession-analyst-warns.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200913-17582228022025-09-18t191018z_8446028_rc2fugavvq8c_rtrmadp_0_usa-ai-microsoft-data.jpeg?v=1758222867&w=1920&h=1080",
+      "publishedAt": "2025-10-14T14:47:47Z",
+      "content": "A surge in artificial intelligence infrastructure spending is lifting GDP and driving market optimism, but some experts warn the boom could be concealing underlying economic weakness.\r\nGlobal AI inve… [+2862 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "The latest Moto Razr Ultra foldable is an even better value at $999",
+      "description": "If you’re on the fence about trying a foldable smartphone, Motorola’s Razr Ultra (2025) may be the one you’ve been waiting for, and you can pick it up for $999.99 ($300 off) at Amazon and Best Buy. Our reviewer praised its design (the wooden back panel has a …",
+      "url": "https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Verge-Deals-Motorola-Razr-Ultra-2025.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-14T14:47:33Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, we found great deals on Ankers Nano Charging Station, and the Amazfit Band 7.\r\nPlus, we found great deals on Ankers Nano Charging Station, and the Amazfit … [+5233 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -150,12 +202,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -163,12 +215,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -982,12 +1034,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -995,12 +1047,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2019/09/20/sellafield.jpg",
       "publishedAt": "2025-10-13T09:00:14Z",
       "content": "The government-owned company that runs the UK's most important nuclear site is weighing up whether to keep its legacy SAP software running beyond the vendor's extended support deadline.\r\nSellafield L… [+4318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "German state replaces Microsoft Exchange and Outlook with open-source email",
-      "description": "Digital sovereignty isn't a phrase you often hear in the US, but it's a big deal in Europe. Here's why.",
-      "url": "https://www.zdnet.com/article/german-state-replaces-microsoft-exchange-and-outlook-with-open-source-email/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5a4dacfb4636abaf7cc370ee1ebcad9db99398f4/2025/10/13/5f3727aa-1731-4936-a143-4f2f4faf804e/gettyimages-1323314843.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T08:56:24Z",
-      "content": "Harald Nachtmann/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Schleswig-Holstein has moved from Microsoft Exchange and Outlook to Open-Xc… [+4434 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Rupert Goodwins",
-      "title": "Arduino has a new job selling chips for its new owner. Let's not pretend otherwise",
-      "description": "Getting swallowed by a whale is a life-changing event no matter what the whale says\nOpinion The successful, sector-defining, open source Italian embedded platform provider Arduino had a little bash in Turin recently. It made a few announcements, including a n…",
-      "url": "https://www.theregister.com/2025/10/13/arduino_new_job/",
-      "urlToImage": "https://regmedia.co.uk/2021/01/08/fish.jpg",
-      "publishedAt": "2025-10-13T08:15:05Z",
-      "content": "Opinion The successful, sector-defining, open source Italian embedded platform provider Arduino had a little bash in Turin recently. It made a few announcements, including a new single-board computer… [+4940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "UK waves £750M supercomputer contract at HPC builders",
-      "description": "Pre-market charm offensive begins for Edinburgh's next national number-cruncher\nThe British government is putting out feelers to industry ahead of the procurement process for the country's most powerful supercomputer, set to begin next year.…",
-      "url": "https://www.theregister.com/2025/10/13/edinburgh_supercomputer_procurement/",
-      "urlToImage": "https://regmedia.co.uk/2018/09/06/edinburgh_castle_shutterstock.jpg",
-      "publishedAt": "2025-10-13T07:30:06Z",
-      "content": "The British government is putting out feelers to industry ahead of the procurement process for the country's most powerful supercomputer, set to begin next year.\r\nUK Research and Innovation (UKRI) ha… [+2774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia in 'highly exceptional' move",
-      "description": "The Dutch government has invoked the Goods Availability Act to take control of Nexperia, a Chinese-owned semiconductor maker based in the Netherlands.",
-      "url": "https://www.cnbc.com/2025/10/13/dutch-government-takes-control-of-chinese-owned-chipmaker-nexperia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211030-1760329391651-gettyimages-1239673072-nexperia.jpeg?v=1760329445&w=1920&h=1080",
-      "publishedAt": "2025-10-13T06:14:22Z",
-      "content": "The Dutch government has taken control of Nexperia, a Chinese-owned semiconductor maker based in the Netherlands, in an extraordinary move to ensure a sufficient supply of its chips remains available… [+3261 chars]"
     }
   ]
 }
