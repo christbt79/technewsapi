@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T04:39:48.836Z",
+  "fetchedAt": "2025-10-15T05:09:51.077Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Europe fights for AI independence to avoid becoming tech ‘Colony’",
+      "description": "Europe’s push mirrors efforts around the world, from Canada to South Korea to the Middle East, where governments are frantically marshalling resources to avoid ceding too much of the AI market to the US and China",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-14/europe-aims-for-ai-independence-to-avoid-reliance-on-us-and-china",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/frbw6s/article70161308.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg",
+      "publishedAt": "2025-10-14T04:43:54Z",
+      "content": "In June, French president Emmanuel Macron held an exclusive dinner at the Élysée Palace with a special guest: Nvidias Jensen Huang. Wine glasses clinked in honor of a deal his company had just unveil… [+11973 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -449,12 +462,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -462,12 +475,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108128052-1744079576004-gettyimages-1317950512-_r0a0224.jpeg?v=1760117396&w=1920&h=1080",
       "publishedAt": "2025-10-10T20:55:50Z",
       "content": "Govini, a defense tech software startup taking on the likes of Palantir, has blown past $100 million in annual recurring revenue, the company announced Friday.\r\n\"We're growing faster than 100% in a t… [+1999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "OpenAI GPT-5: great taste, less filling, now with 30% less bias",
-      "description": "AI model maker touts effort to depoliticize its product\nOpenAI says GPT-5 has 30 percent less political bias than its prior AI models.…",
-      "url": "https://www.theregister.com/2025/10/10/openai_gpt5_bias/",
-      "urlToImage": "https://regmedia.co.uk/2022/10/05/justice_shutterstock.jpg",
-      "publishedAt": "2025-10-10T20:20:11Z",
-      "content": "OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.\r\nThat's a difficult claim to assess, given that AI model bias has been an issue since machine learning became a thing, a… [+3468 chars]"
     }
   ]
 }
