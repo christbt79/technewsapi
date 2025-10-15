@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T20:10:25.283Z",
+  "fetchedAt": "2025-10-15T20:38:40.268Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "This HP EliteBook I tested proves why Windows laptops still rule the workplace",
+      "description": "HP's EliteBook Ultra G1i is impressively lightweight, reliably powerful, and built to last on battery life. But there's more to it.",
+      "url": "https://www.zdnet.com/article/this-hp-elitebook-i-tested-proves-why-windows-laptops-still-rule-the-workplace/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cbbaf18b61873a257611b310697df9d4150578d4/2025/04/09/37004b75-7537-495e-a7b8-317853549901/hp-elitebook-ultra-g1i-image-2.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T20:17:58Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google. \r\nWork laptops don't have to be boring hunks of gray metal. There are plenty of eye-catching models providing engaging experiences. People lookin… [+5199 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/48a7372d0d8db9984b36e479f61043edbf9f197a/2025/10/13/b82849f4-a642-40c5-b008-d9be8e50a26a/screenshot-2025-10-13-at-9-18-37am.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-13T16:22:12Z",
       "content": "Winboat\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Winboat is a new way of running Windows apps on Linux.</li><li>The latest version adds multi-monitor sup… [+3995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "Bun 1.3 stuffs everything and kitchen sink into JS runtime",
-      "description": "All-in-one toolkit or over-ambitious feature creep? You decide\nVersion 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project's goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion…",
-      "url": "https://www.theregister.com/2025/10/13/bun_13_full_of_features/",
-      "urlToImage": "https://regmedia.co.uk/2025/06/10/shutterstock_developer_coding_code_reflection_in_glasses.jpg",
-      "publishedAt": "2025-10-13T15:17:28Z",
-      "content": "Version 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project's goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion ha… [+3400 chars]"
     }
   ]
 }
