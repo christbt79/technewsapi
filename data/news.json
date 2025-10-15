@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-15T11:31:35.438Z",
+  "fetchedAt": "2025-10-15T12:19:01.645Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oracle Cloud to deploy 50,000 AMD AI chips, signaling new Nvidia competition",
+      "description": "Oracle Cloud Infrastructure on Tuesday announced that it will deploy 50,000 Advanced Micro Devices graphics processors starting in the second half of 2026.",
+      "url": "https://www.cnbc.com/2025/10/14/oracle-cloud-to-deploy-50000-amd-ai-chips-as-alternative-to-nvidia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108158703-1749756531719-Screenshot_2025-06-12_at_32333_PM.png?v=1750098597&w=1920&h=1080",
+      "publishedAt": "2025-10-14T12:06:16Z",
+      "content": "Oracle Cloud Infrastructure on Tuesday announced that it will deploy 50,000 Advanced Micro Devices graphics processors starting in the second half of 2026.\r\nThe move is the latest sign that cloud com… [+2426 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Shadow AI: Staffers are bringing AI tools they use at home to work, warns Microsoft",
+      "description": "Bring Your Copilot To Work Day, anyone?\nMicrosoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.…",
+      "url": "https://www.theregister.com/2025/10/14/microsoft_warns_of_the_dangers/",
+      "urlToImage": "https://regmedia.co.uk/2025/01/22/shutterstock_imposter_with_demonic_shadow.jpg",
+      "publishedAt": "2025-10-14T12:04:06Z",
+      "content": "Microsoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.\r\nShadow IT has plagued IT administr… [+2371 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "HP EliteBook 6 G1q Review: An Always-Connected Laptop",
+      "description": "This laptop’s built-in cellular radio is a standout feature in a device that's otherwise not worth the cost.",
+      "url": "https://www.wired.com/review/hp-elitebook-6-g1q/",
+      "urlToImage": "https://media.wired.com/photos/68eda149d38069fa305c069b/191:100/w_1280,c_limit/Review-%20HP%20EliteBook%206%20G1q.png",
+      "publishedAt": "2025-10-14T12:00:00Z",
+      "content": "Benchmark scores were unsurprising, turning in slightly above-average numbers across the board when compared to other Snapdragon X Plus laptops. Even its battery life of just over 17 hours when playi… [+1491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Salesforce's Agentforce software is coming to OpenAI's ChatGPT later this year",
+      "description": "Companies that work with OpenAI and Salesforce will soon be able to sell products through ChatGPT's instant checkout feature.",
+      "url": "https://www.cnbc.com/2025/10/14/salesforce-will-bring-agentforce-to-openais-chatgpt-later-in-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211552-1760399850212-gettyimages-2194677103-DAVOS_WEF_2025.jpeg?v=1760399909&w=1920&h=1080",
+      "publishedAt": "2025-10-14T11:45:01Z",
+      "content": "Salesforce is ramping up partnerships with leaders in generative artificial intelligence as investors continue to fear that the software company faces business risks due to the rapid growth of AI.\r\nJ… [+2716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Former Intel CEO Pat Gelsinger confirms the industry is in an AI bubble, but that a pop could be several years away — 'We’re displacing all of the internet and the service provider industry as we think about it today'",
+      "description": "The former CEO says that we're in an AI bubble, but technological developments in AI efficiency will prevent it from bursting, at least in the near future.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/former-intel-ceo-pat-gelsinger-confirms-the-industry-is-in-an-ai-bubble-but-that-a-pop-could-be-several-years-away-were-displacing-all-of-the-internet-and-the-service-provider-industry-as-we-think-about-it-today",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dp9eGTbEZZXQ4j4wDBJ22F-2000-80.jpg",
+      "publishedAt": "2025-10-14T11:41:21Z",
+      "content": "Pat Gelsinger says we’re already in an AI bubble, but says it could be several years before anything bad happens. The former Intel CEO was asked during an interview on CNBC if we’re in an AI bubble, … [+2888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Lance takes aim at Parquet in file format joust",
+      "description": "Challenger seeks to unseat incumbent for machine learning workloads\nA fledgling file format that aims to address limitations in the widely-used Parquet is under review for adoption by an open source foundation.…",
+      "url": "https://www.theregister.com/2025/10/14/lance_parquet/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/14/jousting_knights.jpg",
+      "publishedAt": "2025-10-14T11:34:04Z",
+      "content": "A fledgling file format that aims to address limitations in the widely-used Parquet is under review for adoption by an open source foundation.\r\nLance is built on the idea that Parquet widely used in … [+4500 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -709,12 +787,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -722,12 +800,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jpzTKxu8gNjKb7xphDZ8NS-1999-80.jpg",
       "publishedAt": "2025-10-12T12:20:00Z",
       "content": "Apple announced at Hexacon 2025, the top global offensive security conference, that it will double its highest security bounty to $2 million. This makes Cupertino the most generous company that offer… [+2815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "AI datacenters in the US aren't 'running on coal' — but this dirty fuel has found favor for feeding demand spikes due to increased gas prices",
-      "description": "AI datacenters are driving up U.S. power demand and boosting coal generation by nearly 20%, but while nuclear plants supply the steady output needed for long training runs, coal and renewables mainly serve to stabilize the grid and absorb the sharp, unpredict…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-datacenters-in-the-us-arent-running-on-coal-but-this-dirty-fuel-has-found-favor-for-feeding-demand-spikes-due-to-increased-gas-prices",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/n4uucZP4dV7mmuFv43MWGE-2560-80.jpg",
-      "publishedAt": "2025-10-12T11:01:41Z",
-      "content": "U.S. datacenters are increasingly relying on coal-fired electricity as expanding AI infrastructure drives up power needs and makes natural gas less affordable, reports The Register. However, in state… [+3489 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "These Bose headphones took my favorite AirPods Max battery feature - and did it even better",
-      "description": "Expanded battery capacity is a plus, but smarter power management is even better.",
-      "url": "https://www.zdnet.com/article/these-bose-headphones-took-my-favorite-airpods-max-battery-feature-and-did-it-even-better/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0eb168c0c83eb34036ffdc05cb3bc9d4b43b3d6b/2025/10/10/2eb8d4a8-2a4d-4598-95c2-d0e96222e576/qcu2-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-12T11:00:29Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been one of Bose's weaknesses. Its … [+4185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Inside the belly of the beast: A technical walk through Intel's 18A production facility at Fab52",
-      "description": "Now if Lip Bu Tan can just find a willing customer deep dive  Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.…",
-      "url": "https://www.theregister.com/2025/10/12/gelsingers_foundry_dream_lives_on/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/09/intel_fab52_asml_52.jpg",
-      "publishedAt": "2025-10-12T08:00:12Z",
-      "content": "deep dive Not long after rejoining Intel in 2021, former CEO Pat Gelsinger announced an ambitious plan to reinvent the chipmaker as a contract semiconductor manufacturing powerhouse.\r\nFour years late… [+8375 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Thinking Machines Lab co-founder Andrew Tulloch heads to Meta | TechCrunch",
-      "description": "AI researcher Andrew Tulloch reportedly announced his departure to employees in a message on Friday.",
-      "url": "https://techcrunch.com/2025/10/11/thinking-machines-lab-co-founder-andrew-tulloch-heads-to-meta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "publishedAt": "2025-10-11T19:10:37Z",
-      "content": "Thinking Machines Lab, the AI startup led by former OpenAI CTO Mira Murati, has lost one of its co-founders to Meta.\r\nThe Wall Street Journal reports that AI researcher Andrew Tulloch announced his d… [+676 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Apple says goodbye to the Clips app",
-      "description": "Apple appears to be winding down support of Clips, with the company removing Clips from the App Store and saying it will no longer be making any updates.",
-      "url": "https://techcrunch.com/2025/10/11/apple-says-goodbye-to-the-clips-app/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/img_2225.jpg?resize=1200,800",
-      "publishedAt": "2025-10-11T18:47:59Z",
-      "content": "Apple appears to be winding down support of Clips, with the company removing Clips from the App Store and saying it will no longer be making any updates.\r\nIn a support page on the Apple website, the … [+1455 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Ready or not, enterprises are betting on AI | TechCrunch",
-      "description": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM announcing a strategic partnership, and Deloitte also announcing…",
-      "url": "https://techcrunch.com/2025/10/11/ready-or-not-enterprises-are-betting-on-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
-      "publishedAt": "2025-10-11T17:52:57Z",
-      "content": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM anno… [+4155 chars]"
     }
   ]
 }
