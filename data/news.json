@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T05:37:45.392Z",
+  "fetchedAt": "2025-10-15T06:14:55.877Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google to invest $10 billion in AI data center project in India",
+      "description": "Google plans to invest $10 billion into data center and AI infrastructure in Southern India, according to local officials.",
+      "url": "https://www.cnbc.com/2025/10/14/google-to-invest-10-billion-in-ai-data-center-project-in-india.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106441670-1584102543017preview.jpg?v=1760418981&w=1920&h=1080",
+      "publishedAt": "2025-10-14T06:08:54Z",
+      "content": "Google will invest $10 billion into building new data centers in southern India, according to local officials, marking one of its largest investments in the South Asian nation as tech giants scramble… [+1612 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -475,12 +488,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -488,12 +501,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2194969562.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-10T21:14:09Z",
       "content": "This is why we can’t have nice things. | Chip Somodevilla/Getty Images\r\n\n\nThe Voting Rights Act of 1965 is among the most successful laws in US history. And it is one of the most morally righteous th… [+17688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Microsoft Copilot AI can now pull information directly from Outlook, Gmail, and other apps",
-      "description": "Here's what you can use the new connections for.",
-      "url": "https://www.zdnet.com/article/microsoft-copilot-ai-can-now-pull-information-directly-from-outlook-gmail-and-other-apps/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/74614f24a03ca5a9f7f0533eb20e77844c0f54ab/2025/10/13/8099d620-0787-473a-a0e9-30b5f08ea331/gettyimages-2225304197.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-10T21:00:00Z",
-      "content": "SOPA Images/Contributor/LightRocket via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot can now connect directly with OneDrive, Google Driv… [+3438 chars]"
     }
   ]
 }
