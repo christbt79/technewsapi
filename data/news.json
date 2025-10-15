@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-15T10:42:08.967Z",
+  "fetchedAt": "2025-10-15T11:08:01.396Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oura reaches $11 billion valuation with new $900 million fundraise",
+      "description": "Oura reaches $11 billion valuation with new $900 million fundraise.",
+      "url": "https://www.cnbc.com/2025/10/14/oura-ringmaker-valuation-fundraise.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108042318-1727883694867-02-Oura-Ring-4-Product-Imagery.jpg?v=1727883806&w=1920&h=1080",
+      "publishedAt": "2025-10-14T11:00:01Z",
+      "content": "Oura said Tuesday that it raised over $900 million in a new Series E funding round, bringing the company's valuation to $11 billion.\r\nThe fundraise, led by Fidelity Management &amp; Research Company,… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "California just passed new AI and social media laws. Here's what they mean for Big Tech",
+      "description": "California Gov. Gavin Newsom signed a series of bills Monday targeting child online safety as concerns over AI and social media use keep mounting.",
+      "url": "https://www.cnbc.com/2025/10/14/heres-what-californias-new-ai-social-media-laws-mean-for-big-tech.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211453-1760382792321-gettyimages-2228237489-AA_08082025_2362705.jpeg?v=1760382867&w=1920&h=1080",
+      "publishedAt": "2025-10-14T11:00:01Z",
+      "content": "California Gov. Gavin Newsom signed a series of bills Monday targeting child online safety as concerns over the risks associated with artificial intelligence and social media use keep mounting.\r\n\"We … [+3853 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google to invest $15B in Indian AI infrastructure hub | TechCrunch",
+      "description": "Google's investment in India will roll out over the next five years, through 2030.",
+      "url": "https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/google-cloud-india-launch.jpg?resize=1200,800",
+      "publishedAt": "2025-10-14T10:51:14Z",
+      "content": "Google is making a $15 billion investment to set up a 1-gigawatt data center and AI hub in India, even as the Indian government pushes for reduced reliance on U.S. tech giants.\r\nOn Tuesday, Google sa… [+3696 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -631,12 +670,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -644,12 +683,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/d4GP9oaFCjSAd6BXXqgjm7-1920-80.jpg",
       "publishedAt": "2025-10-11T14:22:15Z",
       "content": "Two newly disclosed vulnerabilities in 7-Zip could allow attackers to execute arbitrary code by tricking users into opening a malicious ZIP archive. The issues, reported October 7 by Trend Micro’s Ze… [+2579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Trump strikes back at China with a 100% tariff and critical software ban — major escalation retaliates for China's rare earth restrictions",
-      "description": "President Trump imposed a 100% tariff on Chinese goods and announced export controls on undefined 'critical software,' a move that could cripple China’s tech and manufacturing sectors more than tariffs themselves.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/trump-strikes-back-at-china-with-a-100-percent-tariff-and-critical-software-ban-major-escalation-retaliates-for-chinas-rare-earth-restrictions",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aoT7haYsHdeZtxcyikgCWY-2560-80.jpg",
-      "publishedAt": "2025-10-11T12:52:29Z",
-      "content": "Just hours after U.S. President Donald Trump threatened to impose tariffs on China-made goods in retaliation for unprecedented export controls on rare earth materials, he actually did so, increasing … [+3980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Bride surprises new husband with an RTX 5090 on wedding day — Chinese number slang reveals surprise gift",
-      "description": "A wedding video on social media shows a young couple exchanging gifts, with the groom receiving a GeForce RTX 5090 graphics card.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/bride-surprises-new-husband-with-an-rtx-5090-on-wedding-day-chinese-number-slang-reveals-surprise-gift",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bozZG7nrNCNbFaLpPqx6Ug-1920-80.jpg",
-      "publishedAt": "2025-10-11T12:33:19Z",
-      "content": "Perhaps we don’t have enough romance on these pages. But today we have a story that will melt your heart, or at least make you a little envious. Redditor Zestyclose-Salad-290 shared a wedding video o… [+2688 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI's dominance is unlike anything Silicon Valley has ever seen",
-      "description": "OpenAI's position at the heart of the AI boom, and its expansion up and down the stack, is putting the company in competition with a growing list of startups.",
-      "url": "https://www.cnbc.com/2025/10/11/open-ai-silicon-valley-tech-startup.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208338-1759772906679-gettyimages-2236543888-STARGATE_DATA_CENTER.jpeg?v=1759773439&w=1920&h=1080",
-      "publishedAt": "2025-10-11T12:00:01Z",
-      "content": "Virtually every successful tech startup throughout history has faced the reality that it could get swallowed up or run over by a large incumbent at any moment. It's part of daily life for an entrepre… [+7759 chars]"
     }
   ]
 }
