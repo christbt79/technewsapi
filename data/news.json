@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-15T19:31:26.082Z",
+  "fetchedAt": "2025-10-15T20:10:25.283Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Apple's M5 MacBook Pro could be hours away - here's everything we know",
+      "description": "Apparently, 'something powerful is coming'. Three new M5-powered Apple products could be launched as soon as October 15.",
+      "url": "https://www.zdnet.com/article/apples-m5-macbook-pro-could-be-hours-away-heres-everything-we-know/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3d7aa4abab5a616697685a7e8a8bd600d9f2be8a/2025/10/14/ef3f2798-29ce-4878-80ae-291b18e480c5/apple.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T20:01:00Z",
+      "content": "Apple/X\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The upcoming M5 iPad Pro has allegedly already been leaked in unboxing videos.</li><li>Apple marketing c… [+3636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Some like it bot! ChatGPT promises AI-rotica is coming for verified adults",
+      "description": "Maybe this will bring in some actual profit?\nOpenAI has mitigated ChatGPT behavior that might exacerbate users' mental health issues, claims CEO Sam Altman, so the natural next step is to make ChatGPT act more human again - complete with the ability to genera…",
+      "url": "https://www.theregister.com/2025/10/14/openai_chatgpt_ai_erotica/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/14/shutterstock_419158405.jpg",
+      "publishedAt": "2025-10-14T19:48:41Z",
+      "content": "OpenAI has mitigated ChatGPT behavior that might exacerbate users' mental health issues, claims CEO Sam Altman, so the natural next step is to make ChatGPT act more human again - complete with the ab… [+3821 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/06/10/shutterstock_developer_coding_code_reflection_in_glasses.jpg",
       "publishedAt": "2025-10-13T15:17:28Z",
       "content": "Version 1.3 of the Bun JavaScript runtime and toolkit has landed, pushing forward the project's goal to consolidate fragmented JavaScript toolchains into a single solution. Yet the rapid expansion ha… [+3400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "OpenAI and Broadcom to co-develop 10GW of custom AI chips in yet another blockbuster AI partnership — deployments start in 2026",
-      "description": "OpenAI has signed a multi-year deal with Broadcom to co-develop and deploy 10 gigawatts of custom AI accelerators and rack systems.",
-      "url": "https://www.tomshardware.com/openai-broadcom-to-co-develop-10gw-of-custom-ai-chips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qZWfhqwRr8gniE9uNmNFLf-1600-80.jpg",
-      "publishedAt": "2025-10-13T15:03:48Z",
-      "content": "OpenAI has signed a multi-year deal with Broadcom to co-develop and deploy 10 gigawatts of custom AI accelerators and rack systems, the companies announced on October 13. OpenAI will handle accelerat… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "OpenAI partners with Broadcom to produce its own AI chips",
-      "description": "OpenAI is teaming up with Broadcom to produce its own computer chips to power its AI data centers. The deal is the latest in a series of partnerships designed to reduce the company’s reliance on Nvidia and secure enough computing power to fuel apps like ChatG…",
-      "url": "https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-13T14:59:44Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nChipping away at Nvidias dominance one deal at a time.\r\nChipping away at Nvidias dominance one deal at a time.\r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from thi… [+2922 chars]"
     }
   ]
 }
