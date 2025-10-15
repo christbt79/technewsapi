@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T21:32:17.610Z",
+  "fetchedAt": "2025-10-15T22:06:55.208Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Constance Grady",
+      "title": "How ICE sells itself",
+      "description": "President Donald Trump’s ICE is newly flush with cash and straining to add more officers to its masked ranks. US Immigration and Customs Enforcement is papering social media with recruitment ads, flooding them onto local news stations in so-called sanctuary c…",
+      "url": "https://www.vox.com/culture/464642/ice-recruitment-ads-aesthetics",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2231531157.jpg?quality=90&strip=all&crop=0%2C13.017158943063%2C100%2C73.965682113873&w=1200",
+      "publishedAt": "2025-10-14T21:59:48Z",
+      "content": "Recruitment posters showing Homeland Secretary Kristi Noem were printed for a major ICE hiring event on August 26, 2025, in Arlington, Texas. | Ron Jenkins/Getty Images\r\n\n\nPresident Donald Trump’s IC… [+10498 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -631,12 +644,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -644,12 +657,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/11/08/shutterstock_openai.jpg",
       "publishedAt": "2025-10-13T16:29:26Z",
       "content": "Broadcom has cuddled up with OpenAI as the ChatGPT outfit looks for ever more help building out the vast infrastructure it needs to deliver on its dreams of advanced intelligence and possibly even a … [+4223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "AT&T or T-Mobile customer? Verizon promises to lower your bill for 3 years - how it works",
-      "description": "The latest Verizon promo invites you to present your bill from AT&T or T-Mobile to get a better deal. See if you qualify.",
-      "url": "https://www.zdnet.com/home-and-office/networking/at-t-or-t-mobile-customer-verizon-promises-to-lower-your-bill-for-3-years-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/19deecf834d9f5b50baee2288a5df066f01396fb/2025/06/25/83649b59-c735-4c65-8cba-f0f5597968af/verizon-is-promising-better-customer-support-using-people-and-ai-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T16:23:51Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Verizon promises to beat the price of your AT&amp;T or T-Mobile plan.</li><li>The d… [+3536 chars]"
     }
   ]
 }
