@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-15T14:09:55.819Z",
+  "fetchedAt": "2025-10-15T14:42:18.448Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft bids farewell to Windows 10, but millions of users won’t be",
+      "description": "Windows 10 is so popular that Windows 11 only overtook it in terms of usage just a few months ago. That's why I'm surprised that Microsoft is still, kind of, going ahead with its end of support cutoff today. At one point last year, I wasn't sure if Microsoft …",
+      "url": "https://www.theverge.com/tech/799098/microsoft-windows-10-end-of-life-notepad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-482300530.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2025-10-14T14:16:46Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows 10 is still hugely popular a decade on.\r\nWindows 10 is still hugely popular a decade on.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be… [+11988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Walmart teams up with OpenAI to allow purchases directly in ChatGPT",
+      "description": "The retail giant is trying to keep up with the new ways that shoppers are discovering products.",
+      "url": "https://www.cnbc.com/2025/10/14/walmart-openai-chatgpt-shopping.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200964-1758227340183-gettyimages-2169853413-ACSL_laptop_website_walmart.jpeg?v=1760449710&w=1920&h=1080",
+      "publishedAt": "2025-10-14T14:15:49Z",
+      "content": "Walmart said Tuesday it has struck a deal with OpenAI to allow shoppers to make faster purchases directly through artificial intelligence chatbot ChatGPT.\r\nWith the move, the world's largest retailer… [+1400 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211030-1760329391651-gettyimages-1239673072-nexperia.jpeg?v=1760329445&w=1920&h=1080",
       "publishedAt": "2025-10-13T06:14:22Z",
       "content": "The Dutch government has taken control of Nexperia, a Chinese-owned semiconductor maker based in the Netherlands, in an extraordinary move to ensure a sufficient supply of its chips remains available… [+3261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "India’s Tata Capital makes muted market debut after $1.75 billion IPO",
-      "description": "Tata Capital's $1.75 billion IPO was fully subscribed last week after a three-day bidding process.",
-      "url": "https://www.cnbc.com/2025/10/13/indias-tata-capital-makes-muted-market-debut-after-1point75-billion-ipo.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210937-1760253244654-gettyimages-2233915766-aditya-notitle250909_npVaS.jpeg?v=1760253762&w=1920&h=1080",
-      "publishedAt": "2025-10-13T04:54:16Z",
-      "content": "Shares of Tata Capital rose 1.37% in their trading debut Monday on the National Stock Exchange and BSE, following a 155.1 billion ($1.75 billion) initial public offering.\r\nTata Capital's $1.75 billio… [+1291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "brandon.hill@futurenet.com (Brandon Hill) , Brandon Hill",
-      "title": "TP-Link confirms successful Wi-Fi 8 trials — next-gen wireless standard to usher in advances in reliability and latency",
-      "description": "Wi-Fi 8 is just around the corner to further drive performance, reliability, and overall network stability",
-      "url": "https://www.tomshardware.com/networking/tp-link-confirms-successful-wi-fi-8-trials-next-gen-wireless-standard-to-usher-in-advances-in-reliability-and-latency",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/moZrryPaGfjFHbdEqcbGtE-2560-80.jpg",
-      "publishedAt": "2025-10-13T04:00:00Z",
-      "content": "Consumer Wi-Fi 7 devices have only been around for a couple of years at this point, but as we all know, technological progress doesn’t stand still. There’s always a push for making hardware faster, m… [+3301 chars]"
     }
   ]
 }
