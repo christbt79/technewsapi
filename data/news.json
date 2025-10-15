@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-15T22:35:25.310Z",
+  "fetchedAt": "2025-10-15T23:08:38.417Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Samsung officially teases Moohan headset launch for next week",
+      "description": "Samsung is finally about to reveal more details about its Project Moohan mixed reality headset. The company just announced a new “Worlds Wide Open” Galaxy event that will take place on October 21st at 10PM ET, where it’s promising to reveal details about the …",
+      "url": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/image002.jpg?quality=90&strip=all&crop=0%2C3.4846106844621%2C100%2C93.030778631076&w=1200",
+      "publishedAt": "2025-10-14T23:05:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts nearly time to learn a lot more about the Project Moohan headset.\r\nIts nearly time to learn a lot more about the Project Moohan headset.\r\nby\r\nJay PetersClose… [+2658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Samsung offers $100 instant deal to new XR headset users ahead of Unpacked",
+      "description": "The reservation offer comes just one week before Samsung's virtual Unpacked event, where Project Moohan is expected to debut.",
+      "url": "https://www.zdnet.com/article/samsung-offers-100-instant-deal-to-new-xr-headset-users-ahead-of-unpacked/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/688449dd0c68acc3b0a3f0bc1ec782391005ade6/2025/03/03/286abb41-6604-4c25-b731-15641af4c355/dsc04225.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T23:00:30Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Salesforce CEO says its AI program Agentforce is \"part and parcel\" of the company",
+      "description": "CNBC's Jim Cramer spoke with Salesforce CEO Marc Benioff at the enterprise software company's annual conference in San Francisco.",
+      "url": "https://www.cnbc.com/2025/10/14/salesforce-ceo-agentforce.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193427-1756861086928-gettyimages-2221463681-BENIOFF_CIRCUIT.jpeg?v=1760466296&w=1920&h=1080",
+      "publishedAt": "2025-10-14T22:55:48Z",
+      "content": "In a Tuesday interview with CNBC's Jim Cramer, Salesforce CEO Marc Benioff said his company's artificial intelligence program, Agentforce, is central to business.\r\n\"People don't understand that Agent… [+1617 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-13T17:13:58Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSB 243 institutes new safeguards on AI chatbots.\r\nSB 243 institutes new safeguards on AI chatbots.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author w… [+3201 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Lauren Feiner, Dominic Preston",
-      "title": "California enacts its own internet age-gating law",
-      "description": "California joins a growing group of states with a new internet age-gating law after Gov. Gavin Newsom (D) signed AB 1043, the Digital Age Assurance Act. The law mandates that device operating systems and app stores require users to enter their age or date of …",
-      "url": "https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STKS517_AGE_VERIFICATION_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-13T17:11:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGov. Gavin Newsom signed AB 1043 into law, joining a growing group of states with online age restrictions.\r\nGov. Gavin Newsom signed AB 1043 into law, joining a … [+4556 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "AI use is up, but organizations still aren't seeing gains, Atlassian study finds",
-      "description": "Hype keeps crashing into reality. Here's what could make the difference for businesses struggling to see ROI on AI.",
-      "url": "https://www.zdnet.com/article/ai-use-is-up-but-organizations-still-arent-seeing-gains-atlassian-study-finds/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b28c04cf5cad9a3ccf98266c32d374c3e3d90e2b/2025/10/13/f8a01b81-ce63-4406-ac81-9c0f216487b0/gettyimages-2218439011.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T17:09:44Z",
-      "content": "MirageC/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Growing use of AI = isn't leading to big organizational wins.</li><li>AI hype cl… [+5466 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Michigan township sued by AI data center builder and disgruntled residents over opposition to the site — mounting concerns about rising power bills and water usage fuel growing skepticism",
-      "description": "AI data center tax revenue and city investments become a harder sell when power bills go up.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/michigan-township-sued-by-ai-data-center-builder-and-disgruntled-residents-over-opposition-to-the-site-mounting-concerns-about-rising-power-bills-and-water-usage-fuel-growing-skepticism",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sMWQJWfmn8kjuwnaMWdJHF-1920-80.jpg",
-      "publishedAt": "2025-10-13T16:59:31Z",
-      "content": "AI data centers are popping up in so many locations that they might eventually get a scientific mushroom species name. The industry has seen around a trillion dollars' worth of investment and deals i… [+3680 chars]"
     }
   ]
 }
