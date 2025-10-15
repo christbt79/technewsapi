@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-15T17:36:29.873Z",
+  "fetchedAt": "2025-10-15T18:14:20.703Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option",
+      "description": "The integration offers conversational, cited answers instead of traditional links and follows positive feedback from earlier tests in select markets. Perplexity will expand to mobile soon.",
+      "url": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200",
+      "publishedAt": "2025-10-14T17:49:21Z",
+      "content": "While AIcompanies, startups, andothers are rolling out their own web browsers that embed AI services deep into the web surfing experience, Mozilla’s Firefox is instead allowing its customers to swap … [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Sam Altman says ChatGPT will soon sext with verified adults",
+      "description": "OpenAI will soon allow “erotica” for ChatGPT users who verify their age on the platform. In an X post on Tuesday, OpenAI CEO Sam Altman said the company will add support for mature conversations when it launches age-gating in December. “As we roll out age-gat…",
+      "url": "https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-14T17:45:34Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI will bring erotica to ChatGPT once it rolls out age verification in December.\r\nOpenAI will bring erotica to ChatGPT once it rolls out age verification in … [+2931 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -462,12 +488,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -475,12 +501,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4ca3c781ddec15b31a3a65019a5b14a57b179dec/2025/10/13/dfccb002-5d91-4125-9a35-c016b50751dd/slackbot-is-about-to-become-your-new-ai-work-companion-heres-what-it-can-do.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-13T14:16:14Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Slackbot will soon be a personalized AI companion</li><li>The assistant will be abl… [+2343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Android 'Pixnapping' attack can capture app data like 2FA codes",
-      "description": "GPU-based timing attack inspired by decade-old iframe technique\nSecurity researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.…",
-      "url": "https://www.theregister.com/2025/10/13/android_pixnapping_attack_captures_2fa_codes/",
-      "urlToImage": "https://regmedia.co.uk/2020/12/17/shutterstock_android_code.jpg",
-      "publishedAt": "2025-10-13T14:00:13Z",
-      "content": "Security researchers have resurrected a 12-year-old data-stealing attack on web browsers to pilfer sensitive info from Android devices.\r\nThe attack, dubbed Pixnapping, has yet to be mitigated. Concep… [+6203 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
-      "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     }
   ]
 }
