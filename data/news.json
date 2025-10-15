@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T17:08:31.299Z",
+  "fetchedAt": "2025-10-15T17:36:29.873Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Higher education CEO on AI's growing role in health-care degree market",
+      "description": "Adtalem CEO Steve Beard is leading the health-care education company through an AI transformation, one he believes will further complement what it already does.",
+      "url": "https://www.cnbc.com/2025/10/14/higher-education-ceo-on-ais-role-in-developing-health-care-workers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211882-1760457470190-gettyimages-2203403108-ma116381.jpeg?v=1760457484&w=1920&h=1080",
+      "publishedAt": "2025-10-14T17:14:49Z",
+      "content": "AI is quickly transforming the way companies and CEOs are approaching their businesses and the strategies that take them forward. Amid that rapid transformation, Adtalem Global Education CEO Steve Be… [+4213 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
       "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
-      "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     }
   ]
 }
