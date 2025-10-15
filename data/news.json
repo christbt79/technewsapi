@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-15T16:41:14.673Z",
+  "fetchedAt": "2025-10-15T17:08:31.299Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Microsoft seeding Washington schools with free AI to get kids and teachers hooked",
+      "description": "To the slop trough, kiddos! Not content to shove Copilot into every corner of the enterprise it can think of, Microsoft has announced plans to force feed AI to students across its home state of Washington. …",
+      "url": "https://www.theregister.com/2025/10/14/microsoft_ai_schools/",
+      "urlToImage": "https://regmedia.co.uk/2017/04/10/shutterstock_boy_wanting_out_of_computer.jpg",
+      "publishedAt": "2025-10-14T17:08:03Z",
+      "content": "Not content to shove Copilot into every corner of the enterprise it can think of, Microsoft has announced plans to force feed AI to students across its home state of Washington. \r\nMicrosoft president… [+3769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Intel unveils Crescent Island, an inference-only GPU with Xe3P architecture and 160GB of memory",
+      "description": "Intel has unveiled its Crescent Island data center GPU for inference, built on the Xe3P architecture and equipped with 160 GB of LPDDR5X memory.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/intel-unveils-crescent-island-an-inference-only-gpu-with-xe3p-architecture-and-160gb-of-memory",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1920-80.png",
+      "publishedAt": "2025-10-14T17:00:29Z",
+      "content": "Intel on Tuesday formally introduced its next-generation Data Center GPU explicitly designed to run inference workloads, wedding 160 GB of LPDDR5X onboard memory with relatively low power consumption… [+2509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI forms expert council to bolster safety measures after FTC inquiry",
+      "description": "The council will help guide OpenAI's work around ChatGPT and Sora, and define what healthy AI interactions look like.",
+      "url": "https://www.cnbc.com/2025/10/14/open-ai-expert-council-safety-ftc.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209778-1759986401217-gettyimages-2236404267-radecka-illustra250920_np0Hx.jpeg?v=1760450097&w=1920&h=1080",
+      "publishedAt": "2025-10-14T17:00:01Z",
+      "content": "OpenAI on Tuesday announced a council of eight experts who will advise the company and provide insight into how artificial intelligence could affect users' mental health, emotions and motivation. \r\nT… [+2799 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
       "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Next-gen MRAM breakthrough can flip bits at SRAM-rivalling speeds with low power consumption — researchers claim true next-gen breakthrough using Tungsten layer",
-      "description": "The major challenge that hampered the development and adoption of SOT-MRAM is now in the rearview mirror.",
-      "url": "https://www.tomshardware.com/pc-components/ram/next-gen-mram-breakthrough-using-a-tungsten-layer-can-flip-bits-at-sram-rivalling-speeds-with-very-low-power-researchers-claim-true-next-gen-breakthrough",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/97xF3fADzBMcrXsBowXMx-1920-80.jpg",
-      "publishedAt": "2025-10-13T13:55:44Z",
-      "content": "A cross-institutional research team has published a paper where a breakthrough in (MRAM) development is detailed. According to a blog post published by Taiwan’s National Yang Ming Chiao Tung Universi… [+3165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "RTX 5070 Ti with catastrophic damage brought back to life by RX 580 — AMD VRM graft resurrects card with a huge hole burned into its PCB",
-      "description": "In Brazil, a dead RTX 5070 Ti fell victim to a lightning surge so abhorrent, it burned a hole through the PCB. Thankfully, it was saved by a donor RX 580 by carefully siphoning power from its VRMs to resuscitate the Nvidia GPU. The repair job is temporary at …",
-      "url": "https://www.tomshardware.com/pc-components/gpus/rtx-5070-ti-with-catastrophic-damage-brought-back-to-life-by-rx-580-amd-vmr-graft-resurrects-card-with-a-huge-hole-burned-into-its-pcb",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZEw4xzb43usZkf7RjKKvsi-1920-80.png",
-      "publishedAt": "2025-10-13T13:45:41Z",
-      "content": "We've seen countless repair stories, shunt mods, and even custom-designed GPUs before, but nothing quite compares to a project like this. Marrying together one of the most iconic graphics cards ever … [+3483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "This $15 USB-C cable could be the easiest way to stop hackers from stealing your data",
-      "description": "If you often plug into random chargers, you're an easy target for hackers.",
-      "url": "https://www.zdnet.com/article/this-15-usb-c-cable-could-be-the-easiest-way-to-stop-hackers-from-stealing-your-data/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fa62adc8bbf7b16f8ca7b9e8cfbf694680932ad7/2025/10/11/298a53df-81a7-486c-8163-6af16e7bbb4d/img-0183.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T13:24:46Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
     }
   ]
 }
