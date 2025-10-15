@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T22:06:55.208Z",
+  "fetchedAt": "2025-10-15T22:35:25.310Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Tuesday's volatile session bucked the trend as tech took a back seat, Jim Cramer says",
+      "description": "CNBC's Jim Cramer unpacked choppy market action during Tuesday's session.",
+      "url": "https://www.cnbc.com/2025/10/14/volatile-session-jim-cramer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076113-1655340029581-IMG_2024rb.jpg?v=1697064438&w=1920&h=1080",
+      "publishedAt": "2025-10-14T22:24:57Z",
+      "content": "Tuesday's choppy session saw a shift in market trends as piping hot tech and artificial intelligence names that have largely led the market as of late pulled back while companies from the broader eco… [+2475 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/sMWQJWfmn8kjuwnaMWdJHF-1920-80.jpg",
       "publishedAt": "2025-10-13T16:59:31Z",
       "content": "AI data centers are popping up in so many locations that they might eventually get a scientific mushroom species name. The industry has seen around a trillion dollars' worth of investment and deals i… [+3680 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "Broadcom cozies up to OpenAI for 10 GW custom chip love-in",
-      "description": "Every human deserves their own accelerator, says ChatGPT creator Broadcom has cuddled up with OpenAI as the ChatGPT outfit looks for ever more help building out the vast infrastructure it needs to deliver on its dreams of advanced intelligence – and possibly …",
-      "url": "https://www.theregister.com/2025/10/13/openai_broadcom_deal/",
-      "urlToImage": "https://regmedia.co.uk/2024/11/08/shutterstock_openai.jpg",
-      "publishedAt": "2025-10-13T16:29:26Z",
-      "content": "Broadcom has cuddled up with OpenAI as the ChatGPT outfit looks for ever more help building out the vast infrastructure it needs to deliver on its dreams of advanced intelligence and possibly even a … [+4223 chars]"
     }
   ]
 }
