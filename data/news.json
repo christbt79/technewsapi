@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T13:04:09.760Z",
+  "fetchedAt": "2025-10-15T13:45:23.876Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025 | TechCrunch",
+      "description": "Aquawise uses satellite images and a physics-based AI model to monitor and predict water quality at aquaculture farms.",
+      "url": "https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Aquawise-e1760447400948.jpg?w=1160",
+      "publishedAt": "2025-10-14T13:11:39Z",
+      "content": "Water quality is the most important thing for aquaculture farms to monitor to ensure their livestock remain healthy. While there are existing ways to monitor water quality sensors and water testing k… [+3833 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/vnqdtRupVqWHAik43ZWctH-1920-80.jpg",
       "publishedAt": "2025-10-12T16:10:20Z",
       "content": "Applied Materials has unveiled three new chipmaking tools that define what the company calls the 'angstrom era' of chipmaking, signaling a transition toward next-generation process technologies somet… [+4784 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "Elon Musk vs. the regulators | TechCrunch",
-      "description": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
-      "url": "https://techcrunch.com/2025/10/12/elon-musk-vs-the-regulators/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/TBC16.jpg?resize=1200,857",
-      "publishedAt": "2025-10-12T16:04:37Z",
-      "content": "Welcome back to TechCrunch Mobility, your hub for all things future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nElon Musk has never had the be… [+7376 chars]"
     }
   ]
 }
