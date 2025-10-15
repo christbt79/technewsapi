@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T03:47:17.627Z",
+  "fetchedAt": "2025-10-15T04:11:21.870Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Hiner",
+      "title": "Beware of getting your product buying advice from AI for one big reason, says Ziff Davis CEO",
+      "description": "Despite suing OpenAI for intellectual property theft, Vivek Shah remains 'bullish' on the impact of AI on life and business.",
+      "url": "https://www.zdnet.com/article/beware-of-getting-your-product-buying-advice-from-ai-for-one-big-reason-says-ziff-davis-ceo/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b40d1035691019ccdf1acbc59b14d776de6215c7/2025/10/14/dd6e7e67-b99d-4702-b439-ad84048c3133/vivek-shah-getty-images-andrew-toth.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T04:02:57Z",
+      "content": "Vivek Shah, CEO of Ziff Davis.\r\nAndrew Toth/Getty Images\r\nThe CEO who is currently best known for standing up to OpenAI by suing it for allowing ChatGPT to make unauthorized copies of his company's c… [+3243 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/10/05/justice_shutterstock.jpg",
       "publishedAt": "2025-10-10T20:20:11Z",
       "content": "OpenAI says GPT-5 has 30 percent less political bias than its prior AI models.\r\nThat's a difficult claim to assess, given that AI model bias has been an issue since machine learning became a thing, a… [+3468 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "Why Deloitte is betting big on AI despite a $10M refund | TechCrunch",
-      "description": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employees. On the very same day, the Australian government forced D…",
-      "url": "https://techcrunch.com/video/why-deloitte-is-betting-big-on-ai-despite-a-10m-refund/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2169550517.jpg?w=1024",
-      "publishedAt": "2025-10-10T20:13:36Z",
-      "content": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employe… [+949 chars]"
     }
   ]
 }
