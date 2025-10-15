@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-15T00:43:05.590Z",
+  "fetchedAt": "2025-10-15T02:19:47.400Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "Is art dead? What Sora 2 means for your rights, creativity, and legal risk",
+      "description": "OpenAI's Sora 2 gives anyone the power to make realistic AI videos - but what happens when creativity, copyright, and deepfakes collide in ways we can't control?",
+      "url": "https://www.zdnet.com/article/is-art-dead-what-sora-2-means-for-your-rights-creativity-and-legal-risk/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/14031ced1d6b957e32a281c98bb71e3952da4ba7/2025/10/13/599ddbe9-a816-4fe1-bd7b-0eec1ade7d51/gettyimages-2239939872.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T02:00:41Z",
+      "content": "Photo illustration by Cheng Xin/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI video tools now raise real legal and ownership risks.</li><li>Op… [+20798 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "I unleashed Copilot on my Microsoft and Google accounts - here's what happened",
+      "description": "With a new update rolling out to Windows Insiders, Copilot can access your Microsoft and Google accounts to work with your email, calendar, and contacts. Here's how this worked for me.",
+      "url": "https://www.zdnet.com/article/i-unleashed-copilot-on-my-microsoft-and-google-accounts-heres-what-happened/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a9d735b5ac5b1df4a502ef8cd1cff601ee300071/2025/10/13/ea7102b2-2a86-4029-97d4-a631a07360cf/gettyimages-1202610363.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T02:00:40Z",
+      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot will be able to link to your Microsoft and Google accounts.</li><li>Yo… [+5018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "How wearable health tech could help catch breast cancer",
+      "description": "Coupled with AI, health data from wearables could significantly improve survival rates. This MIT professor is developing a device to do just that.",
+      "url": "https://www.zdnet.com/article/how-wearable-health-tech-could-help-catch-breast-cancer/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d20ce967212c144285992be0c2db6276be5f40f6/2025/10/13/24aeed20-6f83-43ad-a7db-e3f07242ec83/gettyimages-2153863164.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T02:00:38Z",
+      "content": "akinbostanci/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Wearable health tech could one day detect breast cancer.… [+2925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray",
+      "title": "Even the best AI agents are thwarted by this protocol - what can be done",
+      "description": "The increasingly popular Model Context Protocol lets AI models access applications, but studies show that the best generative AI bots struggle with planning across a variety of tasks.",
+      "url": "https://www.zdnet.com/article/even-the-best-ai-agents-are-thwarted-by-this-protocol-what-can-be-done/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1a231e07fb1e44c11940e87b69fa88efda520d16/2025/10/13/0ffa7db8-75e5-4320-a652-fcf9a32ad983/cubessmall555.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T02:00:37Z",
+      "content": "Yuuji/E+ via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Even the best AI models are challenged to carry out tasks via MCP.</li><li>New benchma… [+10672 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: There's a hopeful mood in the Middle East and the markets",
+      "description": "Trump, when asked by reporters if the war in the Middle East has ended, gave an unequivocal \"yes,\" Reuters reported.",
+      "url": "https://www.cnbc.com/2025/10/14/cnbc-daily-open-theres-a-hopeful-mood-in-the-middle-east-and-the-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211417-1760378966676-gettyimages-2240466822-_s014479.jpeg?v=1760379001&w=1920&h=1080",
+      "publishedAt": "2025-10-14T01:24:59Z",
+      "content": "This might not be Christmas, but the war in the Middle East is over at least according to U.S. President Donald Trump.\r\nOn Monday, Trump declared at the Knesset, Israel's parliament, that the \"long a… [+3037 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -371,12 +436,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
+      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
     },
     {
       "source": {
@@ -384,12 +449,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Final flash sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — ends October 17",
+      "title": "Final Flash Sale: Save up to $624 on your TechCrunch Disrupt 2025 pass — Ends Oct 17",
       "description": "The final countdown to Disrupt 2025! Save up to $624 on your pass before prices rise Friday, October 17 at 11:59 p.m. PT. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ leaders, 300+ showcasing startups, and Startup Battlefield 200. R…",
-      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-october-17/",
+      "url": "https://techcrunch.com/2025/10/13/final-flash-sale-save-up-to-624-on-your-techcrunch-disrupt-2025-pass-ends-friday/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_5Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-13T14:00:00Z",
-      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks taking place October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings b… [+4046 chars]"
+      "content": "The countdown is on! TechCrunch Disrupt 2025 kicks off in exactly two weeks October 2729 at Moscone West in San Francisco and this is your final chance to lock in up to $624 in savings before prices … [+4040 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2169550517.jpg?w=1024",
       "publishedAt": "2025-10-10T20:13:36Z",
       "content": "AI companies are making their much-anticipated enterprise plays, but the results are wildly inconsistent. Just this week, Deloitte announced it’s rolling out Anthropic’s Claude to all 500,000 employe… [+949 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "OpenAI is trying to clamp down on ‘bias’ in ChatGPT",
-      "description": "“ChatGPT shouldn’t have political bias in any direction,” OpenAI wrote in a post on Thursday. The latest GPT-5 models come the closest to achieving that objective goal, according to results from an internal company “stress-test” of ChatGPT’s responses to divi…",
-      "url": "https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-10T20:11:18Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter evaluating it with hundreds of leading questions, the company claims GPT-5 is the least biased model yet.\r\nAfter evaluating it with hundreds of leading que… [+5323 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zoë Schiffer, Leah Feiger",
-      "title": "WIRED Roundup: Are We In An AI Bubble?",
-      "description": "In this episode of \"Uncanny Valley,\" we talk about one author's journey to flee the US, social media surveillance, chatbots and the world of AI, and conspiracy theories for an autism cure.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/",
-      "urlToImage": "https://media.wired.com/photos/68e81570a68ae1e7a129fd64/191:100/w_1280,c_limit/openai-value-biz-2181653413.jpg",
-      "publishedAt": "2025-10-10T19:50:22Z",
-      "content": "Zoë Schiffer: Our first story this week is about Mark Bray. He is a professor at Rutgers University and he wrote a book almost a decade ago about antifa, and he's currently trying to flee the United … [+2628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Managers are throwing entry-level workers under the bus in race to adopt AI",
-      "description": "Does it work? Inconclusive. Still, 55% of business leaders say that adopting AI is worth the impact on workers ai-pocalypse  Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young colle…",
-      "url": "https://www.theregister.com/2025/10/10/ai_is_displacing_entrylevel_professionals/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/11/work_shutterstock.jpg",
-      "publishedAt": "2025-10-10T19:49:20Z",
-      "content": "ai-pocalypse Business leaders are racing to jump aboard the AI bandwagon, and a new study from the British Standards Institute suggests young college grads are being hit hardest.\r\nBSI published a rep… [+5437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "InferenceMax AI benchmark tests software stacks, efficiency, and TCO — vendor-neutral suite runs nightly and tracks performance changes over time",
-      "description": "In AI, much like with phones, software matters as much if not oftentimes more than the hardware.",
-      "url": "https://www.tomshardware.com/tech-industry/inferencemax-ai-benchmark-tests-software-stacks-efficiency-and-tco-vendor-neutral-suite-runs-nightly-and-tracks-performance-changes-over-time",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o4ZZCskmZnveyPZ2acvGuf-2560-80.jpg",
-      "publishedAt": "2025-10-10T19:19:12Z",
-      "content": "News coverage surrounding artificial intelligence almost invariably focuses on the deals that send hundreds of billions of dollars flying, or the latest hardware developments in the GPU or datacenter… [+5784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "President Trump warns of massively increased tariffs in wake of China's rare earth mineral 'monopoly position' — Xi Jinping meeting cancelled as Trump promises retaliation for Beijing's expanded export controls",
-      "description": "President Trump, in a fiery Truth Social post, has just warned China about potential new tarriffs as a response to Beijing's expanded export controls surrounding rare earth minerals. Trump says for every element China monopolizes, America has two, and that ot…",
-      "url": "https://www.tomshardware.com/tech-industry/president-trump-warns-of-massively-increased-tariffs-in-wake-of-chinas-rare-earth-mineral-monopoly-position-xi-jinping-meeting-cancelled-as-trump-promises-retaliation-for-beijings-expanded-export-controls",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/b24kvEjwWd9LvM48U3R6bi-2000-80.jpg",
-      "publishedAt": "2025-10-10T18:38:53Z",
-      "content": "Heads of state from the U.S. and China had planned to convene next week in South Korea, amid prolonged and ongoing trade tensions between the two nations. It seems like this meeting is now off the ta… [+3829 chars]"
     }
   ]
 }
