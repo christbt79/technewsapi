@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-15T18:45:46.601Z",
+  "fetchedAt": "2025-10-15T19:07:41.173Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Salesforce's Agentforce software is coming to OpenAI's ChatGPT",
+      "description": "Companies that work with OpenAI and Salesforce will soon be able to sell products through ChatGPT's instant checkout feature.",
+      "url": "https://www.cnbc.com/2025/10/14/salesforce-will-bring-agentforce-to-openais-chatgpt.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211552-1760399850212-gettyimages-2194677103-DAVOS_WEF_2025.jpeg?v=1760399909&w=1920&h=1080",
+      "publishedAt": "2025-10-14T18:48:25Z",
+      "content": "Salesforce is ramping up partnerships with leaders in generative artificial intelligence as investors continue to fear that the software company faces business risks due to the rapid growth of AI.\r\nJ… [+3018 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -527,12 +540,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -540,12 +553,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/anduril-eagleeye-palmer-luckey.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
       "publishedAt": "2025-10-13T14:44:49Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAnduril partnered up with Meta for its new mixed-reality helmet.\r\nAnduril partnered up with Meta for its new mixed-reality helmet.\r\nby\r\nDominic PrestonClose\r\nDom… [+2748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Kindle Scribe vs. ReMarkable Paper Pro: I compared both E Ink tablets and this one's better",
-      "description": "I'm a big fan of the ReMarkable Paper Pro, but Amazon's new Kindle Scribe is giving it serious competition. Here's how the two stack up.",
-      "url": "https://www.zdnet.com/article/kindle-scribe-vs-remarkable-paper-pro-i-compared-both-e-ink-tablets-and-this-ones-better/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c0f2a1943ba6ef0b804642c14793e105745f6d6a/2025/09/30/5e972d1d-0d87-4d5a-ae7e-04ebad2acaf3/dsc07896.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T14:21:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAt its recent September hardware launch, Amazon showcased its two new e-readers designed for note-taking: the Kindle Scribe and… [+5322 chars]"
     }
   ]
 }
