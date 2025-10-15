@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-15T18:14:20.703Z",
+  "fetchedAt": "2025-10-15T18:45:46.601Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Joshua Keating",
+      "title": "The Gaza peace deal’s greatest strength is also its greatest weakness",
+      "description": "After the euphoria and relief of Monday’s prisoner exchange and ceasefire, Tuesday has brought some ominous portents for the future of the Gaza peace deal. For one thing, the shooting hasn’t stopped entirely. Five Palestinians were killed in an Israeli drone …",
+      "url": "https://www.vox.com/politics/464632/the-gaza-peace-deals-greatest-strength-is-also-its-greatest-weakness",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2240459655.jpg?quality=90&strip=all&crop=0%2C10.736753082493%2C100%2C78.526493835014&w=1200",
+      "publishedAt": "2025-10-14T18:32:00Z",
+      "content": "President Donald Trump poses with the signed agreement at a world leaders’ summit on ending the Gaza war on October 13, 2025, in Sharm El-Sheikh, Egypt. | Suzanne Plunkett/Pool/Getty Images\r\n\n\nAfter … [+7197 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Report: Arm developing custom CPU for OpenAI's in-house accelerator — core IP would underpin 10GW of installed AI capacity",
+      "description": "OpenAI is reportedly working with SoftBank-owned Arm on a new CPU to complement the custom AI accelerator it is co-developing with Broadcom.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/openai-arm-partner-on-custom-cpu-for-broadcom-chip",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MCLcg7RKskB3Mk55qVgWPP-2500-80.jpg",
+      "publishedAt": "2025-10-14T18:18:36Z",
+      "content": "OpenAI is reportedly working with SoftBank-owned Arm on a new CPU to complement the custom AI accelerator it is co-developing with Broadcom. The collaboration, first reported by The Information, woul… [+2580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Try Google's Nano Banana image generator in Search and NotebookLM - here's how",
+      "description": "Google's AI image editor is coming to a new lineup of applications.",
+      "url": "https://www.zdnet.com/article/try-googles-nano-banana-image-generator-in-search-and-notebooklm-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c565a94d3a6c0cc18f1efd940e139a141da7ed0c/2025/10/14/d1e64bea-e271-4e62-8f87-b707b5d00e7b/gettyimages-2234178220.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-14T18:16:21Z",
+      "content": "Andriy Onufriyenko/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google unveils Nano Banana in Google Search and Notebook LM. </li><l… [+2502 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -488,12 +527,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -501,12 +540,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c0f2a1943ba6ef0b804642c14793e105745f6d6a/2025/09/30/5e972d1d-0d87-4d5a-ae7e-04ebad2acaf3/dsc07896.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-13T14:21:00Z",
       "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAt its recent September hardware launch, Amazon showcased its two new e-readers designed for note-taking: the Kindle Scribe and… [+5322 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Bose just did what Apple couldn't with the QuietComfort Ultra headphones - and I'm sold",
-      "description": "Expanded battery capacity is a plus, but smarter power management is even better.",
-      "url": "https://www.zdnet.com/article/bose-just-did-what-apple-couldnt-with-the-quietcomfort-ultra-headphones-and-im-sold/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0eb168c0c83eb34036ffdc05cb3bc9d4b43b3d6b/2025/10/10/2eb8d4a8-2a4d-4598-95c2-d0e96222e576/qcu2-4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T14:19:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been Bose's weaknesses. Its 2019 fl… [+4196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Oaktree's Howard Marks says AI frenzy isn’t a bubble — at least not yet",
-      "description": "Marks said while enthusiasm for AI stocks is undeniable, it hasn't yet crossed into the realm of mania that defines a true bubble.",
-      "url": "https://www.cnbc.com/2025/10/13/oaktrees-howard-marks-says-ai-frenzy-isnt-a-bubble-at-least-not-yet.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105338261-1531940490011marks2.jpg?v=1681760860&w=1920&h=1080",
-      "publishedAt": "2025-10-13T14:17:49Z",
-      "content": "Veteran investor Howard Marks isn't calling the artificial intelligence boom a bubble at least not for now.\r\n\"My response to date has been that the valuations are ... high but not crazy\" the Oaktree … [+2073 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Your Slack chatbot is about to get a huge AI upgrade - what's new",
-      "description": "Slackbot is turning into a fully personalized AI companion.",
-      "url": "https://www.zdnet.com/article/your-slack-chatbot-is-about-to-get-a-huge-ai-upgrade-whats-new/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4ca3c781ddec15b31a3a65019a5b14a57b179dec/2025/10/13/dfccb002-5d91-4125-9a35-c016b50751dd/slackbot-is-about-to-become-your-new-ai-work-companion-heres-what-it-can-do.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T14:16:14Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Slackbot will soon be a personalized AI companion</li><li>The assistant will be abl… [+2343 chars]"
     }
   ]
 }
