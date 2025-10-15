@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-15T11:08:01.396Z",
+  "fetchedAt": "2025-10-15T11:31:35.438Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "How China's rare earth restrictions could disrupt the U.S. defense industry and reignite a trade war",
+      "description": "China will not allow the export of rare earth materials for use by foreign militaries under restrictions announced last week.",
+      "url": "https://www.cnbc.com/2025/10/14/china-trump-xi-rare-earth-defense-critical-mineral-trade-war-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170156-17521529182020-04-22t000000z_781196416_rc2n9g9vgdx7_rtrmadp_0_usa-rareearths.jpeg?v=1752152993&w=1920&h=1080",
+      "publishedAt": "2025-10-14T11:20:54Z",
+      "content": "China sweeping restrictions on rare earth exports threaten the U.S. defense industry, providing President Xi Jinping with a powerful leverage over President Donald Trump in upcoming trade talks.\r\nBei… [+4667 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "China retaliates in response to Dutch seizure of Nexperia, blocking chipmaker's exports following takeover — 861,000 square foot assembly site in Gaungdong affected as trade war spirals",
+      "description": "In retaliation against the Dutch government seizing control of the Dutch chip company, Nexperia, from its Chinese parent company, China has now blocked Nexperia from exporting products from the Asian-country, raising trade tensions amidst ongoing trade talks …",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-retaliates-in-response-to-dutch-seizure-of-nexperia-blocking-chipmakers-exports-following-takeover-861-000-square-foot-assembly-site-in-gaungdong-affected-as-trade-war-spirals",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6CoG4mtxeyTitsu6xtgxUL-1920-80.jpg",
+      "publishedAt": "2025-10-14T11:12:41Z",
+      "content": "China has blocked the export of certain products produced by the Dutch chip company, Nexperia, according to Bloomberg. This is the same company that the Dutch government recently seized from its Chin… [+2820 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Smart ring maker Oura raises $900M from Fidelity | TechCrunch",
+      "description": "Oura is raising new funding of $900 million as its valuation reaches nearly $11 billion",
+      "url": "https://techcrunch.com/2025/10/14/smart-ring-maker-oura-raises-900m-from-fidelity/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/oura-ring-4.png?resize=1200,587",
+      "publishedAt": "2025-10-14T11:12:38Z",
+      "content": "Finnish health tech company Oura has raised $900 million in fresh funding led by Fidelity Management &amp; Research Company, with participation from new investor ICONIQ and contributions from Whale R… [+2259 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
       "publishedAt": "2025-10-11T17:52:57Z",
       "content": "This has been a big week for AI companies signing enterprise deals, with Zendesk unveiling new AI agents that are supposed to be able to resolve 80% of customer service issues, Anthropic and IBM anno… [+4155 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "Prince Harry and Meghan call out the harmful effects of social media on today's youth | TechCrunch",
-      "description": "Prince Harry and Meghan call out the harmful effects of social media on today's youth | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/11/prince-harry-and-meghan-call-out-the-harmful-effects-of-social-media-on-todays-youth/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2240202358.jpg?resize=1200,800",
-      "publishedAt": "2025-10-11T16:59:00Z",
-      "content": "The guests sipped prosecco and chattered away while dessert was served at the third annual Project Health Minds Gala on Thursday.  \r\nThe evening was winding down, but there was still one big award to… [+8660 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Froth risks are bubbling up across high-momentum markets",
-      "description": "The scope of the risk was brought home Friday as markets absorbed their biggest jolt yet amid a six-month run in credit, crypto and equities",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-10/froth-risks-are-bubbling-up-across-high-momentum-markets",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/cc5rf4/article70147251.ece/alternates/LANDSCAPE_1200/BL12_Think_percent2.jpg",
-      "publishedAt": "2025-10-11T15:12:00Z",
-      "content": "Bill Harnisch is no permabear. His hedge fund is up 580 per cent since 2020 thanks to a honed portfolio of bets that this year alone has tripled the S&amp;P 500s return.\r\nBut right now the Wall Stree… [+5715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "New 7-Zip high-severity vulnerabilities expose systems to remote attackers — users should update to version 25 ASAP",
-      "description": "Two newly disclosed vulnerabilities in 7-Zip could allow attackers to execute arbitrary code by tricking users into opening a malicious ZIP archive.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/7-zip-flaws-open-door-to-remote-code-execution",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d4GP9oaFCjSAd6BXXqgjm7-1920-80.jpg",
-      "publishedAt": "2025-10-11T14:22:15Z",
-      "content": "Two newly disclosed vulnerabilities in 7-Zip could allow attackers to execute arbitrary code by tricking users into opening a malicious ZIP archive. The issues, reported October 7 by Trend Micro’s Ze… [+2579 chars]"
     }
   ]
 }
