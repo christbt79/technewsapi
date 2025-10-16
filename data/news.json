@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-15T23:31:25.686Z",
+  "fetchedAt": "2025-10-16T00:43:02.702Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Salesforce pumps the dream of AI agents as helpers, not replacements",
+      "description": "In the Agentic Enterprise, \"AI doesn’t replace people, it elevates them\" Salesforce CEO Marc Benioff heralded the arrival of the agentic era during his keynote at the CRM giant's annual Dreamforce conference.…",
+      "url": "https://www.theregister.com/2025/10/15/salesforce_dreamforce_agents_everywhere/",
+      "urlToImage": "https://regmedia.co.uk/2024/07/02/shutterstock_benioff.jpg",
+      "publishedAt": "2025-10-15T00:08:43Z",
+      "content": "Salesforce CEO Marc Benioff heralded the arrival of the agentic era during his keynote at the CRM giant's annual Dreamforce conference.\r\nSpeaking in San Francisco, California, on Tuesday, without the… [+4924 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Sohee Kim",
+      "title": "AI brings Korea’s struggling film industry hopes and anxiety",
+      "description": "Jang Seong-ho’s King of Kings earned US$60m in the US, topping Parasite.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-12/ai-brings-korea-s-struggling-film-industry-hopes-and-anxiety?embedded-checkout=true",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/AR5VK6VQHZGI3AQLAAANC7S2II.jpg?auth=a1edb6a3815ca81495f72afe16167947f08a7d673ee2666bce2cba7fbbada392&width=1200&height=675&quality=70&focal=967%2C550&smart=false",
+      "publishedAt": "2025-10-14T23:35:53Z",
+      "content": "He is betting AI can help halve production time and slash costs, enabling the studio to deliver a feature film and a series every year.\r\nThe question we should be asked is, Where did you use AI? Jang… [+2317 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2015/09/02/metal_faces_iron.jpg",
       "publishedAt": "2025-10-13T17:48:48Z",
       "content": "Microsoft's OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don't worry, it can be turned off three times a year.\r\nThis writer has bee… [+2101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Oracle CEO Magouyrk: 'Of course' OpenAI can pay $60 billion per year",
-      "description": "In July, OpenAI signed a five-year cloud deal with Oracle, which is confident that the startup will be able to pay its bills.",
-      "url": "https://www.cnbc.com/2025/10/13/oracle-ceo-magouyrk-of-course-openai-can-pay-60-billion-per-year.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211335-1760372227610-ClayMagouryrk-1.jpg?v=1760372374&w=1920&h=1080",
-      "publishedAt": "2025-10-13T17:42:21Z",
-      "content": "Oracle CEO Clay Magouyrk, one of the two people tapped last month to lead the software company, is confident that OpenAI will be able to cover the costs of the massive amount of cloud infrastructure … [+1755 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field, Dominic Preston",
-      "title": "New California law requires AI to tell you it’s AI",
-      "description": "A bill attempting to regulate the ever-growing industry of companion AI chatbots is now law in California, as of October 13th. California Gov. Gavin Newsom signed into law Senate Bill 243, billed as “first-in-the-nation AI chatbot safeguards” by state senator…",
-      "url": "https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-13T17:13:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSB 243 institutes new safeguards on AI chatbots.\r\nSB 243 institutes new safeguards on AI chatbots.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author w… [+3201 chars]"
     }
   ]
 }
