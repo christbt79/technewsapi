@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-16T14:09:49.989Z",
+  "fetchedAt": "2025-10-16T14:41:38.174Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Everything Apple announced with the M5 chipset: MacBook Pro, iPad Pro and Vision Pro",
+      "description": "Apple just announced three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
+      "url": "https://www.zdnet.com/article/everything-apple-announced-with-the-m5-chipset-macbook-pro-ipad-pro-and-vision-pro/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f669203aabd4ee7f61aa393b1980a25d0ccb8de4/2024/11/06/fe5d85e7-054c-44d7-804a-8b6b6b66443f/dsc02545-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T14:22:36Z",
+      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>The new M5 Ma… [+4460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Apple just launched an M5 MacBook, iPad, and Vision Pro: Specs, prices, and availability",
+      "description": "Apple just announced three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
+      "url": "https://www.zdnet.com/article/apple-just-launched-an-m5-macbook-ipad-and-vision-pro-specs-prices-and-availability/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f669203aabd4ee7f61aa393b1980a25d0ccb8de4/2024/11/06/fe5d85e7-054c-44d7-804a-8b6b6b66443f/dsc02545-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T14:22:00Z",
+      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>The new M5 Ma… [+4460 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "You can now text Spotify’s AI DJ",
+      "description": "Spotify's AI DJ now takes text commands and accepts Spanish-language music requests by voice.",
+      "url": "https://techcrunch.com/2025/10/15/you-can-now-text-spotifys-ai-dj/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/DJ-Header-2-2048x782-1.png?resize=1200,458",
+      "publishedAt": "2025-10-15T14:17:28Z",
+      "content": "Spotify on Wednesday upgraded its AI DJ feature available to Premium subscribers with a handful of new features, including the ability to send in your requests by typing, not just using voice command… [+1685 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Honor’s Robot Phone concept features a fold-out camera arm",
+      "description": "Honor has announced what it’s calling the “Robot Phone,” a concept device with an AI-enabled, gimbal-mounted camera that unfolds from the phone’s rear and can shoot photos and film video in any direction. The phone — so far only seen in CGI form in a teaser v…",
+      "url": "https://www.theverge.com/news/799944/honor-robot-phone-tease-announcement",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/honor-robot-phone_859504.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-15T14:13:55Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut well have to wait until next year to find out more.\r\nBut well have to wait until next year to find out more.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\r\nPost… [+3093 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200964-1758227340183-gettyimages-2169853413-ACSL_laptop_website_walmart.jpeg?v=1760449710&w=1920&h=1080",
       "publishedAt": "2025-10-14T14:15:49Z",
       "content": "Walmart said Tuesday it has struck a deal with OpenAI to allow shoppers to make faster purchases directly through artificial intelligence chatbot ChatGPT.\r\nWith the move, the world's largest retailer… [+1400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Intel Panther Lake SKUs spotted in HWMonitor update — release notes specify Core Ultra X, H, and U variants",
-      "description": "Latest HWMonitor release notes give an early look at Intel’s 18A Panther Lake family ahead of its official debut.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-panther-lake-skus-spotted-in-hwmonitor-update-release-notes-specify-core-ultra-x-h-and-u-variants",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oZ82RyoRPstu3RQsYtkB7M-2560-80.jpg",
-      "publishedAt": "2025-10-14T14:02:10Z",
-      "content": "The naming scheme for Intel’s recently announced Panther Lake series of mobile processors has been spotted in the release notes for the popular system sensor monitoring tool,by developers CPU ID. Acc… [+3533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Major real estate developers are fast becoming power brokers",
-      "description": "Powered land needs to be secured with the permits, utility commitments, and infrastructure needed to deliver power to a data center.",
-      "url": "https://www.cnbc.com/2025/10/14/major-real-estate-developers-are-fast-becoming-power-brokers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104991754-RTS1B82B.jpg?v=1529452429&w=1920&h=1080",
-      "publishedAt": "2025-10-14T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4785 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Save up to $624 on your TechCrunch Disrupt 2025 Pass before prices rise in less than 4 days",
-      "description": "Only 4 days left to save up to $624 on your TechCrunch Disrupt 2025 pass. Join 10,000+ founders, investors, and operators for 200+ sessions, 250+ speakers, and Startup Battlefield 200. Register now\n before prices rise — and save 30% on group passes, or half o…",
-      "url": "https://techcrunch.com/2025/10/14/save-up-to-624-on-your-techcrunch-disrupt-2025-pass-before-prices-rise-in-less-than-4-days/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_4Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-14T14:00:00Z",
-      "content": "Time is running out to join one of the startup worlds largest annual conferences. You have just 4 days left to lock in up to $624 in savings on your TechCrunch Disrupt 2025 pass before prices rise Fr… [+4057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "They love self-care, hate hustle, and need a job—a CEO's advice for an 'unemployable' Gen Zer",
-      "description": "There's a sharp divide between what Gen Z values and what hiring managers are actually looking for, according to new research. CEO and Harvard-trained career expert Suzy Welch shares her advice for an \"unemployable\" generation.",
-      "url": "https://www.cnbc.com/2025/10/14/they-hate-hustle-but-need-a-joba-ceos-advice-for-an-unemployable-gen-z.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211762-1760448814788-GettyImages-2225822645.jpg?v=1760448859&w=1920&h=1080",
-      "publishedAt": "2025-10-14T13:47:17Z",
-      "content": "There's a sharp divide between what Gen Z values and what hiring managers are actually looking for.\r\nMy team at Becoming You Labs recently conducted a study using our values-assessment tool, The Valu… [+5867 chars]"
     }
   ]
 }
