@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T03:14:35.335Z",
+  "fetchedAt": "2025-10-16T03:47:46.209Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI’s ChatGPT will soon allow 'erotica' for adults in major policy shift",
+      "description": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, says OpenAI CEO Sam Altman.",
+      "url": "https://www.cnbc.com/2025/10/15/erotica-coming-to-chatgpt-this-year-says-openai-ceo-sam-altman.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1760494512&w=1920&h=1080",
+      "publishedAt": "2025-10-15T03:38:42Z",
+      "content": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, OpenAI CEO Sam Altman has announced in an apparent policy shif… [+2710 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/8C4CLDCB7fX8JzbMtXQDhN-1920-80.jpg",
       "publishedAt": "2025-10-13T19:16:58Z",
       "content": "The Humbird 3, an innovative 11-in-1 Thunderbolt 5 eGPU dock, aims to become the only docking station you'll ever need. With support from over 177 backers on Kickstarter and more than $63,000 raised,… [+3292 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "This new Flatpak app store should be installed by default on every Linux distro",
-      "description": "If you use Flatpak apps on Linux, do yourself a favor and install Bazaar to make your app management life a bit easier.",
-      "url": "https://www.zdnet.com/article/this-new-flatpak-app-store-should-be-installed-by-default-on-every-linux-distro/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/aef1bc669eb6d6a0ef5d7744c45433180ae51e7f/2025/10/13/2edbe6f4-542a-40db-b65b-1e62a4366516/bazaar3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T19:11:59Z",
-      "content": "Jack Wallen/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Bazaar is a free tool for managing Flatpak apps.</li><li>It can be installed on any Linux dist… [+3592 chars]"
     }
   ]
 }
