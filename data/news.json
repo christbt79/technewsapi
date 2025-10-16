@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T09:39:00.186Z",
+  "fetchedAt": "2025-10-16T10:10:28.685Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China greenlights autonomous driving firms Pony.ai and WeRide's Hong Kong listings",
+      "description": "The China-based autonomous driving firms Pony AI and WeRide have both filed with regulators in China to list their shares in Hong Kong.",
+      "url": "https://www.cnbc.com/2025/10/15/chinese-autonomous-driving-firms-ponyai-and-weride-to-list-in-hong-kong-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212238-1760517347983-gettyimages-2210982230-AFP_43897F6.jpeg?v=1760517385&w=1920&h=1080",
+      "publishedAt": "2025-10-15T09:46:41Z",
+      "content": "Autonomous driving firms Pony.ai and WeRide have received approval from China's securities regulator for secondary listings in Hong Kong, as the companies look to raise funds and continue their globa… [+2154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Frore's new LiquidJet coldplates are equipped to handle the spiralling power demands of future AI GPUs — built to handle up to 4.4Kw TDPs, solution could be deployed in power-hungry Feynman data centers",
+      "description": "Frore Systems's LiquidJet coldplate uses semiconductor-style metal wafer fabrication and 3D short-loop jet microstructures to double cooling density and cut pressure loss fourfold, setting the stage for multi-kilowatt AI GPUs.",
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/frores-new-liquidjet-coldplates-are-equipped-to-handle-the-spiralling-power-demands-of-future-ai-gpus-built-to-handle-up-to-4-4kw-tdps-solution-could-be-deployed-in-power-hungry-feynman-data-centers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jsrnumMTnrgxLNGq7Wvet9-1920-80.jpg",
+      "publishedAt": "2025-10-15T09:43:00Z",
+      "content": "Frore Systems has introduced LiquidJet, a coldplate that supports existing AI GPUs, such as Nvidia's Blackwell, with a 1,400W thermal design power. It can scale its performance for next-generation pr… [+4219 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106441670-1584102543017preview.jpg?v=1760418981&w=1920&h=1080",
       "publishedAt": "2025-10-14T06:08:54Z",
       "content": "Google will invest $10 billion into building new data centers in southern India, according to local officials, marking one of its largest investments in the South Asian nation as tech giants scramble… [+1612 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "寺島菜央",
-      "title": "CIOの約4割が意思決定でCEOとの認識のズレを実感--ネットスコープ調査",
-      "description": "Netskope Japanは、グローバル調査レポート「Crucial Conversations: How to Achieve CIO-CEO Alignment in the Era of AI（AI時代におけるCIOとCEO連携の実現に向けて）」の結果を発表した。",
-      "url": "https://japan.zdnet.com/article/35239178/",
-      "urlToImage": "https://japan.zdnet.com/storage/2025/01/27/879a24eb68e6541c77d199155c96fcf0/250127_handshake_as_1280_1012836319.jpeg",
-      "publishedAt": "2025-10-14T05:33:00Z",
-      "content": "ZDNET JapanZiff Davis4XZDNET Japan is operated by 4X Corp under license from Ziff Davis.\r\nCopyright (c) 2025 4X Corp. All rights reserved. No\r\n reproduction\r\n or republication without written permiss… [+3 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Europe fights for AI independence to avoid becoming tech ‘Colony’",
-      "description": "Europe’s push mirrors efforts around the world, from Canada to South Korea to the Middle East, where governments are frantically marshalling resources to avoid ceding too much of the AI market to the US and China",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-14/europe-aims-for-ai-independence-to-avoid-reliance-on-us-and-china",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/frbw6s/article70161308.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg",
-      "publishedAt": "2025-10-14T04:43:54Z",
-      "content": "In June, French president Emmanuel Macron held an exclusive dinner at the Élysée Palace with a special guest: Nvidias Jensen Huang. Wine glasses clinked in honor of a deal his company had just unveil… [+11973 chars]"
     }
   ]
 }
