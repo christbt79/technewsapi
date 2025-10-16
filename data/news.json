@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T10:10:28.685Z",
+  "fetchedAt": "2025-10-16T10:41:12.538Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Samsung joins Nvidia's NVLink Fusion program to produce custom AI chips — additional Spectrum-X platform to be deployed by Meta and Oracle for data center use",
+      "description": "The partnership brings Samsung Foundry into Nvidia’s high-speed interconnect ecosystem, expanding NVLink’s reach beyond TSMC and deepening Nvidia’s control over AI system design.",
+      "url": "https://www.tomshardware.com/samsung-joins-nvidia-nvlink-fusion",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2YFymL3qMNnApYJB7AiCUZ-1280-80.jpg",
+      "publishedAt": "2025-10-15T10:33:03Z",
+      "content": "On October 13 at the OCP Global Summit, Nvidia made a series of announcements that demonstrate just how seriously it’s trying to push into the physical supply chain that underpins AI compute. Chief a… [+5839 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/06/17/raiseprice.jpg",
       "publishedAt": "2025-10-14T07:29:11Z",
       "content": "Gartner has reported that SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in the original dea… [+3437 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google to invest $10 billion in AI data center project in India",
-      "description": "Google plans to invest $10 billion into data center and AI infrastructure in Southern India, according to local officials.",
-      "url": "https://www.cnbc.com/2025/10/14/google-to-invest-10-billion-in-ai-data-center-project-in-india.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106441670-1584102543017preview.jpg?v=1760418981&w=1920&h=1080",
-      "publishedAt": "2025-10-14T06:08:54Z",
-      "content": "Google will invest $10 billion into building new data centers in southern India, according to local officials, marking one of its largest investments in the South Asian nation as tech giants scramble… [+1612 chars]"
     }
   ]
 }
