@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-16T00:43:02.702Z",
+  "fetchedAt": "2025-10-16T02:18:53.675Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "A minority of businesses have won big with AI. What are they doing right?",
+      "description": "Cisco's new study explores how to be an AI 'Pacesetter' and stand apart from the stagnant masses.",
+      "url": "https://www.zdnet.com/article/a-minority-of-businesses-have-won-big-with-ai-what-are-they-doing-right/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b85a4d94c47ce3cea0b68acd6e552c3be4297d24/2025/10/14/d4554b87-3648-475a-9983-3802eaf96556/gettyimages-1411567359.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T02:00:50Z",
+      "content": "lerbank/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>Numerous studies show most businesses don't see ROI with AI.<… [+5486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Immutable Linux delivers serious security - here are your 5 best options",
+      "description": "With an immutable distribution, you never have to worry about an upgrade breaking things. These are my favorite immutable Linux distros.",
+      "url": "https://www.zdnet.com/article/immutable-linux-delivers-serious-security-here-are-your-5-best-options/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8b8966286130a6a8acb9f77bcdb511cb5ff06fe2/2025/08/18/5c81783b-76a7-417f-bc06-122827dee962/5-reasons-you-should-use-immutable-linux-distros.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T02:00:36Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>An immutable distribution increases the security of the OS.</li><li>L… [+7182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Trump has the last word on U.S. stocks",
+      "description": "At its lowest, the S&P 500 fell as much as 1.5%, but traded positive for most of the day. Then Trump said he was considering \"retribution\" against China.",
+      "url": "https://www.cnbc.com/2025/10/15/cnbc-daily-open-trump-has-the-last-word-on-us-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212093-17604756972025-10-14t210035z_1392998299_rc2wbhaecfzx_rtrmadp_0_usa-trump-kirk.jpeg?v=1760475727&w=1920&h=1080",
+      "publishedAt": "2025-10-15T01:17:45Z",
+      "content": "U.S. stocks had a rocky day of trading, swinging from highs and lows like the quality of Game of Thrones across its eight seasons. \r\nAt its lowest during the session, the S&amp;P 500 fell as much as … [+3386 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/aef1bc669eb6d6a0ef5d7744c45433180ae51e7f/2025/10/13/2edbe6f4-542a-40db-b65b-1e62a4366516/bazaar3.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-13T19:11:59Z",
       "content": "Jack Wallen/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Bazaar is a free tool for managing Flatpak apps.</li><li>It can be installed on any Linux dist… [+3592 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "10 open-source Windows apps I can't live without - and they're all free",
-      "description": "These free, open-source apps can supercharge your Windows PC and boost your productivity.",
-      "url": "https://www.zdnet.com/article/10-open-source-windows-apps-i-cant-live-without-and-theyre-all-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d7bfcda15d64856ad9fb55265550c17d30a04cb7/2025/10/13/38ed2a80-10bf-4746-8139-a4db10dfadf4/10-open-source-apps-i-always-recommend-windows-user-to-try-and-theyre-free.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T19:00:00Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>If Windows is your OS of choice, consider these open-source apps.</l… [+7587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "The $15 USB-C cable I always pack to avoid being hacked at public charging ports",
-      "description": "If you often plug into random chargers, you're an easy target for hackers.",
-      "url": "https://www.zdnet.com/article/the-15-usb-c-cable-i-always-pack-to-avoid-being-hacked-at-public-charging-ports/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T18:22:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft's OneDrive spots your mates, remembers their faces, and won't forget easily",
-      "description": "Then shalt thee change the setting three times, no more!\nMicrosoft's OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don't worry, it can be turned off – three times a year.…",
-      "url": "https://www.theregister.com/2025/10/13/microsoft_face_grouping_ondrive/",
-      "urlToImage": "https://regmedia.co.uk/2015/09/02/metal_faces_iron.jpg",
-      "publishedAt": "2025-10-13T17:48:48Z",
-      "content": "Microsoft's OneDrive is increasing the creepiness quotient by using AI to spot faces in photos and group images accordingly. Don't worry, it can be turned off three times a year.\r\nThis writer has bee… [+2101 chars]"
     }
   ]
 }
