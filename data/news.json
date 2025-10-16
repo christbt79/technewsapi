@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T17:37:10.845Z",
+  "fetchedAt": "2025-10-16T18:13:21.617Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
+      "description": "Huge AI infrastructure deals assume that algorithms will keep improving with scale. They may not.",
+      "url": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
+      "urlToImage": "",
+      "publishedAt": "2025-10-15T18:00:00Z",
+      "content": "A new study from MIT suggests the biggest and most computationally intensive AI models may soon offer diminishing returns compared to smaller models. By mapping scaling laws against continued improve… [+2478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "How Trump's $100,000 H-1B visa fee is already changing the job market search for skilled workers",
+      "description": "President Trump's $100,000 fee for H-1B visas for skilled foreign workers poses risks to the economy and innovation, but may result in real job upskilling.",
+      "url": "https://www.cnbc.com/2025/10/15/trump-h1b-visa-fee-startups-jobs-recruit-hire-workers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201540-1758315090372-gettyimages-2235781137-AFP_76784PC.jpeg?v=1760541890&w=1920&h=1080",
+      "publishedAt": "2025-10-15T17:47:55Z",
+      "content": "Nearly a month after the Trump administration's surprise $100,000 payment for new H-1B visa recipients went into effect, the headline-grabbling change is disrupting high-tech talent pipelines in two … [+8950 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MCLcg7RKskB3Mk55qVgWPP-2500-80.jpg",
       "publishedAt": "2025-10-14T18:18:36Z",
       "content": "OpenAI is reportedly working with SoftBank-owned Arm on a new CPU to complement the custom AI accelerator it is co-developing with Broadcom. The collaboration, first reported by The Information, woul… [+2580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Try Google's Nano Banana image generator in Search and NotebookLM - here's how",
-      "description": "Google's AI image editor is coming to a new lineup of applications.",
-      "url": "https://www.zdnet.com/article/try-googles-nano-banana-image-generator-in-search-and-notebooklm-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c565a94d3a6c0cc18f1efd940e139a141da7ed0c/2025/10/14/d1e64bea-e271-4e62-8f87-b707b5d00e7b/gettyimages-2234178220.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T18:16:21Z",
-      "content": "Andriy Onufriyenko/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google unveils Nano Banana in Google Search and Notebook LM. </li><l… [+2502 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Mozilla’s Firefox adds Perplexity’s AI answer engine as a new search option",
-      "description": "The integration offers conversational, cited answers instead of traditional links and follows positive feedback from earlier tests in select markets. Perplexity will expand to mobile soon.",
-      "url": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200",
-      "publishedAt": "2025-10-14T17:49:21Z",
-      "content": "While AIcompanies, startups, andothers are rolling out their own web browsers that embed AI services deep into the web surfing experience, Mozilla’s Firefox is instead allowing its customers to swap … [+1878 chars]"
     }
   ]
 }
