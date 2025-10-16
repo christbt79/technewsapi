@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T10:41:12.538Z",
+  "fetchedAt": "2025-10-16T11:08:10.181Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Aarian Marshall",
+      "title": "A New Road Safety Group Targets Self-Driving Cars",
+      "description": "A Tesla Takedown alum has launched a campaign for stricter regulation of autonomous vehicles in the US.",
+      "url": "https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/",
+      "urlToImage": "https://media.wired.com/photos/68ed64b64991e2f0569dd36d/191:100/w_1280,c_limit/gear-tesla-robotaxi-2220873143.jpg",
+      "publishedAt": "2025-10-15T11:00:00Z",
+      "content": "A new advocacy group is pushing state lawmakers to pass more stringent autonomous vehicle regulations. The group, Safe Autonomous Vehicles Everywhere in the United States (SAVE-US), says its goal is … [+3052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I tested this Windows 11 tablet built for the medical industry, and it made my Android look boring",
+      "description": "DT Research's 323MD rugged tablet has an anti-microbial keyboard and IP65 water and dust resistance.",
+      "url": "https://www.zdnet.com/article/i-tested-this-windows-11-tablet-built-for-the-medical-industry-and-it-made-my-android-look-boring/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T10:46:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6394 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/b48ba03785f7ca78ee4e13e1ce881b7eb5059dd6/2024/02/19/9da65411-6cf9-408e-9795-ed4eebad44ce/hiner-vision-pro-in-hand.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T08:49:00Z",
       "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The upcoming M5 iPad Pro has allegedly already been leaked in unboxing videos.</li><li>All thr… [+3327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Liam Proven",
-      "title": "Ubuntu 25.10 lands: Rustier and Wayland-ier, but Flatpak is broken",
-      "description": "Canonical's Questing Quokka waddles in at 5.7 GB with AppArmor woes The latest interim release of Ubuntu is here, showcasing some significant changes. This isn't a long-term release, yet many of its differences will be in 26.04 next year.…",
-      "url": "https://www.theregister.com/2025/10/14/ubuntu_2510_is_here/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/13/software_bug.jpg",
-      "publishedAt": "2025-10-14T08:15:10Z",
-      "content": "The latest interim release of Ubuntu is here, showcasing some significant changes. This isn't a long-term release, yet many of its differences will be in 26.04 next year.\r\nAt the end of last week, Ca… [+4321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Unwary SAP private cloud users face 10% renewal hikes, warns Gartner",
-      "description": "On-prem discounts drying up as ERP giant sends 'mixed signals' on pricing\nGartner has reported that SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in th…",
-      "url": "https://www.theregister.com/2025/10/14/sap_private_cloud_hikes/",
-      "urlToImage": "https://regmedia.co.uk/2025/06/17/raiseprice.jpg",
-      "publishedAt": "2025-10-14T07:29:11Z",
-      "content": "Gartner has reported that SAP customers opting for private cloud have seen price increases of 10 percent or more on renewal proposals if they fail to negotiate a renewal price cap in the original dea… [+3437 chars]"
     }
   ]
 }
