@@ -1,6 +1,123 @@
 {
-  "fetchedAt": "2025-10-16T13:04:04.287Z",
+  "fetchedAt": "2025-10-16T13:45:36.437Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "This new Copilot trick will save you tons of time in Windows 11 - here's how",
+      "description": "It makes Windows 11 PCs easier to use and might just be the fastest way to find settings.",
+      "url": "https://www.zdnet.com/article/this-new-copilot-trick-will-save-you-tons-of-time-in-windows-11-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1372d2de2f59ac6a76a28c6a36a09bc2d62546ba/2025/10/15/80610d69-58de-438f-91aa-2c6ad56f938e/this-cool-new-copilot-feature-will-help-you-use-windows-more-easily.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T13:38:38Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Ask about a specific Windows setting, and Copilot will link to it.<… [+3527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Groups including BlackRock, Microsoft, Nvidia, and xAI join forces to acquire Aligned Data Centers — $40B deal delivers 5GW of operational and planned data center capacity",
+      "description": "Microsoft, Nvidia, and xAI partner with asset management firm BlackRock under AIP to make massive investments in data center infrastructure.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/groups-including-blackrock-microsoft-nvidia-and-xai-join-forces-to-acquire-aligned-data-centers-usd40b-deal-delivers-5gw-of-operational-and-planned-data-center-capacity",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Jsd54JzWbwq3Hnf2bEvucA-2560-80.jpg",
+      "publishedAt": "2025-10-15T13:37:48Z",
+      "content": "Asset management firm BlackRock has joined forces with Microsoft, Nvidia, and xAI to purchase Aligned Data Centers (Aligned) through an investment consortium called the Artificial Intelligence Infras… [+2503 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Samsung gives enticing preorder deal to new XR headset users amidst M5 Vision Pro launch",
+      "description": "The latest reservation offer comes just one week before Samsung's virtual Unpacked event, where Project Moohan is expected to debut.",
+      "url": "https://www.zdnet.com/article/samsung-gives-enticing-preorder-deal-to-new-xr-headset-users-amidst-m5-vision-pro-launch/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/688449dd0c68acc3b0a3f0bc1ec782391005ade6/2025/03/03/286abb41-6604-4c25-b731-15641af4c355/dsc04225.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T13:32:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "ASML shrugs off China slump with faith in AI-fueled chip demand",
+      "description": "Beijing's self-reliance push and US export limits hit orders\nEurope's tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam's export restrictions …",
+      "url": "https://www.theregister.com/2025/10/15/asml_q3_2025/",
+      "urlToImage": "https://regmedia.co.uk/2023/04/19/shutterstock_asmllogo.jpg",
+      "publishedAt": "2025-10-15T13:22:27Z",
+      "content": "Europe's tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam's export restrictions a… [+3291 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple announces new MacBook Pro laptops with updated chip",
+      "description": "Apple announced new MacBook Pro models on Wednesday with an updated M5 chip that allows them to run faster than their predecessors.",
+      "url": "https://www.cnbc.com/2025/10/15/apple-macbook-pro-laptops-m5-chip.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-gettyimages-2235712789-AFP_764J3VL.jpeg?v=1760378239&w=1920&h=1080",
+      "publishedAt": "2025-10-15T13:21:59Z",
+      "content": "Apple announced new MacBook Pro and iPad Pro models on Wednesday with an updated M5 chip that allows them to run faster than their predecessors.\r\nThe new MackBook Pro models start at $1,599 and go on… [+2010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple rival Honor launches AI phone tools that help users get online shopping discounts and more",
+      "description": "Honor expects people will turn more to AI assistants rather than smartphone apps directly, President of Products Fei Fang told CNBC in an exclusive interview.",
+      "url": "https://www.cnbc.com/2025/10/15/honor-launches-ai-phone-tools-that-help-users-get-online-shopping-discounts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212153-1760487379894-251014_HonorAI_close_question.jpg?v=1760533838&w=1920&h=1080",
+      "publishedAt": "2025-10-15T13:11:09Z",
+      "content": "Chinese smartphone company Honor announced on Oct. 15 a slew of new AI features, including the ability to compare deals across different e-commerce sellers.\r\nBEIJING Imagine if Amazon gave 20% discou… [+5957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Honor reveals a new smartphone with a fold-out robotic camera arm",
+      "description": "Chinese smartphone company Honor said it would release more details about the artificial intelligence-powered robot phone next year.",
+      "url": "https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212243-1760517866129-HONOR_ROBOT_PHONE-2.jpg?v=1760533697&w=1920&h=1080",
+      "publishedAt": "2025-10-15T13:08:51Z",
+      "content": "BEIJING Chinese smartphone company Honor on Wednesday announced it is developing a smartphone with a camera that folds out of the device using a robotic arm.\r\nThe company said it plans to share more … [+890 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Apple announces new MacBook Pro with M5 chip",
+      "description": "Apple is refreshing its 14-inch MacBook Pro with a new processor. Announced this morning via press release, the new entry-level MacBook Pro will now feature a new M5 chip, faster storage, and a claimed 24 hours of battery life. The price still starts at $1,59…",
+      "url": "https://www.theverge.com/news/797850/apple-macbook-pro-m5-announcement-price-specs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-15T13:07:38Z",
+      "content": "The M4 MacBook Pro of 2024.\r\n\n\nApple is refreshing its 14-inch MacBook Pro with a new processor. Announced this morning via press release, the new entry-level MacBook Pro will now feature a new M5 ch… [+583 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Apple’s iPad Pro now has a new M5 processor inside",
+      "description": "Apple just announced a new model of its best and highest-end tablet, the iPad Pro. The new device comes with a couple of internal upgrades, most notably a brand-new chip, the M5. Apple says the chip brings “up to 3.5x the AI performance” of last year’s Pro wh…",
+      "url": "https://www.theverge.com/news/799352/apple-ipad-pro-m5-price-release-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-iPad-Pro-Hero-Large.jpeg?quality=90&strip=all&crop=0%2C13.339328880589%2C100%2C73.321342238821&w=1200",
+      "publishedAt": "2025-10-15T13:05:37Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro is becoming a showcase for Apples new chips and seems poised to remain the companys best tablet.\r\nThe Pro is becoming a showcase for Apples new chips and… [+2984 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1183,123 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108109909-1741017282018-C-OB-Photo-20250303-CC-PRESS-18.jpg?v=1741017401&w=1920&h=1080",
       "publishedAt": "2025-10-14T12:44:09Z",
       "content": "Citigroup posted higher third-quarter earnings on Tuesday before the bell, with every division generating record revenue.\r\nHere's what the bank reported compared with what Wall Street was expecting, … [+1227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Oracle rushes out another emergency E-Business Suite patch as Clop fallout widens",
-      "description": "Latest in a long line of EBS flaws leta miscreants remotely compromise enterprise systems to pinch sensitive data Oracle is rushing out another emergency patch for its embattled E-Business Suite as the fallout from the Clop-linked attacks continues to spread.…",
-      "url": "https://www.theregister.com/2025/10/14/oracle_rushes_out_another_emergency/",
-      "urlToImage": "https://regmedia.co.uk/2024/06/12/admin_shutterstock.jpg",
-      "publishedAt": "2025-10-14T12:32:49Z",
-      "content": "Oracle is rushing out another emergency patch for its embattled E-Business Suite as the fallout from the Clop-linked attacks continues to spread.\r\nThe newly disclosed flaw, tracked as CVE-2025-61884 … [+2595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
-      "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
-      "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Big bank earnings, Broadcom's OpenAI chip deal, record-high car prices and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/14/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196369-17574424262025-09-09t182512z_1091578687_rc2hoga0qlgg_rtrmadp_0_jpmorgan-new-york.jpeg?v=1757442464&w=1920&h=1080",
-      "publishedAt": "2025-10-14T12:21:02Z",
-      "content": "A sign is posted in front of a Broadcom office in San Jose, California, on Dec. 12, 2024.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are… [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Toshiba touts industry-first 12-disk HDD stacking technology, will pair with microwave-based recording tech — says advance will enable 40TB drives in 2027",
-      "description": "Toshiba claims it is the first to “verify 12-disk stacking technology,” while its HDD rivals flounder with 10.",
-      "url": "https://www.tomshardware.com/pc-components/hdds/toshiba-touts-industry-first-12-disk-hdd-stacking-technology-will-pair-with-microwave-based-recording-tech-says-advance-will-enable-40tb-drives-in-2027",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8Cusf9pcAY8f4gSsRTFptN-1920-80.jpg",
-      "publishedAt": "2025-10-14T12:20:49Z",
-      "content": "Toshiba has announced that it is the first company in the hard disk storage space to “verify 12-disk stacking technology.” Rivals currently aren’t able to squeeze more than 10 platters in their 3.5-i… [+2288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Oracle Cloud to deploy 50,000 AMD AI chips, signaling new Nvidia competition",
-      "description": "Oracle Cloud Infrastructure on Tuesday announced that it will deploy 50,000 Advanced Micro Devices graphics processors starting in the second half of 2026.",
-      "url": "https://www.cnbc.com/2025/10/14/oracle-cloud-to-deploy-50000-amd-ai-chips-as-alternative-to-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108158703-1749756531719-Screenshot_2025-06-12_at_32333_PM.png?v=1750098597&w=1920&h=1080",
-      "publishedAt": "2025-10-14T12:06:16Z",
-      "content": "Oracle Cloud Infrastructure on Tuesday announced that it will deploy 50,000 Advanced Micro Devices graphics processors starting in the second half of 2026.\r\nThe move is the latest sign that cloud com… [+2426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Shadow AI: Staffers are bringing AI tools they use at home to work, warns Microsoft",
-      "description": "Bring Your Copilot To Work Day, anyone?\nMicrosoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.…",
-      "url": "https://www.theregister.com/2025/10/14/microsoft_warns_of_the_dangers/",
-      "urlToImage": "https://regmedia.co.uk/2025/01/22/shutterstock_imposter_with_demonic_shadow.jpg",
-      "publishedAt": "2025-10-14T12:04:06Z",
-      "content": "Microsoft, the corporation that just 13 days ago implored customers to bring their Copilot to work, has now published a report warning of the dangers of Shadow AI.\r\nShadow IT has plagued IT administr… [+2371 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Christopher Null",
-      "title": "HP EliteBook 6 G1q Review: An Always-Connected Laptop",
-      "description": "This laptop’s built-in cellular radio is a standout feature in a device that's otherwise not worth the cost.",
-      "url": "https://www.wired.com/review/hp-elitebook-6-g1q/",
-      "urlToImage": "https://media.wired.com/photos/68eda149d38069fa305c069b/191:100/w_1280,c_limit/Review-%20HP%20EliteBook%206%20G1q.png",
-      "publishedAt": "2025-10-14T12:00:00Z",
-      "content": "Benchmark scores were unsurprising, turning in slightly above-average numbers across the board when compared to other Snapdragon X Plus laptops. Even its battery life of just over 17 hours when playi… [+1491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Salesforce's Agentforce software is coming to OpenAI's ChatGPT later this year",
-      "description": "Companies that work with OpenAI and Salesforce will soon be able to sell products through ChatGPT's instant checkout feature.",
-      "url": "https://www.cnbc.com/2025/10/14/salesforce-will-bring-agentforce-to-openais-chatgpt-later-in-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211552-1760399850212-gettyimages-2194677103-DAVOS_WEF_2025.jpeg?v=1760399909&w=1920&h=1080",
-      "publishedAt": "2025-10-14T11:45:01Z",
-      "content": "Salesforce is ramping up partnerships with leaders in generative artificial intelligence as investors continue to fear that the software company faces business risks due to the rapid growth of AI.\r\nJ… [+2716 chars]"
     }
   ]
 }
