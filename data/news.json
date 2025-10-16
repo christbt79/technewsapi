@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-16T09:11:19.308Z",
+  "fetchedAt": "2025-10-16T09:39:00.186Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Ber8auer rigs up exotic spray cooling for Ryzen 7 9800X3D, but don't get excited just yet — supercomputer cooling method underperforms due to partial IHS coverage",
+      "description": "Famous german overclocker Der8auer tests spray cooling, a cooling solution used in supercomputers, on a Ryzen 7 9800X3D with decent results. The chip was able to run through Cinebench R23 successfully without overheating.",
+      "url": "https://www.tomshardware.com/pc-components/cooling/ber8auer-rigs-up-exotic-spray-cooling-for-ryzen-7-9800x3d-but-dont-get-excited-just-yet-supercomputer-cooling-method-underperforms-due-to-partial-ihs-coverage",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oNcdD7dwgfsCRPXZceBYq9-1920-80.png",
+      "publishedAt": "2025-10-15T09:37:04Z",
+      "content": "There are many exotic forms of chip cooling in the wild, such as immersion cooling and liquid nitrogen cooling. But one cooling paradigm you might not have heard of is spray cooling, used by some sup… [+3596 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "When Face Recognition Doesn’t Know Your Face Is a Face",
+      "description": "An estimated 100 million people live with facial differences. As face recognition tech becomes widespread, some say they’re getting blocked from accessing essential systems and services.",
+      "url": "https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/",
+      "urlToImage": "https://media.wired.com/photos/68d2b8a6ec02cfea46385bf5/191:100/w_1280,c_limit/FacialRecognition_Illo.png",
+      "publishedAt": "2025-10-15T09:30:00Z",
+      "content": "If you dont include people with disabilities or people with facial differences in the development of these processes, no ones going to think of these issues, says Kathleen Bogart, a psychology profes… [+2671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Adata chairman says AI datacenters are gobbling up hard drives, SSDs, and DRAM alike — insatiable upstream demand could soon lead to consumer shortages",
+      "description": "Adata chairman says AI datacenters are gobbling up all memory and storage.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/adata-chairman-says-ai-datacenters-are-gobbling-up-hard-drives-ssds-and-dram-alike-insatiable-upstream-demand-could-soon-lead-to-consumer-shortages",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8VXqwFn42DWwQXki8qMowU-2000-80.jpg",
+      "publishedAt": "2025-10-15T09:24:18Z",
+      "content": "AI datacenters are eating up the world's supply standard DRAM memory, NAND flash for SSDs, and hard drives. Adata chairman Simon Chen just made it extremely clear that in his three-decade tenure in t… [+2793 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Auto industry raises the alarm as China tightens export rules for rare earths",
+      "description": "Automotive industry groups have sounded the alarm over China’s latest move to impose restrictions on the export of rare earths.",
+      "url": "https://www.cnbc.com/2025/10/15/auto-industry-raises-the-alarm-as-china-tightens-rare-earth-curbs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212240-1760517796289-gettyimages-104550998-CHINA_RARE_EARTHS_WEAPONS.jpeg?v=1760517879&w=1920&h=1080",
+      "publishedAt": "2025-10-15T09:14:00Z",
+      "content": "Automotive industry groups have raised the alarm over the ramifications of China's latest move to restrict critical rare earth exports, saying the measures could pave the way to a period of supply ch… [+3203 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/frbw6s/article70161308.ece/alternates/LANDSCAPE_1200/BL03_AI_generate.jpg",
       "publishedAt": "2025-10-14T04:43:54Z",
       "content": "In June, French president Emmanuel Macron held an exclusive dinner at the Élysée Palace with a special guest: Nvidias Jensen Huang. Wine glasses clinked in honor of a deal his company had just unveil… [+11973 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Hiner",
-      "title": "Beware of getting your product buying advice from AI for one big reason, says Ziff Davis CEO",
-      "description": "Despite suing OpenAI for intellectual property theft, Vivek Shah remains 'bullish' on the impact of AI on life and business.",
-      "url": "https://www.zdnet.com/article/beware-of-getting-your-product-buying-advice-from-ai-for-one-big-reason-says-ziff-davis-ceo/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b40d1035691019ccdf1acbc59b14d776de6215c7/2025/10/14/dd6e7e67-b99d-4702-b439-ad84048c3133/vivek-shah-getty-images-andrew-toth.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T04:02:57Z",
-      "content": "Vivek Shah, CEO of Ziff Davis.\r\nAndrew Toth/Getty Images\r\nThe CEO who is currently best known for standing up to OpenAI by suing it for allowing ChatGPT to make unauthorized copies of his company's c… [+3243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "Is art dead? What Sora 2 means for your rights, creativity, and legal risk",
-      "description": "OpenAI's Sora 2 gives anyone the power to make realistic AI videos - but what happens when creativity, copyright, and deepfakes collide in ways we can't control?",
-      "url": "https://www.zdnet.com/article/is-art-dead-what-sora-2-means-for-your-rights-creativity-and-legal-risk/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/14031ced1d6b957e32a281c98bb71e3952da4ba7/2025/10/13/599ddbe9-a816-4fe1-bd7b-0eec1ade7d51/gettyimages-2239939872.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T02:00:41Z",
-      "content": "Photo illustration by Cheng Xin/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI video tools now raise real legal and ownership risks.</li><li>Op… [+20798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "I unleashed Copilot on my Microsoft and Google accounts - here's what happened",
-      "description": "With a new update rolling out to Windows Insiders, Copilot can access your Microsoft and Google accounts to work with your email, calendar, and contacts. Here's how this worked for me.",
-      "url": "https://www.zdnet.com/article/i-unleashed-copilot-on-my-microsoft-and-google-accounts-heres-what-happened/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a9d735b5ac5b1df4a502ef8cd1cff601ee300071/2025/10/13/ea7102b2-2a86-4029-97d4-a631a07360cf/gettyimages-1202610363.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T02:00:40Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot will be able to link to your Microsoft and Google accounts.</li><li>Yo… [+5018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "How wearable health tech could help catch breast cancer",
-      "description": "Coupled with AI, health data from wearables could significantly improve survival rates. This MIT professor is developing a device to do just that.",
-      "url": "https://www.zdnet.com/article/how-wearable-health-tech-could-help-catch-breast-cancer/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d20ce967212c144285992be0c2db6276be5f40f6/2025/10/13/24aeed20-6f83-43ad-a7db-e3f07242ec83/gettyimages-2153863164.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T02:00:38Z",
-      "content": "akinbostanci/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Wearable health tech could one day detect breast cancer.… [+2925 chars]"
     }
   ]
 }
