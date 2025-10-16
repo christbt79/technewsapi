@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T08:13:49.686Z",
+  "fetchedAt": "2025-10-16T08:45:25.212Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "This niche-y DT Research Windows tablet is fascinating",
+      "description": "DT Research's 323MD rugged tablet has an anti-microbial keyboard and IP65 water and dust resistance.",
+      "url": "https://www.zdnet.com/article/this-niche-y-dt-research-windows-tablet-is-fascinating/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T08:30:33Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "UK government's £45B AI savings pitch built on broad-brush guesswork, MPs told",
+      "description": "Think tank cautions that without job cuts or capital savings, the math doesn't add up UK government's plans to save £45 billion through the application of AI in the public sector lack clarity and are based on broad-brush assumptions, Members of Parliament hav…",
+      "url": "https://www.theregister.com/2025/10/15/uk_gov_ai_savings/",
+      "urlToImage": "https://regmedia.co.uk/2019/01/28/shutterstock_parliament.jpg",
+      "publishedAt": "2025-10-15T08:15:05Z",
+      "content": "UK government's plans to save £45 billion through the application of AI in the public sector lack clarity and are based on broad-brush assumptions, Members of Parliament have heard.\r\nSpeaking to the … [+2453 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/1a231e07fb1e44c11940e87b69fa88efda520d16/2025/10/13/0ffa7db8-75e5-4320-a652-fcf9a32ad983/cubessmall555.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T02:00:37Z",
       "content": "Yuuji/E+ via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Even the best AI models are challenged to carry out tasks via MCP.</li><li>New benchma… [+10672 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: There's a hopeful mood in the Middle East and the markets",
-      "description": "Trump, when asked by reporters if the war in the Middle East has ended, gave an unequivocal \"yes,\" Reuters reported.",
-      "url": "https://www.cnbc.com/2025/10/14/cnbc-daily-open-theres-a-hopeful-mood-in-the-middle-east-and-the-markets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211417-1760378966676-gettyimages-2240466822-_s014479.jpeg?v=1760379001&w=1920&h=1080",
-      "publishedAt": "2025-10-14T01:24:59Z",
-      "content": "This might not be Christmas, but the war in the Middle East is over at least according to U.S. President Donald Trump.\r\nOn Monday, Trump declared at the Knesset, Israel's parliament, that the \"long a… [+3037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Nvidia's GB10 workstations arrive with 1 petaFLOPS of compute, 128GB of VRAM, and a $3K+ price tag",
-      "description": "Systems from Nvidia, Dell, and others available starting Oct. 15\nNvidia's tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project …",
-      "url": "https://www.theregister.com/2025/10/13/nvidia_gb10_spark/",
-      "urlToImage": "https://regmedia.co.uk/2025/03/18/nvidia_dgx_spark.jpg",
-      "publishedAt": "2025-10-13T23:53:36Z",
-      "content": "Nvidia's tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project Digit… [+3675 chars]"
     }
   ]
 }
