@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T22:34:05.007Z",
+  "fetchedAt": "2025-10-16T23:08:36.288Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Arm CEO says moving some AI workloads from the cloud will make it more sustainable",
+      "description": "Arm Holdings CEO Rene Haas discussed AI technology's energy use in an interview with CNBC's Jim Cramer.",
+      "url": "https://www.cnbc.com/2025/10/15/arm-holdings-ceo-move-ai-workloads-from-cloud-reduce-power-consumption-energy-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178370-1753794854212-gettyimages-2202862389-muslimin-notitle250305_npxDa.jpeg?v=1760555958&w=1920&h=1080",
+      "publishedAt": "2025-10-15T22:54:28Z",
+      "content": "Arm Holdings CEO Rene Haas told CNBC's Jim Cramer on Wednesday that moving some AI functions away from the could help reduce energy usage.\r\nOver time, he suggested, a large number of multi-gigawatt d… [+2204 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8b8966286130a6a8acb9f77bcdb511cb5ff06fe2/2025/08/18/5c81783b-76a7-417f-bc06-122827dee962/5-reasons-you-should-use-immutable-linux-distros.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T02:00:36Z",
       "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>An immutable distribution increases the security of the OS.</li><li>L… [+7182 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Trump has the last word on U.S. stocks",
-      "description": "At its lowest, the S&P 500 fell as much as 1.5%, but traded positive for most of the day. Then Trump said he was considering \"retribution\" against China.",
-      "url": "https://www.cnbc.com/2025/10/15/cnbc-daily-open-trump-has-the-last-word-on-us-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212093-17604756972025-10-14t210035z_1392998299_rc2wbhaecfzx_rtrmadp_0_usa-trump-kirk.jpeg?v=1760475727&w=1920&h=1080",
-      "publishedAt": "2025-10-15T01:17:45Z",
-      "content": "U.S. stocks had a rocky day of trading, swinging from highs and lows like the quality of Game of Thrones across its eight seasons. \r\nAt its lowest during the session, the S&amp;P 500 fell as much as … [+3386 chars]"
     }
   ]
 }
