@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-16T14:41:38.174Z",
+  "fetchedAt": "2025-10-16T15:10:12.272Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "The full Space Stage agenda at Disrupt 2025 | TechCrunch",
+      "description": "The Space Stage agenda is full at TechCrunch Disrupt 2025. Join 10,000 tech leaders to hear what's next in space tech. Register now to save up to $624.",
+      "url": "https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2024-Bridgit-Mendler.jpg?resize=1200,800",
+      "publishedAt": "2025-10-15T15:05:28Z",
+      "content": "At TechCrunch Disrupt 2025, the future doesnt just get discussed it takes off. Nowhere is that more literal than on the Space Stage, launching in San Franciscos Moscone West on October 27, in partner… [+3413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "The new iPad Pro's biggest upgrade isn't the M5 chip - I'd buy it for this feature instead",
+      "description": "The M5 chip delivers up to 5.6 times faster performance than the M1 processor.",
+      "url": "https://www.zdnet.com/article/the-new-ipad-pros-biggest-upgrade-isnt-the-m5-chip-id-buy-it-for-this-feature-instead/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c629658fe797056625079bd470c20470b18bb9f6/2025/10/15/75b50551-c937-47a6-b0b2-0cd7b3befbc4/ipad-pro-m5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T15:05:00Z",
+      "content": "Apple/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple just released a new iPad Pro featuring the new M5 chip.</li><li>The iPad Pro boasts stronger, … [+3940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I abandoned Google for a search tool that doesn't track me or push AI - and it gets better",
+      "description": "YaCy is completely private and can be installed on Linux, Mac, and Windows PCs.",
+      "url": "https://www.zdnet.com/article/i-abandoned-google-for-a-search-tool-that-doesnt-track-me-or-push-ai-and-it-gets-better/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/413b35a8ddd9bbb286a5dc8a2b66e28f04ce569b/2025/10/07/bca0ee02-b5fc-47b9-8bd8-1bf6a207ccdf/why-use-a-third-party-search-tool-when-you-can-install-and-use-your-own.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T15:04:00Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to abandon Google, you can install your own search engine.<… [+5357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "Own a Google Pixel? 8 settings I changed to extend the battery life by hours",
+      "description": "Tweak these settings to keep your phone lasting longer - while maintaining great battery health.",
+      "url": "https://www.zdnet.com/article/own-a-google-pixel-8-settings-i-changed-to-extend-the-battery-life-by-hours/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0117181e6991931b3a6b1bce23dcc7285be4f811/2025/10/08/8ad2b478-ec18-487d-8deb-e6d5c444499c/dsc07944.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T14:53:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nPixel phones have an excellent reputation for smart software, but battery life has been a common complaint with Google's sm… [+7416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Walmart deploying millions of Internet of Things sensors across U.S. to track inventory from warehouse to Supercenter",
+      "description": "Walmart is deploying millions of ambient Internet of Things battery-free sensors throughout its  U.S. supply chain to enhance services and add efficiencies.",
+      "url": "https://www.cnbc.com/2025/10/15/walmart-deploying-millions-of-internet-iot-sensors-across-us.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108129594-1744233318439-gettyimages-2209422186-img_4880_necs2fuw.jpeg?v=1752246821&w=1920&h=1080",
+      "publishedAt": "2025-10-15T14:49:46Z",
+      "content": "Walmart is deploying millions of ambient Internet of Things battery-free sensors throughout its massive supply chain in the U.S.\r\nThe retail giant is using technology from Wiliot in what the IoT vend… [+5266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Apple launches new 14-inch MacBook Pro with M5 chip — boasts 2x SSD speeds and increased GPU performance for AI over M4",
+      "description": "Apple's MacBook Pro lineup is getting a refresh, with the 14-inch model now equipped with the company's new M5 chip. Most of the specs remain unchanged, but so does the price, and the main focus is on AI improvements under the hood with M5. It's up to 3.5x mo…",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apple-launches-new-14-inch-macbook-pro-with-m5-chip-boasts-2x-ssd-speeds-increased-gpu-performance-for-ai-over-m4-version",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yeNNgoFjGyM8NHfvyTuGT3-2560-80.jpg",
+      "publishedAt": "2025-10-15T14:42:46Z",
+      "content": "After teasing a new product launch on X earlier today, Apple has just announced the 2025 refresh to its 14-inch MacBook Pro lineup, now equipped with the shiny new M5 chip. The press release, accompa… [+3051 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/google-search-app-ios.jpg?resize=1200,644",
       "publishedAt": "2025-10-14T15:12:42Z",
       "content": "Google is rolling out a series of changes to its Search and Discover pages, the company shared across multipleannouncements. The updates will bring new AI-powered features to these key destinations, … [+2557 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Sheryl Sandberg-backed Flint wants to use AI to autonomously build and update websites | TechCrunch",
-      "description": "Flint raised a $5 million seed round led by Accel, with participation from Sheryl Sandberg’s fund, Sandberg Bernthal Venture Partners, and prior investor Neo.",
-      "url": "https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/DSC09795-1.jpg?resize=1200,801",
-      "publishedAt": "2025-10-14T15:05:28Z",
-      "content": "Sometimes, you can only spot what’s wrong when you’ve been part of the process for a while. That was the case for Michelle Lim, who, while running Warps growth marketing effort earlier this year, rea… [+3796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Juggling projects? This powerful tool can help you stay better organized - for free",
-      "description": "If you need help managing individual, family, or work projects, this handy service/app has really helped me keep things organized and moving forward.",
-      "url": "https://www.zdnet.com/home-and-office/work-life/juggling-projects-this-powerful-tool-can-help-you-stay-better-organized-for-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cc52852348f43ec4353f3dab33cd7ecd7e35430e/2025/10/14/792e7d7b-fed1-4058-b369-3b6109a71a8b/zenkit.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T14:58:01Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Zenkit is a project management tool for all platforms.</li><li>Individuals and smal… [+4929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The AI boom is lifting the stock market, but it may be masking a weaker economy",
-      "description": "AI spending is powering growth in GDP and profits but experts warn the rest of the U.S. economy may be weakening.",
-      "url": "https://www.cnbc.com/2025/10/14/ai-infrastructure-boom-masks-potential-us-recession-analyst-warns.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200913-17582228022025-09-18t191018z_8446028_rc2fugavvq8c_rtrmadp_0_usa-ai-microsoft-data.jpeg?v=1758222867&w=1920&h=1080",
-      "publishedAt": "2025-10-14T14:47:47Z",
-      "content": "A surge in artificial intelligence infrastructure spending is lifting GDP and driving market optimism, but some experts warn the boom could be concealing underlying economic weakness.\r\nGlobal AI inve… [+2862 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "The latest Moto Razr Ultra foldable is an even better value at $999",
-      "description": "If you’re on the fence about trying a foldable smartphone, Motorola’s Razr Ultra (2025) may be the one you’ve been waiting for, and you can pick it up for $999.99 ($300 off) at Amazon and Best Buy. Our reviewer praised its design (the wooden back panel has a …",
-      "url": "https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Verge-Deals-Motorola-Razr-Ultra-2025.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-14T14:47:33Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus, we found great deals on Ankers Nano Charging Station, and the Amazfit Band 7.\r\nPlus, we found great deals on Ankers Nano Charging Station, and the Amazfit … [+5233 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft bids farewell to Windows 10, but millions of users won’t be",
-      "description": "Windows 10 is so popular that Windows 11 only overtook it in terms of usage just a few months ago. That's why I'm surprised that Microsoft is still, kind of, going ahead with its end of support cutoff today. At one point last year, I wasn't sure if Microsoft …",
-      "url": "https://www.theverge.com/tech/799098/microsoft-windows-10-end-of-life-notepad",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-482300530.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2025-10-14T14:16:46Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWindows 10 is still hugely popular a decade on.\r\nWindows 10 is still hugely popular a decade on.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this author will be… [+11988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Walmart teams up with OpenAI to allow purchases directly in ChatGPT",
-      "description": "The retail giant is trying to keep up with the new ways that shoppers are discovering products.",
-      "url": "https://www.cnbc.com/2025/10/14/walmart-openai-chatgpt-shopping.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200964-1758227340183-gettyimages-2169853413-ACSL_laptop_website_walmart.jpeg?v=1760449710&w=1920&h=1080",
-      "publishedAt": "2025-10-14T14:15:49Z",
-      "content": "Walmart said Tuesday it has struck a deal with OpenAI to allow shoppers to make faster purchases directly through artificial intelligence chatbot ChatGPT.\r\nWith the move, the world's largest retailer… [+1400 chars]"
     }
   ]
 }
