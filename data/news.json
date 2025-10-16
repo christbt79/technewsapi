@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T11:08:10.181Z",
+  "fetchedAt": "2025-10-16T11:32:19.385Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Ready to ditch your Windows PC? I highly recommend this mini PC that's optimized for Linux",
+      "description": "The Kubuntu Focus NX Gen 3 ships with one of my favorite Linux distributions preinstalled, and takes just minutes to set up.",
+      "url": "https://www.zdnet.com/article/ready-to-ditch-your-windows-pc-i-highly-recommend-this-mini-pc-thats-optimized-for-linux/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8fd6b42d25332cfb0fa1f5412a58a769c138ef56/2025/10/07/256fecb2-bf39-4462-ac7d-66787e91af68/focus3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T11:09:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAny chance I can get to review a Linux-powered PC, I'm thrilled to do so. It's not only because I get to experience how a third party approaches… [+5140 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1286,19 +1299,6 @@
       "url": "https://www.zdnet.com/article/apple-could-launch-3-new-m5-powered-devices-this-week-including-a-vision-pro-sucessor/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b48ba03785f7ca78ee4e13e1ce881b7eb5059dd6/2024/02/19/9da65411-6cf9-408e-9795-ed4eebad44ce/hiner-vision-pro-in-hand.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T08:49:30Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The upcoming M5 iPad Pro has allegedly already been leaked in unboxing videos.</li><li>All thr… [+3327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Apple could launch 3 new M5-powered devices this week, including a Vision Pro successor",
-      "description": "Apple's October 2025 product release cycle, with the next-generation M5 chipset, is approaching fast.",
-      "url": "https://www.zdnet.com/article/apple-could-launch-3-new-m5-powered-devices-this-week-including-a-vision-pro-successor/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b48ba03785f7ca78ee4e13e1ce881b7eb5059dd6/2024/02/19/9da65411-6cf9-408e-9795-ed4eebad44ce/hiner-vision-pro-in-hand.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T08:49:00Z",
       "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The upcoming M5 iPad Pro has allegedly already been leaked in unboxing videos.</li><li>All thr… [+3327 chars]"
     }
   ]
