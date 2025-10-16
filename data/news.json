@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T21:31:33.005Z",
+  "fetchedAt": "2025-10-16T22:05:13.807Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "HPE stock sinks 10% on weak guidance for fiscal 2026",
+      "description": "Hewlett Packard Enterprise shares plunged in after-hours trading on Wednesday after the company issued disappointing guidance.",
+      "url": "https://www.cnbc.com/2025/10/15/hpe-stock-sinks-10percent-on-weak-guidance-for-fiscal-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105480821-1538407348425img_4235.jpg?v=1538407455&w=1920&h=1080",
+      "publishedAt": "2025-10-15T21:54:20Z",
+      "content": "Hewlett Packard Enterprise shares sank 7% in extended trading on Wednesday after the company issued disappointing guidance for its fiscal 2026.\r\nAt a meeting with analysts, HPE said its adjusted earn… [+1205 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Google’s AI video generator is getting better editing and more audio",
+      "description": "Google is making videos created with the AI filmmaking tool Flow even more realistic — and harder to identify as AI-generated at first glance. The company announced Wednesday that users can add in and change the shadows and lighting of their AI videos. The ex…",
+      "url": "https://www.theverge.com/news/800371/google-veo-3-1-flow-audio",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-15-at-4.52.06%E2%80%AFPM.png?quality=90&strip=all&crop=6.0433133732535%2C0%2C87.913373253493%2C100&w=1200",
+      "publishedAt": "2025-10-15T21:46:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can fix lighting and add shadows in AI-generated videos made with Flow.\r\nYou can fix lighting and add shadows in AI-generated videos made with Flow.\r\nby\r\nEli… [+2340 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.nzherald.co.nz/resizer/v2/AR5VK6VQHZGI3AQLAAANC7S2II.jpg?auth=a1edb6a3815ca81495f72afe16167947f08a7d673ee2666bce2cba7fbbada392&width=1200&height=675&quality=70&focal=967%2C550&smart=false",
       "publishedAt": "2025-10-14T23:35:53Z",
       "content": "He is betting AI can help halve production time and slash costs, enabling the studio to deliver a feature film and a series every year.\r\nThe question we should be asked is, Where did you use AI? Jang… [+2317 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Samsung officially teases Moohan headset launch for next week",
-      "description": "Samsung is finally about to reveal more details about its Project Moohan mixed reality headset. The company just announced a new “Worlds Wide Open” Galaxy event that will take place on October 21st at 10PM ET, where it’s promising to reveal details about the …",
-      "url": "https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/image002.jpg?quality=90&strip=all&crop=0%2C3.4846106844621%2C100%2C93.030778631076&w=1200",
-      "publishedAt": "2025-10-14T23:05:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts nearly time to learn a lot more about the Project Moohan headset.\r\nIts nearly time to learn a lot more about the Project Moohan headset.\r\nby\r\nJay PetersClose… [+2658 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Samsung offers $100 instant deal to new XR headset users ahead of Unpacked",
-      "description": "The reservation offer comes just one week before Samsung's virtual Unpacked event, where Project Moohan is expected to debut.",
-      "url": "https://www.zdnet.com/article/samsung-offers-100-instant-deal-to-new-xr-headset-users-ahead-of-unpacked/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/688449dd0c68acc3b0a3f0bc1ec782391005ade6/2025/03/03/286abb41-6604-4c25-b731-15641af4c355/dsc04225.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T23:00:30Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3154 chars]"
     }
   ]
 }
