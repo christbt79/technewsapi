@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T08:45:25.212Z",
+  "fetchedAt": "2025-10-16T09:11:19.308Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "Trump's anti-sustainability agenda comes to Eurozone",
+      "description": "ESG kicked like a 'toxic political football' amid greenwashing Canalys Forums 2025  US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside – and it's now swinging across the Atlan…",
+      "url": "https://www.theregister.com/2025/10/15/europe_sustainability_canalys/",
+      "urlToImage": "https://regmedia.co.uk/2017/05/11/shutterstock_wrecking_ball.jpg",
+      "publishedAt": "2025-10-15T09:00:14Z",
+      "content": "Canalys Forums 2025 US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside and it's now swinging across the Atlantic, a… [+4366 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -852,12 +865,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -865,12 +878,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/d20ce967212c144285992be0c2db6276be5f40f6/2025/10/13/24aeed20-6f83-43ad-a7db-e3f07242ec83/gettyimages-2153863164.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T02:00:38Z",
       "content": "akinbostanci/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Wearable health tech could one day detect breast cancer.… [+2925 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Tiernan Ray",
-      "title": "Even the best AI agents are thwarted by this protocol - what can be done",
-      "description": "The increasingly popular Model Context Protocol lets AI models access applications, but studies show that the best generative AI bots struggle with planning across a variety of tasks.",
-      "url": "https://www.zdnet.com/article/even-the-best-ai-agents-are-thwarted-by-this-protocol-what-can-be-done/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1a231e07fb1e44c11940e87b69fa88efda520d16/2025/10/13/0ffa7db8-75e5-4320-a652-fcf9a32ad983/cubessmall555.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T02:00:37Z",
-      "content": "Yuuji/E+ via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Even the best AI models are challenged to carry out tasks via MCP.</li><li>New benchma… [+10672 chars]"
     }
   ]
 }
