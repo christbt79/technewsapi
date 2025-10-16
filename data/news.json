@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T07:09:55.000Z",
+  "fetchedAt": "2025-10-16T07:34:50.612Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Mark Pesce",
+      "title": "AI is the flying car of the mind: An irresistible idea nobody knows how to land or manage",
+      "description": "And which will crash, repeatedly, until users learn how to handle it safely Column  Steve Jobs probably didn't remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a \"bicycle for the mind.\" Jobs' point …",
+      "url": "https://www.theregister.com/2025/10/15/ai_vs_flying_cars/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/15/shutterstock_car.jpg",
+      "publishedAt": "2025-10-15T07:30:12Z",
+      "content": "Column Steve Jobs probably didn't remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a \"bicycle for the mind.\" Jobs' point was that both too… [+2954 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -813,12 +826,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
+      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
+      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
     },
     {
       "source": {
@@ -826,12 +839,12 @@
         "name": "ZDNet"
       },
       "author": "Ed Bott",
-      "title": "Windows 10 support officially ends today - and millions of PCs fall off the 'security cliff'",
+      "title": "Windows 10 support officially ends today - but the chaos will continue for years",
       "description": "Hundreds of millions of PCs are still running Windows 10, and even with extended security updates, the population of unpatched PCs will spike over the next few years. How bad can it get?",
-      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-and-millions-of-pcs-fall-off-the-security-cliff/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8c0cf2084a6c809947cc6c4d1179780b74ba4f30/2025/10/14/39a79c33-5230-457b-9bca-abf171ed8ae4/gettyimages-2163447833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "url": "https://www.zdnet.com/article/windows-10-support-officially-ends-today-but-the-chaos-will-continue-for-years/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/569e533b49549702e3917b105af08039c66e1961/2025/04/18/3f4665cb-3cc9-4064-baa0-7dbe2256fb08/gettyimages-491551172.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-14T12:27:00Z",
-      "content": "Narong KHUEANKAEW/iStock/Getty Images Plus\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of… [+3065 chars]"
+      "content": "John Taggart/Bloomberg via Getty Images\r\nWindows 10 has officially expired.\r\nIt was a good run -- more than 10 years in all, starting July 29, 2015, and ending on Oct. 14, 2025. Over the course of th… [+3079 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/03/18/nvidia_dgx_spark.jpg",
       "publishedAt": "2025-10-13T23:53:36Z",
       "content": "Nvidia's tiniest Grace-Blackwell workstation is finally making its way to store shelves this week, the better part of a year after the GPU giant first teased the AI mini PC, then called Project Digit… [+3675 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Fred Imbert",
-      "title": "Stock market today: Live updates",
-      "description": "Stocks fell Tuesday, resuming the selling seen late last week, as trade worries were reignited overnight by China.",
-      "url": "https://www.cnbc.com/2025/10/13/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130210-17443045782025-04-10t170125z_708275486_rc24vdavov8d_rtrmadp_0_usa-stocks.jpeg?v=1744304636&w=1920&h=1080",
-      "publishedAt": "2025-10-13T22:11:48Z",
-      "content": "Stocks fell Tuesday, resuming the selling seen late last week, as trade worries were reignited overnight by China.\r\nThe Dow Jones Industrial Average lost 504 points, or 1.1%. The S&amp;P 500 lost 1.3… [+2695 chars]"
     }
   ]
 }
