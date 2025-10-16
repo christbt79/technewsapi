@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-16T15:38:46.682Z",
+  "fetchedAt": "2025-10-16T16:11:58.517Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Meta partners up with Arm to scale AI efforts | TechCrunch",
+      "description": "Semiconductor firm Arm is partnering with Meta to enhance the social media company's AI systems amid an unprecedented infrastructure buildout.",
+      "url": "https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+      "publishedAt": "2025-10-15T16:06:50Z",
+      "content": "Semiconductor design company Arm is partnering up with Meta to enhance the social media giant’s AI systems amid an unprecedented infrastructure buildout. Under the partnership, Meta’s ranking and rec… [+2167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "I've tested dozens of noise-cancelling headphones on flights - this one is the audio king",
+      "description": "The Sony WH-1000XM6 are staying in my backpack for the next several trips. Here's why.",
+      "url": "https://www.zdnet.com/article/ive-tested-dozens-of-noise-cancelling-headphones-on-flights-this-one-is-the-audio-king/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/47528b9d706c4ffb63301039136955c5c623d009/2025/09/30/08a069a4-2905-4ddd-955a-68ee99b23535/1000004409.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T16:06:00Z",
+      "content": "Jada Jones/ZDNET\r\nZDNET's key takeaways\r\n<ul><li>The Sony WH-1000XM6 headphones offer even better sound and ANC performance.</li><li>They have the best travel case for headphones in 2025.</li><li>I l… [+5512 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Nscale inks massive AI infrastructure deal with Microsoft | TechCrunch",
+      "description": "Nscale plans to deploy the chips over the next few years to three data centers in Europe and a fourth in the U.S.",
+      "url": "https://techcrunch.com/2025/10/15/nscale-inks-massive-ai-infrastructure-deal-with-microsoft/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2201260651.jpg?w=1024",
+      "publishedAt": "2025-10-15T16:02:59Z",
+      "content": "AI hyperscaler startup Nscale has signed a sizable deal with Microsoft to bring Nvidia AI hardware to multiple data centers.\r\nThe AI cloud provider announced that it signed a deal with Microsoft to b… [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Google's Veo 3.1 can turn separate images into a single video",
+      "description": "Surrealist visuals, scene extensions, fill-in-the-blank features - here's what the new Veo can do.",
+      "url": "https://www.zdnet.com/article/googles-veo-3-1-can-turn-separate-images-into-a-single-video/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/21c40e997391c86686310412af721d9a4293553a/2025/10/15/dec85513-02a7-40a6-a06a-6483a5b0b581/screenshot-2025-10-15-at-11-59-25am.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T16:01:12Z",
+      "content": "Screenshot by Radhika Rajkumar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Veo 3.1 video model has landed.</li><li>It can blend individua… [+4316 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Google releases Veo 3.1, adds it to Flow video editor",
+      "description": "Google launched its new video model Veo 3.1 with improved audio output, granular editing controls, and better output for image to video. It said that Veo 3.1 builds on May’s Veo 3 release and generates more realistic clips and adheres to prompts better. The m…",
+      "url": "https://techcrunch.com/2025/10/15/google-releases-veo-3-1-adds-it-to-flow-video-editor/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-15-at-8.03.20PM.jpg?resize=1200,578",
+      "publishedAt": "2025-10-15T16:00:00Z",
+      "content": "Google launched its new video model Veo 3.1 with improved audio output, granular editing controls, and better output for image to video. It said that Veo 3.1 builds on May’s Veo 3 release and generat… [+776 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "Cyber giant F5 Networks says government hackers had 'long-term' access to its systems, stole code and customer data | TechCrunch",
+      "description": "The company, which provides cybersecurity defenses to most of the Fortune 500, said the DOJ allowed it to delay notifying the public on national security grounds.",
+      "url": "https://techcrunch.com/2025/10/15/cyber-giant-f5-networks-says-government-hackers-had-long-term-access-to-its-systems-stole-code-and-customer-data/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/f5-networks-breach-2193774538.jpg?resize=1200,800",
+      "publishedAt": "2025-10-15T15:53:03Z",
+      "content": "Cybersecurity firm F5 Networks says government-backed hackers had long-term, persistent access to its network, which allowed them to steal the company’s source code and customer information.\r\nIn a fi… [+2601 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "'Highly sophisticated' government goons hacked F5, stole source code and undisclosed bug details",
+      "description": "And they swiped a limited amount of customers' config data\nSecurity shop F5 today said \"highly sophisticated nation-state\" hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belongin…",
+      "url": "https://www.theregister.com/2025/10/15/highly_sophisticated_government_hackers_breached/",
+      "urlToImage": "https://regmedia.co.uk/2021/03/11/shutterstock_f5.jpg",
+      "publishedAt": "2025-10-15T15:50:53Z",
+      "content": "Security shop F5 today said \"highly sophisticated nation-state\" hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belongi… [+2988 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211870-1760456890008-Greer3.jpg?v=1760457021&w=1920&h=1080",
       "publishedAt": "2025-10-14T16:03:18Z",
       "content": "President Donald Trump could still slap China with 100% tariffs on Nov. 1 or sooner depending on Beijing's next move in a dispute over rare earths, U.S. Trade Representative Jamieson Greer told CNBC … [+620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Spend too much time scheduling meetings? This Gemini feature could save you the hassle",
-      "description": "Google says this new Gemini feature will put an end to tedious emailing. Here's how it works.",
-      "url": "https://www.zdnet.com/article/spend-too-much-time-scheduling-meetings-this-gemini-feature-could-save-you-the-hassle/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7977a84dc7f0550d0a871e026eb13488bc126a1b/2025/08/28/3848813c-a2ac-4a89-bf87-51682faa6585/gemini-on-premise.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T16:00:34Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google announced a new \"Help me schedule\" feature.</li><li>It enables Gemini to sch… [+2851 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Google Meet launches an AI-powered makeup feature",
-      "description": "Google Meet finally has a makeup filter for those days when you don't feel like applying lipstick.",
-      "url": "https://techcrunch.com/2025/10/14/google-meet-launches-an-ai-powered-makeup-feature/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GoogleMeet-makeup-e1760456693707.png?w=818",
-      "publishedAt": "2025-10-14T16:00:12Z",
-      "content": "Google Meet finally has an AI-powered makeup filter for those days when you don’t feel like applying real makeup before a meeting. The new capability will help Google Meet compete with other video-co… [+942 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zoë Schiffer, Louise Matsakis",
-      "title": "‘Sovereign AI’ Has Become a New Front in the US-China Tech War",
-      "description": "OpenAI has announced “AI sovereignty\" partnerships with governments around the world, but can proprietary models compete with Beijing’s open source offerings?",
-      "url": "https://www.wired.com/story/openai-sovereign-ai-us-china-tech-war/",
-      "urlToImage": "https://media.wired.com/photos/68ed60d1bfe13206c9ff9d9f/191:100/w_1280,c_limit/Biz-model-behavior-stargate-uae-2236543888.jpg",
-      "publishedAt": "2025-10-14T16:00:00Z",
-      "content": "OpenAI has announced a number of projects this year with foreign governments to help build out what it has called their sovereign AI systems. The company says the deals, some of which are being coord… [+3539 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Coco Robotics taps UCLA professor to lead new physical AI research lab | TechCrunch",
-      "description": "Coco Robotics is working toward automating its fleet of delivery robots using its millions of miles of collected data.",
-      "url": "https://techcrunch.com/2025/10/14/coco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Coco-Robotics-image.jpg?resize=1200,960",
-      "publishedAt": "2025-10-14T15:53:32Z",
-      "content": "Coco Robotics, a startup known for its fleet of last-mile delivery bots, is looking to get more information out of the five years’ worth of data its robots have collected. Its answer: a physical AI l… [+2792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "You can test Microsoft's new in-house AI image generator model now - here's how",
-      "description": "It's already scoring in the top ten at the AI leaderboard LMArena.",
-      "url": "https://www.zdnet.com/article/you-can-test-microsofts-new-in-house-ai-image-generator-model-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8270da20b8f878684eb08f59c1f00a0f734bd3fc/2025/10/14/da187e9d-4cb8-4df2-8ad0-6478a492abce/gettyimages-2128592701.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T15:52:27Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft is now testing its own in-house AI image generation model.</li><li>Y… [+3728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "I put AirTags on everything and this $65 deal makes the 4-pack too good to skip",
-      "description": "The Apple AirTag 4-pack is now at an all-time low price, making it the perfect accessory to track your keys, wallets, and luggage during the holiday travel season.",
-      "url": "https://www.zdnet.com/article/i-put-airtags-on-everything-and-this-65-deal-makes-the-4-pack-too-good-to-skip/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4b879ea3527a4c8ff4b76c6024c633dcf7d1eed7/2024/09/30/e7e268f6-caf5-4344-a640-71016a177cea/4pk.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T15:52:15Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe holiday season is almost here, which means that some of the busiest (and most stressful) travel days of the year are fast … [+3698 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "AMD and Oracle partner to deploy 50,000 MI450 Instinct GPUs in new AI superclusters — massive capacity expansion set for 2026, powered by AMD's Helios rack",
-      "description": "AMD is set to provide 50,000 of its next-generation MI450 Instinct GPUs for a new Oracle supercluster that will power next-generation AI inference and training. This joins the many other high-profile hardware and infrastructure deals that many of the top tech…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-and-oracle-partner-to-deploy-50-000-mi450-instinct-gpus-in-new-ai-superclusters-deployment-of-expansion-set-for-2026-powered-by-amds-helios-rack",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dj3e2xEdVMkhEEyKwVWHNM-1920-80.jpg",
-      "publishedAt": "2025-10-14T15:51:49Z",
-      "content": "AMD and Oracle have inked a deal for a deployment of 50,000 next-generation MI450 Instinct professional graphics cards and Zen 6 Epyc CPUs as part of an \"AI supercluster\" Oracle is developing for its… [+3306 chars]"
     }
   ]
 }
