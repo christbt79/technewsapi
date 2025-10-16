@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T17:08:20.106Z",
+  "fetchedAt": "2025-10-16T17:37:10.845Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers | TechCrunch",
+      "description": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Viven.jpg.jpeg?resize=1200,801",
+      "publishedAt": "2025-10-15T17:32:11Z",
+      "content": "While employees spend much of their day communicating and coordinating amongst themselves on projects, this effort is often undermined by the availability of specific individuals. When a colleague wi… [+3378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "This Google Meet tool could help you look better in meetings - even the early ones",
+      "description": "Overslept? Google Meet's AI-powered 'makeup' feature offers 12 looks to make you look meeting-ready.",
+      "url": "https://www.zdnet.com/home-and-office/smart-office/this-google-meet-tool-could-help-you-look-better-in-meetings-even-the-early-ones/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1329bc9baa1d52949e0bdef59056a6d36a4b04b5/2023/07/19/e35de1c0-270d-4fd8-8864-0daba07eadf8/google-meet.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T17:30:18Z",
+      "content": "Illustration: Maria Diaz/ZDNET | Logo: Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Meet has a new AI-powered makeup feature.</li><li>Choose fr… [+2249 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200",
       "publishedAt": "2025-10-14T17:49:21Z",
       "content": "While AIcompanies, startups, andothers are rolling out their own web browsers that embed AI services deep into the web surfing experience, Mozilla’s Firefox is instead allowing its customers to swap … [+1878 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Sam Altman says ChatGPT will soon sext with verified adults",
-      "description": "OpenAI will soon allow “erotica” for ChatGPT users who verify their age on the platform. In an X post on Tuesday, OpenAI CEO Sam Altman said the company will add support for mature conversations when it launches age-gating in December. “As we roll out age-gat…",
-      "url": "https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK_414_AI_CHATBOT_R2_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-14T17:45:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI will bring erotica to ChatGPT once it rolls out age verification in December.\r\nOpenAI will bring erotica to ChatGPT once it rolls out age verification in … [+2931 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Higher education CEO on AI's growing role in health-care degree market",
-      "description": "Adtalem CEO Steve Beard is leading the health-care education company through an AI transformation, one he believes will further complement what it already does.",
-      "url": "https://www.cnbc.com/2025/10/14/higher-education-ceo-on-ais-role-in-developing-health-care-workers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211882-1760457470190-gettyimages-2203403108-ma116381.jpeg?v=1760457484&w=1920&h=1080",
-      "publishedAt": "2025-10-14T17:14:49Z",
-      "content": "AI is quickly transforming the way companies and CEOs are approaching their businesses and the strategies that take them forward. Amid that rapid transformation, Adtalem Global Education CEO Steve Be… [+4213 chars]"
     }
   ]
 }
