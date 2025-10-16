@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T06:46:17.275Z",
+  "fetchedAt": "2025-10-16T07:09:55.000Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: A Trump post drowns out positive developments for markets",
+      "description": "At its lowest, the S&P 500 fell as much as 1.5%, but traded positive for most of the day. Then Trump said he was considering \"retribution\" against China.",
+      "url": "https://www.cnbc.com/2025/10/15/cnbc-daily-open-a-trump-post-drowns-out-positive-developments-for-markets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211991-1760467725949-gettyimages-2241027595-_d1_4662_91eiwgrf.jpeg?v=1760467909&w=1920&h=1080",
+      "publishedAt": "2025-10-15T06:59:51Z",
+      "content": "U.S. stocks had a rocky day of trading, swinging from highs to lows like the quality of Game of Thrones across its eight seasons.\r\nAt its lowest during the session, the S&amp;P 500 fell as much as 1.… [+3383 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108130210-17443045782025-04-10t170125z_708275486_rc24vdavov8d_rtrmadp_0_usa-stocks.jpeg?v=1744304636&w=1920&h=1080",
       "publishedAt": "2025-10-13T22:11:48Z",
       "content": "Stocks fell Tuesday, resuming the selling seen late last week, as trade worries were reignited overnight by China.\r\nThe Dow Jones Industrial Average lost 504 points, or 1.1%. The S&amp;P 500 lost 1.3… [+2695 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Microsoft AI announces first image generator created in-house",
-      "description": "Microsoft AI just announced its first text-to-image generator, MAI-Image-1, designed and developed in-house. The tech giant, which recently announced its first in-house developed AI models, called the new image generator “the next step on our journey.” Micros…",
-      "url": "https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-13T21:24:05Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe model has already secured a spot in the top 10 of LMArena.\r\nThe model has already secured a spot in the top 10 of LMArena.\r\nby\r\nAndrew J. HawkinsClose\r\nAndre… [+2316 chars]"
     }
   ]
 }
