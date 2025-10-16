@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-16T16:11:58.517Z",
+  "fetchedAt": "2025-10-16T16:43:50.590Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Apple just fixed one of my biggest pain points with Vision Pro - what's new with the M5 model",
+      "description": "The headset's $3,499 starting price remains the same, but several changes make the headset more justifiable.",
+      "url": "https://www.zdnet.com/article/apple-just-fixed-one-of-my-biggest-pain-points-with-vision-pro-whats-new-with-the-m5-model/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b48ba03785f7ca78ee4e13e1ce881b7eb5059dd6/2024/02/19/9da65411-6cf9-408e-9795-ed4eebad44ce/hiner-vision-pro-in-hand.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T16:24:00Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple has announced a new version of its Vision Pro headset.</li><li>The new headset has an up… [+2478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Cisco: Most companies don't know what they're doing with AI",
+      "description": "Only 13% are AI-ready; the rest are bolting it on and hoping for ROI\nContrary to popular belief, you can't succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or tra…",
+      "url": "https://www.theregister.com/2025/10/15/cisco_ai_readiness_index/",
+      "urlToImage": "https://regmedia.co.uk/2017/06/14/jenga_shutterstock.jpg",
+      "publishedAt": "2025-10-15T16:15:12Z",
+      "content": "Contrary to popular belief, you can't succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or track result… [+5050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "The Vision Pro gets two big upgrades, and one fixes a very real pain point. Here's what's new",
+      "description": "The headset's $3,499 starting price remains the same.",
+      "url": "https://www.zdnet.com/article/the-vision-pro-gets-two-big-upgrades-and-one-fixes-a-very-real-pain-point-heres-whats-new/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/043bf80a677728072e6983fca9550029c761b0e8/2025/10/15/e3cbedf6-decf-4cfb-89c2-1dbfe63dad54/apple-vision-pro-hero-251015.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T16:12:43Z",
+      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple has announced a new version of its Vision Pro headset.</li><li>The new headset has an upgraded M5 ch… [+2466 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209778-1759986401217-gettyimages-2236404267-radecka-illustra250920_np0Hx.jpeg?v=1760450097&w=1920&h=1080",
       "publishedAt": "2025-10-14T17:00:01Z",
       "content": "OpenAI on Tuesday announced a council of eight experts who will advise the company and provide insight into how artificial intelligence could affect users' mental health, emotions and motivation. \r\nT… [+2799 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google’s Gemini can now help you schedule Google Calendar meetings",
-      "description": "Designed for one-on-one meetings, the tool lets you insert available time slots directly into an email, automatically creating a calendar invite once a recipient selects a time.",
-      "url": "https://techcrunch.com/2025/10/14/googles-gemini-can-now-help-you-schedule-google-calendar-meetings/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
-      "publishedAt": "2025-10-14T16:10:46Z",
-      "content": "Google is launching a new tool that uses AI to make it easier for Gmail users with Google Calendar to schedule their meetings. On Tuesday, the company launched a Gemini-powered “Help me schedule” fea… [+1662 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Gmail now uses AI to help you find meeting times",
-      "description": "Google is trying to make it easier to find time to meet with coworkers and clients. It’s launching a new Gemini AI-powered “Help me schedule” feature that suggests meeting time slots based on your Google Calendar and the context of the message. You can direct…",
-      "url": "https://www.theverge.com/news/799160/google-gmail-gemini-ai-help-me-schedule",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK459_09.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-14T16:03:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI-powered Help me schedule feature will use the context of your email and your Google Calendar to help find available time slots.\r\nThe AI-powered Help me sc… [+2616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump trade rep says new 100% tariff on China depends on Beijing's next move",
-      "description": null,
-      "url": "https://www.cnbc.com/2025/10/14/trump-trade-china-tariffs-greer.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211870-1760456890008-Greer3.jpg?v=1760457021&w=1920&h=1080",
-      "publishedAt": "2025-10-14T16:03:18Z",
-      "content": "President Donald Trump could still slap China with 100% tariffs on Nov. 1 or sooner depending on Beijing's next move in a dispute over rare earths, U.S. Trade Representative Jamieson Greer told CNBC … [+620 chars]"
     }
   ]
 }
