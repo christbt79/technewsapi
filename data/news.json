@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-16T15:10:12.272Z",
+  "fetchedAt": "2025-10-16T15:38:46.682Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nuclear stocks surge after U.S. Army launches program to deploy small reactors",
+      "description": "AI power demand and Trump's executive orders have fuelled a wave of market enthusiasm about nuclear power.",
+      "url": "https://www.cnbc.com/2025/10/15/army-nuclear-reactor-trump-oklo-nuscale-nano-centrus.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212073-1760473621104-gettyimages-2241056175-mms27665_q9v90h3l.jpeg?v=1760473689&w=1920&h=1080",
+      "publishedAt": "2025-10-15T15:36:12Z",
+      "content": "Nuclear stocks rallied Wednesday after the U.S. Army launched a program to deploy small reactors.\r\nShares of NuScale, a small reactor developer, soared 17%. Oklo and Nano Nuclear were up nearly 7% an… [+1066 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "X plans to show more information about user profiles to help improve trust",
+      "description": "X is working on new transparency features to help users identify who they’re interacting with, such as account creation date, location, username change history, and how each account uses the service.",
+      "url": "https://techcrunch.com/2025/10/15/x-plans-to-show-more-information-about-user-profiles-to-help-improve-trust/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+      "publishedAt": "2025-10-15T15:35:30Z",
+      "content": "As AI makes it easier to create bots that act ever more human-like, Elon Musk’s X is developing a new feature that would expose more information about the users behind an X profile, in an effort to h… [+3195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Devs are writing VS Code extensions that blab secrets by the bucketload",
+      "description": "Vibe coding may have played a role in what took researchers months to fix\nDevelopers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some …",
+      "url": "https://www.theregister.com/2025/10/15/vc_code_extension_leaks/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/09/code_shutterstock.jpg",
+      "publishedAt": "2025-10-15T15:35:24Z",
+      "content": "Developers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some nasty supply c… [+3416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "The Beats Studio 3 headphones are 40% off at Walmart - the lowest price we've seen",
+      "description": "Walmart is offering the Beats Studio 3 headphones for just $89, a great price for these iconic over-ear headphones.",
+      "url": "https://www.zdnet.com/article/the-beats-studio-3-headphones-are-40-off-at-walmart-the-lowest-price-weve-seen/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/632527fe79484040664f16eb2aec183ba93d8afa/2025/10/15/a4b309a2-75f8-490a-bb30-0139ebc9fd27/untitled-design-50.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T15:23:34Z",
+      "content": "Walmart/ZDNET\r\nIf you need a new pair of headphones for your daily commute or for listening to music and podcasts without having to deal with external noise, we have a sale for you. Over at Walmart, … [+2755 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip",
+      "description": "Apple announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro.",
+      "url": "https://techcrunch.com/2025/10/15/apple-upgrades-ipad-pro-macbook-pro-and-vision-pro-with-new-m5-chip/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Apple-iPad-Pro-lifestyle-251015_big.jpg.large_2x.jpg?w=1200",
+      "publishedAt": "2025-10-15T15:15:33Z",
+      "content": "Apple on Wednesday announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro, all powered by the new chip. \r\nThese devices are now available for pre-order, with shipping and … [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip",
+      "description": "The hardware largely remains the same, but performance gets a boost.",
+      "url": "https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/",
+      "urlToImage": "https://media.wired.com/photos/68efb698670b06a048487b72/191:100/w_1280,c_limit/Apple%20iPad%20Pro%20M5%20SOURCE%20Apple.jpg",
+      "publishedAt": "2025-10-15T15:11:26Z",
+      "content": "As before, the 11-inch iPad Pro costs $999 and the 13-inch iPad Pro starts at $1,299. They're compatible with the Apple Pencil Pro, Apple Pencil USB-C, Magic Keyboard, and Smart Folio.\r\nThe New MacBo… [+1914 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dj3e2xEdVMkhEEyKwVWHNM-1920-80.jpg",
       "publishedAt": "2025-10-14T15:51:49Z",
       "content": "AMD and Oracle have inked a deal for a deployment of 50,000 next-generation MI450 Instinct professional graphics cards and Zen 6 Epyc CPUs as part of an \"AI supercluster\" Oracle is developing for its… [+3306 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "You can hide ads on Google now, thanks to this new feature - try it now",
-      "description": "You'll soon be able to see fewer sponsored ads in Search.",
-      "url": "https://www.zdnet.com/article/you-can-hide-ads-on-google-now-thanks-to-this-new-feature-try-it-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ac8325d9064533d659c5f62910b6a77e3979ee26/2025/10/14/2e4b7fd5-acb3-4004-baef-da8f1c4587d4/gettyimages-2197380148.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T15:50:08Z",
-      "content": "SOPA Images / Contributor/LightRocket via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new feature will hide sponsored results in Search.</li>… [+1997 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "You’ll soon be able to shop Walmart from ChatGPT",
-      "description": "Walmart is partnering with OpenAI to let shoppers buy products directly through ChatGPT. The new integration will allow users to link their Walmart accounts, browse items ,and instantly check out — all within the chatbot.",
-      "url": "https://techcrunch.com/2025/10/14/youll-soon-be-able-to-shop-walmart-from-chatgpt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1228097014.jpg?w=1024",
-      "publishedAt": "2025-10-14T15:32:23Z",
-      "content": "Walmart announced on Tuesday a new partnership with OpenAI that will allow consumers to shop Walmart’s products via the AI chatbot, including things like groceries (not fresh food), household essenti… [+2173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zak Killian",
-      "title": "Goodbye, Windows 10 — how a decade of 'progress' eroded users' command over their own machines",
-      "description": "As Windows 10 fades into obsolescence, the argument it leaves behind is more philosophical than technical.",
-      "url": "https://www.tomshardware.com/software/windows/goodbye-windows-10-how-a-decade-of-progress-eroded-users-command-over-their-own-machines",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EFm5ZKJdN2EKc2wKXLqHKS-1920-80.jpg",
-      "publishedAt": "2025-10-14T15:30:22Z",
-      "content": "Today, on October 14th, 2025, Microsoft is ending mainstream support for Windows 10, the operating system that ten years ago was famously billed as \"the last version of Windows.\" For many, the announ… [+8926 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "OpenAI and Broadcom partner on AI hardware | TechCrunch",
-      "description": "OpenAI will purchase 10 gigawatts worth of AI accelerator hardware from semiconductor Broadcom.",
-      "url": "https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-      "publishedAt": "2025-10-14T15:29:32Z",
-      "content": "OpenAI has landed a new hardware partner. \r\nThe AI research lab announced Monday it formed a partnership with semiconductor company Broadcom for 10 gigawatts worth of custom AI accelerator hardware. … [+1086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Jonquilyn Hill",
-      "title": "Your kids are watching YouTube. Here’s the best way for them to navigate it.",
-      "description": "When it comes to content to watch, kids have a lot of options these days. There are still the classics, like Sesame Street, but also a new kids media titan: YouTube. So how can a parent make sense of all this different content? And what’s the best way for you…",
-      "url": "https://www.vox.com/explain-it-to-me/464294/kids-media-youtube-ai-slop",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2220645827.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "publishedAt": "2025-10-14T15:21:00Z",
-      "content": "When it comes to content to watch, kids have a lot of options these days. There are still the classics, like Sesame Street, but also a new kids media titan: YouTube.\n\nSo how can a parent make sense o… [+4956 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Google updates Search and Discover with collapsible ads, AI features, and more",
-      "description": "Google is rolling out updates to Search and Discover that introduce AI-powered features, improved navigation, and a new option to collapse ads. While users can now hide sponsored results, the “Sponsored” label will remain visible as they scroll — making ads p…",
-      "url": "https://techcrunch.com/2025/10/14/google-updates-search-and-discover-with-collapsible-ads-ai-features-and-more/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/google-search-app-ios.jpg?resize=1200,644",
-      "publishedAt": "2025-10-14T15:12:42Z",
-      "content": "Google is rolling out a series of changes to its Search and Discover pages, the company shared across multipleannouncements. The updates will bring new AI-powered features to these key destinations, … [+2557 chars]"
     }
   ]
 }
