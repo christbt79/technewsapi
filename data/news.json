@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-16T05:37:54.276Z",
+  "fetchedAt": "2025-10-16T06:14:54.397Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "OpenAI has five years to turn $13 billion into $1 trillion | TechCrunch",
+      "description": "Some of America's most valuable companies are now leaning on OpenAI to fulfill major contracts, notes the FT.",
+      "url": "https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
+      "publishedAt": "2025-10-15T05:40:33Z",
+      "content": "OpenAI is printing money right now. The company is pulling in roughly $13 billion in annual revenue, with 70% coming from everyday people paying $20 a month to chat with an AI, according to the Finan… [+978 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-13T21:24:05Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe model has already secured a spot in the top 10 of LMArena.\r\nThe model has already secured a spot in the top 10 of LMArena.\r\nby\r\nAndrew J. HawkinsClose\r\nAndre… [+2316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "What Qualcomm's Arduino deal means for your Raspberry Pi",
-      "description": "So far, Raspberry Pi hasn't faced much serious competition. That could be about to change.",
-      "url": "https://www.zdnet.com/article/what-qualcomms-arduino-deal-means-for-your-raspberry-pi/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/09714cf8e2918efcf4b9518a6b92939bcc64c548/2025/10/13/cd3f7249-789b-4360-8140-a91b1ce81987/gettyimages-1980670267-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-13T20:28:00Z",
-      "content": "Chris Ratcliffe/Bloomberg via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Qualcomm is acquiring Arduino but allowing it to operate independentl… [+2639 chars]"
     }
   ]
 }
