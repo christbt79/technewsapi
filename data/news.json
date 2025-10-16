@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-16T16:43:50.590Z",
+  "fetchedAt": "2025-10-16T17:08:20.106Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Anthropic launches new version of scaled-down \"Haiku\" model | TechCrunch",
+      "description": "Anthropic has released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 \"at one-third the cost and more than twice the speed.\"",
+      "url": "https://techcrunch.com/2025/10/15/anthropic-launches-new-version-of-scaled-down-haiku-model/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-15-at-10.38.58-AM.jpg?w=800",
+      "publishedAt": "2025-10-15T17:04:26Z",
+      "content": "On Wednesday, Anthropic released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 “at one-third the cost and more than twice the speed,” … [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Claude's latest model is cheaper and faster than Sonnet 4 - and free",
+      "description": "Here's what Haiku 4.5 offers users and developers.",
+      "url": "https://www.zdnet.com/article/claudes-latest-model-is-cheaper-and-faster-than-sonnet-4-and-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c78a00000f7c1a17602287ac68fe06dec12edd6c/2025/10/15/c45fc2c3-741f-4d37-9e95-0551f661ec9d/illustration.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T17:00:30Z",
+      "content": "Anthropic\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic launched its new Haiku 4.5 model.</li><li>The small model is faster and more cost-effective.… [+2825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Anthropic launches Claude Haiku 4.5, a smaller, cheaper AI model",
+      "description": "The launch comes just weeks after Anthropic announced Claude Sonnet 4.5 in September",
+      "url": "https://www.cnbc.com/2025/10/15/anthropic-claude-haiku-4-5-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181967-1758834890156-GettyImages-2194795244.jpg?v=1760539777&w=1920&h=1080",
+      "publishedAt": "2025-10-15T17:00:02Z",
+      "content": "Anthropic on Wednesday announced Claude Haiku 4.5, a small artificial intelligence model that's available as a lower-cost offering for all of the company's users. \r\nThe model is fast and can outperfo… [+3548 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211882-1760457470190-gettyimages-2203403108-ma116381.jpeg?v=1760457484&w=1920&h=1080",
       "publishedAt": "2025-10-14T17:14:49Z",
       "content": "AI is quickly transforming the way companies and CEOs are approaching their businesses and the strategies that take them forward. Amid that rapid transformation, Adtalem Global Education CEO Steve Be… [+4213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Microsoft seeding Washington schools with free AI to get kids and teachers hooked",
-      "description": "To the slop trough, kiddos! Not content to shove Copilot into every corner of the enterprise it can think of, Microsoft has announced plans to force feed AI to students across its home state of Washington. …",
-      "url": "https://www.theregister.com/2025/10/14/microsoft_ai_schools/",
-      "urlToImage": "https://regmedia.co.uk/2017/04/10/shutterstock_boy_wanting_out_of_computer.jpg",
-      "publishedAt": "2025-10-14T17:08:03Z",
-      "content": "Not content to shove Copilot into every corner of the enterprise it can think of, Microsoft has announced plans to force feed AI to students across its home state of Washington. \r\nMicrosoft president… [+3769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Intel unveils Crescent Island, an inference-only GPU with Xe3P architecture and 160GB of memory",
-      "description": "Intel has unveiled its Crescent Island data center GPU for inference, built on the Xe3P architecture and equipped with 160 GB of LPDDR5X memory.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/intel-unveils-crescent-island-an-inference-only-gpu-with-xe3p-architecture-and-160gb-of-memory",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1920-80.png",
-      "publishedAt": "2025-10-14T17:00:29Z",
-      "content": "Intel on Tuesday formally introduced its next-generation Data Center GPU explicitly designed to run inference workloads, wedding 160 GB of LPDDR5X onboard memory with relatively low power consumption… [+2509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI forms expert council to bolster safety measures after FTC inquiry",
-      "description": "The council will help guide OpenAI's work around ChatGPT and Sora, and define what healthy AI interactions look like.",
-      "url": "https://www.cnbc.com/2025/10/14/open-ai-expert-council-safety-ftc.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209778-1759986401217-gettyimages-2236404267-radecka-illustra250920_np0Hx.jpeg?v=1760450097&w=1920&h=1080",
-      "publishedAt": "2025-10-14T17:00:01Z",
-      "content": "OpenAI on Tuesday announced a council of eight experts who will advise the company and provide insight into how artificial intelligence could affect users' mental health, emotions and motivation. \r\nT… [+2799 chars]"
     }
   ]
 }
