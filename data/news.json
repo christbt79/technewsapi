@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-16T19:31:22.808Z",
+  "fetchedAt": "2025-10-16T20:10:11.916Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Andrew Prokop",
+      "title": "Did Trump make the Gaza ceasefire happen?",
+      "description": "The ceasefire between Israel and Hamas is still new and fragile, but the arguments over who should get credit for it — or who should be blamed for it taking so long to achieve — are already heated. Was recent pressure from President Donald Trump on Israeli Pr…",
+      "url": "https://www.vox.com/politics/464771/israel-gaza-ceasefire-trump-netanyahu-hamas-hostages",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2240432293.jpg?quality=90&strip=all&crop=0%2C15.149112391456%2C100%2C69.701775217088&w=1200",
+      "publishedAt": "2025-10-15T19:58:58Z",
+      "content": "President Donald Trump speaks to Israeli Prime Minister Benjamin Netanyahu at Ben Gurion International Airport on October 13, 2025, in Tel Aviv, Israel.﻿ | Chip Somodevilla/Getty Images\r\n\n\nThe ceasef… [+9059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "My favorite iOS 26 productivity feature is highly useful but hidden - here's how to find it",
+      "description": "This Visual Intelligence feature makes adding events so much easier.",
+      "url": "https://www.zdnet.com/article/my-favorite-ios-26-productivity-feature-is-highly-useful-but-hidden-heres-how-to-find-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8ec89d15322f025d425f4626dc58b0366928a240/2025/09/19/6d6ecc93-c339-4b4c-b752-b3983ba1bb41/dsc07765.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T19:50:00Z",
+      "content": "Prakhar Khanna/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's Add to Calendar lets you create events with one tap from screenshots.</li><li>It do… [+4261 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation",
+      "description": "Speaking at CNBC's Invest in America Forum, the CEOs said the U.S. still leads in many sectors, but inconsistent policy and underinvestment is ceding ground.",
+      "url": "https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212614-1760554936731-Scharf_Bourla.jpg?v=1760555118&w=1920&h=1080",
+      "publishedAt": "2025-10-15T19:31:30Z",
+      "content": "Wells Fargo CEO Charlie Scharf and Pfizer CEO Albert Bourla sounded the alarm Wednesday over the potential for the the U.S. to lose its competitive edge to China, but said artificial intelligence cou… [+2926 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2231531157.jpg?quality=90&strip=all&crop=0%2C13.017158943063%2C100%2C73.965682113873&w=1200",
       "publishedAt": "2025-10-14T21:59:48Z",
       "content": "Recruitment posters showing Homeland Secretary Kristi Noem were printed for a major ICE hiring event on August 26, 2025, in Arlington, Texas. | Ron Jenkins/Getty Images\r\n\n\nPresident Donald Trump’s IC… [+10498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "18 zettaFLOPS of new AI compute coming online from Oracle late next year",
-      "description": "New clusters to feature 800,000 Nvidia Blackwell and 50,000 AMD Instinct MI450X GPUs Oracle on Tuesday revealed it would field more than 18 zettaFLOPS worth of AI infrastructure from Nvidia and AMD by the second half of next year.…",
-      "url": "https://www.theregister.com/2025/10/14/oracle_amd_nvidia/",
-      "urlToImage": "https://regmedia.co.uk/2025/07/22/openai_abilene_texas.jpg",
-      "publishedAt": "2025-10-14T21:09:47Z",
-      "content": "Oracle on Tuesday revealed it would field more than 18 zettaFLOPS worth of AI infrastructure from Nvidia and AMD by the second half of next year.\r\nThis includes a cluster of 800,000 Nvidia GPUs capab… [+3683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "This HP EliteBook I tested proves why Windows laptops still rule the workplace",
-      "description": "HP's EliteBook Ultra G1i is impressively lightweight, reliably powerful, and built to last on battery life. But there's more to it.",
-      "url": "https://www.zdnet.com/article/this-hp-elitebook-i-tested-proves-why-windows-laptops-still-rule-the-workplace/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cbbaf18b61873a257611b310697df9d4150578d4/2025/04/09/37004b75-7537-495e-a7b8-317853549901/hp-elitebook-ultra-g1i-image-2.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T20:17:58Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google. \r\nWork laptops don't have to be boring hunks of gray metal. There are plenty of eye-catching models providing engaging experiences. People lookin… [+5199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Apple's M5 MacBook Pro could be hours away - here's everything we know",
-      "description": "Apparently, 'something powerful is coming'. Three new M5-powered Apple products could be launched as soon as October 15.",
-      "url": "https://www.zdnet.com/article/apples-m5-macbook-pro-could-be-hours-away-heres-everything-we-know/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3d7aa4abab5a616697685a7e8a8bd600d9f2be8a/2025/10/14/ef3f2798-29ce-4878-80ae-291b18e480c5/apple.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T20:01:00Z",
-      "content": "Apple/X\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The upcoming M5 iPad Pro has allegedly already been leaked in unboxing videos.</li><li>Apple marketing c… [+3636 chars]"
     }
   ]
 }
