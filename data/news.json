@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T22:05:13.807Z",
+  "fetchedAt": "2025-10-16T22:34:05.007Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI buildout spend is justified even if there are 'casualties,' Jim Cramer says",
+      "description": "CNBC's Jim Cramer argued that Big Tech's enormous investments in AI will be worthwhile.",
+      "url": "https://www.cnbc.com/2025/10/15/ai-buildout-spend-justified-jim-cramer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105444612-1536690347185img_2729rrr.jpg?v=1692053569&w=1920&h=1080",
+      "publishedAt": "2025-10-15T22:27:58Z",
+      "content": "Big Tech's enormous spend on new artificial intelligence will be worthwhile, according to CNBC's Jim Cramer, even if there are some companies that don't necessarily reap rewards.\r\n\"I am telling you, … [+2590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "U.S. federal AI regulation is on the way, Sen. Marsha Blackburn says, regardless of big tech opposition",
+      "description": "Tennessee Sen. Marsha Blackburn said moving forward with federal AI regulation is \"imperative\" as concerns around privacy, usage and safety grow.",
+      "url": "https://www.cnbc.com/2025/10/15/us-federal-ai-regulation-is-on-the-way-sen-marsha-blackburn.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212701-1760562517676-gettyimages-1976428445-jdc_8571_3aqnfi9u-2_cevpqjcp.jpeg?v=1760562574&w=1920&h=1080",
+      "publishedAt": "2025-10-15T22:12:02Z",
+      "content": "As U.S. states start to react to growing constituent concerns around the risks associated with artificial intelligence use, Tennessee Sen. Marsha Blackburn said moving forward with a federal preempti… [+3371 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212093-17604756972025-10-14t210035z_1392998299_rc2wbhaecfzx_rtrmadp_0_usa-trump-kirk.jpeg?v=1760475727&w=1920&h=1080",
       "publishedAt": "2025-10-15T01:17:45Z",
       "content": "U.S. stocks had a rocky day of trading, swinging from highs and lows like the quality of Game of Thrones across its eight seasons. \r\nAt its lowest during the session, the S&amp;P 500 fell as much as … [+3386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Salesforce pumps the dream of AI agents as helpers, not replacements",
-      "description": "In the Agentic Enterprise, \"AI doesn’t replace people, it elevates them\" Salesforce CEO Marc Benioff heralded the arrival of the agentic era during his keynote at the CRM giant's annual Dreamforce conference.…",
-      "url": "https://www.theregister.com/2025/10/15/salesforce_dreamforce_agents_everywhere/",
-      "urlToImage": "https://regmedia.co.uk/2024/07/02/shutterstock_benioff.jpg",
-      "publishedAt": "2025-10-15T00:08:43Z",
-      "content": "Salesforce CEO Marc Benioff heralded the arrival of the agentic era during his keynote at the CRM giant's annual Dreamforce conference.\r\nSpeaking in San Francisco, California, on Tuesday, without the… [+4924 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Sohee Kim",
-      "title": "AI brings Korea’s struggling film industry hopes and anxiety",
-      "description": "Jang Seong-ho’s King of Kings earned US$60m in the US, topping Parasite.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-12/ai-brings-korea-s-struggling-film-industry-hopes-and-anxiety?embedded-checkout=true",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/AR5VK6VQHZGI3AQLAAANC7S2II.jpg?auth=a1edb6a3815ca81495f72afe16167947f08a7d673ee2666bce2cba7fbbada392&width=1200&height=675&quality=70&focal=967%2C550&smart=false",
-      "publishedAt": "2025-10-14T23:35:53Z",
-      "content": "He is betting AI can help halve production time and slash costs, enabling the studio to deliver a feature film and a series every year.\r\nThe question we should be asked is, Where did you use AI? Jang… [+2317 chars]"
     }
   ]
 }
