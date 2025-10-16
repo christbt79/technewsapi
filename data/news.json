@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-16T13:45:36.437Z",
+  "fetchedAt": "2025-10-16T14:09:49.989Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "9 essential Mac apps I can't live without - and why",
+      "description": "If you use MacOS, check out my go-to apps list. You might find a few worth trying.",
+      "url": "https://www.zdnet.com/article/9-essential-mac-apps-i-cant-live-without-and-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/04e61dc26395d5b7fd612f310bb8c273123f31fe/2024/03/07/15da65af-12d1-4d5c-94ed-961bc74d4fda/m3-macbook-air-close-up.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-15T14:09:00Z",
+      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are certain apps I have to use on MacOS.</li><li>This list is curated from Apple and third-party apps.… [+7551 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Japan wants OpenAI to stop ripping off manga and anime",
+      "description": "Japan’s government is dialing up the heat on OpenAI, formally asking it to stop ripping off Japanese artwork, according to ITMedia and reported by IGN. The company has been in copyright hell after the launch of its social video app Sora, which users swiftly f…",
+      "url": "https://www.theverge.com/news/799938/japan-government-openai-sora",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24428734/Screen_Shot_2023_02_13_at_8.38.37_AM.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-15T14:03:33Z",
+      "content": "Japan’s government is dialing up the heat on OpenAI, formally asking it to stop ripping off Japanese artwork, according to ITMedia and reported by IGN. The company has been in copyright hell after th… [+836 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Major federation of unions calls for ‘worker-centered AI’ future",
+      "description": "On Wednesday, the largest US group of unions called on employers and policymakers to join in an effort it’s calling the “workers first initiative on AI.” Functionally, the effort by the American Federation of Labor and Congress of Industrial Organizations (AF…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/799850/afl-cio-workers-first-initiative-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AFL-CIO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-15T14:02:54Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AFL-CIO represents the UAW and dozens of other unions and wants more collective bargaining and state bills regulating AI. \r\nThe AFL-CIO represents the UAW an… [+5693 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia, Microsoft, xAI and BlackRock part of $40 billion deal for Aligned Data Centers",
+      "description": "MGX, BlackRock's Global Infrastructure Partners and members of Artificial Intelligence Infrastructure Partnership will buy the company.",
+      "url": "https://www.cnbc.com/2025/10/15/nvidia-microsoft-blackrock-aligned-data-centers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212332-1760531577736-gettyimages-2239592964-ALIGNED_ORD-02.jpeg?v=1760531606&w=1920&h=1080",
+      "publishedAt": "2025-10-15T13:48:18Z",
+      "content": "Nvidia, Microsoft, BlackRock and Elon Musk's xAI are part of a consortium of investors that has agreed to purchase Aligned Data Centers for $40 billion, the companies announced on Wednesday.\r\nAligned… [+1816 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211762-1760448814788-GettyImages-2225822645.jpg?v=1760448859&w=1920&h=1080",
       "publishedAt": "2025-10-14T13:47:17Z",
       "content": "There's a sharp divide between what Gen Z values and what hiring managers are actually looking for.\r\nMy team at Becoming You Labs recently conducted a study using our values-assessment tool, The Valu… [+5867 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Aquawise will show off its AI-driven water quality tech at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "Aquawise uses satellite images and a physics-based AI model to monitor and predict water quality at aquaculture farms.",
-      "url": "https://techcrunch.com/2025/10/14/aquawise-will-show-off-its-ai-driven-water-quality-tech-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Aquawise-e1760447400948.jpg?w=1160",
-      "publishedAt": "2025-10-14T13:11:39Z",
-      "content": "Water quality is the most important thing for aquaculture farms to monitor to ensure their livestock remain healthy. While there are existing ways to monitor water quality sensors and water testing k… [+3833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stldenise@gmail.com (Denise Bertacchi) , Denise Bertacchi",
-      "title": "Bambu Lab P2S review: Refreshing a best seller",
-      "description": "Bambu Lab revamps the budget-friendly P1S.",
-      "url": "https://www.tomshardware.com/3d-printing/bambu-lab-p2s-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/36sSiaqjCv4UGkLmGerJde-1999-80.jpg",
-      "publishedAt": "2025-10-14T13:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Bambu Lab has update… [+16415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I tried a Linux distro that promises free, built-in AI - and things got weird",
-      "description": "Gnoppix is for those who are into AI and want to try Linux. But it might test your patience.",
-      "url": "https://www.zdnet.com/article/i-tried-a-linux-distro-that-promises-free-built-in-ai-and-things-got-weird/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e8279cd2b055a8024a5729fa441d752086fcb593/2025/10/14/e2f6c870-936a-4b04-af28-3b2fae64e104/i-tried-a-linux-distro-that-promises-free-built-in-ai-and-things-got-weird.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-14T12:49:00Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Gnoppix is a Linux distribution that is free to install and use.</li>… [+7540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Citi reports a rise in earnings with every business posting record third-quarter revenue",
-      "description": "Citi's net income rose 15% to $3.8 billion from a year earlier, while revenues were up 9% as every business posted record numbers.",
-      "url": "https://www.cnbc.com/2025/10/14/citigroup-earnings-q3-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108109909-1741017282018-C-OB-Photo-20250303-CC-PRESS-18.jpg?v=1741017401&w=1920&h=1080",
-      "publishedAt": "2025-10-14T12:44:09Z",
-      "content": "Citigroup posted higher third-quarter earnings on Tuesday before the bell, with every division generating record revenue.\r\nHere's what the bank reported compared with what Wall Street was expecting, … [+1227 chars]"
     }
   ]
 }
