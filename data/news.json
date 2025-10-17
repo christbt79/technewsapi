@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-17T18:11:11.628Z",
+  "fetchedAt": "2025-10-17T18:42:50.562Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Amazon's Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police | TechCrunch",
+      "description": "Agencies that use Flock can request that Ring doorbell users share footage to help with \"evidence collection and investigative work.\"",
+      "url": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb.jpg?w=1200",
+      "publishedAt": "2025-10-16T18:37:40Z",
+      "content": "Amazon’s surveillance camera maker Ring announced a partnership on Thursday with Flock, a maker of AI-powered surveillance cameras that share footage with law enforcement.\r\nNow, agencies that use Flo… [+962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oracle stock rises as company confirms Meta cloud deal",
+      "description": "In 30 days during the current quarter, Oracle contracted $65 billion in new cloud infrastructure commitments, one of Oracle's CEOs told analysts on Thursday.",
+      "url": "https://www.cnbc.com/2025/10/16/oracle-confirms-meta-cloud-deal-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1760637633&w=1920&h=1080",
+      "publishedAt": "2025-10-16T18:16:41Z",
+      "content": "Oracle shares jumped as much as 5% on Thursday as it indicated that it expects more business in core categories and confirmed a cloud-computing deal with social media company Meta.\r\nThe maker of data… [+1772 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Pinterest’s ‘tuner’ lets you dial down the amount of AI content — but not entirely",
+      "description": "Pinterest is rolling out a tool that allows users to “dial down the AI” in their feed, the company says. Users can select which categories they want populated with more or less AI-generated content. But Pinterest stops short of promising a feed that’s complet…",
+      "url": "https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/FilteringPins-NewsroomHeader.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-16T18:15:12Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe platform does not promise a completely AI-free feed. \r\nThe platform does not promise a completely AI-free feed. \r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts … [+1850 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181967-1758834890156-GettyImages-2194795244.jpg?v=1760539777&w=1920&h=1080",
       "publishedAt": "2025-10-15T17:00:02Z",
       "content": "Anthropic on Wednesday announced Claude Haiku 4.5, a small artificial intelligence model that's available as a lower-cost offering for all of the company's users. \r\nThe model is fast and can outperfo… [+3548 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Apple just fixed one of my biggest pain points with Vision Pro - what's new with the M5 model",
-      "description": "The headset's $3,499 starting price remains the same, but several changes make the headset more justifiable.",
-      "url": "https://www.zdnet.com/article/apple-just-fixed-one-of-my-biggest-pain-points-with-vision-pro-whats-new-with-the-m5-model/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b48ba03785f7ca78ee4e13e1ce881b7eb5059dd6/2024/02/19/9da65411-6cf9-408e-9795-ed4eebad44ce/hiner-vision-pro-in-hand.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T16:24:00Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple has announced a new version of its Vision Pro headset.</li><li>The new headset has an up… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Cisco: Most companies don't know what they're doing with AI",
-      "description": "Only 13% are AI-ready; the rest are bolting it on and hoping for ROI\nContrary to popular belief, you can't succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or tra…",
-      "url": "https://www.theregister.com/2025/10/15/cisco_ai_readiness_index/",
-      "urlToImage": "https://regmedia.co.uk/2017/06/14/jenga_shutterstock.jpg",
-      "publishedAt": "2025-10-15T16:15:12Z",
-      "content": "Contrary to popular belief, you can't succeed in business (or AI) without really trying. Many orgs are jumping on the AI bandwagon without the infrastructure they need to make it work or track result… [+5050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "The Vision Pro gets two big upgrades, and one fixes a very real pain point. Here's what's new",
-      "description": "The headset's $3,499 starting price remains the same.",
-      "url": "https://www.zdnet.com/article/the-vision-pro-gets-two-big-upgrades-and-one-fixes-a-very-real-pain-point-heres-whats-new/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/043bf80a677728072e6983fca9550029c761b0e8/2025/10/15/e3cbedf6-decf-4cfb-89c2-1dbfe63dad54/apple-vision-pro-hero-251015.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T16:12:43Z",
-      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple has announced a new version of its Vision Pro headset.</li><li>The new headset has an upgraded M5 ch… [+2466 chars]"
     }
   ]
 }
