@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T06:13:56.114Z",
+  "fetchedAt": "2025-10-17T06:45:30.953Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "India's Kuku snags $85M as mobile content wars intensify | TechCrunch",
+      "description": "India's Kuku snags $85M as mobile content wars intensify | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/kuku-fm.jpg?resize=1200,800",
+      "publishedAt": "2025-10-16T06:44:16Z",
+      "content": "Kuku, an Indian storytelling platform backed by Google, has raised $85 million in fresh funding as it aims to scale its audio and video content offerings amid intensifying competition in the South As… [+7665 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/05/11/shutterstock_wrecking_ball.jpg",
       "publishedAt": "2025-10-15T09:00:14Z",
       "content": "Canalys Forums 2025 US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside and it's now swinging across the Atlantic, a… [+4366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "This niche-y DT Research Windows tablet is fascinating",
-      "description": "DT Research's 323MD rugged tablet has an anti-microbial keyboard and IP65 water and dust resistance.",
-      "url": "https://www.zdnet.com/article/this-niche-y-dt-research-windows-tablet-is-fascinating/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T08:30:33Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6333 chars]"
     }
   ]
 }
