@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-17T13:01:56.257Z",
+  "fetchedAt": "2025-10-17T13:41:10.421Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "10 ChatGPT prompt tricks I use - to get the best results, faster",
+      "description": "Want better ChatGPT answers? It all starts with your prompts. Here's how to optimize your inputs.",
+      "url": "https://www.zdnet.com/article/10-chatgpt-prompt-tricks-i-use-to-get-the-best-results-faster/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cc08a1d8426981e906bf1178ebcccb207df7d892/2025/10/16/efa1953d-d7c3-4f0b-9ab6-b31757ae9753/gettyimages-2162021891.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:36:00Z",
+      "content": "Andriy Onufriyenko / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Here's how to write prompts for more accurate ChatGPT responses.</li>… [+9977 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Spotify says it’s working with labels on ‘responsible’ AI music tools",
+      "description": "The recently-rumored AI partnership between Spotify and the major record labels is now a reality. The streaming service announced today that it’s entering into an agreement with Sony Music Group, Universal Music Group, Warner Music Group, Merlin, and Believe …",
+      "url": "https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383595/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-16T13:32:54Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSony, Universal, Warner and other music labels are partnering with Spotify as it starts a generative AI research lab.\r\nSony, Universal, Warner and other music la… [+3711 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Spotify partners with record labels to create 'artist-first' AI music products | TechCrunch",
+      "description": "Spotify has announced new partnerships with major record labels — including Sony, Universal, Warner, and Merlin — to build “responsible AI” tools that protect artists’ rights and ensure fair compensation. The initiative will let artists opt in or out of AI us…",
+      "url": "https://techcrunch.com/2025/10/16/spotify-partners-with-record-labels-to-create-artist-first-ai-music-products/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
+      "publishedAt": "2025-10-16T13:29:27Z",
+      "content": "Spotify on Thursday announced a series of deals with major record labels to develop new AI products designed ensure fair compensation and center artists and songwriters in the experience. In partners… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft will test a Copilot AI feature that performs work on local files in Windows 11",
+      "description": "Early adopters will be able to tell Microsoft's Copilot assistant to take action on files stored on their Windows 11 PCs.",
+      "url": "https://www.cnbc.com/2025/10/16/microsoft-test-copilot-manus-windows-11.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212825-1760598225659-gettyimages-2153357701-AFP_34TE8D4.jpeg?v=1760598421&w=1920&h=1080",
+      "publishedAt": "2025-10-16T13:17:38Z",
+      "content": "On Tuesday, Microsoft stopped supporting Windows 10, the operating system it introduced 10 years earlier. \r\nThe software company is enticing people to upgrade their PCs with a slate of artificial int… [+3395 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Verge Staff",
+      "title": "The future of being trans on the internet",
+      "description": "The internet has long been a source of information and support for transgender people. Now, trans rights and the internet itself are in a moment of crisis. What happens next? How trans visibility became a trap People who have documented their lives online are…",
+      "url": "https://www.theverge.com/cs/features/777087/trans-internet-privacy-safety-anonymity-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_HUB_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-16T13:14:39Z",
+      "content": "The internet has long been a source of information and support for transgender people. Now, trans rights and the internet itself are in a moment of crisis. What happens next?\r\nPeople who have documen… [+1045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "World's first truly free software phone? That's the FSF's new 'long game'",
+      "description": "Project LibrePhone wants to remove all proprietary code from mobile devices. Here's why.",
+      "url": "https://www.zdnet.com/article/worlds-first-truly-free-software-phone-thats-the-fsfs-new-long-game/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f467ec518877b9136e6f9679e2a45a720c72d475/2025/10/16/ea4ba892-c2bb-4b1e-9e29-98f3835a446e/gettyimages-1582657756.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:05:54Z",
+      "content": "klyaksun/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>No one has managed to make a fully free software smartphone.</li><li>Open-sour… [+4699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Tragic OceanGate Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site — 12 stills and nine videos have been recovered, but none from the fateful implosion",
+      "description": "The specialist camera was rated to 6,000m, but the lens and some of its components were probably damaged by the implosion.",
+      "url": "https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8VZrMNqAzoRmU66mPr78Hk-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:02:02Z",
+      "content": "Recovery teams working on the Titan submersible have found the vessel's specialist stills and video camera intact. Fascinatingly, while there was some damage to the camera’s housing and internal comp… [+3863 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/04/19/shutterstock_asmllogo.jpg",
       "publishedAt": "2025-10-15T13:22:27Z",
       "content": "Europe's tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam's export restrictions a… [+3291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple announces new MacBook Pro laptops with updated chip",
-      "description": "Apple announced new MacBook Pro models on Wednesday with an updated M5 chip that allows them to run faster than their predecessors.",
-      "url": "https://www.cnbc.com/2025/10/15/apple-macbook-pro-laptops-m5-chip.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201263-1758290491792-gettyimages-2235712789-AFP_764J3VL.jpeg?v=1760378239&w=1920&h=1080",
-      "publishedAt": "2025-10-15T13:21:59Z",
-      "content": "Apple announced new MacBook Pro and iPad Pro models on Wednesday with an updated M5 chip that allows them to run faster than their predecessors.\r\nThe new MackBook Pro models start at $1,599 and go on… [+2010 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple rival Honor launches AI phone tools that help users get online shopping discounts and more",
-      "description": "Honor expects people will turn more to AI assistants rather than smartphone apps directly, President of Products Fei Fang told CNBC in an exclusive interview.",
-      "url": "https://www.cnbc.com/2025/10/15/honor-launches-ai-phone-tools-that-help-users-get-online-shopping-discounts.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212153-1760487379894-251014_HonorAI_close_question.jpg?v=1760533838&w=1920&h=1080",
-      "publishedAt": "2025-10-15T13:11:09Z",
-      "content": "Chinese smartphone company Honor announced on Oct. 15 a slew of new AI features, including the ability to compare deals across different e-commerce sellers.\r\nBEIJING Imagine if Amazon gave 20% discou… [+5957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Honor reveals a new smartphone with a fold-out robotic camera arm",
-      "description": "Chinese smartphone company Honor said it would release more details about the artificial intelligence-powered robot phone next year.",
-      "url": "https://www.cnbc.com/2025/10/15/honor-reveals-a-new-smartphone-with-a-fold-out-robotic-camera-arm.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212243-1760517866129-HONOR_ROBOT_PHONE-2.jpg?v=1760533697&w=1920&h=1080",
-      "publishedAt": "2025-10-15T13:08:51Z",
-      "content": "BEIJING Chinese smartphone company Honor on Wednesday announced it is developing a smartphone with a camera that folds out of the device using a robotic arm.\r\nThe company said it plans to share more … [+890 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Antonio G. Di Benedetto",
-      "title": "Apple announces new MacBook Pro with M5 chip",
-      "description": "Apple is refreshing its 14-inch MacBook Pro with a new processor. Announced this morning via press release, the new entry-level MacBook Pro will now feature a new M5 chip, faster storage, and a claimed 24 hours of battery life. The price still starts at $1,59…",
-      "url": "https://www.theverge.com/news/797850/apple-macbook-pro-m5-announcement-price-specs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-hero.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-15T13:07:38Z",
-      "content": "The M4 MacBook Pro of 2024.\r\n\n\nApple is refreshing its 14-inch MacBook Pro with a new processor. Announced this morning via press release, the new entry-level MacBook Pro will now feature a new M5 ch… [+583 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Apple’s iPad Pro now has a new M5 processor inside",
-      "description": "Apple just announced a new model of its best and highest-end tablet, the iPad Pro. The new device comes with a couple of internal upgrades, most notably a brand-new chip, the M5. Apple says the chip brings “up to 3.5x the AI performance” of last year’s Pro wh…",
-      "url": "https://www.theverge.com/news/799352/apple-ipad-pro-m5-price-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-iPad-Pro-Hero-Large.jpeg?quality=90&strip=all&crop=0%2C13.339328880589%2C100%2C73.321342238821&w=1200",
-      "publishedAt": "2025-10-15T13:05:37Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Pro is becoming a showcase for Apples new chips and seems poised to remain the companys best tablet.\r\nThe Pro is becoming a showcase for Apples new chips and… [+2984 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "Apple announces upgraded Vision Pro with M5 processor",
-      "description": "Apple just revealed that the Vision Pro headset is getting upgraded to an M5 chip. The original Vision Pro launched in early 2024 with an older M2 chip, so it makes sense that Apple might want more powerful specs as it expands the device’s capabilities. Earli…",
-      "url": "https://www.theverge.com/news/798962/apple-m5-vision-pro-headset-mixed-reality",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/246965_vision_pro_VPavic_0034.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-15T13:02:30Z",
-      "content": "It’s like this one but newer.\r\n\n\nApple just revealed that the Vision Pro headset is getting upgraded to an M5 chip.\n\nThe original Vision Pro launched in early 2024 with an older M2 chip, so it makes … [+312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "MSI fervently denies RTX 5090 sales in China after pallets of illicit GPUs spotted in the country — company says it has identified 'unauthorized distribution unrelated to our sales policy'",
-      "description": "Pallets of RTX 5090 GPUs from MSI had been spotted on Reddit a few days ago, sparking concern and curiosity over export controls. The White House has barred China from receiving most high-end GPUs, so these cards arrived via illegal channels, as MSI clarifies…",
-      "url": "https://www.tomshardware.com/pc-components/gpus/msi-fervently-denies-rtx-5090-sales-in-china-after-pallets-of-illicit-gpus-spotted-in-the-country-company-says-it-has-identified-unauthorized-distribution-unrelated-to-our-sales-policy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-2000-80.jpg",
-      "publishedAt": "2025-10-15T12:56:50Z",
-      "content": "MSI has issued a statement clarifying that it does not sell Nvidia's RTX 5090 GPU, following a spate of rumors and a photograph circulating online depicting hundreds of MSI-branded cards at an unspec… [+3000 chars]"
     }
   ]
 }
