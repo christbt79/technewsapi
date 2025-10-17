@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T21:31:23.038Z",
+  "fetchedAt": "2025-10-17T22:07:49.758Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Skills for Claude will let you customize tasks with pre-set instructions - here's how",
+      "description": "Available to Pro, Max, Team, and Enterprise users, the new capabilities shape Claude's output when carrying out routine or specialized tasks.",
+      "url": "https://www.zdnet.com/article/skills-for-claude-will-let-you-customize-tasks-with-pre-set-instructions-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2e7edb4a084fbc127e58517119ddef227fe77b3a/2025/10/16/be755ce4-3da2-46df-ba8b-daa1e83f949e/gettyimages-1857697752.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T21:46:06Z",
+      "content": "Eugene Mymrin/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic announced Skills for Claude on Wednesday.</li><li>Users are able to cre… [+4285 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/04/07/shutterstock_bubble.jpg",
       "publishedAt": "2025-10-15T19:09:35Z",
       "content": "The AI bubble just keeps getting bigger. A consortium featuring BlackRock, Microsoft, Nvidia, xAI, and MGX is buying Aligned Data Centers in a deal valuing the operator at around $40 billion, in what… [+3031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The Abu Dhabi investor that's funding AI while trying to save TikTok — with help from Trump",
-      "description": "Abu Dhabi's MGX, launched last year, has emerged as one of the key players funding the AI boom and is now part owner of TikTok's U.S. business.",
-      "url": "https://www.cnbc.com/2025/10/15/abu-dhabis-mgx-investments-in-trump-crypto-tiktok-openai-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212599-1760553622050-2894ab029389ecfa.jpg?v=1760553767&w=1920&h=1080",
-      "publishedAt": "2025-10-15T19:05:25Z",
-      "content": "UAE National Security Advisor, Sheikh Tahnoon bin Zayed Al Nahyan meets with U.S. President Donald Trump in the White House on March 18, 2025.\r\nAs artificial intelligence startups raise increasingly … [+5500 chars]"
     }
   ]
 }
