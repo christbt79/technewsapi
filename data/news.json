@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-17T06:45:30.953Z",
+  "fetchedAt": "2025-10-17T07:09:43.705Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Chance of AI market correction is 'pretty high,' says ex-Meta exec Nick Clegg as he pushes back on superintelligence",
+      "description": "The AI boom has resulted in \"unbelievable, crazy valuations,\" Clegg said.",
+      "url": "https://www.cnbc.com/2025/10/16/ex-meta-exec-nick-clegg-chance-of-ai-correction-is-pretty-high.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204495-1758897586672-gettyimages-1245436125-AFP_32ZR8JC.jpeg?v=1760544860&w=1920&h=1080",
+      "publishedAt": "2025-10-16T07:09:20Z",
+      "content": "File: Meta President Global Affairs Nick Clegg speaks during a press conference at the Meta showroom in Brussels on December 07, 2022.\r\nThe chance of a market correction in the artificial intelligenc… [+3741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "No ROI in AI yet? Try these six proven tactics for creating real business value",
+      "description": "AI bubble about to burst? Nonsense, says Fausto Fleites, who offers best-practice lessons for turning AI concepts into valuable production services.",
+      "url": "https://www.zdnet.com/article/no-roi-in-ai-yet-try-these-six-proven-tactics-for-creating-real-business-value/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/42790b34e7ffc8f8bfe653eac66c91012637699c/2025/10/16/49c4ae99-1bda-4d07-b779-a678b96b2869/gettyimages-918508394.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T07:00:38Z",
+      "content": "MicroStockHub/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>There's growing concern that AI is a bubble about to burst.</li><li>Smar… [+7869 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/8VXqwFn42DWwQXki8qMowU-2000-80.jpg",
       "publishedAt": "2025-10-15T09:24:18Z",
       "content": "AI datacenters are eating up the world's supply standard DRAM memory, NAND flash for SSDs, and hard drives. Adata chairman Simon Chen just made it extremely clear that in his three-decade tenure in t… [+2793 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Auto industry raises the alarm as China tightens export rules for rare earths",
-      "description": "Automotive industry groups have sounded the alarm over China’s latest move to impose restrictions on the export of rare earths.",
-      "url": "https://www.cnbc.com/2025/10/15/auto-industry-raises-the-alarm-as-china-tightens-rare-earth-curbs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212240-1760517796289-gettyimages-104550998-CHINA_RARE_EARTHS_WEAPONS.jpeg?v=1760517879&w=1920&h=1080",
-      "publishedAt": "2025-10-15T09:14:00Z",
-      "content": "Automotive industry groups have raised the alarm over the ramifications of China's latest move to restrict critical rare earth exports, saying the measures could pave the way to a period of supply ch… [+3203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Paul Kunert",
-      "title": "Trump's anti-sustainability agenda comes to Eurozone",
-      "description": "ESG kicked like a 'toxic political football' amid greenwashing Canalys Forums 2025  US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside – and it's now swinging across the Atlan…",
-      "url": "https://www.theregister.com/2025/10/15/europe_sustainability_canalys/",
-      "urlToImage": "https://regmedia.co.uk/2017/05/11/shutterstock_wrecking_ball.jpg",
-      "publishedAt": "2025-10-15T09:00:14Z",
-      "content": "Canalys Forums 2025 US President Donald Trump released a wrecking ball that smashed through environmental, social, and governance (ESG) policies stateside and it's now swinging across the Atlantic, a… [+4366 chars]"
     }
   ]
 }
