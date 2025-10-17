@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T20:10:15.660Z",
+  "fetchedAt": "2025-10-17T20:37:07.304Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cnbc",
+      "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
+      "description": "Russia, China, Iran and North Korea have sharply increased their use of AI to mount cyberattacks against the U.S., according to new research from Microsoft.",
+      "url": "https://www.cnbc.com/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122685-1663842438938-gettyimages-653520950-americanchinesehackercompetition.jpeg?v=1760636764&w=1920&h=1080",
+      "publishedAt": "2025-10-16T20:30:35Z",
+      "content": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research fr… [+3442 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -654,19 +667,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -676,6 +676,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108052476-1729790003683-gettyimages-2179863469-IMF_WORLD_BANK.jpeg?v=1760547228&w=1920&h=1080",
       "publishedAt": "2025-10-15T18:26:27Z",
       "content": "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., at the Institute of International Finance (IIF) during the annual meetings of the IMF and World Bank in Washington, DC, US, on Thursd… [+3906 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "The AI Industry's Scaling Obsession Is Headed for a Cliff",
-      "description": "Huge AI infrastructure deals assume that algorithms will keep improving with scale. They may not.",
-      "url": "https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/",
-      "urlToImage": "",
-      "publishedAt": "2025-10-15T18:00:00Z",
-      "content": "A new study from MIT suggests the biggest and most computationally intensive AI models may soon offer diminishing returns compared to smaller models. By mapping scaling laws against continued improve… [+2478 chars]"
     }
   ]
 }
