@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-17T14:09:28.392Z",
+  "fetchedAt": "2025-10-17T14:39:15.650Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "TSMC posts record quarter results as skyrocketing AI and HPC demand drives two-thirds of revenue — company pulls in $33.1 billion",
+      "description": "TSMC posted a record $33.1 billion in quarterly revenue driven by surging demand for AI and HPC processors, the ramp of Apple's latest SoCs, and the continued strength of advanced nodes.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-posts-record-quarter-results-as-skyrocketing-ai-and-hpc-demand-drives-two-thirds-of-revenue-company-pulls-in-usd33-1-billion",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QZU4LiEEqJKst2rDMTv64b-2560-80.jpg",
+      "publishedAt": "2025-10-16T14:35:30Z",
+      "content": "TSMC on Thursday reported revenue of $33.10 billion, marking its best quarter ever. The record earnings were driven by booming sales of AI processors and infrastructure — which now command nearly two… [+3910 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Uber will offer gig work like AI data labeling to drivers while not on the road",
+      "description": "Uber says it's offering drivers ways to make money when not ferrying around passengers.",
+      "url": "https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145554-1747242564857-gettyimages-2214420551-UBER_LAUNCH.jpeg?v=1747242599&w=1920&h=1080",
+      "publishedAt": "2025-10-16T14:30:01Z",
+      "content": "Uber plans to offer drivers and couriers in the U.S. ways to make money through the company's app when they're not ferrying around people or food.\r\nThe ride-hailing company said on Thursday that it's… [+2557 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/04e61dc26395d5b7fd612f310bb8c273123f31fe/2024/03/07/15da65af-12d1-4d5c-94ed-961bc74d4fda/m3-macbook-air-close-up.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T14:09:00Z",
       "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are certain apps I have to use on MacOS.</li><li>This list is curated from Apple and third-party apps.… [+7551 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Japan wants OpenAI to stop ripping off manga and anime",
-      "description": "Japan’s government is dialing up the heat on OpenAI, formally asking it to stop ripping off Japanese artwork, according to ITMedia and reported by IGN. The company has been in copyright hell after the launch of its social video app Sora, which users swiftly f…",
-      "url": "https://www.theverge.com/news/799938/japan-government-openai-sora",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24428734/Screen_Shot_2023_02_13_at_8.38.37_AM.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-15T14:03:33Z",
-      "content": "Japan’s government is dialing up the heat on OpenAI, formally asking it to stop ripping off Japanese artwork, according to ITMedia and reported by IGN. The company has been in copyright hell after th… [+836 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Major federation of unions calls for ‘worker-centered AI’ future",
-      "description": "On Wednesday, the largest US group of unions called on employers and policymakers to join in an effort it’s calling the “workers first initiative on AI.” Functionally, the effort by the American Federation of Labor and Congress of Industrial Organizations (AF…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/799850/afl-cio-workers-first-initiative-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AFL-CIO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-15T14:02:54Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AFL-CIO represents the UAW and dozens of other unions and wants more collective bargaining and state bills regulating AI. \r\nThe AFL-CIO represents the UAW an… [+5693 chars]"
     }
   ]
 }
