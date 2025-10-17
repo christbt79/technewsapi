@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-17T17:34:56.611Z",
+  "fetchedAt": "2025-10-17T18:11:11.628Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025",
+      "description": "\"Loneliness is the biggest disease in the world right now,\" founder Francesco Vitali said. \"So we built a platform where human time has value again, and a place where being human is important.\"",
+      "url": "https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/372276315_328011459682660_4996938029154330019_n.jpeg?resize=1200,848",
+      "publishedAt": "2025-10-16T17:59:04Z",
+      "content": "Francesco Vitali will be the first to admit that when his co-founder Chris Siametis first pitched him on Rent a Cyber Friend, he didn’t quite get the idea.\r\n“Who’s going to pay somebody to speak with… [+3415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Claude now integrates directly with Microsoft 356",
+      "description": "Here's what the new connector lets Anthropic's chatbot do, how it can benefit you, and who gets to access it.",
+      "url": "https://www.zdnet.com/article/claude-now-integrates-directly-with-microsoft-356/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3f60bec864e774fdb8bb5df89ee568efb6d6f6f0/2025/06/18/4183c56c-14d3-47ba-8c27-6cae6dc20120/gettyimages-2158707629.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T17:54:38Z",
+      "content": "Bloomberg/Contributor/Bloomberg via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic has launched a new Microsoft 365 connector for Claude… [+3922 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/043bf80a677728072e6983fca9550029c761b0e8/2025/10/15/e3cbedf6-decf-4cfb-89c2-1dbfe63dad54/apple-vision-pro-hero-251015.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T16:12:43Z",
       "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple has announced a new version of its Vision Pro headset.</li><li>The new headset has an upgraded M5 ch… [+2466 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Meta partners up with Arm to scale AI efforts | TechCrunch",
-      "description": "Semiconductor firm Arm is partnering with Meta to enhance the social media company's AI systems amid an unprecedented infrastructure buildout.",
-      "url": "https://techcrunch.com/2025/10/15/arm-partners-with-meta-to-scale-ai-efforts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "publishedAt": "2025-10-15T16:06:50Z",
-      "content": "Semiconductor design company Arm is partnering up with Meta to enhance the social media giant’s AI systems amid an unprecedented infrastructure buildout. Under the partnership, Meta’s ranking and rec… [+2167 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "I've tested dozens of noise-cancelling headphones on flights - this one is the audio king",
-      "description": "The Sony WH-1000XM6 are staying in my backpack for the next several trips. Here's why.",
-      "url": "https://www.zdnet.com/article/ive-tested-dozens-of-noise-cancelling-headphones-on-flights-this-one-is-the-audio-king/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/47528b9d706c4ffb63301039136955c5c623d009/2025/09/30/08a069a4-2905-4ddd-955a-68ee99b23535/1000004409.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T16:06:00Z",
-      "content": "Jada Jones/ZDNET\r\nZDNET's key takeaways\r\n<ul><li>The Sony WH-1000XM6 headphones offer even better sound and ANC performance.</li><li>They have the best travel case for headphones in 2025.</li><li>I l… [+5512 chars]"
     }
   ]
 }
