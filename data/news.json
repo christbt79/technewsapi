@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-17T15:37:14.807Z",
+  "fetchedAt": "2025-10-17T16:10:49.135Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zeyi Yang",
+      "title": "How ByteDance Made China’s Most Popular AI Chatbot",
+      "description": "An AI chatbot developed by TikTok's parent company, ByteDance, is now more popular than DeepSeek. The feat proves that user-friendly design often matters more than having the most advanced AI model.",
+      "url": "https://www.wired.com/story/bytedance-doubao-chatbot-popularity/",
+      "urlToImage": "https://media.wired.com/photos/68effb552611849cab159a7b/191:100/w_1280,c_limit/business_china_doubao_chatbot.jpg",
+      "publishedAt": "2025-10-16T16:07:50Z",
+      "content": "When Chinese AI startup DeepSeek became a global sensation in January, it not only shocked Silicon Valley but also startled ByteDance, TikToks parent company. The Chinese tech giant had already launc… [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "How a headphone site operator built loyalty startup Lantern to solve his own problems | TechCrunch",
+      "description": "After struggling to retain customers at his e-commerce site Headphones.com, founder Andrew Lissimore built his own loyalty solution — and it’s now a startup called Lantern. The Shopify-native platform helps brands boost retention through customizable loyalty,…",
+      "url": "https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Andrew-Lantern-co-founder.jpg?resize=1200,800",
+      "publishedAt": "2025-10-16T15:54:18Z",
+      "content": "Andrew Lissimore has been running the audio apparel site Headphones.com for nearly a decade now. While audiophiles have a high affinity towards their gear and want to try out new gadgets, Lissimore w… [+3937 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "Anthropic turns to ‘skills’ to make Claude more useful at work",
+      "description": "AI agents spent years as a concept and then as an experiment. Now, AI companies are devoting even more time and resources than before to make their agents actually useful for end users, whether they’re consumers or professionals.  Anthropic on Thursday announ…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Skills-settings-blog-inline_1920x1080.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-16T15:52:57Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe announcement follows a similar new tool from OpenAI.\r\nThe announcement follows a similar new tool from OpenAI.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts fr… [+3919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Spotify moves further into AI music with Sony, Universal, Warner partnership",
+      "description": "The partnership comes less than a month after Spotify said it cracked down on AI-generated music.",
+      "url": "https://www.cnbc.com/2025/10/16/spotify-ai-music-sony-universal-warner.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177273-1753466127579-gettyimages-2224449965-TFSPI_14072025-8776.jpeg?v=1760620879&w=1920&h=1080",
+      "publishedAt": "2025-10-16T15:41:00Z",
+      "content": "Spotify announced Thursday that it will be partnering with Sony Music Group, Universal Music Group, Warner Music Group, as well as independent licensing agency Merlin and digital music company Believ… [+3264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China accuses U.S. of deliberately causing panic over rare earth controls, says it is open to talks",
+      "description": "Beijing last week announced sweeping controls on rare earths ahead of an expected meeting between President Donald Trump and President Xi Jinping.",
+      "url": "https://www.cnbc.com/2025/10/16/china-trump-xi-rare-earth-tariff-trade-war.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213037-1760628982376-gettyimages-2241386456-vcg111597613940.jpeg?v=1760629057&w=1920&h=1080",
+      "publishedAt": "2025-10-16T15:40:52Z",
+      "content": "China on Thursday accused the U.S. of creating \"panic\" over Beijing's controls on rare earth minerals, but indicated it is open to trade talks to resolve a dispute that has threatened to reignite a t… [+3057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Everything Apple launched on Oct. 15: M5 chipset, MacBook Pro, iPad, Vision Pro, more",
+      "description": "Apple this week unveiled three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
+      "url": "https://www.zdnet.com/article/everything-apple-launched-on-oct-15-m5-chipset-macbook-pro-ipad-vision-pro-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/85c8c44bed2f283dec9deca319407a3cd3918472/2024/03/04/6571c255-430c-471b-a84f-c8b5526cd7cf/dsc09975-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T15:38:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>The… [+4498 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/632527fe79484040664f16eb2aec183ba93d8afa/2025/10/15/a4b309a2-75f8-490a-bb30-0139ebc9fd27/untitled-design-50.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T15:23:34Z",
       "content": "Walmart/ZDNET\r\nIf you need a new pair of headphones for your daily commute or for listening to music and podcasts without having to deal with external noise, we have a sale for you. Over at Walmart, … [+2755 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Apple upgrades iPad Pro, MacBook Pro, and Vision Pro with new M5 chip",
-      "description": "Apple announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro.",
-      "url": "https://techcrunch.com/2025/10/15/apple-upgrades-ipad-pro-macbook-pro-and-vision-pro-with-new-m5-chip/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Apple-iPad-Pro-lifestyle-251015_big.jpg.large_2x.jpg?w=1200",
-      "publishedAt": "2025-10-15T15:15:33Z",
-      "content": "Apple on Wednesday announced its new M5 chip along with the new iPad Pro, MacBook Pro, and Vision Pro, all powered by the new chip. \r\nThese devices are now available for pre-order, with shipping and … [+2330 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip",
-      "description": "The hardware largely remains the same, but performance gets a boost.",
-      "url": "https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/",
-      "urlToImage": "https://media.wired.com/photos/68efb698670b06a048487b72/191:100/w_1280,c_limit/Apple%20iPad%20Pro%20M5%20SOURCE%20Apple.jpg",
-      "publishedAt": "2025-10-15T15:11:26Z",
-      "content": "As before, the 11-inch iPad Pro costs $999 and the 13-inch iPad Pro starts at $1,299. They're compatible with the Apple Pencil Pro, Apple Pencil USB-C, Magic Keyboard, and Smart Folio.\r\nThe New MacBo… [+1914 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Techcrunch Events",
-      "title": "The full Space Stage agenda at Disrupt 2025 | TechCrunch",
-      "description": "The Space Stage agenda is full at TechCrunch Disrupt 2025. Join 10,000 tech leaders to hear what's next in space tech. Register now to save up to $624.",
-      "url": "https://techcrunch.com/2025/10/15/the-full-space-stage-at-techcrunch-disrupt-2025-the-future-of-tech-launches-here/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2024-Bridgit-Mendler.jpg?resize=1200,800",
-      "publishedAt": "2025-10-15T15:05:28Z",
-      "content": "At TechCrunch Disrupt 2025, the future doesnt just get discussed it takes off. Nowhere is that more literal than on the Space Stage, launching in San Franciscos Moscone West on October 27, in partner… [+3413 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "The new iPad Pro's biggest upgrade isn't the M5 chip - I'd buy it for this feature instead",
-      "description": "The M5 chip delivers up to 5.6 times faster performance than the M1 processor.",
-      "url": "https://www.zdnet.com/article/the-new-ipad-pros-biggest-upgrade-isnt-the-m5-chip-id-buy-it-for-this-feature-instead/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c629658fe797056625079bd470c20470b18bb9f6/2025/10/15/75b50551-c937-47a6-b0b2-0cd7b3befbc4/ipad-pro-m5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T15:05:00Z",
-      "content": "Apple/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple just released a new iPad Pro featuring the new M5 chip.</li><li>The iPad Pro boasts stronger, … [+3940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I abandoned Google for a search tool that doesn't track me or push AI - and it gets better",
-      "description": "YaCy is completely private and can be installed on Linux, Mac, and Windows PCs.",
-      "url": "https://www.zdnet.com/article/i-abandoned-google-for-a-search-tool-that-doesnt-track-me-or-push-ai-and-it-gets-better/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/413b35a8ddd9bbb286a5dc8a2b66e28f04ce569b/2025/10/07/bca0ee02-b5fc-47b9-8bd8-1bf6a207ccdf/why-use-a-third-party-search-tool-when-you-can-install-and-use-your-own.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T15:04:00Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to abandon Google, you can install your own search engine.<… [+5357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "Own a Google Pixel? 8 settings I changed to extend the battery life by hours",
-      "description": "Tweak these settings to keep your phone lasting longer - while maintaining great battery health.",
-      "url": "https://www.zdnet.com/article/own-a-google-pixel-8-settings-i-changed-to-extend-the-battery-life-by-hours/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0117181e6991931b3a6b1bce23dcc7285be4f811/2025/10/08/8ad2b478-ec18-487d-8deb-e6d5c444499c/dsc07944.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T14:53:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nPixel phones have an excellent reputation for smart software, but battery life has been a common complaint with Google's sm… [+7416 chars]"
     }
   ]
 }
