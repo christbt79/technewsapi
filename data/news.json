@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-17T12:17:31.132Z",
+  "fetchedAt": "2025-10-17T13:01:56.257Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ready to talk to your PC? Here are all the upgrades coming to Copilot in Windows 11",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/ready-to-talk-to-your-pc-here-are-all-the-upgrades-coming-to-copilot-in-windows-11/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:37Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "Microsoft debuts its next big high-stakes AI feature in Windows - can you trust it?",
+      "description": "The last time Microsoft rolled out a major AI feature with this level of access to your personal data, it ... didn't go well.",
+      "url": "https://www.zdnet.com/article/microsoft-debuts-its-next-big-high-stakes-ai-feature-in-windows-can-you-trust-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4600d3b3688cc95006310b94b4c815fad7276d5d/2025/10/15/6003643b-a4b0-4436-bd68-d9ecd1f236bb/gettyimages-2181724261.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:27Z",
+      "content": "Yuliya Taba/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 11 is adding agents that can take actions on your behalf.</li><li>T… [+5335 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "All Windows 11 PCs Will Get These Advanced Copilot AI Features",
+      "description": "All Windows 11 users will soon be able to talk to the Copilot AI assistant more easily via voice, and Copilot Vision can understand the context of your screen.",
+      "url": "https://www.wired.com/story/microsoft-is-rewriting-windows-11-around-ai/",
+      "urlToImage": "https://media.wired.com/photos/68f005c69879315923ced3b0/191:100/w_1280,c_limit/Windows%20Blog%20Hero%20Image_High%20Res.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft saved its most powerful AI tools for paying customers in the first phase of its AI evolution. Now, the company has announced a series of Copilot features coming to all Windows 11 PCs, inclu… [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Albert Thomas",
+      "title": "Lian Li Lancool 207 Digital review: The best on the market, now with a six-inch screen",
+      "description": "Lian Li has refreshed the classic Lancool 207 PC case with a 6-inch front display. We’ve benchmarked this case using Intel’s i9-14900K for thermal testing.",
+      "url": "https://www.tomshardware.com/pc-components/pc-cases/lian-li-lancool-207-digital-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dy7vugxWyik35tofvtXV97-2560-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The original version… [+8013 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Oppo Find X9 Pro combines 200MP telephoto with 7,500mAh battery",
+      "description": "It’s Android flagship season in China right now, and today is Oppo’s turn. It has revealed the Find X9 and Find X9 Pro, with industry-leading specs for both the cameras and batteries. Unlike sister company OnePlus, Oppo has maintained its relationship with Ha…",
+      "url": "https://www.theverge.com/news/800600/oppo-find-x9-pro-launch-china-telephoto-extender",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/oppo-find-x9-pro-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "publishedAt": "2025-10-16T12:53:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus a Hasselblad-branded take on Vivos telephoto extender lens.\r\nPlus a Hasselblad-branded take on Vivos telephoto extender lens.\r\nby\r\nDominic PrestonClose\r\nDom… [+4576 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/g6GuNaVQYV63v7z4CrSphL-2000-80.jpg",
       "publishedAt": "2025-10-15T12:56:50Z",
       "content": "MSI has issued a statement clarifying that it does not sell Nvidia's RTX 5090 GPU, following a spate of rumors and a photograph circulating online depicting hundreds of MSI-branded cards at an unspec… [+3000 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Apple's M5 MacBook Pro and iPad is coming soon - here's everything we know",
-      "description": "Apparently, 'something powerful is coming'. Three new M5-powered Apple products could be launched as soon as today.",
-      "url": "https://www.zdnet.com/article/apples-m5-macbook-pro-and-ipad-is-coming-soon-heres-everything-we-know/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f669203aabd4ee7f61aa393b1980a25d0ccb8de4/2024/11/06/fe5d85e7-054c-44d7-804a-8b6b6b66443f/dsc02545-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T12:56:00Z",
-      "content": "Apple/X\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The upcoming M5 iPad Pro has allegedly already been leaked in unboxing videos.</li><li>Apple marketing c… [+3638 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Apple’s rumored smart home display hub might start at $350",
-      "description": "Apple’s long-rumored smart home display hub may finally launch in Spring 2026, according to Bloomberg’s Mark Gurman, but at a relatively steep cost. Gurman reports that Apple has targeted a price of around $350 for its upcoming 7-inch smart display meant to s…",
-      "url": "https://www.theverge.com/news/799792/apple-smart-home-display-hub-price-rumors",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/amazon-echo-show-alexa-plus-smart-home.webp?quality=90&strip=all&crop=0%2C10.782006784713%2C100%2C78.435986430574&w=1200",
-      "publishedAt": "2025-10-15T12:53:13Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe same price as Apples OG HomePod at launch.\r\nThe same price as Apples OG HomePod at launch.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherbed\r\nPosts from this author… [+2124 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dominic Preston",
-      "title": "Honor’s Magic 8 phones have huge batteries and oodles of AI",
-      "description": "Honor announced its Magic 8 and Magic 8 Pro flagships at a launch event in China today, with an international launch scheduled for later this year. They boast some of the biggest batteries in mainstream phones, along with a suite of AI features including a de…",
-      "url": "https://www.theverge.com/news/799808/honor-magic-8-pro-launch-china-specs-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/honor-magic-8-pro-cyan.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "publishedAt": "2025-10-15T12:49:20Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Magic 8 Pro fits in a 7,200mAh battery, though the European version will be smaller.\r\nThe Magic 8 Pro fits in a 7,200mAh battery, though the European version… [+4439 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "S&P 500 companies totalling $20 trillion in market cap have medium-to-high AI exposure — concerns of an impending bubble collapse extend to almost half of the index",
-      "description": "Investors are keeping a close eye on potential signs of the AI industry reaching the point of bursting its inflated bubble, as it's revealed that almost half of all the largest companies on the S&P 500 have medium-to-high exposure to AI. The risks associated …",
-      "url": "https://www.tomshardware.com/tech-industry/s-and-p-500-companies-totalling-usd20-trillion-in-market-cap-have-medium-to-high-ai-exposure-concerns-of-an-impending-bubble-collapse-extend-to-almost-half-of-the-index",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hyRkWTFgZDgAXb4AXhbJ2A-1920-80.jpg",
-      "publishedAt": "2025-10-15T12:44:12Z",
-      "content": "Almost half of all S&amp;P 500 companies have a medium-to-high exposure to AI, according to estimates from Citigroup strategists, via Reuters. Collectively, those companies represent over $20 trillio… [+2635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "AI startup Augment scraps 'unsustainable' pricing, users say new model is 10x worse",
-      "description": "Second huge increase in six months sees some devs heading for the exit\nAugment has updated its pricing model for Augment Code, an AI coding assistant, to be based on AI usage rather than message interactions. The company said its existing model \"isn't sustain…",
-      "url": "https://www.theregister.com/2025/10/15/augment_pricing_model/",
-      "urlToImage": "https://regmedia.co.uk/2016/06/27/exit.jpg",
-      "publishedAt": "2025-10-15T12:34:21Z",
-      "content": "Augment has updated its pricing model for Augment Code, an AI coding assistant, to be based on AI usage rather than message interactions. The company said its existing model \"isn't sustainable\" but u… [+3480 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jude Doyle",
-      "title": "Only out online",
-      "description": "For about a year of my life, from late 2019 through the summer of 2020, I was trans only on Reddit. I don’t know why I chose Reddit. I don’t normally use the site heavily, or at all. But Reddit is a place where users ask for advice, and I needed advice desper…",
-      "url": "https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_DOING_IT_THEMSELVES_CVirginia-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-15T12:30:03Z",
-      "content": "For about a year of my life, from late 2019 through the summer of 2020, I was trans only on Reddit.\n\nI don’t know why I chose Reddit. I don’t normally use the site heavily, or at all. But Reddit is a… [+15219 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "4 Best Resume Builders (2025), Tested and Reviewed",
-      "description": "Finding a new job is tough, but the best resume builders help you put together a CV that can stand out from the crowd.",
-      "url": "https://www.wired.com/gallery/best-resume-builders/",
-      "urlToImage": "https://media.wired.com/photos/68eeae717c200f52288c73c6/191:100/w_1280,c_limit/W1102806-Credit-Jacob-Roach.JPG",
-      "publishedAt": "2025-10-15T12:30:00Z",
-      "content": "I knew almost immediately after I started using FlowCV that itd earn a spot on this list. Its everything you want out of a résumé builder. It has excellent templates, plenty of customization, tools f… [+2345 chars]"
     }
   ]
 }
