@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-16T23:31:26.168Z",
+  "fetchedAt": "2025-10-17T00:42:26.790Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Meta sends Arm a friend request asking for help with Nvidia’s Grace CPUs",
+      "description": "No custom Arm CPUs to speak of yet\nMeta on Wednesday entered into a partnership with Arm Holdings with the aim of helping its software run more efficiently on the British chip designer's CPUs.…",
+      "url": "https://www.theregister.com/2025/10/16/meta_arm_nvidia/",
+      "urlToImage": "https://regmedia.co.uk/2024/07/12/shutterstock_zuck.jpg",
+      "publishedAt": "2025-10-16T00:30:31Z",
+      "content": "Meta on Wednesday entered into a partnership with Arm Holdings with the aim of helping its software run more efficiently on the British chip designer's CPUs.\r\nThe tie-up signals that Arm will also pl… [+2608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Librephone battles the proprietary binary blob",
+      "description": "Free Software Foundation project aims to reverse-engineer non-freedom respecting firmware To bridge the gap between Android distributions and true mobile phone freedom, the Free Software Foundation (FSF) has launched an initiative called Librephone.…",
+      "url": "https://www.theregister.com/2025/10/15/fsf_librphone_vs_proprietary_binary_blog/",
+      "urlToImage": "https://regmedia.co.uk/2015/11/26/prison_jailbreak_freedom_shutterstock.jpg",
+      "publishedAt": "2025-10-15T23:56:12Z",
+      "content": "To bridge the gap between Android distributions and true mobile phone freedom, the Free Software Foundation (FSF) has launched an initiative called Librephone.\r\nIt's not an attempt to build yet anoth… [+4499 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1760494512&w=1920&h=1080",
       "publishedAt": "2025-10-15T03:38:42Z",
       "content": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, OpenAI CEO Sam Altman has announced in an apparent policy shif… [+2710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "A minority of businesses have won big with AI. What are they doing right?",
-      "description": "Cisco's new study explores how to be an AI 'Pacesetter' and stand apart from the stagnant masses.",
-      "url": "https://www.zdnet.com/article/a-minority-of-businesses-have-won-big-with-ai-what-are-they-doing-right/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b85a4d94c47ce3cea0b68acd6e552c3be4297d24/2025/10/14/d4554b87-3648-475a-9983-3802eaf96556/gettyimages-1411567359.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T02:00:50Z",
-      "content": "lerbank/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>Numerous studies show most businesses don't see ROI with AI.<… [+5486 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Immutable Linux delivers serious security - here are your 5 best options",
-      "description": "With an immutable distribution, you never have to worry about an upgrade breaking things. These are my favorite immutable Linux distros.",
-      "url": "https://www.zdnet.com/article/immutable-linux-delivers-serious-security-here-are-your-5-best-options/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8b8966286130a6a8acb9f77bcdb511cb5ff06fe2/2025/08/18/5c81783b-76a7-417f-bc06-122827dee962/5-reasons-you-should-use-immutable-linux-distros.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T02:00:36Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>An immutable distribution increases the security of the OS.</li><li>L… [+7182 chars]"
     }
   ]
 }
