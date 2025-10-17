@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-17T16:10:49.135Z",
+  "fetchedAt": "2025-10-17T16:42:58.460Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "ClickFix attacks are surging, and Microsoft says you are the only defense",
+      "description": "These social engineering tactics trick you into scamming yourself, and traditional anti-phishing methods won't protect you. Here's what will.",
+      "url": "https://www.zdnet.com/article/scam-yourself-microsoft-warns-of-a-rapid-rise-in-clickfix-attacks/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b1b01ac5ee09b93d7bc307c2b715945d608b1b68/2025/06/26/81988e01-434a-462d-a8d5-bb3d45cfef59/microsoft-rolls-out-windows-security-changes-to-prevent-another-crowdstrike-meltdown2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T16:32:01Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The ClickFix social engineering tactic is rising in popularity.</li><li>Microsoft s… [+5240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "ClickFix attacks are surging, and Microsoft says you are the only defense",
+      "description": "These social engineering tactics trick you into scamming yourself, and traditional anti-phishing methods won't protect you. Here's what will.",
+      "url": "https://www.zdnet.com/article/clickfix-attacks-are-surging-and-microsoft-says-you-are-the-only-defense/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b1b01ac5ee09b93d7bc307c2b715945d608b1b68/2025/06/26/81988e01-434a-462d-a8d5-bb3d45cfef59/microsoft-rolls-out-windows-security-changes-to-prevent-another-crowdstrike-meltdown2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T16:32:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The ClickFix social engineering tactic is rising in popularity.</li><li>Microsoft s… [+5240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon Ring security cameras moving deeper into law enforcement with Flock Safety, Axon deals",
+      "description": "Amazon Ring security cameras are getting more deeply into police work through deals with Flock Safety and Axon at time of rising debate over crime levels.",
+      "url": "https://www.cnbc.com/2025/10/16/amazon-ring-cameras-surveillance-law-enforcement-crime-police-investigations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107249627-1685649298595-gettyimages-1495189703-img_1623_wwmireof.jpeg?v=1685649367&w=1920&h=1080",
+      "publishedAt": "2025-10-16T16:18:53Z",
+      "content": "Amazon's Ring security cameras are moving deeper into law enforcement work in a new deal with Flock Safety that will allow citizens who own Ring cameras to share footage that can assist in crime inve… [+7118 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -394,19 +433,6 @@
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tom's Hardware UK"
       },
       "author": "Andrew E. Freedman",
@@ -416,6 +442,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212073-1760473621104-gettyimages-2241056175-mms27665_q9v90h3l.jpeg?v=1760473689&w=1920&h=1080",
       "publishedAt": "2025-10-15T15:36:12Z",
       "content": "Nuclear stocks rallied Wednesday after the U.S. Army launched a program to deploy small reactors.\r\nShares of NuScale, a small reactor developer, soared 17%. Oklo and Nano Nuclear were up nearly 7% an… [+1066 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "X plans to show more information about user profiles to help improve trust",
-      "description": "X is working on new transparency features to help users identify who they’re interacting with, such as account creation date, location, username change history, and how each account uses the service.",
-      "url": "https://techcrunch.com/2025/10/15/x-plans-to-show-more-information-about-user-profiles-to-help-improve-trust/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
-      "publishedAt": "2025-10-15T15:35:30Z",
-      "content": "As AI makes it easier to create bots that act ever more human-like, Elon Musk’s X is developing a new feature that would expose more information about the users behind an X profile, in an effort to h… [+3195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Devs are writing VS Code extensions that blab secrets by the bucketload",
-      "description": "Vibe coding may have played a role in what took researchers months to fix\nDevelopers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some …",
-      "url": "https://www.theregister.com/2025/10/15/vc_code_extension_leaks/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/09/code_shutterstock.jpg",
-      "publishedAt": "2025-10-15T15:35:24Z",
-      "content": "Developers of VS Code extensions are leaking sensitive secrets left, right and center, according to researchers who worked with Microsoft to combat an issue that could have led to some nasty supply c… [+3416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "The Beats Studio 3 headphones are 40% off at Walmart - the lowest price we've seen",
-      "description": "Walmart is offering the Beats Studio 3 headphones for just $89, a great price for these iconic over-ear headphones.",
-      "url": "https://www.zdnet.com/article/the-beats-studio-3-headphones-are-40-off-at-walmart-the-lowest-price-weve-seen/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/632527fe79484040664f16eb2aec183ba93d8afa/2025/10/15/a4b309a2-75f8-490a-bb30-0139ebc9fd27/untitled-design-50.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T15:23:34Z",
-      "content": "Walmart/ZDNET\r\nIf you need a new pair of headphones for your daily commute or for listening to music and podcasts without having to deal with external noise, we have a sale for you. Over at Walmart, … [+2755 chars]"
     }
   ]
 }
