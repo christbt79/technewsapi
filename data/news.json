@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-17T11:31:40.583Z",
+  "fetchedAt": "2025-10-17T12:17:31.132Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Shutdown layoffs, United earnings, Apple's new products and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/16/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212338-1760554239973-251015_CNBC_InvestInAmerica_Rush_017.jpg?v=1760554255&w=1920&h=1080",
+      "publishedAt": "2025-10-16T12:14:03Z",
+      "content": "Treasury Secretary Scott Bessent speaking at the CNBC Invest In America Forum in Washington, D.C. on Oct. 15, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future edition… [+4927 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Jack & Jill raises $50 million to bring conversational AI to job-hunting | TechCrunch",
+      "description": "Jack & Jill uses conversational AI to sidestep the listing and resumé shuffle. With $20 million in seed funding, the company is plotting its US expansion.",
+      "url": "https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "publishedAt": "2025-10-16T11:51:51Z",
+      "content": "Between infinitely scrolling job boards and the puzzling rise of fake applicants using AI to apply en masse, job-searching has quickly become one of the most bewildering experiences the internet has … [+3025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Microsoft Surface and data center production to be moved out of China by 2026, claims report — components, parts, and assembly of laptops and servers moving to counter trade war uncertainty",
+      "description": "Sources say that Microsoft is telling its suppliers to find non-China alternatives for its Surface and data center production.",
+      "url": "https://www.tomshardware.com/tech-industry/microsoft-surface-and-data-center-production-to-be-moved-out-of-china-by-2026-claims-report-components-parts-and-assembly-of-laptops-and-servers-moving-to-counter-trade-war-uncertainty",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CkqLHk6zz2TEHjzQZscZwC-1920-80.jpg",
+      "publishedAt": "2025-10-16T11:47:02Z",
+      "content": "A new report claims that Microsoft wants to completely move all of its new product manufacturing outside of China, with the production of its Surface product line and data centers aimed to be built e… [+2502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Dutch Nexperia takeover saga partly driven by CEO misappropriating $200 million to rescue failing private interests, court records show — U.S. diplomatic pressure may also have played a role",
+      "description": "The Dutch government's decision to take over control of Dutch chip manufacturer, Nexperia, wasn't just driven by its desire to retain the company's technology within the bounds of the EU and the Netherlands. The CEO is alleged to have tried to use company fun…",
+      "url": "https://www.tomshardware.com/tech-industry/dutch-nexperia-takeover-saga-partly-driven-by-ceo-misappropriating-usd200-million-to-rescue-failing-private-interests-court-records-show-u-s-diplomatic-pressure-may-also-have-played-a-role",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SohqjwbgZNULmvVqQtASYQ-1920-80.jpg",
+      "publishedAt": "2025-10-16T11:39:01Z",
+      "content": "The Dutch government's decision to take control of the Chinese-owned Dutch chip manufacturer Nexperia wasn't just to prevent technology from being transferred overseas, but also based on serious fina… [+3700 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68eeae717c200f52288c73c6/191:100/w_1280,c_limit/W1102806-Credit-Jacob-Roach.JPG",
       "publishedAt": "2025-10-15T12:30:00Z",
       "content": "I knew almost immediately after I started using FlowCV that itd earn a spot on this list. Its everything you want out of a résumé builder. It has excellent templates, plenty of customization, tools f… [+2345 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "s.e. smith",
-      "title": "Doing it for themselves",
-      "description": "In 2014, Time announced the “Transgender Tipping Point.” The perilous conditions trans people are facing right now probably weren’t the progress the publication had in mind. In the US, state legislators and even the president are on the attack, while in the U…",
-      "url": "https://www.theverge.com/cs/features/798638/trans-resources-online-sharing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_DOING_IT_THEMSELVES_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-15T12:22:46Z",
-      "content": "In 2014, Time announced the “Transgender Tipping Point.” The perilous conditions trans people are facing right now probably weren’t the progress the publication had in mind. In the US, state legislat… [+10208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nscale eyes IPO amid fresh $14 billion deal with Microsoft",
-      "description": "The AI cloud company could IPO towards the back end of 2026, a spokesperson confirmed to CNBC.",
-      "url": "https://www.cnbc.com/2025/10/15/nscale-eyes-ipo-amid-fresh-14-billion-deal-with-microsoft-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200081-1758127125364-nascale-49421.jpg?v=1758127204&w=1920&h=1080",
-      "publishedAt": "2025-10-15T12:18:18Z",
-      "content": "AI cloud company Nscale is eyeing an IPO, the company confirmed to CNBC Wednesday as it announced a $14-billion deal with U.S. tech giant Microsoft.\r\nThe London-based company, which provides technolo… [+1562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Windows 10's final update is a big one - with a record 173 bug fixes",
-      "description": "The latest Patch Tuesday is a bug-fixing bonanza.",
-      "url": "https://www.zdnet.com/article/windows-10s-final-update-is-a-big-one-with-a-record-173-bug-fixes/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/dee9fd666e27cfcdd482ffd8f11e3178ff63578d/2025/10/15/58b63710-de31-474f-a7e0-4ec487bafd23/microsofts-final-patch-tuesday-update-for-windows-10-is-a-bug-fixing-bonanza2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T12:11:00Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>October marks the final official Patch Tuesday for Windows 10.</li>… [+6456 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "VSCO gets AI editing chops, support for RAW files",
-      "description": "Video editing app VSCO is adding a set of new AI image editing tools, support for high-resolution RAW files, non-destructive edits, and content-aware region detection.",
-      "url": "https://techcrunch.com/2025/10/15/vsco-gets-ai-editing-chops-support-for-raw-files/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/HERO-16x9-1.jpg?resize=1200,674",
-      "publishedAt": "2025-10-15T12:06:29Z",
-      "content": "Video editing app VSCO is adding a set of new AI image editing tools, support for high-resolution RAW files, non-destructive edits, and content-aware region detection.\r\nThe AI tools will be housed in… [+2079 chars]"
     }
   ]
 }
