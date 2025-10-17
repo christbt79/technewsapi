@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T17:07:38.337Z",
+  "fetchedAt": "2025-10-17T17:34:56.611Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "New deadline: Claim up to $7,500 from AT&T's $177M data breach payouts - here's how",
+      "description": "A judge just extended the deadline for AT&T's $177 million data breach settlement. Here's how to claim your payout before it's too late.",
+      "url": "https://www.zdnet.com/article/new-deadline-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0ce2d5cf30379086c73e466beaa86dde202f1dc9/2025/10/16/26416d80-a89b-4873-90db-e3c844f72371/you-can-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-how-to-qualify.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T17:22:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AT&amp;T's $177 million settlement is for data breaches in 2019 and 2024.</li><li>… [+4092 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/47528b9d706c4ffb63301039136955c5c623d009/2025/09/30/08a069a4-2905-4ddd-955a-68ee99b23535/1000004409.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T16:06:00Z",
       "content": "Jada Jones/ZDNET\r\nZDNET's key takeaways\r\n<ul><li>The Sony WH-1000XM6 headphones offer even better sound and ANC performance.</li><li>They have the best travel case for headphones in 2025.</li><li>I l… [+5512 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Nscale inks massive AI infrastructure deal with Microsoft | TechCrunch",
-      "description": "Nscale plans to deploy the chips over the next few years to three data centers in Europe and a fourth in the U.S.",
-      "url": "https://techcrunch.com/2025/10/15/nscale-inks-massive-ai-infrastructure-deal-with-microsoft/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2201260651.jpg?w=1024",
-      "publishedAt": "2025-10-15T16:02:59Z",
-      "content": "AI hyperscaler startup Nscale has signed a sizable deal with Microsoft to bring Nvidia AI hardware to multiple data centers.\r\nThe AI cloud provider announced that it signed a deal with Microsoft to b… [+2268 chars]"
     }
   ]
 }
