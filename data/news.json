@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-17T19:31:21.708Z",
+  "fetchedAt": "2025-10-17T20:10:15.660Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "EFF, unions sue Trump admin. over alleged mass social media surveillance of legal residents | TechCrunch",
+      "description": "The lawsuit, filed in federal court, alleges the Trump administration is monitoring and punishing non-citizens who express social media views that the government disfavors.",
+      "url": "https://techcrunch.com/2025/10/16/eff-unions-sue-trump-admin-over-alleged-mass-social-media-surveillance-of-legal-immigrants/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/hacking-surveillance1.png?resize=1200,675",
+      "publishedAt": "2025-10-16T19:53:41Z",
+      "content": "Digital rights group the Electronic Frontier Foundation (EFF) filed a lawsuit on Thursday against the Trump administration over the government’s alleged social media monitoring of people who are lawf… [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Ray-Ban maker EssilorLuxottica says Meta smart glasses are boosting growth",
+      "description": "EssilorLuxottica attributed a healthy amount of its third-quarter growth to a lift from its partnership with Meta.",
+      "url": "https://www.cnbc.com/2025/10/16/ray-ban-maker-essilorluxottica-says-meta-smart-glasses-boosting-growth.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201461-1758309556598-gettyimages-2235586867-META_CONNECT.jpeg?v=1758309674&w=1920&h=1080",
+      "publishedAt": "2025-10-16T19:42:09Z",
+      "content": "EssilorLuxottica said a healthy amount of its revenue growth in the third quarter was due to its partnership with Meta, primarily from its Ray-Ban brand, to develop and sell smart glasses.\r\n\"Clearly … [+3250 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -628,19 +654,6 @@
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tom's Hardware UK"
       },
       "author": "Andrew E. Freedman",
@@ -650,6 +663,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "",
       "publishedAt": "2025-10-15T18:00:00Z",
       "content": "A new study from MIT suggests the biggest and most computationally intensive AI models may soon offer diminishing returns compared to smaller models. By mapping scaling laws against continued improve… [+2478 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "How Trump's $100,000 H-1B visa fee is already changing the job market search for skilled workers",
-      "description": "President Trump's $100,000 fee for H-1B visas for skilled foreign workers poses risks to the economy and innovation, but may result in real job upskilling.",
-      "url": "https://www.cnbc.com/2025/10/15/trump-h1b-visa-fee-startups-jobs-recruit-hire-workers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201540-1758315090372-gettyimages-2235781137-AFP_76784PC.jpeg?v=1760541890&w=1920&h=1080",
-      "publishedAt": "2025-10-15T17:47:55Z",
-      "content": "Nearly a month after the Trump administration's surprise $100,000 payment for new H-1B visa recipients went into effect, the headline-grabbling change is disrupting high-tech talent pipelines in two … [+8950 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers | TechCrunch",
-      "description": "Eightfold co-founders raise $35M for Viven, an AI digital twin startup for querying unavailable coworkers | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/15/eightfold-co-founders-raise-35m-for-viven-an-ai-digital-twin-startup-for-querying-unavailable-coworkers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Viven.jpg.jpeg?resize=1200,801",
-      "publishedAt": "2025-10-15T17:32:11Z",
-      "content": "While employees spend much of their day communicating and coordinating amongst themselves on projects, this effort is often undermined by the availability of specific individuals. When a colleague wi… [+3378 chars]"
     }
   ]
 }
