@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T22:07:49.758Z",
+  "fetchedAt": "2025-10-17T22:35:49.777Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Prologis is 'at a trough,' CEO says, as demand starts to return and data center business gains momentum",
+      "description": "After years of heightened vacancies, Prologist CEO Hamid Moghadam told CNBC's Jim Cramer that demand for warehouse and e-commerce facilities is picking up.",
+      "url": "https://www.cnbc.com/2025/10/16/prologis-ceo-trough-data-center-business-demand-momentum.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103334789-GettyImages-115094823.jpg?v=1760639938&w=1920&h=1080",
+      "publishedAt": "2025-10-16T22:27:50Z",
+      "content": "Prologis CEO Hamid Moghadam told CNBC's Jim Cramer that business is improving as demand for properties starts to grow following years of heightened vacancies, and data center buildout creates more op… [+1827 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-831764682.jpeg?resize=1200,797",
       "publishedAt": "2025-10-15T19:19:23Z",
       "content": "Apple announced Tuesday that it had signed contracts for 650 megawatts of renewable power in Europe.\r\nThis includes wind and solar projects that are either operational or will be soon. A large chunk … [+2186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Microsoft, Nvidia, and others inject $40B into AI bubble with massive datacenter deal",
-      "description": "Big Tech and big money unite to back world’s biggest bit-barn buyout\nThe AI bubble just keeps getting bigger. A consortium featuring BlackRock, Microsoft, Nvidia, xAI, and MGX is buying Aligned Data Centers in a deal valuing the operator at around $40 billion…",
-      "url": "https://www.theregister.com/2025/10/15/microsoft_nvidia_ai_datacenter_deal/",
-      "urlToImage": "https://regmedia.co.uk/2023/04/07/shutterstock_bubble.jpg",
-      "publishedAt": "2025-10-15T19:09:35Z",
-      "content": "The AI bubble just keeps getting bigger. A consortium featuring BlackRock, Microsoft, Nvidia, xAI, and MGX is buying Aligned Data Centers in a deal valuing the operator at around $40 billion, in what… [+3031 chars]"
     }
   ]
 }
