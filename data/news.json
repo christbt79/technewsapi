@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-17T15:09:27.764Z",
+  "fetchedAt": "2025-10-17T15:37:14.807Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "China's latest round of rare-earth export controls gives the country dominion over precious resources — regulations have far-reaching implications for the semiconductor industry",
+      "description": "China has expanded its rare-earth export controls to cover not only raw materials but also to mining equipment, and foreign-made products containing Chinese-origin rare earths, effectively globalizing its licensing regime.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LYXEBRFVHinmDdveDXwvHQ-2560-80.jpg",
+      "publishedAt": "2025-10-16T15:23:08Z",
+      "content": "Last week, a new round of the U.S.-China trade war commenced. China imposed export controls on a new set of rare earth materials and the methods of their processing, which may impact a variety of pro… [+9135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cnbc",
+      "title": "Bank of America, BNY sued over alleged financial ties to Jeffrey Epstein",
+      "description": "A woman who says she was abused by the late financier and sex offender Jeffrey Epstein sued Bank of America and the Bank of New York Mellon.",
+      "url": "https://www.cnbc.com/2025/10/16/bank-of-america-bny-sued-over-alleged-financial-ties-to-jeffrey-epstein.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108132006-1744719999692-gettyimages-2209792192-McGregor250414NYCbusinesses17.jpeg?v=1744720090&w=1920&h=1080",
+      "publishedAt": "2025-10-16T15:21:18Z",
+      "content": "Sign at the entrance to a Bank Of America branch in Manhattan. \r\nA woman who says she was abused by the late financier and sex offender Jeffrey Epstein sued Bank of America and the Bank of New York M… [+3424 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Apple loses another AI exec to Meta",
+      "description": "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead up to a much-anticipated Siri revamp scheduled for March.",
+      "url": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
+      "publishedAt": "2025-10-16T15:21:03Z",
+      "content": "Ke Yang, the Apple executive leading the iPhone-maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.  \r\nYangs departure marks the latest in a string of … [+926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zak Killian",
+      "title": "Two Nvidia DGX Spark systems combined with M3 Ultra Mac Studio to create blistering LLM system — EXO Labs demonstrates disaggregated AI inference and achieves a 2.8× benchmark boost",
+      "description": "Using its EXO software, the company was able to split an AI inference workload and run it on three systems simultaneously.",
+      "url": "https://www.tomshardware.com/software/two-nvidia-dgx-spark-systems-combined-with-m3-ultra-mac-studio-to-create-blistering-llm-system-exo-labs-demonstrates-disaggregated-ai-inference-and-achieves-a-2-8-benchmark-boost",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/D4nDcgkvEkH8ZnvdkuFwk6-2376-80.jpg",
+      "publishedAt": "2025-10-16T15:20:04Z",
+      "content": "EXO Labs' primary project is EXO, an open-source framework for running large language models (LLMs) efficiently across mixed hardware setups. Rather than treating inference as a task bound to a singl… [+3535 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed",
+      "description": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in their feeds. The company is also making its AI content labels more visible.",
+      "url": "https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FilteringPins-NewsroomHeader.jpg?resize=1200,675",
+      "publishedAt": "2025-10-16T15:15:50Z",
+      "content": "Following backlash over an increase in “AI slop” taking over users’ feeds and making it less useful, Pinterest on Thursday added new tools that let users limit how much AI-generated content they see … [+1723 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Oracle goes all-in on AI, customers still figuring out how they'll use it",
+      "description": "It's all agents and LLMs in Vegas, and even legacy users can partake As Oracle pounds the market with AI announcements across cloud infrastructure, applications, and data analytics, experts have warned that users' path to adoption remains uncertain.…",
+      "url": "https://www.theregister.com/2025/10/16/oracle_ai/",
+      "urlToImage": "https://regmedia.co.uk/2016/08/07/oracle_logo_360b_shutterstock.jpg",
+      "publishedAt": "2025-10-16T15:11:05Z",
+      "content": "As Oracle pounds the market with AI announcements across cloud infrastructure, applications, and data analytics, experts have warned that users' path to adoption remains uncertain.\r\nFounded in 1977, … [+5972 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -238,19 +316,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -260,6 +325,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/0117181e6991931b3a6b1bce23dcc7285be4f811/2025/10/08/8ad2b478-ec18-487d-8deb-e6d5c444499c/dsc07944.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T14:53:00Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nPixel phones have an excellent reputation for smart software, but battery life has been a common complaint with Google's sm… [+7416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Walmart deploying millions of Internet of Things sensors across U.S. to track inventory from warehouse to Supercenter",
-      "description": "Walmart is deploying millions of ambient Internet of Things battery-free sensors throughout its  U.S. supply chain to enhance services and add efficiencies.",
-      "url": "https://www.cnbc.com/2025/10/15/walmart-deploying-millions-of-internet-iot-sensors-across-us.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108129594-1744233318439-gettyimages-2209422186-img_4880_necs2fuw.jpeg?v=1752246821&w=1920&h=1080",
-      "publishedAt": "2025-10-15T14:49:46Z",
-      "content": "Walmart is deploying millions of ambient Internet of Things battery-free sensors throughout its massive supply chain in the U.S.\r\nThe retail giant is using technology from Wiliot in what the IoT vend… [+5266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Apple launches new 14-inch MacBook Pro with M5 chip — boasts 2x SSD speeds and increased GPU performance for AI over M4",
-      "description": "Apple's MacBook Pro lineup is getting a refresh, with the 14-inch model now equipped with the company's new M5 chip. Most of the specs remain unchanged, but so does the price, and the main focus is on AI improvements under the hood with M5. It's up to 3.5x mo…",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apple-launches-new-14-inch-macbook-pro-with-m5-chip-boasts-2x-ssd-speeds-increased-gpu-performance-for-ai-over-m4-version",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yeNNgoFjGyM8NHfvyTuGT3-2560-80.jpg",
-      "publishedAt": "2025-10-15T14:42:46Z",
-      "content": "After teasing a new product launch on X earlier today, Apple has just announced the 2025 refresh to its 14-inch MacBook Pro lineup, now equipped with the shiny new M5 chip. The press release, accompa… [+3051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Everything Apple announced with the M5 chipset: MacBook Pro, iPad Pro and Vision Pro",
-      "description": "Apple just announced three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
-      "url": "https://www.zdnet.com/article/everything-apple-announced-with-the-m5-chipset-macbook-pro-ipad-pro-and-vision-pro/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f669203aabd4ee7f61aa393b1980a25d0ccb8de4/2024/11/06/fe5d85e7-054c-44d7-804a-8b6b6b66443f/dsc02545-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T14:22:36Z",
-      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>The new M5 Ma… [+4460 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Apple just launched an M5 MacBook, iPad, and Vision Pro: Specs, prices, and availability",
-      "description": "Apple just announced three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
-      "url": "https://www.zdnet.com/article/apple-just-launched-an-m5-macbook-ipad-and-vision-pro-specs-prices-and-availability/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f669203aabd4ee7f61aa393b1980a25d0ccb8de4/2024/11/06/fe5d85e7-054c-44d7-804a-8b6b6b66443f/dsc02545-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T14:22:00Z",
-      "content": "Apple\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>The new M5 Ma… [+4460 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "You can now text Spotify’s AI DJ",
-      "description": "Spotify's AI DJ now takes text commands and accepts Spanish-language music requests by voice.",
-      "url": "https://techcrunch.com/2025/10/15/you-can-now-text-spotifys-ai-dj/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/DJ-Header-2-2048x782-1.png?resize=1200,458",
-      "publishedAt": "2025-10-15T14:17:28Z",
-      "content": "Spotify on Wednesday upgraded its AI DJ feature available to Premium subscribers with a handful of new features, including the ability to send in your requests by typing, not just using voice command… [+1685 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dominic Preston",
-      "title": "Honor’s Robot Phone concept features a fold-out camera arm",
-      "description": "Honor has announced what it’s calling the “Robot Phone,” a concept device with an AI-enabled, gimbal-mounted camera that unfolds from the phone’s rear and can shoot photos and film video in any direction. The phone — so far only seen in CGI form in a teaser v…",
-      "url": "https://www.theverge.com/news/799944/honor-robot-phone-tease-announcement",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/honor-robot-phone_859504.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-15T14:13:55Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut well have to wait until next year to find out more.\r\nBut well have to wait until next year to find out more.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\r\nPost… [+3093 chars]"
     }
   ]
 }
