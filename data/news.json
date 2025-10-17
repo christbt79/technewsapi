@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T09:37:05.309Z",
+  "fetchedAt": "2025-10-17T10:09:56.950Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Abhishek Jadhav",
+      "title": "The $100B memory war: Inside the battle for AI's future",
+      "description": "The AI gold rush is so large that even third place is lucrative Feature  The generative AI revolution has exposed a brutal truth: raw computing power means nothing if you can't feed the beast. In sprawling AI datacenters housing thousands of GPUs, the real ch…",
+      "url": "https://www.theregister.com/2025/10/16/race_to_supply_advanced_memory/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/15/gold_rush.jpg",
+      "publishedAt": "2025-10-16T09:45:07Z",
+      "content": "Feature The generative AI revolution has exposed a brutal truth: raw computing power means nothing if you can't feed the beast. In sprawling AI datacenters housing thousands of GPUs, the real chokepo… [+9713 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T10:46:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Samsung joins Nvidia's NVLink Fusion program to produce custom AI chips — additional Spectrum-X platform to be deployed by Meta and Oracle for data center use",
-      "description": "The partnership brings Samsung Foundry into Nvidia’s high-speed interconnect ecosystem, expanding NVLink’s reach beyond TSMC and deepening Nvidia’s control over AI system design.",
-      "url": "https://www.tomshardware.com/samsung-joins-nvidia-nvlink-fusion",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2YFymL3qMNnApYJB7AiCUZ-1280-80.jpg",
-      "publishedAt": "2025-10-15T10:33:03Z",
-      "content": "On October 13 at the OCP Global Summit, Nvidia made a series of announcements that demonstrate just how seriously it’s trying to push into the physical supply chain that underpins AI compute. Chief a… [+5839 chars]"
     }
   ]
 }
