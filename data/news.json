@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T11:07:48.754Z",
+  "fetchedAt": "2025-10-17T11:31:40.583Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Tech industry grad hiring crashes 46% as bots do junior work",
+      "description": "GenAI meets Gen Z – only one gets the job\nai-pocalypse The UK tech sector is cutting graduate jobs dramatically – down 46 percent in the past year, with another 53 percent drop projected, according to figures from the Institute of Student Employers (ISE).…",
+      "url": "https://www.theregister.com/2025/10/16/uk_tech_grad_jobs/",
+      "urlToImage": "https://regmedia.co.uk/2016/11/04/graduates.jpg",
+      "publishedAt": "2025-10-16T11:18:19Z",
+      "content": "ai-pocalypse The UK tech sector is cutting graduate jobs dramatically down 46 percent in the past year, with another 53 percent drop projected, according to figures from the Institute of Student Empl… [+2612 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/HERO-16x9-1.jpg?resize=1200,674",
       "publishedAt": "2025-10-15T12:06:29Z",
       "content": "Video editing app VSCO is adding a set of new AI image editing tools, support for high-resolution RAW files, non-destructive edits, and content-aware region detection.\r\nThe AI tools will be housed in… [+2079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "A guide to the $1 trillion-worth of AI deals between OpenAI, Nvidia and others",
-      "description": "Artificial intelligence companies are striking deals worth much more than they make in revenues.",
-      "url": "https://www.cnbc.com/2025/10/15/a-guide-to-1-trillion-worth-of-ai-deals-between-openai-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202710-17586330342025-09-23t121114z_1091793905_rc28xgajfs5b_rtrmadp_0_nvidia-openai-finance.jpeg?v=1758633052&w=1920&h=1080",
-      "publishedAt": "2025-10-15T12:00:01Z",
-      "content": "Many predict that the artificial intelligence boom will dramatically change how people live and work, and the scale and pace of recent AI deals seems to reflect this. At the center are a handful of c… [+2540 chars]"
     }
   ]
 }
