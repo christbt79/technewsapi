@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-17T08:43:18.372Z",
+  "fetchedAt": "2025-10-17T09:10:34.683Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft is reportedly moving its Surface manufacturing out of China",
+      "description": "As trade tensions grow between the US and China, Microsoft is reportedly preparing to move the manufacturing of its Surface laptops and tablets out of China. Nikkei reports that Microsoft is aiming to move manufacturing of Surface devices and data center serv…",
+      "url": "https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257745_Surface_Pro_AKrales_0187.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-16T09:06:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe move could also see server production move out of China, as trade tensions with the US intensify.\r\nThe move could also see server production move out of Chin… [+2620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Tachyum's 'general-purpose' Prodigy chip delayed again — now with 256 cores per chiplet and a $500 million purchase order from EU investor",
+      "description": "Tachyum upgrades its Prodigy to 256 cores and announced and fresh funding for its AI and HPC processor, but admitted the chip has not yet been taped out or finalized, so the project remains far from production despite years of delays.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/tachyums-general-purpose-prodigy-chip-delayed-again-now-with-256-cores-per-chiplet-and-a-usd500-million-purchase-order-from-eu-investor",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5f5WeAbrAL7SpQXQgv8XSF-1920-80.png",
+      "publishedAt": "2025-10-16T09:00:00Z",
+      "content": "Tachyum broke the silence Wednesday about its Prodigy universal processor for AI and HPC, announcing plans to boost the number of its cores to increase performance. \r\nThe company also said it closed … [+4429 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/2YFymL3qMNnApYJB7AiCUZ-1280-80.jpg",
       "publishedAt": "2025-10-15T10:33:03Z",
       "content": "On October 13 at the OCP Global Summit, Nvidia made a series of announcements that demonstrate just how seriously it’s trying to push into the physical supply chain that underpins AI compute. Chief a… [+5839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China greenlights autonomous driving firms Pony.ai and WeRide's Hong Kong listings",
-      "description": "The China-based autonomous driving firms Pony AI and WeRide have both filed with regulators in China to list their shares in Hong Kong.",
-      "url": "https://www.cnbc.com/2025/10/15/chinese-autonomous-driving-firms-ponyai-and-weride-to-list-in-hong-kong-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212238-1760517347983-gettyimages-2210982230-AFP_43897F6.jpeg?v=1760517385&w=1920&h=1080",
-      "publishedAt": "2025-10-15T09:46:41Z",
-      "content": "Autonomous driving firms Pony.ai and WeRide have received approval from China's securities regulator for secondary listings in Hong Kong, as the companies look to raise funds and continue their globa… [+2154 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Frore's new LiquidJet coldplates are equipped to handle the spiralling power demands of future AI GPUs — built to handle up to 4.4Kw TDPs, solution could be deployed in power-hungry Feynman data centers",
-      "description": "Frore Systems's LiquidJet coldplate uses semiconductor-style metal wafer fabrication and 3D short-loop jet microstructures to double cooling density and cut pressure loss fourfold, setting the stage for multi-kilowatt AI GPUs.",
-      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/frores-new-liquidjet-coldplates-are-equipped-to-handle-the-spiralling-power-demands-of-future-ai-gpus-built-to-handle-up-to-4-4kw-tdps-solution-could-be-deployed-in-power-hungry-feynman-data-centers",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jsrnumMTnrgxLNGq7Wvet9-1920-80.jpg",
-      "publishedAt": "2025-10-15T09:43:00Z",
-      "content": "Frore Systems has introduced LiquidJet, a coldplate that supports existing AI GPUs, such as Nvidia's Blackwell, with a 1,400W thermal design power. It can scale its performance for next-generation pr… [+4219 chars]"
     }
   ]
 }
