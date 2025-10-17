@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T22:35:49.777Z",
+  "fetchedAt": "2025-10-17T23:08:16.980Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "AI makes phishing 4.5x more effective, Microsoft says",
+      "description": "And potentially 50 times more profitable\nPeople receiving an AI phishing email are 4.5 times more likely to click on the malicious link or file, according to Microsoft.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
+      "url": "https://www.theregister.com/2025/10/16/ai_makes_phishing_45x_more_effective/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/16/robot-fishing.jpg",
+      "publishedAt": "2025-10-16T22:53:50Z",
+      "content": "People receiving an AI phishing email are 4.5 times more likely to click on the malicious link or file, according to Microsoft.\r\nIn its annual Digital Defense Report, Redmond says these AI-automated … [+5329 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -719,19 +732,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -741,6 +741,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/apple-sept-9-2025-322.webp?quality=90&strip=all&crop=0,11.111071101925,100,77.77785779615",
       "publishedAt": "2025-10-15T19:28:29Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe N1 wireless chip brings Thread to the iPad Pro for the first time (officially).\r\nThe N1 wireless chip brings Thread to the iPad Pro for the first time (offic… [+4712 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Apple adds 650 megawatts of renewables in Europe with more coming in China",
-      "description": "Apple is adding renewable power to offset customer charging and support its operations, including third-party manufacturing in China.",
-      "url": "https://techcrunch.com/2025/10/15/apple-adds-650-megawatts-of-renewables-in-europe-with-more-coming-in-china/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-831764682.jpeg?resize=1200,797",
-      "publishedAt": "2025-10-15T19:19:23Z",
-      "content": "Apple announced Tuesday that it had signed contracts for 650 megawatts of renewable power in Europe.\r\nThis includes wind and solar projects that are either operational or will be soon. A large chunk … [+2186 chars]"
     }
   ]
 }
