@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T08:13:51.210Z",
+  "fetchedAt": "2025-10-17T08:43:18.372Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Leaving Windows 10 behind? Apple's rumored $599 MacBook might be just for you",
+      "description": "Apple could be developing a new, lightweight MacBook with the iPhone's A18 Pro chipset, and at a price we can't ignore.",
+      "url": "https://www.zdnet.com/article/leaving-windows-10-behind-apples-rumored-599-macbook-might-be-just-for-you/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/02aaed98b9842205d88c91dfdd69696d7a66de9f/2025/03/12/acace593-7f8b-498c-88e4-0af82f0ede6a/img-0571.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T08:15:39Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple could be developing a new budget-friendly MacBook for around $599. </li><li>Rumors st… [+3397 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jsrnumMTnrgxLNGq7Wvet9-1920-80.jpg",
       "publishedAt": "2025-10-15T09:43:00Z",
       "content": "Frore Systems has introduced LiquidJet, a coldplate that supports existing AI GPUs, such as Nvidia's Blackwell, with a 1,400W thermal design power. It can scale its performance for next-generation pr… [+4219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "Ber8auer rigs up exotic spray cooling for Ryzen 7 9800X3D, but don't get excited just yet — supercomputer cooling method underperforms due to partial IHS coverage",
-      "description": "Famous german overclocker Der8auer tests spray cooling, a cooling solution used in supercomputers, on a Ryzen 7 9800X3D with decent results. The chip was able to run through Cinebench R23 successfully without overheating.",
-      "url": "https://www.tomshardware.com/pc-components/cooling/ber8auer-rigs-up-exotic-spray-cooling-for-ryzen-7-9800x3d-but-dont-get-excited-just-yet-supercomputer-cooling-method-underperforms-due-to-partial-ihs-coverage",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oNcdD7dwgfsCRPXZceBYq9-1920-80.png",
-      "publishedAt": "2025-10-15T09:37:04Z",
-      "content": "There are many exotic forms of chip cooling in the wild, such as immersion cooling and liquid nitrogen cooling. But one cooling paradigm you might not have heard of is spray cooling, used by some sup… [+3596 chars]"
     }
   ]
 }
