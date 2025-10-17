@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-17T00:42:26.790Z",
+  "fetchedAt": "2025-10-17T02:17:25.427Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "These Bose earbuds are an easy pick over AirPods for me - why I don't regret it",
+      "description": "The Bose QuietComfort Ultra 2 deliver an unmatched comfort and audio experience, but not without a few caveats.",
+      "url": "https://www.zdnet.com/article/these-bose-earbuds-are-an-easy-pick-over-airpods-for-me-why-i-dont-regret-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e68aeba873e141728252f6d25fb3ef3e5596b4ae/2025/10/14/f6e012eb-f612-48a6-b285-1b33bac8af11/bose-quietcomfort-ultra-earbuds-2-233237.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T02:00:43Z",
+      "content": "On paper, the Bose QuietComfort Ultra Earbuds (2nd Gen) tech specs may seem painfully incremental, but there's more to them than meets the eye. It's impressive how seemingly innocuous updates from on… [+9124 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Strong bank earnings seem to overshadow escalating trade war",
+      "description": "Whether traders continue pushing equities to highs amid fractious relations with China will depend, in part, on the earnings of major technology companies.",
+      "url": "https://www.cnbc.com/2025/10/16/cnbc-daily-open-strong-bank-earnings-seem-to-overshadow-escalating-trade-war.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212397-17605379272025-10-15t134223z_1066780937_rc2dchaknr1f_rtrmadp_0_imf-worldbank-bessent.jpeg?v=1760538006&w=1920&h=1080",
+      "publishedAt": "2025-10-16T01:53:22Z",
+      "content": "China has been using its dominance in the rare earth industry to slash prices, driving foreign competitors out, U.S. Treasury Secretary Scott Bessent told CNBC on Wednesday stateside in an exclusive … [+2054 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "Seoul weighs approval for Google, Apple high-resolution map requests | TechCrunch",
+      "description": "South Korea weighs granting Google and Apple access to high-resolution map data amid lingering security and regulatory concerns.",
+      "url": "https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1487910618.jpg?resize=1200,675",
+      "publishedAt": "2025-10-16T00:52:06Z",
+      "content": "South Korea is nearing a decision on whether to allow Google and Apple to export high-resolution geographic map data to servers outside the country. The detailed maps, which use a 1:5,000 scale, woul… [+4981 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211991-1760467725949-gettyimages-2241027595-_d1_4662_91eiwgrf.jpeg?v=1760467909&w=1920&h=1080",
       "publishedAt": "2025-10-15T06:59:51Z",
       "content": "U.S. stocks had a rocky day of trading, swinging from highs to lows like the quality of Game of Thrones across its eight seasons.\r\nAt its lowest during the session, the S&amp;P 500 fell as much as 1.… [+3383 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "OpenAI has five years to turn $13 billion into $1 trillion | TechCrunch",
-      "description": "Some of America's most valuable companies are now leaning on OpenAI to fulfill major contracts, notes the FT.",
-      "url": "https://techcrunch.com/2025/10/14/openai-has-five-years-to-turn-13-billion-into-1-trillion/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
-      "publishedAt": "2025-10-15T05:40:33Z",
-      "content": "OpenAI is printing money right now. The company is pulling in roughly $13 billion in annual revenue, with 70% coming from everyday people paying $20 a month to chat with an AI, according to the Finan… [+978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "ASML looks to calm fears over 2026 growth as it warns of China sales decline",
-      "description": "ASML on Wednesday looked to allay concerns over 2026 growth as net sales for the third quarter came in slightly below expectations.",
-      "url": "https://www.cnbc.com/2025/10/15/asml-q3-earnings-report.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172660-17526696842024-01-08t222256z_1632766534_rc2vd5ajh8kn_rtrmadp_0_tech-ai.jpeg?v=1752669740&w=1920&h=1080",
-      "publishedAt": "2025-10-15T05:18:11Z",
-      "content": "Dutch semiconductor equipment ASML on Wednesday looked to allay concerns over 2026 growth as it warned that it expects a \"significant\" sales decline in China.\r\nHere's how ASML did versus LSEG consens… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI’s ChatGPT will soon allow 'erotica' for adults in major policy shift",
-      "description": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, says OpenAI CEO Sam Altman.",
-      "url": "https://www.cnbc.com/2025/10/15/erotica-coming-to-chatgpt-this-year-says-openai-ceo-sam-altman.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203075-1758667425880-gettyimages-2236544323-STARGATE_DATA_CENTER.jpeg?v=1760494512&w=1920&h=1080",
-      "publishedAt": "2025-10-15T03:38:42Z",
-      "content": "Adult ChatGPT users can soon access a less censored version of the artificial intelligence chatbot, which will include erotic materials, OpenAI CEO Sam Altman has announced in an apparent policy shif… [+2710 chars]"
     }
   ]
 }
