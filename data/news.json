@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-17T19:07:08.265Z",
+  "fetchedAt": "2025-10-17T19:31:21.708Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Kayak launches an ‘AI Mode’ for travel questions, search, and bookings",
+      "description": "Kayak is bringing AI directly to its main platform with a new “AI Mode” that lets travelers research, plan, and book trips through a built-in chatbot.",
+      "url": "https://techcrunch.com/2025/10/16/kayak-launches-an-ai-mode-for-travel-questions-search-and-bookings/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Desktop1280-1439-3.jpg?resize=1200,771",
+      "publishedAt": "2025-10-16T19:23:07Z",
+      "content": "Travel search engine Kayak will now allow users to research trips ahead of booking using AI. The company this week launched an “AI Mode” feature that lets users ask travel-related questions as well a… [+2378 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "Unions are trying to stop Trump from kicking out immigrants over social media posts",
+      "description": "The Trump administration’s heightened monitoring of immigrants’ social media accounts seeking grounds to revoke their visas stifles the speech rights of both noncitizens and citizens alike, the Electronic Frontier Foundation (EFF) alleges in a new lawsuit. Th…",
+      "url": "https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK471_2_Government_Surveillance_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-16T19:21:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump administration has pledged to boot visa holders for some social media comments.\r\nThe Trump administration has pledged to boot visa holders for some soc… [+4714 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Why AI startups are taking data into their own hands | TechCrunch",
+      "description": "Where training sets were once scraped freely from the web or collected from low-paid annotators, companies are looking to proprietary training data as a competitive advantage.",
+      "url": "https://techcrunch.com/2025/10/16/why-ai-startups-are-taking-data-into-their-own-hands/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1295429677.jpg?resize=1200,840",
+      "publishedAt": "2025-10-16T19:08:53Z",
+      "content": "For one week this summer, Taylor and her roommate wore GoPro cameras strapped to their foreheads as they painted, sculpted, and did household chores. They were training an AI vision model, carefully … [+4574 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -589,19 +628,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -611,6 +637,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Viven.jpg.jpeg?resize=1200,801",
       "publishedAt": "2025-10-15T17:32:11Z",
       "content": "While employees spend much of their day communicating and coordinating amongst themselves on projects, this effort is often undermined by the availability of specific individuals. When a colleague wi… [+3378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "This Google Meet tool could help you look better in meetings - even the early ones",
-      "description": "Overslept? Google Meet's AI-powered 'makeup' feature offers 12 looks to make you look meeting-ready.",
-      "url": "https://www.zdnet.com/home-and-office/smart-office/this-google-meet-tool-could-help-you-look-better-in-meetings-even-the-early-ones/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1329bc9baa1d52949e0bdef59056a6d36a4b04b5/2023/07/19/e35de1c0-270d-4fd8-8864-0daba07eadf8/google-meet.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T17:30:18Z",
-      "content": "Illustration: Maria Diaz/ZDNET | Logo: Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Meet has a new AI-powered makeup feature.</li><li>Choose fr… [+2249 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Anthropic launches new version of scaled-down \"Haiku\" model | TechCrunch",
-      "description": "Anthropic has released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 \"at one-third the cost and more than twice the speed.\"",
-      "url": "https://techcrunch.com/2025/10/15/anthropic-launches-new-version-of-scaled-down-haiku-model/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-15-at-10.38.58-AM.jpg?w=800",
-      "publishedAt": "2025-10-15T17:04:26Z",
-      "content": "On Wednesday, Anthropic released Claude Haiku 4.5, the newest version of its smallest model, billed as offering similar performance to Sonnet 4 “at one-third the cost and more than twice the speed,” … [+1916 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Claude's latest model is cheaper and faster than Sonnet 4 - and free",
-      "description": "Here's what Haiku 4.5 offers users and developers.",
-      "url": "https://www.zdnet.com/article/claudes-latest-model-is-cheaper-and-faster-than-sonnet-4-and-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c78a00000f7c1a17602287ac68fe06dec12edd6c/2025/10/15/c45fc2c3-741f-4d37-9e95-0551f661ec9d/illustration.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T17:00:30Z",
-      "content": "Anthropic\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic launched its new Haiku 4.5 model.</li><li>The small model is faster and more cost-effective.… [+2825 chars]"
     }
   ]
 }
