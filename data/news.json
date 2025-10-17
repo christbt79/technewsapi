@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-17T13:41:10.421Z",
+  "fetchedAt": "2025-10-17T14:09:28.392Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space",
+      "description": "OnePlus has announced OxygenOS 16, its take on Android 16, with upgrades to its Mind Space AI tool including complete integration with Google Gemini. Other updates include new lock screen customizations, improved connectivity options, and design tweaks throug…",
+      "url": "https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/oxygenos-16.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
+      "publishedAt": "2025-10-16T14:03:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles AI assistant will be able to respond to what youve saved.\r\nGoogles AI assistant will be able to respond to what youve saved.\r\nby\r\nDominic PrestonClose\r\nD… [+3131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Still on Windows 10? Here's what Microsoft Defender can and can't do for you",
+      "description": "Defender will continue to provide security even for unsupported Windows 10 PCs. But Microsoft still wants you to move to Windows 11.",
+      "url": "https://www.zdnet.com/article/still-on-windows-10-heres-what-microsoft-defender-can-and-cant-do-for-you/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7b8b82f3afb2d46f6efc32c04e13eeb093ff07fb/2025/10/16/dda5286c-8687-4477-9496-aeaf68228ef4/microsoft-defender-will-still-work-in-windows-10-but-is-that-enough-to-protect-you.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T14:02:27Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Defender will continue to work in Windows 10.</li><li>Def… [+4063 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends",
+      "description": "Last 48 hours to save before the TechCrunch Disrupt 2025 flash sale ends. Save up to $624 on your ticket and join 10,000 tech leaders. Register here.",
+      "url": "https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_2Days-16X9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-16T14:00:00Z",
+      "content": "Tick tock! TechCrunch Disrupt 2025 hits San Franciscos Moscone West on October 2729 and this is your final chance to lock in major savings before doors open. Ticket prices increase after tomorrow, Oc… [+2121 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Uber is turning its app into an AI training ground",
+      "description": "In its quest to become the ultimate app for “flexible work,” Uber launched today a new pilot to allow its US drivers and couriers to earn extra money by performing “microtasks” to train AI models. These tasks include audio voice recording, capturing and uploa…",
+      "url": "https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-16T13:57:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUber wants to challenge established players like Scale AI or Amazons Mechanical Turks.\r\nUber wants to challenge established players like Scale AI or Amazons Mech… [+7452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "US hyperscalers to guzzle 22% more grid juice by end of 2025",
+      "description": "AI hype fuels bit barn boom – and utilities are sweating the surge\nHyperscale datacenters stateside will consume 22 percent more grid power by the end of 2025 than a year ago, and are forecast to need nearly three times as much electricity by the end of the d…",
+      "url": "https://www.theregister.com/2025/10/16/us_datacenters_ai_power/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/03/aws_datacenter_racks.jpg",
+      "publishedAt": "2025-10-16T13:47:09Z",
+      "content": "Hyperscale datacenters stateside will consume 22 percent more grid power by the end of 2025 than a year ago, and are forecast to need nearly three times as much electricity by the end of the decade.\r… [+3552 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -134,19 +199,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -156,6 +208,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AFL-CIO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-15T14:02:54Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AFL-CIO represents the UAW and dozens of other unions and wants more collective bargaining and state bills regulating AI. \r\nThe AFL-CIO represents the UAW an… [+5693 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia, Microsoft, xAI and BlackRock part of $40 billion deal for Aligned Data Centers",
-      "description": "MGX, BlackRock's Global Infrastructure Partners and members of Artificial Intelligence Infrastructure Partnership will buy the company.",
-      "url": "https://www.cnbc.com/2025/10/15/nvidia-microsoft-blackrock-aligned-data-centers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212332-1760531577736-gettyimages-2239592964-ALIGNED_ORD-02.jpeg?v=1760531606&w=1920&h=1080",
-      "publishedAt": "2025-10-15T13:48:18Z",
-      "content": "Nvidia, Microsoft, BlackRock and Elon Musk's xAI are part of a consortium of investors that has agreed to purchase Aligned Data Centers for $40 billion, the companies announced on Wednesday.\r\nAligned… [+1816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "This new Copilot trick will save you tons of time in Windows 11 - here's how",
-      "description": "It makes Windows 11 PCs easier to use and might just be the fastest way to find settings.",
-      "url": "https://www.zdnet.com/article/this-new-copilot-trick-will-save-you-tons-of-time-in-windows-11-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1372d2de2f59ac6a76a28c6a36a09bc2d62546ba/2025/10/15/80610d69-58de-438f-91aa-2c6ad56f938e/this-cool-new-copilot-feature-will-help-you-use-windows-more-easily.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T13:38:38Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Ask about a specific Windows setting, and Copilot will link to it.<… [+3527 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Groups including BlackRock, Microsoft, Nvidia, and xAI join forces to acquire Aligned Data Centers — $40B deal delivers 5GW of operational and planned data center capacity",
-      "description": "Microsoft, Nvidia, and xAI partner with asset management firm BlackRock under AIP to make massive investments in data center infrastructure.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/groups-including-blackrock-microsoft-nvidia-and-xai-join-forces-to-acquire-aligned-data-centers-usd40b-deal-delivers-5gw-of-operational-and-planned-data-center-capacity",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Jsd54JzWbwq3Hnf2bEvucA-2560-80.jpg",
-      "publishedAt": "2025-10-15T13:37:48Z",
-      "content": "Asset management firm BlackRock has joined forces with Microsoft, Nvidia, and xAI to purchase Aligned Data Centers (Aligned) through an investment consortium called the Artificial Intelligence Infras… [+2503 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Samsung gives enticing preorder deal to new XR headset users amidst M5 Vision Pro launch",
-      "description": "The latest reservation offer comes just one week before Samsung's virtual Unpacked event, where Project Moohan is expected to debut.",
-      "url": "https://www.zdnet.com/article/samsung-gives-enticing-preorder-deal-to-new-xr-headset-users-amidst-m5-vision-pro-launch/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/688449dd0c68acc3b0a3f0bc1ec782391005ade6/2025/03/03/286abb41-6604-4c25-b731-15641af4c355/dsc04225.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T13:32:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3366 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "ASML shrugs off China slump with faith in AI-fueled chip demand",
-      "description": "Beijing's self-reliance push and US export limits hit orders\nEurope's tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam's export restrictions …",
-      "url": "https://www.theregister.com/2025/10/15/asml_q3_2025/",
-      "urlToImage": "https://regmedia.co.uk/2023/04/19/shutterstock_asmllogo.jpg",
-      "publishedAt": "2025-10-15T13:22:27Z",
-      "content": "Europe's tech darling ASML has warned Chinese demand for its chipmaking kit will plummet next year, as Beijing doubles down on home-grown alternatives in response to Uncle Sam's export restrictions a… [+3291 chars]"
     }
   ]
 }
