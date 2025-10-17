@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-17T05:37:40.046Z",
+  "fetchedAt": "2025-10-17T06:13:56.114Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Chris Bayer",
+      "title": "3 common thermostat mistakes may be costing you hundreds - here's what to avoid",
+      "description": "Where you place your thermostat greatly affects its accuracy and your energy bill. These small adjustments can help it operate at its best.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/3-common-thermostat-mistakes-may-be-costing-you-hundreds-heres-what-to-avoid/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ca2eed2d3bbeb7ba6e6afed4d884c74530e662a5/2024/09/11/3e696f16-21b1-4102-a6df-978909874aa0/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T06:00:41Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Avoid direct sunlight to prevent overworking your home's air conditioning system.</li><li>Draft… [+4643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's Inside India newsletter: UPI’s global push: Exporting indigenous tech, and furthering economic strategy",
+      "description": "The deeper you look at UPI transaction numbers, its international rollout is beginning to appear less like a tech story and more of an economic strategy.",
+      "url": "https://www.cnbc.com/2025/10/16/cnbcs-inside-india-newsletter-upis-global-push-seems-an-economic-strategy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106797168-1605506742034-GettyImages-1213174164.jpg?v=1626425182&w=1920&h=1080",
+      "publishedAt": "2025-10-16T05:57:15Z",
+      "content": "Paytm, PhonePe, Google Pay (Gpay) and Bhim UPI QR Codes (Standee) are Kept outside for Cashless payments at a medical store in Gurugram on the outskirts of New Delhi, India on 16 May 2020.\r\nThis repo… [+8706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "TSMC hits yet another record as profit surges 39%, beating estimates on AI chip demand surge",
+      "description": "Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit, hitting a fresh record despite missing estimates.",
+      "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108131999-17447197412025-04-15t055242z_53170504_rc25ydapqicb_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
+      "publishedAt": "2025-10-16T05:43:27Z",
+      "content": "Taiwan Semiconductor Manufacturing Company on Thursday reported a 39.1% increase in third-quarter profit from last year, hitting a fresh record as demand for artificial intelligence chips stayed stro… [+948 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-15T08:30:33Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6333 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Dow Jones Newswires Staff",
-      "title": "Global Markets Up After Powell Signals New Rate Cuts",
-      "description": "Stock futures for the S 500 rose early following a volatile previous session marked by mixed rhetoric from the U.S. and China over trade.",
-      "url": "https://www.wsj.com/finance/global-markets-up-after-powell-signals-new-rate-cuts-501472b8",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vFq6aaxTWyOStav5kKW0Xw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/96d6017d2c1da1e6f112ad71deda873e",
-      "publishedAt": "2025-10-15T08:25:00Z",
-      "content": "Federal Reserve Chair Jerome Powell signaled that an interest rate cut is coming at its meeting later this month. - Chip Somodevilla/Getty Images\r\nGlobal stock markets and U.S. stock futures rose ear… [+3189 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "UK government's £45B AI savings pitch built on broad-brush guesswork, MPs told",
-      "description": "Think tank cautions that without job cuts or capital savings, the math doesn't add up UK government's plans to save £45 billion through the application of AI in the public sector lack clarity and are based on broad-brush assumptions, Members of Parliament hav…",
-      "url": "https://www.theregister.com/2025/10/15/uk_gov_ai_savings/",
-      "urlToImage": "https://regmedia.co.uk/2019/01/28/shutterstock_parliament.jpg",
-      "publishedAt": "2025-10-15T08:15:05Z",
-      "content": "UK government's plans to save £45 billion through the application of AI in the public sector lack clarity and are based on broad-brush assumptions, Members of Parliament have heard.\r\nSpeaking to the … [+2453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Mark Pesce",
-      "title": "AI is the flying car of the mind: An irresistible idea nobody knows how to land or manage",
-      "description": "And which will crash, repeatedly, until users learn how to handle it safely Column  Steve Jobs probably didn't remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a \"bicycle for the mind.\" Jobs' point …",
-      "url": "https://www.theregister.com/2025/10/15/ai_vs_flying_cars/",
-      "urlToImage": "https://regmedia.co.uk/2021/04/15/shutterstock_car.jpg",
-      "publishedAt": "2025-10-15T07:30:12Z",
-      "content": "Column Steve Jobs probably didn't remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a \"bicycle for the mind.\" Jobs' point was that both too… [+2954 chars]"
     }
   ]
 }
