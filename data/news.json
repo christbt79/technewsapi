@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-17T16:42:58.460Z",
+  "fetchedAt": "2025-10-17T17:07:38.337Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Snap's latest Specs AI updates prove that it's taking smart glasses seriously (but in a different way)",
+      "description": "Building fun Lenses just got easier, and they'll be coming to Specs when they launch next year.",
+      "url": "https://www.zdnet.com/article/snaps-latest-specs-ai-updates-prove-that-its-taking-smart-glasses-seriously-but-in-a-different-way/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8dba153e12193fd343e7ed5157ee390eb5f0aee0/2024/10/23/b8f83dc8-93eb-4be1-b09b-7b47eb6710f8/img-2522-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T17:00:34Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Snap unveiled updates to Lens Studio. </li><li>Now it is easier to build engaging Lenses (AR… [+4143 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide",
+      "description": "Niantic is giving its cute AR cartoon companions a voice that will let them guide you around in the real world and point out interesting facts. The feature is being demo’d first in Snap Spectacles.",
+      "url": "https://www.wired.com/story/niantic-peridot-augmented-reality-snap-spectacles/",
+      "urlToImage": "https://media.wired.com/photos/68f02d3e2611849cab159a7f/191:100/w_1280,c_limit/PeridotBeyond_Multiplayer_square_noLogos.jpg",
+      "publishedAt": "2025-10-16T17:00:00Z",
+      "content": "Imagine youre walking your dog. It interacts with the world around yousniffing some things, relieving itself on others. You walk down the Embarcadero in San Francisco on a bright sunny day, and you s… [+1666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Feeling lonely? Microsoft Copilot can now listen to your every word, watch your screen",
+      "description": "We've seen this before and it was called Cortana or Clippy\nAs if pulling support for Windows 10 was not punishment enough for long-suffering customers, Microsoft has decided to shove Copilot down everyone's throats with a new voice activation feature and even…",
+      "url": "https://www.theregister.com/2025/10/16/microsoft_copilot_updates/",
+      "urlToImage": "https://regmedia.co.uk/2024/03/21/copilot_shutterstock.jpg",
+      "publishedAt": "2025-10-16T16:50:56Z",
+      "content": "As if pulling support for Windows 10 was not punishment enough for long-suffering customers, Microsoft has decided to shove Copilot down everyone's throats with a new voice activation feature and eve… [+6224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zhiye Liu",
+      "title": "Multiple generations of Intel's modern chips see price hikes up to 20% overseas — foreign markets are feeling the pinch on 12th, 13th, and 14th-gen chips",
+      "description": "International reports indicate that Intel's 12th, 13th, and 14th Generation processors are selling for up to 30% more in markets like Korea and Japan.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/multiple-generations-of-intels-modern-chips-see-price-hikes-up-to-20-percent-overseas-foreign-markets-are-feeling-the-pinch-on-12th-13th-and-14th-gen-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ByqWcq4kJkQ2cNULpG2J6N-2560-80.jpg",
+      "publishedAt": "2025-10-16T16:46:16Z",
+      "content": "Recent reports indicated that Intel is purportedly increasing the prices of its 13th Generation Raptor Lake and 14th Generation Raptor Lake Refresh processors by as much as 10%. While this adjustment… [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Salesforce's Benioff warns of AI 'false prophets' while promising true profits by 2030",
+      "description": "CRM messiah preaches data discipline while rivals chase LLM miracles\nSalesforce CEO Marc Benioff has warned investors to beware \"false prophets\" peddling AI salvation, as the CRM giant bets on its \"agentic enterprise\" vision to drive annual revenue past $60 b…",
+      "url": "https://www.theregister.com/2025/10/16/salesforce_benioff_false_prophets/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/16/prophet.jpg",
+      "publishedAt": "2025-10-16T16:46:08Z",
+      "content": "Salesforce CEO Marc Benioff has warned investors to beware \"false prophets\" peddling AI salvation, as the CRM giant bets on its \"agentic enterprise\" vision to drive annual revenue past $60 billion by… [+3924 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -433,19 +498,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -455,6 +507,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2201260651.jpg?w=1024",
       "publishedAt": "2025-10-15T16:02:59Z",
       "content": "AI hyperscaler startup Nscale has signed a sizable deal with Microsoft to bring Nvidia AI hardware to multiple data centers.\r\nThe AI cloud provider announced that it signed a deal with Microsoft to b… [+2268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Google's Veo 3.1 can turn separate images into a single video",
-      "description": "Surrealist visuals, scene extensions, fill-in-the-blank features - here's what the new Veo can do.",
-      "url": "https://www.zdnet.com/article/googles-veo-3-1-can-turn-separate-images-into-a-single-video/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/21c40e997391c86686310412af721d9a4293553a/2025/10/15/dec85513-02a7-40a6-a06a-6483a5b0b581/screenshot-2025-10-15-at-11-59-25am.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T16:01:12Z",
-      "content": "Screenshot by Radhika Rajkumar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Veo 3.1 video model has landed.</li><li>It can blend individua… [+4316 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Google releases Veo 3.1, adds it to Flow video editor",
-      "description": "Google launched its new video model Veo 3.1 with improved audio output, granular editing controls, and better output for image to video. It said that Veo 3.1 builds on May’s Veo 3 release and generates more realistic clips and adheres to prompts better. The m…",
-      "url": "https://techcrunch.com/2025/10/15/google-releases-veo-3-1-adds-it-to-flow-video-editor/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-15-at-8.03.20PM.jpg?resize=1200,578",
-      "publishedAt": "2025-10-15T16:00:00Z",
-      "content": "Google launched its new video model Veo 3.1 with improved audio output, granular editing controls, and better output for image to video. It said that Veo 3.1 builds on May’s Veo 3 release and generat… [+776 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Zack Whittaker",
-      "title": "Cyber giant F5 Networks says government hackers had 'long-term' access to its systems, stole code and customer data | TechCrunch",
-      "description": "The company, which provides cybersecurity defenses to most of the Fortune 500, said the DOJ allowed it to delay notifying the public on national security grounds.",
-      "url": "https://techcrunch.com/2025/10/15/cyber-giant-f5-networks-says-government-hackers-had-long-term-access-to-its-systems-stole-code-and-customer-data/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/f5-networks-breach-2193774538.jpg?resize=1200,800",
-      "publishedAt": "2025-10-15T15:53:03Z",
-      "content": "Cybersecurity firm F5 Networks says government-backed hackers had long-term, persistent access to its network, which allowed them to steal the company’s source code and customer information.\r\nIn a fi… [+2601 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "'Highly sophisticated' government goons hacked F5, stole source code and undisclosed bug details",
-      "description": "And they swiped a limited amount of customers' config data\nSecurity shop F5 today said \"highly sophisticated nation-state\" hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belongin…",
-      "url": "https://www.theregister.com/2025/10/15/highly_sophisticated_government_hackers_breached/",
-      "urlToImage": "https://regmedia.co.uk/2021/03/11/shutterstock_f5.jpg",
-      "publishedAt": "2025-10-15T15:50:53Z",
-      "content": "Security shop F5 today said \"highly sophisticated nation-state\" hackers broke into its network and stole BIG-IP source code, undisclosed vulnerability details, and customer configuration data belongi… [+2988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nuclear stocks surge after U.S. Army launches program to deploy small reactors",
-      "description": "AI power demand and Trump's executive orders have fuelled a wave of market enthusiasm about nuclear power.",
-      "url": "https://www.cnbc.com/2025/10/15/army-nuclear-reactor-trump-oklo-nuscale-nano-centrus.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212073-1760473621104-gettyimages-2241056175-mms27665_q9v90h3l.jpeg?v=1760473689&w=1920&h=1080",
-      "publishedAt": "2025-10-15T15:36:12Z",
-      "content": "Nuclear stocks rallied Wednesday after the U.S. Army launched a program to deploy small reactors.\r\nShares of NuScale, a small reactor developer, soared 17%. Oklo and Nano Nuclear were up nearly 7% an… [+1066 chars]"
     }
   ]
 }
