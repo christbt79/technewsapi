@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-17T10:39:40.558Z",
+  "fetchedAt": "2025-10-17T11:07:48.754Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-okafor",
+      "title": "How tiny Mubadala-backed AAF is winning VC deals in some of the hottest startups | TechCrunch",
+      "description": "In less than a decade AAF has backed startups with exits totaling $2 billion, it says and is doing so through an unusual VC model.",
+      "url": "https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2336.jpeg?w=1170",
+      "publishedAt": "2025-10-16T11:05:56Z",
+      "content": "Its been almost a decade since Omar Darwazah and Kyle Hendrick launched AAF Management and its first fund of $25 million in 2017. \r\nRather than racing to dramatically increase their assets under mana… [+4941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Alibaba says its AI spending in e-commerce is already breaking even",
+      "description": "The Chinese tech giant is spending tens of billions of dollars on AI despite concerns that companies are spending too much on the tech with limited results.",
+      "url": "https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212845-1760609030954-IMG_0417_1.jpg?v=1760609150&w=1920&h=1080",
+      "publishedAt": "2025-10-16T11:01:32Z",
+      "content": "SHANGHAI Chinese tech giant Alibaba is already recouping its investment on artificial intelligence in the company's e-commerce business, vice president Kaifu Zhang told reporters on Thursday.\r\nThe Ch… [+2003 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "Proton Mail Review (2025): The Email Service You Didn’t Know You Needed",
+      "description": "Proton Mail gives you encrypted email, but more importantly, it puts you in the driver’s seat of your inbox.",
+      "url": "https://www.wired.com/review/proton-mail/",
+      "urlToImage": "https://media.wired.com/photos/68eff0fa1cba2fbcf693a46d/191:100/w_1280,c_limit/proton-mail-app-Credit-Jacob-Roach.JPG",
+      "publishedAt": "2025-10-16T11:00:00Z",
+      "content": "Further, Proton automatically identifies these mailing lists as newsletters and puts them in their own view. There, you can see how many messages theyve sent, move addresses to different folders, and… [+3138 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft wants you to talk to your PC and let AI control it",
+      "description": "As Microsoft bids farewell to Windows 10 and gets ready to mark the 40-year milestone of its operating system, it’s looking forward to what’s next for Windows. Microsoft might not be ready to announce Windows 12 just yet, but it clearly wants to turn every Wi…",
+      "url": "https://www.theverge.com/news/799768/microsoft-windows-ai-copilot-voice-vision-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Meet-the-Computer-You-Can-Talk-To.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
+      "publishedAt": "2025-10-16T10:58:08Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is rewriting Windows to turn computers into AI PCs that you talk to.\r\nMicrosoft is rewriting Windows to turn computers into AI PCs that you talk to.\r\nb… [+6654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Liam Proven",
+      "title": "Firefox 144 brings fixes, features, and farewells for 32-bit Linux die-hards",
+      "description": "Mozilla hardens its browser and toys with AI search while closing the door on legacy systems New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here – with some bad news for users of older kit.…",
+      "url": "https://www.theregister.com/2025/10/16/firefox_and_tbird_144/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/15/ffox-144-mac.jpg",
+      "publishedAt": "2025-10-16T10:41:25Z",
+      "content": "New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here with some bad news for users of older kit.\r\nFirefox 144 arrived yesterday, closely followed by its cousin, t… [+4254 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202710-17586330342025-09-23t121114z_1091793905_rc28xgajfs5b_rtrmadp_0_nvidia-openai-finance.jpeg?v=1758633052&w=1920&h=1080",
       "publishedAt": "2025-10-15T12:00:01Z",
       "content": "Many predict that the artificial intelligence boom will dramatically change how people live and work, and the scale and pace of recent AI deals seems to reflect this. At the center are a handful of c… [+2540 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Why Windows 11 requires a TPM - and how you can get around it",
-      "description": "Windows 11 officially requires a Trusted Platform Module. Here's why and what to do if your old PC doesn't have one.",
-      "url": "https://www.zdnet.com/article/why-windows-11-requires-a-tpm-and-how-you-can-get-around-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c7790aa198f2ab301e13fef339956df7eb0f90f8/2025/10/15/d2578327-42cf-4926-b02a-8b37cfbf6712/gettyimages-79999377.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T11:55:00Z",
-      "content": "Fuse/Corbis/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\n When Microsoft introduced Windows 11 in 2021, its new, stringent hardware compatibility test included checking f… [+6168 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Everyone wants a fancy phone – even the folk buying them second-hand",
-      "description": "IDC and Counterpoint say premium kit is driving sales in both new and used markets\nPremium devices are what smartphone buyers want right now, and it seems that applies equally to the latest devices and second-hand models destined for emerging markets.…<!--#in…",
-      "url": "https://www.theregister.com/2025/10/15/idc_counterpoint_smartphone_sales/",
-      "urlToImage": "https://regmedia.co.uk/2024/09/18/shutterstock_secondhandiphones.jpg",
-      "publishedAt": "2025-10-15T11:52:23Z",
-      "content": "Premium devices are what smartphone buyers want right now, and it seems that applies equally to the latest devices and second-hand models destined for emerging markets.\r\nThe latest data on global sma… [+3630 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Ready to ditch your Windows PC? I highly recommend this mini PC that's optimized for Linux",
-      "description": "The Kubuntu Focus NX Gen 3 ships with one of my favorite Linux distributions preinstalled, and takes just minutes to set up.",
-      "url": "https://www.zdnet.com/article/ready-to-ditch-your-windows-pc-i-highly-recommend-this-mini-pc-thats-optimized-for-linux/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8fd6b42d25332cfb0fa1f5412a58a769c138ef56/2025/10/07/256fecb2-bf39-4462-ac7d-66787e91af68/focus3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T11:09:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAny chance I can get to review a Linux-powered PC, I'm thrilled to do so. It's not only because I get to experience how a third party approaches… [+5140 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Aarian Marshall",
-      "title": "A New Road Safety Group Targets Self-Driving Cars",
-      "description": "A Tesla Takedown alum has launched a campaign for stricter regulation of autonomous vehicles in the US.",
-      "url": "https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/",
-      "urlToImage": "https://media.wired.com/photos/68ed64b64991e2f0569dd36d/191:100/w_1280,c_limit/gear-tesla-robotaxi-2220873143.jpg",
-      "publishedAt": "2025-10-15T11:00:00Z",
-      "content": "A new advocacy group is pushing state lawmakers to pass more stringent autonomous vehicle regulations. The group, Safe Autonomous Vehicles Everywhere in the United States (SAVE-US), says its goal is … [+3052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I tested this Windows 11 tablet built for the medical industry, and it made my Android look boring",
-      "description": "DT Research's 323MD rugged tablet has an anti-microbial keyboard and IP65 water and dust resistance.",
-      "url": "https://www.zdnet.com/article/i-tested-this-windows-11-tablet-built-for-the-medical-industry-and-it-made-my-android-look-boring/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T10:46:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6394 chars]"
     }
   ]
 }
