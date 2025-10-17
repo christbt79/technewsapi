@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-17T07:34:12.282Z",
+  "fetchedAt": "2025-10-17T08:13:51.210Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Larry Ellison's latest craze: Vectorizing all the customers",
+      "description": "Oracle slurps your data whether you like it or not... for the good and bad of the planet\nComment If you're an Oracle customer – throw a pebble into a crowd of 100 CIOs and you're bound to hit one – then Big Red has vectorized you. Or, more accurately, it has …",
+      "url": "https://www.theregister.com/2025/10/16/oracle_vectorizes_its_customers/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/15/larry_ellison.jpg",
+      "publishedAt": "2025-10-16T08:13:11Z",
+      "content": "Comment If you're an Oracle customer throw a pebble into a crowd of 100 CIOs and you're bound to hit one then Big Red has vectorized you. Or, more accurately, it has vectorized your data, according t… [+4945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Eirik Salmi, system analyst, Passwork",
+      "title": "Machine learning meets malware: how AI-powered ransomware could destroy your business",
+      "description": "How to avoid your business being felled by an AI-powered ransomware attack that costs less than a laptop. Passwork  KNP Logistics Group, a British transport company from Northamptonshire that’s been around longer than the mass-produced lightbulb, collapsed af…",
+      "url": "https://www.theregister.com/2025/10/16/machine_learning_meets_malware/",
+      "urlToImage": "https://regmedia.co.uk/2024/09/20/shutterstock_ai_future.jpg",
+      "publishedAt": "2025-10-16T08:00:08Z",
+      "content": "Passwork KNP Logistics Group, a British transport company from Northamptonshire thats been around longer than the mass-produced lightbulb, collapsed after a devastating security breach that left more… [+10619 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/oNcdD7dwgfsCRPXZceBYq9-1920-80.png",
       "publishedAt": "2025-10-15T09:37:04Z",
       "content": "There are many exotic forms of chip cooling in the wild, such as immersion cooling and liquid nitrogen cooling. But one cooling paradigm you might not have heard of is spray cooling, used by some sup… [+3596 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matt Burgess",
-      "title": "When Face Recognition Doesn’t Know Your Face Is a Face",
-      "description": "An estimated 100 million people live with facial differences. As face recognition tech becomes widespread, some say they’re getting blocked from accessing essential systems and services.",
-      "url": "https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/",
-      "urlToImage": "https://media.wired.com/photos/68d2b8a6ec02cfea46385bf5/191:100/w_1280,c_limit/FacialRecognition_Illo.png",
-      "publishedAt": "2025-10-15T09:30:00Z",
-      "content": "If you dont include people with disabilities or people with facial differences in the development of these processes, no ones going to think of these issues, says Kathleen Bogart, a psychology profes… [+2671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Adata chairman says AI datacenters are gobbling up hard drives, SSDs, and DRAM alike — insatiable upstream demand could soon lead to consumer shortages",
-      "description": "Adata chairman says AI datacenters are gobbling up all memory and storage.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/adata-chairman-says-ai-datacenters-are-gobbling-up-hard-drives-ssds-and-dram-alike-insatiable-upstream-demand-could-soon-lead-to-consumer-shortages",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8VXqwFn42DWwQXki8qMowU-2000-80.jpg",
-      "publishedAt": "2025-10-15T09:24:18Z",
-      "content": "AI datacenters are eating up the world's supply standard DRAM memory, NAND flash for SSDs, and hard drives. Adata chairman Simon Chen just made it extremely clear that in his three-decade tenure in t… [+2793 chars]"
     }
   ]
 }
