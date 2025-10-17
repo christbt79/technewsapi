@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T20:37:07.304Z",
+  "fetchedAt": "2025-10-17T21:07:46.848Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Decomposed dinosaurs make Texas a top destination for AI bit barns",
+      "description": "Datacenter hopefuls looking to cash in on AI craze are setting up shop in Lone Star State in search of cheap power Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.…",
+      "url": "https://www.theregister.com/2025/10/16/texas_ai_bitbarns/",
+      "urlToImage": "https://regmedia.co.uk/2016/05/12/lone_cowboy_photo_via_shutterstock.jpg",
+      "publishedAt": "2025-10-16T20:45:28Z",
+      "content": "Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.\r\nThe Lone Star State is quickly emerging as a datacenter mecca, thanks in part to an abundant supply of … [+2740 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -667,19 +680,6 @@
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tom's Hardware UK"
       },
       "author": "Andrew E. Freedman",
@@ -689,6 +689,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2201631023.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-15T18:30:36Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus: Bari Weiss and the big bad glass cliff. \r\nPlus: Bari Weiss and the big bad glass cliff. \r\nby\r\nTina NguyenClose\r\nTina Nguyen\r\nSenior Reporter, Washington\r\nP… [+17788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Big banks like JPMorgan Chase and Goldman Sachs are already using AI to hire fewer people",
-      "description": "Even during a blockbuster year for Wall Street as trading and investment banking spins off billions of dollars in revenue, the banks are hiring fewer people.",
-      "url": "https://www.cnbc.com/2025/10/15/jpmorgan-chase-goldman-sachs-ai-hiring.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108052476-1729790003683-gettyimages-2179863469-IMF_WORLD_BANK.jpeg?v=1760547228&w=1920&h=1080",
-      "publishedAt": "2025-10-15T18:26:27Z",
-      "content": "Jamie Dimon, chief executive officer of JPMorgan Chase &amp; Co., at the Institute of International Finance (IIF) during the annual meetings of the IMF and World Bank in Washington, DC, US, on Thursd… [+3906 chars]"
     }
   ]
 }
