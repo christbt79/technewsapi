@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-17T04:40:16.331Z",
+  "fetchedAt": "2025-10-17T05:09:09.764Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Thirsty AI mega projects raise alarm in some of Europe’s driest regions",
+      "description": "Europe is planning to at least triple its data center capacity as part of a push to become a world-class AI hub.",
+      "url": "https://www.cnbc.com/2025/10/16/water-ai-mega-projects-raise-alarm-in-some-of-europes-driest-regions.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211172-1760357398468-gettyimages-2231036022-AFP_72C32X7.jpeg?v=1760357501&w=1920&h=1080",
+      "publishedAt": "2025-10-16T05:08:26Z",
+      "content": "Liquid cooled servers in an installation at the Global Switch Docklands data centre campus in London, UK, on Monday, June 16, 2025.\r\nEurope's ambitious artificial intelligence strategy is at risk of … [+8762 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/04/15/shutterstock_car.jpg",
       "publishedAt": "2025-10-15T07:30:12Z",
       "content": "Column Steve Jobs probably didn't remember how many times he skinned his knees learning to ride a bike before describing a personal computer as a \"bicycle for the mind.\" Jobs' point was that both too… [+2954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: A Trump post drowns out positive developments for markets",
-      "description": "At its lowest, the S&P 500 fell as much as 1.5%, but traded positive for most of the day. Then Trump said he was considering \"retribution\" against China.",
-      "url": "https://www.cnbc.com/2025/10/15/cnbc-daily-open-a-trump-post-drowns-out-positive-developments-for-markets.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211991-1760467725949-gettyimages-2241027595-_d1_4662_91eiwgrf.jpeg?v=1760467909&w=1920&h=1080",
-      "publishedAt": "2025-10-15T06:59:51Z",
-      "content": "U.S. stocks had a rocky day of trading, swinging from highs to lows like the quality of Game of Thrones across its eight seasons.\r\nAt its lowest during the session, the S&amp;P 500 fell as much as 1.… [+3383 chars]"
     }
   ]
 }
