@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-17T23:31:17.745Z",
+  "fetchedAt": "2025-10-18T00:39:53.344Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "I recommend this older Windows 11 laptop over some newer models - here's why",
+      "description": "Asus' Zenbook 14 is one of my favorite laptops from 2024, thanks to its OLED screen and high degree of customization.",
+      "url": "https://www.zdnet.com/article/i-recommend-this-older-windows-11-laptop-over-some-newer-models-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5d2f7a3d97fb2cb46a99dc2b2bb21562cf5a837e/2024/04/16/d2d557b8-4a50-4d2d-b24d-dcf4d4b64232/asus-zenbook-14-main.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T00:00:39Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAmong the plethora of work laptops, the 2024 Asus Zenbook 14 stands tall. It performs incredibly well, has a comfortable keyboard, a long-lastin… [+5284 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Anthropic brings mad Skills to Claude",
+      "description": "Teaching an old bot new tricks\nPaying Anthropic customers can now teach their Claude new tricks, which the company calls Skills.…",
+      "url": "https://www.theregister.com/2025/10/16/anthropic_mad_skills_claude/",
+      "urlToImage": "https://regmedia.co.uk/2025/04/25/shutterstock_robot_teachers.jpg",
+      "publishedAt": "2025-10-16T23:55:06Z",
+      "content": "Paying Anthropic customers can now teach their Claude new tricks, which the company calls Skills.\r\nDespite much talk about superintelligence, AI models can be clueless when it comes to interacting wi… [+3419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set for lower open as banking and trade fears take hold on Wall Street",
+      "description": "Shares of regional banks and investment bank Jefferies tumbled on Thursday as fears mounted around some bad loans lurking in the U.S.",
+      "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080",
+      "publishedAt": "2025-10-16T23:48:46Z",
+      "content": "Asia-Pacific markets were set for a weaker open Friday, tracking losses on Wall Street as fears over the banking sector and trade tensions intensified.\r\nShares of regional banks and investment bank J… [+1197 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -745,19 +784,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -767,6 +793,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-lifestyle-podcast-251015.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-15T20:50:24Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nApples latest gadgets launch on October 22nd with a faster processor and other minor upgrades.\r\nApples latest gadgets launch on October 22nd with a faster proces… [+4777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Andrew Prokop",
-      "title": "Did Trump make the Gaza ceasefire happen?",
-      "description": "The ceasefire between Israel and Hamas is still new and fragile, but the arguments over who should get credit for it — or who should be blamed for it taking so long to achieve — are already heated. Was recent pressure from President Donald Trump on Israeli Pr…",
-      "url": "https://www.vox.com/politics/464771/israel-gaza-ceasefire-trump-netanyahu-hamas-hostages",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2240432293.jpg?quality=90&strip=all&crop=0%2C15.149112391456%2C100%2C69.701775217088&w=1200",
-      "publishedAt": "2025-10-15T19:58:58Z",
-      "content": "President Donald Trump speaks to Israeli Prime Minister Benjamin Netanyahu at Ben Gurion International Airport on October 13, 2025, in Tel Aviv, Israel.﻿ | Chip Somodevilla/Getty Images\r\n\n\nThe ceasef… [+9059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "My favorite iOS 26 productivity feature is highly useful but hidden - here's how to find it",
-      "description": "This Visual Intelligence feature makes adding events so much easier.",
-      "url": "https://www.zdnet.com/article/my-favorite-ios-26-productivity-feature-is-highly-useful-but-hidden-heres-how-to-find-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8ec89d15322f025d425f4626dc58b0366928a240/2025/09/19/6d6ecc93-c339-4b4c-b752-b3983ba1bb41/dsc07765.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-15T19:50:00Z",
-      "content": "Prakhar Khanna/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's Add to Calendar lets you create events with one tap from screenshots.</li><li>It do… [+4261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CEOs of Wells Fargo and Pfizer caution the U.S. could lose its edge to China without innovation",
-      "description": "Speaking at CNBC's Invest in America Forum, the CEOs said the U.S. still leads in many sectors, but inconsistent policy and underinvestment is ceding ground.",
-      "url": "https://www.cnbc.com/2025/10/15/wells-fargo-pfizer-ceos-china-innovation.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212614-1760554936731-Scharf_Bourla.jpg?v=1760555118&w=1920&h=1080",
-      "publishedAt": "2025-10-15T19:31:30Z",
-      "content": "Wells Fargo CEO Charlie Scharf and Pfizer CEO Albert Bourla sounded the alarm Wednesday over the potential for the the U.S. to lose its competitive edge to China, but said artificial intelligence cou… [+2926 chars]"
     }
   ]
 }
