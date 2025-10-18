@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-18T18:41:02.076Z",
+  "fetchedAt": "2025-10-18T19:03:41.096Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Amazon spills plan to nuke Washington...with X-Energy mini-reactors",
+      "description": "Now they just need to get regulatory approval Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan's power woes.…",
+      "url": "https://www.theregister.com/2025/10/17/amazon_nuke_washington/",
+      "urlToImage": "https://regmedia.co.uk/2023/09/29/shutterstock_nuclear.jpg",
+      "publishedAt": "2025-10-17T18:58:19Z",
+      "content": "Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan's power woes.\r\nLast fall, the house of Bezos announced a $5… [+3393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI tools are entering the doctor's office and clinicians need to be prepared",
+      "description": "More health-care AI is focused on administrative and clinical uses, solving issues that doctors, nurses and administrative staff are having.",
+      "url": "https://www.cnbc.com/2025/10/17/ai-tools-doctors-office-clinicians-medical-jobs-training.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107398794-1712682777972-gettyimages-1489956013-img_3130sentai.jpeg?v=1760726432&w=1920&h=1080",
+      "publishedAt": "2025-10-17T18:52:53Z",
+      "content": "The impact of artificial intelligence is being felt across the health-care industry, from tools that help analyze medical images, aid in drug discovery and complete cancer screenings.\r\nBut increasing… [+4173 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FilteringPins-NewsroomHeader.jpg?resize=1200,675",
       "publishedAt": "2025-10-16T15:15:50Z",
       "content": "Following backlash over an increase in “AI slop” taking over users’ feeds and making it less useful, Pinterest on Thursday added new tools that let users limit how much AI-generated content they see … [+1723 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Oracle goes all-in on AI, customers still figuring out how they'll use it",
-      "description": "It's all agents and LLMs in Vegas, and even legacy users can partake As Oracle pounds the market with AI announcements across cloud infrastructure, applications, and data analytics, experts have warned that users' path to adoption remains uncertain.…",
-      "url": "https://www.theregister.com/2025/10/16/oracle_ai/",
-      "urlToImage": "https://regmedia.co.uk/2016/08/07/oracle_logo_360b_shutterstock.jpg",
-      "publishedAt": "2025-10-16T15:11:05Z",
-      "content": "As Oracle pounds the market with AI announcements across cloud infrastructure, applications, and data analytics, experts have warned that users' path to adoption remains uncertain.\r\nFounded in 1977, … [+5972 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "I put my AirPods away within minutes of listening to these Bose earbuds - here's what convinced me",
-      "description": "The Bose QuietComfort Ultra 2 deliver unmatched comfort and audio quality - but not without a few caveats.",
-      "url": "https://www.zdnet.com/article/i-put-my-airpods-away-within-minutes-of-listening-to-these-bose-earbuds-heres-what-convinced-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e68aeba873e141728252f6d25fb3ef3e5596b4ae/2025/10/14/f6e012eb-f612-48a6-b285-1b33bac8af11/bose-quietcomfort-ultra-earbuds-2-233237.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T14:53:00Z",
-      "content": "On paper, the Bose QuietComfort Ultra Earbuds (2nd Gen) tech specs may seem painfully incremental, but there's more to them than meets the eye. It's impressive how seemingly innocuous updates from on… [+9124 chars]"
     }
   ]
 }
