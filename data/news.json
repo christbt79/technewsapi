@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T04:38:13.648Z",
+  "fetchedAt": "2025-10-18T05:08:43.823Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Wall Street jolted by tumble in two regional banks: Markets wrap",
+      "description": "Following an earlier advance driven by another solid outlook for artificial-intelligence demand, the S&P 500 fell about 1%",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-15/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/dzr4fc/article70174255.ece/alternates/LANDSCAPE_1200/2025-10-15T172415Z_1806324765_RC20BDA2PNFL_RTRMADP_3_USA-BANKS-PRIME.JPG",
+      "publishedAt": "2025-10-17T04:55:53Z",
+      "content": "Wall Streets rally sputtered as concerns about credit quality hit a pair of regional banks, underscoring the fragility of a $28 trillion bull market showing signs of exhaustion. Bonds and gold rose.\r… [+6945 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -810,19 +823,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -832,6 +832,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-15-at-4.52.06%E2%80%AFPM.png?quality=90&strip=all&crop=6.0433133732535%2C0%2C87.913373253493%2C100&w=1200",
       "publishedAt": "2025-10-15T21:46:38Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can fix lighting and add shadows in AI-generated videos made with Flow.\r\nYou can fix lighting and add shadows in AI-generated videos made with Flow.\r\nby\r\nEli… [+2340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Zack Beauchamp",
-      "title": "Peace in Gaza won’t last if Netanyahu stays in office",
-      "description": "If the current ceasefire in Gaza holds, it will mark the much-needed end to an indefensibly cruel war. But the longer-term picture, and whether yet another deadly conflagration can be prevented, is another matter. One factor — not the only one, but a big one …",
-      "url": "https://www.vox.com/politics/464774/gaza-ceasefire-october-netanyahu-peace-last",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2240432293_37e208.jpg?quality=90&strip=all&crop=0%2C1.5853655897172%2C100%2C69.701775217088&w=1200",
-      "publishedAt": "2025-10-15T21:04:58Z",
-      "content": "\" data-portal-copyright=\"Chip Somodevilla/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2240432293_37e208.jpg?quality=90&s… [+10921 chars]"
     }
   ]
 }
