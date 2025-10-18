@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-18T19:03:41.096Z",
+  "fetchedAt": "2025-10-18T19:31:34.134Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oracle stock drops 7% as some skeptics question lofty AI targets",
+      "description": "Oracle has become one of the biggest beneficiaries of the AI infrastructure boom, with its shares up 75% so far in 2025.",
+      "url": "https://www.cnbc.com/2025/10/17/oracle-stock-drops-7percent-as-companys-ai-conference-brings-out-skeptics.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211336-1760372227647-ClayMagouryrk-2.jpg?v=1760372374&w=1920&h=1080",
+      "publishedAt": "2025-10-17T19:24:51Z",
+      "content": "Oracle's extended rally, which has been driven by the company's increasingly central position in the artificial intelligence boom, hit pause on Friday, with the stock tumbling 7%, its worst day since… [+2846 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "Should AI do everything? OpenAI thinks so | TechCrunch",
+      "description": "Watch Equity hosts discuss how the line between innovation and responsibility is getting blurrier, plus what happens when pranks go from digital to physical.",
+      "url": "https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "publishedAt": "2025-10-17T19:12:17Z",
+      "content": "Silicon Valleys rule? Its not cool to be cautious. As OpenAI removes guardrails and VCs criticize companies like Anthropic for supporting AI safety regulations, its becoming clearer who the industry … [+854 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
       "publishedAt": "2025-10-16T15:21:03Z",
       "content": "Ke Yang, the Apple executive leading the iPhone-maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.  \r\nYangs departure marks the latest in a string of … [+926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zak Killian",
-      "title": "Two Nvidia DGX Spark systems combined with M3 Ultra Mac Studio to create blistering LLM system — EXO Labs demonstrates disaggregated AI inference and achieves a 2.8× benchmark boost",
-      "description": "Using its EXO software, the company was able to split an AI inference workload and run it on three systems simultaneously.",
-      "url": "https://www.tomshardware.com/software/two-nvidia-dgx-spark-systems-combined-with-m3-ultra-mac-studio-to-create-blistering-llm-system-exo-labs-demonstrates-disaggregated-ai-inference-and-achieves-a-2-8-benchmark-boost",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/D4nDcgkvEkH8ZnvdkuFwk6-2376-80.jpg",
-      "publishedAt": "2025-10-16T15:20:04Z",
-      "content": "EXO Labs' primary project is EXO, an open-source framework for running large language models (LLMs) efficiently across mixed hardware setups. Rather than treating inference as a task bound to a singl… [+3535 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Pinterest adds controls to let you limit the amount of ‘AI slop’ in your feed",
-      "description": "Pinterest is rolling out new controls that let users limit how much AI-generated content appears in their feeds. The company is also making its AI content labels more visible.",
-      "url": "https://techcrunch.com/2025/10/16/pinterest-adds-controls-to-let-you-limit-the-amount-of-ai-slop-in-your-feed/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FilteringPins-NewsroomHeader.jpg?resize=1200,675",
-      "publishedAt": "2025-10-16T15:15:50Z",
-      "content": "Following backlash over an increase in “AI slop” taking over users’ feeds and making it less useful, Pinterest on Thursday added new tools that let users limit how much AI-generated content they see … [+1723 chars]"
     }
   ]
 }
