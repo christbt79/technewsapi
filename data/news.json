@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-18T15:31:39.311Z",
+  "fetchedAt": "2025-10-18T16:09:23.525Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "Chamber of Commerce sues over Trump's $100K H-1B paywall",
+      "description": "US biz lobby claims president overstepped his authority with proclamation demanding hefty visa fee The US Chamber of Commerce (CoC) has filed a suit accusing President Trump of exceeding his authority by seeking to slap a $100,000 fee on H-1B visa application…",
+      "url": "https://www.theregister.com/2025/10/17/chambers_of_commerce_h1b/",
+      "urlToImage": "https://regmedia.co.uk/2020/12/16/trump.jpg",
+      "publishedAt": "2025-10-17T16:03:08Z",
+      "content": "The US Chamber of Commerce (CoC) has filed a suit accusing President Trump of exceeding his authority by seeking to slap a $100,000 fee on H-1B visa applications.\r\nH-1Bs are a favored tool of tech co… [+4091 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Cindy Zackney",
+      "title": "Together, we make TechCrunch Disrupt 2025 unforgettable — thank you to our sponsors",
+      "description": "TechCrunch Disrupt 2025 wouldn’t be what it is without the incredible companies that power the innovation behind the scenes.",
+      "url": "https://techcrunch.com/2025/10/17/together-we-make-disrupt-unforgettable-thank-you-to-our-sponsors/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_Disrupt_General_Article_No-Anniversary_Headers_1920x1080.png?resize=1200,675",
+      "publishedAt": "2025-10-17T16:00:00Z",
+      "content": "TechCrunch Disrupt 2025 wouldnt be what it is without the incredible companies that power the innovation behind the scenes. From headline partners to emerging collaborators, our sponsors help make Di… [+3457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Utilities grapple with a multibillion question: How much AI data center power demand is real",
+      "description": "The tech industry is shopping the same big projects around to multiple utilities as they look for the quickest access to power.",
+      "url": "https://www.cnbc.com/2025/10/17/ai-data-center-openai-gas-nuclear-renewable-utility.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108171443-1752495584443-gettyimages-2224347614-AFP_66NL98L.jpeg?v=1752495825&w=1920&h=1080",
+      "publishedAt": "2025-10-17T15:50:52Z",
+      "content": "Electricity companies across the U.S. are struggling to figure out how much demand will actually materialize from the artificial intelligence boom, as the stock market speculates that vast sums of mo… [+7222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "Waze vs. Google Maps: I compared two of the best navigation apps, and this one wins easily",
+      "description": "The Waze vs. Google Maps debate has raged for years - here's the verdict after testing both.",
+      "url": "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-best-navigation-apps-and-this-one-wins-easily/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b89a1963deef2eeb6ced7e91dbe01439b65c10e4/2025/03/21/b7937233-81f0-439d-a7d6-184209ed3b6c/google-maps-was-caught-with-10000-fake-business-listings-heres-how-to-avoid-them.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T15:39:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nA quick Google search will surface article after article claiming that Waze is far better than Google Maps. But is… [+2962 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "You can try Google's viral image editing tool right in Search now - here's how",
+      "description": "Google's AI image editor, Nano Banana, is coming to a new lineup of applications. I tried it out for myself, and it surprised me.",
+      "url": "https://www.zdnet.com/article/you-can-try-googles-viral-image-editing-tool-right-in-search-now-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e93184331d9cf75be17ec9799c5070dd447ed2e0/2025/10/17/58a1fe97-cf1e-4e97-9770-f7a2a62d6b89/gettyimages-1301737953.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T15:37:12Z",
+      "content": "Javier Zayas Photography/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google unveiled Nano Banana in Google Search and Notebook LM. </li><l… [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Anthropic targets gigantic $26 billion in revenue by the end of 2026 — eye-watering sum is more than double OpenAI's projected 2025 earnings",
+      "description": "Claude AI developer Anthropic has released its revenue projections for the next year, and they are ambitious. Off the back of what it claims is a plan to reach $9 billion in revenue by the end of 2025, it's now targeting as much as $26 billion by the end of 2…",
+      "url": "https://www.tomshardware.com/tech-industry/anthropic-targets-gigantic-usd26-billion-in-revenue-by-the-end-of-2026-eye-watering-sum-is-more-than-double-openais-projected-2025-earnings",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WhiRibvfpVDt4rHfTnTSQY-1920-80.jpg",
+      "publishedAt": "2025-10-17T15:35:40Z",
+      "content": "Claude AI developer, Anthropic, has released its revenue targets for the next couple of years, and they are nothing if not ambitious. Following an estimation of just $4 billion in 2025 in July, it's … [+6704 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_HUB_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-16T13:14:39Z",
       "content": "The internet has long been a source of information and support for transgender people. Now, trans rights and the internet itself are in a moment of crisis. What happens next?\r\nPeople who have documen… [+1045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "World's first truly free software phone? That's the FSF's new 'long game'",
-      "description": "Project LibrePhone wants to remove all proprietary code from mobile devices. Here's why.",
-      "url": "https://www.zdnet.com/article/worlds-first-truly-free-software-phone-thats-the-fsfs-new-long-game/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f467ec518877b9136e6f9679e2a45a720c72d475/2025/10/16/ea4ba892-c2bb-4b1e-9e29-98f3835a446e/gettyimages-1582657756.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:05:54Z",
-      "content": "klyaksun/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>No one has managed to make a fully free software smartphone.</li><li>Open-sour… [+4699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Tragic OceanGate Titan submersible’s $62 SanDisk memory card found undamaged at wreckage site — 12 stills and nine videos have been recovered, but none from the fateful implosion",
-      "description": "The specialist camera was rated to 6,000m, but the lens and some of its components were probably damaged by the implosion.",
-      "url": "https://www.tomshardware.com/pc-components/microsd-cards/tragic-oceangate-titan-submersibles-usd62-sandisk-memory-card-found-undamaged-at-wreckage-site-12-stills-and-nine-videos-have-been-recovered-but-none-from-the-fateful-implosion",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8VZrMNqAzoRmU66mPr78Hk-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:02:02Z",
-      "content": "Recovery teams working on the Titan submersible have found the vessel's specialist stills and video camera intact. Fascinatingly, while there was some damage to the camera’s housing and internal comp… [+3863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ready to talk to your PC? Here are all the upgrades coming to Copilot in Windows 11",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/ready-to-talk-to-your-pc-here-are-all-the-upgrades-coming-to-copilot-in-windows-11/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:37Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Microsoft debuts its next big high-stakes AI feature in Windows - can you trust it?",
-      "description": "The last time Microsoft rolled out a major AI feature with this level of access to your personal data, it ... didn't go well.",
-      "url": "https://www.zdnet.com/article/microsoft-debuts-its-next-big-high-stakes-ai-feature-in-windows-can-you-trust-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4600d3b3688cc95006310b94b4c815fad7276d5d/2025/10/15/6003643b-a4b0-4436-bd68-d9ecd1f236bb/gettyimages-2181724261.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:27Z",
-      "content": "Yuliya Taba/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 11 is adding agents that can take actions on your behalf.</li><li>T… [+5335 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Luke Larsen",
-      "title": "All Windows 11 PCs Will Get These Advanced Copilot AI Features",
-      "description": "All Windows 11 users will soon be able to talk to the Copilot AI assistant more easily via voice, and Copilot Vision can understand the context of your screen.",
-      "url": "https://www.wired.com/story/microsoft-is-rewriting-windows-11-around-ai/",
-      "urlToImage": "https://media.wired.com/photos/68f005c69879315923ced3b0/191:100/w_1280,c_limit/Windows%20Blog%20Hero%20Image_High%20Res.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft saved its most powerful AI tools for paying customers in the first phase of its AI evolution. Now, the company has announced a series of Copilot features coming to all Windows 11 PCs, inclu… [+1765 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
     }
   ]
 }
