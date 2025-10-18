@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T07:07:44.619Z",
+  "fetchedAt": "2025-10-18T07:31:29.217Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Owen Hughes",
+      "title": "AI boffins teach office supplies to predict your next move",
+      "description": "What the world's been waiting for: a stapler with wheels to help humans afflicted by RSI\nIt was only a matter of time. Having invaded the software world, AI has now fixed its sights on once-benign household objects and desk fodder.…",
+      "url": "https://www.theregister.com/2025/10/17/ai_boffins_teach_office_supplies/",
+      "urlToImage": "https://regmedia.co.uk/2015/06/16/data_scientist_image_via_shutterstock.jpg",
+      "publishedAt": "2025-10-17T07:15:11Z",
+      "content": "It was only a matter of time. Having invaded the software world, AI has now fixed its sights on once-benign household objects and desk fodder.\r\nResearchers at Carnegie Mellon University (CMU) in the … [+2703 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/105480821-1538407348425img_4235.jpg?v=1538407455&w=1920&h=1080",
       "publishedAt": "2025-10-15T21:54:20Z",
       "content": "Hewlett Packard Enterprise shares sank 7% in extended trading on Wednesday after the company issued disappointing guidance for its fiscal 2026.\r\nAt a meeting with analysts, HPE said its adjusted earn… [+1205 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Google’s AI video generator is getting better editing and more audio",
-      "description": "Google is making videos created with the AI filmmaking tool Flow even more realistic — and harder to identify as AI-generated at first glance. The company announced Wednesday that users can add in and change the shadows and lighting of their AI videos. The ex…",
-      "url": "https://www.theverge.com/news/800371/google-veo-3-1-flow-audio",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-15-at-4.52.06%E2%80%AFPM.png?quality=90&strip=all&crop=6.0433133732535%2C0%2C87.913373253493%2C100&w=1200",
-      "publishedAt": "2025-10-15T21:46:38Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can fix lighting and add shadows in AI-generated videos made with Flow.\r\nYou can fix lighting and add shadows in AI-generated videos made with Flow.\r\nby\r\nEli… [+2340 chars]"
     }
   ]
 }
