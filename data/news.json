@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-18T13:35:36.875Z",
+  "fetchedAt": "2025-10-18T14:07:21.696Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "This new cyberattack tricks you into hacking yourself. Here's how to spot it",
+      "description": "Traditional anti-phishing methods won't protect you.",
+      "url": "https://www.zdnet.com/article/this-new-cyberattack-tricks-you-into-hacking-yourself-heres-how-to-spot-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8f93cea7164362579a7b7b8032f494ad052f0cb4/2025/10/17/37d692b9-9544-40eb-bb07-219170b425fc/gettyimages-2197446069.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T14:01:00Z",
+      "content": "Shalitha Ranathunge/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The ClickFix social engineering tactic is rising in popularity.</li… [+5255 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Last flash sale before TechCrunch Disrupt 2025 doors open – save up to $624",
+      "description": "Today is your last chance to save! Register for TechCrunch Disrupt 2025 before 11:59 p.m. PT tonight and save up to $624 on your pass. This is the lowest rate available before Disrupt kicks off in San Francisco’s Moscone West on October 27-29. After today, pr…",
+      "url": "https://techcrunch.com/2025/10/17/last-flash-sale-before-techcrunch-disrupt-2025-doors-open-save-up-to-624/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_24Hours-16X9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-17T14:00:00Z",
+      "content": "Today is your last chance to save! Register for TechCrunch Disrupt 2025 before 11:59 p.m. PT tonight and save up to $624 on your pass. This is the lowest rate available before Disrupt kicks off in Sa… [+2129 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Ousted Luminar CEO Austin Russell wants to buy the company | TechCrunch",
+      "description": "Austin Russell was replaced in May following an ethics inquiry, but now he wants to use his new AI lab to buy Luminar.",
+      "url": "https://techcrunch.com/2025/10/17/ousted-luminar-ceo-austin-russell-wants-to-buy-the-company/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/austin_russell_luminar_ceo_cofounder.jpg?resize=1200,800",
+      "publishedAt": "2025-10-17T13:40:32Z",
+      "content": "Austin Russell, the billionaire founder of Luminar, has made a bid to acquire the lidar-maker five months after he was replaced as CEO following an ethics inquiry.\r\nThe takeover effort was disclosed … [+2446 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1122,19 +1161,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -1144,6 +1170,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212845-1760609030954-IMG_0417_1.jpg?v=1760609150&w=1920&h=1080",
       "publishedAt": "2025-10-16T11:01:32Z",
       "content": "SHANGHAI Chinese tech giant Alibaba is already recouping its investment on artificial intelligence in the company's e-commerce business, vice president Kaifu Zhang told reporters on Thursday.\r\nThe Ch… [+2003 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "Proton Mail Review (2025): The Email Service You Didn’t Know You Needed",
-      "description": "Proton Mail gives you encrypted email, but more importantly, it puts you in the driver’s seat of your inbox.",
-      "url": "https://www.wired.com/review/proton-mail/",
-      "urlToImage": "https://media.wired.com/photos/68eff0fa1cba2fbcf693a46d/191:100/w_1280,c_limit/proton-mail-app-Credit-Jacob-Roach.JPG",
-      "publishedAt": "2025-10-16T11:00:00Z",
-      "content": "Further, Proton automatically identifies these mailing lists as newsletters and puts them in their own view. There, you can see how many messages theyve sent, move addresses to different folders, and… [+3138 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft wants you to talk to your PC and let AI control it",
-      "description": "As Microsoft bids farewell to Windows 10 and gets ready to mark the 40-year milestone of its operating system, it’s looking forward to what’s next for Windows. Microsoft might not be ready to announce Windows 12 just yet, but it clearly wants to turn every Wi…",
-      "url": "https://www.theverge.com/news/799768/microsoft-windows-ai-copilot-voice-vision-launch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Meet-the-Computer-You-Can-Talk-To.png?quality=90&strip=all&crop=0,3.4613147178592,100,93.077370564282",
-      "publishedAt": "2025-10-16T10:58:08Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is rewriting Windows to turn computers into AI PCs that you talk to.\r\nMicrosoft is rewriting Windows to turn computers into AI PCs that you talk to.\r\nb… [+6654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Liam Proven",
-      "title": "Firefox 144 brings fixes, features, and farewells for 32-bit Linux die-hards",
-      "description": "Mozilla hardens its browser and toys with AI search while closing the door on legacy systems New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here – with some bad news for users of older kit.…",
-      "url": "https://www.theregister.com/2025/10/16/firefox_and_tbird_144/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/15/ffox-144-mac.jpg",
-      "publishedAt": "2025-10-16T10:41:25Z",
-      "content": "New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here with some bad news for users of older kit.\r\nFirefox 144 arrived yesterday, closely followed by its cousin, t… [+4254 chars]"
     }
   ]
 }
