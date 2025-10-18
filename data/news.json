@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-18T11:31:18.755Z",
+  "fetchedAt": "2025-10-18T12:15:14.763Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "These ETF mistakes can ‘quietly erode long-term returns,’ advisor says",
+      "description": "The exchange-traded fund market has surpassed $11 trillion, but ETF mistakes can erode investors returns, financial experts say. Here's what to know.",
+      "url": "https://www.cnbc.com/2025/10/17/etf-mistakes.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197709-1757616397923-gettyimages-2174098339-dsc09329.jpeg?v=1757616466&w=1920&h=1080",
+      "publishedAt": "2025-10-17T12:15:01Z",
+      "content": "Demand for exchange-traded funds is soaring as investors shift to lower-cost, tax-friendly options that are easier to buy and sell. But many peopledon't know what they are purchasing, and mistakes co… [+2525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "This free Google AI course could transform how you research and write - but act fast",
+      "description": "The Knight Center and Google are launching a free AI course aimed at journalists, but if you're a student or a writer, you could learn a lot, too. It starts Monday.",
+      "url": "https://www.zdnet.com/article/this-free-google-ai-course-could-transform-how-you-research-and-write-but-act-fast/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/294d89b78bd36d0ea9e05098a3aaadb928475993/2025/10/17/5291de53-6186-442d-b832-9cc8a409f4e3/gettyimages-1415832512-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T12:04:34Z",
+      "content": "400tmax/iStock Unreleased/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's free AI course teaches research, writing, and engagement tools.<… [+5750 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "TSMC moves up 2nm production plans in Arizona — CEO also hints at further site expansion beyond $165 billion commitment",
+      "description": "TSMC is ramping up its construction to unlock N2 production in Arizona, while also mentioning that it's purchasing another plot of land to expand the fab.",
+      "url": "https://www.tomshardware.com/tech-industry/tsmc-moves-up-2nm-production-plans-in-arizona-ceo-also-hints-at-further-site-expansion-beyond-usd165-billion-commitment",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kT3cGxzfZdqUVF5pbVWu5a-2560-80.jpg",
+      "publishedAt": "2025-10-17T12:01:27Z",
+      "content": "Taiwan Semiconductor Manufacturing Co. (TSMC) CEO C.C. Wei has said that it’s moving up its 2nm production plans in Arizona due to continued strong AI demand from its American customers. He also ment… [+2473 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch | TechCrunch",
+      "description": "All staff employed by SK Telecom's new AI division are being offered a voluntary retirement program as part of a broader effort to bring together its various AI-related divisions, the company confirmed to TechCrunch.",
+      "url": "https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Image-1-‘Innovation-Gate-the-entrance-to-the-SK-booth-at-CES-2025-1.jpg?w=1198",
+      "publishedAt": "2025-10-17T11:59:01Z",
+      "content": "South Korean telco giant SK Telecom is making big changes at its new AI division, AI CIC, just weeks after it was launched. Staff employed by the unit are being offered a voluntary retirement program… [+2455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Amazon reveals 960 megawatt nuclear power plans to cope with AI demand — Richland, Washington site tapped for deployment of Xe-100 small modular reactors",
+      "description": "Amazon has revealed plans to help build one of the United States’ first modular nuclear power campuses in a move designed to supply carbon-free electricity for its growing AI and cloud workloads.",
+      "url": "https://www.tomshardware.com/tech-industry/amazon-unveils-plans-for-modular-nuclear-plant-in-washington",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3s4QsmKjHiwfg9woTYrYmd-2560-80.jpg",
+      "publishedAt": "2025-10-17T11:50:18Z",
+      "content": "Amazon has revealed plans to help build one of the United States’ first modular nuclear power campuses in a move designed to supply carbon-free electricity for its growing AI and cloud workloads.\r\nAn… [+2703 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/kuku-fm.jpg?resize=1200,800",
       "publishedAt": "2025-10-16T06:44:16Z",
       "content": "Kuku, an Indian storytelling platform backed by Google, has raised $85 million in fresh funding as it aims to scale its audio and video content offerings amid intensifying competition in the South As… [+7665 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Chris Bayer",
-      "title": "3 common thermostat mistakes may be costing you hundreds - here's what to avoid",
-      "description": "Where you place your thermostat greatly affects its accuracy and your energy bill. These small adjustments can help it operate at its best.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/3-common-thermostat-mistakes-may-be-costing-you-hundreds-heres-what-to-avoid/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ca2eed2d3bbeb7ba6e6afed4d884c74530e662a5/2024/09/11/3e696f16-21b1-4102-a6df-978909874aa0/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T06:00:41Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Avoid direct sunlight to prevent overworking your home's air conditioning system.</li><li>Draft… [+4643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's Inside India newsletter: UPI’s global push: Exporting indigenous tech, and furthering economic strategy",
-      "description": "The deeper you look at UPI transaction numbers, its international rollout is beginning to appear less like a tech story and more of an economic strategy.",
-      "url": "https://www.cnbc.com/2025/10/16/cnbcs-inside-india-newsletter-upis-global-push-seems-an-economic-strategy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106797168-1605506742034-GettyImages-1213174164.jpg?v=1626425182&w=1920&h=1080",
-      "publishedAt": "2025-10-16T05:57:15Z",
-      "content": "Paytm, PhonePe, Google Pay (Gpay) and Bhim UPI QR Codes (Standee) are Kept outside for Cashless payments at a medical store in Gurugram on the outskirts of New Delhi, India on 16 May 2020.\r\nThis repo… [+8706 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "TSMC hits yet another record as profit surges 39%, beating estimates on AI chip demand surge",
-      "description": "Taiwan Semiconductor Manufacturing Company reported a 39.1% increase in third-quarter profit, hitting a fresh record despite missing estimates.",
-      "url": "https://www.cnbc.com/2025/10/16/tsmc-hits-yet-another-record-as-profit-surges-39percent-beating-estimates-on-ai-chip-demand-surge.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108131999-17447197412025-04-15t055242z_53170504_rc25ydapqicb_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&w=1920&h=1080",
-      "publishedAt": "2025-10-16T05:43:27Z",
-      "content": "Taiwan Semiconductor Manufacturing Company on Thursday reported a 39.1% increase in third-quarter profit from last year, hitting a fresh record as demand for artificial intelligence chips stayed stro… [+948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Thirsty AI mega projects raise alarm in some of Europe’s driest regions",
-      "description": "Europe is planning to at least triple its data center capacity as part of a push to become a world-class AI hub.",
-      "url": "https://www.cnbc.com/2025/10/16/water-ai-mega-projects-raise-alarm-in-some-of-europes-driest-regions.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211172-1760357398468-gettyimages-2231036022-AFP_72C32X7.jpeg?v=1760357501&w=1920&h=1080",
-      "publishedAt": "2025-10-16T05:08:26Z",
-      "content": "Liquid cooled servers in an installation at the Global Switch Docklands data centre campus in London, UK, on Monday, June 16, 2025.\r\nEurope's ambitious artificial intelligence strategy is at risk of … [+8762 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "These Bose earbuds are an easy pick over AirPods for me - why I don't regret it",
-      "description": "The Bose QuietComfort Ultra 2 deliver an unmatched comfort and audio experience, but not without a few caveats.",
-      "url": "https://www.zdnet.com/article/these-bose-earbuds-are-an-easy-pick-over-airpods-for-me-why-i-dont-regret-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e68aeba873e141728252f6d25fb3ef3e5596b4ae/2025/10/14/f6e012eb-f612-48a6-b285-1b33bac8af11/bose-quietcomfort-ultra-earbuds-2-233237.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T02:00:43Z",
-      "content": "On paper, the Bose QuietComfort Ultra Earbuds (2nd Gen) tech specs may seem painfully incremental, but there's more to them than meets the eye. It's impressive how seemingly innocuous updates from on… [+9124 chars]"
     }
   ]
 }
