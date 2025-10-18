@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T23:07:47.636Z",
+  "fetchedAt": "2025-10-18T23:31:33.069Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Proxy advisor ISS recommends Tesla shareholders oppose Elon Musk $1 trillion pay plan",
+      "description": "Institutional Shareholder Services recommended Tesla investors vote against a pay plan for CEO Elon Musk that would grant him nearly $1 trillion more in stock.",
+      "url": "https://www.cnbc.com/2025/10/17/proxy-advisor-iss-opposes-tesla-ceo-elon-musk-1-trillion-pay-plan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108168278-17518962972025-06-13t010710z_885255829_rc2gk1a9xltd_rtrmadp_0_space-warfare.jpeg?v=1753301789&w=1920&h=1080",
+      "publishedAt": "2025-10-17T23:23:31Z",
+      "content": "Top proxy advisor Institutional Shareholder Services is recommending that Tesla investors vote against a pay plan for CEO Elon Musk that would grant him nearly $1 trillion more in stock.\r\nThe \"mega p… [+3606 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Andrew-Lantern-co-founder.jpg?resize=1200,800",
       "publishedAt": "2025-10-16T15:54:18Z",
       "content": "Andrew Lissimore has been running the audio apparel site Headphones.com for nearly a decade now. While audiophiles have a high affinity towards their gear and want to try out new gadgets, Lissimore w… [+3937 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "Anthropic turns to ‘skills’ to make Claude more useful at work",
-      "description": "AI agents spent years as a concept and then as an experiment. Now, AI companies are devoting even more time and resources than before to make their agents actually useful for end users, whether they’re consumers or professionals.  Anthropic on Thursday announ…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/800868/anthropic-claude-skills-ai-agents",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Skills-settings-blog-inline_1920x1080.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-16T15:52:57Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe announcement follows a similar new tool from OpenAI.\r\nThe announcement follows a similar new tool from OpenAI.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts fr… [+3919 chars]"
     }
   ]
 }
