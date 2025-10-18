@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-18T12:15:14.763Z",
+  "fetchedAt": "2025-10-18T12:56:00.444Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Carmakers fear chip crunch as Dutch sanctions hit Nexperia",
+      "description": "Beijing blocks exports after Netherlands imposes special measures on Chinese-owned chipmaker Major car, van, truck and bus manufacturers are warning that the Dutch government placing semiconductor biz Nexperia under special administrative measures could resul…",
+      "url": "https://www.theregister.com/2025/10/17/car_industry_nexperia_supply/",
+      "urlToImage": "https://regmedia.co.uk/2021/11/03/shutterstock_car_factory.jpg",
+      "publishedAt": "2025-10-17T12:36:06Z",
+      "content": "Major car, van, truck and bus manufacturers are warning that the Dutch government placing semiconductor biz Nexperia under special administrative measures could result in a shortage of automotive chi… [+3687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "'Cockroach' hunting, Bolton indicted, Apple eyes F1 and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/17/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107339507-1701114231815-107339507-1701114120751-gettyimages-1540379512-ZIONS_EARNS.jpg?v=1760650229&w=1920&h=1080",
+      "publishedAt": "2025-10-17T12:18:58Z",
+      "content": "An automatic teller machine at the Zions Bank headquarters in Salt Lake City, Utah, on July 10, 2023.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbo… [+5501 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204495-1758897586672-gettyimages-1245436125-AFP_32ZR8JC.jpeg?v=1760544860&w=1920&h=1080",
       "publishedAt": "2025-10-16T07:09:20Z",
       "content": "File: Meta President Global Affairs Nick Clegg speaks during a press conference at the Meta showroom in Brussels on December 07, 2022.\r\nThe chance of a market correction in the artificial intelligenc… [+3741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "No ROI in AI yet? Try these six proven tactics for creating real business value",
-      "description": "AI bubble about to burst? Nonsense, says Fausto Fleites, who offers best-practice lessons for turning AI concepts into valuable production services.",
-      "url": "https://www.zdnet.com/article/no-roi-in-ai-yet-try-these-six-proven-tactics-for-creating-real-business-value/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/42790b34e7ffc8f8bfe653eac66c91012637699c/2025/10/16/49c4ae99-1bda-4d07-b779-a678b96b2869/gettyimages-918508394.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T07:00:38Z",
-      "content": "MicroStockHub/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>There's growing concern that AI is a bubble about to burst.</li><li>Smar… [+7869 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "India's Kuku snags $85M as mobile content wars intensify | TechCrunch",
-      "description": "India's Kuku snags $85M as mobile content wars intensify | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/15/indias-kuku-snags-85m-as-mobile-content-wars-intensify/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/kuku-fm.jpg?resize=1200,800",
-      "publishedAt": "2025-10-16T06:44:16Z",
-      "content": "Kuku, an Indian storytelling platform backed by Google, has raised $85 million in fresh funding as it aims to scale its audio and video content offerings amid intensifying competition in the South As… [+7665 chars]"
     }
   ]
 }
