@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T13:16:35.018Z",
+  "fetchedAt": "2025-10-18T13:35:36.875Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "These AI glasses promised to make me smarter, and all I got was Clippy for my face",
+      "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscr…",
+      "url": "https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257896_Even_Realities_G1_AKrales_0105.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-17T13:28:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThese AI glasses promised to make me smarter, and all I got was Clippy for my face\r\nPlus a sore neck, a peeved spouse, and ethical quandaries.\r\nby\r\nVictoria Song… [+9050 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/15/ffox-144-mac.jpg",
       "publishedAt": "2025-10-16T10:41:25Z",
       "content": "New versions of both Mozilla's browser and its subsidiary MZLA's messaging client are here with some bad news for users of older kit.\r\nFirefox 144 arrived yesterday, closely followed by its cousin, t… [+4254 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Abhishek Jadhav",
-      "title": "The $100B memory war: Inside the battle for AI's future",
-      "description": "The AI gold rush is so large that even third place is lucrative Feature  The generative AI revolution has exposed a brutal truth: raw computing power means nothing if you can't feed the beast. In sprawling AI datacenters housing thousands of GPUs, the real ch…",
-      "url": "https://www.theregister.com/2025/10/16/race_to_supply_advanced_memory/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/15/gold_rush.jpg",
-      "publishedAt": "2025-10-16T09:45:07Z",
-      "content": "Feature The generative AI revolution has exposed a brutal truth: raw computing power means nothing if you can't feed the beast. In sprawling AI datacenters housing thousands of GPUs, the real chokepo… [+9713 chars]"
     }
   ]
 }
