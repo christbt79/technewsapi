@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-18T16:39:14.183Z",
+  "fetchedAt": "2025-10-18T17:04:53.911Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "Thou shalt not let AI run amok: Vatican wants global rules",
+      "description": "'AI is a tool', Pope tells attendees Recently, Salesforce CEO Marc Benioff warned investors to avoid the \"false prophets\" of AI. Now, the Pope has brought real theological weight to the bot debate, hosting a Vatican seminar that called for global AI regulatio…",
+      "url": "https://www.theregister.com/2025/10/17/vatican_seminar_calls_for_global/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/17/shutterstock_2639315715.jpg",
+      "publishedAt": "2025-10-17T17:01:10Z",
+      "content": "Recently, Salesforce CEO Marc Benioff warned investors to avoid the \"false prophets\" of AI. Now, the Pope has brought real theological weight to the bot debate, hosting a Vatican seminar that called … [+2407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray",
+      "title": "OpenAI's own support bot has no idea how ChatGPT works",
+      "description": "When asked a simple support question, ChatGPT's customer support bot hallucinates what the generative AI app can and can't do.",
+      "url": "https://www.zdnet.com/article/openais-own-support-bot-has-no-idea-how-chatgpt-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/03f48bce685e8420f1a9dabf79b989f15b76542c/2025/10/17/b06d16ac-3eee-4c47-82cd-864deb753ed1/aisupportscreenshot-2025-10-17-124956.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T16:52:28Z",
+      "content": "ChatGPT's support bot hallucinates a feature that doesn't exist in the app.\r\nScreenshot by Tiernan Ray/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The… [+6901 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Intel Foundry secures contract to build Microsoft's Maia 2 next-gen AI processor on 18A/18A-P node, claims report — could be first step in ongoing partnership",
+      "description": "Intel Foundry will reportedly produce Microsoft's next-generation Maia processor for AI applications on its 18A process technology, which could mark a big win for the company both in terms of earnings and goodwill.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-foundry-secures-contract-to-build-microsofts-maia-2-next-gen-ai-processor-on-18a-18a-p-node-claims-report-could-be-first-step-in-ongoing-partnership",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JSba3bCZjfE7xsaTUwpFAB-1920-80.jpg",
+      "publishedAt": "2025-10-17T16:44:37Z",
+      "content": "When Intel and Microsoft announced their plan to build a 'custom processor' on Intel's 18A fabrication process in early 2024, neither of the companies even hinted at the purpose of that silicon, leav… [+4190 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-16T13:57:31Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nUber wants to challenge established players like Scale AI or Amazons Mechanical Turks.\r\nUber wants to challenge established players like Scale AI or Amazons Mech… [+7452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "US hyperscalers to guzzle 22% more grid juice by end of 2025",
-      "description": "AI hype fuels bit barn boom – and utilities are sweating the surge\nHyperscale datacenters stateside will consume 22 percent more grid power by the end of 2025 than a year ago, and are forecast to need nearly three times as much electricity by the end of the d…",
-      "url": "https://www.theregister.com/2025/10/16/us_datacenters_ai_power/",
-      "urlToImage": "https://regmedia.co.uk/2021/02/03/aws_datacenter_racks.jpg",
-      "publishedAt": "2025-10-16T13:47:09Z",
-      "content": "Hyperscale datacenters stateside will consume 22 percent more grid power by the end of 2025 than a year ago, and are forecast to need nearly three times as much electricity by the end of the decade.\r… [+3552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "10 ChatGPT prompt tricks I use - to get the best results, faster",
-      "description": "Want better ChatGPT answers? It all starts with your prompts. Here's how to optimize your inputs.",
-      "url": "https://www.zdnet.com/article/10-chatgpt-prompt-tricks-i-use-to-get-the-best-results-faster/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cc08a1d8426981e906bf1178ebcccb207df7d892/2025/10/16/efa1953d-d7c3-4f0b-9ab6-b31757ae9753/gettyimages-2162021891.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:36:00Z",
-      "content": "Andriy Onufriyenko / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Here's how to write prompts for more accurate ChatGPT responses.</li>… [+9977 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Spotify says it’s working with labels on ‘responsible’ AI music tools",
-      "description": "The recently-rumored AI partnership between Spotify and the major record labels is now a reality. The streaming service announced today that it’s entering into an agreement with Sony Music Group, Universal Music Group, Warner Music Group, Merlin, and Believe …",
-      "url": "https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383595/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-16T13:32:54Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSony, Universal, Warner and other music labels are partnering with Spotify as it starts a generative AI research lab.\r\nSony, Universal, Warner and other music la… [+3711 chars]"
     }
   ]
 }
