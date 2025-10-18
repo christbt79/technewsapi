@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-18T14:07:21.696Z",
+  "fetchedAt": "2025-10-18T14:34:09.320Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs",
+      "description": "You’re looking for big ways to grow your startup, whether that means securing investors, landing enterprise deals, or generating a nonstop pipeline of leads. This is your final moment.  You have less than 24 hours — and only a couple of tables left — to lock …",
+      "url": "https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/03/8697162730_891d808f92_o.jpg?resize=1200,800",
+      "publishedAt": "2025-10-17T14:30:00Z",
+      "content": "You’re looking for big ways to grow your startup, whether that means securing investors, landing enterprise deals, or generating a nonstop pipeline of leads. This is your final moment. \r\nYou have les… [+2181 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "OpenAI suspends MLK deepfakes on Sora after ‘disrespectful’ videos",
+      "description": "OpenAI said on Thursday night that it has “paused” deepfakes of Martin Luther King Jr. on its social app Sora after users created “disrespectful” AI-generated videos of the late civil rights leader. It said representatives or estates of other historical figur…",
+      "url": "https://www.theverge.com/news/801539/open-ai-sora-mlk",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-517481130.jpg?quality=90&strip=all&crop=0%2C10.869062320334%2C100%2C78.261875359331&w=1200",
+      "publishedAt": "2025-10-17T14:28:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI now says that estates and representatives for public figures can opt out of Sora videos.\r\nOpenAI now says that estates and representatives for public figu… [+3012 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "I tested Dell's new productivity earbuds, and they outperform my AirPods Pro on work calls",
+      "description": "Dell's Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for professionals.",
+      "url": "https://www.zdnet.com/article/i-tested-dells-new-productivity-earbuds-and-they-outperform-my-airpods-pro-on-work-calls/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T14:22:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "This tiny travel cable could be the best $15 I've ever spent on security - here's why",
+      "description": "If you often plug into random chargers, you're an easy target for hackers.",
+      "url": "https://www.zdnet.com/article/this-tiny-travel-cable-could-be-the-best-15-ive-ever-spent-on-security-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T14:18:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "This tiny travel cable could be the best $15 I ever spent on security - here's why",
+      "description": "If you often plug into random chargers, you're an easy target for hackers.",
+      "url": "https://www.zdnet.com/article/this-tiny-travel-cable-could-be-the-best-15-i-ever-spent-on-security-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T14:18:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "Windows 10, huh, what is it good for? PC upgrade cycles actually",
+      "description": "Operating system's end of life D-day resucitates flatlining computer sector It transpires that Windows 11 is indeed good for at least one thing – driving PC upgrades, according to the latest figures from Gartner.…",
+      "url": "https://www.theregister.com/2025/10/17/windows_10_upgrades_lifts_global_pc_shipments/",
+      "urlToImage": "https://regmedia.co.uk/2022/04/28/shutterstock_powerswitch.jpg",
+      "publishedAt": "2025-10-17T14:16:17Z",
+      "content": "It transpires that Windows 11 is indeed good for at least one thing driving PC upgrades, according to the latest figures from Gartner.\r\nThe analyst today published figures showing worldwide PC shipme… [+2322 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212338-1760554239973-251015_CNBC_InvestInAmerica_Rush_017.jpg?v=1760554255&w=1920&h=1080",
       "publishedAt": "2025-10-16T12:14:03Z",
       "content": "Treasury Secretary Scott Bessent speaking at the CNBC Invest In America Forum in Washington, D.C. on Oct. 15, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future edition… [+4927 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Jack & Jill raises $50 million to bring conversational AI to job-hunting | TechCrunch",
-      "description": "Jack & Jill uses conversational AI to sidestep the listing and resumé shuffle. With $20 million in seed funding, the company is plotting its US expansion.",
-      "url": "https://techcrunch.com/2025/10/16/jack-jill-raises-20-million-to-bring-conversational-ai-to-job-hunting/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-      "publishedAt": "2025-10-16T11:51:51Z",
-      "content": "Between infinitely scrolling job boards and the puzzling rise of fake applicants using AI to apply en masse, job-searching has quickly become one of the most bewildering experiences the internet has … [+3025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Microsoft Surface and data center production to be moved out of China by 2026, claims report — components, parts, and assembly of laptops and servers moving to counter trade war uncertainty",
-      "description": "Sources say that Microsoft is telling its suppliers to find non-China alternatives for its Surface and data center production.",
-      "url": "https://www.tomshardware.com/tech-industry/microsoft-surface-and-data-center-production-to-be-moved-out-of-china-by-2026-claims-report-components-parts-and-assembly-of-laptops-and-servers-moving-to-counter-trade-war-uncertainty",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CkqLHk6zz2TEHjzQZscZwC-1920-80.jpg",
-      "publishedAt": "2025-10-16T11:47:02Z",
-      "content": "A new report claims that Microsoft wants to completely move all of its new product manufacturing outside of China, with the production of its Surface product line and data centers aimed to be built e… [+2502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Dutch Nexperia takeover saga partly driven by CEO misappropriating $200 million to rescue failing private interests, court records show — U.S. diplomatic pressure may also have played a role",
-      "description": "The Dutch government's decision to take over control of Dutch chip manufacturer, Nexperia, wasn't just driven by its desire to retain the company's technology within the bounds of the EU and the Netherlands. The CEO is alleged to have tried to use company fun…",
-      "url": "https://www.tomshardware.com/tech-industry/dutch-nexperia-takeover-saga-partly-driven-by-ceo-misappropriating-usd200-million-to-rescue-failing-private-interests-court-records-show-u-s-diplomatic-pressure-may-also-have-played-a-role",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SohqjwbgZNULmvVqQtASYQ-1920-80.jpg",
-      "publishedAt": "2025-10-16T11:39:01Z",
-      "content": "The Dutch government's decision to take control of the Chinese-owned Dutch chip manufacturer Nexperia wasn't just to prevent technology from being transferred overseas, but also based on serious fina… [+3700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Tech industry grad hiring crashes 46% as bots do junior work",
-      "description": "GenAI meets Gen Z – only one gets the job\nai-pocalypse The UK tech sector is cutting graduate jobs dramatically – down 46 percent in the past year, with another 53 percent drop projected, according to figures from the Institute of Student Employers (ISE).…",
-      "url": "https://www.theregister.com/2025/10/16/uk_tech_grad_jobs/",
-      "urlToImage": "https://regmedia.co.uk/2016/11/04/graduates.jpg",
-      "publishedAt": "2025-10-16T11:18:19Z",
-      "content": "ai-pocalypse The UK tech sector is cutting graduate jobs dramatically down 46 percent in the past year, with another 53 percent drop projected, according to figures from the Institute of Student Empl… [+2612 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tage Kene-okafor",
-      "title": "How tiny Mubadala-backed AAF is winning VC deals in some of the hottest startups | TechCrunch",
-      "description": "In less than a decade AAF has backed startups with exits totaling $2 billion, it says and is doing so through an unusual VC model.",
-      "url": "https://techcrunch.com/2025/10/16/how-tiny-mubadala-backed-aaf-is-winning-vc-deals-in-some-of-the-hottest-startups/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2336.jpeg?w=1170",
-      "publishedAt": "2025-10-16T11:05:56Z",
-      "content": "Its been almost a decade since Omar Darwazah and Kyle Hendrick launched AAF Management and its first fund of $25 million in 2017. \r\nRather than racing to dramatically increase their assets under mana… [+4941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Alibaba says its AI spending in e-commerce is already breaking even",
-      "description": "The Chinese tech giant is spending tens of billions of dollars on AI despite concerns that companies are spending too much on the tech with limited results.",
-      "url": "https://www.cnbc.com/2025/10/16/alibaba-says-ai-spending-for-e-commerce-taobao-tmall-is-breaking-even.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212845-1760609030954-IMG_0417_1.jpg?v=1760609150&w=1920&h=1080",
-      "publishedAt": "2025-10-16T11:01:32Z",
-      "content": "SHANGHAI Chinese tech giant Alibaba is already recouping its investment on artificial intelligence in the company's e-commerce business, vice president Kaifu Zhang told reporters on Thursday.\r\nThe Ch… [+2003 chars]"
     }
   ]
 }
