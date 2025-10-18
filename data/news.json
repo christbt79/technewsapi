@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-18T14:34:09.320Z",
+  "fetchedAt": "2025-10-18T15:07:35.731Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Cristin Merritt, SC25 communications chair",
+      "title": "Replaying ancient steps",
+      "description": "How HPC is igniting discoveries in dinosaur locomotion (and beyond) Partner Content  In the basement of Connecticut's Beneski Museum of Natural History sit the fossilized footprints of a small, chicken-sized dinosaur. Each track is more than a preserved impre…",
+      "url": "https://www.theregister.com/2025/10/17/replaying_ancient_steps/",
+      "urlToImage": "https://regmedia.co.uk/2015/07/17/zhenyuanlong_suni_fossil.jpg",
+      "publishedAt": "2025-10-17T15:00:07Z",
+      "content": "Partner Content In the basement of Connecticut's Beneski Museum of Natural History sit the fossilized footprints of a small, chicken-sized dinosaur. Each track is more than a preserved impression; it… [+9018 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steven Levy",
+      "title": "Can AI Avoid the Enshittification Trap?",
+      "description": "Cory Doctorow’s theory of “enshittification” explains how tech platforms rot from within. As AI grows more profitable—and powerful—it risks the same fate.",
+      "url": "https://www.wired.com/story/can-ai-escape-enshittification-trap/",
+      "urlToImage": "https://media.wired.com/photos/68f1711918f493b619d097f7/191:100/w_1280,c_limit/Backchannel-Corey-Doctorow-Business-1426357474.jpg",
+      "publishedAt": "2025-10-17T15:00:00Z",
+      "content": "I recently vacationed in Italy. As one does these days, I ran my itinerary past GPT-5 for sightseeing suggestions and restaurant recommendations. The bot reported that the top choice for dinner near … [+4039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Micron is preparing to exit China’s data center memory market completely, report claims — Beijing banned company's chips from 'critical information infrastructure' in 2023",
+      "description": "Micron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban.",
+      "url": "https://www.tomshardware.com/pc-components/ram/reports-suggest-micron-is-preparing-to-exit-chinas-data-center-memory-market",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ctk37dSPYgBJW2MojM9GNo-1920-80.jpg",
+      "publishedAt": "2025-10-17T14:59:32Z",
+      "content": "Micron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban. The move, reported by … [+2812 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Albert Thomas",
-      "title": "Lian Li Lancool 207 Digital review: The best on the market, now with a six-inch screen",
-      "description": "Lian Li has refreshed the classic Lancool 207 PC case with a 6-inch front display. We’ve benchmarked this case using Intel’s i9-14900K for thermal testing.",
-      "url": "https://www.tomshardware.com/pc-components/pc-cases/lian-li-lancool-207-digital-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Dy7vugxWyik35tofvtXV97-2560-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The original version… [+8013 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dominic Preston",
-      "title": "Oppo Find X9 Pro combines 200MP telephoto with 7,500mAh battery",
-      "description": "It’s Android flagship season in China right now, and today is Oppo’s turn. It has revealed the Find X9 and Find X9 Pro, with industry-leading specs for both the cameras and batteries. Unlike sister company OnePlus, Oppo has maintained its relationship with Ha…",
-      "url": "https://www.theverge.com/news/800600/oppo-find-x9-pro-launch-china-telephoto-extender",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/oppo-find-x9-pro-1.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "publishedAt": "2025-10-16T12:53:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlus a Hasselblad-branded take on Vivos telephoto extender lens.\r\nPlus a Hasselblad-branded take on Vivos telephoto extender lens.\r\nby\r\nDominic PrestonClose\r\nDom… [+4576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Shutdown layoffs, United earnings, Apple's new products and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/16/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212338-1760554239973-251015_CNBC_InvestInAmerica_Rush_017.jpg?v=1760554255&w=1920&h=1080",
-      "publishedAt": "2025-10-16T12:14:03Z",
-      "content": "Treasury Secretary Scott Bessent speaking at the CNBC Invest In America Forum in Washington, D.C. on Oct. 15, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future edition… [+4927 chars]"
     }
   ]
 }
