@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-18T18:11:02.588Z",
+  "fetchedAt": "2025-10-18T18:41:02.076Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The future I saw through the Meta Ray-Ban Display amazes and terrifies me",
+      "description": "Outside a florist-cum-coffee shop in upstate New York, a row of vintage cars gleam in the sun. It's unseasonably warm for early October, so there's a veritable crowd of car enthusiasts snapping photos of Ferraris, Porsches, and a vintage Alfa Romeo. Patient g…",
+      "url": "https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0139.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-17T18:30:04Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis very first-gen device raises several questions about where the next chapter of mobile computing is headed.\r\nIf you buy something from a Verge link, Vox Medi… [+21095 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Dell made a pair of wireless earbuds that's become a surprise hit in the office",
+      "description": "The Dell Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for hybrid and office work.",
+      "url": "https://www.zdnet.com/article/dell-made-a-pair-of-wireless-earbuds-thats-become-a-surprise-hit-in-the-office/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T18:14:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5800 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Ex-lidar CEO makes a bid to reclaim his company",
+      "description": "Earlier this year, Luminar founder and CEO Austin Russell abruptly resigned from his position after it was revealed he was the target of an ethics inquiry. Now, the 30-year-old billionaire is trying to wrest back control of his old company, which made him a f…",
+      "url": "https://www.theverge.com/news/801827/ex-lidar-ceo-makes-a-bid-to-reclaim-his-company",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG05AH_210614_4634_001.webp?quality=90&strip=all&crop=0,10.708427060106,100,78.583145879787",
+      "publishedAt": "2025-10-17T18:12:29Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAustin Russell says he wants to acquire 100% of outstanding shares in Luminar, his former lidar company.\r\nAustin Russell says he wants to acquire 100% of outstan… [+2800 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e68aeba873e141728252f6d25fb3ef3e5596b4ae/2025/10/14/f6e012eb-f612-48a6-b285-1b33bac8af11/bose-quietcomfort-ultra-earbuds-2-233237.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T14:53:00Z",
       "content": "On paper, the Bose QuietComfort Ultra Earbuds (2nd Gen) tech specs may seem painfully incremental, but there's more to them than meets the eye. It's impressive how seemingly innocuous updates from on… [+9124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "TSMC posts record quarter results as skyrocketing AI and HPC demand drives two-thirds of revenue — company pulls in $33.1 billion",
-      "description": "TSMC posted a record $33.1 billion in quarterly revenue driven by surging demand for AI and HPC processors, the ramp of Apple's latest SoCs, and the continued strength of advanced nodes.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-posts-record-quarter-results-as-skyrocketing-ai-and-hpc-demand-drives-two-thirds-of-revenue-company-pulls-in-usd33-1-billion",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QZU4LiEEqJKst2rDMTv64b-2560-80.jpg",
-      "publishedAt": "2025-10-16T14:35:30Z",
-      "content": "TSMC on Thursday reported revenue of $33.10 billion, marking its best quarter ever. The record earnings were driven by booming sales of AI processors and infrastructure — which now command nearly two… [+3910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Uber will offer gig work like AI data labeling to drivers while not on the road",
-      "description": "Uber says it's offering drivers ways to make money when not ferrying around passengers.",
-      "url": "https://www.cnbc.com/2025/10/16/uber-will-offer-us-drivers-more-gig-work-including-ai-data-labeling.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145554-1747242564857-gettyimages-2214420551-UBER_LAUNCH.jpeg?v=1747242599&w=1920&h=1080",
-      "publishedAt": "2025-10-16T14:30:01Z",
-      "content": "Uber plans to offer drivers and couriers in the U.S. ways to make money through the company's app when they're not ferrying around people or food.\r\nThe ride-hailing company said on Thursday that it's… [+2557 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dominic Preston",
-      "title": "OnePlus’ OxygenOS 16 brings Gemini into your Mind Space",
-      "description": "OnePlus has announced OxygenOS 16, its take on Android 16, with upgrades to its Mind Space AI tool including complete integration with Google Gemini. Other updates include new lock screen customizations, improved connectivity options, and design tweaks throug…",
-      "url": "https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/oxygenos-16.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
-      "publishedAt": "2025-10-16T14:03:43Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles AI assistant will be able to respond to what youve saved.\r\nGoogles AI assistant will be able to respond to what youve saved.\r\nby\r\nDominic PrestonClose\r\nD… [+3131 chars]"
     }
   ]
 }
