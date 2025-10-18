@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T10:36:56.406Z",
+  "fetchedAt": "2025-10-18T11:05:30.682Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Boris Johnson confesses: He's fallen for ChatGPT",
+      "description": "As OpenAI allow chatbot to spout erotic content, former British prime minister makes true feelings known\nAfter a string of marriages and innumerable affairs, former UK prime minister Boris Johnson has come clean about his new squeeze.…",
+      "url": "https://www.theregister.com/2025/10/17/boris_johnson_loves_chatgpt/",
+      "urlToImage": "https://regmedia.co.uk/2020/03/31/boris_shutterstock.jpg",
+      "publishedAt": "2025-10-17T10:54:57Z",
+      "content": "After a string of marriages and innumerable affairs, former UK prime minister Boris Johnson has come clean about his new squeeze.\r\n\"I love ChatGPT,\" the blond-mopped Brexiteer told Al Arabiya English… [+2595 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1487910618.jpg?resize=1200,675",
       "publishedAt": "2025-10-16T00:52:06Z",
       "content": "South Korea is nearing a decision on whether to allow Google and Apple to export high-resolution geographic map data to servers outside the country. The detailed maps, which use a 1:5,000 scale, woul… [+4981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Meta sends Arm a friend request asking for help with Nvidia’s Grace CPUs",
-      "description": "No custom Arm CPUs to speak of yet\nMeta on Wednesday entered into a partnership with Arm Holdings with the aim of helping its software run more efficiently on the British chip designer's CPUs.…",
-      "url": "https://www.theregister.com/2025/10/16/meta_arm_nvidia/",
-      "urlToImage": "https://regmedia.co.uk/2024/07/12/shutterstock_zuck.jpg",
-      "publishedAt": "2025-10-16T00:30:31Z",
-      "content": "Meta on Wednesday entered into a partnership with Arm Holdings with the aim of helping its software run more efficiently on the British chip designer's CPUs.\r\nThe tie-up signals that Arm will also pl… [+2608 chars]"
     }
   ]
 }
