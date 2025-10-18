@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T17:04:53.911Z",
+  "fetchedAt": "2025-10-18T17:31:50.129Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Facebook’s AI can now suggest edits to the photos still on your phone",
+      "description": "Facebook is rolling out a new Meta AI photo suggestion feature across the U.S. and Canada that lets its AI recommend edits to images stored on users’ camera rolls—even if they haven’t been shared. The feature is currently opt in only.",
+      "url": "https://techcrunch.com/2025/10/17/facebooks-ai-can-now-suggest-edits-to-the-photos-still-on-your-phone/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
+      "publishedAt": "2025-10-17T17:29:47Z",
+      "content": "A Facebook feature that gives Meta AI the ability to suggest edits to photos stored on your phone’s camera roll, but haven’t yet been shared, is now rolling out to all users in the U.S. and Canada. T… [+2606 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_2Days-16X9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-16T14:00:00Z",
       "content": "Tick tock! TechCrunch Disrupt 2025 hits San Franciscos Moscone West on October 2729 and this is your final chance to lock in major savings before doors open. Ticket prices increase after tomorrow, Oc… [+2121 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Uber is turning its app into an AI training ground",
-      "description": "In its quest to become the ultimate app for “flexible work,” Uber launched today a new pilot to allow its US drivers and couriers to earn extra money by performing “microtasks” to train AI models. These tasks include audio voice recording, capturing and uploa…",
-      "url": "https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK106__01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-16T13:57:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUber wants to challenge established players like Scale AI or Amazons Mechanical Turks.\r\nUber wants to challenge established players like Scale AI or Amazons Mech… [+7452 chars]"
     }
   ]
 }
