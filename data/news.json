@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-18T17:31:50.129Z",
+  "fetchedAt": "2025-10-18T18:11:02.588Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Amazon’s Ring now works with video surveillance company Flock",
+      "description": "Amazon’s smart doorbell company Ring is now working with the AI-powered surveillance camera company Flock. According to a letter sent to the company by Sen. Ron Wyden, Flock had allowed data access to the Secret Service and the Navy — as well as ICE, as previ…",
+      "url": "https://www.theverge.com/news/801856/amazon-ring-partners-flock-video",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22406591/dseifert_20210323_4486_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-17T17:52:11Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe partnership allows police agencies who use Flock software to request footage from Ring users in the Neighbors app. \r\nThe partnership allows police agencies w… [+2576 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "From SB 243 to ChatGPT: Why it's 'not cool' to be cautious about AI",
+      "description": "Equity is breaking down the latest AI safety backlash, IPO loopholes during a government shutdown, Goldman Sachs' secondaries bet and more.",
+      "url": "https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "publishedAt": "2025-10-17T17:41:23Z",
+      "content": "Silicon Valleys rule? Its not cool to be cautious. As OpenAI removes guardrails and VCs criticize companies like Anthropic for supporting AI safety regulations, its becoming clearer who the industry … [+854 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/oxygenos-16.jpg?quality=90&strip=all&crop=0%2C10.715127532981%2C100%2C78.569744934037&w=1200",
       "publishedAt": "2025-10-16T14:03:43Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogles AI assistant will be able to respond to what youve saved.\r\nGoogles AI assistant will be able to respond to what youve saved.\r\nby\r\nDominic PrestonClose\r\nD… [+3131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Still on Windows 10? Here's what Microsoft Defender can and can't do for you",
-      "description": "Defender will continue to provide security even for unsupported Windows 10 PCs. But Microsoft still wants you to move to Windows 11.",
-      "url": "https://www.zdnet.com/article/still-on-windows-10-heres-what-microsoft-defender-can-and-cant-do-for-you/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7b8b82f3afb2d46f6efc32c04e13eeb093ff07fb/2025/10/16/dda5286c-8687-4477-9496-aeaf68228ef4/microsoft-defender-will-still-work-in-windows-10-but-is-that-enough-to-protect-you.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T14:02:27Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Defender will continue to work in Windows 10.</li><li>Def… [+4063 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Last 48 hours to save before TechCrunch Disrupt 2025 flash sale ends",
-      "description": "Last 48 hours to save before the TechCrunch Disrupt 2025 flash sale ends. Save up to $624 on your ticket and join 10,000 tech leaders. Register here.",
-      "url": "https://techcrunch.com/2025/10/16/only-48-hours-left-to-save-before-the-techcrunch-disrupt-2025-flash-sale-ends/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_2Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-16T14:00:00Z",
-      "content": "Tick tock! TechCrunch Disrupt 2025 hits San Franciscos Moscone West on October 2729 and this is your final chance to lock in major savings before doors open. Ticket prices increase after tomorrow, Oc… [+2121 chars]"
     }
   ]
 }
