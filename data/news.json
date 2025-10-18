@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T22:34:36.658Z",
+  "fetchedAt": "2025-10-18T23:07:47.636Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer expects companies to post 'better-than-expected' earnings reports despite skepticism",
+      "description": "Cramer shares his \"gameplan\" looking ahead to next week's earnings, including Coca-Cola, Geo Aerospace, T-Mobile and more.",
+      "url": "https://www.cnbc.com/2025/10/17/jim-cramer-expects-companies-to-post-better-than-expected-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107083445-1656625558127-IMG_1723b.jpg?v=1695682524&w=1920&h=1080",
+      "publishedAt": "2025-10-17T23:00:20Z",
+      "content": "As the bull market turns three-years-old, CNBC's Jim Cramer said on Friday that he expects companies to post \"better than expected\" earnings to continue the market's rally.\r\n\"The bears will hold thei… [+2161 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Skills-settings-blog-inline_1920x1080.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-16T15:52:57Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe announcement follows a similar new tool from OpenAI.\r\nThe announcement follows a similar new tool from OpenAI.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts fr… [+3919 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Spotify moves further into AI music with Sony, Universal, Warner partnership",
-      "description": "The partnership comes less than a month after Spotify said it cracked down on AI-generated music.",
-      "url": "https://www.cnbc.com/2025/10/16/spotify-ai-music-sony-universal-warner.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177273-1753466127579-gettyimages-2224449965-TFSPI_14072025-8776.jpeg?v=1760620879&w=1920&h=1080",
-      "publishedAt": "2025-10-16T15:41:00Z",
-      "content": "Spotify announced Thursday that it will be partnering with Sony Music Group, Universal Music Group, Warner Music Group, as well as independent licensing agency Merlin and digital music company Believ… [+3264 chars]"
     }
   ]
 }
