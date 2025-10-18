@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T19:31:34.134Z",
+  "fetchedAt": "2025-10-18T20:08:59.703Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "Your AI tools run on fracked gas and bulldozed Texas land | TechCrunch",
+      "description": "If you're wondering why AI companies are pursuing this path, they'll tell you it's not just about electricity – it's about beating China.",
+      "url": "https://techcrunch.com/2025/10/17/your-ai-tools-run-on-fracked-gas-and-bulldozed-texas-land/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-16-at-5.21.01PM.png?resize=1200,742",
+      "publishedAt": "2025-10-17T20:03:11Z",
+      "content": "The AI era is giving fracking a second act, a surprising twist for an industry that, even during its early 2010s boom years, was blamed by climate advocates for poisoned water tables, man-made earthq… [+10022 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108132006-1744719999692-gettyimages-2209792192-McGregor250414NYCbusinesses17.jpeg?v=1744720090&w=1920&h=1080",
       "publishedAt": "2025-10-16T15:21:18Z",
       "content": "Sign at the entrance to a Bank Of America branch in Manhattan. \r\nA woman who says she was abused by the late financier and sex offender Jeffrey Epstein sued Bank of America and the Bank of New York M… [+3424 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Apple loses another AI exec to Meta",
-      "description": "Yang’s departure marks the latest in a string of exits from Apple’s AI unit, putting the company into jeopardy in the lead up to a much-anticipated Siri revamp scheduled for March.",
-      "url": "https://techcrunch.com/2025/10/16/apple-loses-another-ai-exec-to-meta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-      "publishedAt": "2025-10-16T15:21:03Z",
-      "content": "Ke Yang, the Apple executive leading the iPhone-maker’s efforts to build AI-driven web search, is heading to Meta, according to a Bloomberg report.  \r\nYangs departure marks the latest in a string of … [+926 chars]"
     }
   ]
 }
