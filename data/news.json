@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T09:08:38.630Z",
+  "fetchedAt": "2025-10-18T09:32:20.019Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zeyi Yang",
+      "title": "ByteDance’s Other AI Chatbot Is Quietly Gaining Traction Around the World",
+      "description": "ByteDance is paying for ads and partnering with influencers to promote its AI chatbot app Cici in countries like the UK, Mexico, and Indonesia.",
+      "url": "https://www.wired.com/story/bytedances-ai-chatbot-is-quietly-gaining-traction-around-the-world/",
+      "urlToImage": "https://media.wired.com/photos/68f11fe1b20ef866d45a6ed3/191:100/w_1280,c_limit/ByteDance-AI-Chatbot-Quietly-Gaining-Traction-Around-the-World-Business-2204438759.jpg",
+      "publishedAt": "2025-10-17T09:30:00Z",
+      "content": "ByteDance, the parent company of TikTok, has built what is currently the most popular AI chatbot in China: Doubao. Launched in 2023, the app has risen to the top of the countrys generative AI market,… [+2963 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178370-1753794854212-gettyimages-2202862389-muslimin-notitle250305_npxDa.jpeg?v=1760555958&w=1920&h=1080",
       "publishedAt": "2025-10-15T22:54:28Z",
       "content": "Arm Holdings CEO Rene Haas told CNBC's Jim Cramer on Wednesday that moving some AI functions away from the could help reduce energy usage.\r\nOver time, he suggested, a large number of multi-gigawatt d… [+2204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI buildout spend is justified even if there are 'casualties,' Jim Cramer says",
-      "description": "CNBC's Jim Cramer argued that Big Tech's enormous investments in AI will be worthwhile.",
-      "url": "https://www.cnbc.com/2025/10/15/ai-buildout-spend-justified-jim-cramer.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105444612-1536690347185img_2729rrr.jpg?v=1692053569&w=1920&h=1080",
-      "publishedAt": "2025-10-15T22:27:58Z",
-      "content": "Big Tech's enormous spend on new artificial intelligence will be worthwhile, according to CNBC's Jim Cramer, even if there are some companies that don't necessarily reap rewards.\r\n\"I am telling you, … [+2590 chars]"
     }
   ]
 }
