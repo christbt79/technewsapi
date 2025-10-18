@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-18T21:30:58.478Z",
+  "fetchedAt": "2025-10-18T22:07:30.476Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Senate Republicans deepfaked Chuck Schumer, and X hasn’t taken it down  | TechCrunch",
+      "description": "The video was posted Friday on the Senate Republicans X account. According to X’s policies, the platform prohibits “deceptively shar synthetic or manipulated media that are likely to cause harm.” Harmful content includes media that could “mislead people” or “…",
+      "url": "https://techcrunch.com/2025/10/17/senate-republicans-deepfaked-chuck-schumer-and-x-hasnt-taken-it-down/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "publishedAt": "2025-10-17T21:57:03Z",
+      "content": "Senate Republicans shared a deepfake video of Chuck Schumer, the Senate minority leader, designed to make it seem like Democrats are celebrating the ongoing government shutdown, which has lasted 16 d… [+2344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "$500 purple cables put this little-known company in the middle of the AI boom",
+      "description": "Credo's stock has more than doubled this year after soaring 245% in 2024 as the AI boom makes its way downstream.",
+      "url": "https://www.cnbc.com/2025/10/17/500-purple-cables-put-credo-in-middle-of-the-ai-boom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213817-1760735968012-16T_Innovation_Village_Rack.jpg?v=1760736055&w=1920&h=1080",
+      "publishedAt": "2025-10-17T21:47:28Z",
+      "content": "A demo setup of racks of AI servers connected with Credo cables, displayed at the Open Compute Summit in San Jose, California.\r\nIn July, Elon Musk posted photos from inside an xAI data center called … [+7449 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213037-1760628982376-gettyimages-2241386456-vcg111597613940.jpeg?v=1760629057&w=1920&h=1080",
       "publishedAt": "2025-10-16T15:40:52Z",
       "content": "China on Thursday accused the U.S. of creating \"panic\" over Beijing's controls on rare earth minerals, but indicated it is open to trade talks to resolve a dispute that has threatened to reignite a t… [+3057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Everything Apple launched on Oct. 15: M5 chipset, MacBook Pro, iPad, Vision Pro, more",
-      "description": "Apple this week unveiled three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
-      "url": "https://www.zdnet.com/article/everything-apple-launched-on-oct-15-m5-chipset-macbook-pro-ipad-vision-pro-more/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/85c8c44bed2f283dec9deca319407a3cd3918472/2024/03/04/6571c255-430c-471b-a84f-c8b5526cd7cf/dsc09975-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T15:38:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>The… [+4498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "China's latest round of rare-earth export controls gives the country dominion over precious resources — regulations have far-reaching implications for the semiconductor industry",
-      "description": "China has expanded its rare-earth export controls to cover not only raw materials but also to mining equipment, and foreign-made products containing Chinese-origin rare earths, effectively globalizing its licensing regime.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinas-latest-round-of-rare-earth-export-controls-gives-the-country-dominion-over-precious-resources-regulations-have-far-reaching-implications-for-the-semiconductor-industry",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LYXEBRFVHinmDdveDXwvHQ-2560-80.jpg",
-      "publishedAt": "2025-10-16T15:23:08Z",
-      "content": "Last week, a new round of the U.S.-China trade war commenced. China imposed export controls on a new set of rare earth materials and the methods of their processing, which may impact a variety of pro… [+9135 chars]"
     }
   ]
 }
