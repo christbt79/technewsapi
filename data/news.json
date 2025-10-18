@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T04:10:22.404Z",
+  "fetchedAt": "2025-10-18T04:38:13.648Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Reddit expands its AI-powered search to five new languages",
+      "description": "Reddit announced Thursday that it is expanding its AI-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese. With this expansion, the feature is now available in countries like Brazil, France, Germany, Spain, Mexico…",
+      "url": "https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
+      "publishedAt": "2025-10-17T04:18:03Z",
+      "content": "Reddit announced Thursday that it is expanding its AI-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese. With this expansion, the feature is now availa… [+1039 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -797,19 +810,6 @@
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tom's Hardware UK"
       },
       "author": "Andrew E. Freedman",
@@ -819,6 +819,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2240432293_37e208.jpg?quality=90&strip=all&crop=0%2C1.5853655897172%2C100%2C69.701775217088&w=1200",
       "publishedAt": "2025-10-15T21:04:58Z",
       "content": "\" data-portal-copyright=\"Chip Somodevilla/Getty Images\" data-has-syndication-rights=\"1\" src=\"https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2240432293_37e208.jpg?quality=90&s… [+10921 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "OpenAI's ChatGPT is so popular that almost no one will pay for it",
-      "description": "If you build it, they will come and expect the service to be free\nOpenAI is losing about three times more money than it's earning, and 95 percent of those using ChatGPT, which generates roughly 70 percent of the company's recurring revenue, aren't paying a di…",
-      "url": "https://www.theregister.com/2025/10/15/openais_chatgpt_popular_few_pay/",
-      "urlToImage": "https://regmedia.co.uk/2022/02/04/shuterstock_bubble.jpg",
-      "publishedAt": "2025-10-15T21:03:13Z",
-      "content": "OpenAI is losing about three times more money than it's earning, and 95 percent of those using ChatGPT, which generates roughly 70 percent of the company's recurring revenue, aren't paying a dime to … [+3391 chars]"
     }
   ]
 }
