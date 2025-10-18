@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T08:39:44.958Z",
+  "fetchedAt": "2025-10-18T09:08:38.630Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive",
+      "description": "Anthropic is integrating its Claude AI assistant with Microsoft 365 services so it can surface content from Word documents, Teams messages, and Outlook emails in conversations with the chatbot. It’s part of a series of updates to Claude to make the chatbot mo…",
+      "url": "https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-17T08:53:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnthropic and Microsoft are increasingly cozying up for AI models and services.\r\nAnthropic and Microsoft are increasingly cozying up for AI models and services.\r… [+3538 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -849,19 +862,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -871,6 +871,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/105444612-1536690347185img_2729rrr.jpg?v=1692053569&w=1920&h=1080",
       "publishedAt": "2025-10-15T22:27:58Z",
       "content": "Big Tech's enormous spend on new artificial intelligence will be worthwhile, according to CNBC's Jim Cramer, even if there are some companies that don't necessarily reap rewards.\r\n\"I am telling you, … [+2590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "U.S. federal AI regulation is on the way, Sen. Marsha Blackburn says, regardless of big tech opposition",
-      "description": "Tennessee Sen. Marsha Blackburn said moving forward with federal AI regulation is \"imperative\" as concerns around privacy, usage and safety grow.",
-      "url": "https://www.cnbc.com/2025/10/15/us-federal-ai-regulation-is-on-the-way-sen-marsha-blackburn.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212701-1760562517676-gettyimages-1976428445-jdc_8571_3aqnfi9u-2_cevpqjcp.jpeg?v=1760562574&w=1920&h=1080",
-      "publishedAt": "2025-10-15T22:12:02Z",
-      "content": "As U.S. states start to react to growing constituent concerns around the risks associated with artificial intelligence use, Tennessee Sen. Marsha Blackburn said moving forward with a federal preempti… [+3371 chars]"
     }
   ]
 }
