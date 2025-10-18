@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-18T11:05:30.682Z",
+  "fetchedAt": "2025-10-18T11:31:18.755Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft parks Landsat and Sentinel satellite data in Azure's orbit",
+      "description": "NASA's Earth-watching archives find new home in Redmond's cloud, complete with Copilot hype\nMicrosoft has made NASA's Harmonized Landsat and Sentinel-2 (HLS) dataset available on Azure via the Windows giant's Planetary Computer platform.…<!--#include virtual=…",
+      "url": "https://www.theregister.com/2025/10/17/microsoft_azure_satellite_data/",
+      "urlToImage": "https://regmedia.co.uk/2015/10/20/earth_portrait_teaser.jpg",
+      "publishedAt": "2025-10-17T11:25:14Z",
+      "content": "Microsoft has made NASA's Harmonized Landsat and Sentinel-2 (HLS) dataset available on Azure via the Windows giant's Planetary Computer platform.\r\nIt seems an excellent use for all that Azure capacit… [+2704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "SAP users still wrestling with business case for S/4HANA",
+      "description": "A decade later, ERP giant struggles to convince legacy customers to upgrade\nMore than a decade after SAP's S/4HANA in-memory ERP system debuted, 95 percent of legacy users say building a positive case to migrate requires a big effort or is genuinely challengi…",
+      "url": "https://www.theregister.com/2025/10/17/sap_s4hana_business_case/",
+      "urlToImage": "https://regmedia.co.uk/2018/04/26/tired_businessman_shutterstock.jpg",
+      "publishedAt": "2025-10-17T11:16:09Z",
+      "content": "More than a decade after SAP's S/4HANA in-memory ERP system debuted, 95 percent of legacy users say building a positive case to migrate requires a big effort or is genuinely challenging.\r\nA survey of… [+3314 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -914,19 +940,6 @@
     {
       "source": {
         "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
-      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
-      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tom's Hardware UK"
       },
       "author": "Andrew E. Freedman",
@@ -936,6 +949,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Your Windows 11 PC just got 4 big Copilot upgrades - it can hear you and see now",
+      "description": "Microsoft's new agentic AI capabilities for Copilot mark a leap forward in its capabilities, but security questions remain top of mind.",
+      "url": "https://www.zdnet.com/article/your-windows-11-pc-just-got-4-big-copilot-upgrades-it-can-hear-you-and-see-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e68aeba873e141728252f6d25fb3ef3e5596b4ae/2025/10/14/f6e012eb-f612-48a6-b285-1b33bac8af11/bose-quietcomfort-ultra-earbuds-2-233237.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T02:00:43Z",
       "content": "On paper, the Bose QuietComfort Ultra Earbuds (2nd Gen) tech specs may seem painfully incremental, but there's more to them than meets the eye. It's impressive how seemingly innocuous updates from on… [+9124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Strong bank earnings seem to overshadow escalating trade war",
-      "description": "Whether traders continue pushing equities to highs amid fractious relations with China will depend, in part, on the earnings of major technology companies.",
-      "url": "https://www.cnbc.com/2025/10/16/cnbc-daily-open-strong-bank-earnings-seem-to-overshadow-escalating-trade-war.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212397-17605379272025-10-15t134223z_1066780937_rc2dchaknr1f_rtrmadp_0_imf-worldbank-bessent.jpeg?v=1760538006&w=1920&h=1080",
-      "publishedAt": "2025-10-16T01:53:22Z",
-      "content": "China has been using its dominance in the rare earth industry to slash prices, driving foreign competitors out, U.S. Treasury Secretary Scott Bessent told CNBC on Wednesday stateside in an exclusive … [+2054 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "Seoul weighs approval for Google, Apple high-resolution map requests | TechCrunch",
-      "description": "South Korea weighs granting Google and Apple access to high-resolution map data amid lingering security and regulatory concerns.",
-      "url": "https://techcrunch.com/2025/10/15/seoul-weighs-approval-for-google-apple-high-resolution-map-requests/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1487910618.jpg?resize=1200,675",
-      "publishedAt": "2025-10-16T00:52:06Z",
-      "content": "South Korea is nearing a decision on whether to allow Google and Apple to export high-resolution geographic map data to servers outside the country. The detailed maps, which use a 1:5,000 scale, woul… [+4981 chars]"
     }
   ]
 }
