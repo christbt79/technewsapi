@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T03:06:39.394Z",
+  "fetchedAt": "2025-10-18T03:42:20.129Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "OpenAI pauses Sora video generations of Martin Luther King Jr. | TechCrunch",
+      "description": "OpenAI is pausing AI video generations of Martin Luther King at the request of the late civil rights activists' estate.",
+      "url": "https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-80751598-e1484590456411.jpg?w=967",
+      "publishedAt": "2025-10-17T03:24:02Z",
+      "content": "OpenAI announced Thursday it paused the ability for users to generate videos resembling the late civil rights activist Martin Luther King Jr. using its AI video model, Sora. The company says it’s add… [+3554 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/02/04/shuterstock_bubble.jpg",
       "publishedAt": "2025-10-15T21:03:13Z",
       "content": "OpenAI is losing about three times more money than it's earning, and 95 percent of those using ChatGPT, which generates roughly 70 percent of the company's recurring revenue, aren't paying a dime to … [+3391 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "Here’s where you can preorder the new M5 MacBook Pro and iPad Pro",
-      "description": "Apple recently announced revised 14-inch MacBook Pro and iPad Pro models, each equipped with the new M5 processor. As expected, Apple's new M5 chip is supposedly faster than the M4, with better performance for graphically demanding applications. Apple also sa…",
-      "url": "https://www.theverge.com/tech/800056/m5-macbook-pro-14-inch-ipad-pro-preorder-price-release-date-availability",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Apple-MacBook-Pro-14-in-lifestyle-podcast-251015.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-15T20:50:24Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nApples latest gadgets launch on October 22nd with a faster processor and other minor upgrades.\r\nApples latest gadgets launch on October 22nd with a faster proces… [+4777 chars]"
     }
   ]
 }
