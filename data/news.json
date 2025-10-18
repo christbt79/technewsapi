@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T21:07:03.830Z",
+  "fetchedAt": "2025-10-18T21:30:58.478Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster",
+      "description": "Cleverly concocked deal keeps debt off Social Media empire's books Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.…",
+      "url": "https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/17/blue_owl.jpg",
+      "publishedAt": "2025-10-17T21:08:53Z",
+      "content": "Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.\r\nMeta sealed the deal with the… [+1989 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/LYXEBRFVHinmDdveDXwvHQ-2560-80.jpg",
       "publishedAt": "2025-10-16T15:23:08Z",
       "content": "Last week, a new round of the U.S.-China trade war commenced. China imposed export controls on a new set of rare earth materials and the methods of their processing, which may impact a variety of pro… [+9135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc",
-      "title": "Bank of America, BNY sued over alleged financial ties to Jeffrey Epstein",
-      "description": "A woman who says she was abused by the late financier and sex offender Jeffrey Epstein sued Bank of America and the Bank of New York Mellon.",
-      "url": "https://www.cnbc.com/2025/10/16/bank-of-america-bny-sued-over-alleged-financial-ties-to-jeffrey-epstein.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108132006-1744719999692-gettyimages-2209792192-McGregor250414NYCbusinesses17.jpeg?v=1744720090&w=1920&h=1080",
-      "publishedAt": "2025-10-16T15:21:18Z",
-      "content": "Sign at the entrance to a Bank Of America branch in Manhattan. \r\nA woman who says she was abused by the late financier and sex offender Jeffrey Epstein sued Bank of America and the Bank of New York M… [+3424 chars]"
     }
   ]
 }
