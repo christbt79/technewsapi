@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-18T16:09:23.525Z",
+  "fetchedAt": "2025-10-18T16:39:14.183Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Hyperscalers try to beat the heat with larger racks, more air flow",
+      "description": "Most datacenters to ditch 19-inch standard for 21-inch OCP kit by 2030\nDatacenters are set to standardize on the larger, 21-inch rack format by 2030, according to Omdia, as hyperscalers and server makers fully embrace it, leaving enterprises to the existing 1…",
+      "url": "https://www.theregister.com/2025/10/17/hyperscaler_datacenter_ocp/",
+      "urlToImage": "https://regmedia.co.uk/2022/04/07/datacenter.jpg",
+      "publishedAt": "2025-10-17T16:32:48Z",
+      "content": "Datacenters are set to standardize on the larger, 21-inch rack format by 2030, according to Omdia, as hyperscalers and server makers fully embrace it, leaving enterprises to the existing 19-inch stan… [+2465 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "ChatGPT’s mobile app is seeing slowing download growth and daily use, analysis shows",
+      "description": "ChatGPT’s mobile app may have reached its growth peak, according to new data from app intelligence firm Apptopia.",
+      "url": "https://techcrunch.com/2025/10/17/chatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "publishedAt": "2025-10-17T16:26:22Z",
+      "content": "ChatGPT’s mobile app growth may have hit its peak, according to a new analysis of download trends and daily active users provided by the third-party app intelligence Apptopia. Its estimates indicate … [+3261 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "ChatGPT: Everything you need to know about the AI chatbot",
+      "description": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
+      "url": "https://techcrunch.com/2025/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "publishedAt": "2025-10-17T16:14:26Z",
+      "content": "ChatGPT, OpenAIs text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with sh… [+47689 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383595/STK467_AI_MUSIC_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-16T13:32:54Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSony, Universal, Warner and other music labels are partnering with Spotify as it starts a generative AI research lab.\r\nSony, Universal, Warner and other music la… [+3711 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Spotify partners with record labels to create 'artist-first' AI music products | TechCrunch",
-      "description": "Spotify has announced new partnerships with major record labels — including Sony, Universal, Warner, and Merlin — to build “responsible AI” tools that protect artists’ rights and ensure fair compensation. The initiative will let artists opt in or out of AI us…",
-      "url": "https://techcrunch.com/2025/10/16/spotify-partners-with-record-labels-to-create-artist-first-ai-music-products/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
-      "publishedAt": "2025-10-16T13:29:27Z",
-      "content": "Spotify on Thursday announced a series of deals with major record labels to develop new AI products designed ensure fair compensation and center artists and songwriters in the experience. In partners… [+2220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft will test a Copilot AI feature that performs work on local files in Windows 11",
-      "description": "Early adopters will be able to tell Microsoft's Copilot assistant to take action on files stored on their Windows 11 PCs.",
-      "url": "https://www.cnbc.com/2025/10/16/microsoft-test-copilot-manus-windows-11.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212825-1760598225659-gettyimages-2153357701-AFP_34TE8D4.jpeg?v=1760598421&w=1920&h=1080",
-      "publishedAt": "2025-10-16T13:17:38Z",
-      "content": "On Tuesday, Microsoft stopped supporting Windows 10, the operating system it introduced 10 years earlier. \r\nThe software company is enticing people to upgrade their PCs with a slate of artificial int… [+3395 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Verge Staff",
-      "title": "The future of being trans on the internet",
-      "description": "The internet has long been a source of information and support for transgender people. Now, trans rights and the internet itself are in a moment of crisis. What happens next? How trans visibility became a trap People who have documented their lives online are…",
-      "url": "https://www.theverge.com/cs/features/777087/trans-internet-privacy-safety-anonymity-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257907_future_of_being_trans_HUB_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-16T13:14:39Z",
-      "content": "The internet has long been a source of information and support for transgender people. Now, trans rights and the internet itself are in a moment of crisis. What happens next?\r\nPeople who have documen… [+1045 chars]"
     }
   ]
 }
