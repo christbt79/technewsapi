@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T15:07:35.731Z",
+  "fetchedAt": "2025-10-18T15:31:39.311Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Samsung Galaxy S25 Ultra vs. iPhone 17 Pro Max: I tested both devices, and here's the winner",
+      "description": "Which flagship phone should you buy in 2025? Here's how Apple and Samsung's top-tier models compare.",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-s25-ultra-vs-iphone-17-pro-max-i-tested-both-devices-and-heres-the-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T15:31:00Z",
+      "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple announced its new iPhone 17 lineup last month at the Awe-Dropping Event in Cupertino, California. After y… [+5635 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     }
   ]
 }
