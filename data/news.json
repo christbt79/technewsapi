@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-18T12:56:00.444Z",
+  "fetchedAt": "2025-10-18T13:16:35.018Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Chris Stokel-Walker",
+      "title": "Massive AI data center buildouts are squeezing energy supplies — New energy methods are being explored as power demands are set to skyrocket",
+      "description": "A perfect storm of massive data centre buildout and new innovations in energy could materially change what our supplies look like in the future.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/massive-ai-data-center-buildouts-are-squeezing-energy-supplies-new-energy-methods-are-being-explored-as-power-demands-are-set-to-skyrocket",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iXvdGdAthLU8yz7kpjQDyV-1920-80.jpg",
+      "publishedAt": "2025-10-17T13:15:59Z",
+      "content": "The world is building the electricity system for artificial intelligence on the fly. Over the next five years, the power appetite of data-center campuses built for training and serving large AI model… [+11762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Labor unions sue Trump administration over social media surveillance",
+      "description": "Sharing views POTUS doesn't like? Say goodbye to that visa, First Amendment be damned Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to…",
+      "url": "https://www.theregister.com/2025/10/17/labor_unions_surveillance_lawsuit/",
+      "urlToImage": "https://regmedia.co.uk/2021/01/12/visa.jpg",
+      "publishedAt": "2025-10-17T13:07:52Z",
+      "content": "Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to punish those who publicly… [+5280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Apple M5 chip smashes Snapdragon X2 Elite in early single-thread benchmarks — single core scores rival Intel's Core Ultra 9 285K and beat AMD's 9950X3D, teasing multi-core potential of future variants",
+      "description": "The M5 chip in the new iPad Pro and MacBook Pro refreshes performs slightly differently, as revealed by Geekbench results. This makes sense considering how one is a thin-and-light tablet, while the other is a thick, pro laptop designed to sustain performance …",
+      "url": "https://www.tomshardware.com/pc-components/cpus/apple-m5-chip-smashes-snapdragon-x2-elite-in-early-single-thread-benchmarks-single-core-scores-rival-intels-core-ultra-9-285k-and-beat-amds-9950x3d-teasing-multi-core-potential-of-future-variants",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pt2zBYGMyTddZMePp87NQZ-1920-80.jpg",
+      "publishedAt": "2025-10-17T13:07:02Z",
+      "content": "Apple unveiled the latest addition to its family of homegrown chips — the M5 — a couple of days ago, and it's powering both the new iPad Pro and the 14-inch MacBook Pro. New Geekbench listings spotte… [+4668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "You're reading more AI-generated content than you think",
+      "description": "You're not imagining it. A new report highlights AI's growing takeover of the internet.",
+      "url": "https://www.zdnet.com/article/youre-reading-more-ai-generated-content-than-you-think/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f8efd4505af17cd441d1a9b6af0047856cd70dde/2025/10/17/608582d3-7968-40e2-b742-a3c85fe82a82/gettyimages-2213687401.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-17T13:05:00Z",
+      "content": "Ekaterina Goncharova/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Over half of new published articles are AI-generated. </li><li>However… [+2496 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "I Used Squarespace’s Blueprint AI to Design a Website",
+      "description": "Blueprint combines AI and curated designs to get your website up and running in a few minutes.",
+      "url": "https://www.wired.com/story/squarespace-blueprint-ai-website-builder/",
+      "urlToImage": "https://media.wired.com/photos/68f177047dc1ccf204567548/191:100/w_1280,c_limit/squarespace-Jacob-Roach.png",
+      "publishedAt": "2025-10-17T13:00:00Z",
+      "content": "Still, something is lost in mixing and matching these different design elements. After going through the five-step Blueprint setup process a few times, the building blocks became clearer. The final p… [+2242 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "AI can’t even turn on the lights",
+      "description": "Large language models are currently everyone's solution to everything. The technology's versatility is part of its appeal: the use cases for generative AI seem both huge and endless. But then you use the stuff, and not enough of it works very well. And you wo…",
+      "url": "https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1017_Site.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+      "publishedAt": "2025-10-17T12:56:16Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples M5, the state of smart home assistants, and a boom in AI song covers.\r\nOn The Vergecast: Apples M5, the state of smart home assistants, … [+3089 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/15/gold_rush.jpg",
       "publishedAt": "2025-10-16T09:45:07Z",
       "content": "Feature The generative AI revolution has exposed a brutal truth: raw computing power means nothing if you can't feed the beast. In sprawling AI datacenters housing thousands of GPUs, the real chokepo… [+9713 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft is reportedly moving its Surface manufacturing out of China",
-      "description": "As trade tensions grow between the US and China, Microsoft is reportedly preparing to move the manufacturing of its Surface laptops and tablets out of China. Nikkei reports that Microsoft is aiming to move manufacturing of Surface devices and data center serv…",
-      "url": "https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257745_Surface_Pro_AKrales_0187.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-16T09:06:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe move could also see server production move out of China, as trade tensions with the US intensify.\r\nThe move could also see server production move out of Chin… [+2620 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Tachyum's 'general-purpose' Prodigy chip delayed again — now with 256 cores per chiplet and a $500 million purchase order from EU investor",
-      "description": "Tachyum upgrades its Prodigy to 256 cores and announced and fresh funding for its AI and HPC processor, but admitted the chip has not yet been taped out or finalized, so the project remains far from production despite years of delays.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/tachyums-general-purpose-prodigy-chip-delayed-again-now-with-256-cores-per-chiplet-and-a-usd500-million-purchase-order-from-eu-investor",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5f5WeAbrAL7SpQXQgv8XSF-1920-80.png",
-      "publishedAt": "2025-10-16T09:00:00Z",
-      "content": "Tachyum broke the silence Wednesday about its Prodigy universal processor for AI and HPC, announcing plans to boost the number of its cores to increase performance. \r\nThe company also said it closed … [+4429 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Leaving Windows 10 behind? Apple's rumored $599 MacBook might be just for you",
-      "description": "Apple could be developing a new, lightweight MacBook with the iPhone's A18 Pro chipset, and at a price we can't ignore.",
-      "url": "https://www.zdnet.com/article/leaving-windows-10-behind-apples-rumored-599-macbook-might-be-just-for-you/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/02aaed98b9842205d88c91dfdd69696d7a66de9f/2025/03/12/acace593-7f8b-498c-88e4-0af82f0ede6a/img-0571.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T08:15:39Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple could be developing a new budget-friendly MacBook for around $599. </li><li>Rumors st… [+3397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Larry Ellison's latest craze: Vectorizing all the customers",
-      "description": "Oracle slurps your data whether you like it or not... for the good and bad of the planet\nComment If you're an Oracle customer – throw a pebble into a crowd of 100 CIOs and you're bound to hit one – then Big Red has vectorized you. Or, more accurately, it has …",
-      "url": "https://www.theregister.com/2025/10/16/oracle_vectorizes_its_customers/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/15/larry_ellison.jpg",
-      "publishedAt": "2025-10-16T08:13:11Z",
-      "content": "Comment If you're an Oracle customer throw a pebble into a crowd of 100 CIOs and you're bound to hit one then Big Red has vectorized you. Or, more accurately, it has vectorized your data, according t… [+4945 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Eirik Salmi, system analyst, Passwork",
-      "title": "Machine learning meets malware: how AI-powered ransomware could destroy your business",
-      "description": "How to avoid your business being felled by an AI-powered ransomware attack that costs less than a laptop. Passwork  KNP Logistics Group, a British transport company from Northamptonshire that’s been around longer than the mass-produced lightbulb, collapsed af…",
-      "url": "https://www.theregister.com/2025/10/16/machine_learning_meets_malware/",
-      "urlToImage": "https://regmedia.co.uk/2024/09/20/shutterstock_ai_future.jpg",
-      "publishedAt": "2025-10-16T08:00:08Z",
-      "content": "Passwork KNP Logistics Group, a British transport company from Northamptonshire thats been around longer than the mass-produced lightbulb, collapsed after a devastating security breach that left more… [+10619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Chance of AI market correction is 'pretty high,' says ex-Meta exec Nick Clegg as he pushes back on superintelligence",
-      "description": "The AI boom has resulted in \"unbelievable, crazy valuations,\" Clegg said.",
-      "url": "https://www.cnbc.com/2025/10/16/ex-meta-exec-nick-clegg-chance-of-ai-correction-is-pretty-high.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204495-1758897586672-gettyimages-1245436125-AFP_32ZR8JC.jpeg?v=1760544860&w=1920&h=1080",
-      "publishedAt": "2025-10-16T07:09:20Z",
-      "content": "File: Meta President Global Affairs Nick Clegg speaks during a press conference at the Meta showroom in Brussels on December 07, 2022.\r\nThe chance of a market correction in the artificial intelligenc… [+3741 chars]"
     }
   ]
 }
