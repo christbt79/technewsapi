@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T10:08:04.862Z",
+  "fetchedAt": "2025-10-18T10:36:56.406Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Parham",
+      "title": "The Blurred Truths of Sora",
+      "description": "Many will assume that OpenAI’s Sora app represents a new era of social media. But that’s wrong—all it does is reanimate our current one.",
+      "url": "https://www.wired.com/story/the-blurred-truths-of-sora/",
+      "urlToImage": "https://media.wired.com/photos/68ed65c3bfe13206c9ff9da1/191:100/w_1280,c_limit/GettyImages-2239939782.jpg",
+      "publishedAt": "2025-10-17T10:30:00Z",
+      "content": "As a purely creative instrument, Sora, the new AI video app from OpenAI, is a game changer. Dream up any scenario and it appears in an instant. Freddy Krueger as a contestant on Dancing With the Star… [+2525 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -888,19 +901,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Andrew E. Freedman",
-      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
-      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
-      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
-      "publishedAt": "2025-10-16T13:00:00Z",
-      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ZDNet"
       },
       "author": "Kyle Kucharski",
@@ -910,6 +910,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9847339de5852df2468e007514bf0eeaa0adfdda/2024/09/18/e932f1c1-a35e-4852-abcc-d4b074ec6817/microsoft-surface-laptop-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T13:00:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft adds multimodal Copilot features to Windows 11.</li><li>Talk to your PC, share yo… [+7373 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Andrew E. Freedman",
+      "title": "Microsoft wants you to talk to Windows 11 PCs again — Copilot gets 'conversational' input to complement your mouse and keyboard",
+      "description": "Microsoft is going deep on AI with Windows 11, making voice a third input aside the keyboard and mouse with new wake words and additional features.",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-wants-you-to-talk-to-windows-11-pcs-again-copilot-gets-conversational-input-to-complement-your-mouse-and-keyboard",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o6seAtfpDTyyCcDVNZqJEb-1920-80.jpg",
+      "publishedAt": "2025-10-16T13:00:00Z",
+      "content": "Microsoft is pushing to make every Windows 11 PC an AI PC. In new updates, the company is focusing on further integrating AI into Windows 11 apps and experiences (not just chatbots), and making voice… [+4707 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/07/12/shutterstock_zuck.jpg",
       "publishedAt": "2025-10-16T00:30:31Z",
       "content": "Meta on Wednesday entered into a partnership with Arm Holdings with the aim of helping its software run more efficiently on the British chip designer's CPUs.\r\nThe tie-up signals that Arm will also pl… [+2608 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Librephone battles the proprietary binary blob",
-      "description": "Free Software Foundation project aims to reverse-engineer non-freedom respecting firmware To bridge the gap between Android distributions and true mobile phone freedom, the Free Software Foundation (FSF) has launched an initiative called Librephone.…",
-      "url": "https://www.theregister.com/2025/10/15/fsf_librphone_vs_proprietary_binary_blog/",
-      "urlToImage": "https://regmedia.co.uk/2015/11/26/prison_jailbreak_freedom_shutterstock.jpg",
-      "publishedAt": "2025-10-15T23:56:12Z",
-      "content": "To bridge the gap between Android distributions and true mobile phone freedom, the Free Software Foundation (FSF) has launched an initiative called Librephone.\r\nIt's not an attempt to build yet anoth… [+4499 chars]"
     }
   ]
 }
