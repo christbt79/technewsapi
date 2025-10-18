@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T22:07:30.476Z",
+  "fetchedAt": "2025-10-18T22:34:36.658Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "The US has a new roadmap for fusion energy, without the funds to back it up",
+      "description": "The Department of Energy (DOE) released a new roadmap for the US to realize the decades-long dream of harnessing fusion energy. It’s a commitment to support research and development efforts and pursue public-private partnerships to finally build the first gen…",
+      "url": "https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1448790394.jpg?quality=90&strip=all&crop=0%2C10.73652856756%2C100%2C78.52694286488&w=1200",
+      "publishedAt": "2025-10-17T22:21:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts an ambitious timeline thats light on details.\r\nIts an ambitious timeline thats light on details.\r\nby\r\nJustine CalmaClose\r\nJustine Calma\r\nPosts from this auth… [+6200 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177273-1753466127579-gettyimages-2224449965-TFSPI_14072025-8776.jpeg?v=1760620879&w=1920&h=1080",
       "publishedAt": "2025-10-16T15:41:00Z",
       "content": "Spotify announced Thursday that it will be partnering with Sony Music Group, Universal Music Group, Warner Music Group, as well as independent licensing agency Merlin and digital music company Believ… [+3264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China accuses U.S. of deliberately causing panic over rare earth controls, says it is open to talks",
-      "description": "Beijing last week announced sweeping controls on rare earths ahead of an expected meeting between President Donald Trump and President Xi Jinping.",
-      "url": "https://www.cnbc.com/2025/10/16/china-trump-xi-rare-earth-tariff-trade-war.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213037-1760628982376-gettyimages-2241386456-vcg111597613940.jpeg?v=1760629057&w=1920&h=1080",
-      "publishedAt": "2025-10-16T15:40:52Z",
-      "content": "China on Thursday accused the U.S. of creating \"panic\" over Beijing's controls on rare earth minerals, but indicated it is open to trade talks to resolve a dispute that has threatened to reignite a t… [+3057 chars]"
     }
   ]
 }
