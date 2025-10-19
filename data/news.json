@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-19T13:35:50.056Z",
+  "fetchedAt": "2025-10-19T14:07:24.002Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI headshots are changing the way job seekers are seen and get hired in changing labor market",
+      "description": "In a competitive job market, a good headshot can make a big difference. That's leading to a wave of AI headshots on LinkedIn and other hiring platforms.",
+      "url": "https://www.cnbc.com/2025/10/18/jobs-search-ai-resume-cv-headshots.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212514-1760546288425-gettyimages-2153570840-dsc08499.jpeg?v=1760546365&w=1920&h=1080",
+      "publishedAt": "2025-10-18T14:04:23Z",
+      "content": "AI headshots are becoming popular on LinkedIn and in professional portfolios as job seekers look for affordable profile pictures to give them an edge.\r\nSince first impressions happen almost entirely … [+5941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Jensen says Nvidia’s China AI GPU market share has plummeted from 95% to zero — the Chinese market previously amounted to 20% to 25% of the chipmaker's data center revenue",
+      "description": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite.",
+      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-says-nvidia-china-market-share-has-fallen-to-zero",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TaELLfgnHowgSbG2kZofkW-1920-80.png",
+      "publishedAt": "2025-10-18T13:53:18Z",
+      "content": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite. The comment ca… [+2667 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/3f60bec864e774fdb8bb5df89ee568efb6d6f6f0/2025/06/18/4183c56c-14d3-47ba-8c27-6cae6dc20120/gettyimages-2158707629.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T17:54:38Z",
       "content": "Bloomberg/Contributor/Bloomberg via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic has launched a new Microsoft 365 connector for Claude… [+3922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "New deadline: Claim up to $7,500 from AT&T's $177M data breach payouts - here's how",
-      "description": "A judge just extended the deadline for AT&T's $177 million data breach settlement. Here's how to claim your payout before it's too late.",
-      "url": "https://www.zdnet.com/article/new-deadline-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0ce2d5cf30379086c73e466beaa86dde202f1dc9/2025/10/16/26416d80-a89b-4873-90db-e3c844f72371/you-can-claim-up-to-7500-from-at-ts-177m-data-breach-payouts-how-to-qualify.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T17:22:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AT&amp;T's $177 million settlement is for data breaches in 2019 and 2024.</li><li>… [+4092 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Snap's latest Specs AI updates prove that it's taking smart glasses seriously (but in a different way)",
-      "description": "Building fun Lenses just got easier, and they'll be coming to Specs when they launch next year.",
-      "url": "https://www.zdnet.com/article/snaps-latest-specs-ai-updates-prove-that-its-taking-smart-glasses-seriously-but-in-a-different-way/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8dba153e12193fd343e7ed5157ee390eb5f0aee0/2024/10/23/b8f83dc8-93eb-4be1-b09b-7b47eb6710f8/img-2522-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T17:00:34Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Snap unveiled updates to Lens Studio. </li><li>Now it is easier to build engaging Lenses (AR… [+4143 chars]"
     }
   ]
 }
