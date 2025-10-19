@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-19T10:36:35.753Z",
+  "fetchedAt": "2025-10-19T11:04:50.616Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Every product Apple launched this week: M5 MacBook Pro, iPad, $3,500 Vision Pro, more",
+      "description": "Apple has unveiled three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
+      "url": "https://www.zdnet.com/article/every-product-apple-launched-this-week-m5-macbook-pro-ipad-3500-vision-pro-more/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/867925648f1bc8f80f778905537c448003e37e49/2024/06/10/1e3aada3-5f9c-4f27-b438-eadc4f11743f/vision-pro-display-apple-park-wwdc-2024.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-18T11:00:31Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>T… [+4504 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/16/prophet.jpg",
       "publishedAt": "2025-10-16T16:46:08Z",
       "content": "Salesforce CEO Marc Benioff has warned investors to beware \"false prophets\" peddling AI salvation, as the CRM giant bets on its \"agentic enterprise\" vision to drive annual revenue past $60 billion by… [+3924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "ClickFix attacks are surging, and Microsoft says you are the only defense",
-      "description": "These social engineering tactics trick you into scamming yourself, and traditional anti-phishing methods won't protect you. Here's what will.",
-      "url": "https://www.zdnet.com/article/scam-yourself-microsoft-warns-of-a-rapid-rise-in-clickfix-attacks/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b1b01ac5ee09b93d7bc307c2b715945d608b1b68/2025/06/26/81988e01-434a-462d-a8d5-bb3d45cfef59/microsoft-rolls-out-windows-security-changes-to-prevent-another-crowdstrike-meltdown2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T16:32:01Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The ClickFix social engineering tactic is rising in popularity.</li><li>Microsoft s… [+5240 chars]"
     }
   ]
 }
