@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-19T18:41:35.036Z",
+  "fetchedAt": "2025-10-19T19:04:58.891Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Wikipedia says traffic is falling due to AI search summaries and social video | TechCrunch",
+      "description": "Wikipedia says traffic is falling due to AI search summaries and social video | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?resize=1200,800",
+      "publishedAt": "2025-10-18T19:02:33Z",
+      "content": "Wikipedia is often described as the last good website on an internet increasingly filled with toxic social media and AI slop, but it seems the online encyclopedia is not completely immune to broader … [+2525 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "This top VC bet close to 20% of his fund on teenagers — here's why | TechCrunch",
+      "description": "Eventbrite co-founder Kevin Hartz is onto his next thing — teenage founders, not as a social experiment but as an unplanned investment thesis.",
+      "url": "https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1080967246.jpg?resize=1200,795",
+      "publishedAt": "2025-10-18T18:43:42Z",
+      "content": "Kevin Hartz tends to be first through the door. In 2001, he co-founded Xoom, back when sending money across borders meant standing in line at Western Union. In 2013, it went public, and in 2015, PayP… [+7223 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/619f2d9f05add722c8195209019d0c5389aafd09/2025/10/16/478ef2d1-0a9c-452b-b0c5-6dd9f0d2544a/gettyimages-1485676312.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T18:55:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Over half of published articles are AI-generated. </li><li>However, the percentage of AI-generated articles is p… [+2450 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Amazon's Ring to partner with Flock, a network of AI cameras used by ICE, feds, and police | TechCrunch",
-      "description": "Agencies that use Flock can request that Ring doorbell users share footage to help with \"evidence collection and investigative work.\"",
-      "url": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb.jpg?w=1200",
-      "publishedAt": "2025-10-16T18:37:40Z",
-      "content": "Amazon’s surveillance camera maker Ring announced a partnership on Thursday with Flock, a maker of AI-powered surveillance cameras that share footage with law enforcement.\r\nNow, agencies that use Flo… [+962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Oracle stock rises as company confirms Meta cloud deal",
-      "description": "In 30 days during the current quarter, Oracle contracted $65 billion in new cloud infrastructure commitments, one of Oracle's CEOs told analysts on Thursday.",
-      "url": "https://www.cnbc.com/2025/10/16/oracle-confirms-meta-cloud-deal-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1760637633&w=1920&h=1080",
-      "publishedAt": "2025-10-16T18:16:41Z",
-      "content": "Oracle shares jumped as much as 5% on Thursday as it indicated that it expects more business in core categories and confirmed a cloud-computing deal with social media company Meta.\r\nThe maker of data… [+1772 chars]"
     }
   ]
 }
