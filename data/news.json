@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-19T14:34:03.860Z",
+  "fetchedAt": "2025-10-19T15:07:27.097Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product",
+      "description": "Nvidia and TSMC have produced the first Blackwell wafer at TSMC’s Arizona fab, marking a historic step in bringing advanced AI chip manufacturing to the U.S.. However, the chip still relies on Taiwan for final CoWoS-L packaging, which leaves the achievement l…",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-and-tsmc-produce-the-first-blackwell-wafer-made-in-the-u-s-chips-still-need-to-be-shipped-back-to-taiwan-to-complete-the-final-product",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eCNDw2PBYHZ6B2UwEt7VKT-2560-80.jpg",
+      "publishedAt": "2025-10-18T14:48:16Z",
+      "content": "Nvidia and TSMC on Friday announced they had reached a significant milestone with the manufacturing of the first production Blackwell wafer at Fab 21 near Phoenix, Arizona. The achievement of making … [+4124 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/FilteringPins-NewsroomHeader.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-16T18:15:12Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe platform does not promise a completely AI-free feed. \r\nThe platform does not promise a completely AI-free feed. \r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts … [+1850 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Rent a Cyber Friend will pay you to talk to strangers online and will show off its platform at TechCrunch Disrupt 2025",
-      "description": "\"Loneliness is the biggest disease in the world right now,\" founder Francesco Vitali said. \"So we built a platform where human time has value again, and a place where being human is important.\"",
-      "url": "https://techcrunch.com/2025/10/16/rent-a-cyber-friend-will-pay-you-to-talk-to-strangers-online-and-will-show-off-its-platform-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/372276315_328011459682660_4996938029154330019_n.jpeg?resize=1200,848",
-      "publishedAt": "2025-10-16T17:59:04Z",
-      "content": "Francesco Vitali will be the first to admit that when his co-founder Chris Siametis first pitched him on Rent a Cyber Friend, he didn’t quite get the idea.\r\n“Who’s going to pay somebody to speak with… [+3415 chars]"
     }
   ]
 }
