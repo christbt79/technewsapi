@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-19T10:08:36.101Z",
+  "fetchedAt": "2025-10-19T10:36:35.753Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg, Matt Burgess",
+      "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
+      "description": "Plus: A secret FBI anti-ransomware task force gets exposed, the mystery of the CIA’s Kryptos sculpture is finally solved, North Koreans busted hiding malware in the Ethereum blockchain, and more.",
+      "url": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
+      "urlToImage": "https://media.wired.com/photos/68f2a27d39a463bf9c66f1c5/191:100/w_1280,c_limit/sec-roundup-ice-dox-2241445382.jpg",
+      "publishedAt": "2025-10-18T10:30:00Z",
+      "content": "In a stunning new study, researchers at UC San Diego and the University of Maryland revealed this week that satellites are leaking a wealth of sensitive data completely unencrypted, from calls and te… [+5745 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1286,19 +1299,6 @@
       "url": "https://www.zdnet.com/article/scam-yourself-microsoft-warns-of-a-rapid-rise-in-clickfix-attacks/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b1b01ac5ee09b93d7bc307c2b715945d608b1b68/2025/06/26/81988e01-434a-462d-a8d5-bb3d45cfef59/microsoft-rolls-out-windows-security-changes-to-prevent-another-crowdstrike-meltdown2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-16T16:32:01Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The ClickFix social engineering tactic is rising in popularity.</li><li>Microsoft s… [+5240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "ClickFix attacks are surging, and Microsoft says you are the only defense",
-      "description": "These social engineering tactics trick you into scamming yourself, and traditional anti-phishing methods won't protect you. Here's what will.",
-      "url": "https://www.zdnet.com/article/clickfix-attacks-are-surging-and-microsoft-says-you-are-the-only-defense/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b1b01ac5ee09b93d7bc307c2b715945d608b1b68/2025/06/26/81988e01-434a-462d-a8d5-bb3d45cfef59/microsoft-rolls-out-windows-security-changes-to-prevent-another-crowdstrike-meltdown2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T16:32:00Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The ClickFix social engineering tactic is rising in popularity.</li><li>Microsoft s… [+5240 chars]"
     }
   ]
