@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-19T00:48:15.596Z",
+  "fetchedAt": "2025-10-19T02:29:40.384Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Silicon Valley spooks the AI safety advocates | TechCrunch",
+      "description": "The White House's David Sacks and OpenAI's Jason Kwon caused a stir online this week for their comments about groups promoting AI safety.",
+      "url": "https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
+      "publishedAt": "2025-10-18T01:22:30Z",
+      "content": "Silicon Valley leaders including White House AI &amp; Crypto Czar David Sacks and OpenAI Chief Strategy Officer Jason Kwon caused a stir online this week for their comments about groups promoting AI … [+6596 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107249627-1685649298595-gettyimages-1495189703-img_1623_wwmireof.jpeg?v=1685649367&w=1920&h=1080",
       "publishedAt": "2025-10-16T16:18:53Z",
       "content": "Amazon's Ring security cameras are moving deeper into law enforcement work in a new deal with Flock Safety that will allow citizens who own Ring cameras to share footage that can assist in crime inve… [+7118 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zeyi Yang",
-      "title": "How ByteDance Made China’s Most Popular AI Chatbot",
-      "description": "An AI chatbot developed by TikTok's parent company, ByteDance, is now more popular than DeepSeek. The feat proves that user-friendly design often matters more than having the most advanced AI model.",
-      "url": "https://www.wired.com/story/bytedance-doubao-chatbot-popularity/",
-      "urlToImage": "https://media.wired.com/photos/68effb552611849cab159a7b/191:100/w_1280,c_limit/business_china_doubao_chatbot.jpg",
-      "publishedAt": "2025-10-16T16:07:50Z",
-      "content": "When Chinese AI startup DeepSeek became a global sensation in January, it not only shocked Silicon Valley but also startled ByteDance, TikToks parent company. The Chinese tech giant had already launc… [+2672 chars]"
     }
   ]
 }
