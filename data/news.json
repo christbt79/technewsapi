@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-18T23:31:33.069Z",
+  "fetchedAt": "2025-10-19T00:48:15.596Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Facebook’s new button lets its AI look at photos you haven’t uploaded yet",
+      "description": "Meta has rolled out an opt-in AI feature to its US and Canadian Facebook users that claims to make their photos and videos more “shareworthy.” The only catch is that the feature is designed for your phone’s camera roll — not the media you’ve already uploaded …",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK043_VRG_Illo_N_Barclay_5_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-18T00:15:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe opt-in feature will also give Meta a chance to improve its AI using your camera roll.\r\nThe opt-in feature will also give Meta a chance to improve its AI usin… [+4068 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68effb552611849cab159a7b/191:100/w_1280,c_limit/business_china_doubao_chatbot.jpg",
       "publishedAt": "2025-10-16T16:07:50Z",
       "content": "When Chinese AI startup DeepSeek became a global sensation in January, it not only shocked Silicon Valley but also startled ByteDance, TikToks parent company. The Chinese tech giant had already launc… [+2672 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "How a headphone site operator built loyalty startup Lantern to solve his own problems | TechCrunch",
-      "description": "After struggling to retain customers at his e-commerce site Headphones.com, founder Andrew Lissimore built his own loyalty solution — and it’s now a startup called Lantern. The Shopify-native platform helps brands boost retention through customizable loyalty,…",
-      "url": "https://techcrunch.com/2025/10/16/how-a-headphone-site-operator-built-loyalty-startup-lantern-to-solve-his-own-problems/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Andrew-Lantern-co-founder.jpg?resize=1200,800",
-      "publishedAt": "2025-10-16T15:54:18Z",
-      "content": "Andrew Lissimore has been running the audio apparel site Headphones.com for nearly a decade now. While audiophiles have a high affinity towards their gear and want to try out new gadgets, Lissimore w… [+3937 chars]"
     }
   ]
 }
