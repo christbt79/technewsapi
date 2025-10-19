@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-19T15:31:52.728Z",
+  "fetchedAt": "2025-10-19T16:09:14.192Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Too burned out to travel? This new app fakes your summer vacation photos for you",
+      "description": "A new iPhone app, Endless Summer, uses AI to create photorealistic vacation photos starring you — no travel required",
+      "url": "https://techcrunch.com/2025/10/18/too-burned-out-to-travel-this-new-app-fakes-your-summer-vacation-photos-for-you/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/travel-photo-GettyImages-1176439818.jpg?resize=1200,800",
+      "publishedAt": "2025-10-18T16:00:00Z",
+      "content": "At a time when startuphustle culture is back, when “locked in” tech founders have even embraced the “996” way of working — 9 am to 9 pm, 6 days a week — there is something dystopian about using an AI… [+3851 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1760637633&w=1920&h=1080",
       "publishedAt": "2025-10-16T18:16:41Z",
       "content": "Oracle shares jumped as much as 5% on Thursday as it indicated that it expects more business in core categories and confirmed a cloud-computing deal with social media company Meta.\r\nThe maker of data… [+1772 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Pinterest’s ‘tuner’ lets you dial down the amount of AI content — but not entirely",
-      "description": "Pinterest is rolling out a tool that allows users to “dial down the AI” in their feed, the company says. Users can select which categories they want populated with more or less AI-generated content. But Pinterest stops short of promising a feed that’s complet…",
-      "url": "https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/FilteringPins-NewsroomHeader.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-16T18:15:12Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe platform does not promise a completely AI-free feed. \r\nThe platform does not promise a completely AI-free feed. \r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts … [+1850 chars]"
     }
   ]
 }
