@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-19T11:04:50.616Z",
+  "fetchedAt": "2025-10-19T11:31:01.295Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Jensen Huang personally delivers DGX Spark Mini PCs to Elon Musk and Sam Altman — separately",
+      "description": "Huang also ensured some of the first batch of DGX Spark systems got to top researchers at Cadence, Google, Meta, Microsoft, and others.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-personally-delivers-dgx-spark-mini-pcs-to-elon-musk-and-sam-altman-separately",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VX7xAX8fYVnX2X5GqPDFdW-1920-80.jpg",
+      "publishedAt": "2025-10-18T11:30:01Z",
+      "content": "Earlier this week, Nvidia’s DGX Spark AI mini-PCs were released to the masses. Symbolic of the splintered state of the AI industry, though, Nvidia’s CEO Jensen Huang hand-delivered DGX Spark systems … [+3539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Ruby Central tries to make peace after 'hostile takeover'",
+      "description": "Taps Ruby core to oversee RubyGems, Bundler Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appears to be an attem…",
+      "url": "https://www.theregister.com/2025/10/18/ruby_central_taps_ruby_core/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/17/shutterstockrubyslippers.jpg",
+      "publishedAt": "2025-10-18T11:15:13Z",
+      "content": "Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appear… [+5555 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/03/21/copilot_shutterstock.jpg",
       "publishedAt": "2025-10-16T16:50:56Z",
       "content": "As if pulling support for Windows 10 was not punishment enough for long-suffering customers, Microsoft has decided to shove Copilot down everyone's throats with a new voice activation feature and eve… [+6224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zhiye Liu",
-      "title": "Multiple generations of Intel's modern chips see price hikes up to 20% overseas — foreign markets are feeling the pinch on 12th, 13th, and 14th-gen chips",
-      "description": "International reports indicate that Intel's 12th, 13th, and 14th Generation processors are selling for up to 30% more in markets like Korea and Japan.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/multiple-generations-of-intels-modern-chips-see-price-hikes-up-to-20-percent-overseas-foreign-markets-are-feeling-the-pinch-on-12th-13th-and-14th-gen-chips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ByqWcq4kJkQ2cNULpG2J6N-2560-80.jpg",
-      "publishedAt": "2025-10-16T16:46:16Z",
-      "content": "Recent reports indicated that Intel is purportedly increasing the prices of its 13th Generation Raptor Lake and 14th Generation Raptor Lake Refresh processors by as much as 10%. While this adjustment… [+3610 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Salesforce's Benioff warns of AI 'false prophets' while promising true profits by 2030",
-      "description": "CRM messiah preaches data discipline while rivals chase LLM miracles\nSalesforce CEO Marc Benioff has warned investors to beware \"false prophets\" peddling AI salvation, as the CRM giant bets on its \"agentic enterprise\" vision to drive annual revenue past $60 b…",
-      "url": "https://www.theregister.com/2025/10/16/salesforce_benioff_false_prophets/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/16/prophet.jpg",
-      "publishedAt": "2025-10-16T16:46:08Z",
-      "content": "Salesforce CEO Marc Benioff has warned investors to beware \"false prophets\" peddling AI salvation, as the CRM giant bets on its \"agentic enterprise\" vision to drive annual revenue past $60 billion by… [+3924 chars]"
     }
   ]
 }
