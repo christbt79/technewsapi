@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T20:39:26.202Z",
+  "fetchedAt": "2025-10-20T21:08:14.663Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brian Barrett, Alyssa Walker",
+      "title": "Scenes From Saturday's Nationwide ‘No Kings’ Protests",
+      "description": "Organizers say the “No Kings” protests drew more than seven million people across 2,700 cities. The crowds included high-profile politicians, A-list celebrities, and more than a few creative inflatables.",
+      "url": "https://www.wired.com/story/no-kings-protests-photos/",
+      "urlToImage": "https://media.wired.com/photos/68f54d436dbb311a3f54d8e9/191:100/w_1280,c_limit/ENR_OctNoKings_12.jpg",
+      "publishedAt": "2025-10-19T21:00:10Z",
+      "content": "On Saturday, crowds gathered in cities across the United States to protest President Donald Trump and his administration. Organizers of the No Kings rallies claim that more than seven million people … [+1343 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/dzr4fc/article70174255.ece/alternates/LANDSCAPE_1200/2025-10-15T172415Z_1806324765_RC20BDA2PNFL_RTRMADP_3_USA-BANKS-PRIME.JPG",
       "publishedAt": "2025-10-17T04:55:53Z",
       "content": "Wall Streets rally sputtered as concerns about credit quality hit a pair of regional banks, underscoring the fragility of a $28 trillion bull market showing signs of exhaustion. Bonds and gold rose.\r… [+6945 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Reddit expands its AI-powered search to five new languages",
-      "description": "Reddit announced Thursday that it is expanding its AI-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese. With this expansion, the feature is now available in countries like Brazil, France, Germany, Spain, Mexico…",
-      "url": "https://techcrunch.com/2025/10/16/reddit-expands-its-ai-powered-search-to-five-new-languages/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
-      "publishedAt": "2025-10-17T04:18:03Z",
-      "content": "Reddit announced Thursday that it is expanding its AI-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese. With this expansion, the feature is now availa… [+1039 chars]"
     }
   ]
 }
