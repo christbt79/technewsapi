@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-20T11:31:53.946Z",
+  "fetchedAt": "2025-10-20T12:17:58.982Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I tested a $2,000 medical tablet for research, and it turned out to be a Windows beast",
+      "description": "DT Research's 323MD rugged tablet has an anti-microbial keyboard and IP65 water and dust resistance.",
+      "url": "https://www.zdnet.com/article/i-tested-a-2000-medical-tablet-for-research-and-it-turned-out-to-be-a-windows-beast/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-19T12:00:31Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "As Anthropic tries to keep pace with OpenAI, it's also taking on the U.S. government",
+      "description": "David Sacks, the White House AI and crypto czar, has been publicly critical of Anthropic, which is chasing OpenAI in the artificial intelligence market.",
+      "url": "https://www.cnbc.com/2025/10/19/anthropic-tries-to-keep-pace-with-openai-faces-off-with-david-sacks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108112971-17413818912025-03-07t210857z_1541230211_rc2k8da4v587_rtrmadp_0_usa-trump-crypto.jpeg?v=1741381989&w=1920&h=1080",
+      "publishedAt": "2025-10-19T12:00:01Z",
+      "content": "Dario Amodei, co-founder and chief executive officer of Anthropic, at the World Economic Forum in 2025.\r\nArtificial intelligence startup Anthropic is doing all it can to keep pace with larger rival O… [+6831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Top Wall Street analysts are upbeat on these 3 dividend-paying stocks",
+      "description": "Here are three dividend-paying stocks, highlighted by Wall Street's top pros.",
+      "url": "https://www.cnbc.com/2025/10/19/top-wall-street-analysts-are-upbeat-on-these-3-dividend-paying-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108044335-1728329251268-gettyimages-2158873801-BC_24SChart3598.jpeg?v=1760644141&w=1920&h=1080",
+      "publishedAt": "2025-10-19T11:33:57Z",
+      "content": "On Tuesday, Federal Reserve Chair Jerome Powell gave some hints about more interest rate cuts, mentioning the weakness in the labor market.\r\nBearing in mind an uncertain macroeconomic backdrop and po… [+5797 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/16/robot-fishing.jpg",
       "publishedAt": "2025-10-16T22:53:50Z",
       "content": "People receiving an AI phishing email are 4.5 times more likely to click on the malicious link or file, according to Microsoft.\r\nIn its annual Digital Defense Report, Redmond says these AI-automated … [+5329 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Prologis is 'at a trough,' CEO says, as demand starts to return and data center business gains momentum",
-      "description": "After years of heightened vacancies, Prologist CEO Hamid Moghadam told CNBC's Jim Cramer that demand for warehouse and e-commerce facilities is picking up.",
-      "url": "https://www.cnbc.com/2025/10/16/prologis-ceo-trough-data-center-business-demand-momentum.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103334789-GettyImages-115094823.jpg?v=1760639938&w=1920&h=1080",
-      "publishedAt": "2025-10-16T22:27:50Z",
-      "content": "Prologis CEO Hamid Moghadam told CNBC's Jim Cramer that business is improving as demand for properties starts to grow following years of heightened vacancies, and data center buildout creates more op… [+1827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Skills for Claude will let you customize tasks with pre-set instructions - here's how",
-      "description": "Available to Pro, Max, Team, and Enterprise users, the new capabilities shape Claude's output when carrying out routine or specialized tasks.",
-      "url": "https://www.zdnet.com/article/skills-for-claude-will-let-you-customize-tasks-with-pre-set-instructions-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2e7edb4a084fbc127e58517119ddef227fe77b3a/2025/10/16/be755ce4-3da2-46df-ba8b-daa1e83f949e/gettyimages-1857697752.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T21:46:06Z",
-      "content": "Eugene Mymrin/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic announced Skills for Claude on Wednesday.</li><li>Users are able to cre… [+4285 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "New York bans AI-enabled rent price fixing",
-      "description": "On Thursday, New York Gov. Kathy Hochul signed into law legislation banning the use of price-fixing software by landlords to set rental rates. New York is the first state to outlaw algorithmic pricing by landlords, following a number of city-wide bans in Jers…",
-      "url": "https://www.theverge.com/news/801205/new-york-rent-price-fixing-ban-software",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-16T21:24:52Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the first statewide ban on algorithms designed to drive up rent. \r\nIts the first statewide ban on algorithms designed to drive up rent. \r\nby\r\nElissa WelleClo… [+3054 chars]"
     }
   ]
 }
