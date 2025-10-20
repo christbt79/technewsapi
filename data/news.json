@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T10:42:00.478Z",
+  "fetchedAt": "2025-10-20T11:08:20.940Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "I tried the Meta Ray-Ban Display glasses, and this unreleased feature changes everything",
+      "description": "The style, fit, and features made me a believer.",
+      "url": "https://www.zdnet.com/article/i-tried-the-meta-ray-ban-display-glasses-and-this-unreleased-feature-changes-everything/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad145b32b34a5bc3761b83ad29af0b5d3f348432/2025/10/16/bd81080a-7765-49ef-ae16-ce89886abc30/dsc03159.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-19T11:00:38Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Meta Ray-Ban Displays are the company's most advanced smart glasses. </li><li>The smart … [+7954 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK470_AI_LAW_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-16T21:24:52Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nIts the first statewide ban on algorithms designed to drive up rent. \r\nIts the first statewide ban on algorithms designed to drive up rent. \r\nby\r\nElissa WelleClo… [+3054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Decomposed dinosaurs make Texas a top destination for AI bit barns",
-      "description": "Datacenter hopefuls looking to cash in on AI craze are setting up shop in Lone Star State in search of cheap power Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.…",
-      "url": "https://www.theregister.com/2025/10/16/texas_ai_bitbarns/",
-      "urlToImage": "https://regmedia.co.uk/2016/05/12/lone_cowboy_photo_via_shutterstock.jpg",
-      "publishedAt": "2025-10-16T20:45:28Z",
-      "content": "Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.\r\nThe Lone Star State is quickly emerging as a datacenter mecca, thanks in part to an abundant supply of … [+2740 chars]"
     }
   ]
 }
