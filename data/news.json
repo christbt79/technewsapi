@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-20T16:11:18.497Z",
+  "fetchedAt": "2025-10-20T16:43:54.892Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "TechCrunch Mobility: A takeover that might not be hostile | TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/austin_russell_luminar_ceo_cofounder.jpg?resize=1200,800",
+      "publishedAt": "2025-10-19T16:36:06Z",
+      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. Want another reason to get this free in your inbox? The emailed version of this newsletter … [+7005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "TSMC gives an ultra-rare video look inside its fabs — 'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21",
+      "description": "TSMC's new flyby video of its Fab 21 in Arizona offers a rare glimpse inside the fully operational N4/N5 cleanroom, highlighting ASML's EUV scanners producing chips for Apple, AMD, and Nvidia.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4eZrCtk8yyPbygdoere4cc-2560-80.jpg",
+      "publishedAt": "2025-10-19T16:25:00Z",
+      "content": "TSMC has published a flyby video over its Fab 21 near Phoenix, Arizona. The video shows hundreds of high-tech tools methodically crafting chips for various American companies. The crown jewels of the… [+3667 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-80751598-e1484590456411.jpg?w=967",
       "publishedAt": "2025-10-17T03:24:02Z",
       "content": "OpenAI announced Thursday it paused the ability for users to generate videos resembling the late civil rights activist Martin Luther King Jr. using its AI video model, Sora. The company says it’s add… [+3554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "I recommend this older Windows 11 laptop over some newer models - here's why",
-      "description": "Asus' Zenbook 14 is one of my favorite laptops from 2024, thanks to its OLED screen and high degree of customization.",
-      "url": "https://www.zdnet.com/article/i-recommend-this-older-windows-11-laptop-over-some-newer-models-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5d2f7a3d97fb2cb46a99dc2b2bb21562cf5a837e/2024/04/16/d2d557b8-4a50-4d2d-b24d-dcf4d4b64232/asus-zenbook-14-main.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T00:00:39Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAmong the plethora of work laptops, the 2024 Asus Zenbook 14 stands tall. It performs incredibly well, has a comfortable keyboard, a long-lastin… [+5284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Anthropic brings mad Skills to Claude",
-      "description": "Teaching an old bot new tricks\nPaying Anthropic customers can now teach their Claude new tricks, which the company calls Skills.…",
-      "url": "https://www.theregister.com/2025/10/16/anthropic_mad_skills_claude/",
-      "urlToImage": "https://regmedia.co.uk/2025/04/25/shutterstock_robot_teachers.jpg",
-      "publishedAt": "2025-10-16T23:55:06Z",
-      "content": "Paying Anthropic customers can now teach their Claude new tricks, which the company calls Skills.\r\nDespite much talk about superintelligence, AI models can be clueless when it comes to interacting wi… [+3419 chars]"
     }
   ]
 }
