@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-20T13:02:56.366Z",
+  "fetchedAt": "2025-10-20T13:44:05.394Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Palantir chief takes a jab at Nvidia CEO Jensen Huang, says people decrying ‘China hawks’ are 'useful idiots' — 'The first step to ending our dependence on China is admitting we have a problem'",
+      "description": "The Palantir CTO called out Jensen Huang's 'China hawk' comments.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/palantir-chief-takes-a-jab-at-nvidia-ceo-jensen-huang-says-people-decrying-china-hawks-are-useful-idiots-the-first-step-to-ending-our-dependence-on-china-is-admitting-we-have-a-problem",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TaELLfgnHowgSbG2kZofkW-1920-80.png",
+      "publishedAt": "2025-10-19T13:40:00Z",
+      "content": "Palantir CTO Shyam Sankar said that the U.S. should end its dependence on China, and that the first thing it should do is to recognize its dependence is a problem. According to his opinion piece in t… [+4027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "The Intel i386 turns 40 years old — 275,000 transistors running at 16MHz changed personal computing forever",
+      "description": "Introduced in October 1985, the third-generation x86 processor was the first 32-bit chip in Intel’s PC line, the origin point for the IA-32 instruction set, and the architectural turning point that transformed personal computing.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-386-at-40",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EPQwN5ZJQwLLDA4vXcHgiV-1920-80.jpg",
+      "publishedAt": "2025-10-19T13:10:00Z",
+      "content": "Intel’s 80386 turned 40 this week. Introduced in October 1985, the third-generation x86 processor — better known as the i386 — was the first 32-bit chip in Intel’s PC line, the origin point for the I… [+2532 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080",
       "publishedAt": "2025-10-16T23:48:46Z",
       "content": "Asia-Pacific markets were set for a weaker open Friday, tracking losses on Wall Street as fears over the banking sector and trade tensions intensified.\r\nShares of regional banks and investment bank J… [+1197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "TSMC hurrying to bring advanced chip tech to Arizona fab",
-      "description": "CEO C.C. Wei cites strong demand for AI products. Intel may also be a factor\nTSMC is accelerating the rollout of advanced process nodes at its Arizona fabs to meet growing demand for American-made AI products.…",
-      "url": "https://www.theregister.com/2025/10/16/tsmc_us_roadmap/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/16/tsmc_usa_map.jpg",
-      "publishedAt": "2025-10-16T23:25:05Z",
-      "content": "TSMC is accelerating the rollout of advanced process nodes at its Arizona fabs to meet growing demand for American-made AI products.\r\nThe Taiwanese foundry giant currently produces chips based on its… [+2419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "AI makes phishing 4.5x more effective, Microsoft says",
-      "description": "And potentially 50 times more profitable\nPeople receiving an AI phishing email are 4.5 times more likely to click on the malicious link or file, according to Microsoft.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
-      "url": "https://www.theregister.com/2025/10/16/ai_makes_phishing_45x_more_effective/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/16/robot-fishing.jpg",
-      "publishedAt": "2025-10-16T22:53:50Z",
-      "content": "People receiving an AI phishing email are 4.5 times more likely to click on the malicious link or file, according to Microsoft.\r\nIn its annual Digital Defense Report, Redmond says these AI-automated … [+5329 chars]"
     }
   ]
 }
