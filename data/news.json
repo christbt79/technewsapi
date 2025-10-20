@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T22:36:56.055Z",
+  "fetchedAt": "2025-10-20T23:08:14.573Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "X is changing how it handles links to try and keep you in the app",
+      "description": "X is testing a change to the way it handles links on iOS so that the buttons to like, reply, and repost will always be visible. Normally, when you click a link on X the page opens up and completely covers the original post. Apparently, this leads to fewer peo…",
+      "url": "https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-19T23:07:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts also making changes to its recommendation system that could serve up more link-based posts.\r\nIts also making changes to its recommendation system that could … [+2584 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/02/06/power_shutterstock.jpg",
       "publishedAt": "2025-10-17T08:00:04Z",
       "content": "Energy is essential for delivering the UK governments' AI ambitions, but Britain faces a critical question: how can it supply enough power for rapidly expanding datacenters without causing blackouts … [+5155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Owen Hughes",
-      "title": "AI boffins teach office supplies to predict your next move",
-      "description": "What the world's been waiting for: a stapler with wheels to help humans afflicted by RSI\nIt was only a matter of time. Having invaded the software world, AI has now fixed its sights on once-benign household objects and desk fodder.…",
-      "url": "https://www.theregister.com/2025/10/17/ai_boffins_teach_office_supplies/",
-      "urlToImage": "https://regmedia.co.uk/2015/06/16/data_scientist_image_via_shutterstock.jpg",
-      "publishedAt": "2025-10-17T07:15:11Z",
-      "content": "It was only a matter of time. Having invaded the software world, AI has now fixed its sights on once-benign household objects and desk fodder.\r\nResearchers at Carnegie Mellon University (CMU) in the … [+2703 chars]"
     }
   ]
 }
