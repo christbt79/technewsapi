@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T14:40:08.997Z",
+  "fetchedAt": "2025-10-20T15:09:40.759Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Organizers say over 7 million showed up to No Kings protests",
+      "description": "Saturday marked the biggest day of protest since the start of Donald Trumps’ second term. Organizers of the No Kings protests estimated that over seven million people took to the streets to declare their opposition to the president, his policies, and his tact…",
+      "url": "https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2241865740.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-19T14:50:06Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe White House responded with AI slop of Trump in a crown.\r\nThe White House responded with AI slop of Trump in a crown.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'B… [+2340 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/04/25/shutterstock_robot_teachers.jpg",
       "publishedAt": "2025-10-16T23:55:06Z",
       "content": "Paying Anthropic customers can now teach their Claude new tricks, which the company calls Skills.\r\nDespite much talk about superintelligence, AI models can be clueless when it comes to interacting wi… [+3419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set for lower open as banking and trade fears take hold on Wall Street",
-      "description": "Shares of regional banks and investment bank Jefferies tumbled on Thursday as fears mounted around some bad loans lurking in the U.S.",
-      "url": "https://www.cnbc.com/2025/10/17/asia-markets-friday-hang-seng-hsi-kospi-nikkei-225.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108185345-1755095034996-gettyimages-1206728108-dss02414.jpeg?v=1755095047&w=1920&h=1080",
-      "publishedAt": "2025-10-16T23:48:46Z",
-      "content": "Asia-Pacific markets were set for a weaker open Friday, tracking losses on Wall Street as fears over the banking sector and trade tensions intensified.\r\nShares of regional banks and investment bank J… [+1197 chars]"
     }
   ]
 }
