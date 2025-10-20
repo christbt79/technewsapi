@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T10:10:59.430Z",
+  "fetchedAt": "2025-10-20T10:42:00.478Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gemini in Google Home Keeps Mistaking My Dog for a Cat",
+      "description": "Google’s Gemini AI has offended my dog, but at least it can automatically turn the lights on for me.",
+      "url": "https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/",
+      "urlToImage": "https://media.wired.com/photos/68f3327f62ad73fb8ea1f291/191:100/w_1280,c_limit/Nest%20Indoor%20Cam%202K%20SOURCE%20Julian%20Chokkattu.PNG.jpg",
+      "publishedAt": "2025-10-19T10:30:00Z",
+      "content": "A cat jumped up on my couch. Wait a minute. I don't have a cat.\r\nThe alert about the leaping feline is something my Google Home app sent me when I was out at a party. Turns out it was my dog. This no… [+3425 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2016/05/12/lone_cowboy_photo_via_shutterstock.jpg",
       "publishedAt": "2025-10-16T20:45:28Z",
       "content": "Everything is bigger in Texas and that includes the GPU bit barns at the heart of the AI boom.\r\nThe Lone Star State is quickly emerging as a datacenter mecca, thanks in part to an abundant supply of … [+2740 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc",
-      "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US",
-      "description": "Russia, China, Iran and North Korea have sharply increased their use of AI to mount cyberattacks against the U.S., according to new research from Microsoft.",
-      "url": "https://www.cnbc.com/2025/10/16/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122685-1663842438938-gettyimages-653520950-americanchinesehackercompetition.jpeg?v=1760636764&w=1920&h=1080",
-      "publishedAt": "2025-10-16T20:30:35Z",
-      "content": "Russia, China, Iran and North Korea have sharply increased their use of artificial intelligence to deceive people online and mount cyberattacks against the United States, according to new research fr… [+3442 chars]"
     }
   ]
 }
