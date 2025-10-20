@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T05:10:14.951Z",
+  "fetchedAt": "2025-10-20T05:38:36.591Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Companies are blaming AI for job cuts. Critics say it’s a 'good excuse'",
+      "description": "Workers are spooked as firms declare AI driven layoffs, but some critics tell CNBC that the current reductions may be a \"market clearance' due to overhiring.",
+      "url": "https://www.cnbc.com/2025/10/19/firms-are-blaming-ai-for-job-cuts-critics-say-its-a-good-excuse.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207100-1759423005112-gettyimages-1459207465-layoff-illustration.jpeg?v=1759485809&w=1920&h=1080",
+      "publishedAt": "2025-10-19T05:19:12Z",
+      "content": "More companies are announcing AI-driven layoffs from Salesforce to Accenture.\r\nFrom tech to airlines, large global companies have been slashing staff as the real-world impact of artificial intelligen… [+6873 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1295429677.jpg?resize=1200,840",
       "publishedAt": "2025-10-16T19:08:53Z",
       "content": "For one week this summer, Taylor and her roommate wore GoPro cameras strapped to their foreheads as they painted, sculpted, and did household chores. They were training an AI vision model, carefully … [+4574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "More than half of new content is AI-generated now, report finds",
-      "description": "A new report highlights AI's growing takeover of the internet. Here's what it means.",
-      "url": "https://www.zdnet.com/article/more-than-half-of-new-content-is-ai-generated-now-report-finds/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/619f2d9f05add722c8195209019d0c5389aafd09/2025/10/16/478ef2d1-0a9c-452b-b0c5-6dd9f0d2544a/gettyimages-1485676312.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-16T18:55:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Over half of published articles are AI-generated. </li><li>However, the percentage of AI-generated articles is p… [+2450 chars]"
     }
   ]
 }
