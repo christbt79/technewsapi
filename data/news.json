@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T21:33:57.413Z",
+  "fetchedAt": "2025-10-20T22:08:42.888Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stock market today: Live updates",
+      "description": "Stocks are coming off a volatile trading week, closing higher despite flaring trade tensions, regional bank losses and declines in some hot AI stocks.",
+      "url": "https://www.cnbc.com/2025/10/19/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212997-17606253382025-10-16t143041z_1108775365_rc21dha91caa_rtrmadp_0_usa-stocks-open.jpeg?v=1760625364&w=1920&h=1080",
+      "publishedAt": "2025-10-19T22:07:09Z",
+      "content": "Stock futures moved higher Sunday night as investors turn their attention towards a slew of big-name earnings reports and inflation data expected in the coming days.\r\nFutures tied to the Dow Jones In… [+3221 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2015/06/16/data_scientist_image_via_shutterstock.jpg",
       "publishedAt": "2025-10-17T07:15:11Z",
       "content": "It was only a matter of time. Having invaded the software world, AI has now fixed its sights on once-benign household objects and desk fodder.\r\nResearchers at Carnegie Mellon University (CMU) in the … [+2703 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Wall Street jolted by tumble in two regional banks: Markets wrap",
-      "description": "Following an earlier advance driven by another solid outlook for artificial-intelligence demand, the S&P 500 fell about 1%",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-15/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/dzr4fc/article70174255.ece/alternates/LANDSCAPE_1200/2025-10-15T172415Z_1806324765_RC20BDA2PNFL_RTRMADP_3_USA-BANKS-PRIME.JPG",
-      "publishedAt": "2025-10-17T04:55:53Z",
-      "content": "Wall Streets rally sputtered as concerns about credit quality hit a pair of regional banks, underscoring the fragility of a $28 trillion bull market showing signs of exhaustion. Bonds and gold rose.\r… [+6945 chars]"
     }
   ]
 }
