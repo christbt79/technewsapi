@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-20T08:43:34.306Z",
+  "fetchedAt": "2025-10-20T09:11:34.729Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "How you're charging your tablet is slowly killing it - 3 ways to avoid (and the right method)",
+      "description": "Please stop charging your tablet like this.",
+      "url": "https://www.zdnet.com/article/how-youre-charging-your-tablet-is-slowly-killing-it-3-ways-to-avoid-and-the-right-method/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/89fe30683bed6b451755b85d1f113ec22271f33a/2024/05/23/820b7720-fcb6-4ece-ae08-b2ac785aed1e/dsc00517-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-19T09:00:50Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Unplug at 100%, and keep the battery between 20% and 80%.</li><li>Avoid draining to 0%; store un… [+4627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "Windows 11 AI agents will act on your behalf - how much can you trust them?",
+      "description": "Should you trust this Copilot agent to poke around your files and interact with apps? The last time Microsoft rolled out a major AI feature, it didn't go well.",
+      "url": "https://www.zdnet.com/article/windows-11-ai-agents-will-act-on-your-behalf-how-much-can-you-trust-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8aa58705f97da1d6b5761600d03b41138b2a5e6e/2025/10/17/2c57b978-c319-4644-a9c9-f438dcb62122/redkeys5555gettyimages-1768520198.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-19T09:00:48Z",
+      "content": "Victoria Romarniuc/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 11 is adding AI agents that can take action… [+5433 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Desktop1280-1439-3.jpg?resize=1200,771",
       "publishedAt": "2025-10-16T19:23:07Z",
       "content": "Travel search engine Kayak will now allow users to research trips ahead of booking using AI. The company this week launched an “AI Mode” feature that lets users ask travel-related questions as well a… [+2378 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Lauren Feiner",
-      "title": "Unions are trying to stop Trump from kicking out immigrants over social media posts",
-      "description": "The Trump administration’s heightened monitoring of immigrants’ social media accounts seeking grounds to revoke their visas stifles the speech rights of both noncitizens and citizens alike, the Electronic Frontier Foundation (EFF) alleges in a new lawsuit. Th…",
-      "url": "https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK471_2_Government_Surveillance_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-16T19:21:10Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Trump administration has pledged to boot visa holders for some social media comments.\r\nThe Trump administration has pledged to boot visa holders for some soc… [+4714 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Why AI startups are taking data into their own hands | TechCrunch",
-      "description": "Where training sets were once scraped freely from the web or collected from low-paid annotators, companies are looking to proprietary training data as a competitive advantage.",
-      "url": "https://techcrunch.com/2025/10/16/why-ai-startups-are-taking-data-into-their-own-hands/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1295429677.jpg?resize=1200,840",
-      "publishedAt": "2025-10-16T19:08:53Z",
-      "content": "For one week this summer, Taylor and her roommate wore GoPro cameras strapped to their foreheads as they painted, sculpted, and did household chores. They were training an AI vision model, carefully … [+4574 chars]"
     }
   ]
 }
