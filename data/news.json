@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-20T19:07:28.269Z",
+  "fetchedAt": "2025-10-20T19:31:29.934Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "OpenAI’s ‘embarrassing’ math | TechCrunch",
+      "description": "No, GPT-5 did not solve a bunch of previously unsolved math problems.",
+      "url": "https://techcrunch.com/2025/10/19/openais-embarrassing-math/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+      "publishedAt": "2025-10-19T19:13:38Z",
+      "content": "Hoisted by their own GPTards.\r\nThats how Metas Chief AI Scientist Yann LeCun described the blowback after OpenAI researchers did a victory lap over GPT-5s supposed math breakthroughs.\r\nGoogle DeepMin… [+1042 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
       "publishedAt": "2025-10-17T04:18:03Z",
       "content": "Reddit announced Thursday that it is expanding its AI-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese. With this expansion, the feature is now availa… [+1039 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "OpenAI pauses Sora video generations of Martin Luther King Jr. | TechCrunch",
-      "description": "OpenAI is pausing AI video generations of Martin Luther King at the request of the late civil rights activists' estate.",
-      "url": "https://techcrunch.com/2025/10/16/openai-pauses-sora-video-generations-of-martin-luther-king-jr/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-80751598-e1484590456411.jpg?w=967",
-      "publishedAt": "2025-10-17T03:24:02Z",
-      "content": "OpenAI announced Thursday it paused the ability for users to generate videos resembling the late civil rights activist Martin Luther King Jr. using its AI video model, Sora. The company says it’s add… [+3554 chars]"
     }
   ]
 }
