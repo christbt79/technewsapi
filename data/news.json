@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-21T11:08:00.751Z",
+  "fetchedAt": "2025-10-21T11:31:38.491Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day",
+      "description": "That's 46 minutes in which more work can be done, not an extended lunch Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 Copilot, based on a survey of 1,000 users among nearly 30,000 deployed licenses.…",
+      "url": "https://www.theregister.com/2025/10/20/lloyds_banking_copilot/",
+      "urlToImage": "https://regmedia.co.uk/2017/11/02/shutterstock_lloyds_bank.jpg",
+      "publishedAt": "2025-10-20T11:10:38Z",
+      "content": "Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 Copilot, based on a survey of 1,000 users among nearly 30,000 deployed licenses.\r\nAccording to Lloyds Banking Group (LB… [+3609 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/294d89b78bd36d0ea9e05098a3aaadb928475993/2025/10/17/5291de53-6186-442d-b832-9cc8a409f4e3/gettyimages-1415832512-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-17T12:04:34Z",
       "content": "400tmax/iStock Unreleased/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's free AI course teaches research, writing, and engagement tools.<… [+5750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "TSMC moves up 2nm production plans in Arizona — CEO also hints at further site expansion beyond $165 billion commitment",
-      "description": "TSMC is ramping up its construction to unlock N2 production in Arizona, while also mentioning that it's purchasing another plot of land to expand the fab.",
-      "url": "https://www.tomshardware.com/tech-industry/tsmc-moves-up-2nm-production-plans-in-arizona-ceo-also-hints-at-further-site-expansion-beyond-usd165-billion-commitment",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kT3cGxzfZdqUVF5pbVWu5a-2560-80.jpg",
-      "publishedAt": "2025-10-17T12:01:27Z",
-      "content": "Taiwan Semiconductor Manufacturing Co. (TSMC) CEO C.C. Wei has said that it’s moving up its 2nm production plans in Arizona due to continued strong AI demand from its American customers. He also ment… [+2473 chars]"
     }
   ]
 }
