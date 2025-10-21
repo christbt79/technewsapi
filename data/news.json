@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-21T13:05:31.262Z",
+  "fetchedAt": "2025-10-21T13:47:38.294Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+      "title": "Lucky Facebook Marketplace shopper finds souped-up prototype GTX 2080 Ti inside a $500 PC — mythical Nvidia project features 12GB of VRAM and higher memory bandwidth",
+      "description": "Specifications suggest Nvidia once considered a more powerful TU102 design for the RTX 2080 Ti GPU",
+      "url": "https://www.tomshardware.com/pc-components/gpus/lucky-facebook-marketplace-shopper-finds-souped-up-prototype-gtx-2080-ti-inside-a-usd500-pc-mythical-nvidia-project-features-12gb-of-vram-and-higher-memory-bandwidth",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/v43urHSbVR3PYXx5FEyDuk-1920-80.jpg",
+      "publishedAt": "2025-10-20T13:24:08Z",
+      "content": "A Reddit user has managed to get their hands on a rare prototype of Nvidia’s GeForce GTX 2080 Ti GPU. According to photos posted by u/RunRepulsive9867, the card resembles a Founders Edition model fro… [+2225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Microsoft denies Mexico data center linked to water shortages, local illnesses, and power outages — stomach bugs and even hepatitis reported in region as 1.5 Gigawatt AI data center buildout looms",
+      "description": "Microsoft has denied claims that its data center in central Mexico is tied to a recent spate of power outages, water shortages, and health concerns, claiming it always prioritizes the needs of local communities in any actions it takes.",
+      "url": "https://www.tomshardware.com/tech-industry/microsoft-denies-mexico-data-center-linked-to-water-shortages-local-illnesses-and-power-outages-stomach-bugs-and-even-hepatitis-reported-in-region-as-1-5-gigawatt-ai-data-center-buildout-looms",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AXYhwBq7Tg5WB5Cv9hSfyQ-1024-80.jpg",
+      "publishedAt": "2025-10-20T13:19:12Z",
+      "content": "Local residents near a Mexico data center built by Microsoft last year have been complaining of a range of negative utility and health effects that they're attributing to the data center itself, acco… [+2602 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257896_Even_Realities_G1_AKrales_0105.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-17T13:28:43Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThese AI glasses promised to make me smarter, and all I got was Clippy for my face\r\nPlus a sore neck, a peeved spouse, and ethical quandaries.\r\nby\r\nVictoria Song… [+9050 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Chris Stokel-Walker",
-      "title": "Massive AI data center buildouts are squeezing energy supplies — New energy methods are being explored as power demands are set to skyrocket",
-      "description": "A perfect storm of massive data centre buildout and new innovations in energy could materially change what our supplies look like in the future.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/massive-ai-data-center-buildouts-are-squeezing-energy-supplies-new-energy-methods-are-being-explored-as-power-demands-are-set-to-skyrocket",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iXvdGdAthLU8yz7kpjQDyV-1920-80.jpg",
-      "publishedAt": "2025-10-17T13:15:59Z",
-      "content": "The world is building the electricity system for artificial intelligence on the fly. Over the next five years, the power appetite of data-center campuses built for training and serving large AI model… [+11762 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Labor unions sue Trump administration over social media surveillance",
-      "description": "Sharing views POTUS doesn't like? Say goodbye to that visa, First Amendment be damned Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to…",
-      "url": "https://www.theregister.com/2025/10/17/labor_unions_surveillance_lawsuit/",
-      "urlToImage": "https://regmedia.co.uk/2021/01/12/visa.jpg",
-      "publishedAt": "2025-10-17T13:07:52Z",
-      "content": "Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to punish those who publicly… [+5280 chars]"
     }
   ]
 }
