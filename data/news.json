@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-21T22:34:25.951Z",
+  "fetchedAt": "2025-10-21T23:09:02.648Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer says Apple's rally to a record shows why you should hold, not sell, the stock",
+      "description": "Apple's stock hits a record high as Jim Cramer tells investors to hold, citing strong iPhone demand, services growth and market momentum.",
+      "url": "https://www.cnbc.com/2025/10/20/cramer-apple-rally-stock.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198446-1757713945036-Image_from_iOS_4.jpg?v=1757715778&w=1920&h=1080",
+      "publishedAt": "2025-10-20T22:39:33Z",
+      "content": "CNBC's Jim Cramer said Monday that Apple's latest surge, up nearly 9.95 points or about 4%, underscores why investors should own the stock rather than try to trade it and why the broader market follo… [+2689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Suspected Salt Typhoon snoops lurking in European telco's network",
+      "description": "It's Typhoon season…year round\nChina's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.…",
+      "url": "https://www.theregister.com/2025/10/20/salt_typhoon_european_telco/",
+      "urlToImage": "https://regmedia.co.uk/2022/07/25/hacker_wearing_mask_at_computer_shutterstock.jpg",
+      "publishedAt": "2025-10-20T22:36:42Z",
+      "content": "China's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.\r\nSalt Typhoon is an espionage gang linked to the Pe… [+4475 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
       "publishedAt": "2025-10-17T21:57:03Z",
       "content": "Senate Republicans shared a deepfake video of Chuck Schumer, the Senate minority leader, designed to make it seem like Democrats are celebrating the ongoing government shutdown, which has lasted 16 d… [+2344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "$500 purple cables put this little-known company in the middle of the AI boom",
-      "description": "Credo's stock has more than doubled this year after soaring 245% in 2024 as the AI boom makes its way downstream.",
-      "url": "https://www.cnbc.com/2025/10/17/500-purple-cables-put-credo-in-middle-of-the-ai-boom.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213817-1760735968012-16T_Innovation_Village_Rack.jpg?v=1760736055&w=1920&h=1080",
-      "publishedAt": "2025-10-17T21:47:28Z",
-      "content": "A demo setup of racks of AI servers connected with Credo cables, displayed at the Open Compute Summit in San Jose, California.\r\nIn July, Elon Musk posted photos from inside an xAI data center called … [+7449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Meta convinces Blue Owl to cut $30B check for its Hyperion AI super cluster",
-      "description": "Cleverly concocked deal keeps debt off Social Media empire's books Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.…",
-      "url": "https://www.theregister.com/2025/10/17/meta_blue_owl_hyperion/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/17/blue_owl.jpg",
-      "publishedAt": "2025-10-17T21:08:53Z",
-      "content": "Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.\r\nMeta sealed the deal with the… [+1989 chars]"
     }
   ]
 }
