@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-21T14:38:48.386Z",
+  "fetchedAt": "2025-10-21T15:10:42.608Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Your Pixel phone hides a free Google Photos AI tool that's pure magic - how it works",
+      "description": "If you use Google Photos and have a Pixel phone, you need to try AI Image Expander",
+      "url": "https://www.zdnet.com/article/your-pixel-phone-hides-a-free-google-photos-ai-tool-thats-pure-magic-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/70b4027f09a42d36e059e4855e515ff2563b8046/2025/10/20/44bf1f7f-3f02-4e34-941f-12c248d7beeb/how-to-use-the-ai-image-expander-on-your-google-pixel.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T14:58:43Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Google has added an impressive feature to Photos.</li><li>The AI Image … [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Windows 11's October update causes a serious recovery mode glitch - but there's a workaround",
+      "description": "A strange bug is stopping Windows 11 users from using recovery mode.",
+      "url": "https://www.zdnet.com/article/windows-11s-october-update-causes-a-serious-recovery-mode-glitch-but-theres-a-workaround/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/511d5a4135bfefd4452d336db0dd4796f9018493/2025/10/20/d8ffa6f8-7fb4-432e-b5d0-6953be60460e/windows-11-october-update-glitches-recovery-environment-but-heres-a-workaround.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T14:51:50Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A new bug stops USB devices in the Windows Recovery Environment.</l… [+3382 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cleveland-Cliffs shares jump 17% as steelmaker looks into rare earths mining",
+      "description": null,
+      "url": "https://www.cnbc.com/2025/10/20/cleveland-cliffs-clf-rare-earth-critical-mineral-steel.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214133-1760970849844-gettyimages-2169566257-594x594-1.jpg?v=1760971677&w=1920&h=1080",
+      "publishedAt": "2025-10-20T14:51:11Z",
+      "content": "Cleveland-Cliffs is looking into building a rare earths mining business, CEO Lourenco Goncalves told investors Monday.\r\nThe steelmaker has two sites in Michigan and Minnesota where geological surveys… [+1102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple stock rallies following strong iPhone 17 sales in U.S. and China",
+      "description": "The iPhone 17 series has outsold the iPhone 16 series by 14% in the U.S. and China within its first 10 days of availability.",
+      "url": "https://www.cnbc.com/2025/10/20/apple-stock-iphone-17-us-china-sales.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196402-1757444160207-gettyimages-2234530052-_73a2951_zq0mcwah.jpeg?v=1757444318&w=1920&h=1080",
+      "publishedAt": "2025-10-20T14:48:18Z",
+      "content": "Apple shares rose nearly 3% on Monday as a new report showed iPhone 17 sales off to a strong start in the U.S. and China.\r\nThe iPhone 17 series, which dropped in September, has outsold the iPhone 16 … [+1056 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-17T15:31:00Z",
       "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple announced its new iPhone 17 lineup last month at the Awe-Dropping Event in Cupertino, California. After y… [+5635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Cristin Merritt, SC25 communications chair",
-      "title": "Replaying ancient steps",
-      "description": "How HPC is igniting discoveries in dinosaur locomotion (and beyond) Partner Content  In the basement of Connecticut's Beneski Museum of Natural History sit the fossilized footprints of a small, chicken-sized dinosaur. Each track is more than a preserved impre…",
-      "url": "https://www.theregister.com/2025/10/17/replaying_ancient_steps/",
-      "urlToImage": "https://regmedia.co.uk/2015/07/17/zhenyuanlong_suni_fossil.jpg",
-      "publishedAt": "2025-10-17T15:00:07Z",
-      "content": "Partner Content In the basement of Connecticut's Beneski Museum of Natural History sit the fossilized footprints of a small, chicken-sized dinosaur. Each track is more than a preserved impression; it… [+9018 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Steven Levy",
-      "title": "Can AI Avoid the Enshittification Trap?",
-      "description": "Cory Doctorow’s theory of “enshittification” explains how tech platforms rot from within. As AI grows more profitable—and powerful—it risks the same fate.",
-      "url": "https://www.wired.com/story/can-ai-escape-enshittification-trap/",
-      "urlToImage": "https://media.wired.com/photos/68f1711918f493b619d097f7/191:100/w_1280,c_limit/Backchannel-Corey-Doctorow-Business-1426357474.jpg",
-      "publishedAt": "2025-10-17T15:00:00Z",
-      "content": "I recently vacationed in Italy. As one does these days, I ran my itinerary past GPT-5 for sightseeing suggestions and restaurant recommendations. The bot reported that the top choice for dinner near … [+4039 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Micron is preparing to exit China’s data center memory market completely, report claims — Beijing banned company's chips from 'critical information infrastructure' in 2023",
-      "description": "Micron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban.",
-      "url": "https://www.tomshardware.com/pc-components/ram/reports-suggest-micron-is-preparing-to-exit-chinas-data-center-memory-market",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ctk37dSPYgBJW2MojM9GNo-1920-80.jpg",
-      "publishedAt": "2025-10-17T14:59:32Z",
-      "content": "Micron is reportedly preparing to halt sales of server memory chips to data centers in mainland China, after its business there failed to recover from a 2023 cybersecurity ban. The move, reported by … [+2812 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Less than 24 hours to spotlight your startup at TechCrunch Disrupt 2025 in front of 10,000 tech leaders and VCs",
-      "description": "You’re looking for big ways to grow your startup, whether that means securing investors, landing enterprise deals, or generating a nonstop pipeline of leads. This is your final moment.  You have less than 24 hours — and only a couple of tables left — to lock …",
-      "url": "https://techcrunch.com/2025/10/17/less-than-24-hours-to-spotlight-your-startup-at-techcrunch-disrupt-2025-in-front-of-10000-tech-leaders-and-vcs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/03/8697162730_891d808f92_o.jpg?resize=1200,800",
-      "publishedAt": "2025-10-17T14:30:00Z",
-      "content": "You’re looking for big ways to grow your startup, whether that means securing investors, landing enterprise deals, or generating a nonstop pipeline of leads. This is your final moment. \r\nYou have les… [+2181 chars]"
     }
   ]
 }
