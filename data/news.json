@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-21T12:18:29.270Z",
+  "fetchedAt": "2025-10-21T13:05:31.262Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Adobe might've just solved one of generative AI's biggest legal risks",
+      "description": "The company's new AI Foundry aims to help businesses build bespoke AI models with their own IP.",
+      "url": "https://www.zdnet.com/article/adobe-mightve-just-solved-one-of-generative-ais-biggest-legal-risks/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bfac7e06d6a88829256d96778ca05ec9425c5ace/2025/10/20/cea05cab-5164-4a71-be95-e4003bfedceb/gettyimages-1387014531.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T13:00:43Z",
+      "content": "Wiphop Sathawirawong/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Adobe assures its new AI model service is copyrig… [+3907 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Adobe launches a foundry service that builds custom generative AI models for enteprises | TechCrunch",
+      "description": "Adobe launches a foundry service that builds custom generative AI models for enteprises | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enteprises/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Adobe.jpg?w=1200",
+      "publishedAt": "2025-10-20T13:00:00Z",
+      "content": "Creative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models. \r\nAdobe launched Adobe AI Foundry on Monday, a new offering that allows enterprises… [+2248 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matthew Gault",
+      "title": "Anthropic Has a Plan to Keep Its AI From Building a Nuclear Weapon. Will It Work?",
+      "description": "Anthropic partnered with the US government to create a filter meant to block Claude from helping someone build a nuke. Experts are divided on whether its a necessary protection—or a protection at all.",
+      "url": "https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/",
+      "urlToImage": "https://media.wired.com/photos/68f2a38fd9a83ae21d13c67e/191:100/w_1280,c_limit/sec-anthropic-2198654440.jpg",
+      "publishedAt": "2025-10-20T12:42:23Z",
+      "content": "At the end of August, the AI company Anthropicannounced that its chatbot Claude wouldnt help anyone build a nuclear weapon. According to Anthropic, it had partnered with the Department of Energy (DOE… [+2283 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Crypto miners riding the AI wave are leaving Bitcoin behind",
+      "description": "Even with the crypto market carnage over the past week, Bitcoin is still up about 14% in 2025, and within striking distance of the all-time high of almost $126,000 reached at the start of the month",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-18/crypto-miners-riding-the-ai-wave-are-leaving-bitcoin-behind",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/cfqy56/article70184867.ece/alternates/LANDSCAPE_1200/2025-10-14T171730Z_1991310920_RC22PGA9C92H_RTRMADP_3_USA-CRYPTOCURRENCY-VER-CRIME.JPG",
+      "publishedAt": "2025-10-20T12:38:02Z",
+      "content": "Shares of the large-scale computing outfits that make Bitcoin work are once again outperforming the original cryptocurrency, as more pivot to hybrid models built around artificial intelligence and hi… [+4181 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/01/12/visa.jpg",
       "publishedAt": "2025-10-17T13:07:52Z",
       "content": "Lawyers at the Electronic Frontier Foundation (EFF) are helping three US labor unions sue the Trump administration over a social media surveillance program that threatens to punish those who publicly… [+5280 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Apple M5 chip smashes Snapdragon X2 Elite in early single-thread benchmarks — single core scores rival Intel's Core Ultra 9 285K and beat AMD's 9950X3D, teasing multi-core potential of future variants",
-      "description": "The M5 chip in the new iPad Pro and MacBook Pro refreshes performs slightly differently, as revealed by Geekbench results. This makes sense considering how one is a thin-and-light tablet, while the other is a thick, pro laptop designed to sustain performance …",
-      "url": "https://www.tomshardware.com/pc-components/cpus/apple-m5-chip-smashes-snapdragon-x2-elite-in-early-single-thread-benchmarks-single-core-scores-rival-intels-core-ultra-9-285k-and-beat-amds-9950x3d-teasing-multi-core-potential-of-future-variants",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pt2zBYGMyTddZMePp87NQZ-1920-80.jpg",
-      "publishedAt": "2025-10-17T13:07:02Z",
-      "content": "Apple unveiled the latest addition to its family of homegrown chips — the M5 — a couple of days ago, and it's powering both the new iPad Pro and the 14-inch MacBook Pro. New Geekbench listings spotte… [+4668 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "You're reading more AI-generated content than you think",
-      "description": "You're not imagining it. A new report highlights AI's growing takeover of the internet.",
-      "url": "https://www.zdnet.com/article/youre-reading-more-ai-generated-content-than-you-think/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f8efd4505af17cd441d1a9b6af0047856cd70dde/2025/10/17/608582d3-7968-40e2-b742-a3c85fe82a82/gettyimages-2213687401.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T13:05:00Z",
-      "content": "Ekaterina Goncharova/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Over half of new published articles are AI-generated. </li><li>However… [+2496 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "I Used Squarespace’s Blueprint AI to Design a Website",
-      "description": "Blueprint combines AI and curated designs to get your website up and running in a few minutes.",
-      "url": "https://www.wired.com/story/squarespace-blueprint-ai-website-builder/",
-      "urlToImage": "https://media.wired.com/photos/68f177047dc1ccf204567548/191:100/w_1280,c_limit/squarespace-Jacob-Roach.png",
-      "publishedAt": "2025-10-17T13:00:00Z",
-      "content": "Still, something is lost in mixing and matching these different design elements. After going through the five-step Blueprint setup process a few times, the building blocks became clearer. The final p… [+2242 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "AI can’t even turn on the lights",
-      "description": "Large language models are currently everyone's solution to everything. The technology's versatility is part of its appeal: the use cases for generative AI seem both huge and endless. But then you use the stuff, and not enough of it works very well. And you wo…",
-      "url": "https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1017_Site.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
-      "publishedAt": "2025-10-17T12:56:16Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: Apples M5, the state of smart home assistants, and a boom in AI song covers.\r\nOn The Vergecast: Apples M5, the state of smart home assistants, … [+3089 chars]"
     }
   ]
 }
