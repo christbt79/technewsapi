@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-21T16:12:12.802Z",
+  "fetchedAt": "2025-10-21T16:42:18.540Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "These Oakley smart glasses are perfect for weekend warriors and T-ball coaches",
+      "description": "Slipping on the $499 Oakley Meta Vanguard, I feel the power of Patagonia-clad authority figures wash over me. I am no longer a tired tech reviewer in the thick of review season. Oh no, I am every sports dad on the bleachers, yelling at that idiot coach for no…",
+      "url": "https://www.theverge.com/tech/802020/oakley-meta-vanguard-review-smart-glasses-garmin-strava",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258006_Meta_Oakley_AKrales_0135.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-20T16:37:07Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou may look ridiculous, but the feature set is perfect for gadget nerds who love the outdoors.\r\nIf you buy something from a Verge link, Vox Media may earn a com… [+11526 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation   | TechCrunch",
+      "description": "Trained on medical journals from JAMA and the New England Journal of Medicine, the platform helps users quickly get answers to existing medical knowledge to help treat patients. Verified medical professionals can access OpenEvidence’s tool, which is supported…",
+      "url": "https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?w=1200",
+      "publishedAt": "2025-10-20T16:29:24Z",
+      "content": "OpenEvidence, a tool that doctors and nurses have likened to ChatGPT for medicine, plans to announce a $200 million raise at a $6 billion valuation, The New York Times reports. \r\nThe fresh funds come… [+861 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Automattic CEO calls Tumblr his ‘biggest failure’ so far",
+      "description": "At WordCamp Canada 2025, Automattic CEO Matt Mullenweg called Tumblr his “biggest failure,” noting the challenge of maintaining the platform’s half a billion blogs while it remains unprofitable. Though plans to migrate Tumblr to WordPress infrastructure are o…",
+      "url": "https://techcrunch.com/2025/10/20/automattic-ceo-calls-tumblr-his-biggest-failure-so-far/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/tumblr-1-e1650488126214.png?resize=1200,727",
+      "publishedAt": "2025-10-20T16:21:50Z",
+      "content": "WordPress co-founder and Automattic CEO Matt Mullenweg called the company’s Tumblr acquisition his biggest failure but one he hasn’t given up on yet. The comments were made at the recent WordCamp Can… [+3374 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/TC25_Disrupt_General_Article_No-Anniversary_Headers_1920x1080.png?resize=1200,675",
       "publishedAt": "2025-10-17T16:00:00Z",
       "content": "TechCrunch Disrupt 2025 wouldnt be what it is without the incredible companies that power the innovation behind the scenes. From headline partners to emerging collaborators, our sponsors help make Di… [+3457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Utilities grapple with a multibillion question: How much AI data center power demand is real",
-      "description": "The tech industry is shopping the same big projects around to multiple utilities as they look for the quickest access to power.",
-      "url": "https://www.cnbc.com/2025/10/17/ai-data-center-openai-gas-nuclear-renewable-utility.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108171443-1752495584443-gettyimages-2224347614-AFP_66NL98L.jpeg?v=1752495825&w=1920&h=1080",
-      "publishedAt": "2025-10-17T15:50:52Z",
-      "content": "Electricity companies across the U.S. are struggling to figure out how much demand will actually materialize from the artificial intelligence boom, as the stock market speculates that vast sums of mo… [+7222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "Waze vs. Google Maps: I compared two of the best navigation apps, and this one wins easily",
-      "description": "The Waze vs. Google Maps debate has raged for years - here's the verdict after testing both.",
-      "url": "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-best-navigation-apps-and-this-one-wins-easily/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b89a1963deef2eeb6ced7e91dbe01439b65c10e4/2025/03/21/b7937233-81f0-439d-a7d6-184209ed3b6c/google-maps-was-caught-with-10000-fake-business-listings-heres-how-to-avoid-them.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T15:39:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nA quick Google search will surface article after article claiming that Waze is far better than Google Maps. But is… [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "You can try Google's viral image editing tool right in Search now - here's how",
-      "description": "Google's AI image editor, Nano Banana, is coming to a new lineup of applications. I tried it out for myself, and it surprised me.",
-      "url": "https://www.zdnet.com/article/you-can-try-googles-viral-image-editing-tool-right-in-search-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e93184331d9cf75be17ec9799c5070dd447ed2e0/2025/10/17/58a1fe97-cf1e-4e97-9770-f7a2a62d6b89/gettyimages-1301737953.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T15:37:12Z",
-      "content": "Javier Zayas Photography/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google unveiled Nano Banana in Google Search and Notebook LM. </li><l… [+3202 chars]"
     }
   ]
 }
