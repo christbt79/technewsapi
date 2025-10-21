@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-21T22:08:47.052Z",
+  "fetchedAt": "2025-10-21T22:34:25.951Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs  | TechCrunch",
+      "description": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal.",
+      "url": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Periodic-Labs.jpg?w=1024",
+      "publishedAt": "2025-10-20T22:24:08Z",
+      "content": "Periodic Labs, a new startup by one of OpenAIs most respected researchers, Liam Fedus, and his former Google Brain colleague, Ekin Dogus Cubuk, came out of stealth last month with an enormous $300 mi… [+7728 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/17/blue_owl.jpg",
       "publishedAt": "2025-10-17T21:08:53Z",
       "content": "Facebook parent Meta has managed to convince private equity firm Blue Owl Capital to finance its 2.2 gigawatt Hyperion datacenter project in Richland Parish, Louisiana.\r\nMeta sealed the deal with the… [+1989 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle, Robert Hart",
-      "title": "Opera’s Neon shows just how confusing AI browsers still are",
-      "description": "The trick to understanding Opera's Neon browser is recognizing that it's not just a browser with an AI bot added to it, but a browser with three AI bots all living side by side. This is both a strength and a weakness, because while you don't have to leave to …",
-      "url": "https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/neon_Start_Page_light02.png?quality=90&strip=all&crop=0%2C9.5570619084671%2C100%2C80.885876183066&w=1200",
-      "publishedAt": "2025-10-17T21:00:03Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNeon is three AI tools dressed up as one, with a $20-per-month subscription attached.\r\nNeon is three AI tools dressed up as one, with a $20-per-month subscriptio… [+8244 chars]"
     }
   ]
 }
