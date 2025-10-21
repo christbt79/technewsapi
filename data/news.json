@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-21T10:10:19.803Z",
+  "fetchedAt": "2025-10-21T10:40:50.871Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Rupert Goodwins",
+      "title": "The real insight behind measuring Copilot usage is Microsoft's desperation",
+      "description": "Citizen! You are falling short in your AI usage targets! Strive harder for the revolution!\nOpinion The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state. When you make a me…",
+      "url": "https://www.theregister.com/2025/10/20/copilot_viva_insights_column/",
+      "urlToImage": "https://regmedia.co.uk/2017/08/01/spy-boss.jpg",
+      "publishedAt": "2025-10-20T10:15:07Z",
+      "content": "Opinion The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state. When you make a metric a target, it is not useful… [+5455 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/kT3cGxzfZdqUVF5pbVWu5a-2560-80.jpg",
       "publishedAt": "2025-10-17T12:01:27Z",
       "content": "Taiwan Semiconductor Manufacturing Co. (TSMC) CEO C.C. Wei has said that it’s moving up its 2nm production plans in Arizona due to continued strong AI demand from its American customers. He also ment… [+2473 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "SK Telecom’s AI unit offers staff voluntary retirement program just weeks after launch | TechCrunch",
-      "description": "All staff employed by SK Telecom's new AI division are being offered a voluntary retirement program as part of a broader effort to bring together its various AI-related divisions, the company confirmed to TechCrunch.",
-      "url": "https://techcrunch.com/2025/10/17/sk-telecoms-ai-unit-offers-staff-voluntary-retirement-program-just-weeks-after-launch/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Image-1-‘Innovation-Gate-the-entrance-to-the-SK-booth-at-CES-2025-1.jpg?w=1198",
-      "publishedAt": "2025-10-17T11:59:01Z",
-      "content": "South Korean telco giant SK Telecom is making big changes at its new AI division, AI CIC, just weeks after it was launched. Staff employed by the unit are being offered a voluntary retirement program… [+2455 chars]"
     }
   ]
 }
