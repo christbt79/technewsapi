@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-21T19:32:32.088Z",
+  "fetchedAt": "2025-10-21T20:11:01.647Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Anthropic brings Claude Code to the web | TechCrunch",
+      "description": "Anthropic now lets developers spin up Claude Code agents, and manage them, from their web browser on desktop and mobile.",
+      "url": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
+      "publishedAt": "2025-10-20T20:09:26Z",
+      "content": "Anthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.\r\nClaude Code for web is now… [+3343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI investor Reid Hoffman spars with AI czar Sacks, calls Anthropic 'one of the good guys'",
+      "description": "After White House AI and crypto czar David Sacks went after Anthropic last week, OpenAI investor Reid Hoffman came to the company's defense.",
+      "url": "https://www.cnbc.com/2025/10/20/openai-investor-reid-hoffman-calls-anthropic-one-of-the-good-guys.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108050948-1729604245524-gettyimages-2179195421-AFP_36KJ9Q6.jpeg?v=1760974661&w=1920&h=1080",
+      "publishedAt": "2025-10-20T19:56:12Z",
+      "content": "Reid Hoffman, Partner at Greylock and co-founder LinkedIn, speaks during the WSJ Tech Live conference hosted by the Wall Street Journal at the Montage Laguna Beach in Laguna Beach, California, on Oct… [+4345 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025 | TechCrunch",
+      "description": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025 | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/qe8xIPDIX7dEumIx1fmy0jE7Ek-copy.jpg?resize=1200,675",
+      "publishedAt": "2025-10-20T19:52:38Z",
+      "content": "When Shin Starr set out to build an autonomous kitchen, the company knew that the gimmick of robotic cooking wouldn’t carry the business. What would make Shin Starr’s OLHSO Korean BBQ food truck succ… [+4279 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
       "publishedAt": "2025-10-17T19:12:17Z",
       "content": "Silicon Valleys rule? Its not cool to be cautious. As OpenAI removes guardrails and VCs criticize companies like Anthropic for supporting AI safety regulations, its becoming clearer who the industry … [+854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Amazon spills plan to nuke Washington...with X-Energy mini-reactors",
-      "description": "Now they just need to get regulatory approval Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan's power woes.…",
-      "url": "https://www.theregister.com/2025/10/17/amazon_nuke_washington/",
-      "urlToImage": "https://regmedia.co.uk/2023/09/29/shutterstock_nuclear.jpg",
-      "publishedAt": "2025-10-17T18:58:19Z",
-      "content": "Despite technological and regulatory hurdles, Amazon remains convinced that small modular reactors (SMRs) are the answer to the cloud titan's power woes.\r\nLast fall, the house of Bezos announced a $5… [+3393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI tools are entering the doctor's office and clinicians need to be prepared",
-      "description": "More health-care AI is focused on administrative and clinical uses, solving issues that doctors, nurses and administrative staff are having.",
-      "url": "https://www.cnbc.com/2025/10/17/ai-tools-doctors-office-clinicians-medical-jobs-training.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107398794-1712682777972-gettyimages-1489956013-img_3130sentai.jpeg?v=1760726432&w=1920&h=1080",
-      "publishedAt": "2025-10-17T18:52:53Z",
-      "content": "The impact of artificial intelligence is being felt across the health-care industry, from tools that help analyze medical images, aid in drug discovery and complete cancer screenings.\r\nBut increasing… [+4173 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "The future I saw through the Meta Ray-Ban Display amazes and terrifies me",
-      "description": "Outside a florist-cum-coffee shop in upstate New York, a row of vintage cars gleam in the sun. It's unseasonably warm for early October, so there's a veritable crowd of car enthusiasts snapping photos of Ferraris, Porsches, and a vintage Alfa Romeo. Patient g…",
-      "url": "https://www.theverge.com/tech/801684/meta-ray-ban-display-review-smart-glasses-ai-wearables",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257980_Meta_Ray-Ban_Display_AKrales_0139.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-17T18:30:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis very first-gen device raises several questions about where the next chapter of mobile computing is headed.\r\nIf you buy something from a Verge link, Vox Medi… [+21095 chars]"
     }
   ]
 }
