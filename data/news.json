@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-21T09:38:54.446Z",
+  "fetchedAt": "2025-10-21T10:10:19.803Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Makena Kelly",
+      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
+      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
+      "url": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
+      "urlToImage": "https://media.wired.com/photos/68f1899c43997c1874543fc3/191:100/w_1280,c_limit/GettyImages-2153112061.jpg",
+      "publishedAt": "2025-10-20T10:00:00Z",
+      "content": "In late July 2024, Lina Khan, then the chair of the US Federal Trade Commission, gave a speech at an event hosted by the San Francisco startup accelerator Y Combinator in which she positioned herself… [+2337 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-okafor",
+      "title": "Scale AI alum raises $9M for AI serving critical industries in MENA | TechCrunch",
+      "description": "1001, the startup founded by an ex-Scale operator, raises a $9 million seed round led by CIV, General Catalyst, and Lux Capital.",
+      "url": "https://techcrunch.com/2025/10/20/scale-ai-alum-raises-9m-for-ai-serving-critical-industries-in-mena/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2363.jpeg?resize=1200,896",
+      "publishedAt": "2025-10-20T09:55:07Z",
+      "content": "Bilal Abu-Ghazaleh had just moved to London few days before our call, splitting his time between there and Dubai.\r\nAfter nearly a decade in the U.S., including a stint at Scale AI, hes bringing that … [+4899 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Image-1-‘Innovation-Gate-the-entrance-to-the-SK-booth-at-CES-2025-1.jpg?w=1198",
       "publishedAt": "2025-10-17T11:59:01Z",
       "content": "South Korean telco giant SK Telecom is making big changes at its new AI division, AI CIC, just weeks after it was launched. Staff employed by the unit are being offered a voluntary retirement program… [+2455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Amazon reveals 960 megawatt nuclear power plans to cope with AI demand — Richland, Washington site tapped for deployment of Xe-100 small modular reactors",
-      "description": "Amazon has revealed plans to help build one of the United States’ first modular nuclear power campuses in a move designed to supply carbon-free electricity for its growing AI and cloud workloads.",
-      "url": "https://www.tomshardware.com/tech-industry/amazon-unveils-plans-for-modular-nuclear-plant-in-washington",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3s4QsmKjHiwfg9woTYrYmd-2560-80.jpg",
-      "publishedAt": "2025-10-17T11:50:18Z",
-      "content": "Amazon has revealed plans to help build one of the United States’ first modular nuclear power campuses in a move designed to supply carbon-free electricity for its growing AI and cloud workloads.\r\nAn… [+2703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft parks Landsat and Sentinel satellite data in Azure's orbit",
-      "description": "NASA's Earth-watching archives find new home in Redmond's cloud, complete with Copilot hype\nMicrosoft has made NASA's Harmonized Landsat and Sentinel-2 (HLS) dataset available on Azure via the Windows giant's Planetary Computer platform.…<!--#include virtual=…",
-      "url": "https://www.theregister.com/2025/10/17/microsoft_azure_satellite_data/",
-      "urlToImage": "https://regmedia.co.uk/2015/10/20/earth_portrait_teaser.jpg",
-      "publishedAt": "2025-10-17T11:25:14Z",
-      "content": "Microsoft has made NASA's Harmonized Landsat and Sentinel-2 (HLS) dataset available on Azure via the Windows giant's Planetary Computer platform.\r\nIt seems an excellent use for all that Azure capacit… [+2704 chars]"
     }
   ]
 }
