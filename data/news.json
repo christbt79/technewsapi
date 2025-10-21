@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-21T15:10:42.608Z",
+  "fetchedAt": "2025-10-21T15:38:01.824Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Anthropic launches Claude Life Sciences to give researchers an AI efficiency boost",
+      "description": "The announcement marks Anthropic's first formal launch within the life sciences sector",
+      "url": "https://www.cnbc.com/2025/10/20/anthropic-claude-life-sciences-research-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108089855-1737474976533-8cvtebbM.jpg?v=1737475063&w=1920&h=1080",
+      "publishedAt": "2025-10-20T15:27:17Z",
+      "content": "Anthropic on Monday announced Claude for Life Sciences, a new offering for researchers to use the company's artificial intelligence technology in the advancement of scientific discovery. \r\nClaude for… [+3399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Would you trust a PC brand to make wireless earbuds? I tried a pair by Dell, and it delivered",
+      "description": "The Dell Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for hybrid and office work.",
+      "url": "https://www.zdnet.com/article/would-you-trust-a-pc-brand-to-make-wireless-earbuds-i-tried-a-pair-by-dell-and-it-delivered/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T15:27:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5800 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e93184331d9cf75be17ec9799c5070dd447ed2e0/2025/10/17/58a1fe97-cf1e-4e97-9770-f7a2a62d6b89/gettyimages-1301737953.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-17T15:37:12Z",
       "content": "Javier Zayas Photography/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google unveiled Nano Banana in Google Search and Notebook LM. </li><l… [+3202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Anthropic targets gigantic $26 billion in revenue by the end of 2026 — eye-watering sum is more than double OpenAI's projected 2025 earnings",
-      "description": "Claude AI developer Anthropic has released its revenue projections for the next year, and they are ambitious. Off the back of what it claims is a plan to reach $9 billion in revenue by the end of 2025, it's now targeting as much as $26 billion by the end of 2…",
-      "url": "https://www.tomshardware.com/tech-industry/anthropic-targets-gigantic-usd26-billion-in-revenue-by-the-end-of-2026-eye-watering-sum-is-more-than-double-openais-projected-2025-earnings",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WhiRibvfpVDt4rHfTnTSQY-1920-80.jpg",
-      "publishedAt": "2025-10-17T15:35:40Z",
-      "content": "Claude AI developer, Anthropic, has released its revenue targets for the next couple of years, and they are nothing if not ambitious. Following an estimation of just $4 billion in 2025 in July, it's … [+6704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Samsung Galaxy S25 Ultra vs. iPhone 17 Pro Max: I tested both devices, and here's the winner",
-      "description": "Which flagship phone should you buy in 2025? Here's how Apple and Samsung's top-tier models compare.",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-s25-ultra-vs-iphone-17-pro-max-i-tested-both-devices-and-heres-the-winner/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T15:31:00Z",
-      "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple announced its new iPhone 17 lineup last month at the Awe-Dropping Event in Cupertino, California. After y… [+5635 chars]"
     }
   ]
 }
