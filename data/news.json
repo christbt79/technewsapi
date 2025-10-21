@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-21T20:39:35.665Z",
+  "fetchedAt": "2025-10-21T21:08:26.511Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Aid groups use AI-generated ‘poverty porn’ to juice fundraising efforts",
+      "description": "Researchers accuse tech firms of profiting from exploitative AI imagery\nThe starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting f…",
+      "url": "https://www.theregister.com/2025/10/20/aid_groups_scolded_fundraising_ai/",
+      "urlToImage": "https://regmedia.co.uk/2015/12/24/shutterstock_disgust.jpg",
+      "publishedAt": "2025-10-20T20:51:20Z",
+      "content": "The starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting from AI-gener… [+5850 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211336-1760372227647-ClayMagouryrk-2.jpg?v=1760372374&w=1920&h=1080",
       "publishedAt": "2025-10-17T19:24:51Z",
       "content": "Oracle's extended rally, which has been driven by the company's increasingly central position in the artificial intelligence boom, hit pause on Friday, with the stock tumbling 7%, its worst day since… [+2846 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "Should AI do everything? OpenAI thinks so | TechCrunch",
-      "description": "Watch Equity hosts discuss how the line between innovation and responsibility is getting blurrier, plus what happens when pranks go from digital to physical.",
-      "url": "https://techcrunch.com/video/should-ai-do-everything-openai-thinks-so/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-      "publishedAt": "2025-10-17T19:12:17Z",
-      "content": "Silicon Valleys rule? Its not cool to be cautious. As OpenAI removes guardrails and VCs criticize companies like Anthropic for supporting AI safety regulations, its becoming clearer who the industry … [+854 chars]"
     }
   ]
 }
