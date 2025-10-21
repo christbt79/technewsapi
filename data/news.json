@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-21T14:09:28.503Z",
+  "fetchedAt": "2025-10-21T14:38:48.386Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+      "publishedAt": "2025-10-20T14:30:00Z",
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+      "publishedAt": "2025-10-20T14:30:00Z",
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Umair Irfan",
+      "title": "A data center that doesn’t even exist can raise your electricity bill",
+      "description": "Your electricity bill is rising. Naturally, you’re mad about it and looking around at who to blame. But it’s not a who, it’s a what — and the recent AI-driven data center construction spree is at least partly the reason why. Copious data centers have sprung u…",
+      "url": "https://www.vox.com/climate/465032/data-center-electricity-power-bill-increasing-maryland-pjm",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2223681402.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2025-10-20T14:27:02Z",
+      "content": "An Amazon Web Services data center in Manassas, Virginia. Virginia is home to the largest concentration of data centers in PJM, a power grid that spans 13 states and Washington, DC.\r\n\n\nYour electrici… [+8603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Is this Linux mini PC a viable alternative to Windows? Here's why it worked out for me",
+      "description": "The Kubuntu Focus NX Gen 3 comes preloaded with one of my favorite Linux distributions and takes only minutes to set up.",
+      "url": "https://www.zdnet.com/article/is-this-linux-mini-pc-a-viable-alternative-to-windows-heres-why-it-worked-out-for-me/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8fd6b42d25332cfb0fa1f5412a58a769c138ef56/2025/10/07/256fecb2-bf39-4462-ac7d-66787e91af68/focus3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T14:21:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAny chance I can get to review a Linux-powered PC, I'm thrilled to do so. It's not only because I get to experience how a third party approaches… [+5140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Why I'd choose this HP Windows laptop over a MacBook for work - especially at its latest price",
+      "description": "HP's EliteBook Ultra G1i is impressively lightweight, reliably powerful, and built to last on battery life. But there's more to it.",
+      "url": "https://www.zdnet.com/article/why-id-choose-this-hp-windows-laptop-over-a-macbook-for-work-especially-at-its-latest-price/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a045ec40ae244fb934fe886e60e68f04b19f4d63/2025/04/09/ae828d00-c2f5-4b62-b017-13691c48149e/hp-elitebook-ultra-g1i-hero.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T14:18:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google. \r\nWork laptops don't have to be boring hunks of gray metal. There are plenty of eye-catching models providing engaging experiences. People lookin… [+5199 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2014/03/8697162730_891d808f92_o.jpg?resize=1200,800",
       "publishedAt": "2025-10-17T14:30:00Z",
       "content": "You’re looking for big ways to grow your startup, whether that means securing investors, landing enterprise deals, or generating a nonstop pipeline of leads. This is your final moment. \r\nYou have les… [+2181 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "OpenAI suspends MLK deepfakes on Sora after ‘disrespectful’ videos",
-      "description": "OpenAI said on Thursday night that it has “paused” deepfakes of Martin Luther King Jr. on its social app Sora after users created “disrespectful” AI-generated videos of the late civil rights leader. It said representatives or estates of other historical figur…",
-      "url": "https://www.theverge.com/news/801539/open-ai-sora-mlk",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-517481130.jpg?quality=90&strip=all&crop=0%2C10.869062320334%2C100%2C78.261875359331&w=1200",
-      "publishedAt": "2025-10-17T14:28:39Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI now says that estates and representatives for public figures can opt out of Sora videos.\r\nOpenAI now says that estates and representatives for public figu… [+3012 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "I tested Dell's new productivity earbuds, and they outperform my AirPods Pro on work calls",
-      "description": "Dell's Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for professionals.",
-      "url": "https://www.zdnet.com/article/i-tested-dells-new-productivity-earbuds-and-they-outperform-my-airpods-pro-on-work-calls/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T14:22:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5820 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "This tiny travel cable could be the best $15 I've ever spent on security - here's why",
-      "description": "If you often plug into random chargers, you're an easy target for hackers.",
-      "url": "https://www.zdnet.com/article/this-tiny-travel-cable-could-be-the-best-15-ive-ever-spent-on-security-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T14:18:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "This tiny travel cable could be the best $15 I ever spent on security - here's why",
-      "description": "If you often plug into random chargers, you're an easy target for hackers.",
-      "url": "https://www.zdnet.com/article/this-tiny-travel-cable-could-be-the-best-15-i-ever-spent-on-security-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8192be1bfef486ca76d8e2d2b4650a3d36e3c711/2025/10/11/f7223c4d-362c-456c-9e0c-34636f493f12/img-0179.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-17T14:18:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nWe're so used to using USB-C for charging that we forget it's also a fully featured data port, and hackers can use people's desperation to find … [+2268 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Paul Kunert",
-      "title": "Windows 10, huh, what is it good for? PC upgrade cycles actually",
-      "description": "Operating system's end of life D-day resucitates flatlining computer sector It transpires that Windows 11 is indeed good for at least one thing – driving PC upgrades, according to the latest figures from Gartner.…",
-      "url": "https://www.theregister.com/2025/10/17/windows_10_upgrades_lifts_global_pc_shipments/",
-      "urlToImage": "https://regmedia.co.uk/2022/04/28/shutterstock_powerswitch.jpg",
-      "publishedAt": "2025-10-17T14:16:17Z",
-      "content": "It transpires that Windows 11 is indeed good for at least one thing driving PC upgrades, according to the latest figures from Gartner.\r\nThe analyst today published figures showing worldwide PC shipme… [+2322 chars]"
     }
   ]
 }
