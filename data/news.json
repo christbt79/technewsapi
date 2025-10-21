@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-21T00:43:34.899Z",
+  "fetchedAt": "2025-10-21T02:21:22.367Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Khoo Boo Leong",
+      "title": "Huawei's ACT pathway powers scalable AI adoption across industries",
+      "description": "Company unveils pathway for intelligent transformation Sponsored Feature  The transformative benefits of AI across industries today have turned enterprise decision-makers' priorities toward ensuring that investments generate real business value, harness enter…",
+      "url": "https://www.theregister.com/2025/10/20/huaweis_act_pathway_powers/",
+      "urlToImage": "https://regmedia.co.uk/2023/07/13/vv_ddn_07-simplify-ai-data-management.jpg",
+      "publishedAt": "2025-10-20T01:00:09Z",
+      "content": "Sponsored Feature The transformative benefits of AI across industries today have turned enterprise decision-makers' priorities toward ensuring that investments generate real business value, harness e… [+8785 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/m365premium.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-17T08:53:02Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAnthropic and Microsoft are increasingly cozying up for AI models and services.\r\nAnthropic and Microsoft are increasingly cozying up for AI models and services.\r… [+3538 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Britains's AI gold rush hits a wall: not enough electricity",
-      "description": "Energy Secretary Miliband promises renewable utopia for green and pleasant land... filled with datacenters Energy is essential for delivering the UK governments' AI ambitions, but Britain faces a critical question: how can it supply enough power for rapidly e…",
-      "url": "https://www.theregister.com/2025/10/17/in_britain_talk_is_cheap/",
-      "urlToImage": "https://regmedia.co.uk/2023/02/06/power_shutterstock.jpg",
-      "publishedAt": "2025-10-17T08:00:04Z",
-      "content": "Energy is essential for delivering the UK governments' AI ambitions, but Britain faces a critical question: how can it supply enough power for rapidly expanding datacenters without causing blackouts … [+5155 chars]"
     }
   ]
 }
