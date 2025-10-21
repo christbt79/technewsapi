@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-21T18:46:15.181Z",
+  "fetchedAt": "2025-10-21T19:08:10.720Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kayla Solino",
+      "title": "This $8 cleaning solution keeps my screens crystal clear (and seeing is believing)",
+      "description": "Koala cleaner is my go-to for keeping my prescription glasses, laptop, iPhone, tablet, and other items streak, smudge, and dirt-free for under $10.",
+      "url": "https://www.zdnet.com/article/this-8-cleaning-solution-keeps-my-screens-crystal-clear-and-seeing-is-believing/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bfca73836503fe4afdf3044aac369bef9ef6a382/2025/07/18/59754387-a446-47df-b667-8a3062725285/img-0345.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T18:58:59Z",
+      "content": "The Koala cleaning kit with a pair of glasses. \r\nKayla Solino/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nI've been wearing prescription glasses since I was a baby, so trust me when… [+5101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Samsung offers free $100 deal to new Android XR headset users - how to redeem it now",
+      "description": "The latest reservation offer expires in one day, with Samsung's virtual Unpacked event kicking off this week.",
+      "url": "https://www.zdnet.com/article/samsung-offers-free-100-deal-to-new-android-xr-headset-users-how-to-redeem-it-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1a880e5b77ab35fc022d8a8883237940c1272cac/2025/03/03/a88fec95-374b-43ba-b32e-16a72623e13c/dsc04219.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-20T18:58:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3366 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG05AH_210614_4634_001.webp?quality=90&strip=all&crop=0,10.708427060106,100,78.583145879787",
       "publishedAt": "2025-10-17T18:12:29Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAustin Russell says he wants to acquire 100% of outstanding shares in Luminar, his former lidar company.\r\nAustin Russell says he wants to acquire 100% of outstan… [+2800 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Amazon’s Ring now works with video surveillance company Flock",
-      "description": "Amazon’s smart doorbell company Ring is now working with the AI-powered surveillance camera company Flock. According to a letter sent to the company by Sen. Ron Wyden, Flock had allowed data access to the Secret Service and the Navy — as well as ICE, as previ…",
-      "url": "https://www.theverge.com/news/801856/amazon-ring-partners-flock-video",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22406591/dseifert_20210323_4486_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-17T17:52:11Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe partnership allows police agencies who use Flock software to request footage from Ring users in the Neighbors app. \r\nThe partnership allows police agencies w… [+2576 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "From SB 243 to ChatGPT: Why it's 'not cool' to be cautious about AI",
-      "description": "Equity is breaking down the latest AI safety backlash, IPO loopholes during a government shutdown, Goldman Sachs' secondaries bet and more.",
-      "url": "https://techcrunch.com/podcast/from-sb-243-to-chatgpt-why-its-not-cool-to-be-cautious-about-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "publishedAt": "2025-10-17T17:41:23Z",
-      "content": "Silicon Valleys rule? Its not cool to be cautious. As OpenAI removes guardrails and VCs criticize companies like Anthropic for supporting AI safety regulations, its becoming clearer who the industry … [+854 chars]"
     }
   ]
 }
