@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T09:11:36.443Z",
+  "fetchedAt": "2025-10-22T09:40:08.876Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Sunny Grimm",
+      "title": "'Diamond blanket' transistor cooling method delivers incredible success in testing, drops temps by 70C — micrometer-scale diamond layer grown directly on transistors reduces heat by 90%",
+      "description": "A team at Stanford University has developed a new method of printing a micrometer-thin diamond layer directly onto semiconductors, directly coating transistors with incredible thermal dissipation. The Stanford team expects the tech to reach the U.S. governmen…",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/diamond-blanket-transistor-cooling-method-sees-incredible-success-in-testing-growing-micrometer-scale-diamond-layer-directly-on-transistors-drops-temps-by-70-c",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GYAo7NfGFYA6PyBFCMkmDe-2560-80.jpg",
+      "publishedAt": "2025-10-21T09:30:00Z",
+      "content": "A research team at Stanford University has engineered a new approach to handling the thermal bottleneck of RF transistor by using diamonds. By wrapping transistors in an integrated diamond layer, gro… [+4133 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/travel-photo-GettyImages-1176439818.jpg?resize=1200,800",
       "publishedAt": "2025-10-18T16:00:00Z",
       "content": "At a time when startuphustle culture is back, when “locked in” tech founders have even embraced the “996” way of working — 9 am to 9 pm, 6 days a week — there is something dystopian about using an AI… [+3851 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia and TSMC produce the first Blackwell wafer made in the U.S. — chips still need to be shipped back to Taiwan to complete the final product",
-      "description": "Nvidia and TSMC have produced the first Blackwell wafer at TSMC’s Arizona fab, marking a historic step in bringing advanced AI chip manufacturing to the U.S.. However, the chip still relies on Taiwan for final CoWoS-L packaging, which leaves the achievement l…",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-and-tsmc-produce-the-first-blackwell-wafer-made-in-the-u-s-chips-still-need-to-be-shipped-back-to-taiwan-to-complete-the-final-product",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eCNDw2PBYHZ6B2UwEt7VKT-2560-80.jpg",
-      "publishedAt": "2025-10-18T14:48:16Z",
-      "content": "Nvidia and TSMC on Friday announced they had reached a significant milestone with the manufacturing of the first production Blackwell wafer at Fab 21 near Phoenix, Arizona. The achievement of making … [+4124 chars]"
     }
   ]
 }
