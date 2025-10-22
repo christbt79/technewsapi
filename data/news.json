@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T11:33:34.210Z",
+  "fetchedAt": "2025-10-22T12:18:32.472Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Nvidia's China presence hits zero, says CEO Jensen Huang, and companies are already working around it — Alibaba reduces reliance on H20 as U.S. and China division deepens",
+      "description": "Alibaba Cloud has revealed a new GPU pooling system that slashed the number of Nvidia accelerators needed for large-scale inference by more than 80%.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/alibaba-slashes-gpu-usage-by-82-percent-with-new-pooling-system",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GhYf2rdnjbyD2U6KF9Utd4-1920-80.jpg",
+      "publishedAt": "2025-10-21T12:11:19Z",
+      "content": "Alibaba Cloud has revealed a new GPU pooling system that slashed the number of Nvidia accelerators needed for large-scale inference by more than 80%. The system, known as Aegaeon, was presented at th… [+5952 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Airbnb is becoming more social by allowing users to connect with fellow travelers",
+      "description": "Airbnb is adding social features like connections and messaging to create a social network of fellow travellers.",
+      "url": "https://techcrunch.com/2025/10/21/airbnb-is-becoming-more-social-by-allowing-users-to-connect-with-fellow-travelers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Messaging-Connections-October-2025-Product-Update-Airbnb.jpg?resize=1200,800",
+      "publishedAt": "2025-10-21T12:00:00Z",
+      "content": "Airbnb announced new features today that will help users connect with fellow travelers while participating in the same activity. The company is also improving search by suggesting properties that you… [+3516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Brit boffins teach fusion plasma some manners with 3D magnetic field",
+      "description": "MAST Upgrade team claims first suppression of pesky edge instabilities in a spherical tokamak Scientists at the UK Atomic Energy Authority (UKAEA) claim they have taken a significant step toward making fusion energy possible by applying a 3D magnetic field to…",
+      "url": "https://www.theregister.com/2025/10/21/ukaea_fusion_plasma_magnets/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/08/tokamak.jpg",
+      "publishedAt": "2025-10-21T11:39:08Z",
+      "content": "Scientists at the UK Atomic Energy Authority (UKAEA) claim they have taken a significant step toward making fusion energy possible by applying a 3D magnetic field to counteract instabilities in a sph… [+3362 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -709,12 +748,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -722,12 +761,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad145b32b34a5bc3761b83ad29af0b5d3f348432/2025/10/16/bd81080a-7765-49ef-ae16-ce89886abc30/dsc03159.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-19T11:00:38Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Meta Ray-Ban Displays are the company's most advanced smart glasses. </li><li>The smart … [+7954 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gemini in Google Home Keeps Mistaking My Dog for a Cat",
-      "description": "Google’s Gemini AI has offended my dog, but at least it can automatically turn the lights on for me.",
-      "url": "https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/",
-      "urlToImage": "https://media.wired.com/photos/68f3327f62ad73fb8ea1f291/191:100/w_1280,c_limit/Nest%20Indoor%20Cam%202K%20SOURCE%20Julian%20Chokkattu.PNG.jpg",
-      "publishedAt": "2025-10-19T10:30:00Z",
-      "content": "A cat jumped up on my couch. Wait a minute. I don't have a cat.\r\nThe alert about the leaping feline is something my Google Home app sent me when I was out at a party. Turns out it was my dog. This no… [+3425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "The new iPad Pro's biggest upgrade isn't the M5 chip - I'd buy it for this reason instead",
-      "description": "The M5 chip delivers up to 5.6 times faster performance than the M1 processor. Here's what else is new.",
-      "url": "https://www.zdnet.com/article/the-new-ipad-pros-biggest-upgrade-isnt-the-m5-chip-id-buy-it-for-this-reason-instead/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fd03a1ccf379831d985b2e9351cebc6116865387/2025/08/22/bad49888-0df7-40a0-9e00-8c3b940053ef/ipados-26-06.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-19T10:00:28Z",
-      "content": "The M4 iPad Pro running on iPadOS 26.\r\nJason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple just released a new iPad Pro featuring the new M5… [+3989 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "BitLocker reportedly auto-locks users' backup drives, causing loss of 3TB of valuable data — Windows automatic disk encryption can permanently lock your drives",
-      "description": "An unfortunate Reddit user lost access to 3 terabytes of data stored across two drives when BitLocker automatically encrypted them without the user's knowledge, within Windows 11. With no keys to unlock the drives, the data is now permanently gone with no hop…",
-      "url": "https://www.tomshardware.com/software/windows/bitlocker-reportedly-auto-locks-users-backup-drives-causing-loss-of-3tb-of-valuable-data-windows-automatic-disk-encryption-can-permanently-lock-your-drives",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6fchb3yYCKdETtJdi62QSR-1920-80.jpg",
-      "publishedAt": "2025-10-19T10:00:00Z",
-      "content": "Microsoft introduced BitLocker storage encryption to Windows Vista in 2007. It was initially limited to only the Enterprise and Ultimate editions at the time, but since then, BitLocker has become an … [+4172 chars]"
     }
   ]
 }
