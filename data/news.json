@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T20:37:51.263Z",
+  "fetchedAt": "2025-10-22T21:06:55.257Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft CEO Satya Nadella's annual pay jumps to $96.5 million",
+      "description": "Microsoft CEO Satya Nadella is getting a major bump in his compensation, thanks to a steep rally in the company's stock price.",
+      "url": "https://www.cnbc.com/2025/10/21/microsoft-ceo-satya-nadellas-total-comp-rises-to-96point5-million.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108090594-1737562586757-9GSqwC8c.jpg?v=1738256114&w=1920&h=1080",
+      "publishedAt": "2025-10-21T21:01:16Z",
+      "content": "Microsoft CEO Satya Nadella is getting a big bump in his compensation, as the company's stock price has continued to rally, propelled by the boom in artificial intelligence. \r\nNadella's total pay for… [+1682 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today",
+      "description": "Watching the first few minutes of KPop Demon Hunters on Samsung's Galaxy XR headset, I think Apple's Vision Pro might be cooked. It's not because the Galaxy XR - which Samsung formerly teased as Project Moohan - is that much better than the Vision Pro. It's t…",
+      "url": "https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Moohan_Vee.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-21T20:50:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAt $1,799 and with an impressive subscription bundle, Samsung is aggressively taking shots at the Vision Pro.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Revi… [+8053 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google's search and AI crawlers | TechCrunch",
+      "description": "Cloudflare CEO Matthew Prince is urging regulators to rein in Google’s AI practices, arguing the tech giant’s dominance in search gives it an unfair edge in the AI race.",
+      "url": "https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/videoframe_402382.png?resize=1200,675",
+      "publishedAt": "2025-10-21T20:39:49Z",
+      "content": "After earlier this year launching a marketplace that allows websites to charge AI bots for scraping their content, web infrastructure provider Cloudflare is pushing for increased regulation in the AI… [+3662 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/104207634-GettyImages-630170360.jpg?v=1532563943&w=1920&h=1080",
       "publishedAt": "2025-10-20T19:24:50Z",
       "content": "OpenAI announced on Monday in a joint statement that it will be working with Bryan Cranston, SAG-AFTRA, and other actor unions to protect against deepfakes on its artificial intelligence video creati… [+2338 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Wyze’s new solar-powered pan-and-tilt security camera is less than $80",
-      "description": "Wyze has announced its first battery-powered, solar-charged, 2K security camera that can rotate and tilt, providing coverage of your entire yard. The Wyze Solar Cam Pan is available now through Wyze’s online store for $79.98, making it cheaper than competitor…",
-      "url": "https://www.theverge.com/news/802704/wyze-solar-cam-pan-tilt-2k-security-camera",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/wyze_pan_1.jpg?quality=90&strip=all&crop=0%2C10.718772561125%2C100%2C78.562454877751&w=1200",
-      "publishedAt": "2025-10-20T19:19:41Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Solar Cam Pan can stay perpetually charged with just an hour of sunlight exposure every day.\r\nThe Solar Cam Pan can stay perpetually charged with just an hou… [+3492 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kayla Solino",
-      "title": "This $8 cleaning solution keeps my screens crystal clear (and seeing is believing)",
-      "description": "Koala cleaner is my go-to for keeping my prescription glasses, laptop, iPhone, tablet, and other items streak, smudge, and dirt-free for under $10.",
-      "url": "https://www.zdnet.com/article/this-8-cleaning-solution-keeps-my-screens-crystal-clear-and-seeing-is-believing/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bfca73836503fe4afdf3044aac369bef9ef6a382/2025/07/18/59754387-a446-47df-b667-8a3062725285/img-0345.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T18:58:59Z",
-      "content": "The Koala cleaning kit with a pair of glasses. \r\nKayla Solino/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nI've been wearing prescription glasses since I was a baby, so trust me when… [+5101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Samsung offers free $100 deal to new Android XR headset users - how to redeem it now",
-      "description": "The latest reservation offer expires in one day, with Samsung's virtual Unpacked event kicking off this week.",
-      "url": "https://www.zdnet.com/article/samsung-offers-free-100-deal-to-new-android-xr-headset-users-how-to-redeem-it-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1a880e5b77ab35fc022d8a8883237940c1272cac/2025/03/03/a88fec95-374b-43ba-b32e-16a72623e13c/dsc04219.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T18:58:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3366 chars]"
     }
   ]
 }
