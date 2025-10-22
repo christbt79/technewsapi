@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T19:31:40.741Z",
+  "fetchedAt": "2025-10-22T20:11:01.415Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "cnbc",
+      "title": "Want to lower anxiety? Put your phone away...",
+      "description": "Alexa Arnold is the managing director of the Anxious Generation Movement. Here are some of her tips for lowering anxiety and boosting your mental health.",
+      "url": "https://www.cnbc.com/2025/10/21/want-to-lower-anxiety-put-your-phone-away-expert-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214946-1761073743281-gettyimages-2214622577-dscf3368.jpeg?v=1761073771&w=1920&h=1080",
+      "publishedAt": "2025-10-21T20:00:04Z",
+      "content": "In his bestselling book \"The Anxious Generation,\" author and NYU Stern School of Business professor Jonathan Haidt discusses the societal changes that led to Gen Z's spikes in anxiety and depression,… [+2654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "I let OpenAI's new ChatGPT Atlas browser do my Walmart shopping for me - here's how it went",
+      "description": "With Agent mode, Atlas can take control of your browser tabs to shop, click, and perform tasks. So I tried it to see how well it works.",
+      "url": "https://www.zdnet.com/article/i-let-openais-new-chatgpt-atlas-browser-do-my-walmart-shopping-for-me-heres-how-it-went/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/20d7fa30ffe1d04f2e72c4ab8b32b9b9743260b4/2025/10/21/94081aa7-3766-413e-b2bc-027955f81976/5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T19:58:41Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's Atlast browser is here for Mac users, with Agent mode.</li><li>Agent navig… [+5755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "MCP attack abuses predictable session IDs to hijack AI agents",
+      "description": "The vuln affects the Oat++ MCP implementation\nA security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious re…",
+      "url": "https://www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
+      "urlToImage": "https://regmedia.co.uk/2017/03/28/web_snoop_shutterstock.jpg",
+      "publishedAt": "2025-10-21T19:36:24Z",
+      "content": "A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and injec… [+3294 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/694548bc0ee89b43d8eecae4f33422a578a76044/2025/10/20/b9d8bc97-6913-4f38-b7f1-2a6f0deac78a/screenshot-2025-10-20-at-9-44-24am.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-20T18:00:27Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Claude Code is available on the web. </li><li>This means you can start coding sessions outsi… [+2223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "I saw the future of Windows PCs - and it may finally be time to ditch my MacBook",
-      "description": "Qualcomm last month revealed its Snapdragon X2 Elite Extreme chipset, which promises major gains over Apple's M4.",
-      "url": "https://www.zdnet.com/article/i-saw-the-future-of-windows-pcs-and-it-may-finally-be-time-to-ditch-my-macbook/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/05ed7a0340bd94581fbd8b0f5d3ccb0c279de967/2024/04/09/74132c31-c1f9-45c6-ac49-2fc5f39893b7/snapdragon-x-benchmarks-composite2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T18:00:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nAt last month's Qualcomm Snapdragon Summit 2025 event, the company took the stage to announce its next generation of lapto… [+2509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "China blames US for cyber break-in, claims America is world's biggest bit burglar",
-      "description": "'US is … the greatest source of chaos in cyberspace'\nChina has blamed the US for a \"major cyberattack\" against its National Time Service Center, alleging it could have disrupted the country's communications, financial, and transportation networks, and even ca…",
-      "url": "https://www.theregister.com/2025/10/20/china_accuses_us_cyber_warfare/",
-      "urlToImage": "https://regmedia.co.uk/2022/04/07/china_shutterstock3.jpg",
-      "publishedAt": "2025-10-20T17:27:39Z",
-      "content": "China has blamed the US for a \"major cyberattack\" against its National Time Service Center, alleging it could have disrupted the country's communications, financial, and transportation networks, and … [+2303 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "FTC removes Lina Khan-era posts about AI risks and open source | TechCrunch",
-      "description": "One post, authored by Khan’s staff, was published on January 3, 2025 with the title “AI and the Risk of Consumer Harm.” It noted that the FTC was “taking note of AI’s potential for real-world instances of harm – from incentivizing commercial surveillance to e…",
-      "url": "https://techcrunch.com/2025/10/20/ftc-removes-lina-khan-era-posts-about-ai-risks-and-open-source/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1232440387.jpg?resize=1200,800",
-      "publishedAt": "2025-10-20T17:10:41Z",
-      "content": "The Federal Trade Commission has removed three blog posts from the Lina Khan-era that addressed open-source AI and risks of AI to consumers, according to a Wired report.  \r\nOne post, titled On Open-W… [+3353 chars]"
     }
   ]
 }
