@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-22T15:39:12.860Z",
+  "fetchedAt": "2025-10-22T16:11:58.611Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
+      "description": "Amazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos\nWhen Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps – it took down dignity, comfort, and the occasio…",
+      "url": "https://www.theregister.com/2025/10/21/aws_outage_aftermath/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/21/smart_home.jpg",
+      "publishedAt": "2025-10-21T16:05:04Z",
+      "content": "When Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps it took down dignity, comfort, and the occasional cat toilet.\r\nThe AWS outage saw a long lis… [+3293 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoë Schiffer, Louise Matsakis",
+      "title": "Forget SEO. Welcome to the World of Generative Engine Optimization",
+      "description": "This holiday season, more shoppers are expected to use chatbots to figure out what to buy. ‘Tis the season for GEO.",
+      "url": "https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/",
+      "urlToImage": "https://media.wired.com/photos/68f6a93ad0fc611fc4919adc/191:100/w_1280,c_limit/Model-Behavior-Santas-Helper-is-an-LLM-Business.jpg",
+      "publishedAt": "2025-10-21T16:00:00Z",
+      "content": "This holiday season, rather than searching on Google, more Americans will likely be turning to large language models to find gifts, deals, and sales. Retailers could see up to a 520 percent increase … [+2350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "After using M5 iPad Pro, I'm seriously considering putting away my MacBook for it",
+      "description": "The latest iPad Pro sees improvements across performance and connectivity, making it a worthy upgrade for older iPad users wanting more.",
+      "url": "https://www.zdnet.com/article/after-using-m5-ipad-pro-im-seriously-considering-putting-away-my-macbook-for-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2ed900915e290feaa4f8e0464c0289944eac2b96/2025/10/18/b434b73e-e809-42b3-bb69-e6634b5c88e3/5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T15:59:00Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The M5 iPad Pro is now available for purchase, starting at $999 for the 11-inch and $1,199 for … [+4833 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "YouTube’s likeness detection technology has officially launched",
+      "description": "YouTube's likeness detection technology is now available. Creators can request the removal of AI content using their face and voice.",
+      "url": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?resize=1200,631",
+      "publishedAt": "2025-10-21T15:57:18Z",
+      "content": "YouTube revealed on Tuesday that its likeness detection technology has officially rolled out to eligible creators in the YouTube Partner Program, following a pilot phase. The technology allows creato… [+2109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "Is PHP declining? JetBrains says yes. And no",
+      "description": "24,500 devs polled, two blog posts, one confusion\nJetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim that PHP and …",
+      "url": "https://www.theregister.com/2025/10/21/massive_jetbrains_dev_survey/",
+      "urlToImage": "https://regmedia.co.uk/2016/05/16/php_image_via_shutterstock.jpg",
+      "publishedAt": "2025-10-21T15:56:08Z",
+      "content": "JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim tha… [+3374 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "WhatsApp and Messenger add new warnings to help older people avoid online scams",
+      "description": "WhatsApp will now warn users before sharing their screen with unknown contacts, and Messenger will flag suspicious messages using AI.",
+      "url": "https://techcrunch.com/2025/10/21/whatsapp-and-messenger-add-new-warnings-to-help-older-people-avoid-online-scams/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/elderly-adult-GettyImages-1390895748.jpg?resize=1200,800",
+      "publishedAt": "2025-10-21T15:50:56Z",
+      "content": "Meta on Tuesday introduced new scam detection features for its messaging apps, WhatsApp and Messenger, as part of its broader initiative to crack down on online scams that target older people. The co… [+3027 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1112,12 +1190,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -1125,12 +1203,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/uUV668HMdq5jT4Mhhk9gwD-2560-80.jpg",
       "publishedAt": "2025-10-20T13:50:16Z",
       "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Today we’re testing … [+6274 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Lucky Facebook Marketplace shopper finds souped-up prototype GTX 2080 Ti inside a $500 PC — mythical Nvidia project features 12GB of VRAM and higher memory bandwidth",
-      "description": "Specifications suggest Nvidia once considered a more powerful TU102 design for the RTX 2080 Ti GPU",
-      "url": "https://www.tomshardware.com/pc-components/gpus/lucky-facebook-marketplace-shopper-finds-souped-up-prototype-gtx-2080-ti-inside-a-usd500-pc-mythical-nvidia-project-features-12gb-of-vram-and-higher-memory-bandwidth",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/v43urHSbVR3PYXx5FEyDuk-1920-80.jpg",
-      "publishedAt": "2025-10-20T13:24:08Z",
-      "content": "A Reddit user has managed to get their hands on a rare prototype of Nvidia’s GeForce GTX 2080 Ti GPU. According to photos posted by u/RunRepulsive9867, the card resembles a Founders Edition model fro… [+2225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Microsoft denies Mexico data center linked to water shortages, local illnesses, and power outages — stomach bugs and even hepatitis reported in region as 1.5 Gigawatt AI data center buildout looms",
-      "description": "Microsoft has denied claims that its data center in central Mexico is tied to a recent spate of power outages, water shortages, and health concerns, claiming it always prioritizes the needs of local communities in any actions it takes.",
-      "url": "https://www.tomshardware.com/tech-industry/microsoft-denies-mexico-data-center-linked-to-water-shortages-local-illnesses-and-power-outages-stomach-bugs-and-even-hepatitis-reported-in-region-as-1-5-gigawatt-ai-data-center-buildout-looms",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/AXYhwBq7Tg5WB5Cv9hSfyQ-1024-80.jpg",
-      "publishedAt": "2025-10-20T13:19:12Z",
-      "content": "Local residents near a Mexico data center built by Microsoft last year have been complaining of a range of negative utility and health effects that they're attributing to the data center itself, acco… [+2602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Adobe might've just solved one of generative AI's biggest legal risks",
-      "description": "The company's new AI Foundry aims to help businesses build bespoke AI models with their own IP.",
-      "url": "https://www.zdnet.com/article/adobe-mightve-just-solved-one-of-generative-ais-biggest-legal-risks/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bfac7e06d6a88829256d96778ca05ec9425c5ace/2025/10/20/cea05cab-5164-4a71-be95-e4003bfedceb/gettyimages-1387014531.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T13:00:43Z",
-      "content": "Wiphop Sathawirawong/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Adobe assures its new AI model service is copyrig… [+3907 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Adobe launches a foundry service that builds custom generative AI models for enteprises | TechCrunch",
-      "description": "Adobe launches a foundry service that builds custom generative AI models for enteprises | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/20/adobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enteprises/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/Adobe.jpg?w=1200",
-      "publishedAt": "2025-10-20T13:00:00Z",
-      "content": "Creative design giant Adobe is beefing up the products it offers businesses to include custom generative AI models. \r\nAdobe launched Adobe AI Foundry on Monday, a new offering that allows enterprises… [+2248 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matthew Gault",
-      "title": "Anthropic Has a Plan to Keep Its AI From Building a Nuclear Weapon. Will It Work?",
-      "description": "Anthropic partnered with the US government to create a filter meant to block Claude from helping someone build a nuke. Experts are divided on whether its a necessary protection—or a protection at all.",
-      "url": "https://www.wired.com/story/anthropic-has-a-plan-to-keep-its-ai-from-building-a-nuclear-weapon-will-it-work/",
-      "urlToImage": "https://media.wired.com/photos/68f2a38fd9a83ae21d13c67e/191:100/w_1280,c_limit/sec-anthropic-2198654440.jpg",
-      "publishedAt": "2025-10-20T12:42:23Z",
-      "content": "At the end of August, the AI company Anthropicannounced that its chatbot Claude wouldnt help anyone build a nuclear weapon. According to Anthropic, it had partnered with the Department of Energy (DOE… [+2283 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Crypto miners riding the AI wave are leaving Bitcoin behind",
-      "description": "Even with the crypto market carnage over the past week, Bitcoin is still up about 14% in 2025, and within striking distance of the all-time high of almost $126,000 reached at the start of the month",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-18/crypto-miners-riding-the-ai-wave-are-leaving-bitcoin-behind",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/cfqy56/article70184867.ece/alternates/LANDSCAPE_1200/2025-10-14T171730Z_1991310920_RC22PGA9C92H_RTRMADP_3_USA-CRYPTOCURRENCY-VER-CRIME.JPG",
-      "publishedAt": "2025-10-20T12:38:02Z",
-      "content": "Shares of the large-scale computing outfits that make Bitcoin work are once again outperforming the original cryptocurrency, as more pivot to hybrid models built around artificial intelligence and hi… [+4181 chars]"
     }
   ]
 }
