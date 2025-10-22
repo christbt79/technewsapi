@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T21:31:38.146Z",
+  "fetchedAt": "2025-10-22T22:07:44.648Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta partners with Blue Owl Capital on $27 billion AI data center project",
+      "description": "Meta on Tuesday said it formed a $27-billion joint venture agreement with Blue Owl Capital to fund and develop the Hyperion data center in rural Louisiana.",
+      "url": "https://www.cnbc.com/2025/10/21/meta-blue-owl-capital-partner-on-27-billion-ai-data-center-project-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200611-1758197175659-gettyimages-2235448228-META_CONNECT.jpeg?v=1761077950&w=1920&h=1080",
+      "publishedAt": "2025-10-21T21:38:00Z",
+      "content": "Meta said Tuesday that it formed a joint venture agreement with Blue Owl Capital in a deal worth $27 billion to fund and develop the social media company's massive Hyperion data center in rural Louis… [+1691 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta",
+      "description": "Former Oculus CEO Brendan Iribe’s new startup, Sesame, is building AI-powered smartglasses with natural, humanlike voice interaction. Backed by Sequoia and Spark, the company also launched an invite-only iOS beta to preview its conversational AI.",
+      "url": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/5.webp?resize=1200,800",
+      "publishedAt": "2025-10-21T21:34:17Z",
+      "content": "Sesame, a conversational AI startup and smart glasses maker, has raised a $250 million Series B round and is opening up its beta to a select group of testers, the company announced Tuesday. \r\nThe sta… [+2518 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213840-1760741613237-gettyimages-2241295387-AFP_798G3W9.jpeg?v=1760741699&w=1920&h=1080",
       "publishedAt": "2025-10-20T21:28:02Z",
       "content": "President Donald Trump is stepping up his calls to deploy the National Guard to San Francisco at the very moment that the city is undergoing a post-pandemic resurgence, propelled by artificial intell… [+4655 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Aid groups use AI-generated ‘poverty porn’ to juice fundraising efforts",
-      "description": "Researchers accuse tech firms of profiting from exploitative AI imagery\nThe starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting f…",
-      "url": "https://www.theregister.com/2025/10/20/aid_groups_scolded_fundraising_ai/",
-      "urlToImage": "https://regmedia.co.uk/2015/12/24/shutterstock_disgust.jpg",
-      "publishedAt": "2025-10-20T20:51:20Z",
-      "content": "The starving child whose picture broke your heart when you saw it on a charity website may not be real. Global health researchers say that stock image companies like Adobe are profiting from AI-gener… [+5850 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Anthropic brings Claude Code to the web | TechCrunch",
-      "description": "Anthropic now lets developers spin up Claude Code agents, and manage them, from their web browser on desktop and mobile.",
-      "url": "https://techcrunch.com/2025/10/20/anthropic-brings-claude-code-to-the-web/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
-      "publishedAt": "2025-10-20T20:09:26Z",
-      "content": "Anthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.\r\nClaude Code for web is now… [+3343 chars]"
     }
   ]
 }
