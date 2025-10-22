@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-22T13:47:32.987Z",
+  "fetchedAt": "2025-10-22T14:10:48.275Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Mayor Kate Gallego on how ditching 'perfect life' myth sparked her unconventional path to power",
+      "description": "With a newborn on fundraising calls, Phoenix Mayor Kate Gallego worried about being taken seriously. Now she's in a third-term leading fifth-largest U.S. city.",
+      "url": "https://www.cnbc.com/2025/10/21/kate-gallego-two-term-phoenix-mayor-women-success-leadership.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213132-1760636577438-gettyimages-1246471176-mayors090_012023.jpeg?v=1760636605&w=1920&h=1080",
+      "publishedAt": "2025-10-21T14:06:57Z",
+      "content": "When Kate Gallego was weighing her first run for mayor in Phoenix, she was newly divorced, had recently given birth, and her mom had just been diagnosed with cancer. None of the largest cities in the… [+4363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Telecom group to build new $116m undersea cable in the Black Sea, bypassing Russia — project set to connect Bulgaria, Georgia, Turkey, and Ukraine",
+      "description": "The Vodafone Group and Vodafone Ukraine build a new undersea cable to connect Europe and Asia over the Black Sea.",
+      "url": "https://www.tomshardware.com/networking/telecom-group-to-build-new-usd116m-undersea-cable-in-the-black-sea-bypassing-russia-project-set-to-connect-bulgaria-georgia-turkey-and-ukraine",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ycpR64TAirhxm7rKFpg2wW-2560-80.jpg",
+      "publishedAt": "2025-10-21T14:01:56Z",
+      "content": "The Vodafone Group and Vodafone Ukraine are set to work together in building a new undersea cable in the Black Sea that will connect Europe and Asia while bypassing Russia. According to The Express, … [+2776 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Albert Thomas",
+      "title": "Hyte X50 Case Review: rounded, colorful style meets excellent build quality",
+      "description": "Hyte’s X50 delivers excellent build quality paired with a unique choice of colors and aesthetics, plus a tool-free design.",
+      "url": "https://www.tomshardware.com/pc-components/pc-cases/hyte-x50-case-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dhx85G5EoWkTtffh2C6ZUQ-2560-80.jpg",
+      "publishedAt": "2025-10-21T14:00:00Z",
+      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Hyte, a sibling bran… [+8578 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase",
+      "description": "Less than 6 days until TechCrunch Disrupt 2025 takes over San Francisco’s Moscone West! The countdown is on for the year's biggest gathering of founders, investors, and innovators shaping the future of tech. Register here to save up to $444 on your pass, plus…",
+      "url": "https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_6Days-16X9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-21T14:00:00Z",
+      "content": "Less than 6 days until TechCrunch Disrupt 2025 takes over San Franciscos Moscone West! The countdown is on for the years biggest gathering of founders, investors, and innovators shaping the future of… [+2640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Got a shiny new PC? These 5 Linux distros are built for speed and power - and they're free",
+      "description": "Linux isn't just for older, sluggish hardware. These distros shine on new PCs too.",
+      "url": "https://www.zdnet.com/article/got-a-shiny-new-pc-these-5-linux-distros-are-built-for-speed-and-power-and-theyre-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c457b3a657557d1ee7a1f04fecf5119375d8d2/2025/10/21/528097af-ec12-4bde-89ad-76c5c3390e09/linux-distributions-that-are-best-suited-for-new-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T13:54:00Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are specific Linux distributions for newer hardware.</li><li>Thes… [+5514 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-20-at-1.13.38AM.png?resize=1200,807",
       "publishedAt": "2025-10-20T09:27:26Z",
       "content": "Lee Roberts meets me at the University Club of San Francisco on a Friday morning, hours before his football team will lose to Cal in heartbreaking fashion a fumble at the goal line, because little ab… [+9888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "Europe's plan to ditch US tech giants is built on open source - and it's gaining steam",
-      "description": "One topic dominated the recent 2025 OpenInfra Summit Europe, and it wasn't AI.",
-      "url": "https://www.zdnet.com/article/europes-plan-to-ditch-us-tech-giants-is-built-on-open-source-and-its-gaining-steam/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bfa50b146ee31a5bf02c717d693e3664ef06a423/2025/10/20/84622a3c-74e1-48ef-9a5e-ff62a0e3ab07/gettyimages-1990901974.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T09:19:59Z",
-      "content": "Grant Faint/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Europeans are moving away from US-based products and services.</li><li>This i… [+6261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "I tried the Meta Ray-Ban Display glasses (including this unreleased feature), and I'm nearly sold",
-      "description": "The style, fit, and features made me a believer. But will it do the same to you?",
-      "url": "https://www.zdnet.com/article/i-tried-the-meta-ray-ban-display-glasses-including-this-unreleased-feature-and-im-nearly-sold/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad145b32b34a5bc3761b83ad29af0b5d3f348432/2025/10/16/bd81080a-7765-49ef-ae16-ce89886abc30/dsc03159.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T09:00:27Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Meta Ray-Ban Displays are the company's most advanced smart glasses. </li><li>The smart … [+7954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Musk challenges legendary AI researcher Karpathy to an AI coding showdown against Grok 5 — gets a polite 'no' to an IBM Deep Blue-like showdown",
-      "description": "Elon Musk has proposed a public coding contest between xAI’s Grok 5 and former OpenAI research lead Andrej Karpathy, comparing it to the 1997 showdown between Garry Kasparov and IBM’s Deep Blue.",
-      "url": "https://www.tomshardware.com/tech-industry/musk-challenges-kaparthy-to-an-ai-coding-showdown",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/syu3EXGvZmhdtH7cmmbZd-2560-80.jpg",
-      "publishedAt": "2025-10-20T09:00:00Z",
-      "content": "Elon Musk has proposed a public coding contest between xAI’s Grok 5 and former OpenAI research lead Andrej Karpathy, comparing it to the 1997 showdown between Garry Kasparov and IBM’s Deep Blue. Karp… [+2878 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "A simple AI prompt saved a developer from this job interview scam",
-      "description": "Plus: Ransomware posing as Teams installer, Cisco 0-day exploit to drop rootkit, and European cops bust SIM-box service\nINFOSEC IN BRIEF Engineer David Dodda says he was just \"30 seconds away\" from running malware on his own computer after nearly falling vict…",
-      "url": "https://www.theregister.com/2025/10/20/ai_prompt_saved_developer/",
-      "urlToImage": "https://regmedia.co.uk/2017/02/09/shutterstock_fear.jpg",
-      "publishedAt": "2025-10-20T08:47:00Z",
-      "content": "INFOSEC IN BRIEF Engineer David Dodda says he was just \"30 seconds away\" from running malware on his own computer after nearly falling victim to a North Korea-type job interview scam with a \"legitima… [+6711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Khoo Boo Leong",
-      "title": "Huawei's ACT pathway powers scalable AI adoption across industries",
-      "description": "Company unveils pathway for intelligent transformation Sponsored Feature  The transformative benefits of AI across industries today have turned enterprise decision-makers' priorities toward ensuring that investments generate real business value, harness enter…",
-      "url": "https://www.theregister.com/2025/10/20/huaweis_act_pathway_powers/",
-      "urlToImage": "https://regmedia.co.uk/2023/07/13/vv_ddn_07-simplify-ai-data-management.jpg",
-      "publishedAt": "2025-10-20T01:00:09Z",
-      "content": "Sponsored Feature The transformative benefits of AI across industries today have turned enterprise decision-makers' priorities toward ensuring that investments generate real business value, harness e… [+8785 chars]"
     }
   ]
 }
