@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-22T14:43:55.122Z",
+  "fetchedAt": "2025-10-22T15:08:58.679Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jonathan Trull, chief information security officer, Qualys",
+      "title": "Restructuring risk operations: building a business-aligned cyber strategy",
+      "description": "Why organizations need a new strategy to break down silos and usher in a new era of risk intelligence Partner Content  As cyber risk continues to escalate, many organizations face a disconnect between cybersecurity investments and actual risk reduction. Despi…",
+      "url": "https://www.theregister.com/2025/10/21/restructuring_risk_operations_building/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/30/risk_measurement_shutterstock.jpg",
+      "publishedAt": "2025-10-21T15:00:07Z",
+      "content": "Partner ContentAs cyber risk continues to escalate, many organizations face a disconnect between cybersecurity investments and actual risk reduction. Despite increased security budgets, formal cyber … [+5718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "I've work with execs at Google, Nike and Disney—here’s the No. 1 'overlooked' skill I teach them",
+      "description": "Toy designer, educator and author Cas Holman has worked with executives at Google, Nike and Disney. He shares the importance of incorporating play into your work, and how it leads to more innovation, success and creativity.",
+      "url": "https://www.cnbc.com/2025/10/21/i-work-with-execs-at-google-nike-and-disney-heres-the-no-1-overlooked-skill-i-teach-them.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214422-1760993814498-gettyimages-1410347772-josef10729.jpeg?v=1760993855&w=1920&h=1080",
+      "publishedAt": "2025-10-21T14:55:59Z",
+      "content": "For years, I introduced myself as a toy designer. But over time, I realized I wasn't designing toys I was designing conditions for play: spaces and systems that invite experimentation, improvisation,… [+4137 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Veeam acquires data security company Securiti AI for $1.7bn | TechCrunch",
+      "description": "Veeam plans to offer Seucriti's data command center product alongside its existing data resiliency products.",
+      "url": "https://techcrunch.com/2025/10/21/veeam-acquires-data-security-company-securiti-ai-for-1-7bn/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_5644.jpeg?resize=800,1200",
+      "publishedAt": "2025-10-21T14:55:54Z",
+      "content": "Data resiliance company Veeam wants to give its customers more control and security over their data in the age of AI. \r\nThe Kirkland, Washington-based company announced on Tuesday that it has signed … [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Ricoh is making a dedicated black and white camera",
+      "description": "Ricoh is developing a new addition to its GR compact digital camera series that’s designed specifically for black and white photography. The GR IV Monochrome is expected to launch sometime in Spring 2026, and aside from a new monochrome CMOS sensor, it shares…",
+      "url": "https://www.theverge.com/news/803328/ricoh-gr-iv-monochrome-black-and-white-camera",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Ricoh-GR-IV-Monochrome.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-21T14:48:21Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe GR IV Monochrome is set to launch in Spring 2026, with pricing to be confirmed.\r\nThe GR IV Monochrome is set to launch in Spring 2026, with pricing to be con… [+2421 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Yelp-Host-Biz-Owner-Set-Up-Host-App-for-Reservations.jpg?quality=90&strip=all&crop=8.7676005747126%2C0%2C82.464798850575%2C100&w=1200",
       "publishedAt": "2025-10-20T11:52:55Z",
       "content": "<ul><li></li><li></li></ul>\r\nThe AI-powered receptionist can take bookings and answer questions.\r\nThe AI-powered receptionist can take bookings and answer questions.\r\nby\r\nRobert HartClose\r\nRobert Har… [+3477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Embattled Dutch chipmaker Nexperia blasts ousted CEO over false accusations — claims of unpaid salaries and independent operation in China are 'falsehoods', say company",
-      "description": "The ousted ex-CEO of Dutch chip firm, Nexperia, has reportedly been claiming that Chinese workers can defy Dutch administrators and that staff haven't been paid. Dutch management denies these claims, calling them \"factually incorrect and misleading.\"",
-      "url": "https://www.tomshardware.com/tech-industry/embattled-dutch-chipmaker-nexperia-blasts-ousted-ceo-over-false-accusations-claims-of-unpaid-salaries-and-independent-operation-in-china-are-falsehoods-say-company",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bWgisCqCYcpYhca8U2jrbG-1920-80.jpg",
-      "publishedAt": "2025-10-20T11:36:58Z",
-      "content": "Dutch chip manufacturer, Nexperia, has accused the recently-ousted Chinese CEO, Zhang Xuezheng, of spreading \"factually incorrect and misleading\" claims about the company and its intentions, accordin… [+2485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Lloyds Banking Group claims Microsoft Copilot saves staff 46 minutes a day",
-      "description": "That's 46 minutes in which more work can be done, not an extended lunch Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 Copilot, based on a survey of 1,000 users among nearly 30,000 deployed licenses.…",
-      "url": "https://www.theregister.com/2025/10/20/lloyds_banking_copilot/",
-      "urlToImage": "https://regmedia.co.uk/2017/11/02/shutterstock_lloyds_bank.jpg",
-      "publishedAt": "2025-10-20T11:10:38Z",
-      "content": "Lloyds Banking Group claims employees save 46 minutes daily using Microsoft 365 Copilot, based on a survey of 1,000 users among nearly 30,000 deployed licenses.\r\nAccording to Lloyds Banking Group (LB… [+3609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Rupert Goodwins",
-      "title": "The real insight behind measuring Copilot usage is Microsoft's desperation",
-      "description": "Citizen! You are falling short in your AI usage targets! Strive harder for the revolution!\nOpinion The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state. When you make a me…",
-      "url": "https://www.theregister.com/2025/10/20/copilot_viva_insights_column/",
-      "urlToImage": "https://regmedia.co.uk/2017/08/01/spy-boss.jpg",
-      "publishedAt": "2025-10-20T10:15:07Z",
-      "content": "Opinion The quantum theory of management includes an analogy for the physical law of the observer effect, where observing a system changes its state. When you make a metric a target, it is not useful… [+5455 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lauren Goode, Makena Kelly",
-      "title": "The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure",
-      "description": "The Federal Trade Commission removed several blog posts in recent months about open source and potential risks to consumers from the rapid spread of commercial AI tools.",
-      "url": "https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/",
-      "urlToImage": "https://media.wired.com/photos/68f1899c43997c1874543fc3/191:100/w_1280,c_limit/GettyImages-2153112061.jpg",
-      "publishedAt": "2025-10-20T10:00:00Z",
-      "content": "In late July 2024, Lina Khan, then the chair of the US Federal Trade Commission, gave a speech at an event hosted by the San Francisco startup accelerator Y Combinator in which she positioned herself… [+2337 chars]"
     }
   ]
 }
