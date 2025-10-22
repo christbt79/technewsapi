@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T08:46:23.935Z",
+  "fetchedAt": "2025-10-22T09:11:36.443Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Mary-Ann Russon",
+      "title": "A shot in the dark: Can malware vaccines stop ransomware's rampage?",
+      "description": "Security pros explore whether infection-spoofing code can immunize Windows systems against attack\nFeature What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given …",
+      "url": "https://www.theregister.com/2025/10/21/malware_vaccines/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/15/cybersecurity_vaccine.jpg",
+      "publishedAt": "2025-10-21T09:04:01Z",
+      "content": "Feature What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escal… [+12281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "What Bill Gates really said about AI replacing coding jobs",
+      "description": "Everyone's quoting Bill Gates saying AI can't replace programmers - but he never actually said that. Here's what he really said, and what it means for your tech career.",
+      "url": "https://www.zdnet.com/article/what-bill-gates-really-said-about-ai-replacing-coding-jobs/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/26610cbfa665166d2afb6cc1ba0c0af90dbde7b5/2025/10/20/513055fa-ce67-400e-8e15-aea2b21158e0/cleanshot-2025-10-19-at-20-19-212x.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T09:00:36Z",
+      "content": "Axelle/Bauer-Griffin / Contributor/FilmMagic via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Bill Gates acknowledges AI can impact coding jobs.</li><l… [+12293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Trump says Intel has made a 'fortune' and America has made $40 billion after the US invested in ailing chipmaker — Intel has gained $73 billion in market cap since investment",
+      "description": "The U.S. government’s 10% stake in Intel, acquired in August, transformed a struggling chipmaker's fortunes into a $73 billion market share uptick while reinforcing America's national security and industrial sovereignty.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-has-gained-usd73-billion-in-market-cap-since-u-s-government-investment-trump-says-the-deal-is-a-major-win",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1920-80.jpg",
+      "publishedAt": "2025-10-21T09:00:00Z",
+      "content": "When the U.S. government procured a 10% stake in Intel back in late August, it was a major win for Intel as it represented an investment from America, the importance of which cannot be overstated. At… [+3840 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -566,12 +605,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -579,12 +618,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/eCNDw2PBYHZ6B2UwEt7VKT-2560-80.jpg",
       "publishedAt": "2025-10-18T14:48:16Z",
       "content": "Nvidia and TSMC on Friday announced they had reached a significant milestone with the manufacturing of the first production Blackwell wafer at Fab 21 near Phoenix, Arizona. The achievement of making … [+4124 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "WhatssApp changes its terms to bar general purpose chatbots from its platform",
-      "description": "WhatsApp is banning general purpose chatbots from using its Business API",
-      "url": "https://techcrunch.com/2025/10/18/whatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/Green-white-apple-logo.jpg?resize=1200,900",
-      "publishedAt": "2025-10-18T14:12:14Z",
-      "content": "Meta-owned chat app WhatsApp changed its business API policy this week to ban general-purpose chatbots from its platform. The move will likely affect WhatsApp-based assistants of companies like OpenA… [+3707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI headshots are changing the way job seekers are seen and get hired in changing labor market",
-      "description": "In a competitive job market, a good headshot can make a big difference. That's leading to a wave of AI headshots on LinkedIn and other hiring platforms.",
-      "url": "https://www.cnbc.com/2025/10/18/jobs-search-ai-resume-cv-headshots.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212514-1760546288425-gettyimages-2153570840-dsc08499.jpeg?v=1760546365&w=1920&h=1080",
-      "publishedAt": "2025-10-18T14:04:23Z",
-      "content": "AI headshots are becoming popular on LinkedIn and in professional portfolios as job seekers look for affordable profile pictures to give them an edge.\r\nSince first impressions happen almost entirely … [+5941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Jensen says Nvidia’s China AI GPU market share has plummeted from 95% to zero — the Chinese market previously amounted to 20% to 25% of the chipmaker's data center revenue",
-      "description": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite.",
-      "url": "https://www.tomshardware.com/tech-industry/jensen-huang-says-nvidia-china-market-share-has-fallen-to-zero",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TaELLfgnHowgSbG2kZofkW-1920-80.png",
-      "publishedAt": "2025-10-18T13:53:18Z",
-      "content": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite. The comment ca… [+2667 chars]"
     }
   ]
 }
