@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T10:42:36.496Z",
+  "fetchedAt": "2025-10-22T11:08:18.651Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Apple MacBook successfully runs an Nvidia GPU through USB4 using an external GPU docking station - Tiny Corp's coding wizardry unlocks Mac+Nvidia magic",
+      "description": "AI-startup TinyCorp has successfully created Nvidia drivers for ARM-powered MacBooks that make them compatible with RTX 30-50 series GPUs through USB4 docking stations.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/tiny-corp-successfully-runs-an-nvidia-gpu-on-arm-macbook-through-usb4-using-an-external-gpu-docking-station",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yXsW2UWvUJ5reDqGmbcAsM-1920-80.jpg",
+      "publishedAt": "2025-10-21T11:00:00Z",
+      "content": "After getting AMD graphics cards to work on ARM-based MacBooks, TinyCorp has successfully ported its work to USB4/Thunderbolt 4 and built drivers to make Nvidia's RTX 30, 40, and 50 series graphics c… [+3285 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like",
+      "description": "Yelp will now let you scan a physical menu show redirect bubbles to Yelp app where you can see how those dishes look.",
+      "url": "https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Yelp-Assistant-on-business-pages-Restaurant-full-flow.jpg?resize=1200,581",
+      "publishedAt": "2025-10-21T11:00:00Z",
+      "content": "Yelp is releasing multiple AI-powered updates Tuesday, including an updated AI assistant that can answer questions about restaurants, bars, local attractions, or retailers. The assistant can also sca… [+3199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Starlink and Muon fuse space lasers and satellites to deliver ‘industry-first’ persistent optical connectivity in orbit — will enable 25 Gbps data transfer at distances up to 4,000km",
+      "description": "Traditional comms satellites rely on intermittent links with ground stations, but Muon Halo satellites will stay continuously connected with integrated Starlink Mini lasers.",
+      "url": "https://www.tomshardware.com/networking/starlink-and-muon-fuse-space-lasers-and-satellites-to-deliver-industry-first-persistent-optical-connectivity-in-orbit-will-enable-25-gbps-data-transfer-at-distances-up-to-4-000km",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/w8iaHuGsQHTUdPVEJKG6yh-1920-80.jpg",
+      "publishedAt": "2025-10-21T11:00:00Z",
+      "content": "Muon Space has announced a partnership with Starlink to establish an “industry-first [of] persistent optical connectivity in orbit.” In an email to Tom’s Hardware, the company revealed that the agree… [+3058 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -657,12 +696,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -670,12 +709,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mXEgwCGiiuwAuCEL8xGFL-2560-80.jpg",
       "publishedAt": "2025-10-19T09:45:48Z",
       "content": "Some thermal pastes are good for air cooling, others for liquid cooling, some are generally efficient, others are not. But as our colleague Igor Wallosek discovered, there is a thermal paste that sti… [+3173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "How you're charging your tablet is slowly killing it - 3 ways to avoid (and the right method)",
-      "description": "Please stop charging your tablet like this.",
-      "url": "https://www.zdnet.com/article/how-youre-charging-your-tablet-is-slowly-killing-it-3-ways-to-avoid-and-the-right-method/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/89fe30683bed6b451755b85d1f113ec22271f33a/2024/05/23/820b7720-fcb6-4ece-ae08-b2ac785aed1e/dsc00517-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-19T09:00:50Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Unplug at 100%, and keep the battery between 20% and 80%.</li><li>Avoid draining to 0%; store un… [+4627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Ed Bott",
-      "title": "Windows 11 AI agents will act on your behalf - how much can you trust them?",
-      "description": "Should you trust this Copilot agent to poke around your files and interact with apps? The last time Microsoft rolled out a major AI feature, it didn't go well.",
-      "url": "https://www.zdnet.com/article/windows-11-ai-agents-will-act-on-your-behalf-how-much-can-you-trust-them/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8aa58705f97da1d6b5761600d03b41138b2a5e6e/2025/10/17/2c57b978-c319-4644-a9c9-f438dcb62122/redkeys5555gettyimages-1768520198.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-19T09:00:48Z",
-      "content": "Victoria Romarniuc/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 11 is adding AI agents that can take action… [+5433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Companies are blaming AI for job cuts. Critics say it’s a 'good excuse'",
-      "description": "Workers are spooked as firms declare AI driven layoffs, but some critics tell CNBC that the current reductions may be a \"market clearance' due to overhiring.",
-      "url": "https://www.cnbc.com/2025/10/19/firms-are-blaming-ai-for-job-cuts-critics-say-its-a-good-excuse.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207100-1759423005112-gettyimages-1459207465-layoff-illustration.jpeg?v=1759485809&w=1920&h=1080",
-      "publishedAt": "2025-10-19T05:19:12Z",
-      "content": "More companies are announcing AI-driven layoffs from Salesforce to Accenture.\r\nFrom tech to airlines, large global companies have been slashing staff as the real-world impact of artificial intelligen… [+6873 chars]"
     }
   ]
 }
