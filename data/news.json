@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-22T16:11:58.611Z",
+  "fetchedAt": "2025-10-22T16:45:39.532Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Serval raises $47 million to bring AI agents to IT service management | TechCrunch",
+      "description": "Serval is using agentic AI models to automate IT service management, but the company has a unique approach that takes advantage of agentic AI’s powers while avoiding many of its pitfalls.",
+      "url": "https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Serval-co-founders.jpg?resize=1200,675",
+      "publishedAt": "2025-10-21T16:42:24Z",
+      "content": "Some startups pride themselves on having prestigious financial backers but just as important is having prestigious customers.\r\nIts one of the main points of pride for Serval, an enterprise AI company… [+2638 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Anthropic CEO claps back after Trump officials accuse firm of AI fear-mongering   | TechCrunch",
+      "description": "Amodei’s response comes after last week’s dogpiling on Anthropic from AI leaders and top members of the Trump administration, including AI czar David Sacks and White House senior policy advisor for AI Sriram Krishnan -- all accusing the AI giant of stoking fe…",
+      "url": "https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/Dario.jpg?resize=1200,900",
+      "publishedAt": "2025-10-21T16:25:05Z",
+      "content": "Anthropic CEO Dario Amodei published a statement Tuesday to “set the record straight” on the company’s alignment with Trump administration AI policy, responding to what he called “a recent uptick in … [+4691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Investor Lauren Taylor Wolfe says we are 'absolutely' in an A.I. bubble now",
+      "description": "Lauren Taylor Wolfe, co-founder of Impactive Capital, said the surge in enthusiasm around artificial intelligence has all the markings of a bubble.",
+      "url": "https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105895017-1557161840782nup_186914_0327r.jpg?v=1557161962&w=1920&h=1080",
+      "publishedAt": "2025-10-21T16:21:21Z",
+      "content": "Lauren Taylor Wolfe, co-founder of activist investment firm Impactive Capital, said the surge in enthusiasm around artificial intelligence has all the markings of a bubble.\r\n\"We are absolutely in an … [+1991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Commercial real estate is finally embracing blockchain. Here's what investors should know",
+      "description": "Roughly $4 trillion of real estate will be tokenized by 2035, according to the Deloitte Center for Financial Services.",
+      "url": "https://www.cnbc.com/2025/10/21/commercial-real-estate-embracing-blockchain.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213587-1760714181743-gettyimages-1367507251-_dsc8484s.jpeg?v=1761046812&w=1920&h=1080",
+      "publishedAt": "2025-10-21T16:19:56Z",
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI teases stream for expected browser launch, sending Alphabet shares lower",
+      "description": "Google rolled out a Gemini model in its Chrome browser in September.",
+      "url": "https://www.cnbc.com/2025/10/21/openai-browser-alphabet-stock.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172939-1752692236301-gettyimages-2224158210-_d1_8980_0k2vaapw.jpeg?v=1761060560&w=1920&h=1080",
+      "publishedAt": "2025-10-21T16:19:44Z",
+      "content": "Shares of Google parent Alphabet sank 4% on Tuesday after OpenAI teased a new product launch that is widely expected to be an artificial intelligence-powered web browser.\r\nOpenAI posted a five-second… [+1098 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Allison Murray",
+      "title": "My cat and I both love this self-cleaning litter box, and it just got a big discount",
+      "description": "Whisker just released the new Litter-Robot 5 series with more advanced features, which means the excellent previous generation Litter-Robot is now discounted.",
+      "url": "https://www.zdnet.com/home-and-office/kitchen-household/my-cat-and-i-both-love-this-self-cleaning-litter-box-and-it-just-got-a-big-discount/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f3c1d8aea769a98d1b6f9ec8d5d23d6f082fc7e9/2023/06/29/5a3d2eb4-eff8-4176-bd64-203c4a81451d/robot-litter-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T16:17:35Z",
+      "content": "Allison Murray/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nOne of my favorite tech devices just got an upgrade: the Whisker Litter-Robot 5 and Litter-Robot 5 Pro are now available w… [+2406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "AI fear might not be the only reason tech talent is holding tight to their jobs",
+      "description": "A variety of factors could be convincing tech professionals to stay put.",
+      "url": "https://www.zdnet.com/education/professional-development/ai-fear-might-not-be-the-only-reason-tech-talent-is-holding-tight-to-their-jobs/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bad1c36899fe5e60d683bbdeb49a78c8c7bdb7ea/2025/10/21/c46edd6e-e1ea-4143-99cc-578b9a8abe77/gettyimages-2212773352-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T16:15:56Z",
+      "content": "akinbostanci/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Tech professionals' concerns about layoffs have decreased.</li><li>At th… [+6722 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
       "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Umair Irfan",
-      "title": "A data center that doesn’t even exist can raise your electricity bill",
-      "description": "Your electricity bill is rising. Naturally, you’re mad about it and looking around at who to blame. But it’s not a who, it’s a what — and the recent AI-driven data center construction spree is at least partly the reason why. Copious data centers have sprung u…",
-      "url": "https://www.vox.com/climate/465032/data-center-electricity-power-bill-increasing-maryland-pjm",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2223681402.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2025-10-20T14:27:02Z",
-      "content": "An Amazon Web Services data center in Manassas, Virginia. Virginia is home to the largest concentration of data centers in PJM, a power grid that spans 13 states and Washington, DC.\r\n\n\nYour electrici… [+8603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Is this Linux mini PC a viable alternative to Windows? Here's why it worked out for me",
-      "description": "The Kubuntu Focus NX Gen 3 comes preloaded with one of my favorite Linux distributions and takes only minutes to set up.",
-      "url": "https://www.zdnet.com/article/is-this-linux-mini-pc-a-viable-alternative-to-windows-heres-why-it-worked-out-for-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8fd6b42d25332cfb0fa1f5412a58a769c138ef56/2025/10/07/256fecb2-bf39-4462-ac7d-66787e91af68/focus3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T14:21:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAny chance I can get to review a Linux-powered PC, I'm thrilled to do so. It's not only because I get to experience how a third party approaches… [+5140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Why I'd choose this HP Windows laptop over a MacBook for work - especially at its latest price",
-      "description": "HP's EliteBook Ultra G1i is impressively lightweight, reliably powerful, and built to last on battery life. But there's more to it.",
-      "url": "https://www.zdnet.com/article/why-id-choose-this-hp-windows-laptop-over-a-macbook-for-work-especially-at-its-latest-price/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a045ec40ae244fb934fe886e60e68f04b19f4d63/2025/04/09/ae828d00-c2f5-4b62-b017-13691c48149e/hp-elitebook-ultra-g1i-hero.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T14:18:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google. \r\nWork laptops don't have to be boring hunks of gray metal. There are plenty of eye-catching models providing engaging experiences. People lookin… [+5199 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Final Countdown: Only 7 days until TechCrunch Disrupt 2025 and ticket prices increase",
-      "description": "7 days until TechCrunch Disrupt 2025 officially kicks off at San Francisco’s Moscone West and ticket prices increase. Save up to $444 now, and get 60% off a second ticket.",
-      "url": "https://techcrunch.com/2025/10/20/final-countdown-only-7-days-until-techcrunch-disrupt-2025-and-ticket-prices-increase/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_7Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-20T14:00:00Z",
-      "content": "T-minus 7 days until TechCrunch Disrupt 2025 officially kicks off at San Franciscos Moscone West! One of the years biggest tech events is ready to dominate the Bay Areas thriving tech landscape for a… [+2688 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nilay Patel",
-      "title": "Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’",
-      "description": "Today’s Decoder episode is a special one: I’m talking to Zocdoc CEO Oliver Kharraz, and we chatted live onstage at the TechFutures conference here in New York City.  You’re almost certainly familiar with Zocdoc — it’s a platform that helps people find and boo…",
-      "url": "https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-Oliver-Kharraz.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "publishedAt": "2025-10-20T13:59:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOliver Kharraz on competition, healthcare, and where AI really belongs in medicine.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from this author will be added to y… [+60466 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "These nonprofits lobbied to regulate OpenAI — then the subpoenas came",
-      "description": "On August 19th at 7:07PM, Tyler Johnston received a message from his roommate. A man, the text said, was knocking on their door with legal documents to serve. Johnston is the founder and sole employee of The Midas Project: a nonprofit that monitors the practi…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258009_OpenAI_intimidation_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-20T13:52:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs legal battle with Elon Musk has caught company critics in the crossfire.\r\nOpenAIs legal battle with Elon Musk has caught company critics in the crossfire… [+12960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Albert Thomas",
-      "title": "Cooler Master Hyper 212 3DHP Review: Engineering better heatpipes, improving thermal efficiency",
-      "description": "Cooler Master’s 3DHP heatpipes promise to be the biggest evolution for cooling in years. Do they deliver? We tested the Hyper 212 3DHP with AMD’s Ryzen 9 9950X to determine if Cooler Master’s heatpipes live up to the hype.",
-      "url": "https://www.tomshardware.com/pc-components/air-cooling/cooler-master-hyper-212-3dhp-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uUV668HMdq5jT4Mhhk9gwD-2560-80.jpg",
-      "publishedAt": "2025-10-20T13:50:16Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Today we’re testing … [+6274 chars]"
     }
   ]
 }
