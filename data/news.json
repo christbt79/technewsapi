@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T10:10:40.667Z",
+  "fetchedAt": "2025-10-22T10:42:36.496Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "AMD's Krackan Point APUs tipped to arrive for desktop soon as Ryzen 9000G series — New AGESA code adds support for Ryzen AI 300 series in BIOS update",
+      "description": "AMD might be on the verge of refreshing its more-than-a-year-old desktop APU lineup, the Ryzen 8000G, with new Krackan Point SKUs lifted straight from mobile. These APUs are built on Zen 5 architecture, using RDNA 3.5 graphics, and will offer a big jump in pe…",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-krackan-point-apus-tipped-to-arrive-for-desktop-soon-as-ryzen-9000g-series-new-agesa-code-adds-support-for-ryzen-ai-300-series-in-bios-update",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iTi2u9dxsJKv9h92p2sgiP-1920-80.jpg",
+      "publishedAt": "2025-10-21T10:30:00Z",
+      "content": "AMD debuted the Ryzen AI 300 series back at CES 2025 in January, and since then, various rumors have hinted that the mobile-only family might eventually expand into desktop. Today, we have our most c… [+5198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Feds flag active exploitation of patched Windows SMB vuln",
+      "description": "CISA adds high-severity flaw to KEV list, urges swift updating Uncle Sam's cyber wardens have warned that a high-severity flaw in Microsoft's Windows SMB client is now being actively exploited – months after it was patched.…",
+      "url": "https://www.theregister.com/2025/10/21/cisa_windows_smb_bug/",
+      "urlToImage": "https://regmedia.co.uk/2018/08/28/shutterstock_689975659.jpg",
+      "publishedAt": "2025-10-21T10:27:10Z",
+      "content": "Uncle Sam's cyber wardens have warned that a high-severity flaw in Microsoft's Windows SMB client is now being actively exploited months after it was patched.\r\nThe bug, tracked as CVE-2025-33073, was… [+2508 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -631,12 +657,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -644,12 +670,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207100-1759423005112-gettyimages-1459207465-layoff-illustration.jpeg?v=1759485809&w=1920&h=1080",
       "publishedAt": "2025-10-19T05:19:12Z",
       "content": "More companies are announcing AI-driven layoffs from Salesforce to Accenture.\r\nFrom tech to airlines, large global companies have been slashing staff as the real-world impact of artificial intelligen… [+6873 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Wikipedia says traffic is falling due to AI search summaries and social video | TechCrunch",
-      "description": "Wikipedia says traffic is falling due to AI search summaries and social video | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?resize=1200,800",
-      "publishedAt": "2025-10-18T19:02:33Z",
-      "content": "Wikipedia is often described as the last good website on an internet increasingly filled with toxic social media and AI slop, but it seems the online encyclopedia is not completely immune to broader … [+2525 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "This top VC bet close to 20% of his fund on teenagers — here's why | TechCrunch",
-      "description": "Eventbrite co-founder Kevin Hartz is onto his next thing — teenage founders, not as a social experiment but as an unplanned investment thesis.",
-      "url": "https://techcrunch.com/2025/10/18/this-top-vc-bet-close-to-20-of-his-fund-on-teenagers-heres-why/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1080967246.jpg?resize=1200,795",
-      "publishedAt": "2025-10-18T18:43:42Z",
-      "content": "Kevin Hartz tends to be first through the door. In 2001, he co-founded Xoom, back when sending money across borders meant standing in line at Western Union. In 2013, it went public, and in 2015, PayP… [+7223 chars]"
     }
   ]
 }
