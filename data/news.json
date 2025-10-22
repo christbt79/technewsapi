@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T07:36:15.333Z",
+  "fetchedAt": "2025-10-22T08:14:33.400Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brian Marvin, GVP EMEA, Zscaler",
+      "title": "Zero Trust Everywhere: a new era in cybersecurity for European organizations",
+      "description": "Zero trust is the best kind of trust when it comes to securing your organization, says ZScaler Partner Content  Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But whi…",
+      "url": "https://www.theregister.com/2025/10/21/zero_trust_everywhere_new/",
+      "urlToImage": "https://regmedia.co.uk/2023/09/20/trust_shutterstock.jpg",
+      "publishedAt": "2025-10-21T08:00:14Z",
+      "content": "Partner Content Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But while these efforts are critical, they … [+4764 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/TaELLfgnHowgSbG2kZofkW-1920-80.png",
       "publishedAt": "2025-10-18T13:53:18Z",
       "content": "Nvidia CEO Jensen Huang said last week that the company’s share of China’s advanced AI accelerator market has collapsed from roughly 95% to zero as US export controls continue to bite. The comment ca… [+2667 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "38-year-old quit his job, spent $50,000 to launch a company from his Bronx apartment—now billionaires wear his luxury coats",
-      "description": "Norwegian Wool founder and CEO Michael Berkowitz started his luxury coat brand from his apartment. To this day, he still tests the company's products himself.",
-      "url": "https://www.cnbc.com/2025/10/18/financier-quit-job-to-launch-norwegian-wool-billionaires-wear-his-luxury-coats.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213758-1760733246653-high_res_BFA_33472_4545244.JPEG?v=1760733255&w=1920&h=1080",
-      "publishedAt": "2025-10-18T13:05:02Z",
-      "content": "It was 95 degrees when the first prototype of a Norwegian Wool jacket arrived at Michael Berkowitz's apartment in The Bronx, New York, in August 2014.\r\nNeeding to test the waterproof knee-length wool… [+6646 chars]"
     }
   ]
 }
