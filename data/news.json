@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T11:08:18.651Z",
+  "fetchedAt": "2025-10-22T11:33:34.210Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Amazon hopes to replace 600,000 US workers with robots, according to leaked documents",
+      "description": "Amazon is reportedly leaning into automation plans that will enable the company to avoid hiring more than half a million US workers. Citing interviews and internal strategy documents, The New York Times reports that Amazon is hoping its robots can replace mor…",
+      "url": "https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1732217960.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-21T11:11:19Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nJob losses could shave 30 cents off each item purchased by 2027.\r\nJob losses could shave 30 cents off each item purchased by 2027.\r\nby\r\nJess WeatherbedClose\r\nJes… [+2962 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/6fchb3yYCKdETtJdi62QSR-1920-80.jpg",
       "publishedAt": "2025-10-19T10:00:00Z",
       "content": "Microsoft introduced BitLocker storage encryption to Windows Vista in 2007. It was initially limited to only the Enterprise and Ultimate editions at the time, but since then, BitLocker has become an … [+4172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Stinky thermal paste emits acidic vapors, corrodes copper, 'glues' heatsinks to processors, and permanently damages coolers - SGT-4 TIM is a chemically reactive blend, finds investigation",
-      "description": "An investigation revealed that the popular low-cost Amech SGT-4 thermal paste is a chemically reactive PDMS-based compound containing that releases acetic acid, produces a vinegar odor, corrodes copper surfaces, and even creates ant holes on surfaces.",
-      "url": "https://www.tomshardware.com/pc-components/thermal-paste/stinky-thermal-paste-emits-acidic-vapors-corrodes-copper-glues-heatsinks-to-processors-and-permanently-damages-coolers-sgt-4-tim-is-a-chemically-reactive-blend-finds-investigation",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mXEgwCGiiuwAuCEL8xGFL-2560-80.jpg",
-      "publishedAt": "2025-10-19T09:45:48Z",
-      "content": "Some thermal pastes are good for air cooling, others for liquid cooling, some are generally efficient, others are not. But as our colleague Igor Wallosek discovered, there is a thermal paste that sti… [+3173 chars]"
     }
   ]
 }
