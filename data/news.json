@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T06:15:11.836Z",
+  "fetchedAt": "2025-10-22T06:48:24.280Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: More people want the new iPhone — and Apple shares",
+      "description": "Critics' displeasure at the iPhone 17 Pro's fluorescent orange color aside, Apple's \"Cosmic Orange\" smartphone has charmed fans — and investors.",
+      "url": "https://www.cnbc.com/2025/10/21/more-people-want-the-new-iphone-and-apple-shares.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196419-1757445159065-gettyimages-2234536017-_73a2991_xoumafp5.jpeg?v=1757445206&w=1920&h=1080",
+      "publishedAt": "2025-10-21T06:30:28Z",
+      "content": "Critics may sneer at the iPhone 17 Pro's fluorescent orange finish, but Apple's \"Cosmic Orange\" smartphone seems to be dazzling where it counts in sales and shares.\r\nThe newest iPhone 17 series, whic… [+1894 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -514,12 +527,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -527,12 +540,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/17/shutterstockrubyslippers.jpg",
       "publishedAt": "2025-10-18T11:15:13Z",
       "content": "Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appear… [+5555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Every product Apple launched this week: M5 MacBook Pro, iPad, $3,500 Vision Pro, more",
-      "description": "Apple has unveiled three new Pro devices with an all-new chipset that focuses on AI compute performance. Here's what to know.",
-      "url": "https://www.zdnet.com/article/every-product-apple-launched-this-week-m5-macbook-pro-ipad-3500-vision-pro-more/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/867925648f1bc8f80f778905537c448003e37e49/2024/06/10/1e3aada3-5f9c-4f27-b438-eadc4f11743f/vision-pro-display-apple-park-wwdc-2024.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-18T11:00:31Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>T… [+4504 chars]"
     }
   ]
 }
