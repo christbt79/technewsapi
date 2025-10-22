@@ -1,6 +1,149 @@
 {
-  "fetchedAt": "2025-10-22T12:18:32.472Z",
+  "fetchedAt": "2025-10-22T13:05:59.883Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Don’t make this ‘disrespectful’ mistake during meetings, says Jamie Dimon: ‘You get 100% of my attention'",
+      "description": "JPMorgan Chase CEO Jamie Dimon doesn't like when people are distracted by their devices during work meetings, he said at Fortune's Most Powerful Women Summit.",
+      "url": "https://www.cnbc.com/2025/10/21/jamie-dimon-checking-phone-tablet-in-meeting-is-disrespectful-mistake.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213163-1760638892230-gettyimages-2241014250-IMF_WORLD_BANK.jpeg?v=1760638927&w=1920&h=1080",
+      "publishedAt": "2025-10-21T13:05:01Z",
+      "content": "JPMorgan Chase CEO Jamie Dimon has a \"little management lesson\" for professionals when it comes to conducting meetings: Give everyone your full attention.\r\n\"If you have an iPad in front of me and it … [+3088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "New Deepseek model drastically reduces resource usage by converting text and documents into images — 'vision-text compression' uses up to 20 times fewer tokens",
+      "description": "Developers of the Chinese Deepseek artificial intelligence have found a novel way to reduce the number of tokens it uses, particularly when accessing memories. By converting blocks of text into images and leveraging visual processing rather than text parsing,…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-deepseek-model-drastically-reduces-resource-usage-by-converting-text-and-documents-into-images-vision-text-compression-uses-up-to-20-times-fewer-tokens",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oBWSWgUKtbU7rjcL4ncx9J-2000-80.jpg",
+      "publishedAt": "2025-10-21T13:04:01Z",
+      "content": "Chinese developers of Deepseek AI have released a new model that leverages its multi-modal capabilities to improve the efficiency of its handling of complex documents and large blocks of text, by con… [+3016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Just days of using M5 iPad Pro, I'm already considering putting away my MacBook for it",
+      "description": "The latest iPad Pro sees improvements across performance and connectivity, making it a worthy upgrade for older iPad users wanting more.",
+      "url": "https://www.zdnet.com/article/just-days-of-using-m5-ipad-pro-im-already-considering-putting-away-my-macbook-for-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2ed900915e290feaa4f8e0464c0289944eac2b96/2025/10/18/b434b73e-e809-42b3-bb69-e6634b5c88e3/5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T13:00:24Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The M5 iPad Pro is now available for purchase, starting at $999 for the 11-inch and $1,199 for … [+4833 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "I wore the Oakley Meta Vanguard on a 5-mile walk - here's who should (and who shouldn't) buy them",
+      "description": "These AI smart glasses pack utility and style like never before. Just watch out for their one big caveat.",
+      "url": "https://www.zdnet.com/article/i-wore-the-oakley-meta-vanguard-on-a-5-mile-walk-heres-who-should-and-who-shouldnt-buy-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7a8ac729f59eb3d11c2c19995ef3217ed3d1704a/2025/10/20/43ed2952-87d4-44d3-9e78-e8d168d28cbe/dsc03203.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T13:00:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nMost athletic activities can benefit from hands-free assistance -- which makes athletes among the biggest beneficiaries from smart glasses. Cate… [+7938 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Apple iPad Pro (M5, 2025) Review: Tremendously Powerful",
+      "description": "Apple’s flagship tablet hones in on power, but it‘s the desktop-like iPadOS 26 experience that makes it shine.",
+      "url": "https://www.wired.com/review/apple-ipad-pro-m5-2025/",
+      "urlToImage": "https://media.wired.com/photos/68f6b8277d69a28856c00e63/191:100/w_1280,c_limit/IMG_0006.JPG",
+      "publishedAt": "2025-10-21T13:00:00Z",
+      "content": "I opened DaVinci Resolve and started editing some 4K footage and everything felt buttery smooth, but more important is the fact that thanks to iPadOS 26, youre able to complete rendering tasks in the… [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Oakley Meta Vanguard Review: The Do-It-All Smart Glasses",
+      "description": "Meta's second collaboration with Oakley look good, sound great, and might just replace your action cam.",
+      "url": "https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/",
+      "urlToImage": "https://media.wired.com/photos/68f6acd18860afe1a2a3939c/191:100/w_1280,c_limit/Review-%20Oakley%20Meta%20Vanguard%20Smart%20Glasses.png",
+      "publishedAt": "2025-10-21T13:00:00Z",
+      "content": "There are so many times when youre just running and pass something beautiful. Its so easy to just say, Hey Meta, start taking video and just get a quick clip as you happen to be zipping past. You can… [+1897 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Whisker’s latest Litter-Robot uses AI to recognize your cat’s face and poop",
+      "description": "The Litter-Robot 5 Pro is the newest poop-scooping machine from Whisker, makers of the excellent Litter-Robot 4, and it brings facial recognition for your cats to the self-cleaning litter box line. The company is also introducing an optional subscription serv…",
+      "url": "https://www.theverge.com/news/803249/whisker-litter-robot-5-pro-price-specs-features-launch-date",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/small-med-large-cats-tail-2-added.jpg?quality=90&strip=all&crop=0%2C10.753198973094%2C100%2C78.493602053811&w=1200",
+      "publishedAt": "2025-10-21T12:53:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Litter-Robot 5 Pro can handle up to five cats and comes with cameras equipped with facial recognition to know everybodys business.\r\nThe Litter-Robot 5 Pro ca… [+4363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Learn how to use AI to write better emails, speak with clarity and express your ideas more effectively",
+      "description": "Smarter by CNBC Make It's latest online course will teach you how to use AI to improve your writing, speak more effectively and express your ideas with clarity",
+      "url": "https://www.cnbc.com/2025/10/21/learn-how-to-use-ai-to-write-better-speak-clearer-and-more.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214294-1760982819024-1.png?v=1761051197&w=1920&h=1080",
+      "publishedAt": "2025-10-21T12:45:02Z",
+      "content": "Communication is one of the top soft skills needed to succeed in the workplace. It can improve team productivity, help you stand out and even build better connections at work. With the right promptin… [+2710 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Apple iPad Pro (2025) review: fast, faster, fastest",
+      "description": "What do you get the tablet that has everything? Last year, Apple debuted a massive overhaul to the iPad Pro, with a thin new design, a gorgeous new screen, a bunch of updated accessories, and a speedy new chip. I called it the best iPad ever. I also wondered …",
+      "url": "https://www.theverge.com/tech/803105/apple-ipad-pro-2025-review-fast-faster-fastest",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/M5-iPad-Pro-angle.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+      "publishedAt": "2025-10-21T12:39:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple iPad Pro (2025) review: fast, faster, fastest\r\nThis years model is a teeny-tiny upgrade to an already fabulous tablet. But theres a glimmer of something bi… [+7630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "CPU collector stitches 216 micrographs to create high resolution die shot of the legendary i8008 — Intel’s 54-year-old milestone 8-bit CPU seen like never before",
+      "description": "A CPU collector has shared some fantastically detailed new images of Intel's first 8-bit processor.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/cpu-collector-stitches-216-micrographs-to-create-high-resolution-die-shot-of-the-legendary-i8008-intels-54-year-old-milestone-8-bit-cpu-seen-like-never-before",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6neReoRFtmtjZes2EYycBS-1920-80.jpg",
+      "publishedAt": "2025-10-21T12:25:01Z",
+      "content": "A CPU collector has shared some fantastically detailed new images of the landmark Intel 8008 processor. CPU Duke seriously indulged their CPU microscopy hobby over recent days, creating a detailed di… [+3709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Chinese memory maker reportedly preparing for $42 billion IPO — CXMT plans to go public in early 2026",
+      "description": "CXMT is reportedly planning to go public, hoping to raise $2.5 to $6 billion in fresh funds.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-memory-maker-reportedly-preparing-for-usd42-billion-ipo-cxmt-plans-to-go-public-in-early-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qWVur4sDMJow8rQDDH6JJi-2240-80.jpg",
+      "publishedAt": "2025-10-21T12:18:44Z",
+      "content": "Chinese memory maker ChangXin Memory Technologies (CXMT) is reportedly preparing to go public in the first quarter of 2026, with the company signing up China International Capital Corporation and CSC… [+2871 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -748,12 +891,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -761,12 +904,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -1157,149 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212997-17606253382025-10-16t143041z_1108775365_rc21dha91caa_rtrmadp_0_usa-stocks-open.jpeg?v=1760625364&w=1920&h=1080",
       "publishedAt": "2025-10-19T22:07:09Z",
       "content": "Stock futures moved higher Sunday night as investors turn their attention towards a slew of big-name earnings reports and inflation data expected in the coming days.\r\nFutures tied to the Dow Jones In… [+3221 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brian Barrett, Alyssa Walker",
-      "title": "Scenes From Saturday's Nationwide ‘No Kings’ Protests",
-      "description": "Organizers say the “No Kings” protests drew more than seven million people across 2,700 cities. The crowds included high-profile politicians, A-list celebrities, and more than a few creative inflatables.",
-      "url": "https://www.wired.com/story/no-kings-protests-photos/",
-      "urlToImage": "https://media.wired.com/photos/68f54d436dbb311a3f54d8e9/191:100/w_1280,c_limit/ENR_OctNoKings_12.jpg",
-      "publishedAt": "2025-10-19T21:00:10Z",
-      "content": "On Saturday, crowds gathered in cities across the United States to protest President Donald Trump and his administration. Organizers of the No Kings rallies claim that more than seven million people … [+1343 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "OpenAI’s ‘embarrassing’ math | TechCrunch",
-      "description": "No, GPT-5 did not solve a bunch of previously unsolved math problems.",
-      "url": "https://techcrunch.com/2025/10/19/openais-embarrassing-math/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-      "publishedAt": "2025-10-19T19:13:38Z",
-      "content": "Hoisted by their own GPTards.\r\nThats how Metas Chief AI Scientist Yann LeCun described the blowback after OpenAI researchers did a victory lap over GPT-5s supposed math breakthroughs.\r\nGoogle DeepMin… [+1042 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "TechCrunch Mobility: A takeover that might not be hostile | TechCrunch",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "url": "https://techcrunch.com/2025/10/19/techcrunch-mobility-a-takeover-that-might-not-be-hostile/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/austin_russell_luminar_ceo_cofounder.jpg?resize=1200,800",
-      "publishedAt": "2025-10-19T16:36:06Z",
-      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. Want another reason to get this free in your inbox? The emailed version of this newsletter … [+7005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "TSMC gives an ultra-rare video look inside its fabs — 'Silver Highway' and fab tools revealed in flyby video of company's US Arizona Fab 21",
-      "description": "TSMC's new flyby video of its Fab 21 in Arizona offers a rare glimpse inside the fully operational N4/N5 cleanroom, highlighting ASML's EUV scanners producing chips for Apple, AMD, and Nvidia.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-an-ultra-rare-video-look-inside-its-fabs-silver-highway-and-fab-tools-revealed-in-flyby-video-of-companys-us-arizona-fab-21",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4eZrCtk8yyPbygdoere4cc-2560-80.jpg",
-      "publishedAt": "2025-10-19T16:25:00Z",
-      "content": "TSMC has published a flyby video over its Fab 21 near Phoenix, Arizona. The video shows hundreds of high-tech tools methodically crafting chips for various American companies. The crown jewels of the… [+3667 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Organizers say over 7 million showed up to No Kings protests",
-      "description": "Saturday marked the biggest day of protest since the start of Donald Trumps’ second term. Organizers of the No Kings protests estimated that over seven million people took to the streets to declare their opposition to the president, his policies, and his tact…",
-      "url": "https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2241865740.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-19T14:50:06Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe White House responded with AI slop of Trump in a crown.\r\nThe White House responded with AI slop of Trump in a crown.\r\nby\r\nTerrence O'BrienClose\r\nTerrence O'B… [+2340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Palantir chief takes a jab at Nvidia CEO Jensen Huang, says people decrying ‘China hawks’ are 'useful idiots' — 'The first step to ending our dependence on China is admitting we have a problem'",
-      "description": "The Palantir CTO called out Jensen Huang's 'China hawk' comments.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/palantir-chief-takes-a-jab-at-nvidia-ceo-jensen-huang-says-people-decrying-china-hawks-are-useful-idiots-the-first-step-to-ending-our-dependence-on-china-is-admitting-we-have-a-problem",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TaELLfgnHowgSbG2kZofkW-1920-80.png",
-      "publishedAt": "2025-10-19T13:40:00Z",
-      "content": "Palantir CTO Shyam Sankar said that the U.S. should end its dependence on China, and that the first thing it should do is to recognize its dependence is a problem. According to his opinion piece in t… [+4027 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "The Intel i386 turns 40 years old — 275,000 transistors running at 16MHz changed personal computing forever",
-      "description": "Introduced in October 1985, the third-generation x86 processor was the first 32-bit chip in Intel’s PC line, the origin point for the IA-32 instruction set, and the architectural turning point that transformed personal computing.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-386-at-40",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EPQwN5ZJQwLLDA4vXcHgiV-1920-80.jpg",
-      "publishedAt": "2025-10-19T13:10:00Z",
-      "content": "Intel’s 80386 turned 40 this week. Introduced in October 1985, the third-generation x86 processor — better known as the i386 — was the first 32-bit chip in Intel’s PC line, the origin point for the I… [+2532 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I tested a $2,000 medical tablet for research, and it turned out to be a Windows beast",
-      "description": "DT Research's 323MD rugged tablet has an anti-microbial keyboard and IP65 water and dust resistance.",
-      "url": "https://www.zdnet.com/article/i-tested-a-2000-medical-tablet-for-research-and-it-turned-out-to-be-a-windows-beast/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8b18b253191ac58588828f513f51ebbcfdb5e7e6/2025/10/14/83ea3fde-487f-4d5b-a2ef-e349dfdc7b2a/323amkey.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-19T12:00:31Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've reviewed so many laptops, desktops, and tablets that it's rare something comes across my desk that raises an eyebrow. When I was contacted … [+6309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "As Anthropic tries to keep pace with OpenAI, it's also taking on the U.S. government",
-      "description": "David Sacks, the White House AI and crypto czar, has been publicly critical of Anthropic, which is chasing OpenAI in the artificial intelligence market.",
-      "url": "https://www.cnbc.com/2025/10/19/anthropic-tries-to-keep-pace-with-openai-faces-off-with-david-sacks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108112971-17413818912025-03-07t210857z_1541230211_rc2k8da4v587_rtrmadp_0_usa-trump-crypto.jpeg?v=1741381989&w=1920&h=1080",
-      "publishedAt": "2025-10-19T12:00:01Z",
-      "content": "Dario Amodei, co-founder and chief executive officer of Anthropic, at the World Economic Forum in 2025.\r\nArtificial intelligence startup Anthropic is doing all it can to keep pace with larger rival O… [+6831 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Top Wall Street analysts are upbeat on these 3 dividend-paying stocks",
-      "description": "Here are three dividend-paying stocks, highlighted by Wall Street's top pros.",
-      "url": "https://www.cnbc.com/2025/10/19/top-wall-street-analysts-are-upbeat-on-these-3-dividend-paying-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108044335-1728329251268-gettyimages-2158873801-BC_24SChart3598.jpeg?v=1760644141&w=1920&h=1080",
-      "publishedAt": "2025-10-19T11:33:57Z",
-      "content": "On Tuesday, Federal Reserve Chair Jerome Powell gave some hints about more interest rate cuts, mentioning the weakness in the labor market.\r\nBearing in mind an uncertain macroeconomic backdrop and po… [+5797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "I tried the Meta Ray-Ban Display glasses, and this unreleased feature changes everything",
-      "description": "The style, fit, and features made me a believer.",
-      "url": "https://www.zdnet.com/article/i-tried-the-meta-ray-ban-display-glasses-and-this-unreleased-feature-changes-everything/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad145b32b34a5bc3761b83ad29af0b5d3f348432/2025/10/16/bd81080a-7765-49ef-ae16-ce89886abc30/dsc03159.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-19T11:00:38Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Meta Ray-Ban Displays are the company's most advanced smart glasses. </li><li>The smart … [+7954 chars]"
     }
   ]
 }
