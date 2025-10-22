@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T13:05:59.883Z",
+  "fetchedAt": "2025-10-22T13:47:32.987Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Got a new PC? These 5 Linux distros are the perfect match - here's why",
+      "description": "Linux isn't just for older, sluggish hardware. These distros shine on new PCs too.",
+      "url": "https://www.zdnet.com/article/got-a-new-pc-these-5-linux-distros-are-the-perfect-match-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c457b3a657557d1ee7a1f04fecf5119375d8d2/2025/10/21/528097af-ec12-4bde-89ad-76c5c3390e09/linux-distributions-that-are-best-suited-for-new-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T13:45:01Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are specific Linux distributions for newer hardware.</li><li>Thes… [+5514 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "X is testing a pay-per-use pricing model for its API | TechCrunch",
+      "description": "Two years after revamping its developer programs and pricing, X is expanding the closed beta of a pay-per-use plan for its API to more developers.",
+      "url": "https://techcrunch.com/2025/10/21/x-is-testing-a-pay-per-use-pricing-model-for-its-api/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+      "publishedAt": "2025-10-21T13:28:50Z",
+      "content": "Two years after revamping its developer programs and pricing, X is expanding the closed beta of a pay-per-use plan for its API to more developers.\r\nThe social network is accepting applications from d… [+2173 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -891,12 +917,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     },
     {
       "source": {
@@ -904,12 +930,12 @@
         "name": "TechCrunch"
       },
       "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
+      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
       "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
+      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
       "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
+      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/07/13/vv_ddn_07-simplify-ai-data-management.jpg",
       "publishedAt": "2025-10-20T01:00:09Z",
       "content": "Sponsored Feature The transformative benefits of AI across industries today have turned enterprise decision-makers' priorities toward ensuring that investments generate real business value, harness e… [+8785 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "X is changing how it handles links to try and keep you in the app",
-      "description": "X is testing a change to the way it handles links on iOS so that the buttons to like, reply, and repost will always be visible. Normally, when you click a link on X the page opens up and completely covers the original post. Apparently, this leads to fewer peo…",
-      "url": "https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK160_X_TWITTER_2__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-19T23:07:50Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts also making changes to its recommendation system that could serve up more link-based posts.\r\nIts also making changes to its recommendation system that could … [+2584 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Pia Singh",
-      "title": "Stock market today: Live updates",
-      "description": "Stocks are coming off a volatile trading week, closing higher despite flaring trade tensions, regional bank losses and declines in some hot AI stocks.",
-      "url": "https://www.cnbc.com/2025/10/19/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212997-17606253382025-10-16t143041z_1108775365_rc21dha91caa_rtrmadp_0_usa-stocks-open.jpeg?v=1760625364&w=1920&h=1080",
-      "publishedAt": "2025-10-19T22:07:09Z",
-      "content": "Stock futures moved higher Sunday night as investors turn their attention towards a slew of big-name earnings reports and inflation data expected in the coming days.\r\nFutures tied to the Dow Jones In… [+3221 chars]"
     }
   ]
 }
