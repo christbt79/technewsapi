@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T20:11:01.415Z",
+  "fetchedAt": "2025-10-22T20:37:51.263Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "AI eats leisure time, makes employees work more, study finds",
+      "description": "Rise and grind, robot overlords demand\nAI services like OpenAI's ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.…",
+      "url": "https://www.theregister.com/2025/10/21/ai_eats_leisure_time/",
+      "urlToImage": "https://regmedia.co.uk/2019/11/05/shutterstock_overload.jpg",
+      "publishedAt": "2025-10-21T20:35:59Z",
+      "content": "AI services like OpenAI's ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.\r\nIn a research paper t… [+4030 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028",
+      "description": "General Motors may be shrinking its electric vehicle production, but the automaker wants investors to know its still committed to future technologies like automated driving, software-defined vehicles, and AI voice assistants. Today, GM CEO Mary Barra announce…",
+      "url": "https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-97616875.jpg?quality=90&strip=all&crop=0%2C11.59705065349%2C100%2C76.80589869302&w=1200",
+      "publishedAt": "2025-10-21T20:15:32Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAs its EV business contracts, GM is doubling down on AI, software, and robotics.\r\nAs its EV business contracts, GM is doubling down on AI, software, and robotics… [+9235 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/1a880e5b77ab35fc022d8a8883237940c1272cac/2025/03/03/a88fec95-374b-43ba-b32e-16a72623e13c/dsc04219.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-20T18:58:00Z",
       "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung has confirmed that the next Unpacked will happen on October 21.</li><li>The event will s… [+3366 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Meta AI’s app downloads and daily users spiked after launch of ‘Vibes’ AI video feed",
-      "description": "New data from Similarweb shows Meta AI’s mobile app is surging in popularity, jumping from 775,000 to 2.7 million daily active users in just four weeks. The app is now seeing roughly 300,000 new installs per day — up from under 200,000 previously.",
-      "url": "https://techcrunch.com/2025/10/20/meta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
-      "publishedAt": "2025-10-20T18:22:38Z",
-      "content": "New data indicates that use of Meta AI’s mobile app for iOS and Android has seen a significant increase. According to a new analysis from market intelligence provider Similarweb, the app’s daily acti… [+1923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "You can use Anthropic's popular Claude Code tool on the web now - how to get access",
-      "description": "The tool is such a hit with developers, it's now available in even more places. Here's who gets access first.",
-      "url": "https://www.zdnet.com/article/you-can-use-anthropics-popular-claude-code-tool-on-the-web-now-how-to-get-access/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/694548bc0ee89b43d8eecae4f33422a578a76044/2025/10/20/b9d8bc97-6913-4f38-b7f1-2a6f0deac78a/screenshot-2025-10-20-at-9-44-24am.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T18:00:27Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Claude Code is available on the web. </li><li>This means you can start coding sessions outsi… [+2223 chars]"
     }
   ]
 }
