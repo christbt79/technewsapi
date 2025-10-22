@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T22:07:44.648Z",
+  "fetchedAt": "2025-10-22T22:32:04.153Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "OpenAI’s new browser is a broadside shot at Google  | TechCrunch",
+      "description": "OpenAI's new browser announcement made it clear exactly how much Google has to lose in the AI era.",
+      "url": "https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-21-at-5.13.11-PM.jpg?resize=1200,673",
+      "publishedAt": "2025-10-21T22:22:34Z",
+      "content": "Today, OpenAI launched its new Atlas web browser in a surprise livestream. The show started with CEO Sam Altman himself, speaking directly to the audience.  \r\nWe think AI represents a rare, once-a-de… [+3816 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/10/30/dutch_windmill_with_tulips_shutterstock.jpg",
       "publishedAt": "2025-10-20T21:44:08Z",
       "content": "Nexperia, a Dutch chipmaker that's found itself at the center of a geopolitical crisis, has denied claims by its former CEO that its Chinese division is now operating as an independent entity.\r\nThe c… [+3054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump calls for National Guard deployment in San Francisco loom over city's AI-driven resurgence",
-      "description": "President Trump is threatening to call in federal troops to San Francisco as evidence mounts that the city is undergoing a post-pandemic resurgence.",
-      "url": "https://www.cnbc.com/2025/10/20/trump-calls-for-national-guard-deployment-loom-over-sf-ai-resurgence.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213840-1760741613237-gettyimages-2241295387-AFP_798G3W9.jpeg?v=1760741699&w=1920&h=1080",
-      "publishedAt": "2025-10-20T21:28:02Z",
-      "content": "President Donald Trump is stepping up his calls to deploy the National Guard to San Francisco at the very moment that the city is undergoing a post-pandemic resurgence, propelled by artificial intell… [+4655 chars]"
     }
   ]
 }
