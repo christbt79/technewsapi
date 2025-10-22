@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T22:32:04.153Z",
+  "fetchedAt": "2025-10-22T23:07:14.869Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Open source agentic startup LangChain hits $1.25B valuation | TechCrunch",
+      "description": "As TechCrunch previously reported, the maker of a popular open source framework for building AI agents has officially become a unicorn.",
+      "url": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/unicorns-evergreen_720.jpg?w=720",
+      "publishedAt": "2025-10-21T23:06:04Z",
+      "content": "LangChain raised $125 million at a $1.25 billion valuation, the company announced on Monday. TechCrunch reported in July that the provider of a popular open source framework for building AI agents wa… [+1232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer says strong earnings from 'actual businesses' are driving the 'real economy'",
+      "description": "Jim Cramer said positive earnings from non-AI related companies are driving the \"real economy\"",
+      "url": "https://www.cnbc.com/2025/10/21/jim-cramer-earnings-real-economy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076310-1655341006752-IMG_1949rbbb.jpg?v=1697582097&w=1920&h=1080",
+      "publishedAt": "2025-10-21T22:53:51Z",
+      "content": "Despite all eyes on the Magnificent Seven, CNBC's Jim Cramer said that strong earnings results from companies in the \"real economy\" were responsible for Tuesday's rally.\r\n\"We got some tremendous numb… [+1970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Fake home invasion vid lands woman in real trouble",
+      "description": "And got arrested instead of earning a viral TikTok\nA Maryland woman who allegedly used AI to fake a home invasion was arrested and charged with making false statements after telling police that the ersatz intruder was part of a prank gone wrong.…<!--#include …",
+      "url": "https://www.theregister.com/2025/10/21/woman_pranks_husband_ai_intruder/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/21/cops_lights.jpg",
+      "publishedAt": "2025-10-21T22:46:04Z",
+      "content": "A Maryland woman who allegedly used AI to fake a home invasion was arrested and charged with making false statements after telling police that the ersatz intruder was part of a prank gone wrong.\r\nEar… [+2076 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198446-1757713945036-Image_from_iOS_4.jpg?v=1757715778&w=1920&h=1080",
       "publishedAt": "2025-10-20T22:39:33Z",
       "content": "CNBC's Jim Cramer said Monday that Apple's latest surge, up nearly 9.95 points or about 4%, underscores why investors should own the stock rather than try to trade it and why the broader market follo… [+2689 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Suspected Salt Typhoon snoops lurking in European telco's network",
-      "description": "It's Typhoon season…year round\nChina's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.…",
-      "url": "https://www.theregister.com/2025/10/20/salt_typhoon_european_telco/",
-      "urlToImage": "https://regmedia.co.uk/2022/07/25/hacker_wearing_mask_at_computer_shutterstock.jpg",
-      "publishedAt": "2025-10-20T22:36:42Z",
-      "content": "China's Salt Typhoon gang appears to have successfully attacked a European telecommunications firm, according to security researchers at Darktrace.\r\nSalt Typhoon is an espionage gang linked to the Pe… [+4475 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs  | TechCrunch",
-      "description": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal.",
-      "url": "https://techcrunch.com/2025/10/20/top-openai-google-brain-researchers-set-off-a-300m-vc-frenzy-for-their-startup-periodic-labs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Periodic-Labs.jpg?w=1024",
-      "publishedAt": "2025-10-20T22:24:08Z",
-      "content": "Periodic Labs, a new startup by one of OpenAIs most respected researchers, Liam Fedus, and his former Google Brain colleague, Ekin Dogus Cubuk, came out of stealth last month with an enormous $300 mi… [+7728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Nexperia drama intensifies as Dutch chipmaker denies ousted CEO's claims of Chinese split",
-      "description": "The government in the Netherlands has taken control of the company Nexperia, a Dutch chipmaker that's found itself at the center of a geopolitical crisis, has denied claims by its former CEO that its Chinese division is now operating as an independent entity.…",
-      "url": "https://www.theregister.com/2025/10/20/nexperia_drama_intensifies_ceo_china_claim/",
-      "urlToImage": "https://regmedia.co.uk/2017/10/30/dutch_windmill_with_tulips_shutterstock.jpg",
-      "publishedAt": "2025-10-20T21:44:08Z",
-      "content": "Nexperia, a Dutch chipmaker that's found itself at the center of a geopolitical crisis, has denied claims by its former CEO that its Chinese division is now operating as an independent entity.\r\nThe c… [+3054 chars]"
     }
   ]
 }
