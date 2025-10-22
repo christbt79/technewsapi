@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T07:10:04.001Z",
+  "fetchedAt": "2025-10-22T07:36:15.333Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CoreWeave CEO says Core Scientific 'not a need to have' as shareholder opposition to deal rises",
+      "description": "Shareholders have raised opposition to CoreWeave's acquisition of Core Scientific saying the price is too low.",
+      "url": "https://www.cnbc.com/2025/10/21/coreweave-ceo-on-core-scientific-deal-as-shareholder-opposition-rises.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061926-1731452752418-intrator_3.png?v=1731452811&w=1920&h=1080",
+      "publishedAt": "2025-10-21T07:33:02Z",
+      "content": "CoreWeave CEO Michael Intrator told CNBC Tuesday that the firm's proposed acquisition of Core Scientific would be a \"nice to have\" rather than a necessity as shareholders prepare to potentially block… [+2221 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "How much RAM do you need in 2025? My expert advice for Windows and Mac users",
+      "description": "Considering upgrading your slow PC? Wondering how much RAM is enough? Here's what you need to know.",
+      "url": "https://www.zdnet.com/article/how-much-ram-do-you-need-in-2025-my-expert-advice-for-windows-and-mac-users/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/96398b6da616709b6743a81a2619540e159e0acb/2025/08/27/b0701b35-1458-402c-a18b-4c35bec568d6/img-3635.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T07:30:35Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>RAM allows computers run fast and optimally.</li><li>16GB is now the standard for PCs and laptop… [+6668 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213758-1760733246653-high_res_BFA_33472_4545244.JPEG?v=1760733255&w=1920&h=1080",
       "publishedAt": "2025-10-18T13:05:02Z",
       "content": "It was 95 degrees when the first prototype of a Norwegian Wool jacket arrived at Michael Berkowitz's apartment in The Bronx, New York, in August 2014.\r\nNeeding to test the waterproof knee-length wool… [+6646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Jensen Huang personally delivers DGX Spark Mini PCs to Elon Musk and Sam Altman — separately",
-      "description": "Huang also ensured some of the first batch of DGX Spark systems got to top researchers at Cadence, Google, Meta, Microsoft, and others.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-personally-delivers-dgx-spark-mini-pcs-to-elon-musk-and-sam-altman-separately",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VX7xAX8fYVnX2X5GqPDFdW-1920-80.jpg",
-      "publishedAt": "2025-10-18T11:30:01Z",
-      "content": "Earlier this week, Nvidia’s DGX Spark AI mini-PCs were released to the masses. Symbolic of the splintered state of the AI industry, though, Nvidia’s CEO Jensen Huang hand-delivered DGX Spark systems … [+3539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Ruby Central tries to make peace after 'hostile takeover'",
-      "description": "Taps Ruby core to oversee RubyGems, Bundler Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appears to be an attem…",
-      "url": "https://www.theregister.com/2025/10/18/ruby_central_taps_ruby_core/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/17/shutterstockrubyslippers.jpg",
-      "publishedAt": "2025-10-18T11:15:13Z",
-      "content": "Ruby Central, the non-profit that recently seized some Ruby open source tools from maintainers, is transferring the repository ownership of RubyGems and Bundler to the Ruby core team. The move appear… [+5555 chars]"
     }
   ]
 }
