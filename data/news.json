@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T19:07:34.020Z",
+  "fetchedAt": "2025-10-22T19:31:40.741Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Hulu with Live TV costs $90 monthly now - but you can get $25 off for 3 months",
+      "description": "Act fast. The deal only lasts a few more weeks.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/hulu-with-live-tv-costs-90-monthly-now-but-you-can-get-25-off-for-3-months/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/35aa5bd51a01d7330358ee6eadaca846891e1db2/2025/10/21/009b902d-f6d4-4676-b110-3a934505785c/gettyimages-2202727650.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T19:28:01Z",
+      "content": "Jonathan Raa/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Hulu with Live TV is increasing its monthly price.</li><li>The service wi… [+1705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Take Back Tesla campaign urges shareholders to reject Musk $1 trillion pay plan",
+      "description": "Ahead of Tesla's earnings report on Wednesday, a group of unions and corporate watchdogs launched a website in opposition to Elon Musk's new pay plan.",
+      "url": "https://www.cnbc.com/2025/10/21/take-back-tesla-urges-shareholders-to-reject-musk-1-trillion-pay-plan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148202-1747765329716-MUSK_5.png?v=1747765444&w=1920&h=1080",
+      "publishedAt": "2025-10-21T19:26:41Z",
+      "content": "A day ahead of Tesla's quarterly earnings report, a coalition of unions and corporate watchdogs wants investors to focus their attention on matters of governance.\r\nOn Tuesday, a group that includes t… [+4743 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1232440387.jpg?resize=1200,800",
       "publishedAt": "2025-10-20T17:10:41Z",
       "content": "The Federal Trade Commission has removed three blog posts from the Lina Khan-era that addressed open-source AI and risks of AI to consumers, according to a Wired report.  \r\nOne post, titled On Open-W… [+3353 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Avishay Artsy, Noel King",
-      "title": "Why many transgender Americans are preparing to flee the country",
-      "description": "When President Donald Trump first took office in 2017, it wasn’t self-evident that the transgender community, in particular, had anything to fear. Prior to his presidency, Trump had said largely positive, or at least tolerant, things about LGBTQ+ people. He s…",
-      "url": "https://www.vox.com/today-explained-newsletter/465248/trump-trans-rights-today-explained-sosin",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-619309888.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-20T17:05:21Z",
-      "content": "GREELEY, CO – OCTOBER 30: Republican presidential nominee Donald Trump holds an LGBT rainbow flag given to him by supporter Max Nowak during a campaign rally at the Bank of Colorado Arena on the camp… [+8887 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "The Friend AI pendant’s creator promoted a ‘Friend protest’ in NYC",
-      "description": "If you live in NYC, there’s almost no way you’ve missed the Friend AI pendant subway ad fallout — whether you’ve taken pictures of the most inspired graffiti on the ads in the tunnels, tried to avert your eyes from the near-constant presence of the device pic…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257972_Friend_AKrales_0353.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-20T17:03:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPeople tore apart a cut-out of the device while chanting get real friends.\r\nPeople tore apart a cut-out of the device while chanting get real friends.\r\nby\r\nHayde… [+3891 chars]"
     }
   ]
 }
