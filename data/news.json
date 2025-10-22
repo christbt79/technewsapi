@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T05:38:59.432Z",
+  "fetchedAt": "2025-10-22T06:15:11.836Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "European AI rising star Nexos.ai raises $30M to unlock enterprise AI adoption | TechCrunch",
+      "description": "Nord Security co-founders have closed a €30 million Series A for their new startup, Nexos.ai, an orchestration platform aimed at helping companies adopt AI securely.",
+      "url": "https://techcrunch.com/2025/10/20/european-ai-rising-star-nexos-ai-raises-30m-to-unlock-enterprise-ai-adoption/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Tomas-Okmanas-nexos-2-e1737037636521.jpg?resize=1200,676",
+      "publishedAt": "2025-10-21T06:02:45Z",
+      "content": "For most enterprise companies, AI is either a promise that has yet to deliver or a security risk. The effort of Lithuania’s most famous entrepreneur duo to solve that conundrum has garnered attention… [+4082 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/867925648f1bc8f80f778905537c448003e37e49/2024/06/10/1e3aada3-5f9c-4f27-b438-eadc4f11743f/vision-pro-display-apple-park-wwdc-2024.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-18T11:00:31Z",
       "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple's M5 chipset will offer up to 4x the peak GPU compute performance than before.</li><li>T… [+4504 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Andy Greenberg, Matt Burgess",
-      "title": "Hackers Dox ICE, DHS, DOJ, and FBI Officials",
-      "description": "Plus: A secret FBI anti-ransomware task force gets exposed, the mystery of the CIA’s Kryptos sculpture is finally solved, North Koreans busted hiding malware in the Ethereum blockchain, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/",
-      "urlToImage": "https://media.wired.com/photos/68f2a27d39a463bf9c66f1c5/191:100/w_1280,c_limit/sec-roundup-ice-dox-2241445382.jpg",
-      "publishedAt": "2025-10-18T10:30:00Z",
-      "content": "In a stunning new study, researchers at UC San Diego and the University of Maryland revealed this week that satellites are leaking a wealth of sensitive data completely unencrypted, from calls and te… [+5745 chars]"
     }
   ]
 }
