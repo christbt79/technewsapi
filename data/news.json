@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T03:54:10.481Z",
+  "fetchedAt": "2025-10-22T04:12:20.121Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Alibaba reveals 82 percent GPU resource savings – but this is no DeepSeek moment",
+      "description": "Better scheduling and resource-sharing for inferencing workloads using multiple models, not a training breakthrough\nChinese tech giant Alibaba has published a paper detailing scheduling tech it has used to achieve impressive utilization improvements across th…",
+      "url": "https://www.theregister.com/2025/10/21/alibaba_aegaeon_gpu_scheduling_improvements/",
+      "urlToImage": "https://regmedia.co.uk/2024/06/27/shutterstock_editorial_only_alibaba_cloud_.jpg",
+      "publishedAt": "2025-10-21T04:04:42Z",
+      "content": "Chinese tech giant Alibaba has published a paper detailing scheduling tech it has used to achieve impressive utilization improvements across the GPU fleet it uses to power inferencing workloads which… [+2921 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-okafor",
+      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A | TechCrunch",
+      "description": "This YC HR startup grew its revenue 10x to close a $12M Series A just a year after raising $4M in seed, buoyed by its AI-native capabilities.",
+      "url": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2371.jpeg?w=1170",
+      "publishedAt": "2025-10-21T04:03:29Z",
+      "content": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with A… [+4023 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f2a27d39a463bf9c66f1c5/191:100/w_1280,c_limit/sec-roundup-ice-dox-2241445382.jpg",
       "publishedAt": "2025-10-18T10:30:00Z",
       "content": "In a stunning new study, researchers at UC San Diego and the University of Maryland revealed this week that satellites are leaking a wealth of sensitive data completely unencrypted, from calls and te… [+5745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "As secondhand luxury soars, authentication becomes a new gold standard",
-      "description": "Secondhand fashion and luxury is gaining ground fast, with the global resale market expected to hit up to $360 billion by 2030 from about $210 billion now.",
-      "url": "https://www.cnbc.com/2025/10/18/secondhand-luxury-soars-authentication-becomes-a-new-gold-standard.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213355-1760671795800-gettyimages-545154946-91387776.jpeg?v=1760671823&w=1920&h=1080",
-      "publishedAt": "2025-10-18T06:11:31Z",
-      "content": "As the global market for secondhand luxury items surges, authentication has become the defining factor separating credible platforms from the rest.\r\nThe resale market for fashion and luxury items is … [+4644 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Silicon Valley spooks the AI safety advocates | TechCrunch",
-      "description": "The White House's David Sacks and OpenAI's Jason Kwon caused a stir online this week for their comments about groups promoting AI safety.",
-      "url": "https://techcrunch.com/2025/10/17/silicon-valley-spooks-the-ai-safety-advocates/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1167639112.jpg?w=1000",
-      "publishedAt": "2025-10-18T01:22:30Z",
-      "content": "Silicon Valley leaders including White House AI &amp; Crypto Czar David Sacks and OpenAI Chief Strategy Officer Jason Kwon caused a stir online this week for their comments about groups promoting AI … [+6596 chars]"
     }
   ]
 }
