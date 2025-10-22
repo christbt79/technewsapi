@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-22T16:45:39.532Z",
+  "fetchedAt": "2025-10-22T17:09:20.724Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Angela Watercutter",
+      "title": "The Long History of Frogs as Protest Symbols",
+      "description": "Inflatable frog costumes are selling out following the weekend's “No Kings” protests and to counter Trump’s demonization of US cities more broadly.",
+      "url": "https://www.wired.com/story/the-long-history-of-frogs-as-protest-symbols/",
+      "urlToImage": "https://media.wired.com/photos/68f6c7e46c32e97a4e58a48a/191:100/w_1280,c_limit/History-of-Frogs-as-Protest-Avatars-Culture-2239338875.jpg",
+      "publishedAt": "2025-10-21T17:07:06Z",
+      "content": "Think of it like Wheres Waldo? for the anti-Trump movement: Last Saturday, as some 7 million people filled American cities for the latest No Kings protest, many of them showed up wearing inflatable f… [+2955 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+      "description": "OpenAI’s next move in its battle against Google is an AI-powered web browser. The tool, dubbed ChatGPT Atlas, is out today. The company announced it in a livestream after teasing it earlier Tuesday via a mysterious video of browser tabs on a white screen. Cha…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-21-at-1.04.24%E2%80%AFPM.png?quality=90&strip=all&crop=5.0944233206591%2C0%2C89.811153358682%2C100&w=1200",
+      "publishedAt": "2025-10-21T17:06:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT is the beating heart of Atlas, according to employees on the livestream.\r\nChatGPT is the beating heart of Atlas, according to employees on the livestream… [+3211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "I compared the M5 MacBook Pro to older models, and it made my $2,500 M1 Max weep",
+      "description": "There's no shame in owning an older laptop. But when the latest models can hit these numbers while costing less, it makes you think.",
+      "url": "https://www.zdnet.com/article/i-compared-the-m5-macbook-pro-to-older-models-and-it-made-my-2500-m1-max-weep/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4006f8c65c858e2e301badf8b458a534c2480804/2025/10/21/b46bae16-0f79-4ba3-9cc7-44105490d398/dsc08372.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T17:00:36Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI spent my weekend doing three things: Raking in the last bit of leaves from my neighbor's neglected tree, being disappointed by the New York Gi… [+4703 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Luke Larsen",
+      "title": "Apple MacBook Pro (M5, 14-Inch) Review: More of the Same",
+      "description": "It's not as exciting as it once was, but the M5 MacBook Pro offers yet another breakthrough in performance.",
+      "url": "https://www.wired.com/review/apple-macbook-pro-m5-14-inch/",
+      "urlToImage": "https://media.wired.com/photos/68f69d5bbc18f7cc86077b9f/191:100/w_1280,c_limit/Review-%20Apple%20MacBook%20Pro%20(M5,%2014-Inch).png",
+      "publishedAt": "2025-10-21T17:00:00Z",
+      "content": "On the multi-core front, youre still getting a 10-core CPU, which matches the configuration of the M4 on the 14-inch MacBook Pro. So, if you want more multi-core performance, youll need to wait for t… [+2868 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Google Fi is getting AI-powered noise filters and RCS web messaging",
+      "description": "Google announced several upgrades and new features coming to its Google Fi Wireless phone plans, including an update to web calls and messages with a new interface that now fully supports RCS messaging so you can share high-quality photos and videos in messag…",
+      "url": "https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-fi-logo.webp?quality=90&strip=all&crop=0%2C10.527397823525%2C100%2C78.945204352951&w=1200",
+      "publishedAt": "2025-10-21T16:54:36Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSubscribers will be able to send hi-res photos without their phones as RCS support comes to Google Messages for web.\r\nSubscribers will be able to send hi-res pho… [+2944 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "5 free Linux distros built for speed and power - and your new PC",
+      "description": "Linux isn't just for older, sluggish hardware. These distros shine on new PCs too.",
+      "url": "https://www.zdnet.com/article/5-free-linux-distros-built-for-speed-and-power-and-your-new-pc/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c457b3a657557d1ee7a1f04fecf5119375d8d2/2025/10/21/528097af-ec12-4bde-89ad-76c5c3390e09/linux-distributions-that-are-best-suited-for-new-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T16:50:00Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are specific Linux distributions for newer hardware.</li><li>Thes… [+5514 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-20T15:27:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Your Pixel phone hides a free Google Photos AI tool that's pure magic - how it works",
-      "description": "If you use Google Photos and have a Pixel phone, you need to try AI Image Expander",
-      "url": "https://www.zdnet.com/article/your-pixel-phone-hides-a-free-google-photos-ai-tool-thats-pure-magic-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/70b4027f09a42d36e059e4855e515ff2563b8046/2025/10/20/44bf1f7f-3f02-4e34-941f-12c248d7beeb/how-to-use-the-ai-image-expander-on-your-google-pixel.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T14:58:43Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Google has added an impressive feature to Photos.</li><li>The AI Image … [+2243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Windows 11's October update causes a serious recovery mode glitch - but there's a workaround",
-      "description": "A strange bug is stopping Windows 11 users from using recovery mode.",
-      "url": "https://www.zdnet.com/article/windows-11s-october-update-causes-a-serious-recovery-mode-glitch-but-theres-a-workaround/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/511d5a4135bfefd4452d336db0dd4796f9018493/2025/10/20/d8ffa6f8-7fb4-432e-b5d0-6953be60460e/windows-11-october-update-glitches-recovery-environment-but-heres-a-workaround.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T14:51:50Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A new bug stops USB devices in the Windows Recovery Environment.</l… [+3382 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cleveland-Cliffs shares jump 17% as steelmaker looks into rare earths mining",
-      "description": null,
-      "url": "https://www.cnbc.com/2025/10/20/cleveland-cliffs-clf-rare-earth-critical-mineral-steel.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214133-1760970849844-gettyimages-2169566257-594x594-1.jpg?v=1760971677&w=1920&h=1080",
-      "publishedAt": "2025-10-20T14:51:11Z",
-      "content": "Cleveland-Cliffs is looking into building a rare earths mining business, CEO Lourenco Goncalves told investors Monday.\r\nThe steelmaker has two sites in Michigan and Minnesota where geological surveys… [+1102 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple stock rallies following strong iPhone 17 sales in U.S. and China",
-      "description": "The iPhone 17 series has outsold the iPhone 16 series by 14% in the U.S. and China within its first 10 days of availability.",
-      "url": "https://www.cnbc.com/2025/10/20/apple-stock-iphone-17-us-china-sales.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196402-1757444160207-gettyimages-2234530052-_73a2951_zq0mcwah.jpeg?v=1757444318&w=1920&h=1080",
-      "publishedAt": "2025-10-20T14:48:18Z",
-      "content": "Apple shares rose nearly 3% on Monday as a new report showed iPhone 17 sales off to a strong start in the U.S. and China.\r\nThe iPhone 17 series, which dropped in September, has outsold the iPhone 16 … [+1056 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your plus-one",
-      "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-plus-one/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-      "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3181 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Last-minute ticket deal for TechCrunch Disrupt 2025: Save 60% on your +1",
-      "description": "To celebrate the 7-day countdown, we’re offering a special 60% discount for your +1. Buy your pass and save up to $444, plus get 60% off a second ticket for your co-founder, partner, friend, or team member.",
-      "url": "https://techcrunch.com/2025/10/20/last-minute-ticket-deal-for-techcrunch-disrupt-2025-save-60-on-your-1/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-      "publishedAt": "2025-10-20T14:30:00Z",
-      "content": "Today begins the 7-day countdown to TechCrunch Disrupt 2025, the flagship tech conference bringing together 10,000+ leaders, VCs, operators, and innovators, taking place at Moscone West in San Franci… [+3173 chars]"
     }
   ]
 }
