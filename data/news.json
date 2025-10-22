@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-22T18:14:59.793Z",
+  "fetchedAt": "2025-10-22T18:47:32.478Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas | TechCrunch",
+      "description": "OpenAI is launching an AI-powered browser, its latest challenge to Google as the main way people find information online.",
+      "url": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
+      "publishedAt": "2025-10-21T18:15:03Z",
+      "content": "OpenAI announced Tuesday the launch of its AI-powered browser, ChatGPT Atlas, a major step in the company’s quest to unseat Google as the main way people find information online.\r\nThe company says At… [+2856 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258006_Meta_Oakley_AKrales_0135.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-20T16:37:07Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nYou may look ridiculous, but the feature set is perfect for gadget nerds who love the outdoors.\r\nIf you buy something from a Verge link, Vox Media may earn a com… [+11526 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation   | TechCrunch",
-      "description": "Trained on medical journals from JAMA and the New England Journal of Medicine, the platform helps users quickly get answers to existing medical knowledge to help treat patients. Verified medical professionals can access OpenEvidence’s tool, which is supported…",
-      "url": "https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?w=1200",
-      "publishedAt": "2025-10-20T16:29:24Z",
-      "content": "OpenEvidence, a tool that doctors and nurses have likened to ChatGPT for medicine, plans to announce a $200 million raise at a $6 billion valuation, The New York Times reports. \r\nThe fresh funds come… [+861 chars]"
     }
   ]
 }
