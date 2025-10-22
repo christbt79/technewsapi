@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T17:33:35.495Z",
+  "fetchedAt": "2025-10-22T18:14:59.793Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Radhika Rajkumar",
+      "title": "Is OpenAI's Atlas browser the Chrome killer we've been waiting for? Try it for yourself",
+      "description": "Here's everything OpenAI's ChatGPT-powered browser can do, and how to access it.",
+      "url": "https://www.zdnet.com/article/is-openais-atlas-browser-the-chrome-killer-weve-been-waiting-for-try-it-for-yourself/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/405eef6a630791d424fc125bf6ff32c9d862f1bc/2025/10/21/b67923fc-2f35-461b-89e1-eb0e2360cf78/atlas.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T18:10:00Z",
+      "content": "OpenAI / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>OpenAI's ChatGPT browser, Atlas, is here.</li><li>It's available for macO… [+4790 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025",
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "url": "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
+      "publishedAt": "2025-10-21T17:54:28Z",
+      "content": "Google Chrome and Apples Safari currently dominate the web browser market, with Chrome holding a significant share due to the tech giant’s ongoing innovations, particularly in integrating generative … [+6743 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "This TikTok scam promises you a free Photoshop or Windows license - and then steals your info",
+      "description": "The TikTok video's instructions are simple and promise to easily solve a problem you have - but it's a ruse. Here's what happens next.",
+      "url": "https://www.zdnet.com/article/this-tiktok-scam-promises-you-a-free-photoshop-or-windows-license-and-then-steals-your-info/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3c6362165114345fb7fa833cc415015b477d7f7f/2025/10/21/eb0c6d67-b6e9-4c5c-a7e8-44808d450f2e/gettyimages-1393843200-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-21T17:46:00Z",
+      "content": "Yosi Azwan/iStock /Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>TikTok is a delivery platform for ClickFix social engineering attacks.</li>… [+3947 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/openevidence.png?w=1200",
       "publishedAt": "2025-10-20T16:29:24Z",
       "content": "OpenEvidence, a tool that doctors and nurses have likened to ChatGPT for medicine, plans to announce a $200 million raise at a $6 billion valuation, The New York Times reports. \r\nThe fresh funds come… [+861 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Automattic CEO calls Tumblr his ‘biggest failure’ so far",
-      "description": "At WordCamp Canada 2025, Automattic CEO Matt Mullenweg called Tumblr his “biggest failure,” noting the challenge of maintaining the platform’s half a billion blogs while it remains unprofitable. Though plans to migrate Tumblr to WordPress infrastructure are o…",
-      "url": "https://techcrunch.com/2025/10/20/automattic-ceo-calls-tumblr-his-biggest-failure-so-far/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/tumblr-1-e1650488126214.png?resize=1200,727",
-      "publishedAt": "2025-10-20T16:21:50Z",
-      "content": "WordPress co-founder and Automattic CEO Matt Mullenweg called the company’s Tumblr acquisition his biggest failure but one he hasn’t given up on yet. The comments were made at the recent WordCamp Can… [+3374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Anthropic launches Claude Life Sciences to give researchers an AI efficiency boost",
-      "description": "The announcement marks Anthropic's first formal launch within the life sciences sector",
-      "url": "https://www.cnbc.com/2025/10/20/anthropic-claude-life-sciences-research-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108089855-1737474976533-8cvtebbM.jpg?v=1737475063&w=1920&h=1080",
-      "publishedAt": "2025-10-20T15:27:17Z",
-      "content": "Anthropic on Monday announced Claude for Life Sciences, a new offering for researchers to use the company's artificial intelligence technology in the advancement of scientific discovery. \r\nClaude for… [+3399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Would you trust a PC brand to make wireless earbuds? I tried a pair by Dell, and it delivered",
-      "description": "The Dell Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for hybrid and office work.",
-      "url": "https://www.zdnet.com/article/would-you-trust-a-pc-brand-to-make-wireless-earbuds-i-tried-a-pair-by-dell-and-it-delivered/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-20T15:27:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5800 chars]"
     }
   ]
 }
