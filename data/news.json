@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-22T21:06:55.257Z",
+  "fetchedAt": "2025-10-22T21:31:38.146Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC exclusive: First look at Shield AI's new AI-piloted military fighter drone",
+      "description": "Shield AI has developed X-Bat, an unmanned, AI-piloted fighter jet with vertical takeoff and landing capabilities.",
+      "url": "https://www.cnbc.com/2025/10/21/exclusive-first-look-at-shield-ais-x-bat-ai-piloted-fighter-drone.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214390-1760991506595-sunset_takeoff.png?v=1760991609&w=1920&h=1080",
+      "publishedAt": "2025-10-21T21:30:02Z",
+      "content": "Shield AI is trying to shake up the defense industry. \r\nThe company, which is valued at $5.3 billion after securing $240 million in its latest round of funding, is set to unveil its next generation, … [+4808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Are we in an AI bubble? Here's what analysts and experts are saying",
+      "description": "The euphoria is drawing comparisons to the dotcom bubble of the late 1990s and the 2008 financial crisis.",
+      "url": "https://www.cnbc.com/2025/10/21/are-we-in-an-ai-bubble.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214998-1761078220899-gettyimages-2161412405-handburstingaitechbubblevectorconceptillustration.jpeg?v=1761078319&w=1920&h=1080",
+      "publishedAt": "2025-10-21T21:17:22Z",
+      "content": "It is tech's biggest question, and there is a wide range of takes on every side.\r\nWith artificial intelligence-driven spending leading to record deals and valuations, seemingly everyone is weighing i… [+7300 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators",
+      "description": "Starting today, creators in YouTube’s Partner Program are getting access to a new AI detection feature that will allow them to find and report unauthorized uploads using their likeness. As shown in this video from YouTube, after verifying their identity, crea…",
+      "url": "https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0002_10.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-21T21:17:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYouTube says its technology could help famous people manage AI content with their face in it at scale.\r\nYouTube says its technology could help famous people mana… [+3408 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/06/YouTube-Thumb-Text-2-3.png?resize=1200,675",
       "publishedAt": "2025-10-20T20:09:26Z",
       "content": "Anthropic launched a web app on Monday for its viral AI coding assistant, Claude Code, which lets developers create and manage several AI coding agents from their browser.\r\nClaude Code for web is now… [+3343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI investor Reid Hoffman spars with AI czar Sacks, calls Anthropic 'one of the good guys'",
-      "description": "After White House AI and crypto czar David Sacks went after Anthropic last week, OpenAI investor Reid Hoffman came to the company's defense.",
-      "url": "https://www.cnbc.com/2025/10/20/openai-investor-reid-hoffman-calls-anthropic-one-of-the-good-guys.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108050948-1729604245524-gettyimages-2179195421-AFP_36KJ9Q6.jpeg?v=1760974661&w=1920&h=1080",
-      "publishedAt": "2025-10-20T19:56:12Z",
-      "content": "Reid Hoffman, Partner at Greylock and co-founder LinkedIn, speaks during the WSJ Tech Live conference hosted by the Wall Street Journal at the Montage Laguna Beach in Laguna Beach, California, on Oct… [+4345 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "Shin Starr’s robotic food truck kitchen will serve up Korean BBQ at TechCrunch Disrupt 2025 | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/20/shin-starrs-robotic-food-truck-kitchen-will-serve-up-korean-bbq-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/qe8xIPDIX7dEumIx1fmy0jE7Ek-copy.jpg?resize=1200,675",
-      "publishedAt": "2025-10-20T19:52:38Z",
-      "content": "When Shin Starr set out to build an autonomous kitchen, the company knew that the gimmick of robotic cooking wouldn’t carry the business. What would make Shin Starr’s OLHSO Korean BBQ food truck succ… [+4279 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI cracks down on Sora 2 deepfakes after pressure from Bryan Cranston, SAG-AFTRA",
-      "description": "OpenAI will also collaborate with United Talent Agency, Creative Artists Agency and Association of Talent Agents to ensure voice and likeness protections.",
-      "url": "https://www.cnbc.com/2025/10/20/open-ai-sora-bryan-cranston-sag-aftra.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104207634-GettyImages-630170360.jpg?v=1532563943&w=1920&h=1080",
-      "publishedAt": "2025-10-20T19:24:50Z",
-      "content": "OpenAI announced on Monday in a joint statement that it will be working with Bryan Cranston, SAG-AFTRA, and other actor unions to protect against deepfakes on its artificial intelligence video creati… [+2338 chars]"
     }
   ]
 }
