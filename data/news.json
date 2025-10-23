@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-23T16:43:41.674Z",
+  "fetchedAt": "2025-10-23T17:08:19.840Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Instagram rolls out custom icons…but only for teens",
+      "description": "Instagram introduced custom app icons for its teen accounts, but not everyone is thrilled. In replies to the company’s post on X, users criticized the feature for being age-gated, arguing that adults like personalization, too.",
+      "url": "https://techcrunch.com/2025/10/22/instagram-rolls-out-custom-icons-but-only-for-teens/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/instagram-app-icon.jpg?resize=1200,675",
+      "publishedAt": "2025-10-22T17:07:02Z",
+      "content": "Some Instagram users are feeling cheated out of a new feature, as the photo and video sharing app on Wednesday announced the launch of custom icons — but only for its teen users. \r\nTeens can now choo… [+2101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "Are you part of 'the great stay?' Here's what experts say is behind this latest job trend",
+      "description": "A variety of factors could be convincing tech professionals to stay put.",
+      "url": "https://www.zdnet.com/education/professional-development/are-you-part-of-the-great-stay-heres-what-experts-say-is-behind-this-latest-job-trend/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b7db2372f725842465d8c472ffc0849f294fb955/2025/10/22/653fe69c-2f28-407c-bc04-c5d3dc89f3e9/gettyimages-2227030126.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T17:05:26Z",
+      "content": "J Studios/Royalty-free via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Tech professionals' concerns about layoffs have decreased.</li><li>At the same … [+6715 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "TI CEO says some customers still wary of Trump's import tax roulette",
+      "description": "CEO says some customers still wary of Trump's import tax roulette The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, accor…",
+      "url": "https://www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/",
+      "urlToImage": "https://regmedia.co.uk/2025/07/10/tariff_us.jpg",
+      "publishedAt": "2025-10-22T16:57:01Z",
+      "content": "The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according t… [+3519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "GE Vernova CEO says he's talking with OpenAI's Sam Altman as power remains critical for AI growth",
+      "description": "GE Vernova shares fell more than 6% after the company failed to raise its forecast in the wake of better-than-expected results.",
+      "url": "https://www.cnbc.com/2025/10/22/ge-vernova-ceo-says-hes-talking-with-openais-sam-altman-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1761147545&w=1920&h=1080",
+      "publishedAt": "2025-10-22T16:48:58Z",
+      "content": "GE Vernova CEO Scott Strazik said he has had conversations with OpenAI CEO Sam Altman multiple times over the past few weeks as power scarcity remains a challenge and opportunity for hypescalers.\r\n\"I… [+2562 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
       "publishedAt": "2025-10-21T17:54:28Z",
       "content": "Google Chrome and Apples Safari currently dominate the web browser market, with Chrome holding a significant share due to the tech giant’s ongoing innovations, particularly in integrating generative … [+6743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "This TikTok scam promises you a free Photoshop or Windows license - and then steals your info",
-      "description": "The TikTok video's instructions are simple and promise to easily solve a problem you have - but it's a ruse. Here's what happens next.",
-      "url": "https://www.zdnet.com/article/this-tiktok-scam-promises-you-a-free-photoshop-or-windows-license-and-then-steals-your-info/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3c6362165114345fb7fa833cc415015b477d7f7f/2025/10/21/eb0c6d67-b6e9-4c5c-a7e8-44808d450f2e/gettyimages-1393843200-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T17:46:00Z",
-      "content": "Yosi Azwan/iStock /Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>TikTok is a delivery platform for ClickFix social engineering attacks.</li>… [+3947 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Angela Watercutter",
-      "title": "The Long History of Frogs as Protest Symbols",
-      "description": "Inflatable frog costumes are selling out following the weekend's “No Kings” protests and to counter Trump’s demonization of US cities more broadly.",
-      "url": "https://www.wired.com/story/the-long-history-of-frogs-as-protest-symbols/",
-      "urlToImage": "https://media.wired.com/photos/68f6c7e46c32e97a4e58a48a/191:100/w_1280,c_limit/History-of-Frogs-as-Protest-Avatars-Culture-2239338875.jpg",
-      "publishedAt": "2025-10-21T17:07:06Z",
-      "content": "Think of it like Wheres Waldo? for the anti-Trump movement: Last Saturday, as some 7 million people filled American cities for the latest No Kings protest, many of them showed up wearing inflatable f… [+2955 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
-      "description": "OpenAI’s next move in its battle against Google is an AI-powered web browser. The tool, dubbed ChatGPT Atlas, is out today. The company announced it in a livestream after teasing it earlier Tuesday via a mysterious video of browser tabs on a white screen. Cha…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-21-at-1.04.24%E2%80%AFPM.png?quality=90&strip=all&crop=5.0944233206591%2C0%2C89.811153358682%2C100&w=1200",
-      "publishedAt": "2025-10-21T17:06:50Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT is the beating heart of Atlas, according to employees on the livestream.\r\nChatGPT is the beating heart of Atlas, according to employees on the livestream… [+3211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "I compared the M5 MacBook Pro to older models, and it made my $2,500 M1 Max weep",
-      "description": "There's no shame in owning an older laptop. But when the latest models can hit these numbers while costing less, it makes you think.",
-      "url": "https://www.zdnet.com/article/i-compared-the-m5-macbook-pro-to-older-models-and-it-made-my-2500-m1-max-weep/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4006f8c65c858e2e301badf8b458a534c2480804/2025/10/21/b46bae16-0f79-4ba3-9cc7-44105490d398/dsc08372.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T17:00:36Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI spent my weekend doing three things: Raking in the last bit of leaves from my neighbor's neglected tree, being disappointed by the New York Gi… [+4703 chars]"
     }
   ]
 }
