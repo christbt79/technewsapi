@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T19:31:23.705Z",
+  "fetchedAt": "2025-10-23T20:09:51.414Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Tesla’s revenues rebound as consumers race to claim expiring tax credit",
+      "description": "Tesla reported a profitable third quarter today — its first this year — as shoppers scrambled to snatch up the company’s EVs in record numbers before the federal EV tax credit expired. Tesla said it earned $1.4 billion in net income on $28.1 billion in revenu…",
+      "url": "https://www.theverge.com/news/803886/tesla-q3-2025-earnings-revenue-profit-ev-elon-musk",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-22T20:08:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis is likely to be a rare bright spot in an otherwise gloomy year for the company.\r\nThis is likely to be a rare bright spot in an otherwise gloomy year for the… [+4930 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Reddit to Perplexity: Get your filthy hands off our forums",
+      "description": "Social media site continues legal campaign against those who take its content without a license Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.…",
+      "url": "https://www.theregister.com/2025/10/22/reddit_sues_perplexity/",
+      "urlToImage": "https://regmedia.co.uk/2018/08/01/shutterstock_reddit_logo.jpg",
+      "publishedAt": "2025-10-22T19:40:21Z",
+      "content": "Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.\r\nThe complaint, filed in the Southern District of Ne… [+4075 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0002_10.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-21T21:17:15Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nYouTube says its technology could help famous people manage AI content with their face in it at scale.\r\nYouTube says its technology could help famous people mana… [+3408 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft CEO Satya Nadella's annual pay jumps to $96.5 million",
-      "description": "Microsoft CEO Satya Nadella is getting a major bump in his compensation, thanks to a steep rally in the company's stock price.",
-      "url": "https://www.cnbc.com/2025/10/21/microsoft-ceo-satya-nadellas-total-comp-rises-to-96point5-million.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108090594-1737562586757-9GSqwC8c.jpg?v=1738256114&w=1920&h=1080",
-      "publishedAt": "2025-10-21T21:01:16Z",
-      "content": "Microsoft CEO Satya Nadella is getting a big bump in his compensation, as the company's stock price has continued to rally, propelled by the boom in artificial intelligence. \r\nNadella's total pay for… [+1682 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today",
-      "description": "Watching the first few minutes of KPop Demon Hunters on Samsung's Galaxy XR headset, I think Apple's Vision Pro might be cooked. It's not because the Galaxy XR - which Samsung formerly teased as Project Moohan - is that much better than the Vision Pro. It's t…",
-      "url": "https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Moohan_Vee.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-21T20:50:50Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAt $1,799 and with an impressive subscription bundle, Samsung is aggressively taking shots at the Vision Pro.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Revi… [+8053 chars]"
     }
   ]
 }
