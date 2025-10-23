@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-23T20:37:37.566Z",
+  "fetchedAt": "2025-10-23T21:07:59.651Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Why Cohere's ex-AI research lead is betting against the scaling race | TechCrunch",
+      "description": "Cohere's former VP of AI research, Sara Hooker, is launching a new startup to build AI models that can adapt to their environment.",
+      "url": "https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
+      "publishedAt": "2025-10-22T20:56:14Z",
+      "content": "AI labs are racing to build data centers as large as Manhattan, each costing billions of dollars and consuming as much energy as a small city. The effort is driven by a deep belief in scaling the ide… [+6065 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "OpenAI requested memorial attendee list in ChatGPT suicide lawsuit | TechCrunch",
+      "description": "The new information comes as the Raines family updated its lawsuit against OpenAI. The family first filed a wrongful death suit against OpenAI in August after alleging their son had taken his own life following conversations with the chatbot about his mental …",
+      "url": "https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "publishedAt": "2025-10-22T20:51:31Z",
+      "content": "OpenAI reportedly asked the Raine family whose 16-year-old son Adam Raine died by suicide after prolonged conversations with ChatGPT for a full list of attendees from the teenagers memorial, signalin… [+2094 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Parham",
+      "title": "Tinder Launches Mandatory Facial Verification to Weed Out Bots and Scammers",
+      "description": "Face Check will scan new members’ faces to ensure they don’t match existing profiles. The move comes as romance scams continue to proliferate, with billions lost over the last decade.",
+      "url": "https://www.wired.com/story/tinder-launches-mandatory-facial-verification-to-weed-out-bots-and-scammers/",
+      "urlToImage": "https://media.wired.com/photos/68f919bf7caa02afb9612fca/191:100/w_1280,c_limit/Tinder-Facial-Recognition-Culture-1159763222.jpg",
+      "publishedAt": "2025-10-22T20:45:03Z",
+      "content": "When asked what the app plans to do about the fake profiles that already exist, given Face Check only applies to new users, Roth says the tech is most effective in curbing the biggest issue that we'r… [+2438 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Tesla's record sales quarter barely boosted profit | TechCrunch",
+      "description": "Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.",
+      "url": "https://techcrunch.com/2025/10/22/teslas-record-sales-quarter-barely-boosted-profit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Tesla-sign-Getty.jpg?resize=1200,800",
+      "publishedAt": "2025-10-22T20:40:36Z",
+      "content": "Tesla delivered a record number of vehicles in the third quarter of 2025, thanks in large part to a rush of customers in the United States who took advantage of the expiring federal EV tax credit. Bu… [+2753 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-21-at-5.13.11-PM.jpg?resize=1200,673",
       "publishedAt": "2025-10-21T22:22:34Z",
       "content": "Today, OpenAI launched its new Atlas web browser in a surprise livestream. The show started with CEO Sam Altman himself, speaking directly to the audience.  \r\nWe think AI represents a rare, once-a-de… [+3816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta partners with Blue Owl Capital on $27 billion AI data center project",
-      "description": "Meta on Tuesday said it formed a $27-billion joint venture agreement with Blue Owl Capital to fund and develop the Hyperion data center in rural Louisiana.",
-      "url": "https://www.cnbc.com/2025/10/21/meta-blue-owl-capital-partner-on-27-billion-ai-data-center-project-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200611-1758197175659-gettyimages-2235448228-META_CONNECT.jpeg?v=1761077950&w=1920&h=1080",
-      "publishedAt": "2025-10-21T21:38:00Z",
-      "content": "Meta said Tuesday that it formed a joint venture agreement with Blue Owl Capital in a deal worth $27 billion to fund and develop the social media company's massive Hyperion data center in rural Louis… [+1691 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sesame, the conversational AI startup from Oculus founders, raises $250M and launches beta",
-      "description": "Former Oculus CEO Brendan Iribe’s new startup, Sesame, is building AI-powered smartglasses with natural, humanlike voice interaction. Backed by Sequoia and Spark, the company also launched an invite-only iOS beta to preview its conversational AI.",
-      "url": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/5.webp?resize=1200,800",
-      "publishedAt": "2025-10-21T21:34:17Z",
-      "content": "Sesame, a conversational AI startup and smart glasses maker, has raised a $250 million Series B round and is opening up its beta to a select group of testers, the company announced Tuesday. \r\nThe sta… [+2518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC exclusive: First look at Shield AI's new AI-piloted military fighter drone",
-      "description": "Shield AI has developed X-Bat, an unmanned, AI-piloted fighter jet with vertical takeoff and landing capabilities.",
-      "url": "https://www.cnbc.com/2025/10/21/exclusive-first-look-at-shield-ais-x-bat-ai-piloted-fighter-drone.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214390-1760991506595-sunset_takeoff.png?v=1760991609&w=1920&h=1080",
-      "publishedAt": "2025-10-21T21:30:02Z",
-      "content": "Shield AI is trying to shake up the defense industry. \r\nThe company, which is valued at $5.3 billion after securing $240 million in its latest round of funding, is set to unveil its next generation, … [+4808 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Are we in an AI bubble? Here's what analysts and experts are saying",
-      "description": "The euphoria is drawing comparisons to the dotcom bubble of the late 1990s and the 2008 financial crisis.",
-      "url": "https://www.cnbc.com/2025/10/21/are-we-in-an-ai-bubble.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214998-1761078220899-gettyimages-2161412405-handburstingaitechbubblevectorconceptillustration.jpeg?v=1761078319&w=1920&h=1080",
-      "publishedAt": "2025-10-21T21:17:22Z",
-      "content": "It is tech's biggest question, and there is a wide range of takes on every side.\r\nWith artificial intelligence-driven spending leading to record deals and valuations, seemingly everyone is weighing i… [+7300 chars]"
     }
   ]
 }
