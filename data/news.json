@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T22:36:55.941Z",
+  "fetchedAt": "2025-10-23T23:08:24.173Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
+      "description": "Tesla CEO Elon Musk predicted the company would be able to remove the safety monitors from its robotaxis \"by the end of the year.\" He also said Tesla would launch a robotaxi service in 8-10 new markets also before the end of 2025. \"We are expecting to have no…",
+      "url": "https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-22T22:59:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company plans on launching robotaxis in 8-10 new markets by the end of 2025, Musk also said.\r\nThe company plans on launching robotaxis in 8-10 new markets by… [+3329 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jim Cramer explains why sky-high expectations can sink even strong stocks",
+      "description": "Jim Cramer says strong earnings can’t always lift stocks if expectations are too high, pointing to GE Vernova and Vertiv.",
+      "url": "https://www.cnbc.com/2025/10/22/jim-cramer-high-expectations-sink-strong-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105444612-1536690347185img_2729rrr.jpg?v=1692053569&w=1920&h=1080",
+      "publishedAt": "2025-10-22T22:46:43Z",
+      "content": "CNBC's Jim Cramer said Tuesday that investors often miss a key market truth: a company can deliver excellent results and still see its stock tumble not because it did anything wrong, but because expe… [+2406 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214835-1761065236964-galaxy_xr_head_on_view.jpg?v=1761065243&w=1920&h=1080",
       "publishedAt": "2025-10-22T02:00:01Z",
       "content": "Samsung Galaxy XR Headset\r\nIt's been more than 17 years since the modern smartphone era began with the launch of the iPhone, and tech companies have been obsessed with trying to disrupt it ever since… [+5003 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Anthropic, Google discuss major cloud pact to boost AI computing power",
-      "description": "Anthropic is in talks with Google for a cloud deal worth tens of billions, as the AI startup seeks more computing power to expand its Claude AI models.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-21/anthropic-google-in-talks-on-cloud-deal-worth-tens-of-billions",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/rcydds/article70171381.ece/alternates/LANDSCAPE_1200/PO02_Partnership.jpg",
-      "publishedAt": "2025-10-22T01:53:53Z",
-      "content": "Anthropic PBC is in discussions with Alphabet Inc.s Google about a deal that would provide the artificial intelligence company with additional computing power valued in the high tens of billions of d… [+1958 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Satya Nadella’s pay jumps to $96.5 million as Microsoft rides AI boom",
-      "description": "Other top executives, including CFO Amy Hood and Commercial Chief Judson Althoff, also saw pay hikes as Microsoft shares rose 23% this year, driven by strong Azure cloud and AI growth",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-21/microsoft-ceo-gets-96-million-pay-package-on-exceptional-year",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/1ovcic/article70188631.ece/alternates/LANDSCAPE_1200/2025-07-30T163530Z_1113338023_RC24V7ARRBTW_RTRMADP_3_MICROSOFT-RESULTS.JPG",
-      "publishedAt": "2025-10-22T01:37:48Z",
-      "content": "Microsoft Corp. Chief Executive Officer Satya Nadellas pay package jumped to $96.5 million for fiscal 2025, his highest compensation since he became CEO more than a decade ago, with the board citing … [+1144 chars]"
     }
   ]
 }
