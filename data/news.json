@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-23T17:08:19.840Z",
+  "fetchedAt": "2025-10-23T17:36:58.215Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Your Amazon deliveries are getting 3 major upgrades this fall - here's what's new",
+      "description": "Amazon is determined to be your shipper of choice. Here's how.",
+      "url": "https://www.zdnet.com/article/your-amazon-deliveries-are-getting-3-major-upgrades-this-fall-heres-whats-new/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/91ed027cf4fa81a09d9dddb6bc602441f21be3d1/2025/09/30/b048b976-9217-4419-94f8-afdfdfebdba2/holiday-shopping-warning-amazon-no-longer-lets-you-archive-orders-from-your-history-heres-what-you-can-do-instead.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T17:30:37Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Amazon held its Delivering the Future event. </li><li>The event focused on how AI … [+3269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Your Amazon driver is wearing AI smart glasses now - here's what they see",
+      "description": "The glasses can help you get your packages quicker, while keeping drivers safer.",
+      "url": "https://www.zdnet.com/article/your-amazon-driver-is-wearing-ai-smart-glasses-now-heres-what-they-see/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e4434043500080e302e376aeae052daf551e3deb/2025/10/21/6411024f-a4aa-4672-ad7a-6768d7c98fba/screenshot-2025-10-21-at-2-28-21pm.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T17:30:27Z",
+      "content": "Amazon\r\nZDNET's key takeaways\r\n<ul><li>Amazon is developing smart delivery glasses. </li><li>They can help identify hazards and make it easier to find packages. </li><li>Customers' deliveries should … [+3141 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Your Amazon deliveries got 3 major upgrades. Here's what's new (and why you'll want to try it)",
+      "description": "Amazon is determined to be your shipper of choice. Here's how.",
+      "url": "https://www.zdnet.com/article/your-amazon-deliveries-got-3-major-upgrades-heres-whats-new-and-why-youll-want-to-try-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5f6b58391c01608bc06cd6a1e3630aa0a80989e0/2025/10/22/b77e953a-8fdf-4723-8a85-9fd89a1cdd6a/img-1956.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T17:30:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Amazon held its Delivering the Future event. </li><li>The event focused on how AI and the l… [+4711 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Applied Digital signs $5 billion AI factory lease with U.S. based hyperscaler",
+      "description": "Applied Digital signs $5 billion AI factory lease with U.S. based hyperscaler",
+      "url": "https://www.cnbc.com/2025/10/22/applied-digital-signs-5-billion-ai-factory-lease-with-us-based-hyperscaler.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215470-1761153246322-Screenshot_2025-10-22_at_11318_PM.png?v=1761153463&w=1920&h=1080",
+      "publishedAt": "2025-10-22T17:18:56Z",
+      "content": "Applied Digital said on Wednesday that it signed a $5 billion infrastructure lease agreement with a U.S. hyperscaler. \r\nShares of the data center company dropped more than 7% following the announceme… [+1784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Cameron Peters, Umair Irfan",
+      "title": "How you’re paying for big tech’s AI speculation",
+      "description": "If you’ve noticed your electricity bill is higher than normal recently, you’re not alone. Power is getting more expensive everywhere, outpacing inflation. One major culprit? The flurry of new data centers being built to meet demand from the AI sector. To find…",
+      "url": "https://www.vox.com/technology/465749/electricity-costs-ai-data-centers-speculation",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223681645.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-10-22T17:14:41Z",
+      "content": "An Amazon Web Services data center in Virginia. | Nathan Howard/Bloomberg via Getty Images\r\n\n\nIf you’ve noticed your electricity bill is higher than normal recently, you’re not alone. Power is gettin… [+6678 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -692,6 +757,19 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
+      "description": "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting. The upgrade for all paid subscribers should make Claude more useful and convenient.  Max subscribers will be able to turn on Claude’s “…",
+      "url": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1-Memory-Modal_blog-inline.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-22T10:58:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nClaudes automatic memory upgrade is coming to Pro and Max subscribers.\r\nClaudes automatic memory upgrade is coming to Pro and Max subscribers.\r\nby\r\nRobert HartCl… [+3363 chars]"
+    },
+    {
+      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148202-1747765329716-MUSK_5.png?v=1747765444&w=1920&h=1080",
       "publishedAt": "2025-10-21T19:26:41Z",
       "content": "A day ahead of Tesla's quarterly earnings report, a coalition of unions and corporate watchdogs wants investors to focus their attention on matters of governance.\r\nOn Tuesday, a group that includes t… [+4743 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "I spent a month living with a $430 AI pet, the Casio Moflin | TechCrunch",
-      "description": "I spent a month living with a $430 AI pet, the Casio Moflin | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/21/i-spent-a-month-living-with-a-430-ai-pet-the-casio-moflin/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_4487.jpg?resize=1200,675",
-      "publishedAt": "2025-10-21T19:03:19Z",
-      "content": "Ive often joked that I would love to have a pet if only animals did not need to poop and eat smelly, wet mush from a can. I want a fuzzy pal to hang out with all day, but then Ill hear that my friend… [+8134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "This upcoming OnePlus phone has specs that make my Galaxy S25 Ultra look outdated",
-      "description": "The OnePlus 15 is rumored to have a spec sheet for the ages. Here's to hoping that all gels together at release.",
-      "url": "https://www.zdnet.com/article/this-upcoming-oneplus-phone-has-specs-that-make-my-galaxy-s25-ultra-look-outdated/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T19:02:15Z",
-      "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The OnePlus 15 is launching in China soon, and most specs may carry over to the US.</li><li>Rumors… [+5758 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "A16z-backed Codi launches AI agent office manager | TechCrunch",
-      "description": "A16z-backed Codi launches AI agent office manager | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/21/a16z-backed-codi-launches-ai-agent-office-manager/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Christelle_Rohaut.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-21T18:51:11Z",
-      "content": "Codi, an Andreessen Horowitz-backed startup founded by Christelle Rohaut and Dave Schuman, is launching what it hails as the first AI-powered platform to fully automate office management.  \r\nCodi was… [+3316 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "OpenAI launches an AI-powered browser: ChatGPT Atlas | TechCrunch",
-      "description": "OpenAI is launching an AI-powered browser, its latest challenge to Google as the main way people find information online.",
-      "url": "https://techcrunch.com/2025/10/21/openai-launches-an-ai-powered-browser-chatgpt-atlas/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
-      "publishedAt": "2025-10-21T18:15:03Z",
-      "content": "OpenAI announced Tuesday the launch of its AI-powered browser, ChatGPT Atlas, a major step in the company’s quest to unseat Google as the main way people find information online.\r\nThe company says At… [+2856 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Radhika Rajkumar",
-      "title": "Is OpenAI's Atlas browser the Chrome killer we've been waiting for? Try it for yourself",
-      "description": "Here's everything OpenAI's ChatGPT-powered browser can do, and how to access it.",
-      "url": "https://www.zdnet.com/article/is-openais-atlas-browser-the-chrome-killer-weve-been-waiting-for-try-it-for-yourself/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/405eef6a630791d424fc125bf6ff32c9d862f1bc/2025/10/21/b67923fc-2f35-461b-89e1-eb0e2360cf78/atlas.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T18:10:00Z",
-      "content": "OpenAI / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>OpenAI's ChatGPT browser, Atlas, is here.</li><li>It's available for macO… [+4790 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2025",
-      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "url": "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-      "publishedAt": "2025-10-21T17:54:28Z",
-      "content": "Google Chrome and Apples Safari currently dominate the web browser market, with Chrome holding a significant share due to the tech giant’s ongoing innovations, particularly in integrating generative … [+6743 chars]"
     }
   ]
 }
