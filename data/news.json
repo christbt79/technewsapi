@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-23T18:13:48.412Z",
+  "fetchedAt": "2025-10-23T18:46:16.494Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Amazon unveils AI smart glasses for its delivery drivers | TechCrunch",
+      "description": "Amazon likely hopes that the new glasses will shave valuable time off of each delivery by providing delivery drivers with detailed directions and information about hazards directly in their line of sight.",
+      "url": "https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/amazon-glasses.png?resize=1200,667",
+      "publishedAt": "2025-10-22T18:35:16Z",
+      "content": "Amazon announced on Wednesday that it’s developing AI-powered smart glasses for its delivery drivers. The idea behind the glasses is to give delivery drivers a hand-free experience that reduces the n… [+2159 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214946-1761073743281-gettyimages-2214622577-dscf3368.jpeg?v=1761073771&w=1920&h=1080",
       "publishedAt": "2025-10-21T20:00:04Z",
       "content": "In his bestselling book \"The Anxious Generation,\" author and NYU Stern School of Business professor Jonathan Haidt discusses the societal changes that led to Gen Z's spikes in anxiety and depression,… [+2654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "I let OpenAI's new ChatGPT Atlas browser do my Walmart shopping for me - here's how it went",
-      "description": "With Agent mode, Atlas can take control of your browser tabs to shop, click, and perform tasks. So I tried it to see how well it works.",
-      "url": "https://www.zdnet.com/article/i-let-openais-new-chatgpt-atlas-browser-do-my-walmart-shopping-for-me-heres-how-it-went/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/20d7fa30ffe1d04f2e72c4ab8b32b9b9743260b4/2025/10/21/94081aa7-3766-413e-b2bc-027955f81976/5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T19:58:41Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's Atlast browser is here for Mac users, with Agent mode.</li><li>Agent navig… [+5755 chars]"
     }
   ]
 }
