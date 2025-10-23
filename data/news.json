@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T21:07:59.651Z",
+  "fetchedAt": "2025-10-23T21:31:27.034Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Snapchat makes its first open prompt AI Lens available for free in the US",
+      "description": "Snapchat is expanding access to its AI-powered “Imagine Lens,” allowing all users to generate and edit images with custom prompts for free.",
+      "url": "https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Imagine_Lens_16x9.jpg?resize=1200,675",
+      "publishedAt": "2025-10-22T21:25:30Z",
+      "content": "Snapchat is making its new “Imagine Lens,” the company’s first open prompt image-generation AI Lens, available to all users for free. The Lens was initially launched in September but only for paid su… [+1825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Samsung's upcoming Galaxy S26 may get its biggest performance change yet - for better or worse",
+      "description": "Samsung's flagships are overdue for an overhaul. Here's all the Galaxy S26 rumors so far.",
+      "url": "https://www.zdnet.com/article/samsungs-upcoming-galaxy-s26-may-get-its-biggest-performance-change-yet-for-better-or-worse/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8cf0e359dca9a12c35ef48d288b762eb26d27a0b/2025/01/17/5c9c44b1-6277-4135-99c5-a84950c2216b/dsc03669.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T21:11:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5642 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076310-1655341006752-IMG_1949rbbb.jpg?v=1697582097&w=1920&h=1080",
       "publishedAt": "2025-10-21T22:53:51Z",
       "content": "Despite all eyes on the Magnificent Seven, CNBC's Jim Cramer said that strong earnings results from companies in the \"real economy\" were responsible for Tuesday's rally.\r\n\"We got some tremendous numb… [+1970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Fake home invasion vid lands woman in real trouble",
-      "description": "And got arrested instead of earning a viral TikTok\nA Maryland woman who allegedly used AI to fake a home invasion was arrested and charged with making false statements after telling police that the ersatz intruder was part of a prank gone wrong.…<!--#include …",
-      "url": "https://www.theregister.com/2025/10/21/woman_pranks_husband_ai_intruder/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/21/cops_lights.jpg",
-      "publishedAt": "2025-10-21T22:46:04Z",
-      "content": "A Maryland woman who allegedly used AI to fake a home invasion was arrested and charged with making false statements after telling police that the ersatz intruder was part of a prank gone wrong.\r\nEar… [+2076 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "OpenAI’s new browser is a broadside shot at Google  | TechCrunch",
-      "description": "OpenAI's new browser announcement made it clear exactly how much Google has to lose in the AI era.",
-      "url": "https://techcrunch.com/2025/10/21/openais-new-browser-is-a-broadside-shot-at-google/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-21-at-5.13.11-PM.jpg?resize=1200,673",
-      "publishedAt": "2025-10-21T22:22:34Z",
-      "content": "Today, OpenAI launched its new Atlas web browser in a surprise livestream. The show started with CEO Sam Altman himself, speaking directly to the audience.  \r\nWe think AI represents a rare, once-a-de… [+3816 chars]"
     }
   ]
 }
