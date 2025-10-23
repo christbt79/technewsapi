@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-23T21:31:27.034Z",
+  "fetchedAt": "2025-10-23T22:08:16.268Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Your Amazon driver may start showing up with smart glasses on - why that's a good thing",
+      "description": "The glasses can help you get your packages quicker, while keeping drivers safer.",
+      "url": "https://www.zdnet.com/article/your-amazon-driver-may-start-showing-up-with-smart-glasses-on-why-thats-a-good-thing/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1a79ade8ee6701b93df3fe275a0e8cf5c72d5d05/2025/10/22/9174342a-069c-4b0d-a4d1-9cff2f0e1171/img-2011.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T22:05:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon is developing smart delivery glasses. </li><li>They can help identify hazards and mak… [+4448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Adam Clark Estes",
+      "title": "Can AI fix the web AI broke?",
+      "description": "At least twice a year, I’ll download a new browser, open it up, and see if the web looks better through a different window. It never does — or at least it didn’t until recently. We’ve entered a new era of AI-powered browsers. They have names like Comet, Dia, …",
+      "url": "https://www.vox.com/technology/465795/chatgpt-atlas-google-chrome-gemini-perplexity-comet",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/AI-browser.jpg?quality=90&strip=all&crop=0%2C10.729237082992%2C100%2C78.541525834017&w=1200",
+      "publishedAt": "2025-10-22T21:36:44Z",
+      "content": "The web is broken, increasingly full of AI slop, and surfing it sucks.\r\n\n\nAt least twice a year, I’ll download a new browser, open it up, and see if the web looks better through a different window. I… [+6401 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "NextSilicon Maverick-2 promises to blow away the HPC market Nvidia left behind",
+      "description": "The one chip startup building accelerators for something other than AI boasts performance up 10x that of modern GPUs using a fraction the power Researchers and engineers working in particle physics, materials analysis, or drug discovery haven't exactly been s…",
+      "url": "https://www.theregister.com/2025/10/22/nextsilicon_maverick2_fill_nvidia_hpc_void/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/22/maverick_2_oam.jpg",
+      "publishedAt": "2025-10-22T21:35:44Z",
+      "content": "Researchers and engineers working in particle physics, materials analysis, or drug discovery haven't exactly been spoiled for choice when it comes to chips capable of the highly precise double-precis… [+5686 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T00:39:09Z",
       "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The OnePlus 15 is launching in China soon, and most specs may carry over to the US.</li><li>Rumors… [+5758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "OpenAI releases bot-tom feeding browser with ChatGPT built in",
-      "description": "Why experience the web for yourself when there's so much privacy to surrender?\nIn a bid to grab even more eyeballs, OpenAI has finally released Atlas, its long-teased, ChatGPT-powered web browser. Surfing the web may never be the same now that a bot is doing …",
-      "url": "https://www.theregister.com/2025/10/22/openai_crams_chatgpt_into_atlas/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/21/chatgpt.jpg",
-      "publishedAt": "2025-10-22T00:11:05Z",
-      "content": "In a bid to grab even more eyeballs, OpenAI has finally released Atlas, its long-teased, ChatGPT-powered web browser. Surfing the web may never be the same now that a bot is doing it for you while tr… [+5861 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Open source agentic startup LangChain hits $1.25B valuation | TechCrunch",
-      "description": "As TechCrunch previously reported, the maker of a popular open source framework for building AI agents has officially become a unicorn.",
-      "url": "https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/unicorns-evergreen_720.jpg?w=720",
-      "publishedAt": "2025-10-21T23:06:04Z",
-      "content": "LangChain raised $125 million at a $1.25 billion valuation, the company announced on Monday. TechCrunch reported in July that the provider of a popular open source framework for building AI agents wa… [+1232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jim Cramer says strong earnings from 'actual businesses' are driving the 'real economy'",
-      "description": "Jim Cramer said positive earnings from non-AI related companies are driving the \"real economy\"",
-      "url": "https://www.cnbc.com/2025/10/21/jim-cramer-earnings-real-economy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107076310-1655341006752-IMG_1949rbbb.jpg?v=1697582097&w=1920&h=1080",
-      "publishedAt": "2025-10-21T22:53:51Z",
-      "content": "Despite all eyes on the Magnificent Seven, CNBC's Jim Cramer said that strong earnings results from companies in the \"real economy\" were responsible for Tuesday's rally.\r\n\"We got some tremendous numb… [+1970 chars]"
     }
   ]
 }
