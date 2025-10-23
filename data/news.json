@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T13:46:00.377Z",
+  "fetchedAt": "2025-10-23T14:10:07.376Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "12+ useful Alexa commands you're not taking advantage of (no subscriptions required)",
+      "description": "Amazon Alexa is already a solid smart assistant, but a few clever tweaks and lesser-known features can take your experience to the next level. Here's how to make the most of it.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/12-useful-alexa-commands-youre-not-taking-advantage-of-no-subscriptions-required/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/74a50f3aa5313db97dc1d84f5cb8a43b73019faa/2025/09/30/947abc5a-938a-4f7a-b2fc-e9f88f2e9ead/dsc07841.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T14:07:00Z",
+      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nVirtual assistants will soon be as commonplace as smartphones -- in many parts of the world, they already are. Most smartphone… [+10423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nearly a quarter of American workers didn't take any of their vacation days this year, says new survey",
+      "description": "A significant number of workers feel that they can't take PTO, according to a new report from FlexJobs.",
+      "url": "https://www.cnbc.com/2025/10/22/nearly-a-quarter-of-american-workers-didnt-take-any-of-their-vacation-days-this-year-says-new-survey.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214306-1760983933027-gettyimages-2230180113-g2432_2226.jpeg?v=1760983964&w=1920&h=1080",
+      "publishedAt": "2025-10-22T13:50:05Z",
+      "content": "Going on vacation is a great way for workers to decompress from their busy schedules, but some don't feel comfortable taking even a few days off, according to a new report from FlexJobs.\r\nThough the … [+3699 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213163-1760638892230-gettyimages-2241014250-IMF_WORLD_BANK.jpeg?v=1760638927&w=1920&h=1080",
       "publishedAt": "2025-10-21T13:05:01Z",
       "content": "JPMorgan Chase CEO Jamie Dimon has a \"little management lesson\" for professionals when it comes to conducting meetings: Give everyone your full attention.\r\n\"If you have an iPad in front of me and it … [+3088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "New Deepseek model drastically reduces resource usage by converting text and documents into images — 'vision-text compression' uses up to 20 times fewer tokens",
-      "description": "Developers of the Chinese Deepseek artificial intelligence have found a novel way to reduce the number of tokens it uses, particularly when accessing memories. By converting blocks of text into images and leveraging visual processing rather than text parsing,…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-deepseek-model-drastically-reduces-resource-usage-by-converting-text-and-documents-into-images-vision-text-compression-uses-up-to-20-times-fewer-tokens",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oBWSWgUKtbU7rjcL4ncx9J-2000-80.jpg",
-      "publishedAt": "2025-10-21T13:04:01Z",
-      "content": "Chinese developers of Deepseek AI have released a new model that leverages its multi-modal capabilities to improve the efficiency of its handling of complex documents and large blocks of text, by con… [+3016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Just days of using M5 iPad Pro, I'm already considering putting away my MacBook for it",
-      "description": "The latest iPad Pro sees improvements across performance and connectivity, making it a worthy upgrade for older iPad users wanting more.",
-      "url": "https://www.zdnet.com/article/just-days-of-using-m5-ipad-pro-im-already-considering-putting-away-my-macbook-for-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2ed900915e290feaa4f8e0464c0289944eac2b96/2025/10/18/b434b73e-e809-42b3-bb69-e6634b5c88e3/5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T13:00:24Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The M5 iPad Pro is now available for purchase, starting at $999 for the 11-inch and $1,199 for … [+4833 chars]"
     }
   ]
 }
