@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-23T13:04:53.271Z",
+  "fetchedAt": "2025-10-23T13:46:00.377Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "If a TikTok 'tech tip' tells you to paste code, it's a scam. Here's what's really happening",
+      "description": "Never paste commands from a TikTok video into PowerShell. Here's why.",
+      "url": "https://www.zdnet.com/article/if-a-tiktok-tech-tip-tells-you-to-paste-code-its-a-scam-heres-whats-really-happening/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/783b3f48d5db023daa14f5d8a4cf5b0018ccc72c/2025/10/22/9d928b16-799e-429b-8f75-f317e72d2ce2/gettyimages-2176255376-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T13:41:00Z",
+      "content": "Yuliya Taba/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>TikTok is a delivery platform for ClickFix social engineering attacks.</li><li>We fo… [+3938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I'm an audiophile, but these $100 headphones surprised me in the best way",
+      "description": "Baseus' Inspire XH1 headphones sound a lot better than their price would suggest. Here's how my testing went.",
+      "url": "https://www.zdnet.com/article/im-an-audiophile-but-these-100-headphones-surprised-me-in-the-best-way/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/40bc131f4944464b716a57d2afd0c3772fcd4899/2025/10/21/c16fad4d-ec72-475e-8694-bce36ee9fd90/xh1case.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T13:30:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs a big fan of classical music, I understand that despite what you may think, it doesn't sound good in any old headphones, regardless of price.… [+4969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "I tried the Samsung Galaxy XR headset, and I wasn't worried for smart glasses at all",
+      "description": "Samsung's $1,799 XR headset offers stunning spatialization, but hints at the power and utility of a more portable wearable.",
+      "url": "https://www.zdnet.com/article/i-tried-the-samsung-galaxy-xr-headset-and-i-wasnt-worried-for-smart-glasses-at-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/291a5881e024c17628066f87cb401debe161ac56/2025/10/20/f6289410-4fa9-461a-8a27-703856a03746/dsc08195.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T13:26:00Z",
+      "content": "ZDNET's Sabrina Ortiz demoing the Galaxy XR headset ahead of Unpacked.\r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nSamsung's Galaxy XR headset is finally real. After a ye… [+8036 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Meta is reportedly downsizing its legacy AI research team",
+      "description": "Meta is planning to axe around 600 roles within its legacy AI research division, according to a report from Axios. The layoffs will reportedly impact Meta’s Fundamental AI Research unit, also known as FAIR, while the company continues to hire workers for its …",
+      "url": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-22T13:23:05Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut Meta is still hiring for its team tasked with achieving superintelligence, according to a report from Axios.\r\nBut Meta is still hiring for its team tasked wi… [+2475 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/2ed900915e290feaa4f8e0464c0289944eac2b96/2025/10/18/b434b73e-e809-42b3-bb69-e6634b5c88e3/5.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-21T13:00:24Z",
       "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The M5 iPad Pro is now available for purchase, starting at $999 for the 11-inch and $1,199 for … [+4833 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "I wore the Oakley Meta Vanguard on a 5-mile walk - here's who should (and who shouldn't) buy them",
-      "description": "These AI smart glasses pack utility and style like never before. Just watch out for their one big caveat.",
-      "url": "https://www.zdnet.com/article/i-wore-the-oakley-meta-vanguard-on-a-5-mile-walk-heres-who-should-and-who-shouldnt-buy-them/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7a8ac729f59eb3d11c2c19995ef3217ed3d1704a/2025/10/20/43ed2952-87d4-44d3-9e78-e8d168d28cbe/dsc03203.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T13:00:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nMost athletic activities can benefit from hands-free assistance -- which makes athletes among the biggest beneficiaries from smart glasses. Cate… [+7938 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Apple iPad Pro (M5, 2025) Review: Tremendously Powerful",
-      "description": "Apple’s flagship tablet hones in on power, but it‘s the desktop-like iPadOS 26 experience that makes it shine.",
-      "url": "https://www.wired.com/review/apple-ipad-pro-m5-2025/",
-      "urlToImage": "https://media.wired.com/photos/68f6b8277d69a28856c00e63/191:100/w_1280,c_limit/IMG_0006.JPG",
-      "publishedAt": "2025-10-21T13:00:00Z",
-      "content": "I opened DaVinci Resolve and started editing some 4K footage and everything felt buttery smooth, but more important is the fact that thanks to iPadOS 26, youre able to complete rendering tasks in the… [+1706 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Adrienne So",
-      "title": "Oakley Meta Vanguard Review: The Do-It-All Smart Glasses",
-      "description": "Meta's second collaboration with Oakley look good, sound great, and might just replace your action cam.",
-      "url": "https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/",
-      "urlToImage": "https://media.wired.com/photos/68f6acd18860afe1a2a3939c/191:100/w_1280,c_limit/Review-%20Oakley%20Meta%20Vanguard%20Smart%20Glasses.png",
-      "publishedAt": "2025-10-21T13:00:00Z",
-      "content": "There are so many times when youre just running and pass something beautiful. Its so easy to just say, Hey Meta, start taking video and just get a quick clip as you happen to be zipping past. You can… [+1897 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Whisker’s latest Litter-Robot uses AI to recognize your cat’s face and poop",
-      "description": "The Litter-Robot 5 Pro is the newest poop-scooping machine from Whisker, makers of the excellent Litter-Robot 4, and it brings facial recognition for your cats to the self-cleaning litter box line. The company is also introducing an optional subscription serv…",
-      "url": "https://www.theverge.com/news/803249/whisker-litter-robot-5-pro-price-specs-features-launch-date",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/small-med-large-cats-tail-2-added.jpg?quality=90&strip=all&crop=0%2C10.753198973094%2C100%2C78.493602053811&w=1200",
-      "publishedAt": "2025-10-21T12:53:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Litter-Robot 5 Pro can handle up to five cats and comes with cameras equipped with facial recognition to know everybodys business.\r\nThe Litter-Robot 5 Pro ca… [+4363 chars]"
     }
   ]
 }
