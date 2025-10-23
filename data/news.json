@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-23T20:09:51.414Z",
+  "fetchedAt": "2025-10-23T20:37:37.566Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "IBM tops third-quarter estimates and lifts guidance, but stock drops",
+      "description": "IBM's results topped estimates and the company lifted its guidance, citing artificial intelligence tailwinds.",
+      "url": "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094474-17381853142025-01-22t112734z_1966914399_rc2yecaqwjzw_rtrmadp_0_davos-meeting.jpeg?v=1738271431&w=1920&h=1080",
+      "publishedAt": "2025-10-22T20:28:49Z",
+      "content": "IBM reported third-quarter results that topped Wall Street estimates and lifted its guidance, citing ongoing artificial intelligence tailwinds. Still, the stock dropped 5% in extended trading. \r\nHere… [+1555 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214998-1761078220899-gettyimages-2161412405-handburstingaitechbubblevectorconceptillustration.jpeg?v=1761078319&w=1920&h=1080",
       "publishedAt": "2025-10-21T21:17:22Z",
       "content": "It is tech's biggest question, and there is a wide range of takes on every side.\r\nWith artificial intelligence-driven spending leading to record deals and valuations, seemingly everyone is weighing i… [+7300 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators",
-      "description": "Starting today, creators in YouTube’s Partner Program are getting access to a new AI detection feature that will allow them to find and report unauthorized uploads using their likeness. As shown in this video from YouTube, after verifying their identity, crea…",
-      "url": "https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK414_AI_CVIRGINIA_I__0002_10.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-21T21:17:15Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYouTube says its technology could help famous people manage AI content with their face in it at scale.\r\nYouTube says its technology could help famous people mana… [+3408 chars]"
     }
   ]
 }
