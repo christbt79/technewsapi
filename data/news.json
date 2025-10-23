@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-23T17:36:58.215Z",
+  "fetchedAt": "2025-10-23T18:13:48.412Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "AI Models Get Brain Rot, Too",
+      "description": "A new study shows that feeding large language models low-quality, high-engagement content from social media lowers their cognitive abilities.",
+      "url": "https://www.wired.com/story/ai-models-social-media-cognitive-decline-study/",
+      "urlToImage": "https://media.wired.com/photos/68f7f1ec4eed2c4e43a9dfb9/191:100/w_1280,c_limit/AI-Lab-Illo-AI-Models-Fed-Slop-Business.jpg",
+      "publishedAt": "2025-10-22T18:00:00Z",
+      "content": "AI models may be a bit like humans, after all.\r\nA new study from the University of Texas at Austin, Texas A&amp;M, and Purdue University shows that large language models fed a diet of popular but low… [+2647 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "What’s Updog? Datadog’s new tool tells you which apps are down",
+      "description": "Cloud monitoring platform Datadog launched Updog, a web dashboard that shows the live health status of various SaaS APIs.",
+      "url": "https://techcrunch.com/2025/10/22/whats-updog-datadogs-new-tool-tells-you-which-apps-are-down/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1357481031.jpg?resize=1200,900",
+      "publishedAt": "2025-10-22T17:50:07Z",
+      "content": "Cloud monitoring and security platform Datadog has solved an age-old joke: what’s updog?\r\nDatadog’s answer is not, “Not much, you?” Rather, the company launched a web dashboard that shows developers … [+1970 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
+      "description": "Reddit is suing Perplexity and three “data-scraping service providers” to “stop the industrial-scale, unlawful circumvention of data protections by a group of bad actors who will stop at nothing to get their hands on valuable copyrighted content on Reddit,” a…",
+      "url": "https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-22T17:38:24Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nReddit is selling your posts to AI companies, and now its suing to stop the ones who wont pay.\r\nReddit is selling your posts to AI companies, and now its suing t… [+4582 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/20d7fa30ffe1d04f2e72c4ab8b32b9b9743260b4/2025/10/21/94081aa7-3766-413e-b2bc-027955f81976/5.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-21T19:58:41Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's Atlast browser is here for Mac users, with Agent mode.</li><li>Agent navig… [+5755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "MCP attack abuses predictable session IDs to hijack AI agents",
-      "description": "The vuln affects the Oat++ MCP implementation\nA security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and inject malicious re…",
-      "url": "https://www.theregister.com/2025/10/21/mcp_prompt_hijacking_attack/",
-      "urlToImage": "https://regmedia.co.uk/2017/03/28/web_snoop_shutterstock.jpg",
-      "publishedAt": "2025-10-21T19:36:24Z",
-      "content": "A security flaw in the Oat++ implementation of Anthropic's Model Context Protocol (MCP) allows attackers to predict or capture session IDs from active AI conversations, hijack MCP sessions, and injec… [+3294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Hulu with Live TV costs $90 monthly now - but you can get $25 off for 3 months",
-      "description": "Act fast. The deal only lasts a few more weeks.",
-      "url": "https://www.zdnet.com/home-and-office/home-entertainment/hulu-with-live-tv-costs-90-monthly-now-but-you-can-get-25-off-for-3-months/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/35aa5bd51a01d7330358ee6eadaca846891e1db2/2025/10/21/009b902d-f6d4-4676-b110-3a934505785c/gettyimages-2202727650.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T19:28:01Z",
-      "content": "Jonathan Raa/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Hulu with Live TV is increasing its monthly price.</li><li>The service wi… [+1705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Take Back Tesla campaign urges shareholders to reject Musk $1 trillion pay plan",
-      "description": "Ahead of Tesla's earnings report on Wednesday, a group of unions and corporate watchdogs launched a website in opposition to Elon Musk's new pay plan.",
-      "url": "https://www.cnbc.com/2025/10/21/take-back-tesla-urges-shareholders-to-reject-musk-1-trillion-pay-plan.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108148202-1747765329716-MUSK_5.png?v=1747765444&w=1920&h=1080",
-      "publishedAt": "2025-10-21T19:26:41Z",
-      "content": "A day ahead of Tesla's quarterly earnings report, a coalition of unions and corporate watchdogs wants investors to focus their attention on matters of governance.\r\nOn Tuesday, a group that includes t… [+4743 chars]"
     }
   ]
 }
