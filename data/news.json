@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T10:10:17.082Z",
+  "fetchedAt": "2025-10-23T10:41:07.807Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Caroline Haskins",
+      "title": "People Who Say They’re Experiencing AI Psychosis Beg the FTC for Help",
+      "description": "The Federal Trade Commission received 200 complaints mentioning ChatGPT between November 2022 and August 2025. Several attributed delusions, paranoia, and spiritual crises to the chatbot.",
+      "url": "https://www.wired.com/story/ftc-complaints-chatgpt-ai-psychosis/",
+      "urlToImage": "https://media.wired.com/photos/68f2bf3c63f7ddf18419e898/191:100/w_1280,c_limit/ChatGPT-Psychosis-Business-1329174119.jpg",
+      "publishedAt": "2025-10-22T10:30:00Z",
+      "content": "Eventually, they claimed that they came to believe that they were responsible for exposing murderers, and were about to be killed, arrested, or spiritually executed by an assassin. They also believed… [+2565 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Nvidia's homegrown memory design is almost standardized and ready for everyone to use — JEDEC says SOCAMM2 compact DRAM module for AI servers boasts higher speeds and broader compatibility",
+      "description": "JEDEC is finalizing the design of the SOCAMM2 physical interface, which boasts LPDDR5X support of up to 9600 MT/s. It also features an SPD profile, making it compatible with hardware manufacturers beyond Nvidia.",
+      "url": "https://www.tomshardware.com/pc-components/ram/nvidias-homegrown-memory-design-is-nearly-complete-and-standardized-jedec-says-socamm2-will-replace-the-bespoke-socamm1-standard-that-nvidia-created",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CuNV9UtKbEgVMZMiGK9sXD-1920-80.jpg",
+      "publishedAt": "2025-10-22T10:30:00Z",
+      "content": "SOCAMM2 is on track to become the definitive version of the SOCAMM standard very soon. JEDEC has announced that SOCAMM2's design is nearing completion and will take advantage of the same LPDDR5X memo… [+2546 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/yXsW2UWvUJ5reDqGmbcAsM-1920-80.jpg",
       "publishedAt": "2025-10-21T11:00:00Z",
       "content": "After getting AMD graphics cards to work on ARM-based MacBooks, TinyCorp has successfully ported its work to USB4/Thunderbolt 4 and built drivers to make Nvidia's RTX 30, 40, and 50 series graphics c… [+3285 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Yelp’s AI assistant can now scan restaurant menus to show you what dishes look like",
-      "description": "Yelp will now let you scan a physical menu show redirect bubbles to Yelp app where you can see how those dishes look.",
-      "url": "https://techcrunch.com/2025/10/21/yelps-ai-assistant-can-now-scan-restaurant-menus-to-show-you-what-dishes-look-like/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Yelp-Assistant-on-business-pages-Restaurant-full-flow.jpg?resize=1200,581",
-      "publishedAt": "2025-10-21T11:00:00Z",
-      "content": "Yelp is releasing multiple AI-powered updates Tuesday, including an updated AI assistant that can answer questions about restaurants, bars, local attractions, or retailers. The assistant can also sca… [+3199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Starlink and Muon fuse space lasers and satellites to deliver ‘industry-first’ persistent optical connectivity in orbit — will enable 25 Gbps data transfer at distances up to 4,000km",
-      "description": "Traditional comms satellites rely on intermittent links with ground stations, but Muon Halo satellites will stay continuously connected with integrated Starlink Mini lasers.",
-      "url": "https://www.tomshardware.com/networking/starlink-and-muon-fuse-space-lasers-and-satellites-to-deliver-industry-first-persistent-optical-connectivity-in-orbit-will-enable-25-gbps-data-transfer-at-distances-up-to-4-000km",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/w8iaHuGsQHTUdPVEJKG6yh-1920-80.jpg",
-      "publishedAt": "2025-10-21T11:00:00Z",
-      "content": "Muon Space has announced a partnership with Starlink to establish an “industry-first [of] persistent optical connectivity in orbit.” In an email to Tom’s Hardware, the company revealed that the agree… [+3058 chars]"
     }
   ]
 }
