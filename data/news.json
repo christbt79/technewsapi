@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T09:38:44.942Z",
+  "fetchedAt": "2025-10-23T10:10:17.082Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "More US capital flowing to Asia as dollar weakens: KKR",
+      "description": "US capital is increasingly flowing to Asia as the dollar weakens, with KKR identifying key investment themes in the region.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/kkr-says-more-investment-flowing-to-asia-from-us-as-dollar-slips",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/xwuhkm/article70149392.ece/alternates/LANDSCAPE_1200/IMG_BL_-_25_02_2019_-_18_2_1_SUDLKRNC.jpg",
+      "publishedAt": "2025-10-22T09:52:27Z",
+      "content": "Global investors with heavy US exposure are steadily shifting more capital to Asia as the dollar loses steam and the regions fundamentals shine, according to the co-chief executive officer of KKR &am… [+3454 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "OpenAI launches ChatGPT Atlas AI browser, LLM can browse the internet for you and even complete tasks — initial release for macOS, with Windows, iOS, and Android to follow soon after",
+      "description": "OpenAI just released its ChatGPT-powered AI browser, letting the LLM take over users' browsers and so staff on their behalf.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-launches-chatgpt-atlas-ai-browser-llm-can-browse-the-internet-for-you-and-even-complete-tasks-initial-release-for-macos-with-windows-ios-and-android-to-follow-soon-after",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qcbbwGZop3f8AaFCiYdcRW-2560-80.jpg",
+      "publishedAt": "2025-10-22T09:45:24Z",
+      "content": "OpenAI just announced a new AI-powered browser that integrates its ChatGPT LLM right into the app. During a livestream, the company unveiled ChatGPT Atlas, coming first to macOS, with Windows, iPhone… [+2181 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/w8iaHuGsQHTUdPVEJKG6yh-1920-80.jpg",
       "publishedAt": "2025-10-21T11:00:00Z",
       "content": "Muon Space has announced a partnership with Starlink to establish an “industry-first [of] persistent optical connectivity in orbit.” In an email to Tom’s Hardware, the company revealed that the agree… [+3058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "AMD's Krackan Point APUs tipped to arrive for desktop soon as Ryzen 9000G series — New AGESA code adds support for Ryzen AI 300 series in BIOS update",
-      "description": "AMD might be on the verge of refreshing its more-than-a-year-old desktop APU lineup, the Ryzen 8000G, with new Krackan Point SKUs lifted straight from mobile. These APUs are built on Zen 5 architecture, using RDNA 3.5 graphics, and will offer a big jump in pe…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-krackan-point-apus-tipped-to-arrive-for-desktop-soon-as-ryzen-9000g-series-new-agesa-code-adds-support-for-ryzen-ai-300-series-in-bios-update",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iTi2u9dxsJKv9h92p2sgiP-1920-80.jpg",
-      "publishedAt": "2025-10-21T10:30:00Z",
-      "content": "AMD debuted the Ryzen AI 300 series back at CES 2025 in January, and since then, various rumors have hinted that the mobile-only family might eventually expand into desktop. Today, we have our most c… [+5198 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Feds flag active exploitation of patched Windows SMB vuln",
-      "description": "CISA adds high-severity flaw to KEV list, urges swift updating Uncle Sam's cyber wardens have warned that a high-severity flaw in Microsoft's Windows SMB client is now being actively exploited – months after it was patched.…",
-      "url": "https://www.theregister.com/2025/10/21/cisa_windows_smb_bug/",
-      "urlToImage": "https://regmedia.co.uk/2018/08/28/shutterstock_689975659.jpg",
-      "publishedAt": "2025-10-21T10:27:10Z",
-      "content": "Uncle Sam's cyber wardens have warned that a high-severity flaw in Microsoft's Windows SMB client is now being actively exploited months after it was patched.\r\nThe bug, tracked as CVE-2025-33073, was… [+2508 chars]"
     }
   ]
 }
