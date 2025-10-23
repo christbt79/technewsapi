@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-23T15:09:57.650Z",
+  "fetchedAt": "2025-10-23T15:37:44.734Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Want to upskill in AI for free? Google has 3,000 new courses for you - and certificates to go with them",
+      "description": "With the new Google Skills online platform, you can sign up for different courses and labs to learn AI.",
+      "url": "https://www.zdnet.com/article/want-to-upskill-in-ai-for-free-google-has-3000-new-courses-for-you-and-certificates-to-go-with-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c05b4a587f4d7802e0eed2de0586798e9ef7d4e2/2025/10/22/66bfcfbb-bdd3-483d-901c-26abd9d45f6b/gettyimages-2166130918.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T15:37:17Z",
+      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Skills offers more than 3,000 classes in AI, many for free.</li><li>The… [+3999 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "GM is bringing Google Gemini-powered AI assistant to cars in 2026  | TechCrunch",
+      "description": "GM is the latest automaker to lean into generative AI-based assistants that promise to respond to driver requests in a more natural-sounding way. Stellantis is collaborating with French AI firm Mistral, Mercedes is integrating ChatGPT, and Tesla has brought x…",
+      "url": "https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+      "publishedAt": "2025-10-22T15:33:57Z",
+      "content": "General Motors will add a conversational AI assistant powered by Google Gemini to its cars, trucks, and SUVs starting next year, the U.S. automaker said Wednesday during an event in New York City. \r\n… [+4484 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "GM to introduce eyes-off, hands-off driving system in 2028  | TechCrunch",
+      "description": "GM said Cruise’s technology stack, including its AI models trained on five million driverless miles and simulation framework, feed directly into the automaker’s next-generation driver assistance and autonomy programs.",
+      "url": "https://techcrunch.com/2025/10/22/gm-to-introduce-eyes-off-hands-off-driving-system-in-2028/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GM-Cadillac-Escalade-IQL-eyes-off-driving.jpg?resize=1200,675",
+      "publishedAt": "2025-10-22T15:33:12Z",
+      "content": "General Motors said it plans to launch an automated driving system that will allow drivers to keep their eyes off the road and hands off the wheel in 2028, starting with the Cadillac Escalade IQ. \r\nT… [+3524 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Samsung takes on Apple's Vision Pro with new Galaxy XR headset | TechCrunch",
+      "description": "Samsung takes on Apple's Vision Pro with new Galaxy XR headset | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/22/samsung-takes-on-apples-vision-pro-with-new-galaxy-xr-headset/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/galaxy-xr.jpg?w=1000",
+      "publishedAt": "2025-10-22T15:30:54Z",
+      "content": "After months of speculation, Samsung has finally unveiled its Galaxy XR headset to take on Apple’s Vision Pro. The headset runs on Google’s Android XR operating system and Qualcomm’s Snapdragon XR2+ … [+2752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Grounded jet engines take off again as datacenter generators",
+      "description": "AI power demands drive operators to repurpose aircraft parts amid gas turbine shortages AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.…",
+      "url": "https://www.theregister.com/2025/10/22/datacenter_jet_engines/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/22/shutterstock_jetengine.jpg",
+      "publishedAt": "2025-10-22T15:30:13Z",
+      "content": "AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.\r\nThe rising demand for compute to… [+2739 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Several users reportedly complain to FTC that ChatGPT is causing psychological harm | TechCrunch",
+      "description": "At least seven people have complained to the U.S. Federal Trade Commission that ChatGPT caused them to experience severe delusions, paranoia and emotional crises, Wired reported.",
+      "url": "https://techcrunch.com/2025/10/22/several-users-reportedly-complain-to-ftc-that-chatgpt-is-causing-psychological-harm/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+      "publishedAt": "2025-10-22T15:17:42Z",
+      "content": "As AI companies claim their tech will one day grow to become a fundamental human right, and those backing them say slowing down AI development is akin to murder, the people using the tech are allegin… [+2413 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/bad1c36899fe5e60d683bbdeb49a78c8c7bdb7ea/2025/10/21/c46edd6e-e1ea-4143-99cc-578b9a8abe77/gettyimages-2212773352-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-21T16:15:56Z",
       "content": "akinbostanci/iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Tech professionals' concerns about layoffs have decreased.</li><li>At th… [+6722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "AWS outage turned smart homes into dumb boxes – and sysadmins into therapists",
-      "description": "Amazon's hours-long cloud blackout transformed the future of sleep into a sauna and cat care into chaos\nWhen Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps – it took down dignity, comfort, and the occasio…",
-      "url": "https://www.theregister.com/2025/10/21/aws_outage_aftermath/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/21/smart_home.jpg",
-      "publishedAt": "2025-10-21T16:05:04Z",
-      "content": "When Amazon's cloud face-planted on Monday, it didn't just take down some of the world's most popular apps it took down dignity, comfort, and the occasional cat toilet.\r\nThe AWS outage saw a long lis… [+3293 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zoë Schiffer, Louise Matsakis",
-      "title": "Forget SEO. Welcome to the World of Generative Engine Optimization",
-      "description": "This holiday season, more shoppers are expected to use chatbots to figure out what to buy. ‘Tis the season for GEO.",
-      "url": "https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/",
-      "urlToImage": "https://media.wired.com/photos/68f6a93ad0fc611fc4919adc/191:100/w_1280,c_limit/Model-Behavior-Santas-Helper-is-an-LLM-Business.jpg",
-      "publishedAt": "2025-10-21T16:00:00Z",
-      "content": "This holiday season, rather than searching on Google, more Americans will likely be turning to large language models to find gifts, deals, and sales. Retailers could see up to a 520 percent increase … [+2350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "After using M5 iPad Pro, I'm seriously considering putting away my MacBook for it",
-      "description": "The latest iPad Pro sees improvements across performance and connectivity, making it a worthy upgrade for older iPad users wanting more.",
-      "url": "https://www.zdnet.com/article/after-using-m5-ipad-pro-im-seriously-considering-putting-away-my-macbook-for-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2ed900915e290feaa4f8e0464c0289944eac2b96/2025/10/18/b434b73e-e809-42b3-bb69-e6634b5c88e3/5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T15:59:00Z",
-      "content": "Maria Diaz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The M5 iPad Pro is now available for purchase, starting at $999 for the 11-inch and $1,199 for … [+4833 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "YouTube’s likeness detection technology has officially launched",
-      "description": "YouTube's likeness detection technology is now available. Creators can request the removal of AI content using their face and voice.",
-      "url": "https://techcrunch.com/2025/10/21/youtubes-likeness-detection-technology-has-officially-launched/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449078-e1610399732853.jpg?resize=1200,631",
-      "publishedAt": "2025-10-21T15:57:18Z",
-      "content": "YouTube revealed on Tuesday that its likeness detection technology has officially rolled out to eligible creators in the YouTube Partner Program, following a pilot phase. The technology allows creato… [+2109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "Is PHP declining? JetBrains says yes. And no",
-      "description": "24,500 devs polled, two blog posts, one confusion\nJetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim that PHP and …",
-      "url": "https://www.theregister.com/2025/10/21/massive_jetbrains_dev_survey/",
-      "urlToImage": "https://regmedia.co.uk/2016/05/16/php_image_via_shutterstock.jpg",
-      "publishedAt": "2025-10-21T15:56:08Z",
-      "content": "JetBrains has released its State of the Developer Ecosystem survey, with more than 24,500 responses, revealing AI's impact on developer tools and programming language trends - including the claim tha… [+3374 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "WhatsApp and Messenger add new warnings to help older people avoid online scams",
-      "description": "WhatsApp will now warn users before sharing their screen with unknown contacts, and Messenger will flag suspicious messages using AI.",
-      "url": "https://techcrunch.com/2025/10/21/whatsapp-and-messenger-add-new-warnings-to-help-older-people-avoid-online-scams/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/elderly-adult-GettyImages-1390895748.jpg?resize=1200,800",
-      "publishedAt": "2025-10-21T15:50:56Z",
-      "content": "Meta on Tuesday introduced new scam detection features for its messaging apps, WhatsApp and Messenger, as part of its broader initiative to crack down on online scams that target older people. The co… [+3027 chars]"
     }
   ]
 }
