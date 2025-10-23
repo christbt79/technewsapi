@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-23T16:11:25.679Z",
+  "fetchedAt": "2025-10-23T16:43:41.674Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "AlmaLinux gives Btrfs a home after Red Hat kicked it out",
+      "description": "Not the default file system, but in the installer if you want it\nAlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.…",
+      "url": "https://www.theregister.com/2025/10/22/btrfs_almalinux/",
+      "urlToImage": "https://regmedia.co.uk/2021/07/21/shutterstock_cleaning_data.jpg",
+      "publishedAt": "2025-10-22T16:31:11Z",
+      "content": "AlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.\r\nWhile Red Hat deprecated Btrfs from Red Hat Enterprise Linux (RHEL) in 2017, the technology… [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Ring’s CEO says his cameras can almost ‘zero out crime’ within the next 12 months",
+      "description": "Jamie Siminoff has returned to Ring, the company he founded, with a renewed focus on its mission statement to \"Make neighborhoods safer.\" Talking to The Verge ahead of the release of his new book Ding Dong, Siminoff says he believes the new wave of AI could f…",
+      "url": "https://www.theverge.com/tech/804052/ring-jamie-siminoff-book-ding-dong-release-date-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Jamie-Siminoff-Headshot-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-22T16:26:01Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nRings CEO says his cameras can almost zero out crime within the next 12 months\r\nJamie Siminoffs new book, Ding Dong, charts how his video doorbell startup turned… [+9923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Cooler Master tells customer to dismantle 12v2x6 connector to fit Asus RTX 5070 Ti — customer service offers dubious advice that might not even fix issue",
+      "description": "Cooler Master recommends RTX 5070 Ti customers to modify their Cooler Master power supply's 12V-2x6 power cable to fit their graphics card. Turns out, the modification wouldn't have worked anyway.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/cooler-master-tells-customer-to-dismantle-12v2x6-connector-to-fit-asus-rtx-5070-ti-customer-service-offers-dubious-advice-that-might-not-even-fix-issue",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tK3RtxsuDiNjAexYKPUHNa-1920-80.jpg",
+      "publishedAt": "2025-10-22T16:23:39Z",
+      "content": "The 12V-2x6/12VHPWR power connector is already one of the most unreliable connector designs ever made for PCIe cards, even in optimal conditions. There's no telling what the connector might do if it'… [+3244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Big tech's AI acquisition frenzy isn't always the payday young startup workers dreamed about",
+      "description": "As big tech companies like Meta acquire AI startups, many employees are not receiving the cash-out riches they dreamed about, but a layoff instead.",
+      "url": "https://www.cnbc.com/2025/10/22/big-tech-ai-acquisition-layoffs-workers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215428-1761149726490-gettyimages-672160517-bld232365.jpeg?v=1761149748&w=1920&h=1080",
+      "publishedAt": "2025-10-22T16:20:12Z",
+      "content": "At around the same time Accenture announced its investment in data labeling startup Snorkel AI to power its financial services clients in August, the startup announced it was laying off about 13% of … [+5431 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Country music star Martina McBride's warning on 'terrifying' AI deepfake scam threat to artists and fans",
+      "description": "Artificial intelligence-generated deepfakes are threatening the livelihoods of musicians and creating scams that harm fans.",
+      "url": "https://www.cnbc.com/2025/10/22/ai-deepfakes-music-artists-careers-martina-mcbride.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214929-1761072002629-15OCT25_CNBC_JHRPHOTOS_2358.jpg?v=1761072123&w=1920&h=1080",
+      "publishedAt": "2025-10-22T16:17:25Z",
+      "content": "In May, country singer Martina McBride appeared before the Senate Judiciary Subcommittee on Privacy, Technology and the Law at a hearing to speak out against AI-generated deepfakes. Last week, she ex… [+2971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Sick of AI slop on Pinterest? Here's how to easily filter it out now",
+      "description": "Pinterest has a lot of AI content. Users took issue with that.",
+      "url": "https://www.zdnet.com/article/sick-of-ai-slop-on-pinterest-heres-how-to-easily-filter-it-out-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ca5380cc5ccf14bd393a02c4e3013062b929af14/2025/10/22/c2aa281b-a785-4386-b074-287c0d5d97d4/pinterest.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T16:16:02Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Pinterest users can now control how much AI content they see. </li><li>Users had c… [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft puts Office Online Server on the chopping block",
+      "description": "The end is nigh, now get thee to 365 Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.…",
+      "url": "https://www.theregister.com/2025/10/22/microsoft_office_online_server/",
+      "urlToImage": "https://regmedia.co.uk/2017/02/28/shutterstockaxe.jpg",
+      "publishedAt": "2025-10-22T16:14:12Z",
+      "content": "Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.\r\nThe… [+2348 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4006f8c65c858e2e301badf8b458a534c2480804/2025/10/21/b46bae16-0f79-4ba3-9cc7-44105490d398/dsc08372.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-21T17:00:36Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI spent my weekend doing three things: Raking in the last bit of leaves from my neighbor's neglected tree, being disappointed by the New York Gi… [+4703 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Luke Larsen",
-      "title": "Apple MacBook Pro (M5, 14-Inch) Review: More of the Same",
-      "description": "It's not as exciting as it once was, but the M5 MacBook Pro offers yet another breakthrough in performance.",
-      "url": "https://www.wired.com/review/apple-macbook-pro-m5-14-inch/",
-      "urlToImage": "https://media.wired.com/photos/68f69d5bbc18f7cc86077b9f/191:100/w_1280,c_limit/Review-%20Apple%20MacBook%20Pro%20(M5,%2014-Inch).png",
-      "publishedAt": "2025-10-21T17:00:00Z",
-      "content": "On the multi-core front, youre still getting a 10-core CPU, which matches the configuration of the M4 on the 14-inch MacBook Pro. So, if you want more multi-core performance, youll need to wait for t… [+2868 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Google Fi is getting AI-powered noise filters and RCS web messaging",
-      "description": "Google announced several upgrades and new features coming to its Google Fi Wireless phone plans, including an update to web calls and messages with a new interface that now fully supports RCS messaging so you can share high-quality photos and videos in messag…",
-      "url": "https://www.theverge.com/news/803542/google-fi-rcs-browser-messaging-ai-enhanced-audio",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-fi-logo.webp?quality=90&strip=all&crop=0%2C10.527397823525%2C100%2C78.945204352951&w=1200",
-      "publishedAt": "2025-10-21T16:54:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSubscribers will be able to send hi-res photos without their phones as RCS support comes to Google Messages for web.\r\nSubscribers will be able to send hi-res pho… [+2944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "5 free Linux distros built for speed and power - and your new PC",
-      "description": "Linux isn't just for older, sluggish hardware. These distros shine on new PCs too.",
-      "url": "https://www.zdnet.com/article/5-free-linux-distros-built-for-speed-and-power-and-your-new-pc/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c457b3a657557d1ee7a1f04fecf5119375d8d2/2025/10/21/528097af-ec12-4bde-89ad-76c5c3390e09/linux-distributions-that-are-best-suited-for-new-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T16:50:00Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are specific Linux distributions for newer hardware.</li><li>Thes… [+5514 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Serval raises $47 million to bring AI agents to IT service management | TechCrunch",
-      "description": "Serval is using agentic AI models to automate IT service management, but the company has a unique approach that takes advantage of agentic AI’s powers while avoiding many of its pitfalls.",
-      "url": "https://techcrunch.com/2025/10/21/serval-raises-47-million-to-bring-ai-agent-to-it-service-management/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Serval-co-founders.jpg?resize=1200,675",
-      "publishedAt": "2025-10-21T16:42:24Z",
-      "content": "Some startups pride themselves on having prestigious financial backers but just as important is having prestigious customers.\r\nIts one of the main points of pride for Serval, an enterprise AI company… [+2638 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Anthropic CEO claps back after Trump officials accuse firm of AI fear-mongering   | TechCrunch",
-      "description": "Amodei’s response comes after last week’s dogpiling on Anthropic from AI leaders and top members of the Trump administration, including AI czar David Sacks and White House senior policy advisor for AI Sriram Krishnan -- all accusing the AI giant of stoking fe…",
-      "url": "https://techcrunch.com/2025/10/21/anthropic-ceo-claps-back-after-trump-officials-accuse-firm-of-ai-fear-mongering/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/Dario.jpg?resize=1200,900",
-      "publishedAt": "2025-10-21T16:25:05Z",
-      "content": "Anthropic CEO Dario Amodei published a statement Tuesday to “set the record straight” on the company’s alignment with Trump administration AI policy, responding to what he called “a recent uptick in … [+4691 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Investor Lauren Taylor Wolfe says we are 'absolutely' in an A.I. bubble now",
-      "description": "Lauren Taylor Wolfe, co-founder of Impactive Capital, said the surge in enthusiasm around artificial intelligence has all the markings of a bubble.",
-      "url": "https://www.cnbc.com/2025/10/21/investor-lauren-taylor-wolfe-says-we-are-absolutely-in-an-ai-bubble-now.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105895017-1557161840782nup_186914_0327r.jpg?v=1557161962&w=1920&h=1080",
-      "publishedAt": "2025-10-21T16:21:21Z",
-      "content": "Lauren Taylor Wolfe, co-founder of activist investment firm Impactive Capital, said the surge in enthusiasm around artificial intelligence has all the markings of a bubble.\r\n\"We are absolutely in an … [+1991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Commercial real estate is finally embracing blockchain. Here's what investors should know",
-      "description": "Roughly $4 trillion of real estate will be tokenized by 2035, according to the Deloitte Center for Financial Services.",
-      "url": "https://www.cnbc.com/2025/10/21/commercial-real-estate-embracing-blockchain.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213587-1760714181743-gettyimages-1367507251-_dsc8484s.jpeg?v=1761046812&w=1920&h=1080",
-      "publishedAt": "2025-10-21T16:19:56Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4943 chars]"
     }
   ]
 }
