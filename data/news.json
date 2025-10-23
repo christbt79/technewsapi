@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-23T14:10:07.376Z",
+  "fetchedAt": "2025-10-23T14:42:05.860Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on Oct 27",
+      "description": "5 days left until TechCrunch Disrupt 2025 kicks off in San Francisco. Buy your pass to save up to $444, plus get 60% off a second ticket. Save now.",
+      "url": "https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
+      "publishedAt": "2025-10-22T14:30:00Z",
+      "content": "Only 5 days left until TechCrunch Disrupt 2025 takes over Moscone West in San Francisco, October 27 29, bringing together 10,000+ leaders, VCs, operators, and innovators shaping the future of tech.\r\n… [+2737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "Samsung's upcoming Galaxy S26 might fix the S25's biggest flaw - here's how",
+      "description": "Samsung's flagships are overdue for an overhaul. Here's all the Galaxy S26 rumors so far.",
+      "url": "https://www.zdnet.com/article/samsungs-upcoming-galaxy-s26-might-fix-the-s25s-biggest-flaw-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/35602b5c8dcfda7c80b95cd9b442a65111bcb88a/2025/01/24/5fb73f4d-0ca8-40a7-b45f-90ec04e05e82/dsc03764-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T14:29:45Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "I tested the Oakley Meta Vanguard on a 5-mile walk - here's how it beat my Ray-Bans",
+      "description": "These AI smart glasses pack utility and style like never before. Just watch out for their one big caveat.",
+      "url": "https://www.zdnet.com/article/i-tested-the-oakley-meta-vanguard-on-a-5-mile-walk-heres-how-it-beat-my-ray-bans/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a619f6fc2ae37f32ca59e3e0e50c3b4ae69104f9/2025/10/20/dd535848-b8ea-483f-851c-0041505930e5/dsc03181.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T14:28:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nMost athletic activities can benefit from hands-free assistance -- which makes athletes among the biggest beneficiaries from smart glasses. Cate… [+7938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Airbnb CEO Chesky says ChatGPT isn't 'quite robust enough' to integrate into travel app",
+      "description": "Airbnb CEO Brian Chesky wants to integrate ChatGPT software into the travel platform, but  the software isn't \"quite robust enough.\"",
+      "url": "https://www.cnbc.com/2025/10/22/airbnb-chatgpt-ai-chesky.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179064-17538861612025-05-22t123529z_1429119573_rc2ymeabd28p_rtrmadp_0_airbnb-france.jpeg?v=1753886191&w=1920&h=1080",
+      "publishedAt": "2025-10-22T14:25:15Z",
+      "content": "Airbnb CEO Brian Chesky said he wants to integrate ChatGPT artificial intelligence capabilities into the travel platform but the software isn't ready.\r\n\"The [software development kit] wasn't quite ro… [+1132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta lays off 600 employees within AI unit",
+      "description": "The cuts come as Meta has been pouring billions of dollars into AI",
+      "url": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157757-1749646265248-gettyimages-2170596450-ACQUIRED_LIVE_PODCAST.jpeg?v=1754623018&w=1920&h=1080",
+      "publishedAt": "2025-10-22T14:17:00Z",
+      "content": "Meta will lay off roughly 600 employees within its artificial intelligence unit as the company looks to reduce layers and operate more nimbly, a spokesperson confirmed to CNBC on Wednesday.\r\nThe comp… [+895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "UK competition cops brand Apple, Google with 'strategic market status' for mobile",
+      "description": "Designation hands CMA broad oversight of their app stores and platforms\nThe UK's competition watchdog has officially slapped Apple and Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to rein in how the tec…",
+      "url": "https://www.theregister.com/2025/10/22/google_apple_sms_uk/",
+      "urlToImage": "https://regmedia.co.uk/2023/05/24/shutterstock_google_play.jpg",
+      "publishedAt": "2025-10-22T14:11:09Z",
+      "content": "The UK's competition watchdog has officially slapped Apple and Google with \"strategic market status,\" a new legal label that gives the regulator far-reaching powers to rein in how the tech giants run… [+2756 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ycpR64TAirhxm7rKFpg2wW-2560-80.jpg",
       "publishedAt": "2025-10-21T14:01:56Z",
       "content": "The Vodafone Group and Vodafone Ukraine are set to work together in building a new undersea cable in the Black Sea that will connect Europe and Asia while bypassing Russia. According to The Express, … [+2776 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Albert Thomas",
-      "title": "Hyte X50 Case Review: rounded, colorful style meets excellent build quality",
-      "description": "Hyte’s X50 delivers excellent build quality paired with a unique choice of colors and aesthetics, plus a tool-free design.",
-      "url": "https://www.tomshardware.com/pc-components/pc-cases/hyte-x50-case-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/dhx85G5EoWkTtffh2C6ZUQ-2560-80.jpg",
-      "publishedAt": "2025-10-21T14:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.Hyte, a sibling bran… [+8578 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Only 6 days until TechCrunch Disrupt 2025 kicks off in San Francisco and ticket rates increase",
-      "description": "Less than 6 days until TechCrunch Disrupt 2025 takes over San Francisco’s Moscone West! The countdown is on for the year's biggest gathering of founders, investors, and innovators shaping the future of tech. Register here to save up to $444 on your pass, plus…",
-      "url": "https://techcrunch.com/2025/10/21/only-6-days-until-techcrunch-disrupt-2025-kicks-off-in-san-francisco-and-ticket-rates-increase/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_6Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-21T14:00:00Z",
-      "content": "Less than 6 days until TechCrunch Disrupt 2025 takes over San Franciscos Moscone West! The countdown is on for the years biggest gathering of founders, investors, and innovators shaping the future of… [+2640 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Got a shiny new PC? These 5 Linux distros are built for speed and power - and they're free",
-      "description": "Linux isn't just for older, sluggish hardware. These distros shine on new PCs too.",
-      "url": "https://www.zdnet.com/article/got-a-shiny-new-pc-these-5-linux-distros-are-built-for-speed-and-power-and-theyre-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c457b3a657557d1ee7a1f04fecf5119375d8d2/2025/10/21/528097af-ec12-4bde-89ad-76c5c3390e09/linux-distributions-that-are-best-suited-for-new-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T13:54:00Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are specific Linux distributions for newer hardware.</li><li>Thes… [+5514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Got a new PC? These 5 Linux distros are the perfect match - here's why",
-      "description": "Linux isn't just for older, sluggish hardware. These distros shine on new PCs too.",
-      "url": "https://www.zdnet.com/article/got-a-new-pc-these-5-linux-distros-are-the-perfect-match-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c457b3a657557d1ee7a1f04fecf5119375d8d2/2025/10/21/528097af-ec12-4bde-89ad-76c5c3390e09/linux-distributions-that-are-best-suited-for-new-hardware.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T13:45:01Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are specific Linux distributions for newer hardware.</li><li>Thes… [+5514 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "X is testing a pay-per-use pricing model for its API | TechCrunch",
-      "description": "Two years after revamping its developer programs and pricing, X is expanding the closed beta of a pay-per-use plan for its API to more developers.",
-      "url": "https://techcrunch.com/2025/10/21/x-is-testing-a-pay-per-use-pricing-model-for-its-api/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "publishedAt": "2025-10-21T13:28:50Z",
-      "content": "Two years after revamping its developer programs and pricing, X is expanding the closed beta of a pay-per-use plan for its API to more developers.\r\nThe social network is accepting applications from d… [+2173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Don’t make this ‘disrespectful’ mistake during meetings, says Jamie Dimon: ‘You get 100% of my attention'",
-      "description": "JPMorgan Chase CEO Jamie Dimon doesn't like when people are distracted by their devices during work meetings, he said at Fortune's Most Powerful Women Summit.",
-      "url": "https://www.cnbc.com/2025/10/21/jamie-dimon-checking-phone-tablet-in-meeting-is-disrespectful-mistake.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213163-1760638892230-gettyimages-2241014250-IMF_WORLD_BANK.jpeg?v=1760638927&w=1920&h=1080",
-      "publishedAt": "2025-10-21T13:05:01Z",
-      "content": "JPMorgan Chase CEO Jamie Dimon has a \"little management lesson\" for professionals when it comes to conducting meetings: Give everyone your full attention.\r\n\"If you have an iPad in front of me and it … [+3088 chars]"
     }
   ]
 }
