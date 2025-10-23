@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-23T00:43:15.233Z",
+  "fetchedAt": "2025-10-23T02:19:58.989Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "The Samsung Galaxy XR headset comes with $1,000 worth of freebies - here's what's included",
+      "description": "Samsung and Google are throwing in subscriptions to their premier streaming and AI services with the purchase of the latest XR headset.",
+      "url": "https://www.zdnet.com/article/the-samsung-galaxy-xr-headset-comes-with-1000-worth-of-freebies-heres-whats-included/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/303fcc4c4f0b2aad9934d519079e3a5e8013a874/2025/10/20/03345882-ae9f-4d64-b01b-30ff2e047c32/dsc08231.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T02:00:35Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Priced surprisingly low at $1,799, half the cost of Apple Vision Pro.</li><li>Includes \"The Expl… [+2848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Watch out, Meta: Samsung just confirmed its smart glasses plans (with some spicy hints)",
+      "description": "Samsung is about to enter the smart glasses market. Here's what was confirmed this week.",
+      "url": "https://www.zdnet.com/article/watch-out-meta-samsung-just-confirmed-its-smart-glasses-plans-with-some-spicy-hints/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3c5ef2f4e44afd83bddfbfc045fbcef36d03fd54/2025/05/21/38971c4c-d99e-4a9e-b71d-760c54aa7434/dsc00275.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T02:00:34Z",
+      "content": "ZDNET's Sabrina Ortiz wearing Android XR reference glasses at Google I/O. \r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>At Samsung's Galaxy … [+3741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "I tried the Samsung Galaxy XR headset, and here's how it'll coexist with smart glasses",
+      "description": "Samsung's $1,799 XR headset offers stunning spatialization, but hints at the power and utility of smart glasses.",
+      "url": "https://www.zdnet.com/article/i-tried-the-samsung-galaxy-xr-headset-and-heres-how-itll-coexist-with-smart-glasses/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5960e6108cf4ec9f524852c8749426b7da785e5f/2025/10/20/1f252325-b219-4063-aa9d-26d6fdbc8d6b/dsc08191.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T02:00:25Z",
+      "content": "ZDNET's Sabrina Ortiz demoing the Galaxy XR headset ahead of Unpacked.\r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nSamsung's Galaxy XR headset is finally real. After a ye… [+7948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Samsung and Google attempt to one-up Apple with AI-powered headset",
+      "description": "Samsung and Google see the Galaxy XR as a stepping stone to AI glasses they plan to launch in the future.",
+      "url": "https://www.cnbc.com/2025/10/21/samsung-google-galaxy-xr-headset-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214835-1761065236964-galaxy_xr_head_on_view.jpg?v=1761065243&w=1920&h=1080",
+      "publishedAt": "2025-10-22T02:00:01Z",
+      "content": "Samsung Galaxy XR Headset\r\nIt's been more than 17 years since the modern smartphone era began with the launch of the iPhone, and tech companies have been obsessed with trying to disrupt it ever since… [+5003 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Anthropic, Google discuss major cloud pact to boost AI computing power",
+      "description": "Anthropic is in talks with Google for a cloud deal worth tens of billions, as the AI startup seeks more computing power to expand its Claude AI models.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/anthropic-google-in-talks-on-cloud-deal-worth-tens-of-billions",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/rcydds/article70171381.ece/alternates/LANDSCAPE_1200/PO02_Partnership.jpg",
+      "publishedAt": "2025-10-22T01:53:53Z",
+      "content": "Anthropic PBC is in discussions with Alphabet Inc.s Google about a deal that would provide the artificial intelligence company with additional computing power valued in the high tens of billions of d… [+1958 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Satya Nadella’s pay jumps to $96.5 million as Microsoft rides AI boom",
+      "description": "Other top executives, including CFO Amy Hood and Commercial Chief Judson Althoff, also saw pay hikes as Microsoft shares rose 23% this year, driven by strong Azure cloud and AI growth",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-21/microsoft-ceo-gets-96-million-pay-package-on-exceptional-year",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/1ovcic/article70188631.ece/alternates/LANDSCAPE_1200/2025-07-30T163530Z_1113338023_RC24V7ARRBTW_RTRMADP_3_MICROSOFT-RESULTS.JPG",
+      "publishedAt": "2025-10-22T01:37:48Z",
+      "content": "Microsoft Corp. Chief Executive Officer Satya Nadellas pay package jumped to $96.5 million for fiscal 2025, his highest compensation since he became CEO more than a decade ago, with the board citing … [+1144 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Tomas-Okmanas-nexos-2-e1737037636521.jpg?resize=1200,676",
       "publishedAt": "2025-10-21T06:02:45Z",
       "content": "For most enterprise companies, AI is either a promise that has yet to deliver or a security risk. The effort of Lithuania’s most famous entrepreneur duo to solve that conundrum has garnered attention… [+4082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Alibaba reveals 82 percent GPU resource savings – but this is no DeepSeek moment",
-      "description": "Better scheduling and resource-sharing for inferencing workloads using multiple models, not a training breakthrough\nChinese tech giant Alibaba has published a paper detailing scheduling tech it has used to achieve impressive utilization improvements across th…",
-      "url": "https://www.theregister.com/2025/10/21/alibaba_aegaeon_gpu_scheduling_improvements/",
-      "urlToImage": "https://regmedia.co.uk/2024/06/27/shutterstock_editorial_only_alibaba_cloud_.jpg",
-      "publishedAt": "2025-10-21T04:04:42Z",
-      "content": "Chinese tech giant Alibaba has published a paper detailing scheduling tech it has used to achieve impressive utilization improvements across the GPU fleet it uses to power inferencing workloads which… [+2921 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tage Kene-okafor",
-      "title": "YC alum Cercli, an AI-powered Rippling for MENA, raises oversubscribed $12M Series A | TechCrunch",
-      "description": "This YC HR startup grew its revenue 10x to close a $12M Series A just a year after raising $4M in seed, buoyed by its AI-native capabilities.",
-      "url": "https://techcrunch.com/2025/10/20/yc-alum-cercli-an-ai-powered-rippling-for-mena-raises-oversubscribed-12m-series-a/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2371.jpeg?w=1170",
-      "publishedAt": "2025-10-21T04:03:29Z",
-      "content": "In a region long defined by fragmented enterprise systems, outdated compliance tools, and HR software that rarely talks to finance, Cercli is building a unified alternative for MENA businesses with A… [+4023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "ASML launches revolutionary lithography scanner for advanced 3D chip packaging — Twinscan XT:360 machine quadruples throughput",
-      "description": "ASML has introduced the Twinscan XT:260, the industry's first lithography scanner designed specifically for advanced 3D packaging, wedding front-end precision with back-end productivity to quadruple throughput, marking a new era of tools purpose-built for het…",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-launches-revolutionary-lithography-scanner-for-advanced-3d-packaging-twinscan-xt-360-machine-quadruples-throughput",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8eCnfLfJ5P9sFaUFPBmbd-1920-80.jpg",
-      "publishedAt": "2025-10-21T02:19:03Z",
-      "content": "Last week, ASML introduced the Twinscan XT:260 lithography scanner, the industry's first scanner that has been designed from the ground up for advanced 3D packaging, marking a new era in fab tools.\r\n… [+6838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Everyone thinks AI will transform their business - but only 13% are making it happen",
-      "description": "Despite lofty ambitions, few business leaders believe their organizations have the infrastructure to embrace AI.",
-      "url": "https://www.zdnet.com/article/everyone-thinks-ai-will-transform-their-business-but-only-13-are-making-it-happen/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/20dead82e6d788419575b5f355325f96cf30be38/2025/10/20/10a76df4-9016-444f-af90-c004d6dd409f/gettyimages-2224949824.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T02:00:32Z",
-      "content": "Vertigo3d/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>Most businesses expect AI will cause profound internal chan… [+4049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "AI wins Imitation Game: Readers prefer Fanfic written by ChatGPT",
-      "description": "Shall I refer thee to all those lawsuits about fair use? Researchers think this result makes them worth revisiting\nReaders of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after develo…",
-      "url": "https://www.theregister.com/2025/10/21/ai_wins_imitation_game_readers/",
-      "urlToImage": "https://regmedia.co.uk/2024/11/15/shutterstock_nerdpoem.jpg",
-      "publishedAt": "2025-10-21T00:47:59Z",
-      "content": "Readers of texts created to use the styles of famous authors prefer works written by AI to human human-written imitations, but only after developers fine-tune AI models to understand an authors outpu… [+6194 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously",
-      "description": "Actors, studios, agents, and the actors union SAG-AFTRA have all expressed their concerns about appearing in Sora 2’s AI-generated videos ever since the deepfake machine was released last month. Now a joint statement from actor Bryan Cranston, OpenAI, the uni…",
-      "url": "https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-21T00:14:57Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Breaking Bad actor never opted in to appear on OpenAIs video sharing app Sora, yet videos of him definitely showed up. \r\nThe Breaking Bad actor never opted i… [+3232 chars]"
     }
   ]
 }
