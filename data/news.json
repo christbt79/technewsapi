@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-22T23:31:25.316Z",
+  "fetchedAt": "2025-10-23T00:43:15.233Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "If these OnePlus 15 rumors are true, I'm worried for Samsung and Google in 2026",
+      "description": "The OnePlus 15 is rumored to have a spec sheet for the ages. Here's to hoping that all gels together at release.",
+      "url": "https://www.zdnet.com/article/if-these-oneplus-15-rumors-are-true-im-worried-for-samsung-and-google-in-2026/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T00:39:09Z",
+      "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The OnePlus 15 is launching in China soon, and most specs may carry over to the US.</li><li>Rumors… [+5758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "OpenAI releases bot-tom feeding browser with ChatGPT built in",
+      "description": "Why experience the web for yourself when there's so much privacy to surrender?\nIn a bid to grab even more eyeballs, OpenAI has finally released Atlas, its long-teased, ChatGPT-powered web browser. Surfing the web may never be the same now that a bot is doing …",
+      "url": "https://www.theregister.com/2025/10/22/openai_crams_chatgpt_into_atlas/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/21/chatgpt.jpg",
+      "publishedAt": "2025-10-22T00:11:05Z",
+      "content": "In a bid to grab even more eyeballs, OpenAI has finally released Atlas, its long-teased, ChatGPT-powered web browser. Surfing the web may never be the same now that a bot is doing it for you while tr… [+5861 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-21T00:14:57Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Breaking Bad actor never opted in to appear on OpenAIs video sharing app Sora, yet videos of him definitely showed up. \r\nThe Breaking Bad actor never opted i… [+3232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Pia Singh",
-      "title": "Stock market today: Live updates",
-      "description": "Wall Street digested a slew of earnings results and took a breather following a rally in the previous session.",
-      "url": "https://www.cnbc.com/2025/10/20/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214417-1760993164504-gettyimages-2242244667-anotherday131721940_uaihdhaz.jpeg?v=1760993219&w=1920&h=1080",
-      "publishedAt": "2025-10-20T23:10:05Z",
-      "content": "Stock futures were relatively unchanged on Tuesday as investors digested a slew of earnings results and took a breather following a rally in the previous session.\r\nFutures tied to the Dow Jones Indus… [+3599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jim Cramer says Apple's rally to a record shows why you should hold, not sell, the stock",
-      "description": "Apple's stock hits a record high as Jim Cramer tells investors to hold, citing strong iPhone demand, services growth and market momentum.",
-      "url": "https://www.cnbc.com/2025/10/20/cramer-apple-rally-stock.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198446-1757713945036-Image_from_iOS_4.jpg?v=1757715778&w=1920&h=1080",
-      "publishedAt": "2025-10-20T22:39:33Z",
-      "content": "CNBC's Jim Cramer said Monday that Apple's latest surge, up nearly 9.95 points or about 4%, underscores why investors should own the stock rather than try to trade it and why the broader market follo… [+2689 chars]"
     }
   ]
 }
