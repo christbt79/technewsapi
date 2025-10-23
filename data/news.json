@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-23T08:45:11.264Z",
+  "fetchedAt": "2025-10-23T09:10:45.158Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Data centers turn to commercial aircraft jet engines bolted onto trailers as AI power crunch bites — cast-off turbines generate up to 48 MW of electricity apiece",
+      "description": "Faced with multi-year delays to secure grid power, US data center operators are deploying aeroderivative gas turbines to keep AI infrastructure online.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SNparuUYnM5PjH5MyZAkDa-1053-80.png",
+      "publishedAt": "2025-10-22T09:00:00Z",
+      "content": "Faced with multi-year delays to secure grid power, US data center operators are deploying aeroderivative gas turbines — effectively retired commercial aircraft engines bolted into trailers — to keep … [+2616 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/GYAo7NfGFYA6PyBFCMkmDe-2560-80.jpg",
       "publishedAt": "2025-10-21T09:30:00Z",
       "content": "A research team at Stanford University has engineered a new approach to handling the thermal bottleneck of RF transistor by using diamonds. By wrapping transistors in an integrated diamond layer, gro… [+4133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Mary-Ann Russon",
-      "title": "A shot in the dark: Can malware vaccines stop ransomware's rampage?",
-      "description": "Security pros explore whether infection-spoofing code can immunize Windows systems against attack\nFeature What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given …",
-      "url": "https://www.theregister.com/2025/10/21/malware_vaccines/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/15/cybersecurity_vaccine.jpg",
-      "publishedAt": "2025-10-21T09:04:01Z",
-      "content": "Feature What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escal… [+12281 chars]"
     }
   ]
 }
