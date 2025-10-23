@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-23T05:09:37.113Z",
+  "fetchedAt": "2025-10-23T05:38:18.472Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Over 800 public figures, including Apple co-founder Steve Wozniak and Virgin's Richard Branson urge AI ‘superintelligence’ ban",
+      "description": "A group of prominent figures, including artificial intelligence heavyweights, have called for an end to efforts to create ‘superintelligence.'",
+      "url": "https://www.cnbc.com/2025/10/22/800-petition-signatures-apple-steve-wozniak-and-virgin-richard-branson-superintelligence-race.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214997-1761078222031-gettyimages-1412458280-business444.jpeg?v=1761078319&w=1920&h=1080",
+      "publishedAt": "2025-10-22T05:36:40Z",
+      "content": "A group of prominent figures, including artificial intelligence and technology experts, has called for an end to efforts to create 'superintelligence' a form of AI that would surpass human intellect.… [+1970 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061926-1731452752418-intrator_3.png?v=1731452811&w=1920&h=1080",
       "publishedAt": "2025-10-21T07:33:02Z",
       "content": "CoreWeave CEO Michael Intrator told CNBC Tuesday that the firm's proposed acquisition of Core Scientific would be a \"nice to have\" rather than a necessity as shareholders prepare to potentially block… [+2221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "How much RAM do you need in 2025? My expert advice for Windows and Mac users",
-      "description": "Considering upgrading your slow PC? Wondering how much RAM is enough? Here's what you need to know.",
-      "url": "https://www.zdnet.com/article/how-much-ram-do-you-need-in-2025-my-expert-advice-for-windows-and-mac-users/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/96398b6da616709b6743a81a2619540e159e0acb/2025/08/27/b0701b35-1458-402c-a18b-4c35bec568d6/img-3635.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T07:30:35Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>RAM allows computers run fast and optimally.</li><li>16GB is now the standard for PCs and laptop… [+6668 chars]"
     }
   ]
 }
