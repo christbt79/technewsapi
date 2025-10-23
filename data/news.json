@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T09:10:45.158Z",
+  "fetchedAt": "2025-10-23T09:38:44.942Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "China supercomputer breakthrough models complex quantum chemistry at molecular scale — 37 million processor cores fuse AI and quantum science",
+      "description": "Chinese researchers used the Oceanlite supercomputer and a custom NNQS model to simulate molecular systems with 120 spin orbitals.",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-supercomputer-breakthrough-models-complex-quantum-chemistry-at-molecular-scale-37-million-processor-cores-fuse-ai-and-quantum-science",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RE8o4v8CYitxoGAJXmpV9U-1920-80.jpg",
+      "publishedAt": "2025-10-22T09:33:12Z",
+      "content": "Normally, simulations for scientific research are performed on supercomputers as they require tremendous compute throughput. There are also types of research — such as simulation of quantum behavior … [+4045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Chinese companies unveil a swathe of breakthrough chipmaking innovations at tradeshow — chipmaking lithography tools, software design tools, and resists all on display as the nation pursues self-sufficiency",
+      "description": "At Shenzhen’s WeSemiBay Expo, Huawei-backed SiCarrier and SMEE spinoff Amies Technologies unveiled new chipmaking tools, EDA software, and EUV-grade materials, as China doubles down on semiconductor self-sufficiency.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-companies-unveil-a-swathe-of-breakthrough-chipmaking-innovations-at-tradeshow-chipmaking-lithography-tools-software-design-tools-and-resists-all-on-display-as-the-nation-pursues-self-sufficiency",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LTqF8sjh9Bnxr3U8JtH3Y-2560-80.jpg",
+      "publishedAt": "2025-10-22T09:30:00Z",
+      "content": "A number of Chinese companies introduced their semiconductor-related innovations at the ongoing WeSemiBay Semiconductor Ecosystem Expo in Shenzhen, China. Amies Technologies, a spinoff from Shanghai … [+2891 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2018/08/28/shutterstock_689975659.jpg",
       "publishedAt": "2025-10-21T10:27:10Z",
       "content": "Uncle Sam's cyber wardens have warned that a high-severity flaw in Microsoft's Windows SMB client is now being actively exploited months after it was patched.\r\nThe bug, tracked as CVE-2025-33073, was… [+2508 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Anderson",
-      "title": "Trust the AI, says new coding manifesto by Kim and Yegge",
-      "description": "DevOps guru and ex-Googler say vibes beat reading diffs but there are risks \"Accept All. Always. Don't read the diffs anymore.\"…",
-      "url": "https://www.theregister.com/2025/10/21/book_review_vibe_coding/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/20/vibecoding.jpg",
-      "publishedAt": "2025-10-21T09:45:06Z",
-      "content": "\"Accept All. Always. Don't read the diffs anymore.\"\r\nThis is OpenAI co-founder Andrej Karpathy's vision of \"vibe coding\" as he described on X in February a new approach where developers surrender con… [+5192 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Sunny Grimm",
-      "title": "'Diamond blanket' transistor cooling method delivers incredible success in testing, drops temps by 70C — micrometer-scale diamond layer grown directly on transistors reduces heat by 90%",
-      "description": "A team at Stanford University has developed a new method of printing a micrometer-thin diamond layer directly onto semiconductors, directly coating transistors with incredible thermal dissipation. The Stanford team expects the tech to reach the U.S. governmen…",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/diamond-blanket-transistor-cooling-method-sees-incredible-success-in-testing-growing-micrometer-scale-diamond-layer-directly-on-transistors-drops-temps-by-70-c",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GYAo7NfGFYA6PyBFCMkmDe-2560-80.jpg",
-      "publishedAt": "2025-10-21T09:30:00Z",
-      "content": "A research team at Stanford University has engineered a new approach to handling the thermal bottleneck of RF transistor by using diamonds. By wrapping transistors in an integrated diamond layer, gro… [+4133 chars]"
     }
   ]
 }
