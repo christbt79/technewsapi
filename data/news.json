@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-23T06:47:15.826Z",
+  "fetchedAt": "2025-10-23T07:09:58.511Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's The China Connection newsletter: Losing the Chinese shopper could soon have global consequences",
+      "description": "Apple and other Western brands are still trying hard to reach Chinese shoppers as the Singles Day promotional period gets under way.",
+      "url": "https://www.cnbc.com/2025/10/22/losing-the-chinese-shopper-could-soon-have-global-consequences.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214516-1761112783604-File.jpg?v=1761112834&w=1920&h=1080",
+      "publishedAt": "2025-10-22T06:55:59Z",
+      "content": "Apple CEO Tim Cook met with Labubu artist Kasing Lung during a trip to China in Oct. 2025, as pictured here on the iPhone company's official Xiaohongshu account.\r\nThis report is from this week's CNBC… [+9127 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/09/20/trust_shutterstock.jpg",
       "publishedAt": "2025-10-21T08:00:14Z",
       "content": "Partner Content Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But while these efforts are critical, they … [+4764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CoreWeave CEO says Core Scientific 'not a need to have' as shareholder opposition to deal rises",
-      "description": "Shareholders have raised opposition to CoreWeave's acquisition of Core Scientific saying the price is too low.",
-      "url": "https://www.cnbc.com/2025/10/21/coreweave-ceo-on-core-scientific-deal-as-shareholder-opposition-rises.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061926-1731452752418-intrator_3.png?v=1731452811&w=1920&h=1080",
-      "publishedAt": "2025-10-21T07:33:02Z",
-      "content": "CoreWeave CEO Michael Intrator told CNBC Tuesday that the firm's proposed acquisition of Core Scientific would be a \"nice to have\" rather than a necessity as shareholders prepare to potentially block… [+2221 chars]"
     }
   ]
 }
