@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-23T11:08:18.904Z",
+  "fetchedAt": "2025-10-23T11:32:15.599Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "AI bubble inflates Microsoft CEO pay to $96.5M",
+      "description": "480:1 ratio compared to average employee? Must be all that 'leadership' juice\nMonths after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.…",
+      "url": "https://www.theregister.com/2025/10/22/microsoft_nadella_pay/",
+      "urlToImage": "https://regmedia.co.uk/2015/02/05/nadella_wall.jpg",
+      "publishedAt": "2025-10-22T11:23:12Z",
+      "content": "Months after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.\r\nThe chairman and chief… [+2999 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-1732217960.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-21T11:11:19Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nJob losses could shave 30 cents off each item purchased by 2027.\r\nJob losses could shave 30 cents off each item purchased by 2027.\r\nby\r\nJess WeatherbedClose\r\nJes… [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "Apple MacBook successfully runs an Nvidia GPU through USB4 using an external GPU docking station - Tiny Corp's coding wizardry unlocks Mac+Nvidia magic",
-      "description": "AI-startup TinyCorp has successfully created Nvidia drivers for ARM-powered MacBooks that make them compatible with RTX 30-50 series GPUs through USB4 docking stations.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/tiny-corp-successfully-runs-an-nvidia-gpu-on-arm-macbook-through-usb4-using-an-external-gpu-docking-station",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yXsW2UWvUJ5reDqGmbcAsM-1920-80.jpg",
-      "publishedAt": "2025-10-21T11:00:00Z",
-      "content": "After getting AMD graphics cards to work on ARM-based MacBooks, TinyCorp has successfully ported its work to USB4/Thunderbolt 4 and built drivers to make Nvidia's RTX 30, 40, and 50 series graphics c… [+3285 chars]"
     }
   ]
 }
