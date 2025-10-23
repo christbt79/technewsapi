@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T19:07:41.633Z",
+  "fetchedAt": "2025-10-23T19:31:23.705Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Wyze’s budget-friendly video doorbell gets a six-month battery",
+      "description": "Wyze has announced a new budget-friendly doorbell camera. The Wyze Battery Video Doorbell looks similar to the Video Doorbell v2 the brand released in 2023, but as the name implies, it adds a rechargeable battery so it’s easier to install without the need for…",
+      "url": "https://www.theverge.com/news/804394/wyze-battery-video-doorbell-security-camera",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/wyze_doorbell_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-22T19:14:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Wyze Battery Video Doorbell also offers a wider field of view, letting you see packages leaning against your door.\r\nThe Wyze Battery Video Doorbell also offe… [+4407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump administration port fees slam shipper with $34 million tariff bill: \"A lot of shaking of heads,\" says shocked U.S. freight CEO",
+      "description": "Last-minute changes by President Trump's USTR to new port fees have stuck one U.S.-based ocean carrier with an estimated $34 million annual tariff bill.",
+      "url": "https://www.cnbc.com/2025/10/22/new-trump-port-fees-slam-us-freight-ship-owner-34-million-tariff-bill.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215414-1761148855181-ACL_VESSEL.jpg?v=1761159763&w=1920&h=1080",
+      "publishedAt": "2025-10-22T19:09:20Z",
+      "content": "Last-minute changes to new port fees enacted by the Trump administration's U.S. Trade Representative have stuck one U.S.-based ocean carrier with an estimated annual tariff bill of $34 million, after… [+5380 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Moohan_Vee.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-21T20:50:50Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAt $1,799 and with an impressive subscription bundle, Samsung is aggressively taking shots at the Vision Pro.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSenior Revi… [+8053 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Cloudflare CEO Matthew Prince is pushing UK regulator to unbundle Google's search and AI crawlers | TechCrunch",
-      "description": "Cloudflare CEO Matthew Prince is urging regulators to rein in Google’s AI practices, arguing the tech giant’s dominance in search gives it an unfair edge in the AI race.",
-      "url": "https://techcrunch.com/2025/10/21/cloudflare-ceo-matthew-prince-is-pushing-uk-regulator-to-unbundle-googles-search-and-ai-crawlers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/videoframe_402382.png?resize=1200,675",
-      "publishedAt": "2025-10-21T20:39:49Z",
-      "content": "After earlier this year launching a marketplace that allows websites to charge AI bots for scraping their content, web infrastructure provider Cloudflare is pushing for increased regulation in the AI… [+3662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "AI eats leisure time, makes employees work more, study finds",
-      "description": "Rise and grind, robot overlords demand\nAI services like OpenAI's ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.…",
-      "url": "https://www.theregister.com/2025/10/21/ai_eats_leisure_time/",
-      "urlToImage": "https://regmedia.co.uk/2019/11/05/shutterstock_overload.jpg",
-      "publishedAt": "2025-10-21T20:35:59Z",
-      "content": "AI services like OpenAI's ChatGPT have been pitched for potential productivity gains, but their effect has been to make people work more while benefiting less from their labor.\r\nIn a research paper t… [+4030 chars]"
     }
   ]
 }
