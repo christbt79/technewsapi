@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-23T07:35:16.523Z",
+  "fetchedAt": "2025-10-23T08:13:24.979Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "As an audiophile, these $100 headphones get my seal of approval - here's why",
+      "description": "Baseus' Inspire XH1 headphones sound a lot better than their price would suggest.",
+      "url": "https://www.zdnet.com/article/as-an-audiophile-these-100-headphones-get-my-seal-of-approval-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/40bc131f4944464b716a57d2afd0c3772fcd4899/2025/10/21/c16fad4d-ec72-475e-8694-bce36ee9fd90/xh1case.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T08:10:31Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs a big fan of classical music, I understand that despite what you may think, it doesn't sound good in any old headphones, regardless of price.… [+4969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I'm an audiophile, and these $100 headphones get my seal of approval - here's why",
+      "description": "Baseus' Inspire XH1 headphones sound a lot better than their price would suggest.",
+      "url": "https://www.zdnet.com/article/im-an-audiophile-and-these-100-headphones-get-my-seal-of-approval-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/40bc131f4944464b716a57d2afd0c3772fcd4899/2025/10/21/c16fad4d-ec72-475e-8694-bce36ee9fd90/xh1case.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-22T08:10:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs a big fan of classical music, I understand that despite what you may think, it doesn't sound good in any old headphones, regardless of price.… [+4969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Carnegie Mellon team claims vector-based system can turbocharge PostgreSQL",
+      "description": "Researchers say 'Proto-X' fine-tunes databases automatically, delivering multifold performance boosts\nAutomated database systems based on vector embedding algorithms could improve the performance of default settings on common PostgreSQL database services by a…",
+      "url": "https://www.theregister.com/2025/10/22/cmu_proto_x_postgres/",
+      "urlToImage": "https://regmedia.co.uk/2022/11/09/shutterstock_engine_tuning.jpg",
+      "publishedAt": "2025-10-22T08:00:05Z",
+      "content": "Automated database systems based on vector embedding algorithms could improve the performance of default settings on common PostgreSQL database services by a factor of two to ten, according to a data… [+4867 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/15/cybersecurity_vaccine.jpg",
       "publishedAt": "2025-10-21T09:04:01Z",
       "content": "Feature What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escal… [+12281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "What Bill Gates really said about AI replacing coding jobs",
-      "description": "Everyone's quoting Bill Gates saying AI can't replace programmers - but he never actually said that. Here's what he really said, and what it means for your tech career.",
-      "url": "https://www.zdnet.com/article/what-bill-gates-really-said-about-ai-replacing-coding-jobs/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/26610cbfa665166d2afb6cc1ba0c0af90dbde7b5/2025/10/20/513055fa-ce67-400e-8e15-aea2b21158e0/cleanshot-2025-10-19-at-20-19-212x.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-21T09:00:36Z",
-      "content": "Axelle/Bauer-Griffin / Contributor/FilmMagic via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Bill Gates acknowledges AI can impact coding jobs.</li><l… [+12293 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Trump says Intel has made a 'fortune' and America has made $40 billion after the US invested in ailing chipmaker — Intel has gained $73 billion in market cap since investment",
-      "description": "The U.S. government’s 10% stake in Intel, acquired in August, transformed a struggling chipmaker's fortunes into a $73 billion market share uptick while reinforcing America's national security and industrial sovereignty.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-has-gained-usd73-billion-in-market-cap-since-u-s-government-investment-trump-says-the-deal-is-a-major-win",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/KiJGR8WJv72p6G8Qcysneb-1920-80.jpg",
-      "publishedAt": "2025-10-21T09:00:00Z",
-      "content": "When the U.S. government procured a 10% stake in Intel back in late August, it was a major win for Intel as it represented an investment from America, the importance of which cannot be overstated. At… [+3840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brian Marvin, GVP EMEA, Zscaler",
-      "title": "Zero Trust Everywhere: a new era in cybersecurity for European organizations",
-      "description": "Zero trust is the best kind of trust when it comes to securing your organization, says ZScaler Partner Content  Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But whi…",
-      "url": "https://www.theregister.com/2025/10/21/zero_trust_everywhere_new/",
-      "urlToImage": "https://regmedia.co.uk/2023/09/20/trust_shutterstock.jpg",
-      "publishedAt": "2025-10-21T08:00:14Z",
-      "content": "Partner Content Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But while these efforts are critical, they … [+4764 chars]"
     }
   ]
 }
