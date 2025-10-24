@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-24T10:41:21.914Z",
+  "fetchedAt": "2025-10-24T11:08:26.896Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Boeing names a Mandarin-speaking, ex-white house advisor as its new China president",
+      "description": "Boeing has been caught in the crosshairs of U.S.-China tensions and increasingly been treated as a bargaining chip in the long-running negotiations.",
+      "url": "https://www.cnbc.com/2025/10/23/boeing-names-mandarin-speaking-ex-white-house-advisor-china-president.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215796-1761208862633-gettyimages-1240750907-NEW_ECONOMY_GATEWAY.jpeg?v=1761208894&w=1920&h=1080",
+      "publishedAt": "2025-10-23T10:59:21Z",
+      "content": "Boeing named Landon Loomis, a Mandarin speaker and former White House adviser, as the new president of Boeing China, counting on his deep experiences in Beijing to steady the planemaker's position as… [+2932 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Alibaba prices AI glasses at $660 to rival Meta and launches ChatGPT challenger",
+      "description": "The Quark AI glasses and chatbot product highlight an increasing area of focus for Alibaba — AI that is aimed at consumers.",
+      "url": "https://www.cnbc.com/2025/10/23/alibaba-prices-ai-glasses-at-660-and-launches-chatgpt-rival.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
+      "publishedAt": "2025-10-23T10:45:05Z",
+      "content": "Alibaba on Thursday announced pricing for its upcoming artificial intelligence glasses and launched a new chatbot powered by its latest AI models.\r\nThe Chinese technology giant said the Quark AI Glas… [+2202 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1761082154&w=1920&h=1080",
       "publishedAt": "2025-10-22T11:47:33Z",
       "content": "Marc Benioff, chief executive officer of Salesforce Inc., speaks during the 2025 Dreamforce conference in San Francisco, California, US, on Tuesday, Oct. 14, 2025. \r\nJPMorgan Chase and Goldman Sachs … [+7159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "I let ChatGPT Atlas do my Walmart shopping for me - here's how the AI browser agent did",
-      "description": "With Agent mode, Atlas can take control of your browser tabs to shop, click, and perform tasks. So I tried it to see how well it works.",
-      "url": "https://www.zdnet.com/article/i-let-chatgpt-atlas-do-my-walmart-shopping-for-me-heres-how-the-ai-browser-agent-did/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/20d7fa30ffe1d04f2e72c4ab8b32b9b9743260b4/2025/10/21/94081aa7-3766-413e-b2bc-027955f81976/5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T11:46:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI's Atlas browser is here for Mac users, with Agent mode.</li><li>Agent naviga… [+5756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Paul Kunert",
-      "title": "AI bubble inflates Microsoft CEO pay to $96.5M",
-      "description": "480:1 ratio compared to average employee? Must be all that 'leadership' juice\nMonths after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.…",
-      "url": "https://www.theregister.com/2025/10/22/microsoft_nadella_pay/",
-      "urlToImage": "https://regmedia.co.uk/2015/02/05/nadella_wall.jpg",
-      "publishedAt": "2025-10-22T11:23:12Z",
-      "content": "Months after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.\r\nThe chairman and chief… [+2999 chars]"
     }
   ]
 }
