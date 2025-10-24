@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-24T00:40:14.569Z",
+  "fetchedAt": "2025-10-24T02:15:52.835Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "IBM renting GPUs from rivals rather than packing ‘em into its own cloud",
+      "description": "Infra revenue soars and AI helps everything … except the share price If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own “Project Bob” developer assistance tools have impr…",
+      "url": "https://www.theregister.com/2025/10/23/ibm_q3_2025/",
+      "urlToImage": "https://regmedia.co.uk/2020/12/08/shutterstock_ibm_cloud_editorial_only.jpg",
+      "publishedAt": "2025-10-23T01:23:36Z",
+      "content": "If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own Project Bob developer assistance tools have improved produc… [+3445 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Amazon claims the headline isn’t robots taking jobs as it reveals new cost-cutting robots",
+      "description": "A New York Times report on Tuesday cited internal Amazon documents touting how its shift into automation could help it sell more products without hiring more people, but today the company has issued a PR blast about robotics and delivery tech that is much sun…",
+      "url": "https://www.theverge.com/news/805098/amazon-robots-ai-warehouses",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download-4.jpg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
+      "publishedAt": "2025-10-23T00:51:34Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Blue Jay robots extra set of hands probably means Amazons warehouses will require fewer human hands.\r\nThe Blue Jay robots extra set of hands probably means A… [+4068 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/06/08/google.jpg",
       "publishedAt": "2025-10-22T03:55:13Z",
       "content": "Google has revealed its ported around 30,000 of its production packages to the Arm architecture and plans to convert them all so it can run workloads on both its own Axion silicon and x86 processors.… [+2840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "The Samsung Galaxy XR headset comes with $1,000 worth of freebies - here's what's included",
-      "description": "Samsung and Google are throwing in subscriptions to their premier streaming and AI services with the purchase of the latest XR headset.",
-      "url": "https://www.zdnet.com/article/the-samsung-galaxy-xr-headset-comes-with-1000-worth-of-freebies-heres-whats-included/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/303fcc4c4f0b2aad9934d519079e3a5e8013a874/2025/10/20/03345882-ae9f-4d64-b01b-30ff2e047c32/dsc08231.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T02:00:35Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Priced surprisingly low at $1,799, half the cost of Apple Vision Pro.</li><li>Includes \"The Expl… [+2848 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Watch out, Meta: Samsung just confirmed its smart glasses plans (with some spicy hints)",
-      "description": "Samsung is about to enter the smart glasses market. Here's what was confirmed this week.",
-      "url": "https://www.zdnet.com/article/watch-out-meta-samsung-just-confirmed-its-smart-glasses-plans-with-some-spicy-hints/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3c5ef2f4e44afd83bddfbfc045fbcef36d03fd54/2025/05/21/38971c4c-d99e-4a9e-b71d-760c54aa7434/dsc00275.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T02:00:34Z",
-      "content": "ZDNET's Sabrina Ortiz wearing Android XR reference glasses at Google I/O. \r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>At Samsung's Galaxy … [+3741 chars]"
     }
   ]
 }
