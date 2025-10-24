@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T21:07:47.275Z",
+  "fetchedAt": "2025-10-24T21:32:20.883Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple begins shipping American-made AI servers from Texas",
+      "description": "The milestone could please President Donald Trump, who has called for Apple to do more manufacturing on U.S. shores.",
+      "url": "https://www.cnbc.com/2025/10/23/apple-american-made-ai-servers-texas.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216265-1761252279956-AppleFactory_Houston6691.jpg?v=1761252320&w=1920&h=1080",
+      "publishedAt": "2025-10-23T21:26:11Z",
+      "content": "Apple has started shipping advanced servers for artificial intelligence applications out of a factory in Houston, Texas, the company announced on Thursday.\r\nThese servers are a core part of Apple's c… [+2143 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
       "publishedAt": "2025-10-22T20:51:31Z",
       "content": "OpenAI reportedly asked the Raine family whose 16-year-old son Adam Raine died by suicide after prolonged conversations with ChatGPT for a full list of attendees from the teenagers memorial, signalin… [+2094 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jason Parham",
-      "title": "Tinder Launches Mandatory Facial Verification to Weed Out Bots and Scammers",
-      "description": "Face Check will scan new members’ faces to ensure they don’t match existing profiles. The move comes as romance scams continue to proliferate, with billions lost over the last decade.",
-      "url": "https://www.wired.com/story/tinder-launches-mandatory-facial-verification-to-weed-out-bots-and-scammers/",
-      "urlToImage": "https://media.wired.com/photos/68f919bf7caa02afb9612fca/191:100/w_1280,c_limit/Tinder-Facial-Recognition-Culture-1159763222.jpg",
-      "publishedAt": "2025-10-22T20:45:03Z",
-      "content": "When asked what the app plans to do about the fake profiles that already exist, given Face Check only applies to new users, Roth says the tech is most effective in curbing the biggest issue that we'r… [+2438 chars]"
     }
   ]
 }
