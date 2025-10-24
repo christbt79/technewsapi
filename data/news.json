@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-23T23:31:32.670Z",
+  "fetchedAt": "2025-10-24T00:40:14.569Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Elon Musk says Tesla 'not about to replace Nvidia' as EV maker develops chips for cars, robots",
+      "description": "On Tesla's earnings call, Elon Musk said that if the company has too many of its AI5 chips, it can use them in the data center.",
+      "url": "https://www.cnbc.com/2025/10/22/elon-musk-tesla-ai5-nvidia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108153872-1748960975101-108153872-1748960872164-gettyimages-2217854516-kd209094_cjkyrbuh.jpg?v=1757011039&w=1920&h=1080",
+      "publishedAt": "2025-10-23T00:14:38Z",
+      "content": "Tesla's forthcoming artificial intelligence chip that it's calling the AI5 will be manufactured by Samsung in Texas as well as by TSMC in Arizona, CEO Elon Musk told investors on Wednesday.\r\nOn the e… [+3213 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "OpenAI's Atlas shrugs off security concerns over prompt injection",
+      "description": "'Trust no AI' says one researcher\nOpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…",
+      "url": "https://www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/22/atlas_holds_earth.jpg",
+      "publishedAt": "2025-10-22T23:49:00Z",
+      "content": "OpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.\r\nPrompt injection vulnerability is a co… [+5328 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/3c5ef2f4e44afd83bddfbfc045fbcef36d03fd54/2025/05/21/38971c4c-d99e-4a9e-b71d-760c54aa7434/dsc00275.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T02:00:34Z",
       "content": "ZDNET's Sabrina Ortiz wearing Android XR reference glasses at Google I/O. \r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>At Samsung's Galaxy … [+3741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "I tried the Samsung Galaxy XR headset, and here's how it'll coexist with smart glasses",
-      "description": "Samsung's $1,799 XR headset offers stunning spatialization, but hints at the power and utility of smart glasses.",
-      "url": "https://www.zdnet.com/article/i-tried-the-samsung-galaxy-xr-headset-and-heres-how-itll-coexist-with-smart-glasses/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5960e6108cf4ec9f524852c8749426b7da785e5f/2025/10/20/1f252325-b219-4063-aa9d-26d6fdbc8d6b/dsc08191.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T02:00:25Z",
-      "content": "ZDNET's Sabrina Ortiz demoing the Galaxy XR headset ahead of Unpacked.\r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nSamsung's Galaxy XR headset is finally real. After a ye… [+7948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Samsung and Google attempt to one-up Apple with AI-powered headset",
-      "description": "Samsung and Google see the Galaxy XR as a stepping stone to AI glasses they plan to launch in the future.",
-      "url": "https://www.cnbc.com/2025/10/21/samsung-google-galaxy-xr-headset-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214835-1761065236964-galaxy_xr_head_on_view.jpg?v=1761065243&w=1920&h=1080",
-      "publishedAt": "2025-10-22T02:00:01Z",
-      "content": "Samsung Galaxy XR Headset\r\nIt's been more than 17 years since the modern smartphone era began with the launch of the iPhone, and tech companies have been obsessed with trying to disrupt it ever since… [+5003 chars]"
     }
   ]
 }
