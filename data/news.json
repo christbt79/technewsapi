@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-24T21:32:20.883Z",
+  "fetchedAt": "2025-10-24T22:08:53.047Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Microsoft Edge’s new Copilot Mode turns on more AI features",
+      "description": "Microsoft is joining the AI browser wave with the official launch of a new “Copilot Mode” in Edge. The option, first announced in July, turns Copilot into your portal to the web, with each new tab opening a chat window where you can either ask a question, con…",
+      "url": "https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK148_Microsoft_Edge_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T22:00:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCopilot in Edge can now help you book a reservation or unsubscribe from emails when it works.\r\nCopilot in Edge can now help you book a reservation or unsubscribe… [+3483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "Are Sora 2 and other AI video tools risky to use? Here's what a legal scholar says",
+      "description": "Anyone can make realistic AI videos with OpenAI's new video model. But what happens when creativity, copyright, and deepfakes collide?",
+      "url": "https://www.zdnet.com/article/are-sora-2-and-other-ai-video-tools-risky-to-use-heres-what-a-legal-scholar-said/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bc16a66c44a6037562d14904aec1b3c3e4d5a2b4/2025/10/23/d8ddcbd6-4c4d-470e-8abf-4be4048ac7aa/gettyimages-2239565310.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T21:57:00Z",
+      "content": "Samuel Boivin/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI video tools now raise real legal and ownership risks.</li><li>OpenAI … [+21083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "I tried Snapchat's new AI image lens, and the results were surprisingly good",
+      "description": "Snapchat's image-generation lens is free to try in the US now. Here's how to find it, plus my tips for getting the best results.",
+      "url": "https://www.zdnet.com/article/i-tried-snapchats-new-ai-image-lens-and-the-results-were-surprisingly-good/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6c74ec84ea221a538a8763baaf0613a576cb0589/2025/10/23/cfe90db1-c1d4-4256-81e9-2260da026cf6/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T21:49:00Z",
+      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1153 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Imagine_Lens_16x9.jpg?resize=1200,675",
       "publishedAt": "2025-10-22T21:25:30Z",
       "content": "Snapchat is making its new “Imagine Lens,” the company’s first open prompt image-generation AI Lens, available to all users for free. The Lens was initially launched in September but only for paid su… [+1825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Samsung's upcoming Galaxy S26 may get its biggest performance change yet - for better or worse",
-      "description": "Samsung's flagships are overdue for an overhaul. Here's all the Galaxy S26 rumors so far.",
-      "url": "https://www.zdnet.com/article/samsungs-upcoming-galaxy-s26-may-get-its-biggest-performance-change-yet-for-better-or-worse/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8cf0e359dca9a12c35ef48d288b762eb26d27a0b/2025/01/17/5c9c44b1-6277-4135-99c5-a84950c2216b/dsc03669.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T21:11:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5642 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Why Cohere's ex-AI research lead is betting against the scaling race | TechCrunch",
-      "description": "Cohere's former VP of AI research, Sara Hooker, is launching a new startup to build AI models that can adapt to their environment.",
-      "url": "https://techcrunch.com/2025/10/22/why-coheres-ex-ai-research-lead-is-betting-against-the-scaling-race/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
-      "publishedAt": "2025-10-22T20:56:14Z",
-      "content": "AI labs are racing to build data centers as large as Manhattan, each costing billions of dollars and consuming as much energy as a small city. The effort is driven by a deep belief in scaling the ide… [+6065 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "OpenAI requested memorial attendee list in ChatGPT suicide lawsuit | TechCrunch",
-      "description": "The new information comes as the Raines family updated its lawsuit against OpenAI. The family first filed a wrongful death suit against OpenAI in August after alleging their son had taken his own life following conversations with the chatbot about his mental …",
-      "url": "https://techcrunch.com/2025/10/22/openai-requested-memorial-attendee-list-in-chatgpt-suicide-lawsuit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "publishedAt": "2025-10-22T20:51:31Z",
-      "content": "OpenAI reportedly asked the Raine family whose 16-year-old son Adam Raine died by suicide after prolonged conversations with ChatGPT for a full list of attendees from the teenagers memorial, signalin… [+2094 chars]"
     }
   ]
 }
