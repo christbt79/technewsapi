@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T07:33:36.644Z",
+  "fetchedAt": "2025-10-24T08:13:02.445Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Desai, senior product marketing manager, HPE Storage",
+      "title": "Conquer your storage challenges for generative AI success",
+      "description": "HPE's Alletra Storage MP X10000 addresses the problems of AI data management Partner Content  The rapid growth of Generative AI (GenAI) is transforming industries, driving innovation, and creating unprecedented opportunities. But as organizations embrace this…",
+      "url": "https://www.theregister.com/2025/10/23/conquer_your_storage_challenges/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/07/data_shutterstock.jpg",
+      "publishedAt": "2025-10-23T08:00:13Z",
+      "content": "Partner Content The rapid growth of Generative AI (GenAI) is transforming industries, driving innovation, and creating unprecedented opportunities. But as organizations embrace this transformative te… [+8361 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/40bc131f4944464b716a57d2afd0c3772fcd4899/2025/10/21/c16fad4d-ec72-475e-8694-bce36ee9fd90/xh1case.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T08:10:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs a big fan of classical music, I understand that despite what you may think, it doesn't sound good in any old headphones, regardless of price.… [+4969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Carnegie Mellon team claims vector-based system can turbocharge PostgreSQL",
-      "description": "Researchers say 'Proto-X' fine-tunes databases automatically, delivering multifold performance boosts\nAutomated database systems based on vector embedding algorithms could improve the performance of default settings on common PostgreSQL database services by a…",
-      "url": "https://www.theregister.com/2025/10/22/cmu_proto_x_postgres/",
-      "urlToImage": "https://regmedia.co.uk/2022/11/09/shutterstock_engine_tuning.jpg",
-      "publishedAt": "2025-10-22T08:00:05Z",
-      "content": "Automated database systems based on vector embedding algorithms could improve the performance of default settings on common PostgreSQL database services by a factor of two to ten, according to a data… [+4867 chars]"
     }
   ]
 }
