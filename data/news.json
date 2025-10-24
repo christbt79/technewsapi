@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T04:39:54.107Z",
+  "fetchedAt": "2025-10-24T05:09:25.155Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Reddit sues Perplexity for scraping of posts, expanding user data battle with AI industry",
+      "description": "In its latest data-rights battle with the AI industry, Reddit has launched a suit against Perplexity alleging the AI company illegally scraped its users' posts.",
+      "url": "https://www.cnbc.com/2025/10/23/reddit-user-data-battle-ai-industry-sues-perplexity-scraping-posts-openai-chatgpt-google-gemini-lawsuit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108100604-1739282160088-gettyimages-2197065144-TFSPI_03022025-4220.jpeg?v=1761185554&w=1920&h=1080",
+      "publishedAt": "2025-10-23T04:41:26Z",
+      "content": "Social media giant Reddit has launched a lawsuit against artificial intelligence company Perplexity, alleging that it illegally scraped user posts to train its AI model, marking the latest data-right… [+3265 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/bvu0vj/article70188618.ece/alternates/LANDSCAPE_1200/2025-10-21T221615Z_1339599680_RC2LGHABJG6B_RTRMADP_3_USA-TRUMP.JPG",
       "publishedAt": "2025-10-22T04:28:01Z",
       "content": "US President Donald Trump urged Senate Republicans to hold the line as the US government shutdown extended into its 21st day, warning Democrats that they would bear the political fallout for the impa… [+5275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Google porting all internal workloads to Arm, with help from GenAI",
-      "description": "YouTube and Gmail already running on both x86 and homebrew Axion silicon, 70,000 more apps in the conversion queue\nGoogle has revealed it’s ported around 30,000 of its production packages to the Arm architecture and plans to convert them all so it can run wor…",
-      "url": "https://www.theregister.com/2025/10/22/google_multi_arch_x86_arm_port/",
-      "urlToImage": "https://regmedia.co.uk/2022/06/08/google.jpg",
-      "publishedAt": "2025-10-22T03:55:13Z",
-      "content": "Google has revealed its ported around 30,000 of its production packages to the Arm architecture and plans to convert them all so it can run workloads on both its own Axion silicon and x86 processors.… [+2840 chars]"
     }
   ]
 }
