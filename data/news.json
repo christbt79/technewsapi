@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-24T12:18:12.090Z",
+  "fetchedAt": "2025-10-24T13:03:57.983Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Amazon's new AI shopping tool tells you why you should buy a recommended product | TechCrunch",
+      "description": "Amazon's new Help Me Decide tool will show you a personalized recommendation for a particular category and list reasons why you should buy it.",
+      "url": "https://techcrunch.com/2025/10/23/amazons-new-ai-shopping-tool-tells-you-why-you-should-buy-a-recommended-product/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Hero_Lifestyle_Headphones_0924.jpg?resize=1200,675",
+      "publishedAt": "2025-10-23T13:02:23Z",
+      "content": "Amazon has been stuffing AI features into its shopping experience for the past few years now. Today, the company unveiled a new feature called “Help me decide,” which takes into account your searches… [+1955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Albert Thomas",
+      "title": "Tryx Panorama SE 360 ARGB Review: Elegant and quiet, with impressive software",
+      "description": "The Tryx Panorama SE 360 catches the eye with a stunning 6.7-inch display. We’ve tested it against Thermalright’s Wonder Vision UB to see how well it stacks up against the curved-screen cooler competition.",
+      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/tryx-panorama-se-360-argb-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kcew2njQVsikfCyMriQWjP-2560-80.jpg",
+      "publishedAt": "2025-10-23T13:00:00Z",
+      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The Panorama SE 360 … [+8477 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "The ChatGPT Atlas browser still feels like Googling with extra steps",
+      "description": "This week, OpenAI debuted its long-rumored AI browser that aims to put its AI chatbot at the center of the internet. The browser, called ChatGPT Atlas, is entering a space that's already occupied by Perplexity's Comet and Google Gemini in Chrome. OpenAI is li…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T12:29:12Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ChatGPT Atlas browser still feels like Googling with extra steps\r\nChatGPT Atlas is great at providing AI-generated responses, but not so great at searches.\r\n… [+8144 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Tesla's earnings miss, Meta job cuts, U.S. sanctions Russian oil and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/23/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108155811-1749210802356-gettyimages-2217589947-TRUMP.jpeg?v=1761177649&w=1920&h=1080",
+      "publishedAt": "2025-10-23T12:22:05Z",
+      "content": "Elon Musk, during a news conference with President Donald Trump, inside the Oval Office at the White House in Washington on May 30, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to … [+5386 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/40bc131f4944464b716a57d2afd0c3772fcd4899/2025/10/21/c16fad4d-ec72-475e-8694-bce36ee9fd90/xh1case.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T13:30:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs a big fan of classical music, I understand that despite what you may think, it doesn't sound good in any old headphones, regardless of price.… [+4969 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "I tried the Samsung Galaxy XR headset, and I wasn't worried for smart glasses at all",
-      "description": "Samsung's $1,799 XR headset offers stunning spatialization, but hints at the power and utility of a more portable wearable.",
-      "url": "https://www.zdnet.com/article/i-tried-the-samsung-galaxy-xr-headset-and-i-wasnt-worried-for-smart-glasses-at-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/291a5881e024c17628066f87cb401debe161ac56/2025/10/20/f6289410-4fa9-461a-8a27-703856a03746/dsc08195.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T13:26:00Z",
-      "content": "ZDNET's Sabrina Ortiz demoing the Galaxy XR headset ahead of Unpacked.\r\nKerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nSamsung's Galaxy XR headset is finally real. After a ye… [+8036 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Meta is reportedly downsizing its legacy AI research team",
-      "description": "Meta is planning to axe around 600 roles within its legacy AI research division, according to a report from Axios. The layoffs will reportedly impact Meta’s Fundamental AI Research unit, also known as FAIR, while the company continues to hire workers for its …",
-      "url": "https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T13:23:05Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut Meta is still hiring for its team tasked with achieving superintelligence, according to a report from Axios.\r\nBut Meta is still hiring for its team tasked wi… [+2475 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Nvidia's H100 GPUs are going to space — Crusoe and Starcloud pioneer space-based solar-powered AI compute cloud data centers",
-      "description": "The first Nvidia H100 GPUs are heading into space next month, in Starcloud satellites that will power the Crusoe Cloud.",
-      "url": "https://www.tomshardware.com/tech-industry/first-nvidia-h100-gpus-will-reach-orbit-next-month-crusoe-and-starcloud-pioneer-space-based-solar-powered-ai-compute-cloud-data-centers",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LcgzVq8bZqViB7DCs82ij6-1920-80.jpg",
-      "publishedAt": "2025-10-22T13:00:00Z",
-      "content": "The first Nvidia H100 GPUs are heading into space next month. This out-of-this-world news comes as AI factory company, Crusoe, reveals its plans to become “the first public cloud operator to run work… [+3154 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Unreleased Intel Core Ultra 7 270K Plus appears on Geekbench, outperforming the Core Ultra 7 265K by 10% — 24-core offering features boost clock of up to 5.5GHz",
-      "description": "A newly leaked Intel Core Ultra 7 270K Plus benchmark shows promising gains over its predecessor and faster DDR5 support.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/unreleased-intel-core-ultra-7-270k-plus-appears-on-geekbench-outperforming-the-core-ultra-7-265k-by-10-percent-24-core-offering-features-boost-clock-of-up-to-5-5ghz",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MfReoHBkBEAtrTuxbb2QpN-2560-80.jpg",
-      "publishedAt": "2025-10-22T12:48:04Z",
-      "content": "It seems that Intel might have a few more chips left in its bag of Arrow Lake-S processors, as a brand new SKU has made its way to the cross-platform benchmarking tool Geekbench. First spotted and sh… [+2785 chars]"
     }
   ]
 }
