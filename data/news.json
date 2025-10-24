@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-24T16:11:12.570Z",
+  "fetchedAt": "2025-10-24T16:43:36.306Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "With stock market concentration risk at peak, 'cash, precious metals, and crypto' is new normal",
+      "description": "A handful of mega-cap tech and AI stocks dominate the U.S. market, an imbalance that has investors looking to bigger hedges.",
+      "url": "https://www.cnbc.com/2025/10/23/cash-precious-metals-crypto-is-new-norm-for-peak-stock-market-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108195329-1757299467872-gettyimages-2207845047-20090101250404-99-437442.jpeg?v=1759891627&w=1920&h=1080",
+      "publishedAt": "2025-10-23T16:43:09Z",
+      "content": "With a handful of mega-cap tech and AI stocks at the top of the S&amp;P 500 Index dominating the U.S. market in a way without historical precedent, portfolio concentration risk has taken on a new for… [+3192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "Microsoft gives Copilot a 'real talk' upgrade - and an (optional) cartoon face",
+      "description": "In the massive Copilot Fall Release, Microsoft is unveiling a flurry of AI-powered features, including large group chat support, a chatbot to help you find credible medical information, and a Clippy-esque cartoon blob you can talk to.",
+      "url": "https://www.zdnet.com/home-and-office/work-life/microsoft-gives-copilot-a-real-talk-upgrade-and-an-optional-cartoon-face/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eb518b3954bbd18d7820bd718ac308014d0af0dd/2025/10/23/0f0f8fee-d1b0-4948-989c-cfa308ff1a92/mico-for-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T16:42:00Z",
+      "content": "The new animated Mico character is, thankfully, optional.  \r\nPhoto credit: Microsoft\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot adds group chats, a… [+5225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Not sure what to buy? Amazon's latest shopping tool can help you decide - here's how it works",
+      "description": "The AI-driven feature takes your shopping history and preferences into account.",
+      "url": "https://www.zdnet.com/article/not-sure-what-to-buy-amazons-latest-shopping-tool-can-help-you-decide-heres-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8923023155e1a9db1dd133a01b023708b64375f6/2025/10/23/efa095c4-290e-4d1b-9068-d6165d02997e/downloadamazon.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T16:30:26Z",
+      "content": "Amazon\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has a new tool to help you decide between similar items.</li><li>Help Me Decide considers your ord… [+2492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "At 19, he drove a cab for $6 an hour—now his businesses bring in over $2 million a year: 'I don't think I'll ever retire'",
+      "description": "Money Singh moved to San Francisco from India at age 19 and drove cabs for $6 an hour. Now, he's an entrepreneur whose businesses bring in millions a year.",
+      "url": "https://www.cnbc.com/2025/10/23/money-singh-serial-entrepreneur-grew-businesses-after-starting-as-taxi-driver.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215526-1761158400700-Screenshot_2025-10-22_143822.png?v=1761158526&w=1920&h=1080",
+      "publishedAt": "2025-10-23T16:11:16Z",
+      "content": "Money Singh wasn't excited about his move to San Francisco from Punjab, India, at age 19 in 2006.\r\n\"I was [depressed] for that one year. I wanted to go back,\" says Singh, now 38, adding: \"Socially, I… [+6160 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/tK3RtxsuDiNjAexYKPUHNa-1920-80.jpg",
       "publishedAt": "2025-10-22T16:23:39Z",
       "content": "The 12V-2x6/12VHPWR power connector is already one of the most unreliable connector designs ever made for PCIe cards, even in optimal conditions. There's no telling what the connector might do if it'… [+3244 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Big tech's AI acquisition frenzy isn't always the payday young startup workers dreamed about",
-      "description": "As big tech companies like Meta acquire AI startups, many employees are not receiving the cash-out riches they dreamed about, but a layoff instead.",
-      "url": "https://www.cnbc.com/2025/10/22/big-tech-ai-acquisition-layoffs-workers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215428-1761149726490-gettyimages-672160517-bld232365.jpeg?v=1761149748&w=1920&h=1080",
-      "publishedAt": "2025-10-22T16:20:12Z",
-      "content": "At around the same time Accenture announced its investment in data labeling startup Snorkel AI to power its financial services clients in August, the startup announced it was laying off about 13% of … [+5431 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Country music star Martina McBride's warning on 'terrifying' AI deepfake scam threat to artists and fans",
-      "description": "Artificial intelligence-generated deepfakes are threatening the livelihoods of musicians and creating scams that harm fans.",
-      "url": "https://www.cnbc.com/2025/10/22/ai-deepfakes-music-artists-careers-martina-mcbride.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214929-1761072002629-15OCT25_CNBC_JHRPHOTOS_2358.jpg?v=1761072123&w=1920&h=1080",
-      "publishedAt": "2025-10-22T16:17:25Z",
-      "content": "In May, country singer Martina McBride appeared before the Senate Judiciary Subcommittee on Privacy, Technology and the Law at a hearing to speak out against AI-generated deepfakes. Last week, she ex… [+2971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Sick of AI slop on Pinterest? Here's how to easily filter it out now",
-      "description": "Pinterest has a lot of AI content. Users took issue with that.",
-      "url": "https://www.zdnet.com/article/sick-of-ai-slop-on-pinterest-heres-how-to-easily-filter-it-out-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ca5380cc5ccf14bd393a02c4e3013062b929af14/2025/10/22/c2aa281b-a785-4386-b074-287c0d5d97d4/pinterest.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T16:16:02Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Pinterest users can now control how much AI content they see. </li><li>Users had c… [+3186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft puts Office Online Server on the chopping block",
-      "description": "The end is nigh, now get thee to 365 Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.…",
-      "url": "https://www.theregister.com/2025/10/22/microsoft_office_online_server/",
-      "urlToImage": "https://regmedia.co.uk/2017/02/28/shutterstockaxe.jpg",
-      "publishedAt": "2025-10-22T16:14:12Z",
-      "content": "Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.\r\nThe… [+2348 chars]"
     }
   ]
 }
