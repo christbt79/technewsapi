@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-24T17:08:28.636Z",
+  "fetchedAt": "2025-10-24T17:36:43.409Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "Snapchat's free AI image lens transformed my snaps with just one prompt - here's how",
+      "description": "Snapchat's image-generation lens is free to try in the US now. Here's how to find it, plus my tips for getting the best results.",
+      "url": "https://www.zdnet.com/article/snapchats-free-ai-image-lens-transformed-my-snaps-with-just-one-prompt-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6c74ec84ea221a538a8763baaf0613a576cb0589/2025/10/23/cfe90db1-c1d4-4256-81e9-2260da026cf6/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T17:29:02Z",
+      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "Are Sora 2 and other AI video tools risky to use? Here's what a legal scholar says",
+      "description": "Anyone can make realistic AI videos with OpenAI's new video model. But what happens when creativity, copyright, and deepfakes collide?",
+      "url": "https://www.zdnet.com/article/are-sora-2-and-other-ai-video-tools-risky-to-use-heres-what-a-legal-scholar-says/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fd6fda86ea14069e077aa6fca7af5daf3b85c8d4/2025/10/12/51c8469d-31db-449a-94ee-3be9cd5a5f93/david-agents.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T17:11:00Z",
+      "content": "Photo illustration by Cheng Xin/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI video tools now raise real legal and ownership risks.</li><li>Op… [+21088 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
+      "description": "Microsoft has unveiled “Mico,” a new animated avatar for its Copilot AI that brings back shades of Clippy. The expressive blob acts as a friendly, customizable face for the chatbot.",
+      "url": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
+      "publishedAt": "2025-10-23T17:08:23Z",
+      "content": "Microsoft has a new Clippy, and it’s an AI friend called Mico. At the company’s Copilot fall release press event on Thursday, the company introduced a range of new features and updates for its AI cha… [+3495 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223681645.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
       "publishedAt": "2025-10-22T17:14:41Z",
       "content": "An Amazon Web Services data center in Virginia. | Nathan Howard/Bloomberg via Getty Images\r\n\n\nIf you’ve noticed your electricity bill is higher than normal recently, you’re not alone. Power is gettin… [+6678 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Instagram rolls out custom icons…but only for teens",
-      "description": "Instagram introduced custom app icons for its teen accounts, but not everyone is thrilled. In replies to the company’s post on X, users criticized the feature for being age-gated, arguing that adults like personalization, too.",
-      "url": "https://techcrunch.com/2025/10/22/instagram-rolls-out-custom-icons-but-only-for-teens/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/instagram-app-icon.jpg?resize=1200,675",
-      "publishedAt": "2025-10-22T17:07:02Z",
-      "content": "Some Instagram users are feeling cheated out of a new feature, as the photo and video sharing app on Wednesday announced the launch of custom icons — but only for its teen users. \r\nTeens can now choo… [+2101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "Are you part of 'the great stay?' Here's what experts say is behind this latest job trend",
-      "description": "A variety of factors could be convincing tech professionals to stay put.",
-      "url": "https://www.zdnet.com/education/professional-development/are-you-part-of-the-great-stay-heres-what-experts-say-is-behind-this-latest-job-trend/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b7db2372f725842465d8c472ffc0849f294fb955/2025/10/22/653fe69c-2f28-407c-bc04-c5d3dc89f3e9/gettyimages-2227030126.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T17:05:26Z",
-      "content": "J Studios/Royalty-free via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Tech professionals' concerns about layoffs have decreased.</li><li>At the same … [+6715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "TI CEO says some customers still wary of Trump's import tax roulette",
-      "description": "CEO says some customers still wary of Trump's import tax roulette The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, accor…",
-      "url": "https://www.theregister.com/2025/10/22/tales_of_tariff_trepidation_at/",
-      "urlToImage": "https://regmedia.co.uk/2025/07/10/tariff_us.jpg",
-      "publishedAt": "2025-10-22T16:57:01Z",
-      "content": "The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according t… [+3519 chars]"
     }
   ]
 }
