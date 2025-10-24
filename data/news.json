@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T05:38:00.097Z",
+  "fetchedAt": "2025-10-24T06:14:24.782Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "As China's 996 culture spreads, South Korea's tech sector grapples with 52-hour limit | TechCrunch",
+      "description": "South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investors worry it's too restrictive.",
+      "url": "https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798",
+      "publishedAt": "2025-10-23T06:03:32Z",
+      "content": "As the world races to stay ahead in the deep tech revolution — from AI and semiconductors to quantum computing — innovation has become the new currency of power. For many companies, that pressure has… [+8888 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214516-1761112783604-File.jpg?v=1761112834&w=1920&h=1080",
       "publishedAt": "2025-10-22T06:55:59Z",
       "content": "Apple CEO Tim Cook met with Labubu artist Kasing Lung during a trip to China in Oct. 2025, as pictured here on the iPhone company's official Xiaohongshu account.\r\nThis report is from this week's CNBC… [+9127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Over 800 public figures, including Apple co-founder Steve Wozniak and Virgin's Richard Branson urge AI ‘superintelligence’ ban",
-      "description": "A group of prominent figures, including artificial intelligence heavyweights, have called for an end to efforts to create ‘superintelligence.'",
-      "url": "https://www.cnbc.com/2025/10/22/800-petition-signatures-apple-steve-wozniak-and-virgin-richard-branson-superintelligence-race.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214997-1761078222031-gettyimages-1412458280-business444.jpeg?v=1761078319&w=1920&h=1080",
-      "publishedAt": "2025-10-22T05:36:40Z",
-      "content": "A group of prominent figures, including artificial intelligence and technology experts, has called for an end to efforts to create 'superintelligence' a form of AI that would surpass human intellect.… [+1970 chars]"
     }
   ]
 }
