@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T09:37:38.505Z",
+  "fetchedAt": "2025-10-24T10:10:24.144Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Google's Quantum Echo algorithm shows world's first practical application of Quantum Computing — Willow 105-qubit chip runs algorithm 13,000x faster than a supercomputer",
+      "description": "Google's Willow chip and Quantum Echo algorithm achieve world's first practical application of quantum computing.",
+      "url": "https://www.tomshardware.com/tech-industry/quantum-computing/googles-quantum-echo-algorithm-shows-worlds-first-practical-application-of-quantum-computing-willow-105-qubit-chip-runs-algorithm-13-000x-faster-than-a-supercomputer",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GdPnu5iQ5fvADVfo6UJUGj-1000-80.png",
+      "publishedAt": "2025-10-23T10:00:00Z",
+      "content": "Quantum computing doesn't show up often in the news. After all, it has gigantic potential, but the technology has been promising practical real-world uses in \"just a few years\" for decades now. The s… [+2909 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/qcbbwGZop3f8AaFCiYdcRW-2560-80.jpg",
       "publishedAt": "2025-10-22T09:45:24Z",
       "content": "OpenAI just announced a new AI-powered browser that integrates its ChatGPT LLM right into the app. During a livestream, the company unveiled ChatGPT Atlas, coming first to macOS, with Windows, iPhone… [+2181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "China supercomputer breakthrough models complex quantum chemistry at molecular scale — 37 million processor cores fuse AI and quantum science",
-      "description": "Chinese researchers used the Oceanlite supercomputer and a custom NNQS model to simulate molecular systems with 120 spin orbitals.",
-      "url": "https://www.tomshardware.com/tech-industry/supercomputers/china-supercomputer-breakthrough-models-complex-quantum-chemistry-at-molecular-scale-37-million-processor-cores-fuse-ai-and-quantum-science",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RE8o4v8CYitxoGAJXmpV9U-1920-80.jpg",
-      "publishedAt": "2025-10-22T09:33:12Z",
-      "content": "Normally, simulations for scientific research are performed on supercomputers as they require tremendous compute throughput. There are also types of research — such as simulation of quantum behavior … [+4045 chars]"
     }
   ]
 }
