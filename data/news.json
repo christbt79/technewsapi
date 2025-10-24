@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T17:36:43.409Z",
+  "fetchedAt": "2025-10-24T18:13:52.508Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Two days after OpenAI's Atlas, Microsoft launches a nearly identical AI browser | TechCrunch",
+      "description": "Two days after OpenAI's Atlas, Microsoft launches a nearly identical AI browser | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+      "publishedAt": "2025-10-23T18:04:59Z",
+      "content": "Microsoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly into one of its most central products. More than … [+1977 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215470-1761153246322-Screenshot_2025-10-22_at_11318_PM.png?v=1761153463&w=1920&h=1080",
       "publishedAt": "2025-10-22T17:18:56Z",
       "content": "Applied Digital said on Wednesday that it signed a $5 billion infrastructure lease agreement with a U.S. hyperscaler. \r\nShares of the data center company dropped more than 7% following the announceme… [+1784 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Cameron Peters, Umair Irfan",
-      "title": "How you’re paying for big tech’s AI speculation",
-      "description": "If you’ve noticed your electricity bill is higher than normal recently, you’re not alone. Power is getting more expensive everywhere, outpacing inflation. One major culprit? The flurry of new data centers being built to meet demand from the AI sector. To find…",
-      "url": "https://www.vox.com/technology/465749/electricity-costs-ai-data-centers-speculation",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223681645.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "publishedAt": "2025-10-22T17:14:41Z",
-      "content": "An Amazon Web Services data center in Virginia. | Nathan Howard/Bloomberg via Getty Images\r\n\n\nIf you’ve noticed your electricity bill is higher than normal recently, you’re not alone. Power is gettin… [+6678 chars]"
     }
   ]
 }
