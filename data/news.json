@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-24T20:38:17.786Z",
+  "fetchedAt": "2025-10-24T21:07:47.275Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco | TechCrunch",
+      "description": "Trump said he scrapped plans to send the National Guard into San Francisco after calls from Nvidia’s Jensen Huang and Salesforce’s Marc Benioff. Mayor Daniel Lurie confirmed the plan was canceled.",
+      "url": "https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-962267138.jpg?w=1024",
+      "publishedAt": "2025-10-23T21:05:38Z",
+      "content": "President Trump had planned an operation to surge San Francisco by marching National Guard troops into the city, but was convinced to alter course, he said on a post on his social network Truth Socia… [+1444 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "OpenAI buys Sky, an AI interface for Mac | TechCrunch",
+      "description": "OpenAI has acquired Software Applications, Inc., the startup behind Sky — an AI-powered natural language interface for Mac that can view your screen and take actions in your apps.",
+      "url": "https://techcrunch.com/2025/10/23/openai-buys-sky-an-ai-interface-for-mac/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/ArtCard_SKY_16_9.webp?resize=1200,677",
+      "publishedAt": "2025-10-23T20:53:43Z",
+      "content": "OpenAI announced on Thursday it has acquired Software Applications, Inc., the makers of an AI-powered natural language interface for Mac computers called Sky. \r\nThe software product, which had not be… [+2801 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f919bf7caa02afb9612fca/191:100/w_1280,c_limit/Tinder-Facial-Recognition-Culture-1159763222.jpg",
       "publishedAt": "2025-10-22T20:45:03Z",
       "content": "When asked what the app plans to do about the fake profiles that already exist, given Face Check only applies to new users, Roth says the tech is most effective in curbing the biggest issue that we'r… [+2438 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "Tesla's record sales quarter barely boosted profit | TechCrunch",
-      "description": "Tesla's profit actually fell 37% compared to the same period last year, despite buyers rushing to take advantage of the expiring EV tax credit.",
-      "url": "https://techcrunch.com/2025/10/22/teslas-record-sales-quarter-barely-boosted-profit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Tesla-sign-Getty.jpg?resize=1200,800",
-      "publishedAt": "2025-10-22T20:40:36Z",
-      "content": "Tesla delivered a record number of vehicles in the third quarter of 2025, thanks in large part to a rush of customers in the United States who took advantage of the expiring federal EV tax credit. Bu… [+2753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "IBM tops third-quarter estimates and lifts guidance, but stock drops",
-      "description": "IBM's results topped estimates and the company lifted its guidance, citing artificial intelligence tailwinds.",
-      "url": "https://www.cnbc.com/2025/10/22/ibm-q3-2025-earnings-report.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094474-17381853142025-01-22t112734z_1966914399_rc2yecaqwjzw_rtrmadp_0_davos-meeting.jpeg?v=1738271431&w=1920&h=1080",
-      "publishedAt": "2025-10-22T20:28:49Z",
-      "content": "IBM reported third-quarter results that topped Wall Street estimates and lifted its guidance, citing ongoing artificial intelligence tailwinds. Still, the stock dropped 5% in extended trading. \r\nHere… [+1555 chars]"
     }
   ]
 }
