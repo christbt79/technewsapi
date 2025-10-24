@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-24T16:43:36.306Z",
+  "fetchedAt": "2025-10-24T17:08:28.636Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "One of ChatGPT's most helpful features is coming to Claude - here's who gets it",
+      "description": "Anthropic's Memory feature aims to create a more personalized experience while prioritizing user control.",
+      "url": "https://www.zdnet.com/article/one-of-chatgpts-most-helpful-features-is-coming-to-claude-heres-who-gets-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/272aaf05545b0231ca57fb5647cdcf79ed780679/2025/07/31/bd70d23e-7adc-4485-845a-42e4f1595c29/claude.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T17:00:00Z",
+      "content": "Anthropic / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic Pro and Max subscribers have access to Memory. </li><li>The f… [+4340 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "ChatGPT was down Thursday - what we know about the outage",
+      "description": "It's not just ChatGPT. Other services, including Grok, appear to be experiencing outages today.",
+      "url": "https://www.zdnet.com/article/chatgpt-was-down-thursday-what-we-know-about-the-outage/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/902e4c07e503b94fe06b99f4993120a2da5941fa/2025/10/23/c2088c66-5fe7-4f50-927b-a9cab4ba16d9/4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T16:54:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT experienced a major outage on Thursday morning.</li><li>OpenAI's status pag… [+3081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Elon Musk claims Tesla's new AI5 chip is 40x more performant than previous-gen AI5 — Next-gen custom silicon for vehicle AI to now be built by Samsung & TSMC",
+      "description": "Tesla's next-gen AI5 chips is going to be manufactured by both TSMC and, now, Samsung in America. Musk claims that it's 40x faster than the outgoing AI4 silicon, mostly because of a radical design approach that ditches legacy hardware blocks to focus on what'…",
+      "url": "https://www.tomshardware.com/tech-industry/elon-musk-claims-teslas-new-ai5-chip-is-40x-more-performant-than-previous-gen-ai5-next-gen-custom-silicon-for-vehicle-ai-to-now-be-built-by-samsung-and-tsmc",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDQbDpY8n3iFusBi82QeF5-720-80.jpg",
+      "publishedAt": "2025-10-23T16:50:21Z",
+      "content": "Last year, Tesla announced its new AI5 custom silicon designed for inference in its vehicles needed for autonomous driving. Like previous generations, it's designed in-house and was to be manufacture… [+3775 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump admin not negotiating with quantum firms with equity stakes: Commerce official",
+      "description": "\"The Commerce Department is not currently negotiating equity stakes with quantum computing companies,\" the spokesperson said in a statement.",
+      "url": "https://www.cnbc.com/2025/10/23/trump-quantum-stock-stake.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200883-17582196122025-09-18t181702z_997274710_rc2iugaeexr1_rtrmadp_0_usa-trump-britain-business-reception.jpeg?v=1758219649&w=1920&h=1080",
+      "publishedAt": "2025-10-23T16:48:29Z",
+      "content": "The U.S. government is not in talks with quantum computing companies to take equity stakes in the firms in exchange for federal funding, a Commerce Department official told CNBC. \r\n\"The Commerce Depa… [+2510 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/07/10/tariff_us.jpg",
       "publishedAt": "2025-10-22T16:57:01Z",
       "content": "The global semiconductor market is recovering, albeit at a slower pace than in previous cycles due to macroeconomic dynamics and ongoing uncertainty caused by US trade policy and tariffs, according t… [+3519 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "GE Vernova CEO says he's talking with OpenAI's Sam Altman as power remains critical for AI growth",
-      "description": "GE Vernova shares fell more than 6% after the company failed to raise its forecast in the wake of better-than-expected results.",
-      "url": "https://www.cnbc.com/2025/10/22/ge-vernova-ceo-says-hes-talking-with-openais-sam-altman-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176344-1753363274481-gettyimages-2225995478-img_9514.jpeg?v=1761147545&w=1920&h=1080",
-      "publishedAt": "2025-10-22T16:48:58Z",
-      "content": "GE Vernova CEO Scott Strazik said he has had conversations with OpenAI CEO Sam Altman multiple times over the past few weeks as power scarcity remains a challenge and opportunity for hypescalers.\r\n\"I… [+2562 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "AlmaLinux gives Btrfs a home after Red Hat kicked it out",
-      "description": "Not the default file system, but in the installer if you want it\nAlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.…",
-      "url": "https://www.theregister.com/2025/10/22/btrfs_almalinux/",
-      "urlToImage": "https://regmedia.co.uk/2021/07/21/shutterstock_cleaning_data.jpg",
-      "publishedAt": "2025-10-22T16:31:11Z",
-      "content": "AlmaLinux is to support the Btrfs file system in version 10.1 of its eponymous RHELative operating system.\r\nWhile Red Hat deprecated Btrfs from Red Hat Enterprise Linux (RHEL) in 2017, the technology… [+2384 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Ring’s CEO says his cameras can almost ‘zero out crime’ within the next 12 months",
-      "description": "Jamie Siminoff has returned to Ring, the company he founded, with a renewed focus on its mission statement to \"Make neighborhoods safer.\" Talking to The Verge ahead of the release of his new book Ding Dong, Siminoff says he believes the new wave of AI could f…",
-      "url": "https://www.theverge.com/tech/804052/ring-jamie-siminoff-book-ding-dong-release-date-interview",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Jamie-Siminoff-Headshot-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T16:26:01Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nRings CEO says his cameras can almost zero out crime within the next 12 months\r\nJamie Siminoffs new book, Ding Dong, charts how his video doorbell startup turned… [+9923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "Cooler Master tells customer to dismantle 12v2x6 connector to fit Asus RTX 5070 Ti — customer service offers dubious advice that might not even fix issue",
-      "description": "Cooler Master recommends RTX 5070 Ti customers to modify their Cooler Master power supply's 12V-2x6 power cable to fit their graphics card. Turns out, the modification wouldn't have worked anyway.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/cooler-master-tells-customer-to-dismantle-12v2x6-connector-to-fit-asus-rtx-5070-ti-customer-service-offers-dubious-advice-that-might-not-even-fix-issue",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tK3RtxsuDiNjAexYKPUHNa-1920-80.jpg",
-      "publishedAt": "2025-10-22T16:23:39Z",
-      "content": "The 12V-2x6/12VHPWR power connector is already one of the most unreliable connector designs ever made for PCIe cards, even in optimal conditions. There's no telling what the connector might do if it'… [+3244 chars]"
     }
   ]
 }
