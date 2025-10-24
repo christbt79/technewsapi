@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T18:13:52.508Z",
+  "fetchedAt": "2025-10-24T18:43:56.509Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI buys AI startup that built interface for Apple computers",
+      "description": "With Thursday's acquisition, all 12 employees from Software Applications Incorporated will join OpenAI.",
+      "url": "https://www.cnbc.com/2025/10/23/openai-buys-ai-startup-software-applications-incorporated.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204530-1758900517239-gettyimages-2236544077-STARGATE_DATA_CENTER.jpeg?v=1761239410&w=1920&h=1080",
+      "publishedAt": "2025-10-23T18:21:33Z",
+      "content": "OpenAI on Thursday announced it has acquired Software Applications Incorporated, a small company that built an artificial intelligence interface for Apple computers.\r\nAll 12 members of the Software A… [+1168 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/5f6b58391c01608bc06cd6a1e3630aa0a80989e0/2025/10/22/b77e953a-8fdf-4723-8a85-9fd89a1cdd6a/img-1956.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T17:30:00Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Amazon held its Delivering the Future event. </li><li>The event focused on how AI and the l… [+4711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Applied Digital signs $5 billion AI factory lease with U.S. based hyperscaler",
-      "description": "Applied Digital signs $5 billion AI factory lease with U.S. based hyperscaler",
-      "url": "https://www.cnbc.com/2025/10/22/applied-digital-signs-5-billion-ai-factory-lease-with-us-based-hyperscaler.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215470-1761153246322-Screenshot_2025-10-22_at_11318_PM.png?v=1761153463&w=1920&h=1080",
-      "publishedAt": "2025-10-22T17:18:56Z",
-      "content": "Applied Digital said on Wednesday that it signed a $5 billion infrastructure lease agreement with a U.S. hyperscaler. \r\nShares of the data center company dropped more than 7% following the announceme… [+1784 chars]"
     }
   ]
 }
