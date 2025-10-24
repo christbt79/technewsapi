@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-24T15:09:55.871Z",
+  "fetchedAt": "2025-10-24T15:38:17.387Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Amazon’s latest attempt at selling stuff with AI is the ‘Help me decide’ button",
+      "description": "Amazon is launching a new AI-powered tool that’s supposed to help you choose which product to buy. Now, when you look at multiple similar items on Amazon’s app or mobile website, it may display a “Help me decide” button that picks one for you based on your br…",
+      "url": "https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/amazon-help-me-decide.jpeg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
+      "publishedAt": "2025-10-23T15:31:12Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new AI-powered tool is supposed to help you choose between similar products.\r\nThe new AI-powered tool is supposed to help you choose between similar products… [+2603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Super Micro shares fall 6% on weak preliminary results",
+      "description": "Super Micro said \"design win upgrades\" pushed some expected first-quarter revenue to the second quarter.",
+      "url": "https://www.cnbc.com/2025/10/23/super-micro-stock-preliminary-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108182023-1754425755270-gettyimages-1258355965-TAIWAN-COMPUTEX2023-01062023-032JPG.jpeg?v=1761231036&w=1920&h=1080",
+      "publishedAt": "2025-10-23T15:31:09Z",
+      "content": "Super Micro Computer shares fell 6% on Thursday after the company released weak preliminary results for its fiscal first quarter of 2026.\r\nThe server maker said it expects to report $5 billion in rev… [+764 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Palantir enters $200M partnership with telco Lumen for enterprise AI services | TechCrunch",
+      "description": "Palantir said on Thursday it had struck a partnership with Lumen Technologies that will see the telecommunications company using the data management company's AI software to build capabilities to support enterprise AI services.",
+      "url": "https://techcrunch.com/2025/10/23/palantir-enters-200m-partnership-with-telco-lumen-for-enterprise-ai-services/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228810115.jpg?resize=1200,800",
+      "publishedAt": "2025-10-23T15:24:32Z",
+      "content": "Palantir said on Thursday it had struck a partnership with Lumen Technologies that will see the telecommunications company using the data management company’s AI software to build capabilities to sup… [+2183 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
+      "description": "OpenAI’s hit AI video app, Sora, is getting a wave of new features, including video editing tools, pet and object “cameos,” and enhanced social options. The Android app is also “coming soon.\"",
+      "url": "https://techcrunch.com/2025/10/23/sora-update-to-bring-ai-videos-of-your-pets-new-social-features-and-soon-an-android-version/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-23T15:19:58Z",
+      "content": "OpenAI is teasing a series of updates coming to its viral app for AI-generated videos, Sora, which recently shot to the top of the App Store after a late September launch. The app, which remains at N… [+2324 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads | TechCrunch",
+      "description": "Tensormesh uses an expanded form of KV Caching to make inference loads as much as ten times more efficient.",
+      "url": "https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800",
+      "publishedAt": "2025-10-23T15:19:03Z",
+      "content": "With the AI infrastructure push reaching staggering proportions, theres more pressure than ever to squeeze as much inference as possible out of the GPUs they have. And for researchers with expertise … [+2412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nexperia fallout threatens automobile production as Japanese carmakers warn of supply disruptions while European companies prep assembly line shut-downs — mature-node chip market in crisis as supply dwindles",
+      "description": "Japan's Automobile Manufacturers Association warned that Nexperia's disrupted chip supply could halt vehicle production across Japan, as Volkswagen is reportedly preparing to suspend assembly of Golf and Tiguan models as early as next week.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nexperia-fallout-threatens-automobile-production-as-japanese-carmakers-warn-of-supply-disruptions-while-european-companies-prep-assembly-line-shut-downs-mature-node-chip-market-in-crisis-as-supply-dwindles",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mxjqrkWEFS5ydxnfWD467G-2000-80.jpg",
+      "publishedAt": "2025-10-23T15:10:08Z",
+      "content": "Japan's Automobile Manufacturers Association has issued a statement claiming that Nexperia has informed its Japanese clients that it may be unable to maintain a steady chip supply, reports Bloomberg.… [+3476 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GM-Cadillac-Escalade-IQL-eyes-off-driving.jpg?resize=1200,675",
       "publishedAt": "2025-10-22T15:33:12Z",
       "content": "General Motors said it plans to launch an automated driving system that will allow drivers to keep their eyes off the road and hands off the wheel in 2028, starting with the Cadillac Escalade IQ. \r\nT… [+3524 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Samsung takes on Apple's Vision Pro with new Galaxy XR headset | TechCrunch",
-      "description": "Samsung takes on Apple's Vision Pro with new Galaxy XR headset | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/22/samsung-takes-on-apples-vision-pro-with-new-galaxy-xr-headset/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/galaxy-xr.jpg?w=1000",
-      "publishedAt": "2025-10-22T15:30:54Z",
-      "content": "After months of speculation, Samsung has finally unveiled its Galaxy XR headset to take on Apple’s Vision Pro. The headset runs on Google’s Android XR operating system and Qualcomm’s Snapdragon XR2+ … [+2752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Grounded jet engines take off again as datacenter generators",
-      "description": "AI power demands drive operators to repurpose aircraft parts amid gas turbine shortages AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.…",
-      "url": "https://www.theregister.com/2025/10/22/datacenter_jet_engines/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/22/shutterstock_jetengine.jpg",
-      "publishedAt": "2025-10-22T15:30:13Z",
-      "content": "AI-driven datacenter energy needs are causing a shortage of gas turbines to power generators, with some operators reportedly turning to old aircraft engines instead.\r\nThe rising demand for compute to… [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Several users reportedly complain to FTC that ChatGPT is causing psychological harm | TechCrunch",
-      "description": "At least seven people have complained to the U.S. Federal Trade Commission that ChatGPT caused them to experience severe delusions, paranoia and emotional crises, Wired reported.",
-      "url": "https://techcrunch.com/2025/10/22/several-users-reportedly-complain-to-ftc-that-chatgpt-is-causing-psychological-harm/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-      "publishedAt": "2025-10-22T15:17:42Z",
-      "content": "As AI companies claim their tech will one day grow to become a fundamental human right, and those backing them say slowing down AI development is akin to murder, the people using the tech are allegin… [+2413 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "David Sacks' Craft leads $42 million Series A in govtech startup Starbridge | TechCrunch",
-      "description": "Starbridge raises $42M Series A led by Craft Ventures to help businesses better monitor public service opportunities.",
-      "url": "https://techcrunch.com/2025/10/22/david-sacks-craft-leads-42-million-series-a-in-govtech-startup-starbridge/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Starbridge-Team.jpg?resize=1200,800",
-      "publishedAt": "2025-10-22T15:08:55Z",
-      "content": "Justin Wenig remembers his days at Y Combinator in 2019. \r\nBack then, he was working with his first startup, Coursedog, which looked to provide more modern tools to higher educational facilities, inc… [+2920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I ditched Linux for Windows 11 for one week - and found 9 big problems",
-      "description": "After 30 years with Linux, I decided to try Windows 11. Here's a list of everything that went wrong.",
-      "url": "https://www.zdnet.com/article/i-ditched-linux-for-windows-11-for-one-week-and-found-9-big-problems/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3c0701ae43891509ab97cbe1211fbeeaacd79269/2025/10/22/8faf2da9-412f-423a-a796-00c739992147/i-ditched-linux-for-a-week-for-windows-and-heres-how-it-went.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T15:08:08Z",
-      "content": "ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Jack Wallen spends a week using Windows 11.</li><li>During this experiment, he experienced a whole gamut of … [+8281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "How Clickfix and AI are helping hackers break into your systems - at an alarming rate",
-      "description": "A new report reveals hackers are shifting tactics to target humans in scams, and it's working.",
-      "url": "https://www.zdnet.com/article/how-clickfix-and-ai-are-helping-hackers-break-into-your-systems-at-an-alarming-rate/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/13e8bcc522317a238c878ab6b32b0df3cbeb7a25/2025/10/22/9748425d-c4c2-40ba-9aae-b84f8141784a/gettyimages-155384933.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T15:04:35Z",
-      "content": "alengo / E+ / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Clickfix attacks surged 500% in early 2025.</li><li>Cybercriminals now use AI in BEC… [+6879 chars]"
     }
   ]
 }
