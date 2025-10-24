@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-24T10:10:24.144Z",
+  "fetchedAt": "2025-10-24T10:41:21.914Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas",
+      "description": "Less than two days ago, OpenAI came out swinging in the fight for the future of the internet with the release of ChatGPT Atlas, an AI-powered web browser it hopes will topple Google Chrome. Adam Fry, OpenAI’s Atlas leader, says the team is already “heads down…",
+      "url": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T10:39:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nProfiles, tab groups, and ad blockers are on their way. \r\nProfiles, tab groups, and ad blockers are on their way. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from… [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "Keeper Review (2025): Enterprise-Level Password Management for Everyone",
+      "description": "Keeper Unlimited brings enterprise-level security to all your devices if you’re willing to pay for the privilege.",
+      "url": "https://www.wired.com/review/keeper-password-manager-2025/",
+      "urlToImage": "https://media.wired.com/photos/68f96b164e35e840b8b8a16b/191:100/w_1280,c_limit/Review-%20Keeper%20Password%20Manager.png",
+      "publishedAt": "2025-10-23T10:30:00Z",
+      "content": "Everything stored in your Keeper vault is known as a record. There are several different record types, including logins, credit cards, identities, secure notes, and software licenses, but you can als… [+3206 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "ChatGPT’s Horny Era Could Be Its Stickiest Yet",
+      "description": "OpenAI will soon let adults create erotic content in ChatGPT. Experts say that could lead to “emotional commodification,” or horniness as a revenue stream.",
+      "url": "https://www.wired.com/story/chatgpt-horny-era/",
+      "urlToImage": "https://media.wired.com/photos/68f8ff84afe80bf740804453/191:100/w_1280,c_limit/gear-chatgpt-horny-961105954.jpg",
+      "publishedAt": "2025-10-23T10:30:00Z",
+      "content": "In May of 2024, while I was combing through OpenAIs Model Spec laying out how ChatGPT should act, one comment buried in the document struck me as peculiar. It said OpenAI was exploring how to let adu… [+2380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft threatens to ram Copilot into Exchange Server on-prem",
+      "description": "Survey probes interest in AI assistance for locally hosted email setups Microsoft's mission to \"Copilot all the things\" has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.…",
+      "url": "https://www.theregister.com/2025/10/23/copilot_exchange_server/",
+      "urlToImage": "https://regmedia.co.uk/2024/03/27/shutterstock_exchange.jpg",
+      "publishedAt": "2025-10-23T10:19:02Z",
+      "content": "Microsoft's mission to \"Copilot all the things\" has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.\r\n\"We are exploring the possibility of introducing Copilot fo… [+1891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Europe’s big enterprise AI hope SAP books 85% of 2026 revenue as deals boom",
+      "description": "The German company is focused on creating value for customers, rather than feeding into the \"hype.\"",
+      "url": "https://www.cnbc.com/2025/10/23/europes-big-ai-hope-sap-books-85percent-of-2026-revenue-as-deals-boom-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175537-1753251376103-gettyimages-2225992639-img_9367.jpeg?v=1761211034&w=1920&h=1080",
+      "publishedAt": "2025-10-23T10:16:23Z",
+      "content": "The world of enterprise AI is dominated by U.S. names from Microsoft to Salesforce, but Europe has a major player that is pushing hard into the space: SAP.\r\nIn an exclusive interview with CNBC's \"Eur… [+3066 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2015/02/05/nadella_wall.jpg",
       "publishedAt": "2025-10-22T11:23:12Z",
       "content": "Months after saying job cuts at Microsoft weighed on him, bossman Satya Nadella has another problem: how to expend his swelling bank balance following another bumper pay rise.\r\nThe chairman and chief… [+2999 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Anthropic’s Claude chatbot is getting a ‘memory’ upgrade",
-      "description": "Anthropic is rolling out an update for Claude that will let the AI chatbot “remember” past conversations without prompting. The upgrade for all paid subscribers should make Claude more useful and convenient.  Max subscribers will be able to turn on Claude’s “…",
-      "url": "https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1-Memory-Modal_blog-inline.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-22T10:58:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nClaudes automatic memory upgrade is coming to Pro and Max subscribers.\r\nClaudes automatic memory upgrade is coming to Pro and Max subscribers.\r\nby\r\nRobert HartCl… [+3363 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Caroline Haskins",
-      "title": "People Who Say They’re Experiencing AI Psychosis Beg the FTC for Help",
-      "description": "The Federal Trade Commission received 200 complaints mentioning ChatGPT between November 2022 and August 2025. Several attributed delusions, paranoia, and spiritual crises to the chatbot.",
-      "url": "https://www.wired.com/story/ftc-complaints-chatgpt-ai-psychosis/",
-      "urlToImage": "https://media.wired.com/photos/68f2bf3c63f7ddf18419e898/191:100/w_1280,c_limit/ChatGPT-Psychosis-Business-1329174119.jpg",
-      "publishedAt": "2025-10-22T10:30:00Z",
-      "content": "Eventually, they claimed that they came to believe that they were responsible for exposing murderers, and were about to be killed, arrested, or spiritually executed by an assassin. They also believed… [+2565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "Nvidia's homegrown memory design is almost standardized and ready for everyone to use — JEDEC says SOCAMM2 compact DRAM module for AI servers boasts higher speeds and broader compatibility",
-      "description": "JEDEC is finalizing the design of the SOCAMM2 physical interface, which boasts LPDDR5X support of up to 9600 MT/s. It also features an SPD profile, making it compatible with hardware manufacturers beyond Nvidia.",
-      "url": "https://www.tomshardware.com/pc-components/ram/nvidias-homegrown-memory-design-is-nearly-complete-and-standardized-jedec-says-socamm2-will-replace-the-bespoke-socamm1-standard-that-nvidia-created",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CuNV9UtKbEgVMZMiGK9sXD-1920-80.jpg",
-      "publishedAt": "2025-10-22T10:30:00Z",
-      "content": "SOCAMM2 is on track to become the definitive version of the SOCAMM standard very soon. JEDEC has announced that SOCAMM2's design is nearing completion and will take advantage of the same LPDDR5X memo… [+2546 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "More US capital flowing to Asia as dollar weakens: KKR",
-      "description": "US capital is increasingly flowing to Asia as the dollar weakens, with KKR identifying key investment themes in the region.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-21/kkr-says-more-investment-flowing-to-asia-from-us-as-dollar-slips",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/xwuhkm/article70149392.ece/alternates/LANDSCAPE_1200/IMG_BL_-_25_02_2019_-_18_2_1_SUDLKRNC.jpg",
-      "publishedAt": "2025-10-22T09:52:27Z",
-      "content": "Global investors with heavy US exposure are steadily shifting more capital to Asia as the dollar loses steam and the regions fundamentals shine, according to the co-chief executive officer of KKR &am… [+3454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "OpenAI launches ChatGPT Atlas AI browser, LLM can browse the internet for you and even complete tasks — initial release for macOS, with Windows, iOS, and Android to follow soon after",
-      "description": "OpenAI just released its ChatGPT-powered AI browser, letting the LLM take over users' browsers and so staff on their behalf.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-launches-chatgpt-atlas-ai-browser-llm-can-browse-the-internet-for-you-and-even-complete-tasks-initial-release-for-macos-with-windows-ios-and-android-to-follow-soon-after",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qcbbwGZop3f8AaFCiYdcRW-2560-80.jpg",
-      "publishedAt": "2025-10-22T09:45:24Z",
-      "content": "OpenAI just announced a new AI-powered browser that integrates its ChatGPT LLM right into the app. During a livestream, the company unveiled ChatGPT Atlas, coming first to macOS, with Windows, iPhone… [+2181 chars]"
     }
   ]
 }
