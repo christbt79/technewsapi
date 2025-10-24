@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-24T11:08:26.896Z",
+  "fetchedAt": "2025-10-24T11:33:04.006Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "EU considers punitive DUV machine export ban following China's latest round of rare earth export controls — ban would impact ASML’s biggest growth market",
+      "description": "The European Union is quietly preparing retaliatory trade measures against China, and the trigger appears to be Beijing’s threat to restrict exports of gallium and germanium, two raw materials used in everything from EVs to satellites.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/eu-considers-duv-export-ban",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg",
+      "publishedAt": "2025-10-23T11:27:16Z",
+      "content": "The European Union is quietly preparing retaliatory trade measures against China, and the trigger appears to be Beijing’s threat to restrict exports of rare earth materials. But the EU’s counterstrik… [+4619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Trump considering China export ban on items made with or containing U.S. software — sweeping restriction to hit hard in response to Beijing’s rare earth embargo in major trade war escalation",
+      "description": "Trump is considering blocking all U.S. software from China if it doesn't lift its rare earth restrictions.",
+      "url": "https://www.tomshardware.com/tech-industry/trump-considering-china-export-ban-on-items-made-with-or-containing-u-s-software-sweeping-restriction-to-hit-hard-in-response-to-beijings-rare-earth-embargo-in-major-trade-war-escalation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VC8x6iRCmzDotaVgQ4nUyQ-1920-80.jpg",
+      "publishedAt": "2025-10-23T11:17:24Z",
+      "content": "The White House is considering banning exports to China of all items that were made with or contain U.S.-made software in response to China’s announcement of rare earth export controls. According to … [+3498 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108070000-1733157899695-gettyimages-2181548962-sg016167_7kn0tl75.jpeg?v=1761134535&w=1920&h=1080",
       "publishedAt": "2025-10-22T12:02:40Z",
       "content": "German auto giant Volkswagen on Wednesday warned of temporary production outages citing China's export restrictions on semiconductors made by Nexperia.\r\nA spokesperson for Volkswagen told CNBC by ema… [+960 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "E. Fylladitakis",
-      "title": "MSI MAG A850GLS PCIE5 power supply review",
-      "description": "An aesthetically ambitious 850W PSU that balances mainstream pricing with premium aspirations, delivering competent performance wrapped in MSI's signature geometric styling.",
-      "url": "https://www.tomshardware.com/pc-components/power-supplies/msi-mag-a850gls-pcie5-power-supply-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vphCq9gmiRKvCzSPHHuTPQ-1920-80.jpg",
-      "publishedAt": "2025-10-22T12:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.MSI's journey from m… [+16986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI is already taking white-collar jobs. Economists warn there's 'much more in the tank'",
-      "description": "Across banking, the auto sector and retail, executives are warning employees and investors that AI is taking over jobs.",
-      "url": "https://www.cnbc.com/2025/10/22/ai-taking-white-collar-jobs-economists-warn-much-more-in-the-tank.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212066-1760473027063-gettyimages-2240649632-2025_DREAMFORCE.jpeg?v=1761082154&w=1920&h=1080",
-      "publishedAt": "2025-10-22T11:47:33Z",
-      "content": "Marc Benioff, chief executive officer of Salesforce Inc., speaks during the 2025 Dreamforce conference in San Francisco, California, US, on Tuesday, Oct. 14, 2025. \r\nJPMorgan Chase and Goldman Sachs … [+7159 chars]"
     }
   ]
 }
