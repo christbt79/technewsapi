@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-24T11:33:04.006Z",
+  "fetchedAt": "2025-10-24T12:18:12.090Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Redwood Materials raises another $350M to power up its energy storage business | TechCrunch",
+      "description": "Redwood Materials raises another $350M to power up its energy storage business | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/Modular_Data_Center_2.jpg?resize=1200,675",
+      "publishedAt": "2025-10-23T12:03:38Z",
+      "content": "Battery recycling and cathode production company Redwood Materials has raised $350 million as it grows its new energy storage business in a bid to power the AI data center boom.\r\nThe Series E round, … [+2293 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Hands-free home security is here, thanks to ADT and Google — but it’ll cost you",
+      "description": "My front door unlocks automatically as I walk up to it, and the home security system disarms itself - no code or app required. The system has recognized me using the Google Nest Doorbell's Familiar Faces, and confirmed I'm me using my phone's location. The du…",
+      "url": "https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258007_ADT_Plus_JTuohy_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T11:47:26Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nADT Plus, developed in partnership with Google, uses facial recognition to allow authorized users to enter the home for $40 a month.\r\nIf you buy something from a… [+17051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Owen Hughes",
+      "title": "Amazon's AI specs aim to stop delivery drivers getting lost between van and porch",
+      "description": "Why monitor staff through phones or cameras when Bezos' boxshifter can strap surveillance to their heads? Amazon is testing AI-powered smart glasses to help its drivers get from their vans to customers' doorsteps.…",
+      "url": "https://www.theregister.com/2025/10/23/amazon_ai_smart_specs/",
+      "urlToImage": "https://regmedia.co.uk/2024/01/03/delivery_shutterstock.jpg",
+      "publishedAt": "2025-10-23T11:39:41Z",
+      "content": "Amazon is testing AI-powered smart glasses to help its drivers get from their vans to customers' doorsteps.\r\nThe smart specs combine mounted cameras with computer vision and what Amazon calls \"AI-pow… [+1986 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/MfReoHBkBEAtrTuxbb2QpN-2560-80.jpg",
       "publishedAt": "2025-10-22T12:48:04Z",
       "content": "It seems that Intel might have a few more chips left in its bag of Arrow Lake-S processors, as a brand new SKU has made its way to the cross-platform benchmarking tool Geekbench. First spotted and sh… [+2785 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "China wants US semiconductor companies to submit sensitive data as part of probe — 'anti-dumping' investigation requests sales and profit data",
-      "description": "China’s Trade Remedy and Investigation Bureau under the Ministry of Commerce has published new questionnaires for US semiconductor businesses designed to find any discrepancies in their international pricing as part of an anti-dumping investigation.",
-      "url": "https://www.tomshardware.com/tech-industry/china-wants-us-semiconductor-companies-to-submit-sensitive-data-as-part-of-probe-anti-dumping-investigation-requests-sales-and-profit-data",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W6aTLptCppNQdRHjhMNA6T-1920-80.jpg",
-      "publishedAt": "2025-10-22T12:42:55Z",
-      "content": "China has launched a raft of new questionnaires for US semiconductor businesses in an effort to discover data on the companies' activities in China, and particularly how their prices, income, and pro… [+2774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Beyond Meat shares surge for a third day in a row as meme traders jump on board",
-      "description": "It's the latest in an extraordinary week for the stock, which on Tuesday enjoyed its best day ever.",
-      "url": "https://www.cnbc.com/2025/10/22/beyond-meat-shares-surge-for-a-third-day-in-a-row-as-meme-traders-jump-on-board.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108017481-1723040609169-gettyimages-1585647508-Illustrated_Beyond_Meat.jpeg?v=1761132240&w=1920&h=1080",
-      "publishedAt": "2025-10-22T12:32:54Z",
-      "content": "Beyond Meat rallied for a third straight day Wednesday as meme traders jump on the stock.\r\nThe food company known for its plant-based burgers and sausages surged 111% at one point in the premarket We… [+2141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Auto giant Volkswagen warns of output stoppages amid Nexperia chip disruption",
-      "description": "Volkswagen on Wednesday warned of temporary production outages citing China's export restrictions on semiconductors made by Nexperia.",
-      "url": "https://www.cnbc.com/2025/10/22/volkswagen-warns-of-output-stoppages-amid-nexperia-chip-disruption.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108070000-1733157899695-gettyimages-2181548962-sg016167_7kn0tl75.jpeg?v=1761134535&w=1920&h=1080",
-      "publishedAt": "2025-10-22T12:02:40Z",
-      "content": "German auto giant Volkswagen on Wednesday warned of temporary production outages citing China's export restrictions on semiconductors made by Nexperia.\r\nA spokesperson for Volkswagen told CNBC by ema… [+960 chars]"
     }
   ]
 }
