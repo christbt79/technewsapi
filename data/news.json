@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-24T20:10:01.725Z",
+  "fetchedAt": "2025-10-24T20:38:17.786Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Anthropic's Google Cloud deal includes 1 million TPUs and 1 GW of capacity in 2026",
+      "description": "While Google is powering Anthropic's next phase of compute expansion, Amazon remains its most deeply embedded partner.",
+      "url": "https://www.cnbc.com/2025/10/23/anthropic-google-cloud-deal-tpu.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244923-1684788591875-gettyimages-1251294457-PGONCHAR_7364.jpeg?v=1761251795&w=1920&h=1080",
+      "publishedAt": "2025-10-23T20:36:44Z",
+      "content": "In this photo illustration, Anthropic logo is seen on a smartphone screen.\r\nAnthropic and Google officially announced their cloud partnership Thursday, a deal that gives the artificial intelligence c… [+4463 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Google is turning on the gas for its data centers",
+      "description": "Google’s latest pledge to support a new clean energy technology is… a gas project? To be precise, it’s a gas-fired power plant outfitted with filtering devices to capture its planet-heating carbon emissions. Is this just a polluting fossil fuel project in she…",
+      "url": "https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK438_carbon_capture.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T20:36:09Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe tech giant is supporting a new gas and carbon capture project, a disputed way to address climate change.\r\nThe tech giant is supporting a new gas and carbon c… [+6380 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta replacing humans with AI for FTC-mandated privacy reviews",
+      "description": "Meta said that it is laying off an undisclosed number of employees in its risk organization amid a shift to use AI to automate compliance review tasks.",
+      "url": "https://www.cnbc.com/2025/10/23/meta-replacing-humans-with-ai-for-ftc-mandated-privacy-reviews.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108089123-1737389258098-gettyimages-2194353859-AFP_36UR84C.jpeg?v=1761250256&w=1920&h=1080",
+      "publishedAt": "2025-10-23T20:29:26Z",
+      "content": "Meta said Thursday that it's laying off an undisclosed number of employees in its risk organization amid a company shift to use artificial intelligence to automate its compliance review process.\r\nMic… [+2315 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "iPhone 17 Pro Max vs. Samsung Galaxy S25 Ultra: I tested both phones, and here's the winner",
+      "description": "Which flagship phone is worth your money in 2025? Here's how Apple and Samsung's latest top models stack up.",
+      "url": "https://www.zdnet.com/article/iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-tested-both-phones-and-heres-the-winner/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f8eb18a0dbc348734c98e71ac40a60111967a396/2025/10/08/99550930-7bf5-4352-86c8-3ea5049ee2f5/apple-iphone-17-pro-max-vs-samsung-galaxy-s25-ultra-i-compared-both-flagships-and-heres-the-winner.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T20:25:00Z",
+      "content": "Jason Hiner and Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nApple announced its new iPhone 17 lineup in September at the Awe-Dropping Event, and it was met with much fanfa… [+5646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Intel beats on sales in first earnings report since U.S. government became top shareholder",
+      "description": "Intel reported third-quarter results on Thursday in which sales beat analyst estimates, signaling that demand for its core x86 processors for PCs has recovered.",
+      "url": "https://www.cnbc.com/2025/10/23/intel-intc-earnings-report-q3-2025-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209988-1760019895734-lib-bu-tan-wafer-ultra-core-3-1024x726.jpg?v=1760020062&w=1920&h=1080",
+      "publishedAt": "2025-10-23T20:20:02Z",
+      "content": "Intel reported third-quarter results on Thursday in which sales beat analyst estimates, signaling that demand for its core x86 processors for PCs has recovered.\r\nShares of the chipmaker were up 6% in… [+3090 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "These Samsung Galaxy S26 leaks suggest the biggest performance change I've seen yet",
+      "description": "Samsung's flagships are overdue for an overhaul. Here are all the Galaxy S26 rumors so far, including processor, camera, battery, and more.",
+      "url": "https://www.zdnet.com/article/these-samsung-galaxy-s26-leaks-suggest-the-biggest-performance-change-ive-seen-yet/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/77535f5bace56be83d2f7b912e968fdde8936f5f/2025/01/17/067f380f-83eb-4554-9cbf-a8d6c1991f94/dsc03712.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T20:16:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5642 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Target cuts 1,800 corporate jobs in its first major layoffs in a decade",
+      "description": "Target's incoming CEO Michael Fiddelke said the cuts are designed to spur growth and make the retailer faster.",
+      "url": "https://www.cnbc.com/2025/10/23/target-layoffs-corporate-jobs-sales-slump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188060-1755616409044-gettyimages-2228107591-250802_sd_logos_113.jpeg?v=1755616566&w=1920&h=1080",
+      "publishedAt": "2025-10-23T20:12:25Z",
+      "content": "Target said on Thursday it's cutting 1,800 corporate jobs as the retailer tries to get back to growth after four years of roughly stagnant sales.\r\nIt marks the first major round of layoffs in a decad… [+3511 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094474-17381853142025-01-22t112734z_1966914399_rc2yecaqwjzw_rtrmadp_0_davos-meeting.jpeg?v=1738271431&w=1920&h=1080",
       "publishedAt": "2025-10-22T20:28:49Z",
       "content": "IBM reported third-quarter results that topped Wall Street estimates and lifted its guidance, citing ongoing artificial intelligence tailwinds. Still, the stock dropped 5% in extended trading. \r\nHere… [+1555 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Tesla’s revenues rebound as consumers race to claim expiring tax credit",
-      "description": "Tesla reported a profitable third quarter today — its first this year — as shoppers scrambled to snatch up the company’s EVs in record numbers before the federal EV tax credit expired. Tesla said it earned $1.4 billion in net income on $28.1 billion in revenu…",
-      "url": "https://www.theverge.com/news/803886/tesla-q3-2025-earnings-revenue-profit-ev-elon-musk",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T20:08:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis is likely to be a rare bright spot in an otherwise gloomy year for the company.\r\nThis is likely to be a rare bright spot in an otherwise gloomy year for the… [+4930 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Reddit to Perplexity: Get your filthy hands off our forums",
-      "description": "Social media site continues legal campaign against those who take its content without a license Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.…",
-      "url": "https://www.theregister.com/2025/10/22/reddit_sues_perplexity/",
-      "urlToImage": "https://regmedia.co.uk/2018/08/01/shutterstock_reddit_logo.jpg",
-      "publishedAt": "2025-10-22T19:40:21Z",
-      "content": "Reddit on Wednesday filed a lawsuit against Perplexity AI and three of its alleged data dealers for trafficking in unlawfully scraped information.\r\nThe complaint, filed in the Southern District of Ne… [+4075 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Wyze’s budget-friendly video doorbell gets a six-month battery",
-      "description": "Wyze has announced a new budget-friendly doorbell camera. The Wyze Battery Video Doorbell looks similar to the Video Doorbell v2 the brand released in 2023, but as the name implies, it adds a rechargeable battery so it’s easier to install without the need for…",
-      "url": "https://www.theverge.com/news/804394/wyze-battery-video-doorbell-security-camera",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/wyze_doorbell_1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T19:14:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Wyze Battery Video Doorbell also offers a wider field of view, letting you see packages leaning against your door.\r\nThe Wyze Battery Video Doorbell also offe… [+4407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump administration port fees slam shipper with $34 million tariff bill: \"A lot of shaking of heads,\" says shocked U.S. freight CEO",
-      "description": "Last-minute changes by President Trump's USTR to new port fees have stuck one U.S.-based ocean carrier with an estimated $34 million annual tariff bill.",
-      "url": "https://www.cnbc.com/2025/10/22/new-trump-port-fees-slam-us-freight-ship-owner-34-million-tariff-bill.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215414-1761148855181-ACL_VESSEL.jpg?v=1761159763&w=1920&h=1080",
-      "publishedAt": "2025-10-22T19:09:20Z",
-      "content": "Last-minute changes to new port fees enacted by the Trump administration's U.S. Trade Representative have stuck one U.S.-based ocean carrier with an estimated annual tariff bill of $34 million, after… [+5380 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Worried about superintelligence? So are these AI leaders - here's why",
-      "description": "Leaders including Geoffrey Hinton and Yoshua Bengio signed a petition arguing that the next phase of AI poses an existential risk to humanity.",
-      "url": "https://www.zdnet.com/article/worried-about-superintelligence-so-are-these-ai-leaders-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/41a6ef35cd07a268da6a250649611ac25d4425b1/2025/10/22/362d56cf-d2af-4606-8d03-cbabde412c92/gettyimages-2192526666.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T18:52:50Z",
-      "content": "MirageC/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Leaders argue that AI could existentially threaten humans.</li><li>Prominent AI … [+5074 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "OpenAI’s Atlas is more about ChatGPT than the web",
-      "description": "OpenAI's new browser is a surface for the company to distribute ChatGPT and develop new AI features rather than improving core web experience.",
-      "url": "https://techcrunch.com/2025/10/22/openais-atlas-is-more-about-chatgpt-than-the-web/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Homepage.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-22T18:51:43Z",
-      "content": "OpenAI unveiled its AI browser, ChatGPT Atlas, during a livestream on Tuesday. There are other AI browsers such as The Browser Company’s Dia, Opera’s Neon, Perplexity’s Comet, and General Catalyst-ba… [+5007 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Amazon unveils AI smart glasses for its delivery drivers | TechCrunch",
-      "description": "Amazon likely hopes that the new glasses will shave valuable time off of each delivery by providing delivery drivers with detailed directions and information about hazards directly in their line of sight.",
-      "url": "https://techcrunch.com/2025/10/22/amazon-unveils-ai-smart-glasses-for-its-delivery-drivers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/amazon-glasses.png?resize=1200,667",
-      "publishedAt": "2025-10-22T18:35:16Z",
-      "content": "Amazon announced on Wednesday that it’s developing AI-powered smart glasses for its delivery drivers. The idea behind the glasses is to give delivery drivers a hand-free experience that reduces the n… [+2159 chars]"
     }
   ]
 }
