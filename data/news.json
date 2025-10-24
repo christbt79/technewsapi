@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T22:08:53.047Z",
+  "fetchedAt": "2025-10-24T22:37:50.737Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft AI chief says company won’t build chatbots for erotica",
+      "description": "Microsoft AI CEO Mustafa Suleyman said the software company won't build erotica AI services, the latest break with rival-partner OpenAI.",
+      "url": "https://www.cnbc.com/2025/10/23/microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1697126213&w=1920&h=1080",
+      "publishedAt": "2025-10-23T22:29:17Z",
+      "content": "Microsoft AI CEO Mustafa Suleyman said the software giant won't build artificial intelligence services that provide \"simulated erotica,\" distancing itself from longtime partner OpenAI.\r\n\"That's just … [+1922 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/22/maverick_2_oam.jpg",
       "publishedAt": "2025-10-22T21:35:44Z",
       "content": "Researchers and engineers working in particle physics, materials analysis, or drug discovery haven't exactly been spoiled for choice when it comes to chips capable of the highly precise double-precis… [+5686 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Snapchat makes its first open prompt AI Lens available for free in the US",
-      "description": "Snapchat is expanding access to its AI-powered “Imagine Lens,” allowing all users to generate and edit images with custom prompts for free.",
-      "url": "https://techcrunch.com/2025/10/22/snapchat-makes-its-first-open-prompt-ai-lens-available-for-free-in-the-us/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Imagine_Lens_16x9.jpg?resize=1200,675",
-      "publishedAt": "2025-10-22T21:25:30Z",
-      "content": "Snapchat is making its new “Imagine Lens,” the company’s first open prompt image-generation AI Lens, available to all users for free. The Lens was initially launched in September but only for paid su… [+1825 chars]"
     }
   ]
 }
