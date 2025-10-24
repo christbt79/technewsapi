@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-24T09:11:19.988Z",
+  "fetchedAt": "2025-10-24T09:37:38.505Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "McKinsey says bank profits face possible $170 billion AI hit",
+      "description": "The consultancy firm predicted that customer uptake of agentic AI — effectively autonomous bots — would hit the profits banks earn from customer money in low interest accounts, according to a report from McKinsey",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/mckinsey-says-bank-profits-face-possible-170-billion-ai-hit",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/kc634f/article70193133.ece/alternates/LANDSCAPE_1200/IMG_bl01_AI_2_1_IJDU65D3.jpg",
+      "publishedAt": "2025-10-23T09:30:22Z",
+      "content": "Banks face a hit to their bottom lines of as much as $170 billion if they dont adapt their business models to respond to customers turning to artificial intelligence to optimise their finances.\r\nThe … [+1481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "First rare earths and chips, now quantum computers: Trump reportedly eyes new U.S. stakes",
+      "description": "The Trump administration is reportedly in talks with several quantum-computing firms about government taking equity stakes in exchange for funding.",
+      "url": "https://www.cnbc.com/2025/10/23/first-rare-earths-and-chips-now-quantum-computers-trump-reportedly-eyes-new-us-stakes.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183656-1754669527774-gettyimages-2218892091-AFP_49Q43G8.jpeg?v=1761211036&w=1920&h=1080",
+      "publishedAt": "2025-10-23T09:27:52Z",
+      "content": "The Trump administration is in talks with several quantum-computing firms about giving the Commerce Department equity stakes in exchange for federal funding, the Wall Street Journal reported on Wedne… [+2781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Why I recommend this Dell laptop over competing Windows PCs for work",
+      "description": "Dell's 14 Plus is my go-to office laptop for its high-performing hardware and impressive battery life.",
+      "url": "https://www.zdnet.com/article/why-i-recommend-this-dell-laptop-over-competing-windows-pcs-for-work/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9175adc275bd1c939d61bfbeb3f1db5de384d663/2025/05/14/07069939-8c96-4b07-b985-9197699b4ec1/dell-14-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T09:15:28Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBack in early 2025, Dell made a bold move. The company announced that it was going to rebrand its entire portfolio. Classic names like \"XPS\" and… [+6373 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/RE8o4v8CYitxoGAJXmpV9U-1920-80.jpg",
       "publishedAt": "2025-10-22T09:33:12Z",
       "content": "Normally, simulations for scientific research are performed on supercomputers as they require tremendous compute throughput. There are also types of research — such as simulation of quantum behavior … [+4045 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Chinese companies unveil a swathe of breakthrough chipmaking innovations at tradeshow — chipmaking lithography tools, software design tools, and resists all on display as the nation pursues self-sufficiency",
-      "description": "At Shenzhen’s WeSemiBay Expo, Huawei-backed SiCarrier and SMEE spinoff Amies Technologies unveiled new chipmaking tools, EDA software, and EUV-grade materials, as China doubles down on semiconductor self-sufficiency.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-companies-unveil-a-swathe-of-breakthrough-chipmaking-innovations-at-tradeshow-chipmaking-lithography-tools-software-design-tools-and-resists-all-on-display-as-the-nation-pursues-self-sufficiency",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/LTqF8sjh9Bnxr3U8JtH3Y-2560-80.jpg",
-      "publishedAt": "2025-10-22T09:30:00Z",
-      "content": "A number of Chinese companies introduced their semiconductor-related innovations at the ongoing WeSemiBay Semiconductor Ecosystem Expo in Shenzhen, China. Amies Technologies, a spinoff from Shanghai … [+2891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Data centers turn to commercial aircraft jet engines bolted onto trailers as AI power crunch bites — cast-off turbines generate up to 48 MW of electricity apiece",
-      "description": "Faced with multi-year delays to secure grid power, US data center operators are deploying aeroderivative gas turbines to keep AI infrastructure online.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers-turn-to-ex-airliner-engines-as-ai-power-crunch-bites",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SNparuUYnM5PjH5MyZAkDa-1053-80.png",
-      "publishedAt": "2025-10-22T09:00:00Z",
-      "content": "Faced with multi-year delays to secure grid power, US data center operators are deploying aeroderivative gas turbines — effectively retired commercial aircraft engines bolted into trailers — to keep … [+2616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "As an audiophile, these $100 headphones get my seal of approval - here's why",
-      "description": "Baseus' Inspire XH1 headphones sound a lot better than their price would suggest.",
-      "url": "https://www.zdnet.com/article/as-an-audiophile-these-100-headphones-get-my-seal-of-approval-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/40bc131f4944464b716a57d2afd0c3772fcd4899/2025/10/21/c16fad4d-ec72-475e-8694-bce36ee9fd90/xh1case.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T08:10:31Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAs a big fan of classical music, I understand that despite what you may think, it doesn't sound good in any old headphones, regardless of price.… [+4969 chars]"
     }
   ]
 }
