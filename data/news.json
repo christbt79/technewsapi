@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-24T14:41:05.408Z",
+  "fetchedAt": "2025-10-24T15:09:55.871Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Google Earth’s expanded AI features make it easier to ask it questions",
+      "description": "Google is expanding its AI features within Google Earth. It’s now easier to chat with Google Earth AI models, introduced in July, to identify infrastructure vulnerable to an oncoming storm, for example, or spot communities at risk of dust storms during a drou…",
+      "url": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1_zhxeIkbWyps7mB8jU2KhFQ.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T15:09:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini will now connect different Google Earth AI models for trusted tester users. \r\nGemini will now connect different Google Earth AI models for trusted tester … [+2336 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Copilot is getting more personality with a ‘real talk’ mode and group chats",
+      "description": "Microsoft is rolling out some significant changes to its Copilot AI assistant today. There’s a new groups feature that connects multiple people into a Copilot chat, memory to let Copilot learn things about you, a new “real talk” mode that will bring back some…",
+      "url": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T15:05:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is also adding better memory, improvements to health queries, and a new Mico voice character.\r\nMicrosoft is also adding better memory, improvements to … [+4494 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "Cluely’s Roy Lee joins Disrupt 2025 to share how he cut through the AI noise | TechCrunchs",
+      "description": "Cluely’s Roy Lee joins the Disrupt Stage at TechCrunch Disrupt 2025, happening October 27–29 at San Francisco’s Moscone West. Register now to save.",
+      "url": "https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Roy-Lee-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-23T15:04:20Z",
+      "content": "Cluelys Roy Lee isnt afraid to stir the pot and hes taking that bold energy to the Disrupt Stage at TechCrunch Disrupt 2025, happening October 27-29 at San Franciscos Moscone West.\r\nHell dive into ho… [+2239 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "Google Earth Gets an AI Chatbot to Help Chart the Climate Crisis",
+      "description": "New AI features in Google Earth let users ask chatbot-style questions to find changes in the climate. The system could eventually predict disasters and identify the communities likely to be affected.",
+      "url": "https://www.wired.com/story/google-earth-gemini-ai-chatbot/",
+      "urlToImage": "https://media.wired.com/photos/68f959aca91fabafe58f44df/191:100/w_1280,c_limit/gear-google-earth-669824188.jpg",
+      "publishedAt": "2025-10-23T15:00:00Z",
+      "content": "Google has come up with a way to better map Earths disasters, predict them, and be able to track which communities and ecosystems are going to be wrought by their destruction. If you want to find out… [+1140 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zeyi Yang",
+      "title": "The Man Who Makes AI Slop by Hand",
+      "description": "Chinese creator Tianran Mu went viral for mimicking the eerie, unsettling aesthetic of AI videos, but his work is 100 percent human.",
+      "url": "https://www.wired.com/story/made-in-china-the-chinese-creator-who-imitates-ai-slop/",
+      "urlToImage": "https://media.wired.com/photos/68f938fb8134625e057c96f3/191:100/w_1280,c_limit/Made-In-China-Mu-Tianran-Business.jpg",
+      "publishedAt": "2025-10-23T15:00:00Z",
+      "content": "Mu is not the only comedian who has tried to imitate the style of AI-generated videos, but he really nails all of the elements: The clumsy bodily movements, the spaced-out facial expressions, and the… [+2766 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Elon Musk's Starlink reportedly tasks Samsung to build AI-powered modem — space-based 6G service could revolutionize satellite-to-device connectivity",
+      "description": "Samsung is developing an AI-boosted modem chip to enable Earthbound devices to connect directly with Elon Musk’s Starlink service, according to Korean insider sources.",
+      "url": "https://www.tomshardware.com/networking/elon-musks-starlink-reportedly-tasks-samsung-to-build-ai-powered-modem-space-based-6g-service-could-revolutionize-satellite-to-device-connectivity",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aJu5KaqHiZ3J4iNrmbwSbB-1920-80.jpg",
+      "publishedAt": "2025-10-23T14:55:29Z",
+      "content": "Samsung is developing an AI-boosted modem chip to enable Earthbound devices to connect directly with Elon Musk’s Starlink service, according to insider sources talking to the Korean Economic Daily (K… [+2666 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Events",
+      "title": "The top judges for the final round of Startup Battlefield 200 at Disrupt 2025 | TechCrunch",
+      "description": "The Startup Battlefield 200 finalist judges finally announced. Happening at TechCrunch Disrupt 2025 on October 27-29. Register now to save.",
+      "url": "https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Rose-Hartz-Green-Lee_5-Speaker-16x9-Dark.png?resize=1200,675",
+      "publishedAt": "2025-10-23T14:49:24Z",
+      "content": "The stakes dont get higher than this. At TechCrunch Disrupt 2025, the Startup Battlefield 200 finalists will take the stage one last time to compete for the $100,000 equity-free prize. Deciding their… [+4386 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/13e8bcc522317a238c878ab6b32b0df3cbeb7a25/2025/10/22/9748425d-c4c2-40ba-9aae-b84f8141784a/gettyimages-155384933.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T15:04:35Z",
       "content": "alengo / E+ / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Clickfix attacks surged 500% in early 2025.</li><li>Cybercriminals now use AI in BEC… [+6879 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "U.K. designates Apple and Google as having ‘strategic market status,’ opening door for more regulation",
-      "description": "The U.K.’s competition regulator has designated Apple and Google with “strategic market status” in their mobile platforms, giving the regulator new powers to enforce competition in areas like app stores, browsers, and operating systems.",
-      "url": "https://techcrunch.com/2025/10/22/u-k-designates-apple-and-google-as-having-strategic-market-status-opening-door-for-more-regulation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/apple-fighting-google.jpg?resize=1200,675",
-      "publishedAt": "2025-10-22T15:03:37Z",
-      "content": "The U.K.’s Competition and Markets Authority (CMA) said on Wednesday that it’s designating Apple and Google with strategic market status in their respective mobile platforms. The decision, which affe… [+2130 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nilay Patel",
-      "title": "Why GM will give you Gemini — but not CarPlay",
-      "description": "We’ve got a special episode of Decoder today. I’m talking to General Motors CEO Mary Barra and new GM Chief Product Officer Sterling Anderson about a lot of big news the company just announced. That includes a Google Gemini-powered AI assistant that’s coming …",
-      "url": "https://www.theverge.com/podcast/803379/gm-ceo-mary-barra-sterling-anderson-cadillac-iq-ev-autonomy-interview",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_1022.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T15:01:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGM CEO Mary Barra and new chief product officer Sterling Anderson on the companys plans for AI, autonomy, and EVs.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from… [+70965 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Sumble emerges from stealth with $38.5M to bring AI-powered context to sales intelligence | TechCrunch",
-      "description": "The founders of machine learning community Kaggle are trying to upend the crowded sales prospecting market with AI. And they're making headway.",
-      "url": "https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Sumble-Team.png?resize=901,1200",
-      "publishedAt": "2025-10-22T15:00:23Z",
-      "content": "Ask any salesperson how much information they’d like on a prospective customer and you’ll never hear the end of it. That’s the premise driving the crowded sales intelligence market, which today has s… [+4522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "GM plans to launch eyes-off driving, Google AI and other new in-vehicle tech by 2028",
-      "description": "The company announced other tech initiatives as part of its \"GM Forward\" event in Lower Manhattan.",
-      "url": "https://www.cnbc.com/2025/10/22/gm-tech-google-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108135664-1745437608246-gettyimages-2211653207-331a5620_lvmpzqyc.jpeg?v=1745437722&w=1920&h=1080",
-      "publishedAt": "2025-10-22T15:00:01Z",
-      "content": "General Motors CEO Mary Barra speaks during the Semafor World Economy Summit 2025 at Conrad Washington on April 23, 2025 in Washington, DC. \r\nNEW YORK General Motors is targeting a suite of new softw… [+6782 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Aarian Marshall",
-      "title": "General Motors’ ‘Eyes-Off’ System Begs the Question: What Happens When Cars Go AI?",
-      "description": "General Motors’ new self-driving system will let the driver speed down the highway without looking at the road. It’s one of several features enabled by the adoption of machine intelligence in cars.",
-      "url": "https://www.wired.com/story/cadillac-escalade-eyes-off-driving/",
-      "urlToImage": "https://media.wired.com/photos/68f8032b71e77197788c300d/191:100/w_1280,c_limit/Cadillac-Escalades-Eyes-Off-Driving-Gear-Cadillac-Escalade-IQL-1.jpg",
-      "publishedAt": "2025-10-22T15:00:00Z",
-      "content": "General Motors is launching another salvo in the self-driving wars.\r\nIn 2028, the automaker announced today, it will roll out what its calling an eyes-off driving system on the electric Cadillac Esca… [+2538 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The S&P 500 is more concentrated with AI than ever. Here's how to manage your risk",
-      "description": "AI stocks now dominate the S&P 500, raising big questions about diversification and your retirement portfolio.",
-      "url": "https://www.cnbc.com/2025/10/22/your-portfolio-may-be-more-tech-heavy-than-you-think.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183096-17545812872025-08-07t145751z_474777070_rc2e2ga58lnz_rtrmadp_0_usa-stocks.jpeg?v=1754581352&w=1920&h=1080",
-      "publishedAt": "2025-10-22T14:58:54Z",
-      "content": "If you own an S&amp;P 500 index fund, artificial intelligence is already a major part of your investment strategy.\r\nIn recent years, the stock market's gains have been fueled largely by a small group… [+2463 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "Ring’s Battery Doorbell Plus has returned to its October Prime Day price",
-      "description": "After extensive testing we selected Ring’s Battery Doorbell Plus as the best battery-powered doorbell camera, and it has returned to its all-time low price of $79.99 ($70 off) at Amazon for the second time ever. If you missed out on picking up the video doorb…",
-      "url": "https://www.theverge.com/tech/804325/ring-battery-doorbell-plus-ember-smart-mug-2-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Ring-Battery-Video-Doorbell-Verge-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T14:58:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the Ember Temperature Control Smart Mug 2 and Zagg 6-Port Media Hub.\r\nWe also found deals on the Ember Temperature Control Smart Mug 2 and… [+4841 chars]"
     }
   ]
 }
