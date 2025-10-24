@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T07:09:23.964Z",
+  "fetchedAt": "2025-10-24T07:33:36.644Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "UK.gov vows to hack through regulation to get benefit from AI",
+      "description": "Meanwhile, civil services claims 75,000 days could be saved by the tech each year Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI \"sandboxing\" and backing a raft of projects it claims could benefit from red-tape cu…",
+      "url": "https://www.theregister.com/2025/10/23/uk_ai_regulations/",
+      "urlToImage": "https://regmedia.co.uk/2021/07/06/shutterstock_red_tape.jpg",
+      "publishedAt": "2025-10-23T07:15:06Z",
+      "content": "Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI \"sandboxing\" and backing a raft of projects it claims could benefit from red-tape cutting.\r\nThe moves come… [+3074 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/11/09/shutterstock_engine_tuning.jpg",
       "publishedAt": "2025-10-22T08:00:05Z",
       "content": "Automated database systems based on vector embedding algorithms could improve the performance of default settings on common PostgreSQL database services by a factor of two to ten, according to a data… [+4867 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's The China Connection newsletter: Losing the Chinese shopper could soon have global consequences",
-      "description": "Apple and other Western brands are still trying hard to reach Chinese shoppers as the Singles Day promotional period gets under way.",
-      "url": "https://www.cnbc.com/2025/10/22/losing-the-chinese-shopper-could-soon-have-global-consequences.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214516-1761112783604-File.jpg?v=1761112834&w=1920&h=1080",
-      "publishedAt": "2025-10-22T06:55:59Z",
-      "content": "Apple CEO Tim Cook met with Labubu artist Kasing Lung during a trip to China in Oct. 2025, as pictured here on the iPhone company's official Xiaohongshu account.\r\nThis report is from this week's CNBC… [+9127 chars]"
     }
   ]
 }
