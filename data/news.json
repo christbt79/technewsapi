@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-24T19:07:24.097Z",
+  "fetchedAt": "2025-10-24T19:31:50.455Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Your phishing detection skills are no match for 2025's biggest security threats",
+      "description": "A new report reveals hackers are shifting tactics to target humans in scams, and it's working. See who's most at risk from Clickfix attacks.",
+      "url": "https://www.zdnet.com/article/your-phishing-detection-skills-are-no-match-for-2025s-biggest-security-threats/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b99398128db0ab459879e1be2a6951e16a94c985/2025/10/23/33e675d8-298f-4abe-b7c8-908dc17128d4/bluekeyboard555gettyimages-860264044.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T19:29:00Z",
+      "content": "Bill Hinton/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Clickfix attacks surged 500% in early 2025.</li><li>Cybercriminals now use … [+6888 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-okafor",
+      "title": "20-year-old dropouts built AI notetaker Turbo AI to 5 million users | TechCrunch",
+      "description": "Rudy Arora and Sarthak Dhawan, two 20-year-old college dropouts, are behind Turbo AI, one of the fastest-growing AI notetaker tools.",
+      "url": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2422.jpeg?resize=1200,742",
+      "publishedAt": "2025-10-23T19:25:41Z",
+      "content": "Five million users. Eight-figure annual recurring revenue. Twenty thousand new users joining daily. These are some solid numbers for a startup called Turbo AI launched in early 2024 by Rudy Arora and… [+4158 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Instagram users can now use Meta AI editing tools directly in IG Stories | TechCrunch",
+      "description": "Meta AI's photo editing tools can be found in Instagram Stories when tapping the paintbrush icon. Users can describe what they want to add, remove, or change.",
+      "url": "https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/InstagramMetaAI-Stories.jpeg?w=1200",
+      "publishedAt": "2025-10-23T19:24:14Z",
+      "content": "Meta is bringing its AI-powered photo and video editing tools directly to Instagram Stories, allowing users to enter text prompts to add or remove things in photos and videos or even change it comple… [+2052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Excel is three sheets to the window on iOS as update borks everything",
+      "description": "iPhone and iPad users vexed by denial of spreadsheets Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers' great annoyance.…",
+      "url": "https://www.theregister.com/2025/10/23/microsoft_excel_for_ios/",
+      "urlToImage": "https://regmedia.co.uk/2024/08/14/shutterstock_iphone.jpg",
+      "publishedAt": "2025-10-23T19:23:27Z",
+      "content": "Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers' great annoyance.\r\nThe problems appear to have begun following the release of Excel version 2.10… [+3642 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/amazon-glasses.png?resize=1200,667",
       "publishedAt": "2025-10-22T18:35:16Z",
       "content": "Amazon announced on Wednesday that it’s developing AI-powered smart glasses for its delivery drivers. The idea behind the glasses is to give delivery drivers a hand-free experience that reduces the n… [+2159 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "AI Models Get Brain Rot, Too",
-      "description": "A new study shows that feeding large language models low-quality, high-engagement content from social media lowers their cognitive abilities.",
-      "url": "https://www.wired.com/story/ai-models-social-media-cognitive-decline-study/",
-      "urlToImage": "https://media.wired.com/photos/68f7f1ec4eed2c4e43a9dfb9/191:100/w_1280,c_limit/AI-Lab-Illo-AI-Models-Fed-Slop-Business.jpg",
-      "publishedAt": "2025-10-22T18:00:00Z",
-      "content": "AI models may be a bit like humans, after all.\r\nA new study from the University of Texas at Austin, Texas A&amp;M, and Purdue University shows that large language models fed a diet of popular but low… [+2647 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "What’s Updog? Datadog’s new tool tells you which apps are down",
-      "description": "Cloud monitoring platform Datadog launched Updog, a web dashboard that shows the live health status of various SaaS APIs.",
-      "url": "https://techcrunch.com/2025/10/22/whats-updog-datadogs-new-tool-tells-you-which-apps-are-down/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1357481031.jpg?resize=1200,900",
-      "publishedAt": "2025-10-22T17:50:07Z",
-      "content": "Cloud monitoring and security platform Datadog has solved an age-old joke: what’s updog?\r\nDatadog’s answer is not, “Not much, you?” Rather, the company launched a web dashboard that shows developers … [+1970 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Reddit sues Perplexity for allegedly ripping its content to feed AI",
-      "description": "Reddit is suing Perplexity and three “data-scraping service providers” to “stop the industrial-scale, unlawful circumvention of data protections by a group of bad actors who will stop at nothing to get their hands on valuable copyrighted content on Reddit,” a…",
-      "url": "https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T17:38:24Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nReddit is selling your posts to AI companies, and now its suing to stop the ones who wont pay.\r\nReddit is selling your posts to AI companies, and now its suing t… [+4582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Your Amazon deliveries are getting 3 major upgrades this fall - here's what's new",
-      "description": "Amazon is determined to be your shipper of choice. Here's how.",
-      "url": "https://www.zdnet.com/article/your-amazon-deliveries-are-getting-3-major-upgrades-this-fall-heres-whats-new/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/91ed027cf4fa81a09d9dddb6bc602441f21be3d1/2025/09/30/b048b976-9217-4419-94f8-afdfdfebdba2/holiday-shopping-warning-amazon-no-longer-lets-you-archive-orders-from-your-history-heres-what-you-can-do-instead.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T17:30:37Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Amazon held its Delivering the Future event. </li><li>The event focused on how AI … [+3269 chars]"
     }
   ]
 }
