@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-24T15:38:17.387Z",
+  "fetchedAt": "2025-10-24T16:11:12.570Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "OpenAI is already planning updates to Atlas - here's what we know so far",
+      "description": "Taking on Google's and Microsoft's browser dominance, OpenAI is swiftly trying to catch up with these Atlas upgrades.",
+      "url": "https://www.zdnet.com/article/openai-is-already-planning-updates-to-atlas-heres-what-we-know-so-far/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1ed23dbbc37be29e5ae0d81ef4f02f331ea1e8ae/2025/10/23/9bd52bac-2f0e-432e-bf64-6ac01b0edaba/gettyimages-2242386472.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T16:03:27Z",
+      "content": "Anadolu/Contributor/Anadolu via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI is already promising updates to Atlas.</li><li>The company's… [+4167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "ChatGPT is down right now - what we know about the outage",
+      "description": "ChatGPT is down right now - what we know about the outage",
+      "url": "https://www.zdnet.com/article/chatgpt-is-down-right-now-what-we-know-about-the-outage/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7fe95a4ad7219264706ca24906c4259162f595ef/2025/07/21/2b6107f8-9337-481e-abfc-3ef012ce630b/is-chatgpt-down-youre-not-alone-heres-what-we-know-and-what-openai-is-saying.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T16:02:00Z",
+      "content": "NurPhoto / Contributor/NurPhoto via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT is experiencing a major outage.</li><li>OpenAI has confirmed \"… [+2639 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Meet Mico, Microsoft’s AI version of Clippy",
+      "description": "It’s been nearly 30 years since Microsoft’s Office assistant, Clippy, first graced our screens as an annoying paperclip. After the Groucho-browed interruptions of Clippy came to an end in 2001 with Office XP, Microsoft tried to revive the spirit of an assista…",
+      "url": "https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/chrome_P7wxXjb8cg.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-23T16:00:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCopilot now has its own virtual character for its voice mode.\r\nCopilot now has its own virtual character for its voice mode.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPo… [+3938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "Microsoft's latest Copilot feature drop is here - and it's massive",
+      "description": "With the Copilot Fall Release, Microsoft is unveiling a flurry of AI-powered features, including support for group chats, a chatbot to help you find credible medical information, and a cartoon blob you can talk to.",
+      "url": "https://www.zdnet.com/home-and-office/work-life/microsofts-latest-copilot-feature-drop-is-here-and-its-massive/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eb518b3954bbd18d7820bd718ac308014d0af0dd/2025/10/23/0f0f8fee-d1b0-4948-989c-cfa308ff1a92/mico-for-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T16:00:00Z",
+      "content": "The new animated Mico character is, thankfully, optional.  \r\nPhoto credit: Microsoft\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot adds group chats, a… [+5210 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Elon Musk says he needs $1 trillion to control Tesla’s ‘robot army’",
+      "description": "Well, that’s not very subtle. In an earnings call last night, Tesla CEO Elon Musk said he needs more control over Tesla, as well as a pay package that could be worth nearly $1 trillion, in exchange for building a “robot army.” Otherwise, he could get ousted a…",
+      "url": "https://www.theverge.com/transportation/805247/tesla-q3-earnings-elon-musk-robot-army-pay-package",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T15:57:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTesla shareholders will decide whether Musk deserves his money, and his robot army, at an upcoming meeting.\r\nTesla shareholders will decide whether Musk deserves… [+6398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "It's not just you: ChatGPT is down - here's what we know",
+      "description": "This might be bigger than ChatGPT.",
+      "url": "https://www.zdnet.com/article/its-not-just-you-chatgpt-is-down-heres-what-we-know/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2ab6be3ef915d699b63dce2b3b36d00e10210cc2/2025/10/23/5f7ad1ab-9b99-4b47-b45a-664cadd25a3e/gettyimages-2218950027.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T15:44:00Z",
+      "content": "NurPhoto / Contributor/NurPhoto via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT is experiencing a major outage.</li><li>OpenAI has confirmed \"… [+2389 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/02/28/shutterstockaxe.jpg",
       "publishedAt": "2025-10-22T16:14:12Z",
       "content": "Microsoft will kill Office Online Server next year, creating a headache for anyone using on-premises Office web applications and the beleaguered holdouts sticking with Skype for Business Server.\r\nThe… [+2348 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Anti-diversity activist Robby Starbuck is suing Google now",
-      "description": "Robby Starbuck is suing Google, claiming that its AI search tools falsely linked him to sexual assault allegations and white nationalist Richard Spencer. This is the second case that Starbuck, known for his online campaigns against corporate diversity efforts…",
-      "url": "https://www.theverge.com/news/804494/anti-diversity-activist-robby-starbuck-is-suing-google-now",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T16:06:54Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe defamation suit claims AI results falsely link Starbuck to a white supremacist and a sexual assault allegation.\r\nThe defamation suit claims AI results falsel… [+3490 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "This Open Source Robot Brain Thinks in 3D",
-      "description": "Open source language models are crucial to AI innovation. Can open robotics models do the same for physical machines?",
-      "url": "https://www.wired.com/story/this-open-source-robot-brain-thinks-in-3d/",
-      "urlToImage": "https://media.wired.com/photos/68f806f7302a4fd65a7729eb/191:100/w_1280,c_limit/Robot-3D-Thinking-Business.jpg",
-      "publishedAt": "2025-10-22T16:00:42Z",
-      "content": "European roboticists today released a powerful open-source artificial intelligence model that acts as a brain for industrial robotshelping them grasp and manipulate things with new dexterity.\r\nThe ne… [+2419 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Meta cuts 600 AI jobs amid ongoing reorganization | TechCrunch",
-      "description": "Meta continues to restructure its AI efforts after poaching more than 50 researchers from competing labs this summer.",
-      "url": "https://techcrunch.com/2025/10/22/meta-cuts-600-ai-jobs-amid-ongoing-reorganization/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-      "publishedAt": "2025-10-22T15:38:53Z",
-      "content": "Meta’s chief AI officer, Alexandr Wang, wrote in a memo to staff on Wednesday that the company will cut about 600 jobs from its superintelligence lab, according to a report from Axios.\r\nMeta declined… [+1040 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Want to upskill in AI for free? Google has 3,000 new courses for you - and certificates to go with them",
-      "description": "With the new Google Skills online platform, you can sign up for different courses and labs to learn AI.",
-      "url": "https://www.zdnet.com/article/want-to-upskill-in-ai-for-free-google-has-3000-new-courses-for-you-and-certificates-to-go-with-them/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c05b4a587f4d7802e0eed2de0586798e9ef7d4e2/2025/10/22/66bfcfbb-bdd3-483d-901c-26abd9d45f6b/gettyimages-2166130918.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T15:37:17Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Skills offers more than 3,000 classes in AI, many for free.</li><li>The… [+3999 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "GM is bringing Google Gemini-powered AI assistant to cars in 2026  | TechCrunch",
-      "description": "GM is the latest automaker to lean into generative AI-based assistants that promise to respond to driver requests in a more natural-sounding way. Stellantis is collaborating with French AI firm Mistral, Mercedes is integrating ChatGPT, and Tesla has brought x…",
-      "url": "https://techcrunch.com/2025/10/22/gm-is-bringing-google-gemini-powered-ai-assistant-to-cars-in-2026/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
-      "publishedAt": "2025-10-22T15:33:57Z",
-      "content": "General Motors will add a conversational AI assistant powered by Google Gemini to its cars, trucks, and SUVs starting next year, the U.S. automaker said Wednesday during an event in New York City. \r\n… [+4484 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "GM to introduce eyes-off, hands-off driving system in 2028  | TechCrunch",
-      "description": "GM said Cruise’s technology stack, including its AI models trained on five million driverless miles and simulation framework, feed directly into the automaker’s next-generation driver assistance and autonomy programs.",
-      "url": "https://techcrunch.com/2025/10/22/gm-to-introduce-eyes-off-hands-off-driving-system-in-2028/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GM-Cadillac-Escalade-IQL-eyes-off-driving.jpg?resize=1200,675",
-      "publishedAt": "2025-10-22T15:33:12Z",
-      "content": "General Motors said it plans to launch an automated driving system that will allow drivers to keep their eyes off the road and hands off the wheel in 2028, starting with the Cadillac Escalade IQ. \r\nT… [+3524 chars]"
     }
   ]
 }
