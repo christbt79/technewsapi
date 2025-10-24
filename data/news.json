@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-24T05:09:25.155Z",
+  "fetchedAt": "2025-10-24T05:38:00.097Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Musk says Samsung is taking bigger role in making Tesla chips",
+      "description": "Musk told investors on a conference call that Samsung will share manufacturing duties for the company’s in-development artificial intelligence chip, the AI5",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-s-musk-says-samsung-is-taking-bigger-role-making-its-chips",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/kxw3x3/article70192391.ece/alternates/LANDSCAPE_1200/2025-10-17T182016Z_1269004168_RC2LWGAT94R7_RTRMADP_3_TESLA-PROXY.JPG",
+      "publishedAt": "2025-10-23T05:21:07Z",
+      "content": "Tesla Inc. Chief Executive Officer Elon Musk said that Samsung Electronics Co. is taking a bigger role in manufacturing the carmakers chips, signaling that the South Korean company is making inroads … [+1674 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214997-1761078222031-gettyimages-1412458280-business444.jpeg?v=1761078319&w=1920&h=1080",
       "publishedAt": "2025-10-22T05:36:40Z",
       "content": "A group of prominent figures, including artificial intelligence and technology experts, has called for an end to efforts to create 'superintelligence' a form of AI that would surpass human intellect.… [+1970 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "US government shutdown: Trump tells Senate Republicans to stand firm",
-      "description": "Trump urges Senate Republicans to resist Democrats in ongoing government shutdown, warning of political consequences for the impasse.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-21/trump-tells-gop-senate-to-stand-firm-we-will-not-be-extorted",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/bvu0vj/article70188618.ece/alternates/LANDSCAPE_1200/2025-10-21T221615Z_1339599680_RC2LGHABJG6B_RTRMADP_3_USA-TRUMP.JPG",
-      "publishedAt": "2025-10-22T04:28:01Z",
-      "content": "US President Donald Trump urged Senate Republicans to hold the line as the US government shutdown extended into its 21st day, warning Democrats that they would bear the political fallout for the impa… [+5275 chars]"
     }
   ]
 }
