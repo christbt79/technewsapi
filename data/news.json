@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-24T14:09:53.597Z",
+  "fetchedAt": "2025-10-24T14:41:05.408Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Perplexity will give you $20 for every friend you refer to Comet - how to get your cash",
+      "description": "There doesn't seem to be a limit to how much money you can earn.",
+      "url": "https://www.zdnet.com/article/perplexity-will-give-you-20-for-every-friend-you-refer-to-comet-how-to-get-your-cash/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c20ad51f695cfc4aa93dbcafeb7798f3ab6d81e0/2025/10/23/b8b1e108-eee0-48d1-84f3-e9fc441d090f/image-720.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T14:37:23Z",
+      "content": "Screenshot by Aly Windsor/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Perplexity is offering a referral program for its Comet browser </li><li>Referra… [+2109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Owen Hughes",
+      "title": "Apple's ultra-thin iPhone flops as foldable iPad hits a crease",
+      "description": "Weak demand for iPhone Air and delays to a costly foldable tablet suggest Cupertino's hardware experiments are struggling Apple's run of hardware experiments appears to be hitting some turbulence: The company's ultra-thin iPhone Air has reportedly failed to c…",
+      "url": "https://www.theregister.com/2025/10/23/apples_ultrathin_iphone_flops/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/23/shutterstock_iphone_air.jpg",
+      "publishedAt": "2025-10-23T14:31:09Z",
+      "content": "Apple's run of hardware experiments appears to be hitting some turbulence: The company's ultra-thin iPhone Air has reportedly failed to catch on with buyers, while its long-awaited foldable iPad is s… [+2877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Business to sell? Trump's new tax law offers owners on Main Street more lucrative way to cash out",
+      "description": "Many older business owners plan to sell their business in the coming years. Trump's new tax law can make cashing out more profitable for boomers.",
+      "url": "https://www.cnbc.com/2025/10/23/owners-selling-business-trump-tax-law-savings-capital-gains.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213159-1760638374096-gettyimages-1228246461-AFP_1WU28U.jpeg?v=1760638407&w=1920&h=1080",
+      "publishedAt": "2025-10-23T14:30:01Z",
+      "content": "Thinking about selling your small business in a few years? The One Big Beautiful Bill Act could mean millions more in your pocket.\r\nPresident Donald Trump's signature legislation, enacted in July, ha… [+6269 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2025",
+      "description": "TechCrunch Disrupt 2025 roundtables bring founders, investors, and operators together for interactive small-group discussions on AI, fintech, space, and more. Check the full schedule, and don’t miss your chance to save up to $444 and 60% off a second pass bef…",
+      "url": "https://techcrunch.com/2025/10/23/get-hands-on-the-full-techcrunch-disrupt-2025-roundtable-agenda/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/roundtable_post.png?resize=1200,675",
+      "publishedAt": "2025-10-23T14:30:00Z",
+      "content": "With TechCrunch Disrupt 2025 less than 4 days away, were gearing up for an incredible three-day event packed with interactive sessions at Moscone West in San Francisco. Roundtable sessions return for… [+8389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "I tested a $139 Chromebook for a week, and I've yet to find a better laptop deal out there",
+      "description": "The Asus CX15 is an excellent budget pick for students, kids, or anyone who needs a simple everyday device.",
+      "url": "https://www.zdnet.com/article/i-tested-a-139-chromebook-for-a-week-and-ive-yet-to-find-a-better-laptop-deal-out-there/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8d6edcac7b81226764a7161868392024b9a6a8c6/2025/08/19/e41cf2d1-1f7c-4f21-9b5a-1de8016149ea/img-3524.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-23T14:29:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAsus' CX15 Chromebookis an affordable, durable laptop that handles the basics for as low as $139. With a standard hardware loadout and solid 15-… [+4390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "Fedora council approves policy allowing AI-assisted contributions",
+      "description": "Intense discussion approves AI – but subject to full responsibility and disclosure\nThe Fedora Council has approved AI-assisted contributions to its Linux distribution, following intense debate and subject to strict conditions.…",
+      "url": "https://www.theregister.com/2025/10/23/fedora_agrees_policy_allowing_ai_assisted_code_contribs/",
+      "urlToImage": "https://regmedia.co.uk/2023/02/21/ai_shutterstock.jpg",
+      "publishedAt": "2025-10-23T14:19:57Z",
+      "content": "The Fedora Council has approved AI-assisted contributions to its Linux distribution, following intense debate and subject to strict conditions.\r\nContributors must take full accountability for their s… [+3180 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial",
+      "description": "Fujifilm has announced the third iteration of its entry-level X-T30 interchangeable lens camera. The original debuted in 2019, while the X-T30 II launched in 2021 with minimal upgrades. The new Fujifilm X-T30 III also isn’t a complete reimagining of the camer…",
+      "url": "https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/fujifilm_xt30_1.jpg?quality=90&strip=all&crop=0%2C10.702615371533%2C100%2C78.594769256933&w=1200",
+      "publishedAt": "2025-10-23T14:16:43Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new X-T30 III also uses AI to detect and track subjects including people, animals, cars, trains, and birds.\r\nThe new X-T30 III also uses AI to detect and tra… [+3602 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Ring-Battery-Video-Doorbell-Verge-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-22T14:58:35Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the Ember Temperature Control Smart Mug 2 and Zagg 6-Port Media Hub.\r\nWe also found deals on the Ember Temperature Control Smart Mug 2 and… [+4841 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Shuttle raises $6 million to fix vibe-coding's deployment problem | TechCrunch",
-      "description": "The platform engineering startup Shuttle announced $6 million in seed funding to handle the infrastructure problems that start where products like Lovable and Cursor leave off.",
-      "url": "https://techcrunch.com/2025/10/22/shuttle-raises-6-million-to-fix-vibe-codings-deployment-problem/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/SHUTTLE-0011-©ivan-weiss.jpg?resize=1200,675",
-      "publishedAt": "2025-10-22T14:49:38Z",
-      "content": "The promise of vibe coding was that full-scale applications could be spun up from just an idea, powered by systems like Lovable and Replit AI. But it turns out writing the code is just the first step… [+2285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Dropping Nvidia for Amazon's custom chips helped gene therapy startup Metagenomi cut AI bill 56%",
-      "description": "It's not the size of your accelerator, it's how you use it\nGene editing startup Metagenomi has tapped AWS's Inferentia 2 accelerators to speed the discovery of potentially life-saving therapies, and said its efforts cost 56 percent less than it would have inc…",
-      "url": "https://www.theregister.com/2025/10/22/aws_metagenomi_ai_inferentia/",
-      "urlToImage": "https://regmedia.co.uk/2017/08/11/dna_circuit_board_shutterstock.jpg",
-      "publishedAt": "2025-10-22T14:43:11Z",
-      "content": "Gene editing startup Metagenomi has tapped AWS's Inferentia 2 accelerators to speed the discovery of potentially life-saving therapies, and said its efforts cost 56 percent less than it would have in… [+3807 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Last-minute TechCrunch Disrupt 2025 deal: Save 60% on your plus-one’s pass before doors open on Oct 27",
-      "description": "5 days left until TechCrunch Disrupt 2025 kicks off in San Francisco. Buy your pass to save up to $444, plus get 60% off a second ticket. Save now.",
-      "url": "https://techcrunch.com/2025/10/22/last-minute-techcrunch-disrupt-2025-deal-save-60-on-your-plus-ones-pass-before-doors-open-on-oct-27/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
-      "publishedAt": "2025-10-22T14:30:00Z",
-      "content": "Only 5 days left until TechCrunch Disrupt 2025 takes over Moscone West in San Francisco, October 27 29, bringing together 10,000+ leaders, VCs, operators, and innovators shaping the future of tech.\r\n… [+2737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "Samsung's upcoming Galaxy S26 might fix the S25's biggest flaw - here's how",
-      "description": "Samsung's flagships are overdue for an overhaul. Here's all the Galaxy S26 rumors so far.",
-      "url": "https://www.zdnet.com/article/samsungs-upcoming-galaxy-s26-might-fix-the-s25s-biggest-flaw-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/35602b5c8dcfda7c80b95cd9b442a65111bcb88a/2025/01/24/5fb73f4d-0ca8-40a7-b45f-90ec04e05e82/dsc03764-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T14:29:45Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "I tested the Oakley Meta Vanguard on a 5-mile walk - here's how it beat my Ray-Bans",
-      "description": "These AI smart glasses pack utility and style like never before. Just watch out for their one big caveat.",
-      "url": "https://www.zdnet.com/article/i-tested-the-oakley-meta-vanguard-on-a-5-mile-walk-heres-how-it-beat-my-ray-bans/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a619f6fc2ae37f32ca59e3e0e50c3b4ae69104f9/2025/10/20/dd535848-b8ea-483f-851c-0041505930e5/dsc03181.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T14:28:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nMost athletic activities can benefit from hands-free assistance -- which makes athletes among the biggest beneficiaries from smart glasses. Cate… [+7938 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Airbnb CEO Chesky says ChatGPT isn't 'quite robust enough' to integrate into travel app",
-      "description": "Airbnb CEO Brian Chesky wants to integrate ChatGPT software into the travel platform, but  the software isn't \"quite robust enough.\"",
-      "url": "https://www.cnbc.com/2025/10/22/airbnb-chatgpt-ai-chesky.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179064-17538861612025-05-22t123529z_1429119573_rc2ymeabd28p_rtrmadp_0_airbnb-france.jpeg?v=1753886191&w=1920&h=1080",
-      "publishedAt": "2025-10-22T14:25:15Z",
-      "content": "Airbnb CEO Brian Chesky said he wants to integrate ChatGPT artificial intelligence capabilities into the travel platform but the software isn't ready.\r\n\"The [software development kit] wasn't quite ro… [+1132 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta lays off 600 employees within AI unit",
-      "description": "The cuts come as Meta has been pouring billions of dollars into AI",
-      "url": "https://www.cnbc.com/2025/10/22/meta-layoffs-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108157757-1749646265248-gettyimages-2170596450-ACQUIRED_LIVE_PODCAST.jpeg?v=1754623018&w=1920&h=1080",
-      "publishedAt": "2025-10-22T14:17:00Z",
-      "content": "Meta will lay off roughly 600 employees within its artificial intelligence unit as the company looks to reduce layers and operate more nimbly, a spokesperson confirmed to CNBC on Wednesday.\r\nThe comp… [+895 chars]"
     }
   ]
 }
