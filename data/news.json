@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-24T18:43:56.509Z",
+  "fetchedAt": "2025-10-24T19:07:24.097Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Quantum stocks stayed higher after Trump administration's denial of equity talks. Here's why",
+      "description": "Shares of IonQ, Rigetti Computing, and D-Wave Quantum were all still higher despite the statement from the Commerce Department.",
+      "url": "https://www.cnbc.com/2025/10/23/quantum-stocks-trump-equity-denial.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108133732-1744950858083-Chandelier-thumb.jpg?v=1759505467&w=1920&h=1080",
+      "publishedAt": "2025-10-23T19:05:06Z",
+      "content": "The Trump administration is pouring cold water on a report that it's \"currently\" in talks to take equity stakes in quantum computing companies like IonQ, Rigetti Computing, and D-Wave Quantum, but sh… [+1949 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Russell",
+      "title": "JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date",
+      "description": "As much as I love decorations, it’s the music that really gets me into the holiday spirit. Luckily for those looking to capitalize on the upcoming holiday season, JBL’s newer Charge 6 is on sale at Walmart for $154 (about $46 off), which is one of the lowest …",
+      "url": "https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/JBL-Charge-6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T18:50:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the already-affordable CMF Buds 2A and Resident Evil Village.\r\nWe also found deals on the already-affordable CMF Buds 2A and Resident Evil… [+3931 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/91ed027cf4fa81a09d9dddb6bc602441f21be3d1/2025/09/30/b048b976-9217-4419-94f8-afdfdfebdba2/holiday-shopping-warning-amazon-no-longer-lets-you-archive-orders-from-your-history-heres-what-you-can-do-instead.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-22T17:30:37Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Amazon held its Delivering the Future event. </li><li>The event focused on how AI … [+3269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Your Amazon driver is wearing AI smart glasses now - here's what they see",
-      "description": "The glasses can help you get your packages quicker, while keeping drivers safer.",
-      "url": "https://www.zdnet.com/article/your-amazon-driver-is-wearing-ai-smart-glasses-now-heres-what-they-see/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e4434043500080e302e376aeae052daf551e3deb/2025/10/21/6411024f-a4aa-4672-ad7a-6768d7c98fba/screenshot-2025-10-21-at-2-28-21pm.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T17:30:27Z",
-      "content": "Amazon\r\nZDNET's key takeaways\r\n<ul><li>Amazon is developing smart delivery glasses. </li><li>They can help identify hazards and make it easier to find packages. </li><li>Customers' deliveries should … [+3141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Your Amazon deliveries got 3 major upgrades. Here's what's new (and why you'll want to try it)",
-      "description": "Amazon is determined to be your shipper of choice. Here's how.",
-      "url": "https://www.zdnet.com/article/your-amazon-deliveries-got-3-major-upgrades-heres-whats-new-and-why-youll-want-to-try-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5f6b58391c01608bc06cd6a1e3630aa0a80989e0/2025/10/22/b77e953a-8fdf-4723-8a85-9fd89a1cdd6a/img-1956.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-22T17:30:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Amazon held its Delivering the Future event. </li><li>The event focused on how AI and the l… [+4711 chars]"
     }
   ]
 }
