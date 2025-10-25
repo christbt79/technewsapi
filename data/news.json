@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T18:11:35.307Z",
+  "fetchedAt": "2025-10-25T18:41:54.558Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time",
+      "description": "Halloween parties are fun. The preparation and cleanup? Not so much. Luckily for those looking to make life a little easier next week, Eufy’s X10 Pro Omni is available from Amazon for $499.99 ($300 off) when you clip the on-page coupon, which matches the all-…",
+      "url": "https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/eufy_x10_pro_omni.webp?quality=90&strip=all&crop=0%2C10.723721019849%2C100%2C78.552557960301&w=1200",
+      "publishedAt": "2025-10-24T18:14:29Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOur favorite midrange robot vacuum / mop has returned to its best price to date.\r\nOur favorite midrange robot vacuum / mop has returned to its best price to date… [+2616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "3 takeaways from Intel earnings: Cash flow, foundry progress and hardware surprise",
+      "description": "CEO Lip-Bu Tan said that artificial intelligence \"is a strong foundation for sustainable long-term growth.",
+      "url": "https://www.cnbc.com/2025/10/24/intel-earnings-q3-stock-trump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
+      "publishedAt": "2025-10-24T18:13:52Z",
+      "content": "Intel snapped a losing streak of six straight quarterly losses and returned to profitability in the third quarter.\r\nIn its first earnings report since the Trump administration acquired a 10% stake in… [+2734 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800",
       "publishedAt": "2025-10-23T15:19:03Z",
       "content": "With the AI infrastructure push reaching staggering proportions, theres more pressure than ever to squeeze as much inference as possible out of the GPUs they have. And for researchers with expertise … [+2412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nexperia fallout threatens automobile production as Japanese carmakers warn of supply disruptions while European companies prep assembly line shut-downs — mature-node chip market in crisis as supply dwindles",
-      "description": "Japan's Automobile Manufacturers Association warned that Nexperia's disrupted chip supply could halt vehicle production across Japan, as Volkswagen is reportedly preparing to suspend assembly of Golf and Tiguan models as early as next week.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nexperia-fallout-threatens-automobile-production-as-japanese-carmakers-warn-of-supply-disruptions-while-european-companies-prep-assembly-line-shut-downs-mature-node-chip-market-in-crisis-as-supply-dwindles",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mxjqrkWEFS5ydxnfWD467G-2000-80.jpg",
-      "publishedAt": "2025-10-23T15:10:08Z",
-      "content": "Japan's Automobile Manufacturers Association has issued a statement claiming that Nexperia has informed its Japanese clients that it may be unable to maintain a steady chip supply, reports Bloomberg.… [+3476 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Google Earth’s expanded AI features make it easier to ask it questions",
-      "description": "Google is expanding its AI features within Google Earth. It’s now easier to chat with Google Earth AI models, introduced in July, to identify infrastructure vulnerable to an oncoming storm, for example, or spot communities at risk of dust storms during a drou…",
-      "url": "https://www.theverge.com/news/805303/google-gemini-earth-ai-features",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1_zhxeIkbWyps7mB8jU2KhFQ.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T15:09:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini will now connect different Google Earth AI models for trusted tester users. \r\nGemini will now connect different Google Earth AI models for trusted tester … [+2336 chars]"
     }
   ]
 }
