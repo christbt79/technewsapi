@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T15:31:57.762Z",
+  "fetchedAt": "2025-10-25T16:09:30.374Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "OpenAI goes after Microsoft 365 Copilot's lunch with 'company knowledge' feature",
+      "description": "ChatGPT can now rummage through corporate files via connectors, though Redmond still has the deeper hooks OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-spec…",
+      "url": "https://www.theregister.com/2025/10/24/openai_chatgpt_company_knowledge/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/16/shutterstock_chatgpt.jpg",
+      "publishedAt": "2025-10-24T15:46:38Z",
+      "content": "OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.\r\nNow available for ChatGPT Busin… [+1836 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Rose-Hartz-Green-Lee_5-Speaker-16x9-Dark.png?resize=1200,675",
       "publishedAt": "2025-10-23T14:49:24Z",
       "content": "The stakes dont get higher than this. At TechCrunch Disrupt 2025, the Startup Battlefield 200 finalists will take the stage one last time to compete for the $100,000 equity-free prize. Deciding their… [+4386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Perplexity will give you $20 for every friend you refer to Comet - how to get your cash",
-      "description": "There doesn't seem to be a limit to how much money you can earn.",
-      "url": "https://www.zdnet.com/article/perplexity-will-give-you-20-for-every-friend-you-refer-to-comet-how-to-get-your-cash/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c20ad51f695cfc4aa93dbcafeb7798f3ab6d81e0/2025/10/23/b8b1e108-eee0-48d1-84f3-e9fc441d090f/image-720.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T14:37:23Z",
-      "content": "Screenshot by Aly Windsor/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Perplexity is offering a referral program for its Comet browser </li><li>Referra… [+2109 chars]"
     }
   ]
 }
