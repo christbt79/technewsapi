@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-25T11:31:28.397Z",
+  "fetchedAt": "2025-10-25T12:14:58.299Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "The Editors of Tom's Hardware",
+      "title": "Tom's Hardware Premium now offers monthly pricing, unlock access from just $7 a month — don't miss out on expert-level analysis, hardware roadmaps, and our Bench database",
+      "description": "Tom's Hardware Premium now offers a monthly subscription. Access expert-level analysis, roadmaps, and unlock our cutting-edge performance analyzer, Bench.",
+      "url": "https://www.tomshardware.com/tech-industry/toms-hardware-premium-now-offers-monthly-pricing-unlock-access-from-just-usd7-a-month-dont-miss-out-on-expert-level-analysis-hardware-roadmaps-and-our-bench-database",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BJSUdLzVqhZ4UT56wLAADT-1920-80.jpg",
+      "publishedAt": "2025-10-24T12:03:28Z",
+      "content": "Earlier this month, Tom's Hardware Premium came out of beta, following its introduction in early August. We've listened to your feedback on the forums and elsewhere, and now we're ready to lift the l… [+3379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Alaska Airlines grounded by mystery IT meltdown",
+      "description": "Failure at primary datacenter leaves planes parked and passengers angry, second incident since July\nTiming is everything — except when it isn't. US carrier Alaska Airlines has grounded its fleet once again due to a mystery IT issue.…",
+      "url": "https://www.theregister.com/2025/10/24/alaska_airlines_calls_a_ground/",
+      "urlToImage": "https://regmedia.co.uk/2025/07/21/shutterstock_editorial_only_alaska_airlines_planes_grounded.jpg",
+      "publishedAt": "2025-10-24T11:58:06Z",
+      "content": "Timing is everything except when it isn't. US carrier Alaska Airlines has grounded its fleet once again due to a mystery IT issue.\r\nThe problem began at 3:30 pm Pacific Time on October 23 with a \"fai… [+1839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "TSMC says China's rare-earth export restrictions will have limited short-term impact on company — concern lies in transitioning away from China supply",
+      "description": "TSMC says that it has about a year or two of rare-earth supplies, but transitioning to other non-China sources will take time.",
+      "url": "https://www.tomshardware.com/tech-industry/manufacturing/tsmc-says-chinas-rare-earth-export-restrictions-will-have-limited-short-term-impact-on-company-concern-lies-in-transitioning-away-from-china-supply",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JJzHCWyRWC6e8gBHBa6FjZ-2000-80.jpg",
+      "publishedAt": "2025-10-24T11:38:19Z",
+      "content": "Taiwan Semiconductor Industry Association (TSIA) chairman and Taiwan Semiconductor Manufacturing Company (TSMC) senior vice president and co-COO Cliff Hou said during a question-and-answer session th… [+3019 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg",
       "publishedAt": "2025-10-23T11:27:16Z",
       "content": "The European Union is quietly preparing retaliatory trade measures against China, and the trigger appears to be Beijing’s threat to restrict exports of rare earth materials. But the EU’s counterstrik… [+4619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Trump considering China export ban on items made with or containing U.S. software — sweeping restriction to hit hard in response to Beijing’s rare earth embargo in major trade war escalation",
-      "description": "Trump is considering blocking all U.S. software from China if it doesn't lift its rare earth restrictions.",
-      "url": "https://www.tomshardware.com/tech-industry/trump-considering-china-export-ban-on-items-made-with-or-containing-u-s-software-sweeping-restriction-to-hit-hard-in-response-to-beijings-rare-earth-embargo-in-major-trade-war-escalation",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VC8x6iRCmzDotaVgQ4nUyQ-1920-80.jpg",
-      "publishedAt": "2025-10-23T11:17:24Z",
-      "content": "The White House is considering banning exports to China of all items that were made with or contain U.S.-made software in response to China’s announcement of rare earth export controls. According to … [+3498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Boeing names a Mandarin-speaking, ex-white house advisor as its new China president",
-      "description": "Boeing has been caught in the crosshairs of U.S.-China tensions and increasingly been treated as a bargaining chip in the long-running negotiations.",
-      "url": "https://www.cnbc.com/2025/10/23/boeing-names-mandarin-speaking-ex-white-house-advisor-china-president.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215796-1761208862633-gettyimages-1240750907-NEW_ECONOMY_GATEWAY.jpeg?v=1761208894&w=1920&h=1080",
-      "publishedAt": "2025-10-23T10:59:21Z",
-      "content": "Boeing named Landon Loomis, a Mandarin speaker and former White House adviser, as the new president of Boeing China, counting on his deep experiences in Beijing to steady the planemaker's position as… [+2932 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Alibaba prices AI glasses at $660 to rival Meta and launches ChatGPT challenger",
-      "description": "The Quark AI glasses and chatbot product highlight an increasing area of focus for Alibaba — AI that is aimed at consumers.",
-      "url": "https://www.cnbc.com/2025/10/23/alibaba-prices-ai-glasses-at-660-and-launches-chatgpt-rival.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
-      "publishedAt": "2025-10-23T10:45:05Z",
-      "content": "Alibaba on Thursday announced pricing for its upcoming artificial intelligence glasses and launched a new chatbot powered by its latest AI models.\r\nThe Chinese technology giant said the Quark AI Glas… [+2202 chars]"
     }
   ]
 }
