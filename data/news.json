@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T12:55:52.229Z",
+  "fetchedAt": "2025-10-25T13:16:00.514Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Are AI browsers worth the security risk? Why experts are worried",
+      "description": "There are a lot of 'what ifs' surrounding AI browsers right now",
+      "url": "https://www.zdnet.com/article/are-ai-browsers-worth-the-security-risk-why-experts-are-worried/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/768203fbd7cc0c668b9e19959f484d158f9d1681/2025/10/24/09b8a8cc-49f0-4b06-93b1-c308410adece/gettyimages-2235321683.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-24T13:15:00Z",
+      "content": "S and V Design / iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI browsers are powerful, but not necessarily secure.</li><li>Exper… [+10183 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "OpenAI made ChatGPT better at sifting through your work or school information",
+      "description": "OpenAI has launched a new ChatGPT feature that makes it easier to search for workspace information without switching between apps. The “company knowledge” ChatGPT update for Business, Enterprise, and Education users is powered by a version of GPT‑5 that direc…",
+      "url": "https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/HowItWorks_16x9_desktop.jpg?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
+      "publishedAt": "2025-10-24T12:58:06Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company knowledge update allows ChatGPT to be used as a search engine for workspace data.\r\nThe company knowledge update allows ChatGPT to be used as a search… [+3426 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Hero_Lifestyle_Headphones_0924.jpg?resize=1200,675",
       "publishedAt": "2025-10-23T13:02:23Z",
       "content": "Amazon has been stuffing AI features into its shopping experience for the past few years now. Today, the company unveiled a new feature called “Help me decide,” which takes into account your searches… [+1955 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Albert Thomas",
-      "title": "Tryx Panorama SE 360 ARGB Review: Elegant and quiet, with impressive software",
-      "description": "The Tryx Panorama SE 360 catches the eye with a stunning 6.7-inch display. We’ve tested it against Thermalright’s Wonder Vision UB to see how well it stacks up against the curved-screen cooler competition.",
-      "url": "https://www.tomshardware.com/pc-components/liquid-cooling/tryx-panorama-se-360-argb-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kcew2njQVsikfCyMriQWjP-2560-80.jpg",
-      "publishedAt": "2025-10-23T13:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The Panorama SE 360 … [+8477 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "The ChatGPT Atlas browser still feels like Googling with extra steps",
-      "description": "This week, OpenAI debuted its long-rumored AI browser that aims to put its AI chatbot at the center of the internet. The browser, called ChatGPT Atlas, is entering a space that's already occupied by Perplexity's Comet and Google Gemini in Chrome. OpenAI is li…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T12:29:12Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ChatGPT Atlas browser still feels like Googling with extra steps\r\nChatGPT Atlas is great at providing AI-generated responses, but not so great at searches.\r\n… [+8144 chars]"
     }
   ]
 }
