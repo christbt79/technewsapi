@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T03:14:03.357Z",
+  "fetchedAt": "2025-10-25T03:46:02.409Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Intel says server CPUs will be hot again – in a good way, to power AI workloads – any year now",
+      "description": "Chipzilla returns to profit and suggests customers are primed to sign for foundry services once it nails 18A process\nIntel has returned to profitability, grown revenue, and suggested demand for AI will ensure its struggling foundry business wins customers and…",
+      "url": "https://www.theregister.com/2025/10/24/intel_q3_2025/",
+      "urlToImage": "https://regmedia.co.uk/2017/09/11/happy-accountant.jpg",
+      "publishedAt": "2025-10-24T03:27:04Z",
+      "content": "Intel has returned to profitability, grown revenue, and suggested demand for AI will ensure its struggling foundry business wins customers and boosts its datacenter CPU business.\r\nChipzilla advised i… [+4400 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/kxw3x3/article70192391.ece/alternates/LANDSCAPE_1200/2025-10-17T182016Z_1269004168_RC2LWGAT94R7_RTRMADP_3_TESLA-PROXY.JPG",
       "publishedAt": "2025-10-23T05:21:07Z",
       "content": "Tesla Inc. Chief Executive Officer Elon Musk said that Samsung Electronics Co. is taking a bigger role in manufacturing the carmakers chips, signaling that the South Korean company is making inroads … [+1674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Reddit sues Perplexity for scraping of posts, expanding user data battle with AI industry",
-      "description": "In its latest data-rights battle with the AI industry, Reddit has launched a suit against Perplexity alleging the AI company illegally scraped its users' posts.",
-      "url": "https://www.cnbc.com/2025/10/23/reddit-user-data-battle-ai-industry-sues-perplexity-scraping-posts-openai-chatgpt-google-gemini-lawsuit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108100604-1739282160088-gettyimages-2197065144-TFSPI_03022025-4220.jpeg?v=1761185554&w=1920&h=1080",
-      "publishedAt": "2025-10-23T04:41:26Z",
-      "content": "Social media giant Reddit has launched a lawsuit against artificial intelligence company Perplexity, alleging that it illegally scraped user posts to train its AI model, marking the latest data-right… [+3265 chars]"
     }
   ]
 }
