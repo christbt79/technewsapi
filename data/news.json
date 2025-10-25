@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-25T13:16:00.514Z",
+  "fetchedAt": "2025-10-25T13:36:12.844Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "Why open source may not survive the rise of generative AI",
+      "description": "Generative AI may be eroding the foundation of open source software. Provenance, licensing, and reciprocity are breaking down.",
+      "url": "https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/753c27a9041449a0edf76f6672f1e62885f63e54/2025/10/24/253d0545-ab44-4743-985a-094aff5dee56/gettyimages-2177145924.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-24T13:23:52Z",
+      "content": "aire images / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Generative AI is erasing open source code provenance.</li><li>FOSS reciproci… [+9183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Intel has cut 35,500 jobs in less than two years — more than 20,000 let go in in recent months as Lip-Bu Tan continues drastic recovery journey",
+      "description": "Intel cut 20,500 jobs under new CEO Lip-Bu Tan — totaling 35,500 in two years — and reduced R&D spending by over $800 million per quarter as it streamlines operations, cancels lower-priority projects, and concentrates investment on strategic projects.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-has-cut-35-500-jobs-in-less-than-two-years-more-than-20-000-let-go-in-in-recent-months-as-lip-bu-tan-continues-drastic-recovery-journey",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3qAuWorrwTksrwq4GhoeEL-1920-80.png",
+      "publishedAt": "2025-10-24T13:20:58Z",
+      "content": "The first announcement that Lip-Bu Tan made a day after becoming the permanent chief executive of Intel was about massive layoffs to right-size the company in accordance with market realities. Now, t… [+3690 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "AI investment is the only thing keeping the US out of recession",
+      "description": "Datacenter infrastructure and model development spending offset high borrowing costs AI spending is keeping the US economy out of recession, with datacenter infrastructure and model development providing the only significant growth amid trade turmoil, tariff …",
+      "url": "https://www.theregister.com/2025/10/24/ai_investment_us_recession/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/24/datacenter.jpg",
+      "publishedAt": "2025-10-24T13:19:46Z",
+      "content": "AI spending is keeping the US economy out of recession, with datacenter infrastructure and model development providing the only significant growth amid trade turmoil, tariff shocks, and high borrowin… [+2910 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c562d318a3370ea7e1de86530d946e70d00b86d4/2025/10/21/ed94bb45-3999-4ccf-ad03-0c685c0fcac7/dsc08383.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T13:37:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI spent my weekend doing three things: Raking in the last bit of leaves from my neighbor's neglected tree, being disappointed by the New York Gi… [+5824 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "China seeks semiconductor and AI self-reliance in ambitious new 5-year plan — Beijing also wants to increase domestic spending and reduce reliance on exports",
-      "description": "The CCP's 15th five-year plan draft focuses on a path of technological independence while reducing its reliance on exports for economic growth.",
-      "url": "https://www.tomshardware.com/tech-industry/china-seeks-semiconductor-and-ai-self-reliance-in-ambitious-new-5-year-plan-beijing-also-wants-to-increase-domestic-spending-and-reduce-reliance-on-exports",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GY9AyWXYU7o452oDNiGQGT-1920-80.jpg",
-      "publishedAt": "2025-10-23T13:33:52Z",
-      "content": "The Chinese Communist Party is currently building its 15th five-year plan, which it intends to implement from 2026 to 2030, and state broadcaster CCTV has announced that it’s aiming to increase the c… [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "The best free AI courses and certificates in 2025 - and I've tried them all",
-      "description": "I've worked with AI for decades and have a master's degree in education. Here are the top free AI courses online I recommend and why.",
-      "url": "https://www.zdnet.com/article/the-best-free-ai-courses-and-certificates-in-2025-and-ive-tried-them-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fce569f34ec4131a8114c21eb618cc47a4041c30/2025/10/23/7635e396-d687-4ef5-ac8f-f7708220f985/gettyimages-1142471123.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T13:21:00Z",
-      "content": "I've been working with AI for a very long time. I conducted one of the first-ever academic studies of AI ethics as a thesis project way back in the day. I created and launched an expert system develo… [+1545 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Amazon's new AI shopping tool tells you why you should buy a recommended product | TechCrunch",
-      "description": "Amazon's new Help Me Decide tool will show you a personalized recommendation for a particular category and list reasons why you should buy it.",
-      "url": "https://techcrunch.com/2025/10/23/amazons-new-ai-shopping-tool-tells-you-why-you-should-buy-a-recommended-product/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Hero_Lifestyle_Headphones_0924.jpg?resize=1200,675",
-      "publishedAt": "2025-10-23T13:02:23Z",
-      "content": "Amazon has been stuffing AI features into its shopping experience for the past few years now. Today, the company unveiled a new feature called “Help me decide,” which takes into account your searches… [+1955 chars]"
     }
   ]
 }
