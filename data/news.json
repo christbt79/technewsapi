@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T03:46:02.409Z",
+  "fetchedAt": "2025-10-25T04:10:36.323Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Starlink starts security tests ahead of India retail kickoff",
+      "description": "Starlink initiates security tests in India as it prepares for retail broadband launch, awaiting TRAI's final pricing framework.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-24/starlink-starts-security-tests-ahead-of-india-retail-kickoff",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/rj397a/article70196614.ece/alternates/LANDSCAPE_1200/2025-06-06T095431Z_2043052981_RC26O1A69OMD_RTRMADP_3_STARLINK-INDIA-LICENCE.JPG",
+      "publishedAt": "2025-10-24T04:05:10Z",
+      "content": "Elon Musks Starlink is starting security tests in India, one of the final hurdles for the company as it prepares to provide commercial satellite broadband services in the worlds most populous country… [+2918 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798",
       "publishedAt": "2025-10-23T06:03:32Z",
       "content": "As the world races to stay ahead in the deep tech revolution — from AI and semiconductors to quantum computing — innovation has become the new currency of power. For many companies, that pressure has… [+8888 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Musk says Samsung is taking bigger role in making Tesla chips",
-      "description": "Musk told investors on a conference call that Samsung will share manufacturing duties for the company’s in-development artificial intelligence chip, the AI5",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-22/tesla-s-musk-says-samsung-is-taking-bigger-role-making-its-chips",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/kxw3x3/article70192391.ece/alternates/LANDSCAPE_1200/2025-10-17T182016Z_1269004168_RC2LWGAT94R7_RTRMADP_3_TESLA-PROXY.JPG",
-      "publishedAt": "2025-10-23T05:21:07Z",
-      "content": "Tesla Inc. Chief Executive Officer Elon Musk said that Samsung Electronics Co. is taking a bigger role in manufacturing the carmakers chips, signaling that the South Korean company is making inroads … [+1674 chars]"
     }
   ]
 }
