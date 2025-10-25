@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T17:33:34.295Z",
+  "fetchedAt": "2025-10-25T18:11:35.307Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Timothy Pricket-Morgan",
+      "title": "Engineering CPO is easy — scaling it for AI will take an ecosystem",
+      "description": "Co-packaged optics promise a big boost for AI Sponsored Post  It has taken a lot of dreaming and even more engineering, but the many promises of silicon photonics are starting to make their way into real products in the datacenter. It doesn't hurt that high-b…",
+      "url": "https://www.theregister.com/2025/10/24/engineering_cpo_easy_scaling/",
+      "urlToImage": "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg",
+      "publishedAt": "2025-10-24T17:59:59Z",
+      "content": "Sponsored Post It has taken a lot of dreaming and even more engineering, but the many promises of silicon photonics are starting to make their way into real products in the datacenter. It doesn't hur… [+2632 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/1_zhxeIkbWyps7mB8jU2KhFQ.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T15:09:00Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini will now connect different Google Earth AI models for trusted tester users. \r\nGemini will now connect different Google Earth AI models for trusted tester … [+2336 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Copilot is getting more personality with a ‘real talk’ mode and group chats",
-      "description": "Microsoft is rolling out some significant changes to its Copilot AI assistant today. There’s a new groups feature that connects multiple people into a Copilot chat, memory to let Copilot learn things about you, a new “real talk” mode that will bring back some…",
-      "url": "https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T15:05:25Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is also adding better memory, improvements to health queries, and a new Mico voice character.\r\nMicrosoft is also adding better memory, improvements to … [+4494 chars]"
     }
   ]
 }
