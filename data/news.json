@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T02:17:32.751Z",
+  "fetchedAt": "2025-10-25T03:14:03.357Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Big tech is paying for Trump's White House ballroom | TechCrunch",
+      "description": "Trump's $250 million White House ballroom will be funded in part by big tech companies like Amazon, Apple, Google, Meta, and Microsoft.",
+      "url": "https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
+      "publishedAt": "2025-10-24T02:57:47Z",
+      "content": "While the U.S. government remains in limbo during a shutdown, the White House grounds have been busy this week. Construction workers have begun demolition on the White House’s East Wing, which will b… [+2300 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108100604-1739282160088-gettyimages-2197065144-TFSPI_03022025-4220.jpeg?v=1761185554&w=1920&h=1080",
       "publishedAt": "2025-10-23T04:41:26Z",
       "content": "Social media giant Reddit has launched a lawsuit against artificial intelligence company Perplexity, alleging that it illegally scraped user posts to train its AI model, marking the latest data-right… [+3265 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "IBM renting GPUs from rivals rather than packing ‘em into its own cloud",
-      "description": "Infra revenue soars and AI helps everything … except the share price If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own “Project Bob” developer assistance tools have impr…",
-      "url": "https://www.theregister.com/2025/10/23/ibm_q3_2025/",
-      "urlToImage": "https://regmedia.co.uk/2020/12/08/shutterstock_ibm_cloud_editorial_only.jpg",
-      "publishedAt": "2025-10-23T01:23:36Z",
-      "content": "If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own Project Bob developer assistance tools have improved produc… [+3445 chars]"
     }
   ]
 }
