@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-24T23:31:55.100Z",
+  "fetchedAt": "2025-10-25T00:41:53.118Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Avram Piltch",
+      "title": "Clippy rises from the dead in major update to Copilot and its voice interface",
+      "description": "The new Microsoft assistant is a blob named Mico, but you can turn it into everyone’s favorite paper clip. Hands On  Microsoft’s Clippy was an anthropomorphic assistant ahead of his time, offering to help you with your Office 97 tasks when all you could do wa…",
+      "url": "https://www.theregister.com/2025/10/24/microsoft_clippy_copilot_update/",
+      "urlToImage": "https://regmedia.co.uk/2023/06/12/shutterstock_clippy.jpg",
+      "publishedAt": "2025-10-24T00:15:11Z",
+      "content": "Hands On Microsofts Clippy was an anthropomorphic assistant ahead of his time, offering to help you with your Office 97 tasks when all you could do was type and click in response. Today, as part of a… [+7191 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "With an Intel recovery underway, all eyes turn to its foundry business | TechCrunch",
+      "description": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
+      "url": "https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?resize=1200,800",
+      "publishedAt": "2025-10-24T00:12:03Z",
+      "content": "Intel’s third-quarter earnings beat Wall Street expectations Thursday, results buoyed by a bump in revenue combined with larger cuts, and multiple, sizable investments over the last two months as CEO… [+3509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Google and Anthropic wave hands about mega TPU deal worth 'tens of billions'",
+      "description": "But AWS is still the AI upstart's primary partner\nGoogle and Anthropic have struck a deal that will see the AI upstart gain access to up to a million of the web giant’s tensor processing units (TPUs) and involve “tens of billions of dollars.”…",
+      "url": "https://www.theregister.com/2025/10/23/google_anthropic_deal/",
+      "urlToImage": "https://regmedia.co.uk/2023/01/19/money_shutterstock.jpg",
+      "publishedAt": "2025-10-23T23:56:02Z",
+      "content": "Google and Anthropic have struck a deal that will see the AI upstart gain access to up to a million of the web giants tensor processing units (TPUs) and involve tens of billions of dollars.\r\nThe two … [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg",
+      "title": "How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA",
+      "description": "WIRED recently demonstrated how to cheat at poker by hacking the Deckmate 2 card shufflers used in casinos. The mob was allegedly using the same trick to fleece victims for millions.",
+      "url": "https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/",
+      "urlToImage": "https://media.wired.com/photos/68faa2581a5f94c0df627e4c/191:100/w_1280,c_limit/WI_WIO_11_202_HACKLAB_POKER_102325_0727.jpg",
+      "publishedAt": "2025-10-23T23:51:38Z",
+      "content": "\"If there's a camera that knows the cards, there is always some kind of underlying threat. Customers are gonna be essentially at the mercy of the person setting up the machine,\" poker player and card… [+1271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Don't take AI to Thanksgiving: Bots have hidden biases",
+      "description": "It's not a bug, it's a feature\nLarge language models, or LLMs, are biased in one way or another - often many. And there may be no way around that.…",
+      "url": "https://www.theregister.com/2025/10/23/ai_model_bias_inevitable/",
+      "urlToImage": "https://regmedia.co.uk/2018/11/21/shutterstock_thanksgiving.jpg",
+      "publishedAt": "2025-10-23T23:42:14Z",
+      "content": "Large language models, or LLMs, are biased in one way or another - often many. And there may be no way around that.\r\nMakers of LLMs the machine learning software, unfortunately referred to as artific… [+5238 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2020/12/08/shutterstock_ibm_cloud_editorial_only.jpg",
       "publishedAt": "2025-10-23T01:23:36Z",
       "content": "If IBM reveals improved profit margins or a fresh round of redundancies, AI may be the reason, because Big Blue today revealed that its own Project Bob developer assistance tools have improved produc… [+3445 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Richard Lawler",
-      "title": "Amazon claims the headline isn’t robots taking jobs as it reveals new cost-cutting robots",
-      "description": "A New York Times report on Tuesday cited internal Amazon documents touting how its shift into automation could help it sell more products without hiring more people, but today the company has issued a PR blast about robotics and delivery tech that is much sun…",
-      "url": "https://www.theverge.com/news/805098/amazon-robots-ai-warehouses",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/download-4.jpg?quality=90&strip=all&crop=0%2C3.4926328102429%2C100%2C93.014734379514&w=1200",
-      "publishedAt": "2025-10-23T00:51:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Blue Jay robots extra set of hands probably means Amazons warehouses will require fewer human hands.\r\nThe Blue Jay robots extra set of hands probably means A… [+4068 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Elon Musk says Tesla 'not about to replace Nvidia' as EV maker develops chips for cars, robots",
-      "description": "On Tesla's earnings call, Elon Musk said that if the company has too many of its AI5 chips, it can use them in the data center.",
-      "url": "https://www.cnbc.com/2025/10/22/elon-musk-tesla-ai5-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108153872-1748960975101-108153872-1748960872164-gettyimages-2217854516-kd209094_cjkyrbuh.jpg?v=1757011039&w=1920&h=1080",
-      "publishedAt": "2025-10-23T00:14:38Z",
-      "content": "Tesla's forthcoming artificial intelligence chip that it's calling the AI5 will be manufactured by Samsung in Texas as well as by TSMC in Arizona, CEO Elon Musk told investors on Wednesday.\r\nOn the e… [+3213 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "OpenAI's Atlas shrugs off security concerns over prompt injection",
-      "description": "'Trust no AI' says one researcher\nOpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.…",
-      "url": "https://www.theregister.com/2025/10/22/openai_defends_atlas_as_prompt/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/22/atlas_holds_earth.jpg",
-      "publishedAt": "2025-10-22T23:49:00Z",
-      "content": "OpenAI's brand new Atlas browser is more than willing to follow commands maliciously embedded in a web page, an attack type known as indirect prompt injection.\r\nPrompt injection vulnerability is a co… [+5328 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’",
-      "description": "Tesla CEO Elon Musk predicted the company would be able to remove the safety monitors from its robotaxis \"by the end of the year.\" He also said Tesla would launch a robotaxi service in 8-10 new markets also before the end of 2025. \"We are expecting to have no…",
-      "url": "https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-22T22:59:25Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe company plans on launching robotaxis in 8-10 new markets by the end of 2025, Musk also said.\r\nThe company plans on launching robotaxis in 8-10 new markets by… [+3329 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jim Cramer explains why sky-high expectations can sink even strong stocks",
-      "description": "Jim Cramer says strong earnings can’t always lift stocks if expectations are too high, pointing to GE Vernova and Vertiv.",
-      "url": "https://www.cnbc.com/2025/10/22/jim-cramer-high-expectations-sink-strong-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105444612-1536690347185img_2729rrr.jpg?v=1692053569&w=1920&h=1080",
-      "publishedAt": "2025-10-22T22:46:43Z",
-      "content": "CNBC's Jim Cramer said Tuesday that investors often miss a key market truth: a company can deliver excellent results and still see its stock tumble not because it did anything wrong, but because expe… [+2406 chars]"
     }
   ]
 }
