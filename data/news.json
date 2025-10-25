@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T16:39:53.185Z",
+  "fetchedAt": "2025-10-25T17:06:55.621Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Apple's Houston-built AI servers are now shipping, according to CEO Tim Cook — custom silicon to power Private Cloud Compute",
+      "description": "Apple CEO Tim Cook took to X yesterday, October 23, to announce that Apple’s “American-made advanced servers” have begun shipping from a new Houston facility to Apple’s own data centers.",
+      "url": "https://www.tomshardware.com/desktops/servers/apples-houston-built-ai-servers-now-shipping",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZZdA43hqREUBtm2zLesvm6-1920-80.png",
+      "publishedAt": "2025-10-24T16:48:10Z",
+      "content": "Apple CEO Tim Cook took to X yesterday, October 23, to announce that Apple’s “American-made advanced servers” have begun shipping from a new Houston facility to Apple’s own data centers.\r\nApple has s… [+2627 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Alibaba's new smart glasses take on Meta Ray-Bans - here's what they offer",
+      "description": "Pre-orders for the Quark AI smart glasses are now open.",
+      "url": "https://www.zdnet.com/article/alibabas-new-smart-glasses-take-on-meta-ray-bans-heres-what-they-offer/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a5c3694448e68dfcdcdcf10b8f35338186a22bd0/2025/10/24/95b315f4-d824-46e3-bfc4-0434211694f5/gettyimages-2226561889.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-24T16:42:21Z",
+      "content": "NurPhoto/Contributor/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways \r\n<ul><li>Alibaba's new smart glasses are now available for preorder.</li… [+2441 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T15:05:25Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nMicrosoft is also adding better memory, improvements to health queries, and a new Mico voice character.\r\nMicrosoft is also adding better memory, improvements to … [+4494 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Techcrunch Events",
-      "title": "Cluely’s Roy Lee joins Disrupt 2025 to share how he cut through the AI noise | TechCrunchs",
-      "description": "Cluely’s Roy Lee joins the Disrupt Stage at TechCrunch Disrupt 2025, happening October 27–29 at San Francisco’s Moscone West. Register now to save.",
-      "url": "https://techcrunch.com/2025/10/23/cluelys-roy-lee-joins-techcrunch-disrupt-2025-to-show-how-rage-baiting-cuts-through-the-ai-noise/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Roy-Lee-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-23T15:04:20Z",
-      "content": "Cluelys Roy Lee isnt afraid to stir the pot and hes taking that bold energy to the Disrupt Stage at TechCrunch Disrupt 2025, happening October 27-29 at San Franciscos Moscone West.\r\nHell dive into ho… [+2239 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Boone Ashworth",
-      "title": "Google Earth Gets an AI Chatbot to Help Chart the Climate Crisis",
-      "description": "New AI features in Google Earth let users ask chatbot-style questions to find changes in the climate. The system could eventually predict disasters and identify the communities likely to be affected.",
-      "url": "https://www.wired.com/story/google-earth-gemini-ai-chatbot/",
-      "urlToImage": "https://media.wired.com/photos/68f959aca91fabafe58f44df/191:100/w_1280,c_limit/gear-google-earth-669824188.jpg",
-      "publishedAt": "2025-10-23T15:00:00Z",
-      "content": "Google has come up with a way to better map Earths disasters, predict them, and be able to track which communities and ecosystems are going to be wrought by their destruction. If you want to find out… [+1140 chars]"
     }
   ]
 }
