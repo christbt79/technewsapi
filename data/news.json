@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-25T10:37:04.178Z",
+  "fetchedAt": "2025-10-25T11:06:09.070Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Intel hamstrung by supply shortages across its business, including production capacity — says it will prioritize data center CPUs over consumer chips, warns of price hikes",
+      "description": "Intel's third-quarter results were constrained by production and substrate shortages, forcing the company to prioritize data center CPUs over client chips, which will likely make Raptor Lake CPUs more expensive going forward.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-hamstrung-by-supply-shortages-across-its-business-including-production-capacity-says-it-will-prioritize-data-center-cpus-over-consumer-chips-warns-of-price-hikes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YZUxMoqeHqUXbr6XtRFKCa-1920-80.jpg",
+      "publishedAt": "2025-10-24T11:00:58Z",
+      "content": "Demand for Intel's processors for client and data center applications was on the rise in the third quarter of 2025, but the company could not fully capitalize on it as it faced numerous supply shorta… [+4958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "AMD reportedly establishes $280 million silicon photonics hub in Taiwan — new R&D center could accelerate company's co-packaged optics roadmap",
+      "description": "AMD is investing over $280 million to establish two new R&D centers in Taiwan dedicated to silicon photonics and heterogeneous integration to further boost its data center roadmap.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-reportedly-establishes-usd280-million-silicon-photonics-hub-in-taiwan-new-r-and-d-center-could-accelerate-companys-co-packaged-optics-roadmap",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/85Ensc6aXdvm6joZA7UnV3-1600-80.jpg",
+      "publishedAt": "2025-10-24T11:00:23Z",
+      "content": "According to a new report, AMD has made the decision to establish two new R&amp;D centers in Taiwan, focusing on silicon photonics, heterogeneous integration, and AI-related technologies, reports the… [+6884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Windows Insiders get special anniversary desktop wallpaper",
+      "description": "11 years of filing feedback and all we got was a bloody... not even a T-shirt? Microsoft is celebrating 11 years of the Windows Insider Program with custom desktops and - maybe - a secret hint for users wondering which operating system to consider.…",
+      "url": "https://www.theregister.com/2025/10/24/windows_insiders_given_special_anniversary/",
+      "urlToImage": "https://regmedia.co.uk/2018/12/19/shutterstock_party_sad.jpg",
+      "publishedAt": "2025-10-24T10:49:17Z",
+      "content": "Microsoft is celebrating 11 years of the Windows Insider Program with custom desktops and - maybe - a secret hint for users wondering which operating system to consider.\r\nThe software vendor uses the… [+2192 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T10:39:15Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nProfiles, tab groups, and ad blockers are on their way. \r\nProfiles, tab groups, and ad blockers are on their way. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from… [+2756 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "Keeper Review (2025): Enterprise-Level Password Management for Everyone",
-      "description": "Keeper Unlimited brings enterprise-level security to all your devices if you’re willing to pay for the privilege.",
-      "url": "https://www.wired.com/review/keeper-password-manager-2025/",
-      "urlToImage": "https://media.wired.com/photos/68f96b164e35e840b8b8a16b/191:100/w_1280,c_limit/Review-%20Keeper%20Password%20Manager.png",
-      "publishedAt": "2025-10-23T10:30:00Z",
-      "content": "Everything stored in your Keeper vault is known as a record. There are several different record types, including logins, credit cards, identities, secure notes, and software licenses, but you can als… [+3206 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers",
-      "title": "ChatGPT’s Horny Era Could Be Its Stickiest Yet",
-      "description": "OpenAI will soon let adults create erotic content in ChatGPT. Experts say that could lead to “emotional commodification,” or horniness as a revenue stream.",
-      "url": "https://www.wired.com/story/chatgpt-horny-era/",
-      "urlToImage": "https://media.wired.com/photos/68f8ff84afe80bf740804453/191:100/w_1280,c_limit/gear-chatgpt-horny-961105954.jpg",
-      "publishedAt": "2025-10-23T10:30:00Z",
-      "content": "In May of 2024, while I was combing through OpenAIs Model Spec laying out how ChatGPT should act, one comment buried in the document struck me as peculiar. It said OpenAI was exploring how to let adu… [+2380 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft threatens to ram Copilot into Exchange Server on-prem",
-      "description": "Survey probes interest in AI assistance for locally hosted email setups Microsoft's mission to \"Copilot all the things\" has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.…",
-      "url": "https://www.theregister.com/2025/10/23/copilot_exchange_server/",
-      "urlToImage": "https://regmedia.co.uk/2024/03/27/shutterstock_exchange.jpg",
-      "publishedAt": "2025-10-23T10:19:02Z",
-      "content": "Microsoft's mission to \"Copilot all the things\" has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.\r\n\"We are exploring the possibility of introducing Copilot fo… [+1891 chars]"
     }
   ]
 }
