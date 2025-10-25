@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T20:35:48.288Z",
+  "fetchedAt": "2025-10-25T21:07:34.548Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Get your news from AI? Watch out - it's wrong almost half the time",
+      "description": "New research from the European Broadcasting Union and the BBC has found that four leading chatbots routinely generate flawed summaries of news stories.",
+      "url": "https://www.zdnet.com/article/get-your-news-from-ai-watch-out-its-wrong-almost-half-the-time/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/95c8b48fddd39a85021bd13848505109d78ec48f/2025/10/24/3d73a190-c6c4-42aa-82e3-37436aee66db/gettyimages-1613660613.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-24T20:49:07Z",
+      "content": "Iana Kunitsa/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>New research shows that AI chatbots often distort news stories.</li><li>45% of the… [+4831 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T15:57:50Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nTesla shareholders will decide whether Musk deserves his money, and his robot army, at an upcoming meeting.\r\nTesla shareholders will decide whether Musk deserves… [+6398 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "It's not just you: ChatGPT is down - here's what we know",
-      "description": "This might be bigger than ChatGPT.",
-      "url": "https://www.zdnet.com/article/its-not-just-you-chatgpt-is-down-heres-what-we-know/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2ab6be3ef915d699b63dce2b3b36d00e10210cc2/2025/10/23/5f7ad1ab-9b99-4b47-b45a-664cadd25a3e/gettyimages-2218950027.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T15:44:00Z",
-      "content": "NurPhoto / Contributor/NurPhoto via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT is experiencing a major outage.</li><li>OpenAI has confirmed \"… [+2389 chars]"
     }
   ]
 }
