@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-25T12:14:58.299Z",
+  "fetchedAt": "2025-10-25T12:55:52.229Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Anthropic signs deal with Google Cloud to expand TPU chip capacity — AI company expects to have over 1GW of processing power in 2026",
+      "description": "Anthropic and Google Cloud just signed a deal that will bring the AI company's compute capacity to over 1GW.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-signs-deal-with-google-cloud-to-expand-tpu-chip-capacity-ai-company-expects-to-have-over-1gw-of-processing-power-in-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uDe5V9DftAJYbZae7cTwQU-2400-80.png",
+      "publishedAt": "2025-10-24T12:55:45Z",
+      "content": "Google Cloud just announced that Anthropic has signed a major deal that will expand its use of the search giant’s TPU chips for training future Claude models. According to the press release, this wil… [+3347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Once seen as 'inflation-proof,' banana prices are up 5.4% since Trump announced tariffs in April",
+      "description": "Banana prices are up more than 5% since April, far above their usual pace.",
+      "url": "https://www.cnbc.com/2025/10/24/inflation-proof-banana-prices-up-since-april.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216277-1761253690126-gettyimages-2152180571-amwf02273.jpeg?v=1761253786&w=1920&h=1080",
+      "publishedAt": "2025-10-24T12:50:41Z",
+      "content": "Bananas aren't the only thing that's gotten more expensive, of course. The prices of everyday goods like clothing, household supplies and groceries have risen steadily since April, with the year-over… [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Oreo-maker Mondelez will use AI for TV ads next year",
+      "description": "Snacking giant Mondelez is using generative AI to slash marketing costs and is preparing to release AI-generated TV ads next year, a senior executive told Reuters. Jon Halvorson, Mondelez’s global senior vice president of consumer experience, said the company…",
+      "url": "https://www.theverge.com/news/806047/mondelez-ai-generated-ads",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2213117818.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-24T12:43:52Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a risk given fierce backlash some AI ads have provoked, like Coca-Colas 2024 Christmas videos.\r\nIts a risk given fierce backlash some AI ads have provoked, l… [+1800 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Amazon’s AWS shows signs of weakness as competitors charge ahead",
+      "description": "Three years into an AI boom spawned by OpenAI’s revolutionary ChatGPT, AWS is widely perceived as trailing its tech peers in AI",
+      "url": "https://www.bloomberg.com/news/features/2025-10-24/amazon-s-aws-is-slowed-by-bloat-as-competitors-clinch-ai-deals",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/m9stbg/article70197997.ece/alternates/LANDSCAPE_1200/2025-10-20T174209Z_1494200936_RC2TFHARSC9Z_RTRMADP_3_AMAZON-OUTAGES-AWS.JPG",
+      "publishedAt": "2025-10-24T12:39:58Z",
+      "content": "Its no exaggeration to say Amazon.com Inc. invented the cloud business. Amazon Web Services took the corporate data center apart and split it into pieces, building pay-as-you go services delivered wi… [+18992 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jacob Kastrenakes",
+      "title": "The AI browser wars are here",
+      "description": "Web browsers have looked and worked basically the same way for more than a decade, to the point where they all have roughly the same features, in the same places, and are often even built around the same engine. But just about every company in tech suddenly w…",
+      "url": "https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1024_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-24T12:25:09Z",
+      "content": "<ul><li></li><li></li></ul>\r\nOn The Vergecast: ChatGPT Atlas, Samsungs Galaxy XR, the future of Warner Bros. Discovery, and more.\r\nOn The Vergecast: ChatGPT Atlas, Samsungs Galaxy XR, the future of W… [+2484 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T12:29:12Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ChatGPT Atlas browser still feels like Googling with extra steps\r\nChatGPT Atlas is great at providing AI-generated responses, but not so great at searches.\r\n… [+8144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Tesla's earnings miss, Meta job cuts, U.S. sanctions Russian oil and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/23/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108155811-1749210802356-gettyimages-2217589947-TRUMP.jpeg?v=1761177649&w=1920&h=1080",
-      "publishedAt": "2025-10-23T12:22:05Z",
-      "content": "Elon Musk, during a news conference with President Donald Trump, inside the Oval Office at the White House in Washington on May 30, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to … [+5386 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "Redwood Materials raises another $350M to power up its energy storage business | TechCrunch",
-      "description": "Redwood Materials raises another $350M to power up its energy storage business | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/23/redwood-materials-raises-another-350-million-to-power-up-its-energy-storage-business/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/Modular_Data_Center_2.jpg?resize=1200,675",
-      "publishedAt": "2025-10-23T12:03:38Z",
-      "content": "Battery recycling and cathode production company Redwood Materials has raised $350 million as it grows its new energy storage business in a bid to power the AI data center boom.\r\nThe Series E round, … [+2293 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Hands-free home security is here, thanks to ADT and Google — but it’ll cost you",
-      "description": "My front door unlocks automatically as I walk up to it, and the home security system disarms itself - no code or app required. The system has recognized me using the Google Nest Doorbell's Familiar Faces, and confirmed I'm me using my phone's location. The du…",
-      "url": "https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258007_ADT_Plus_JTuohy_0007.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T11:47:26Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nADT Plus, developed in partnership with Google, uses facial recognition to allow authorized users to enter the home for $40 a month.\r\nIf you buy something from a… [+17051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Owen Hughes",
-      "title": "Amazon's AI specs aim to stop delivery drivers getting lost between van and porch",
-      "description": "Why monitor staff through phones or cameras when Bezos' boxshifter can strap surveillance to their heads? Amazon is testing AI-powered smart glasses to help its drivers get from their vans to customers' doorsteps.…",
-      "url": "https://www.theregister.com/2025/10/23/amazon_ai_smart_specs/",
-      "urlToImage": "https://regmedia.co.uk/2024/01/03/delivery_shutterstock.jpg",
-      "publishedAt": "2025-10-23T11:39:41Z",
-      "content": "Amazon is testing AI-powered smart glasses to help its drivers get from their vans to customers' doorsteps.\r\nThe smart specs combine mounted cameras with computer vision and what Amazon calls \"AI-pow… [+1986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "EU considers punitive DUV machine export ban following China's latest round of rare earth export controls — ban would impact ASML’s biggest growth market",
-      "description": "The European Union is quietly preparing retaliatory trade measures against China, and the trigger appears to be Beijing’s threat to restrict exports of gallium and germanium, two raw materials used in everything from EVs to satellites.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/eu-considers-duv-export-ban",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pSy7xJedzqveFGvQJgoiTj-1280-80.jpg",
-      "publishedAt": "2025-10-23T11:27:16Z",
-      "content": "The European Union is quietly preparing retaliatory trade measures against China, and the trigger appears to be Beijing’s threat to restrict exports of rare earth materials. But the EU’s counterstrik… [+4619 chars]"
     }
   ]
 }
