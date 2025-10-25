@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T07:08:06.647Z",
+  "fetchedAt": "2025-10-25T07:31:28.948Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Crypto M&A surges 30-fold as niche firms shift to mainstream",
+      "description": "Crypto M&A skyrockets to over $10 billion, highlighting a shift as niche firms merge into mainstream finance for competitive edge.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/crypto-m-a-surges-30-fold-as-niche-firms-shift-to-mainstream",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/c8sai7/article70197046.ece/alternates/LANDSCAPE_1200/2021-06-03T084141Z_892512975_RC2WSN9U9ZI8_RTRMADP_3_DIGITAL-CRYPTO-UK-REGULATION.JPG",
+      "publishedAt": "2025-10-24T07:22:12Z",
+      "content": "21shares spent years building its crypto franchise outside Wall Streets orbit. From Zurich, it launched exchange-traded products that gave European investors access to Bitcoin and Ether long before t… [+4957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Britain's Ministry of Justice just signed up to ChatGPT Enterprise",
+      "description": "OpenAI sweetens the deal with data residency\nOpenAI has signed up the UK's Ministry of Justice as the latest public sector customer for ChatGPT Enterprise.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
+      "url": "https://www.theregister.com/2025/10/24/ministry_of_justice_chatgpt/",
+      "urlToImage": "https://regmedia.co.uk/2018/06/26/shutterstock_justice.jpg",
+      "publishedAt": "2025-10-24T07:15:06Z",
+      "content": "OpenAI has signed up the UK's Ministry of Justice as the latest public sector customer for ChatGPT Enterprise.\r\nThe agreement will deploy ChatGPT Enterprise on the desktops of 2,500 employees for use… [+3366 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9175adc275bd1c939d61bfbeb3f1db5de384d663/2025/05/14/07069939-8c96-4b07-b985-9197699b4ec1/dell-14-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T09:15:28Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBack in early 2025, Dell made a bold move. The company announced that it was going to rebrand its entire portfolio. Classic names like \"XPS\" and… [+6373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft finance slang defines the eternal optimist: The 'hockey stick on wheels'",
-      "description": "The wheels on Copilot's hockey stick must be giving off smoke by now\nMicrosoft's finance division has a term for an overly optimistic projection that seems to march backward year after year: the hockey stick on wheels.…",
-      "url": "https://www.theregister.com/2025/10/23/microsoft_hockey_stick_wheels/",
-      "urlToImage": "https://regmedia.co.uk/2024/09/04/shutterstock_car_smoking_wheels.jpg",
-      "publishedAt": "2025-10-23T08:45:08Z",
-      "content": "Microsoft's finance division has a term for an overly optimistic projection that seems to march backward year after year: the hockey stick on wheels.\r\nThe hockey stick graph will be familiar to anyon… [+1827 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tim Desai, senior product marketing manager, HPE Storage",
-      "title": "Conquer your storage challenges for generative AI success",
-      "description": "HPE's Alletra Storage MP X10000 addresses the problems of AI data management Partner Content  The rapid growth of Generative AI (GenAI) is transforming industries, driving innovation, and creating unprecedented opportunities. But as organizations embrace this…",
-      "url": "https://www.theregister.com/2025/10/23/conquer_your_storage_challenges/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/07/data_shutterstock.jpg",
-      "publishedAt": "2025-10-23T08:00:13Z",
-      "content": "Partner Content The rapid growth of Generative AI (GenAI) is transforming industries, driving innovation, and creating unprecedented opportunities. But as organizations embrace this transformative te… [+8361 chars]"
     }
   ]
 }
