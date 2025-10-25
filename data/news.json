@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T08:39:22.899Z",
+  "fetchedAt": "2025-10-25T09:08:39.298Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Virtualized Windows 11 test shows Apple's M5 destroying Intel and AMD's best in single-core benchmark — Chinese enthusiast pits Ryzen 9 9950X3D and Core i9 14900KS against Apple's latest SoC",
+      "description": "A Chinese enthusiast’s benchmark suggests Apple’s new M5 chip delivers record-breaking single-thread performance in CPU-Z, outperforming top AMD and Intel CPUs even while running Windows 11 in virtualization mode. But its multi-thread performance should be be…",
+      "url": "https://www.tomshardware.com/pc-components/cpus/virtualized-windows-11-test-shows-apples-m5-destroying-intel-and-amds-best-in-single-core-benchmark-chinese-enthusiast-pits-ryzen-9-9950x3d-and-core-i9-14900ks-against-apples-latest-soc",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pt2zBYGMyTddZMePp87NQZ-1920-80.jpg",
+      "publishedAt": "2025-10-24T09:00:00Z",
+      "content": "Apple's processors are notorious for their high performance when running in their native environments: macOS and iOS. However, an experiment conducted by NPacific, a Chinese enthusiast (via HXL), sho… [+3079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adam Doud",
+      "title": "I was prepared for an eSIM transfer nightmare, but this carrier changed my mind completely",
+      "description": "Transferring your phone number can be a mess, especially if you're going from iPhone to Android. Here's how I flipped the script.",
+      "url": "https://www.zdnet.com/article/i-was-prepared-for-an-esim-transfer-nightmare-but-this-carrier-changed-my-mind-completely/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b0b9675daf43a90a5ee07a83371f7dfb0ba095d9/2025/10/08/3d29fbee-6564-4aa6-9058-da9ae3c5b05a/dsc07915.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-24T08:45:28Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/kc634f/article70193133.ece/alternates/LANDSCAPE_1200/IMG_bl01_AI_2_1_IJDU65D3.jpg",
       "publishedAt": "2025-10-23T09:30:22Z",
       "content": "Banks face a hit to their bottom lines of as much as $170 billion if they dont adapt their business models to respond to customers turning to artificial intelligence to optimise their finances.\r\nThe … [+1481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "First rare earths and chips, now quantum computers: Trump reportedly eyes new U.S. stakes",
-      "description": "The Trump administration is reportedly in talks with several quantum-computing firms about government taking equity stakes in exchange for funding.",
-      "url": "https://www.cnbc.com/2025/10/23/first-rare-earths-and-chips-now-quantum-computers-trump-reportedly-eyes-new-us-stakes.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108183656-1754669527774-gettyimages-2218892091-AFP_49Q43G8.jpeg?v=1761211036&w=1920&h=1080",
-      "publishedAt": "2025-10-23T09:27:52Z",
-      "content": "The Trump administration is in talks with several quantum-computing firms about giving the Commerce Department equity stakes in exchange for federal funding, the Wall Street Journal reported on Wedne… [+2781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Why I recommend this Dell laptop over competing Windows PCs for work",
-      "description": "Dell's 14 Plus is my go-to office laptop for its high-performing hardware and impressive battery life.",
-      "url": "https://www.zdnet.com/article/why-i-recommend-this-dell-laptop-over-competing-windows-pcs-for-work/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9175adc275bd1c939d61bfbeb3f1db5de384d663/2025/05/14/07069939-8c96-4b07-b985-9197699b4ec1/dell-14-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T09:15:28Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBack in early 2025, Dell made a bold move. The company announced that it was going to rebrand its entire portfolio. Classic names like \"XPS\" and… [+6373 chars]"
     }
   ]
 }
