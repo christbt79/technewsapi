@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T11:06:09.070Z",
+  "fetchedAt": "2025-10-25T11:31:28.397Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Hedge fund assets reach historic $5 trillion as quarterly capital flows hit 18-year high",
+      "description": "Hedge funds assets have reached an all-time high, as quarterly investor allocations grew to their biggest level since 2007.",
+      "url": "https://www.cnbc.com/2025/10/24/hedge-fund-assets-reach-5-trillion-as-quarterly-capital-flows-soar.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108129778-1744272489426-gettyimages-2177203346-VukValcicCity1101024_2.jpeg?v=1761304286&w=1920&h=1080",
+      "publishedAt": "2025-10-24T11:25:17Z",
+      "content": "The amount of money managed by hedge funds has reached an all-time high of $5 trillion, fueled by a surge in capital allocations in the third quarter coupled with positive investment returns.\r\nAnalys… [+3154 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177567-1753687050071-Alibaba_AI_glasses.jpg?v=1753690514&w=1920&h=1080",
       "publishedAt": "2025-10-23T10:45:05Z",
       "content": "Alibaba on Thursday announced pricing for its upcoming artificial intelligence glasses and launched a new chatbot powered by its latest AI models.\r\nThe Chinese technology giant said the Quark AI Glas… [+2202 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas",
-      "description": "Less than two days ago, OpenAI came out swinging in the fight for the future of the internet with the release of ChatGPT Atlas, an AI-powered web browser it hopes will topple Google Chrome. Adam Fry, OpenAI’s Atlas leader, says the team is already “heads down…",
-      "url": "https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB372_CHAT_GPT_ATLAS_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T10:39:15Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nProfiles, tab groups, and ad blockers are on their way. \r\nProfiles, tab groups, and ad blockers are on their way. \r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from… [+2756 chars]"
     }
   ]
 }
