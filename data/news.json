@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T15:07:34.346Z",
+  "fetchedAt": "2025-10-25T15:31:57.762Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Car prices hit an average of $50,000 for the first time—here's how much you'd pay per month",
+      "description": "Rising car prices have pushed monthly ownership costs past $1,000 per month.",
+      "url": "https://www.cnbc.com/2025/10/24/car-prices-hit-average-of-50000-dollars.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216297-1761255508947-gettyimages-590778059-zef006943.jpeg?v=1761255568&w=1920&h=1080",
+      "publishedAt": "2025-10-24T15:31:16Z",
+      "content": "New-car prices have never been higher.\r\nThe average sale price reached $50,080 in September, marking the first time it has topped $50,000, according to Kelley Blue Book.\r\nThe milestone came as shoppe… [+3859 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft Outlook is getting an AI overhaul under new leaders",
+      "description": "Outlook users have only just got over the webification of Microsoft's email client in recent years, and already there are major changes on the horizon. Sources familiar with Microsoft's plans tell me that the company recently reorganized its Outlook team unde…",
+      "url": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-24T15:27:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOutlook wont simply bolt on AI but rebuild around it.\r\nOutlook wont simply bolt on AI but rebuild around it.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this au… [+14480 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c20ad51f695cfc4aa93dbcafeb7798f3ab6d81e0/2025/10/23/b8b1e108-eee0-48d1-84f3-e9fc441d090f/image-720.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T14:37:23Z",
       "content": "Screenshot by Aly Windsor/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Perplexity is offering a referral program for its Comet browser </li><li>Referra… [+2109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Owen Hughes",
-      "title": "Apple's ultra-thin iPhone flops as foldable iPad hits a crease",
-      "description": "Weak demand for iPhone Air and delays to a costly foldable tablet suggest Cupertino's hardware experiments are struggling Apple's run of hardware experiments appears to be hitting some turbulence: The company's ultra-thin iPhone Air has reportedly failed to c…",
-      "url": "https://www.theregister.com/2025/10/23/apples_ultrathin_iphone_flops/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/23/shutterstock_iphone_air.jpg",
-      "publishedAt": "2025-10-23T14:31:09Z",
-      "content": "Apple's run of hardware experiments appears to be hitting some turbulence: The company's ultra-thin iPhone Air has reportedly failed to catch on with buyers, while its long-awaited foldable iPad is s… [+2877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Business to sell? Trump's new tax law offers owners on Main Street more lucrative way to cash out",
-      "description": "Many older business owners plan to sell their business in the coming years. Trump's new tax law can make cashing out more profitable for boomers.",
-      "url": "https://www.cnbc.com/2025/10/23/owners-selling-business-trump-tax-law-savings-capital-gains.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213159-1760638374096-gettyimages-1228246461-AFP_1WU28U.jpeg?v=1760638407&w=1920&h=1080",
-      "publishedAt": "2025-10-23T14:30:01Z",
-      "content": "Thinking about selling your small business in a few years? The One Big Beautiful Bill Act could mean millions more in your pocket.\r\nPresident Donald Trump's signature legislation, enacted in July, ha… [+6269 chars]"
     }
   ]
 }
