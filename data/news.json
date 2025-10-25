@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T09:32:27.484Z",
+  "fetchedAt": "2025-10-25T10:08:36.904Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Kyndall Cunningham",
+      "title": "What is Dubai chocolate and why is it everywhere?",
+      "description": "A Vox reader asks: Why is Dubai chocolate suddenly everywhere?! My husband and I have noticed that we suddenly see it everywhere from small town ice cream shops, national chains, grocery stores — and it appears to be across the country. Since we are DC people…",
+      "url": "https://www.vox.com/the-highlight/461315/dubai-chocolate-labubu-tiktokbrain-rot-matcha-latte-gen-z",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2181217360.jpg?quality=90&strip=all&crop=0%2C10.727700076304%2C100%2C78.544599847392&w=1200",
+      "publishedAt": "2025-10-24T10:02:09Z",
+      "content": "Dubai chocolate Is often a gooey mess to eat. | Omer Taha Cetin/Anadolu via Getty Images\r\n\n\nA Vox reader asks: Why is Dubai chocolate suddenly everywhere?! My husband and I have noticed that we sudde… [+8454 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/03/27/shutterstock_exchange.jpg",
       "publishedAt": "2025-10-23T10:19:02Z",
       "content": "Microsoft's mission to \"Copilot all the things\" has reached Exchange Server, with a survey asking if admins want the AI assistant on-prem.\r\n\"We are exploring the possibility of introducing Copilot fo… [+1891 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Europe’s big enterprise AI hope SAP books 85% of 2026 revenue as deals boom",
-      "description": "The German company is focused on creating value for customers, rather than feeding into the \"hype.\"",
-      "url": "https://www.cnbc.com/2025/10/23/europes-big-ai-hope-sap-books-85percent-of-2026-revenue-as-deals-boom-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175537-1753251376103-gettyimages-2225992639-img_9367.jpeg?v=1761211034&w=1920&h=1080",
-      "publishedAt": "2025-10-23T10:16:23Z",
-      "content": "The world of enterprise AI is dominated by U.S. names from Microsoft to Salesforce, but Europe has a major player that is pushing hard into the space: SAP.\r\nIn an exclusive interview with CNBC's \"Eur… [+3066 chars]"
     }
   ]
 }
