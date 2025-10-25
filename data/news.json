@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T09:08:39.298Z",
+  "fetchedAt": "2025-10-25T09:32:27.484Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "AWS outage post-mortem fingers DNS as the culprit that took out a chunk of the internet and services for days — automation systems race and crash",
+      "description": "Massive Amazon Web Service outage that took out a chunk of the internet and services for days was due to DNS.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/massive-amazon-web-service-outage-that-took-out-a-chunk-of-the-internet-and-services-for-days-was-due-to-dns-automation-systems-race-and-crash",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DgWS7mm8R9BeX5mYShVYhc-2121-80.jpg",
+      "publishedAt": "2025-10-24T09:30:00Z",
+      "content": "The recent Amazon Web Services outage that took out a significant portion of the internet, games, and even smart home devices for days, was extensively covered in the news. Cloud services' distribute… [+4360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Intel posts return to growth and profitability in Q3 2025, but significant challenges remain — achieves $13.7 billion revenue with $4.1 billion operating profit",
+      "description": "Intel returned to profitability in Q3 2025 with $13.7 billion in revenue and $4.1 billion profit, driven mainly by one-time gains, as client and data-center sales improved despite ongoing capacity shortages.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/intel-posts-surprise-return-to-growth-and-profitability-in-q3-2025-but-significant-challenges-remain-posts-usd13-7-billion-revenue-with-operating-profit",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sc4jMRDcUQARDogxU6vbKM-1920-80.jpg",
+      "publishedAt": "2025-10-24T09:28:39Z",
+      "content": "Intel on Thursday reported its better-than-expected financial results for the third quarter of 2025, marking its return to growth and profitability despite ongoing challenges. The company earned $13.… [+4849 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175537-1753251376103-gettyimages-2225992639-img_9367.jpeg?v=1761211034&w=1920&h=1080",
       "publishedAt": "2025-10-23T10:16:23Z",
       "content": "The world of enterprise AI is dominated by U.S. names from Microsoft to Salesforce, but Europe has a major player that is pushing hard into the space: SAP.\r\nIn an exclusive interview with CNBC's \"Eur… [+3066 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Google's Quantum Echo algorithm shows world's first practical application of Quantum Computing — Willow 105-qubit chip runs algorithm 13,000x faster than a supercomputer",
-      "description": "Google's Willow chip and Quantum Echo algorithm achieve world's first practical application of quantum computing.",
-      "url": "https://www.tomshardware.com/tech-industry/quantum-computing/googles-quantum-echo-algorithm-shows-worlds-first-practical-application-of-quantum-computing-willow-105-qubit-chip-runs-algorithm-13-000x-faster-than-a-supercomputer",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GdPnu5iQ5fvADVfo6UJUGj-1000-80.png",
-      "publishedAt": "2025-10-23T10:00:00Z",
-      "content": "Quantum computing doesn't show up often in the news. After all, it has gigantic potential, but the technology has been promising practical real-world uses in \"just a few years\" for decades now. The s… [+2909 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "McKinsey says bank profits face possible $170 billion AI hit",
-      "description": "The consultancy firm predicted that customer uptake of agentic AI — effectively autonomous bots — would hit the profits banks earn from customer money in low interest accounts, according to a report from McKinsey",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-23/mckinsey-says-bank-profits-face-possible-170-billion-ai-hit",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/kc634f/article70193133.ece/alternates/LANDSCAPE_1200/IMG_bl01_AI_2_1_IJDU65D3.jpg",
-      "publishedAt": "2025-10-23T09:30:22Z",
-      "content": "Banks face a hit to their bottom lines of as much as $170 billion if they dont adapt their business models to respond to customers turning to artificial intelligence to optimise their finances.\r\nThe … [+1481 chars]"
     }
   ]
 }
