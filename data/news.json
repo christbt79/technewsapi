@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T05:36:24.653Z",
+  "fetchedAt": "2025-10-25T06:12:48.937Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Iran's MuddyWater wades into 100+ government networks in latest spying spree",
+      "description": "Group-IB says Tehran-linked crew used hijacked mailbox and VPN to sling phishing emails across Middle East Iran's favorite muddy-footed cyberespionage crew is at it again, this time breaching more than 100 government entities across the Middle East and North …",
+      "url": "https://www.theregister.com/2025/10/24/iran_muddywater_campaign/",
+      "urlToImage": "https://regmedia.co.uk/2015/07/24/iran_flags_648.jpg",
+      "publishedAt": "2025-10-24T05:45:07Z",
+      "content": "Iran's favorite muddy-footed cyberespionage crew is at it again, this time breaching more than 100 government entities across the Middle East and North Africa, according to researchers at Group-IB.\r\n… [+3070 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/05/07/data_shutterstock.jpg",
       "publishedAt": "2025-10-23T08:00:13Z",
       "content": "Partner Content The rapid growth of Generative AI (GenAI) is transforming industries, driving innovation, and creating unprecedented opportunities. But as organizations embrace this transformative te… [+8361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "UK.gov vows to hack through regulation to get benefit from AI",
-      "description": "Meanwhile, civil services claims 75,000 days could be saved by the tech each year Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI \"sandboxing\" and backing a raft of projects it claims could benefit from red-tape cu…",
-      "url": "https://www.theregister.com/2025/10/23/uk_ai_regulations/",
-      "urlToImage": "https://regmedia.co.uk/2021/07/06/shutterstock_red_tape.jpg",
-      "publishedAt": "2025-10-23T07:15:06Z",
-      "content": "Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI \"sandboxing\" and backing a raft of projects it claims could benefit from red-tape cutting.\r\nThe moves come… [+3074 chars]"
     }
   ]
 }
