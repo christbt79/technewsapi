@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-25T16:09:30.374Z",
+  "fetchedAt": "2025-10-25T16:39:53.185Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Uncle Sam's new power plan will plug AI farms into the grid faster",
+      "description": "Proposal would fast-track hookups for the megawatt-hungry datacenters driving US electricity demand\nThe US Energy Secretary wants to see datacenters connected to the grid faster, and has directed the Federal Energy Regulatory Commission (FERC) to implement ne…",
+      "url": "https://www.theregister.com/2025/10/24/doe_datacenter_grid_connection/",
+      "urlToImage": "https://regmedia.co.uk/2022/06/20/power_grid_connected_urban_area_shutterstock.jpg",
+      "publishedAt": "2025-10-24T16:26:52Z",
+      "content": "The US Energy Secretary wants to see datacenters connected to the grid faster, and has directed the Federal Energy Regulatory Commission (FERC) to implement new rules that speed the process.\r\nIn a le… [+3560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Ivy League psychologist: 'Bring your whole self to work' is bad advice",
+      "description": "Be careful which aspects of your personality you bring to work, according to a psychologist: social etiquette still reigns supreme in the office.",
+      "url": "https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215321-1761141758922-gettyimages-656227991-9df76570-54e7-4b36-ba94-49d429bc6c86.jpeg?v=1761141779&w=1920&h=1080",
+      "publishedAt": "2025-10-24T16:22:38Z",
+      "content": "If someone tells you to \"bring your whole self to work,\" don't listen, says psychologist Tomas Chamorro-Premuzic.\r\nLike many other workplace platitudes, the intention of the phrase is \"truly positive… [+4339 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore | TechCrunch",
+      "description": "As demand for electricity from data centers grows, Arbor Energy has made its power plant capable of burning natural gas in addition to biomass.",
+      "url": "https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/arbor-atlas-pilot-power-plant.jpeg?resize=1200,892",
+      "publishedAt": "2025-10-24T16:14:06Z",
+      "content": "Two years ago, former SpaceX engineers used rocket tech to develop a power plant capable of removing carbon dioxide from the atmosphere, with a small asterisk. To draw down CO2, it burned plant waste… [+2449 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f959aca91fabafe58f44df/191:100/w_1280,c_limit/gear-google-earth-669824188.jpg",
       "publishedAt": "2025-10-23T15:00:00Z",
       "content": "Google has come up with a way to better map Earths disasters, predict them, and be able to track which communities and ecosystems are going to be wrought by their destruction. If you want to find out… [+1140 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zeyi Yang",
-      "title": "The Man Who Makes AI Slop by Hand",
-      "description": "Chinese creator Tianran Mu went viral for mimicking the eerie, unsettling aesthetic of AI videos, but his work is 100 percent human.",
-      "url": "https://www.wired.com/story/made-in-china-the-chinese-creator-who-imitates-ai-slop/",
-      "urlToImage": "https://media.wired.com/photos/68f938fb8134625e057c96f3/191:100/w_1280,c_limit/Made-In-China-Mu-Tianran-Business.jpg",
-      "publishedAt": "2025-10-23T15:00:00Z",
-      "content": "Mu is not the only comedian who has tried to imitate the style of AI-generated videos, but he really nails all of the elements: The clumsy bodily movements, the spaced-out facial expressions, and the… [+2766 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Elon Musk's Starlink reportedly tasks Samsung to build AI-powered modem — space-based 6G service could revolutionize satellite-to-device connectivity",
-      "description": "Samsung is developing an AI-boosted modem chip to enable Earthbound devices to connect directly with Elon Musk’s Starlink service, according to Korean insider sources.",
-      "url": "https://www.tomshardware.com/networking/elon-musks-starlink-reportedly-tasks-samsung-to-build-ai-powered-modem-space-based-6g-service-could-revolutionize-satellite-to-device-connectivity",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aJu5KaqHiZ3J4iNrmbwSbB-1920-80.jpg",
-      "publishedAt": "2025-10-23T14:55:29Z",
-      "content": "Samsung is developing an AI-boosted modem chip to enable Earthbound devices to connect directly with Elon Musk’s Starlink service, according to insider sources talking to the Korean Economic Daily (K… [+2666 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Techcrunch Events",
-      "title": "The top judges for the final round of Startup Battlefield 200 at Disrupt 2025 | TechCrunch",
-      "description": "The Startup Battlefield 200 finalist judges finally announced. Happening at TechCrunch Disrupt 2025 on October 27-29. Register now to save.",
-      "url": "https://techcrunch.com/2025/10/23/announcing-the-top-judges-for-the-final-round-of-startup-battlefield-200-only-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC25_Rose-Hartz-Green-Lee_5-Speaker-16x9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-23T14:49:24Z",
-      "content": "The stakes dont get higher than this. At TechCrunch Disrupt 2025, the Startup Battlefield 200 finalists will take the stage one last time to compete for the $100,000 equity-free prize. Deciding their… [+4386 chars]"
     }
   ]
 }
