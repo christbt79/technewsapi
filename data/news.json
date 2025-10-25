@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-25T04:10:36.323Z",
+  "fetchedAt": "2025-10-25T04:38:41.016Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Finland to host December Summit for EU eastern flank nations",
+      "description": "The summit will also focus on concrete efforts to strengthen defences along eastern borders of the EU and the North Atlantic Treaty Organization in the face of a more aggressive Russia",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/finland-to-host-december-summit-for-eu-eastern-flank-countries",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/fywd4s/article70196626.ece/alternates/LANDSCAPE_1200/IMG_iStock-1386827642_2_1_6UEREBRF.jpg",
+      "publishedAt": "2025-10-24T04:13:57Z",
+      "content": "Finland will host a summit for leaders of countries on the European Unions eastern flank to push their common messaging on defence initiatives. \r\nThe summit on Dec. 16 in Helsinki will include at lea… [+1544 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/07/06/shutterstock_red_tape.jpg",
       "publishedAt": "2025-10-23T07:15:06Z",
       "content": "Ignoring the skeptics and threat of an AI bubble, the UK government is pushing ahead with AI \"sandboxing\" and backing a raft of projects it claims could benefit from red-tape cutting.\r\nThe moves come… [+3074 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "As China's 996 culture spreads, South Korea's tech sector grapples with 52-hour limit | TechCrunch",
-      "description": "South Korea's 52-hour workweek cap is stricter than the U.S. and Singapore but more flexible than much of Europe. Still deep tech founders and investors worry it's too restrictive.",
-      "url": "https://techcrunch.com/2025/10/22/as-chinas-996-culture-spreads-south-koreas-tech-sector-grapples-with-52-hour-limit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1312072591.jpg?resize=1200,798",
-      "publishedAt": "2025-10-23T06:03:32Z",
-      "content": "As the world races to stay ahead in the deep tech revolution — from AI and semiconductors to quantum computing — innovation has become the new currency of power. For many companies, that pressure has… [+8888 chars]"
     }
   ]
 }
