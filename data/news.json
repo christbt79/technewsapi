@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-25T18:41:54.558Z",
+  "fetchedAt": "2025-10-25T19:03:52.424Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Theresa Loconsolo",
+      "title": "The browser wars are back, and this time they're powered by AI | TechCrunch",
+      "description": "Watch as Equity breaks down Atlas’s debut, the broader wave of alternative browsers, the AWS crash that broke much of the internet, and more of the week’s startup and tech news.",
+      "url": "https://techcrunch.com/video/the-browser-wars-are-back-and-this-time-theyre-powered-by-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "publishedAt": "2025-10-24T19:01:31Z",
+      "content": "The browser wars are heating up again, this time with AI in the drivers seat. \r\nOpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language and even incl… [+593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Sneaky Mermaid attack in Microsoft 365 Copilot steals data",
+      "description": "Redmond says it's fixed this particular indirect prompt injection vuln Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection …",
+      "url": "https://www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/24/sneaky_mermaid.jpg",
+      "publishedAt": "2025-10-24T18:58:32Z",
+      "content": "Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data like emails via indirect prompt injection attacks.\r\nBut t… [+2742 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1228810115.jpg?resize=1200,800",
       "publishedAt": "2025-10-23T15:24:32Z",
       "content": "Palantir said on Thursday it had struck a partnership with Lumen Technologies that will see the telecommunications company using the data management company’s AI software to build capabilities to sup… [+2183 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sora update to bring AI videos of your pets, new social features, and soon, an Android version",
-      "description": "OpenAI’s hit AI video app, Sora, is getting a wave of new features, including video editing tools, pet and object “cameos,” and enhanced social options. The Android app is also “coming soon.\"",
-      "url": "https://techcrunch.com/2025/10/23/sora-update-to-bring-ai-videos-of-your-pets-new-social-features-and-soon-an-android-version/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-23T15:19:58Z",
-      "content": "OpenAI is teasing a series of updates coming to its viral app for AI-generated videos, Sora, which recently shot to the top of the App Store after a late September launch. The app, which remains at N… [+2324 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Tensormesh raises $4.5M to squeeze more inference out of AI server loads | TechCrunch",
-      "description": "Tensormesh uses an expanded form of KV Caching to make inference loads as much as ten times more efficient.",
-      "url": "https://techcrunch.com/2025/10/23/tensormesh-raises-4-5m-to-squeeze-more-inference-out-of-ai-server-loads/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Humanoids.jpg?resize=1200,800",
-      "publishedAt": "2025-10-23T15:19:03Z",
-      "content": "With the AI infrastructure push reaching staggering proportions, theres more pressure than ever to squeeze as much inference as possible out of the GPUs they have. And for researchers with expertise … [+2412 chars]"
     }
   ]
 }
