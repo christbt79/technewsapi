@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-26T11:31:33.159Z",
+  "fetchedAt": "2025-10-26T12:15:18.970Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI spending is boosting the economy, but many businesses are in survival mode",
+      "description": "As AI lifts the economy and stock market, businesses in retail, travel and construction are struggling with high costs and a downbeat consumer.",
+      "url": "https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117869-17423291702025-03-18t201546z_1889548261_rc2ufda8bhgm_rtrmadp_0_nvidia-gtc-keynote.jpeg?v=1742329238&w=1920&h=1080",
+      "publishedAt": "2025-10-25T12:07:11Z",
+      "content": "Cameron Pappas, owner of Norton's Florist\r\nFor Cameron Pappas, owner of Norton's Florist in Birmingham, Alabama, the artificial intelligence boom is a world away.\r\nWhile companies like Nvidia, Alphab… [+8712 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "The glaring security risks with AI browser agents | TechCrunch",
+      "description": "New AI browsers from OpenAI and Perplexity promise to increase user productivity, but they also come with increased security risks.",
+      "url": "https://techcrunch.com/2025/10/25/the-glaring-security-risks-with-ai-browser-agents/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1290478576.jpg?resize=1200,846",
+      "publishedAt": "2025-10-25T12:03:31Z",
+      "content": "New AI-powered web browsers such as OpenAI’s ChatGPT Atlas and Perplexity’s Comet are trying to unseat Google Chrome as the front door to the internet for billions of users. A key selling point of th… [+6181 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "One in three Manhattan condo owners lost money when they sold in the last year",
+      "description": "Manhattan is still among the most expensive markets in the country, especially on a per-square-foot basis.",
+      "url": "https://www.cnbc.com/2025/10/25/one-in-three-manhattan-condo-owners-lost-money-when-they-sold-in-the-last-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215397-1761147937025-gettyimages-1044980512-091918_239tenth_54.jpeg?v=1761326502&w=1920&h=1080",
+      "publishedAt": "2025-10-25T12:00:01Z",
+      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+6314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Starboard aims to unlock the value of Fluor's investment in nuclear tech company NuScale",
+      "description": "Activist investor Starboard sees a chance to unlock the value of Fluor's 39% stake in NuScale Power, a developer of small modular nuclear reactors.",
+      "url": "https://www.cnbc.com/2025/10/25/starboard-aims-to-unlock-the-value-of-fluors-investment-in-nuclear-tech-company-nuscale.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107311223-1696415314649-gettyimages-1075912616-GC183128.jpeg?v=1761265383&w=1920&h=1080",
+      "publishedAt": "2025-10-25T11:56:41Z",
+      "content": "Company: Fluor Corp (FLR)\r\nBusiness: Fluor is a holding company that provides engineering, procurement, construction, fabrication and modularization, and project management services. The company's se… [+7250 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1095,6 +1147,19 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Adi Robertson",
+      "title": "The next legal frontier is your face and AI",
+      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal morass of AI, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started…",
+      "url": "https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258016_AI_likeness_law_CVirginia3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-23T21:15:12Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThings are getting weird.\r\nby\r\nAdi RobertsonClose\r\nAdi Robertson\r\nSenior Editor, Tech &amp; Policy\r\nPosts from this author will be added to your daily email dige… [+9493 chars]"
+    },
+    {
+      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/b99398128db0ab459879e1be2a6951e16a94c985/2025/10/23/33e675d8-298f-4abe-b7c8-908dc17128d4/bluekeyboard555gettyimages-860264044.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T19:29:00Z",
       "content": "Bill Hinton/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Clickfix attacks surged 500% in early 2025.</li><li>Cybercriminals now use … [+6888 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tage Kene-okafor",
-      "title": "20-year-old dropouts built AI notetaker Turbo AI to 5 million users | TechCrunch",
-      "description": "Rudy Arora and Sarthak Dhawan, two 20-year-old college dropouts, are behind Turbo AI, one of the fastest-growing AI notetaker tools.",
-      "url": "https://techcrunch.com/2025/10/23/20-year-old-dropouts-built-ai-notetaker-turbo-ai-to-5-million-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2422.jpeg?resize=1200,742",
-      "publishedAt": "2025-10-23T19:25:41Z",
-      "content": "Five million users. Eight-figure annual recurring revenue. Twenty thousand new users joining daily. These are some solid numbers for a startup called Turbo AI launched in early 2024 by Rudy Arora and… [+4158 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Instagram users can now use Meta AI editing tools directly in IG Stories | TechCrunch",
-      "description": "Meta AI's photo editing tools can be found in Instagram Stories when tapping the paintbrush icon. Users can describe what they want to add, remove, or change.",
-      "url": "https://techcrunch.com/2025/10/23/instagram-users-can-now-use-meta-ai-editing-tools-directly-in-ig-stories/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/InstagramMetaAI-Stories.jpeg?w=1200",
-      "publishedAt": "2025-10-23T19:24:14Z",
-      "content": "Meta is bringing its AI-powered photo and video editing tools directly to Instagram Stories, allowing users to enter text prompts to add or remove things in photos and videos or even change it comple… [+2052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Excel is three sheets to the window on iOS as update borks everything",
-      "description": "iPhone and iPad users vexed by denial of spreadsheets Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers' great annoyance.…",
-      "url": "https://www.theregister.com/2025/10/23/microsoft_excel_for_ios/",
-      "urlToImage": "https://regmedia.co.uk/2024/08/14/shutterstock_iphone.jpg",
-      "publishedAt": "2025-10-23T19:23:27Z",
-      "content": "Microsoft Excel for the past week has been hanging or crashing on iOS and iPadOS devices, to customers' great annoyance.\r\nThe problems appear to have begun following the release of Excel version 2.10… [+3642 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Quantum stocks stayed higher after Trump administration's denial of equity talks. Here's why",
-      "description": "Shares of IonQ, Rigetti Computing, and D-Wave Quantum were all still higher despite the statement from the Commerce Department.",
-      "url": "https://www.cnbc.com/2025/10/23/quantum-stocks-trump-equity-denial.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108133732-1744950858083-Chandelier-thumb.jpg?v=1759505467&w=1920&h=1080",
-      "publishedAt": "2025-10-23T19:05:06Z",
-      "content": "The Trump administration is pouring cold water on a report that it's \"currently\" in talks to take equity stakes in quantum computing companies like IonQ, Rigetti Computing, and D-Wave Quantum, but sh… [+1949 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date",
-      "description": "As much as I love decorations, it’s the music that really gets me into the holiday spirit. Luckily for those looking to capitalize on the upcoming holiday season, JBL’s newer Charge 6 is on sale at Walmart for $154 (about $46 off), which is one of the lowest …",
-      "url": "https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/JBL-Charge-6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T18:50:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the already-affordable CMF Buds 2A and Resident Evil Village.\r\nWe also found deals on the already-affordable CMF Buds 2A and Resident Evil… [+3931 chars]"
     }
   ]
 }
