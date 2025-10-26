@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T04:38:44.732Z",
+  "fetchedAt": "2025-10-26T05:08:58.466Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "US stocks hit record high after soft CPI, led by tech mega-cap gains",
+      "description": "US stocks closed at a new high on Friday, as traders cheered softer-than-anticipated inflation data that underpinned expectations for Federal Reserve interest-rate cuts. Technology giants including Nvidia Corp, Apple Inc and Broadcom Inc led gains in the S&P …",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rallies-after-soft-cpi-intel-soars-on-healthy-earnings",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nhdtzo/article70200680.ece/alternates/LANDSCAPE_1200/PO10_Forex_chart.jpg",
+      "publishedAt": "2025-10-25T04:40:42Z",
+      "content": "US stocks closed at a new high on Friday, as traders cheered softer-than-anticipated inflation data that underpinned expectations for Federal Reserve interest-rate cuts. Technology giants including N… [+4515 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/eb518b3954bbd18d7820bd718ac308014d0af0dd/2025/10/23/0f0f8fee-d1b0-4948-989c-cfa308ff1a92/mico-for-copilot.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T16:42:00Z",
       "content": "The new animated Mico character is, thankfully, optional.  \r\nPhoto credit: Microsoft\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Copilot adds group chats, a… [+5225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Not sure what to buy? Amazon's latest shopping tool can help you decide - here's how it works",
-      "description": "The AI-driven feature takes your shopping history and preferences into account.",
-      "url": "https://www.zdnet.com/article/not-sure-what-to-buy-amazons-latest-shopping-tool-can-help-you-decide-heres-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8923023155e1a9db1dd133a01b023708b64375f6/2025/10/23/efa095c4-290e-4d1b-9068-d6165d02997e/downloadamazon.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T16:30:26Z",
-      "content": "Amazon\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has a new tool to help you decide between similar items.</li><li>Help Me Decide considers your ord… [+2492 chars]"
     }
   ]
 }
