@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T17:33:52.186Z",
+  "fetchedAt": "2025-10-26T18:11:59.577Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O’Brien",
+      "title": "Tech left teens fighting over scraps, and now it wants those too",
+      "description": "Right now, there are robots stocking convenience store shelves in Japan. We haven't embraced that tech here in America yet, but it's hard to imagine 7-11 or Walmart won't at least experiment with it soon. Walmart gave up on its shelf-scanning robots in 2020, …",
+      "url": "https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258027_teenage_robot_jobs__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-25T17:43:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyve been pushed out of the workforce, now were training robots to do the few jobs teens have left.\r\nTheyve been pushed out of the workforce, now were training… [+5471 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/ArtCard_SKY_16_9.webp?resize=1200,677",
       "publishedAt": "2025-10-23T20:53:43Z",
       "content": "OpenAI announced on Thursday it has acquired Software Applications, Inc., the makers of an AI-powered natural language interface for Mac computers called Sky. \r\nThe software product, which had not be… [+2801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Anthropic's Google Cloud deal includes 1 million TPUs and 1 GW of capacity in 2026",
-      "description": "While Google is powering Anthropic's next phase of compute expansion, Amazon remains its most deeply embedded partner.",
-      "url": "https://www.cnbc.com/2025/10/23/anthropic-google-cloud-deal-tpu.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107244923-1684788591875-gettyimages-1251294457-PGONCHAR_7364.jpeg?v=1761251795&w=1920&h=1080",
-      "publishedAt": "2025-10-23T20:36:44Z",
-      "content": "In this photo illustration, Anthropic logo is seen on a smartphone screen.\r\nAnthropic and Google officially announced their cloud partnership Thursday, a deal that gives the artificial intelligence c… [+4463 chars]"
     }
   ]
 }
