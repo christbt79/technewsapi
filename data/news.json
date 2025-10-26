@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-26T10:37:11.073Z",
+  "fetchedAt": "2025-10-26T11:04:50.378Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "5 ways ambitious IT pros can future-proof their tech careers in an age of AI",
+      "description": "Mid-career IT professionals who climb the corporate ladder successfully have a number of things in common. Here's how to smash that glass ceiling.",
+      "url": "https://www.zdnet.com/education/professional-development/5-ways-ambitious-it-pros-can-future-proof-their-tech-careers-in-an-age-of-ai/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/789598f3ff695a5ace94e37869088cb9360fab4a/2025/10/24/342915f2-0484-49d9-9f83-5c6d0956a2e4/ladderlightscreenshot-2025-10-24-131629.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-25T11:00:42Z",
+      "content": "Cocoon/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>Ambitious IT professionals are prepared to smash the glass ceiling.</li><… [+7743 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/6c74ec84ea221a538a8763baaf0613a576cb0589/2025/10/23/cfe90db1-c1d4-4256-81e9-2260da026cf6/3.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T17:29:02Z",
       "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "Are Sora 2 and other AI video tools risky to use? Here's what a legal scholar says",
-      "description": "Anyone can make realistic AI videos with OpenAI's new video model. But what happens when creativity, copyright, and deepfakes collide?",
-      "url": "https://www.zdnet.com/article/are-sora-2-and-other-ai-video-tools-risky-to-use-heres-what-a-legal-scholar-says/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fd6fda86ea14069e077aa6fca7af5daf3b85c8d4/2025/10/12/51c8469d-31db-449a-94ee-3be9cd5a5f93/david-agents.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T17:11:00Z",
-      "content": "Photo illustration by Cheng Xin/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI video tools now raise real legal and ownership risks.</li><li>Op… [+21088 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Microsoft’s Mico is a ‘Clippy’ for the AI era",
-      "description": "Microsoft has unveiled “Mico,” a new animated avatar for its Copilot AI that brings back shades of Clippy. The expressive blob acts as a friendly, customizable face for the chatbot.",
-      "url": "https://techcrunch.com/2025/10/23/microsofts-mico-is-a-clippy-for-the-ai-era/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-      "publishedAt": "2025-10-23T17:08:23Z",
-      "content": "Microsoft has a new Clippy, and it’s an AI friend called Mico. At the company’s Copilot fall release press event on Thursday, the company introduced a range of new features and updates for its AI cha… [+3495 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "One of ChatGPT's most helpful features is coming to Claude - here's who gets it",
-      "description": "Anthropic's Memory feature aims to create a more personalized experience while prioritizing user control.",
-      "url": "https://www.zdnet.com/article/one-of-chatgpts-most-helpful-features-is-coming-to-claude-heres-who-gets-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/272aaf05545b0231ca57fb5647cdcf79ed780679/2025/07/31/bd70d23e-7adc-4485-845a-42e4f1595c29/claude.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T17:00:00Z",
-      "content": "Anthropic / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic Pro and Max subscribers have access to Memory. </li><li>The f… [+4340 chars]"
     }
   ]
 }
