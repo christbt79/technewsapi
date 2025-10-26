@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-26T11:04:50.378Z",
+  "fetchedAt": "2025-10-26T11:31:33.159Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "AMD first entered the CPU market with reverse-engineered Intel 8080 clone 50 years ago — the Am9080 cost 50 cents apiece to make, but sold for $700",
+      "description": "In 1975, AMD could make these processors for 50 cents and sell them for $700, providing a great financial springboard to establish the company in PC CPU making.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-first-entered-the-cpu-market-with-reverse-engineered-intel-8080-clone-50-years-ago-the-am9080-cost-50-cents-apiece-to-make-but-sold-for-usd700",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YKqgWNGwbAzCv87gZQp2un-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:21:40Z",
+      "content": "The chip which paved the way for AMD’s illustrious future, eventually creating some of the best CPUs we've ever tested, entered mass production 50 years ago. AMD’s Am9080 had something of a shady ori… [+3665 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Is Waymo ready for winter?",
+      "description": "During a recent all-hands meeting, Waymo's chief winter weather expert laid it out for all the company's engineers and product managers: if Waymo wants to expand to new cities and new markets, it's robotaxis will need to be able to confidently and safely hand…",
+      "url": "https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258030_waymo_snow_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-25T11:12:09Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSnow and ice pose unique challenges for driverless cars. And Waymos expansion depends on its ability to tackle them head on.\r\nSnow and ice pose unique challenges… [+7303 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1187,6 +1213,19 @@
     {
       "source": {
         "id": null,
+        "name": "Vox"
+      },
+      "author": "Sean Illing",
+      "title": "Why every website you used to love is getting worse",
+      "description": "TikTok and airlines have something in common with your search engine, your grocery app, and (increasingly) your car: They start out great, lock you in, and then quietly get worse while you keep using them. That very familiar decline now has a catchy name: “en…",
+      "url": "https://www.vox.com/technology/465922/enshittification-cory-doctorow-amazon-google-facebook",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2208850558.jpg?quality=90&strip=all&crop=0%2C13.557294007604%2C100%2C72.885411984791&w=1200",
+      "publishedAt": "2025-10-23T19:50:24Z",
+      "content": "What happened here? | Jens Büttner/picture alliance via Getty Images\r\n\n\nTikTok and airlines have something in common with your search engine, your grocery app, and (increasingly) your car: They start… [+12699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ZDNet"
       },
       "author": "Charlie Osborne",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/JBL-Charge-6.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T18:50:58Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the already-affordable CMF Buds 2A and Resident Evil Village.\r\nWe also found deals on the already-affordable CMF Buds 2A and Resident Evil… [+3931 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI buys AI startup that built interface for Apple computers",
-      "description": "With Thursday's acquisition, all 12 employees from Software Applications Incorporated will join OpenAI.",
-      "url": "https://www.cnbc.com/2025/10/23/openai-buys-ai-startup-software-applications-incorporated.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108204530-1758900517239-gettyimages-2236544077-STARGATE_DATA_CENTER.jpeg?v=1761239410&w=1920&h=1080",
-      "publishedAt": "2025-10-23T18:21:33Z",
-      "content": "OpenAI on Thursday announced it has acquired Software Applications Incorporated, a small company that built an artificial intelligence interface for Apple computers.\r\nAll 12 members of the Software A… [+1168 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Two days after OpenAI's Atlas, Microsoft launches a nearly identical AI browser | TechCrunch",
-      "description": "Two days after OpenAI's Atlas, Microsoft launches a nearly identical AI browser | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/23/two-days-after-openais-atlas-microsoft-launches-a-nearly-identical-ai-browser/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
-      "publishedAt": "2025-10-23T18:04:59Z",
-      "content": "Microsoft released a new batch of features for its AI assistant Thursday, including an ambitious project that builds artificial intelligence directly into one of its most central products. More than … [+1977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "Snapchat's free AI image lens transformed my snaps with just one prompt - here's how",
-      "description": "Snapchat's image-generation lens is free to try in the US now. Here's how to find it, plus my tips for getting the best results.",
-      "url": "https://www.zdnet.com/article/snapchats-free-ai-image-lens-transformed-my-snaps-with-just-one-prompt-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6c74ec84ea221a538a8763baaf0613a576cb0589/2025/10/23/cfe90db1-c1d4-4256-81e9-2260da026cf6/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T17:29:02Z",
-      "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1153 chars]"
     }
   ]
 }
