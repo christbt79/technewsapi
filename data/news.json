@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-26T12:57:15.522Z",
+  "fetchedAt": "2025-10-26T13:19:19.332Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Billionaire Jimmy John’s founder: Work-life balance for entrepreneurs ''is the biggest line of bulls--- that’s ever been created’",
+      "description": "Jimmy John Liautaud says launching a successful business requires an immense amount of dedication and persistence, leaving no room for work-life balance.",
+      "url": "https://www.cnbc.com/2025/10/25/billionaire-jimmy-johns-founder-entrepreneurs-dont-get-work-life-balance.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215499-1761156017540-gettyimages-2206258415-gg_27651_n4jmakxx.jpeg?v=1761156035&w=1920&h=1080",
+      "publishedAt": "2025-10-25T13:15:01Z",
+      "content": "One quality separates the most successful business owners from all others, according to billionaire Jimmy John Liautaud: They work really, really hard.\r\nIn that vein, the 61-year-old founder and form… [+3774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Olympic gold medalist: Don't make this mistake if you want to raise successful, 'internally motivated' children",
+      "description": "Two-time Olympic gold medalist Abby Wambach's advice for parents who want to raise successful kids: Don't hover over their sports practices. Here's why.",
+      "url": "https://www.cnbc.com/2025/10/25/abby-wambach-why-parents-shouldnt-attend-their-kids-sports-practices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216271-1761252740306-gettyimages-2242104256-NUP_208910_00686.jpeg?v=1761254841&w=1920&h=1080",
+      "publishedAt": "2025-10-25T13:05:01Z",
+      "content": "Don't feel guilty if you can't make it to your kids' after-school sports practices, says two-time Olympic gold medalist Abby Wambach.\r\nLeaving your kids with their teammates and coaches without your … [+2984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The 5 most common jobs in America's most populous cities—and how much they pay",
+      "description": "Common occupations held by Americans include health and personal aides, retail salespeople, registered nurses and customer service representatives.",
+      "url": "https://www.cnbc.com/2025/10/25/most-common-jobs-in-largest-us-cities.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215023-1761081015093-gettyimages-1094446376-mon1196196.jpeg?v=1761081044&w=1920&h=1080",
+      "publishedAt": "2025-10-25T13:00:01Z",
+      "content": "There are nearly 4 million health and personal care aides in the U.S.\r\nIn fact, health and personal care aides were the most common job Americans held as of May 2024, earning an annual median salary … [+2195 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108209988-1760019895734-lib-bu-tan-wafer-ultra-core-3-1024x726.jpg?v=1760020062&w=1920&h=1080",
       "publishedAt": "2025-10-23T20:20:02Z",
       "content": "Intel reported third-quarter results on Thursday in which sales beat analyst estimates, signaling that demand for its core x86 processors for PCs has recovered.\r\nShares of the chipmaker were up 6% in… [+3090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "These Samsung Galaxy S26 leaks suggest the biggest performance change I've seen yet",
-      "description": "Samsung's flagships are overdue for an overhaul. Here are all the Galaxy S26 rumors so far, including processor, camera, battery, and more.",
-      "url": "https://www.zdnet.com/article/these-samsung-galaxy-s26-leaks-suggest-the-biggest-performance-change-ive-seen-yet/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/77535f5bace56be83d2f7b912e968fdde8936f5f/2025/01/17/067f380f-83eb-4554-9cbf-a8d6c1991f94/dsc03712.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T20:16:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5642 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Target cuts 1,800 corporate jobs in its first major layoffs in a decade",
-      "description": "Target's incoming CEO Michael Fiddelke said the cuts are designed to spur growth and make the retailer faster.",
-      "url": "https://www.cnbc.com/2025/10/23/target-layoffs-corporate-jobs-sales-slump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188060-1755616409044-gettyimages-2228107591-250802_sd_logos_113.jpeg?v=1755616566&w=1920&h=1080",
-      "publishedAt": "2025-10-23T20:12:25Z",
-      "content": "Target said on Thursday it's cutting 1,800 corporate jobs as the retailer tries to get back to growth after four years of roughly stagnant sales.\r\nIt marks the first major round of layoffs in a decad… [+3511 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Sean Illing",
-      "title": "Why every website you used to love is getting worse",
-      "description": "TikTok and airlines have something in common with your search engine, your grocery app, and (increasingly) your car: They start out great, lock you in, and then quietly get worse while you keep using them. That very familiar decline now has a catchy name: “en…",
-      "url": "https://www.vox.com/technology/465922/enshittification-cory-doctorow-amazon-google-facebook",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2208850558.jpg?quality=90&strip=all&crop=0%2C13.557294007604%2C100%2C72.885411984791&w=1200",
-      "publishedAt": "2025-10-23T19:50:24Z",
-      "content": "What happened here? | Jens Büttner/picture alliance via Getty Images\r\n\n\nTikTok and airlines have something in common with your search engine, your grocery app, and (increasingly) your car: They start… [+12699 chars]"
     }
   ]
 }
