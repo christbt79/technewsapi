@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T12:15:18.970Z",
+  "fetchedAt": "2025-10-26T12:57:15.522Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+      "title": "Skyrocketing costs for memory will jack up smartphone prices — Chinese manufacturer Xiaomi warns of higher prices for new devices",
+      "description": "Xiaomi President Lu Weibing stated in a social media post that the rising costs of memory chips are far beyond expectations and could intensify further.",
+      "url": "https://www.tomshardware.com/pc-components/dram/skyrocketing-costs-for-memory-will-jack-up-smartphone-prices-chinese-manufacturer-xiaomi-warns-of-higher-prices-for-new-devices",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pU95E8pwfvrx8dWfwg7X8M-1920-80.jpg",
+      "publishedAt": "2025-10-25T12:52:43Z",
+      "content": "The increasing cost of memory chips seems to be slowly creeping into the smartphone industry. Chinese smartphone manufacturer Xiaomi saw a disappointing response to its newly launched Redmi K90 range… [+2470 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -94,19 +107,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -117,6 +117,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2208850558.jpg?quality=90&strip=all&crop=0%2C13.557294007604%2C100%2C72.885411984791&w=1200",
       "publishedAt": "2025-10-23T19:50:24Z",
       "content": "What happened here? | Jens Büttner/picture alliance via Getty Images\r\n\n\nTikTok and airlines have something in common with your search engine, your grocery app, and (increasingly) your car: They start… [+12699 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "Your phishing detection skills are no match for 2025's biggest security threats",
-      "description": "A new report reveals hackers are shifting tactics to target humans in scams, and it's working. See who's most at risk from Clickfix attacks.",
-      "url": "https://www.zdnet.com/article/your-phishing-detection-skills-are-no-match-for-2025s-biggest-security-threats/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b99398128db0ab459879e1be2a6951e16a94c985/2025/10/23/33e675d8-298f-4abe-b7c8-908dc17128d4/bluekeyboard555gettyimages-860264044.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T19:29:00Z",
-      "content": "Bill Hinton/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Clickfix attacks surged 500% in early 2025.</li><li>Cybercriminals now use … [+6888 chars]"
     }
   ]
 }
