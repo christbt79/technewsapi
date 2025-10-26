@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T10:08:53.651Z",
+  "fetchedAt": "2025-10-26T10:37:11.073Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess, Lily Hay Newman",
+      "title": "Amazon Explains How Its AWS Outage Took Down the Web",
+      "description": "Plus: The Jaguar Land Rover hack sets an expensive new record, OpenAI’s new Atlas browser raises security fears, Starlink cuts off scam compounds, and more.",
+      "url": "https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/",
+      "urlToImage": "https://media.wired.com/photos/68fc1049d10add0e2ec330ec/191:100/w_1280,c_limit/security_roundup_aws_outage.jpg",
+      "publishedAt": "2025-10-25T10:30:00Z",
+      "content": "The cloud giant Amazon Web Services experienced DNS resolution issues on Monday leading to cascading outages that took down wide swaths of the web. Mondays meltdown illustrated the worlds fundamental… [+6859 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/272aaf05545b0231ca57fb5647cdcf79ed780679/2025/07/31/bd70d23e-7adc-4485-845a-42e4f1595c29/claude.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T17:00:00Z",
       "content": "Anthropic / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic Pro and Max subscribers have access to Memory. </li><li>The f… [+4340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "ChatGPT was down Thursday - what we know about the outage",
-      "description": "It's not just ChatGPT. Other services, including Grok, appear to be experiencing outages today.",
-      "url": "https://www.zdnet.com/article/chatgpt-was-down-thursday-what-we-know-about-the-outage/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/902e4c07e503b94fe06b99f4993120a2da5941fa/2025/10/23/c2088c66-5fe7-4f50-927b-a9cab4ba16d9/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-23T16:54:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT experienced a major outage on Thursday morning.</li><li>OpenAI's status pag… [+3081 chars]"
     }
   ]
 }
