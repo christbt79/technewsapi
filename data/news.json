@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T14:35:18.922Z",
+  "fetchedAt": "2025-10-26T15:07:48.477Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "'VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks at all-time highs",
+      "description": "Tidal Financial's Gavin Filmore finds many of his clients are no longer satisfied with buying popular ETFs tied to market indexes.",
+      "url": "https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106860106-1616771430890-gettyimages-1003000794-axm-pk-25823.jpeg?v=1761320822&w=1920&h=1080",
+      "publishedAt": "2025-10-25T15:00:01Z",
+      "content": "Passive investing through exchange-traded funds may be losing its appeal.\r\nTidal Financial Group Chief Revenue Officer Gavin Filmore finds many of his clients are no longer satisfied with buying popu… [+1853 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -172,19 +185,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -195,6 +195,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK438_carbon_capture.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-23T20:36:09Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe tech giant is supporting a new gas and carbon capture project, a disputed way to address climate change.\r\nThe tech giant is supporting a new gas and carbon c… [+6380 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta replacing humans with AI for FTC-mandated privacy reviews",
-      "description": "Meta said that it is laying off an undisclosed number of employees in its risk organization amid a shift to use AI to automate compliance review tasks.",
-      "url": "https://www.cnbc.com/2025/10/23/meta-replacing-humans-with-ai-for-ftc-mandated-privacy-reviews.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108089123-1737389258098-gettyimages-2194353859-AFP_36UR84C.jpeg?v=1761250256&w=1920&h=1080",
-      "publishedAt": "2025-10-23T20:29:26Z",
-      "content": "Meta said Thursday that it's laying off an undisclosed number of employees in its risk organization amid a company shift to use artificial intelligence to automate its compliance review process.\r\nMic… [+2315 chars]"
     }
   ]
 }
