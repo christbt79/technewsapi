@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T08:39:16.154Z",
+  "fetchedAt": "2025-10-26T09:08:32.973Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Verity Burns",
+      "title": "The Pepsi Man Is Coming to Save Samsung From Boring Design",
+      "description": "Mauro Porcini is, amazingly, Samsung's first ever chief design officer. He's got a hell of a job ahead of him.",
+      "url": "https://www.wired.com/story/the-pepsi-man-is-coming-to-save-samsung-from-boring-design/",
+      "urlToImage": "https://media.wired.com/photos/68fb998f3352341155e1ec56/191:100/w_1280,c_limit/102525_Pepsi-Man-Samsung.jpg",
+      "publishedAt": "2025-10-25T09:00:00Z",
+      "content": "Samsung has one of the biggest product line ups of any tech brand, yet when it comes to design, its consistently seen as an also-ran. While other companies have forged distinctive and instantly recog… [+2880 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDQbDpY8n3iFusBi82QeF5-720-80.jpg",
       "publishedAt": "2025-10-23T16:50:21Z",
       "content": "Last year, Tesla announced its new AI5 custom silicon designed for inference in its vehicles needed for autonomous driving. Like previous generations, it's designed in-house and was to be manufacture… [+3775 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump admin not negotiating with quantum firms with equity stakes: Commerce official",
-      "description": "\"The Commerce Department is not currently negotiating equity stakes with quantum computing companies,\" the spokesperson said in a statement.",
-      "url": "https://www.cnbc.com/2025/10/23/trump-quantum-stock-stake.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200883-17582196122025-09-18t181702z_997274710_rc2iugaeexr1_rtrmadp_0_usa-trump-britain-business-reception.jpeg?v=1758219649&w=1920&h=1080",
-      "publishedAt": "2025-10-23T16:48:29Z",
-      "content": "The U.S. government is not in talks with quantum computing companies to take equity stakes in the firms in exchange for federal funding, a Commerce Department official told CNBC. \r\n\"The Commerce Depa… [+2510 chars]"
     }
   ]
 }
