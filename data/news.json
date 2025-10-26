@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-26T09:32:25.540Z",
+  "fetchedAt": "2025-10-26T10:08:53.651Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide",
+      "description": "In OpenAI’s new Atlas browser, the Ask ChatGPT sidebar is moderately helpful at best. Sometimes, it’s confusingly wrong.",
+      "url": "https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/",
+      "urlToImage": "https://media.wired.com/photos/68fc1ab3582abcd215b5b4b2/191:100/w_1280,c_limit/gear_openai_atlas_browser%20_tour.jpg",
+      "publishedAt": "2025-10-25T10:00:00Z",
+      "content": "OpenAIs recently launchedAtlas browser is a fascinating inversion of what users may expect from a browser, centering AI answers above traditional web links. Every click in a regular browser is a chan… [+2262 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/902e4c07e503b94fe06b99f4993120a2da5941fa/2025/10/23/c2088c66-5fe7-4f50-927b-a9cab4ba16d9/4.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T16:54:00Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ChatGPT experienced a major outage on Thursday morning.</li><li>OpenAI's status pag… [+3081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Elon Musk claims Tesla's new AI5 chip is 40x more performant than previous-gen AI5 — Next-gen custom silicon for vehicle AI to now be built by Samsung & TSMC",
-      "description": "Tesla's next-gen AI5 chips is going to be manufactured by both TSMC and, now, Samsung in America. Musk claims that it's 40x faster than the outgoing AI4 silicon, mostly because of a radical design approach that ditches legacy hardware blocks to focus on what'…",
-      "url": "https://www.tomshardware.com/tech-industry/elon-musk-claims-teslas-new-ai5-chip-is-40x-more-performant-than-previous-gen-ai5-next-gen-custom-silicon-for-vehicle-ai-to-now-be-built-by-samsung-and-tsmc",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDQbDpY8n3iFusBi82QeF5-720-80.jpg",
-      "publishedAt": "2025-10-23T16:50:21Z",
-      "content": "Last year, Tesla announced its new AI5 custom silicon designed for inference in its vehicles needed for autonomous driving. Like previous generations, it's designed in-house and was to be manufacture… [+3775 chars]"
     }
   ]
 }
