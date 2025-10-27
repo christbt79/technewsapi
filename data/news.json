@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-27T18:45:47.701Z",
+  "fetchedAt": "2025-10-27T19:07:28.648Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals",
+      "description": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal…",
+      "url": "https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+      "publishedAt": "2025-10-26T18:57:28Z",
+      "content": "The countdown is almost over tomorrows the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 2729, 10,000 founders, investors, and innovators will flood San Fr… [+4552 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -458,19 +471,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -481,6 +481,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2015/07/24/iran_flags_648.jpg",
       "publishedAt": "2025-10-24T05:45:07Z",
       "content": "Iran's favorite muddy-footed cyberespionage crew is at it again, this time breaching more than 100 government entities across the Middle East and North Africa, according to researchers at Group-IB.\r\n… [+3070 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Finland to host December Summit for EU eastern flank nations",
-      "description": "The summit will also focus on concrete efforts to strengthen defences along eastern borders of the EU and the North Atlantic Treaty Organization in the face of a more aggressive Russia",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-23/finland-to-host-december-summit-for-eu-eastern-flank-countries",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/fywd4s/article70196626.ece/alternates/LANDSCAPE_1200/IMG_iStock-1386827642_2_1_6UEREBRF.jpg",
-      "publishedAt": "2025-10-24T04:13:57Z",
-      "content": "Finland will host a summit for leaders of countries on the European Unions eastern flank to push their common messaging on defence initiatives. \r\nThe summit on Dec. 16 in Helsinki will include at lea… [+1544 chars]"
     }
   ]
 }
