@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-27T13:04:37.449Z",
+  "fetchedAt": "2025-10-27T13:46:40.739Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "These friends were fired from dream jobs decades into their careers—their best advice for surviving a layoff",
+      "description": "Laura Brown and Kristin O'Neill are the co-authors of \"All the Girls Get Fired,\" a guide to surviving a layoff and bouncing back in your career.",
+      "url": "https://www.cnbc.com/2025/10/26/how-to-survive-a-layoff-from-all-the-cool-girls-get-fired-authors.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216752-1761331386475-gettyimages-2240742151-Laura_Brown__Kristina_ONeill_Book_Launch.jpeg?v=1761331428&w=1920&h=1080",
+      "publishedAt": "2025-10-26T13:45:01Z",
+      "content": "Laura Brown and Kristina O'Neill were at the top of their games. They had dream magazine jobs as editors in chief, with Brown at Instyle and O'Neill at WSJ. Magazine.\r\nThen they got fired.\r\nThat's th… [+8502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adam Doud",
+      "title": "T-Mobile just made it hard for tech enthusiasts like me to leave - here's what changed",
+      "description": "Transferring your phone number can be a mess, especially if you're going from iPhone to Android. Here's how my experience has been with the carrier.",
+      "url": "https://www.zdnet.com/article/t-mobile-just-made-it-hard-for-tech-enthusiasts-like-me-to-leave-heres-what-changed/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4ad221fe9a06bd66fab3550d16efb82c72f11650/2025/08/27/aca4c4fe-5287-4777-8f0e-55f516fab8f3/dsc07592.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-26T13:34:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "A week with this Samsung smart monitor convinced me I might be done with TVs",
+      "description": "The Samsung M90SF is the company's latest OLED smart monitor, and it's more than just an extension of your PC.",
+      "url": "https://www.zdnet.com/article/a-week-with-this-samsung-smart-monitor-convinced-me-i-might-be-done-with-tvs/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b0f54ebc10868aa51cf408bd3c3d6f3d96c23e1b/2025/10/24/589d5bdb-183a-4099-b3ce-20dcea672eed/dsc08425.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-26T13:26:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nThere I was: logged off of Slack, legs kicked up, and mentally prepared for the start of another exhausting but thrilling NBA season. This year'… [+4755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "‘Never in your life buy a 5090 Founders Edition’: repair tech slams Nvidia’s flagship card design for train wreck melting 16-pin power connector",
+      "description": "The GeForce RTX 5090 Founders Edition is Nvidia’s flagship GPU, but one repair technician says it comes with a hidden flaw that makes it one of the worst designs he’s seen.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/northridge-fix-slams-flagship-nvidia-5090",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ogiiFXBptPFCENMztQEo2D-1972-80.png",
+      "publishedAt": "2025-10-26T13:09:25Z",
+      "content": "The GeForce RTX 5090 Founders Edition is Nvidia’s own-brand flagship GPU for consumers, but one repair technician says it comes with a hidden flaw that makes it “one of the worst designs in the histo… [+2448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "These 4 traits help successful people achieve their goals more often than most, Ivy League psychologist says: 'Stop writing in your journal'",
+      "description": "Achieving your long-term goals requires a lot of grit, says University of Pennsylvania psychologist and bestselling author Angela Duckworth.",
+      "url": "https://www.cnbc.com/2025/10/26/ivy-league-psychologist-these-traits-help-successful-people-achieve-goals.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215495-1761155825234-gettyimages-1138996771-rbf06905.jpeg?v=1761155840&w=1920&h=1080",
+      "publishedAt": "2025-10-26T13:05:01Z",
+      "content": "People who consistently achieve their goals have a few key traits in common, according to psychologist Angela Duckworth.\r\nDuckworth, a University of Pennsylvania professor and bestselling author, has… [+3746 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -341,19 +406,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -364,6 +416,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/06/12/shutterstock_clippy.jpg",
       "publishedAt": "2025-10-24T00:15:11Z",
       "content": "Hands On Microsofts Clippy was an anthropomorphic assistant ahead of his time, offering to help you with your Office 97 tasks when all you could do was type and click in response. Today, as part of a… [+7191 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "With an Intel recovery underway, all eyes turn to its foundry business | TechCrunch",
-      "description": "Intel added $20 billion to its balance sheet in Q3 but didn't offer many details on the progress of its floundering foundry business.",
-      "url": "https://techcrunch.com/2025/10/23/with-an-intel-recovery-underway-all-eyes-turn-to-its-foundry-business/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?resize=1200,800",
-      "publishedAt": "2025-10-24T00:12:03Z",
-      "content": "Intel’s third-quarter earnings beat Wall Street expectations Thursday, results buoyed by a bump in revenue combined with larger cuts, and multiple, sizable investments over the last two months as CEO… [+3509 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Google and Anthropic wave hands about mega TPU deal worth 'tens of billions'",
-      "description": "But AWS is still the AI upstart's primary partner\nGoogle and Anthropic have struck a deal that will see the AI upstart gain access to up to a million of the web giant’s tensor processing units (TPUs) and involve “tens of billions of dollars.”…",
-      "url": "https://www.theregister.com/2025/10/23/google_anthropic_deal/",
-      "urlToImage": "https://regmedia.co.uk/2023/01/19/money_shutterstock.jpg",
-      "publishedAt": "2025-10-23T23:56:02Z",
-      "content": "Google and Anthropic have struck a deal that will see the AI upstart gain access to up to a million of the web giants tensor processing units (TPUs) and involve tens of billions of dollars.\r\nThe two … [+2319 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Andy Greenberg",
-      "title": "How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA",
-      "description": "WIRED recently demonstrated how to cheat at poker by hacking the Deckmate 2 card shufflers used in casinos. The mob was allegedly using the same trick to fleece victims for millions.",
-      "url": "https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/",
-      "urlToImage": "https://media.wired.com/photos/68faa2581a5f94c0df627e4c/191:100/w_1280,c_limit/WI_WIO_11_202_HACKLAB_POKER_102325_0727.jpg",
-      "publishedAt": "2025-10-23T23:51:38Z",
-      "content": "\"If there's a camera that knows the cards, there is always some kind of underlying threat. Customers are gonna be essentially at the mercy of the person setting up the machine,\" poker player and card… [+1271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Don't take AI to Thanksgiving: Bots have hidden biases",
-      "description": "It's not a bug, it's a feature\nLarge language models, or LLMs, are biased in one way or another - often many. And there may be no way around that.…",
-      "url": "https://www.theregister.com/2025/10/23/ai_model_bias_inevitable/",
-      "urlToImage": "https://regmedia.co.uk/2018/11/21/shutterstock_thanksgiving.jpg",
-      "publishedAt": "2025-10-23T23:42:14Z",
-      "content": "Large language models, or LLMs, are biased in one way or another - often many. And there may be no way around that.\r\nMakers of LLMs the machine learning software, unfortunately referred to as artific… [+5238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Why Jim Cramer thinks GE Aerospace and GE Vernova are poised for success",
-      "description": "CNBC's Jim Cramer reviewed recent earnings from GE Aerospace and GE Vernova.",
-      "url": "https://www.cnbc.com/2025/10/23/jim-cramer-ge-aerospace-ge-vernova-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175650-1753272028173-gettyimages-2225992805-img_9381.jpeg?v=1753272050&w=1920&h=1080",
-      "publishedAt": "2025-10-23T23:00:21Z",
-      "content": "GE Aerospace and GE Vernova can keep climbing, CNBC's Jim Cramer said, because the two companies' products are relevant globally and can be useful amid trade tensions.\r\n\"In the end, both GE Aerospace… [+3267 chars]"
     }
   ]
 }
