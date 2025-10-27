@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-27T12:18:22.621Z",
+  "fetchedAt": "2025-10-27T13:04:37.449Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Simon Hill",
+      "title": "Google Nest Cam Indoor and Outdoor 2K Review: Slick, Smart, and Secure",
+      "description": "The latest Nest cams jump to 2K resolution, but what really elevates them is Gemini’s pricey AI subscription smarts.",
+      "url": "https://www.wired.com/review/google-nest-cam-indoor-outdoor-2k-2025/",
+      "urlToImage": "https://media.wired.com/photos/68fc3bee4445c2d5d84ab891/191:100/w_1280,c_limit/Review-%20Google%20Nest%20Cam%20Indoor%20and%20Outdoor%202K.png",
+      "publishedAt": "2025-10-26T12:30:00Z",
+      "content": "The new Nest Cam Indoor and Nest Cam Outdoor boast the easiest setup experience Ive encountered. Simply plug them in (the Nest Cam Indoor comes with a 10-foot USB-C cable, the Nest Cam Outdoor has an… [+3313 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Microsoft's decision to axe Windows 10 is driving Apple PC sales growth — users buy Macs instead of AI PCs despite Microsoft’s push for Copilot+ PCs",
+      "description": "Counterpoint Research data shows a massive jump in Mac sales in the same quarter that support for Microsoft Windows 10 ended.",
+      "url": "https://www.tomshardware.com/software/operating-systems/microsofts-decision-to-axe-windows-10-is-driving-apple-pc-sales-growth-users-buy-macs-instead-of-ai-pcs-despite-microsofts-push-for-copilot-pcs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yeNNgoFjGyM8NHfvyTuGT3-2560-80.jpg",
+      "publishedAt": "2025-10-26T12:24:18Z",
+      "content": "Microsoftended support for Windows 10 last October 14, ending its reign as one of the most popular operating systems for PCs after nearly a decade. This happened about a year and a half after the int… [+3048 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108175650-1753272028173-gettyimages-2225992805-img_9381.jpeg?v=1753272050&w=1920&h=1080",
       "publishedAt": "2025-10-23T23:00:21Z",
       "content": "GE Aerospace and GE Vernova can keep climbing, CNBC's Jim Cramer said, because the two companies' products are relevant globally and can be useful amid trade tensions.\r\n\"In the end, both GE Aerospace… [+3267 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Applied Materials lays off 4% of workforce",
-      "description": "The move comes amid \"automation, digitalization and geographic shifts,\" the company said.",
-      "url": "https://www.cnbc.com/2025/10/23/applied-materials-lays-off-4percent-of-workforce.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186599-1755269220052-gettyimages-1232980841-APPLIED_MATERIAL_EARNS.jpeg?v=1761258095&w=1920&h=1080",
-      "publishedAt": "2025-10-23T22:50:08Z",
-      "content": "Chip equipment manufacturer Applied Materials is laying off 4% of its workforce.\r\nThe company on Thursday began notifying impacted employees around the world \"across all levels and groups,\" it said i… [+1234 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lauren Goode",
-      "title": "Trump's Investment in Intel Is Paying Off",
-      "description": "Intel reported higher than expected revenue on Thursday and its stock price has risen over 90 percent since the White House announced it was taking a 10 percent stake in chipmaker.",
-      "url": "https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/",
-      "urlToImage": "https://media.wired.com/photos/68f80331302a4fd65a7729e9/191:100/w_1280,c_limit/Intel-Earnnings-Business-2235610687.jpg",
-      "publishedAt": "2025-10-23T22:48:36Z",
-      "content": "The Trump administrationsinvestment in Intel appears to be paying off so far, but the once-mighty chipmaker still has a long way to climb back to industry dominance.\r\nIn August, the US government ann… [+2253 chars]"
     }
   ]
 }
