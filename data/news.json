@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-27T09:40:29.964Z",
+  "fetchedAt": "2025-10-27T10:11:36.894Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "US-Pakistan relations don’t come at expense of India, Rubio says",
+      "description": "The US’s pivot toward Pakistan under President Donald Trump has irked New Delhi and coincided with a fraying in ties between Trump and Prime Minister Narendra Modi",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-26/us-pakistan-relations-don-t-come-at-expense-of-india-rubio-says",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/wtyy49/article70204591.ece/alternates/LANDSCAPE_1200/2025-10-25T141529Z_725511553_RC22JHA6MQWL_RTRMADP_3_ISRAEL-PALESTINIANS-RUBIO.JPG",
+      "publishedAt": "2025-10-26T10:04:22Z",
+      "content": "The US is seeking to expand its strategic relationship with Pakistan but those ties dont come at the expense of Washingtons relations with India, Secretary of State Marco Rubio said.\r\nJust like India… [+2941 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -250,19 +263,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -273,6 +273,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/6c74ec84ea221a538a8763baaf0613a576cb0589/2025/10/23/cfe90db1-c1d4-4256-81e9-2260da026cf6/3.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-23T21:49:00Z",
       "content": "ZDNET's recommendations are based on many hours of testing, research, and comparison shopping. We gather data from the best available sources, including vendor and retailer listings as well as other … [+1153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple begins shipping American-made AI servers from Texas",
-      "description": "The milestone could please President Donald Trump, who has called for Apple to do more manufacturing on U.S. shores.",
-      "url": "https://www.cnbc.com/2025/10/23/apple-american-made-ai-servers-texas.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216265-1761252279956-AppleFactory_Houston6691.jpg?v=1761252320&w=1920&h=1080",
-      "publishedAt": "2025-10-23T21:26:11Z",
-      "content": "Apple has started shipping advanced servers for artificial intelligence applications out of a factory in Houston, Texas, the company announced on Thursday.\r\nThese servers are a core part of Apple's c… [+2143 chars]"
     }
   ]
 }
