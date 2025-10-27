@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-27T14:10:11.959Z",
+  "fetchedAt": "2025-10-27T14:39:58.111Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Sam Altman says AI could eliminate jobs that aren’t ‘real work’",
+      "description": "Sam Altman isn’t known for understatement, but even by his own standards, what he said on stage at OpenAI’s DevDay conference earlier this month was pretty problematic.",
+      "url": "https://www.tomshardware.com/tech-industry/sam-altman-says-ai-could-eliminate-jobs-that-arent-real-work",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gpNqFzQBwPFumBCtuTDUCd-1920-80.jpg",
+      "publishedAt": "2025-10-26T14:38:12Z",
+      "content": "Sam Altman isn’t known for understatement, but even by his own standards, what he said on stage at OpenAI’s DevDay conference earlier this month was pretty problematic. In a live interview with AI ne… [+2724 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/09/11/happy-accountant.jpg",
       "publishedAt": "2025-10-24T03:27:04Z",
       "content": "Intel has returned to profitability, grown revenue, and suggested demand for AI will ensure its struggling foundry business wins customers and boosts its datacenter CPU business.\r\nChipzilla advised i… [+4400 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Big tech is paying for Trump's White House ballroom | TechCrunch",
-      "description": "Trump's $250 million White House ballroom will be funded in part by big tech companies like Amazon, Apple, Google, Meta, and Microsoft.",
-      "url": "https://techcrunch.com/2025/10/23/big-tech-is-paying-for-trumps-white-house-ballroom/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
-      "publishedAt": "2025-10-24T02:57:47Z",
-      "content": "While the U.S. government remains in limbo during a shutdown, the White House grounds have been busy this week. Construction workers have begun demolition on the White House’s East Wing, which will b… [+2300 chars]"
     }
   ]
 }
