@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-27T15:36:36.097Z",
+  "fetchedAt": "2025-10-27T16:11:45.029Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "TechCrunch Mobility: The 'robot army' argument | TechCrunch",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "url": "https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/musk-promises-2024.jpg?resize=1200,800",
+      "publishedAt": "2025-10-26T16:06:03Z",
+      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nI am sure… [+8238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "US–China reach trade framework that could avert 100% tariffs and pause rare-earth curbs — development comes as Trump and Xi prepare to meet this week",
+      "description": "US and Chinese trade negotiators say they’ve reached a framework agreement that, if approved by both governments this week, would roll back proposed 100% tariffs on Chinese imports and pause Beijing’s escalating export restrictions on rare-earth materials.",
+      "url": "https://www.tomshardware.com/tech-industry/us-china-trade-framework-could-avoid-tariffs-and-rare-earth-curbs",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
+      "publishedAt": "2025-10-26T15:42:02Z",
+      "content": "US and Chinese trade negotiators say they’ve reached a framework agreement that, if approved by both governments this week, would roll back proposed 100% tariffs on Chinese imports and pause Beijing’… [+3041 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -432,19 +458,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
-      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -455,6 +468,19 @@
       "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/fywd4s/article70196626.ece/alternates/LANDSCAPE_1200/IMG_iStock-1386827642_2_1_6UEREBRF.jpg",
       "publishedAt": "2025-10-24T04:13:57Z",
       "content": "Finland will host a summit for leaders of countries on the European Unions eastern flank to push their common messaging on defence initiatives. \r\nThe summit on Dec. 16 in Helsinki will include at lea… [+1544 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Starlink starts security tests ahead of India retail kickoff",
-      "description": "Starlink initiates security tests in India as it prepares for retail broadband launch, awaiting TRAI's final pricing framework.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-24/starlink-starts-security-tests-ahead-of-india-retail-kickoff",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/rj397a/article70196614.ece/alternates/LANDSCAPE_1200/2025-06-06T095431Z_2043052981_RC26O1A69OMD_RTRMADP_3_STARLINK-INDIA-LICENCE.JPG",
-      "publishedAt": "2025-10-24T04:05:10Z",
-      "content": "Elon Musks Starlink is starting security tests in India, one of the final hurdles for the company as it prepares to provide commercial satellite broadband services in the worlds most populous country… [+2918 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Intel says server CPUs will be hot again – in a good way, to power AI workloads – any year now",
-      "description": "Chipzilla returns to profit and suggests customers are primed to sign for foundry services once it nails 18A process\nIntel has returned to profitability, grown revenue, and suggested demand for AI will ensure its struggling foundry business wins customers and…",
-      "url": "https://www.theregister.com/2025/10/24/intel_q3_2025/",
-      "urlToImage": "https://regmedia.co.uk/2017/09/11/happy-accountant.jpg",
-      "publishedAt": "2025-10-24T03:27:04Z",
-      "content": "Intel has returned to profitability, grown revenue, and suggested demand for AI will ensure its struggling foundry business wins customers and boosts its datacenter CPU business.\r\nChipzilla advised i… [+4400 chars]"
     }
   ]
 }
