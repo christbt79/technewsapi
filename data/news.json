@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-27T22:37:27.880Z",
+  "fetchedAt": "2025-10-27T23:08:32.357Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Shaq's new ride gets jaq'ed in haq attaq",
+      "description": "PLUS: Judge spanks NSO; Mozilla requires data use disclosures; TARmageddon meets Rust; And more! Infosec In Brief  Former basketball star Shaquille O'Neal is 7'1\" (215 cm), and therefore uses car customization companies to modify vehicles to fit his frame. Bu…",
+      "url": "https://www.theregister.com/2025/10/26/shaq_haq_attaq/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/26/shutterstock_editorial_only_shaquille_o_neal.jpg",
+      "publishedAt": "2025-10-26T22:43:52Z",
+      "content": "Infosec In Brief Former basketball star Shaquille O'Neal is 7'1\" (215 cm), and therefore uses car customization companies to modify vehicles to fit his frame. But it appears cybercriminals have targe… [+6075 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -484,19 +497,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
-      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -507,6 +507,19 @@
       "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/c8sai7/article70197046.ece/alternates/LANDSCAPE_1200/2021-06-03T084141Z_892512975_RC2WSN9U9ZI8_RTRMADP_3_DIGITAL-CRYPTO-UK-REGULATION.JPG",
       "publishedAt": "2025-10-24T07:22:12Z",
       "content": "21shares spent years building its crypto franchise outside Wall Streets orbit. From Zurich, it launched exchange-traded products that gave European investors access to Bitcoin and Ether long before t… [+4957 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Britain's Ministry of Justice just signed up to ChatGPT Enterprise",
-      "description": "OpenAI sweetens the deal with data residency\nOpenAI has signed up the UK's Ministry of Justice as the latest public sector customer for ChatGPT Enterprise.…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' -->",
-      "url": "https://www.theregister.com/2025/10/24/ministry_of_justice_chatgpt/",
-      "urlToImage": "https://regmedia.co.uk/2018/06/26/shutterstock_justice.jpg",
-      "publishedAt": "2025-10-24T07:15:06Z",
-      "content": "OpenAI has signed up the UK's Ministry of Justice as the latest public sector customer for ChatGPT Enterprise.\r\nThe agreement will deploy ChatGPT Enterprise on the desktops of 2,500 employees for use… [+3366 chars]"
     }
   ]
 }
