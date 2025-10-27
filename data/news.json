@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-27T11:33:39.156Z",
+  "fetchedAt": "2025-10-27T12:18:22.621Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Most families don't talk about this important medical issue, psychologist says—how to have the conversation",
+      "description": "Many people have never asked their relatives about their genetic health risks, a study shows. Here's how to start the conversation from a clinical psychologist.",
+      "url": "https://www.cnbc.com/2025/10/26/psychologist-most-families-dont-talk-about-this-important-medical-issue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216753-1761331422966-gettyimages-2216528468-lisbon_family_2025_04254.jpeg?v=1761331474&w=1920&h=1080",
+      "publishedAt": "2025-10-26T12:00:01Z",
+      "content": "One in seven people have never spoken to their relatives about their family's health history, according to a recent global study from Bupa, a health insurance company. The survey polled 8,000 adults … [+4248 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -429,6 +442,19 @@
       "urlToImage": "https://regmedia.co.uk/2021/01/08/eye.jpg",
       "publishedAt": "2025-10-25T00:00:24Z",
       "content": "Computer scientists at UC Berkeley say that AI models show promise as a way to discover and optimize algorithms.\r\nIn a preprint paper titled \"Barbarians at the Gate: How AI is Upending Systems Resear… [+5651 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Jonquilyn Hill",
+      "title": "Can AI make health care more human?",
+      "description": "A couple weeks ago, I went to the doctor to go over some test results. All was well — spectacularly average, even.  But there was one part of the appointment that did take me by surprise. After my doctor gave me advice based on my health and age, she turned h…",
+      "url": "https://www.vox.com/podcasts/466034/ai-health-care-medicine-doctors-paperwork",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2150777763.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-24T23:42:21Z",
+      "content": "Can AI give doctors more time to focus on their patients? | Namthip Muanthongthae/Getty Images\r\n\n\nA couple weeks ago, I went to the doctor to go over some test results. All was well — spectacularly a… [+6069 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f80331302a4fd65a7729e9/191:100/w_1280,c_limit/Intel-Earnnings-Business-2235610687.jpg",
       "publishedAt": "2025-10-23T22:48:36Z",
       "content": "The Trump administrationsinvestment in Intel appears to be paying off so far, but the once-mighty chipmaker still has a long way to climb back to industry dominance.\r\nIn August, the US government ann… [+2253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Cameron Peters",
-      "title": "Why did Trump destroy the East Wing?",
-      "description": "President Donald Trump has demolished the East Wing of the White House to make way for his planned $300 million ballroom. From start to finish, it only took a few days to destroy the more than century-old structure, which was built in 1902 and substantially r…",
-      "url": "https://www.vox.com/today-explained-newsletter/465957/trump-ballroom-east-wing-demolished-white-house",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242511701.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2025-10-23T22:43:55Z",
-      "content": "The East Wing of the White House was demolished on October 23, 2025. | Eric Lee/Getty Images\r\n\n\nPresident Donald Trump has demolished the East Wing of the White House to make way for his planned $300… [+7993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft AI chief says company won’t build chatbots for erotica",
-      "description": "Microsoft AI CEO Mustafa Suleyman said the software company won't build erotica AI services, the latest break with rival-partner OpenAI.",
-      "url": "https://www.cnbc.com/2025/10/23/microsoft-ai-chief-suleyman-company-wont-build-chatbots-for-erotica.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1697126213&w=1920&h=1080",
-      "publishedAt": "2025-10-23T22:29:17Z",
-      "content": "Microsoft AI CEO Mustafa Suleyman said the software giant won't build artificial intelligence services that provide \"simulated erotica,\" distancing itself from longtime partner OpenAI.\r\n\"That's just … [+1922 chars]"
     }
   ]
 }
