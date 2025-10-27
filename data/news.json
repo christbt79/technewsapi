@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-27T09:12:52.117Z",
+  "fetchedAt": "2025-10-27T09:40:29.964Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adam Doud",
+      "title": "Transferring to eSIM? I expected a nightmare, but this carrier proved me wrong",
+      "description": "Transferring your phone number can be a mess, especially if you're going from iPhone to Android. Here's how I flipped the script.",
+      "url": "https://www.zdnet.com/article/transferring-to-esim-i-expected-a-nightmare-but-this-carrier-proved-me-wrong/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0218a8a81bb1a2a31c2fbc401c72db1eaea7276a/2025/10/08/8542303b-cf54-41b3-956d-6f220fd620c0/dsc08113.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-26T09:21:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "This Samsung smart monitor effectively replaced my OLED TV for a week - but there's more to it",
+      "description": "The Samsung M90SF is the company's latest OLED smart monitor, and it's got several tricks up its sleeves.",
+      "url": "https://www.zdnet.com/article/this-samsung-smart-monitor-effectively-replaced-my-oled-tv-for-a-week-but-theres-more-to-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/44098309e4724022d606a3e1dce7c677fb9111ef/2025/10/24/f6028c2c-bd90-45cf-beb6-fe5d9c99e015/dsc08452.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-26T09:15:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nThere I was: logged off of Slack, legs kicked up, and mentally prepared for the start of another exhausting but thrilling NBA season. This year'… [+4755 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -224,19 +250,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
-      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -247,6 +260,19 @@
       "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216265-1761252279956-AppleFactory_Houston6691.jpg?v=1761252320&w=1920&h=1080",
       "publishedAt": "2025-10-23T21:26:11Z",
       "content": "Apple has started shipping advanced servers for artificial intelligence applications out of a factory in Houston, Texas, the company announced on Thursday.\r\nThese servers are a core part of Apple's c… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Adi Robertson",
-      "title": "The next legal frontier is your face and AI",
-      "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the legal morass of AI, follow Adi Robertson. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started…",
-      "url": "https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258016_AI_likeness_law_CVirginia3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-23T21:15:12Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThings are getting weird.\r\nby\r\nAdi RobertsonClose\r\nAdi Robertson\r\nSenior Editor, Tech &amp; Policy\r\nPosts from this author will be added to your daily email dige… [+9493 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Trump credits Benioff, Huang for decision not to ‘surge’ Fed troops into San Francisco | TechCrunch",
-      "description": "Trump said he scrapped plans to send the National Guard into San Francisco after calls from Nvidia’s Jensen Huang and Salesforce’s Marc Benioff. Mayor Daniel Lurie confirmed the plan was canceled.",
-      "url": "https://techcrunch.com/2025/10/23/trump-credits-benioff-huang-for-decision-not-to-surge-fed-troops-into-san-francisco/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-962267138.jpg?w=1024",
-      "publishedAt": "2025-10-23T21:05:38Z",
-      "content": "President Trump had planned an operation to surge San Francisco by marching National Guard troops into the city, but was convinced to alter course, he said on a post on his social network Truth Socia… [+1444 chars]"
     }
   ]
 }
