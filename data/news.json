@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T21:34:03.279Z",
+  "fetchedAt": "2025-10-28T22:09:08.953Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aria Alamalhodaei",
+      "title": "Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025",
+      "description": "Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025techcrunch.com",
+      "url": "https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1601911146.jpg?resize=1200,800",
+      "publishedAt": "2025-10-27T21:48:31Z",
+      "content": "Pytho AI is coming out of stealth with an ambitious pitch to the Department of Defense: turn mission planning that takes warfighters days into a process measured in minutes.\r\nThe startup was founded … [+3562 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025 | TechCrunch",
+      "description": "Mbodi users prompt the software with natural language, and its cluster of AI agents works to make training easier.",
+      "url": "https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/mbodi_logo_on_abb_robot.png?resize=1200,674",
+      "publishedAt": "2025-10-27T21:47:57Z",
+      "content": "Robots can be programmed to do a variety of tasks, like packing boxes and even performing surgery. But each individual movement or task requires its own specific training process, which makes it hard… [+3208 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/0218a8a81bb1a2a31c2fbc401c72db1eaea7276a/2025/10/08/8542303b-cf54-41b3-956d-6f220fd620c0/dsc08113.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-26T09:21:00Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "This Samsung smart monitor effectively replaced my OLED TV for a week - but there's more to it",
-      "description": "The Samsung M90SF is the company's latest OLED smart monitor, and it's got several tricks up its sleeves.",
-      "url": "https://www.zdnet.com/article/this-samsung-smart-monitor-effectively-replaced-my-oled-tv-for-a-week-but-theres-more-to-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/44098309e4724022d606a3e1dce7c677fb9111ef/2025/10/24/f6028c2c-bd90-45cf-beb6-fe5d9c99e015/dsc08452.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-26T09:15:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nThere I was: logged off of Slack, legs kicked up, and mentally prepared for the start of another exhausting but thrilling NBA season. This year'… [+4755 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "High school’s AI security system confuses Doritos bag for a possible firearm | TechCrunch",
-      "description": "A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.",
-      "url": "https://techcrunch.com/2025/10/25/high-schools-ai-security-system-confuses-doritos-bag-for-a-possible-firearm/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1225201409.jpg?resize=1200,900",
-      "publishedAt": "2025-10-25T19:06:17Z",
-      "content": "A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.\r\nTaki Allen, a student at Kenwoo… [+834 chars]"
     }
   ]
 }
