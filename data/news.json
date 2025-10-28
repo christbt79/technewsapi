@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T20:10:47.624Z",
+  "fetchedAt": "2025-10-28T20:39:45.993Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI says U.S. needs more power to stay ahead of China in AI: 'Electrons are the new oil'",
+      "description": "OpenAI urged the White House to substantially increase the U.S.' investment in new energy capacity",
+      "url": "https://www.cnbc.com/2025/10/27/open-ai-power-china.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203074-1758667426196-gettyimages-2236544160-STARGATE_DATA_CENTER.jpeg?v=1761594603&w=1920&h=1080",
+      "publishedAt": "2025-10-27T20:38:46Z",
+      "content": "OpenAI on Monday said the U.S. needs to substantially ramp up its investment in new energy capacity if it wants to stay ahead of China in the race to develop artificial intelligence.\r\nThe startup has… [+1247 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Robotaxi companies must do more to prove safety, Waymo co-CEO says | TechCrunch",
+      "description": "Waymo co-CEO Tekedra Mawakana urged rival autonomous vehicle companies to be more transparent about their safety data.",
+      "url": "https://techcrunch.com/2025/10/27/robotaxi-companies-must-do-more-to-prove-safety-waymo-co-ceo-says/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_4239.jpg?resize=1200,900",
+      "publishedAt": "2025-10-27T20:29:11Z",
+      "content": "Waymo co-CEO Tekedra Mawakana believes other companies working on autonomous vehicles need to do more to prove their technology is safe, she said during an interview at TechCrunch Disrupt 2025.\r\nMawa… [+2077 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -695,19 +721,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "WIRED",
-      "title": "AI of a Thousand Faces",
-      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
-      "url": "https://www.wired.com/ai-issue/",
-      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "Tommy Craggs",
       "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
       "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
@@ -715,6 +728,19 @@
       "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED",
+      "title": "AI of a Thousand Faces",
+      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+      "url": "https://www.wired.com/ai-issue/",
+      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
     },
     {
       "source": {
@@ -734,13 +760,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -760,13 +786,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -786,13 +812,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258027_teenage_robot_jobs__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-25T17:43:48Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyve been pushed out of the workforce, now were training robots to do the few jobs teens have left.\r\nTheyve been pushed out of the workforce, now were training… [+5471 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Who are AI browsers for? | TechCrunch",
-      "description": "OpenAI launched an AI-powered browser this week, but it feels like it offers a slight efficiency gain at best.",
-      "url": "https://techcrunch.com/2025/10/25/who-are-ai-browsers-for/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/chrome-with-ai-GettyImages-2184968624.jpg?w=1024",
-      "publishedAt": "2025-10-25T16:53:26Z",
-      "content": "OpenAI launched an AI-powered web browser called ChatGPT Atlas this week, which makes me wonder: Is it finally time to ditch Safari?\r\nThat news was on our minds as Max Zeff, Sean OKane, and I discuss… [+4076 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "'VOO and chill:' Why this popular investment strategy may be losing its appeal — even with stocks at all-time highs",
-      "description": "Tidal Financial's Gavin Filmore finds many of his clients are no longer satisfied with buying popular ETFs tied to market indexes.",
-      "url": "https://www.cnbc.com/2025/10/25/popular-investing-strategy-losing-appeal-with-stocks-at-record-finding.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106860106-1616771430890-gettyimages-1003000794-axm-pk-25823.jpeg?v=1761320822&w=1920&h=1080",
-      "publishedAt": "2025-10-25T15:00:01Z",
-      "content": "Passive investing through exchange-traded funds may be losing its appeal.\r\nTidal Financial Group Chief Revenue Officer Gavin Filmore finds many of his clients are no longer satisfied with buying popu… [+1853 chars]"
     }
   ]
 }
