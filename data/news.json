@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T10:42:13.311Z",
+  "fetchedAt": "2025-10-28T11:07:47.266Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Charley Locke",
+      "title": "Are Kids Still Looking for Careers in Tech?",
+      "description": "AI is changing what careers are possible for students interested in STEM subjects. WIRED spoke with five aspiring scientists to find out how they’re preparing for the future.",
+      "url": "https://www.wired.com/story/teens-stem-school-career-artificial-intelligence/",
+      "urlToImage": "https://media.wired.com/photos/68fb65b6f2565237e4a7b4dd/191:100/w_1280,c_limit/102725_Kids-Careers-In-Tech.jpg",
+      "publishedAt": "2025-10-27T11:00:00Z",
+      "content": "Todays high school students face an uncertain road ahead. AI is changing what skills are valued in the job market, and the Trump administrations funding cuts have stalled scientific research across d… [+3398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "M5 MacBook Pro's SSD is 2.5x faster on average than last-gen M4, exceeding Apple's own claims — M5 achieves 6,000+ MB/s across both read and write speeds",
+      "description": "The new 14-inch MacBook Pro featuring the M5 chip has really fast SSDs that have been put to the test, exceeding Apple's own claims. In read speeds, the M5's SSD is more than 3x faster, whereas in write speeds, the difference is about 1.8x, with the M5 SSD ac…",
+      "url": "https://www.tomshardware.com/laptops/macbooks/m5-macbook-pros-ssd-is-2-5x-faster-on-average-than-last-gen-m4-exceeding-apples-own-claims-m5-achieves-6-000-mb-s-across-both-read-and-write-speeds",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vjRLRW49rCDdu3a6JXbDTX-2560-80.png",
+      "publishedAt": "2025-10-27T10:56:10Z",
+      "content": "When Apple unveiled the 2025 MacBook Pro last week with the new M5 chip, one of the main upgrades it listed was 2x SSD speeds, a claim that rings true in our review of the device. However, a directed… [+2702 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ydNCQGEsffbQWXGGvk8FjE-1920-80.jpg",
       "publishedAt": "2025-10-24T14:27:18Z",
       "content": "Intel officially took the wraps off Panther Lake two weeks ago, and even though we already did our deep dive into the family's architecture, something far more arbitrary has still not been cleared up… [+4804 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "I put my Sony earbuds away within minutes of listening to this Bose pair - here's what sold me",
-      "description": "The Bose QuietComfort Ultra 2 offer unmatched comfort and audio quality - but not without a few caveats.",
-      "url": "https://www.zdnet.com/article/i-put-my-sony-earbuds-away-within-minutes-of-listening-to-this-bose-pair-heres-what-sold-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e68aeba873e141728252f6d25fb3ef3e5596b4ae/2025/10/14/f6e012eb-f612-48a6-b285-1b33bac8af11/bose-quietcomfort-ultra-earbuds-2-233237.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-24T14:20:00Z",
-      "content": "On paper, the Bose QuietComfort Ultra Earbuds (2nd Gen) tech specs may seem painfully incremental, but there's more to them than meets the eye. It's impressive how seemingly innocuous updates from on… [+9124 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Can steroids combat population collapse? The Enhanced Games wants to find out. | TechCrunch",
-      "description": "“I believe that when Fred breaks 100-meter world record in Vegas next year, it will be a watershed moment to show that enhanced humans are better than ordinary humans,” D'Souza said on a recent episode of Equity.",
-      "url": "https://techcrunch.com/2025/10/24/can-steroids-combat-population-collapse-the-enhanced-games-wants-to-find-out/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg?resize=1200,800",
-      "publishedAt": "2025-10-24T14:05:19Z",
-      "content": "The Enhanced Games, a new sporting competition explicitly designed to allow performance-enhancing drugs, looks like a publicity stunt for the techno-macho era: Olympic athletes on steroids competing … [+6399 chars]"
     }
   ]
 }
