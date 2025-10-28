@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-28T19:07:12.113Z",
+  "fetchedAt": "2025-10-28T19:31:34.474Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Atlas vuln lets crims inject malicious prompts ChatGPT won't forget between sessions",
+      "description": "It can do a lot more than just play 'Eye of the Tiger' daily\nIn yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cro…",
+      "url": "https://www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/20/memory_shutterstock.jpg",
+      "publishedAt": "2025-10-27T19:23:47Z",
+      "content": "In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cros… [+4638 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "OpenAI says over a million people talk to ChatGPT about suicide weekly | TechCrunch",
+      "description": "OpenAI released data on just how many of ChatGPT's users are facing mental health challenges, and how its addressing them.",
+      "url": "https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
+      "publishedAt": "2025-10-27T19:22:34Z",
+      "content": "OpenAI released new data on Monday illustrating how many of ChatGPT’s users are struggling with mental health issues, and talking to the AI chatbot about it. The company says that 0.15% of ChatGPT’s … [+3852 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users",
+      "description": "Fitbit’s Gemini-powered health coach is rolling out to Premium subscribers in the U.S. on Android.",
+      "url": "https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FitbitGeminiCoach-preview.png?w=1200",
+      "publishedAt": "2025-10-27T19:11:50Z",
+      "content": "Fitbits new Gemini-powered health coach, announced back in August, is becoming available as a public preview to Premium subscribers in the U.S. on Android starting tomorrow. It expands to iOS later t… [+2494 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215499-1761156017540-gettyimages-2206258415-gg_27651_n4jmakxx.jpeg?v=1761156035&w=1920&h=1080",
       "publishedAt": "2025-10-25T13:15:01Z",
       "content": "One quality separates the most successful business owners from all others, according to billionaire Jimmy John Liautaud: They work really, really hard.\r\nIn that vein, the 61-year-old founder and form… [+3774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Olympic gold medalist: Don't make this mistake if you want to raise successful, 'internally motivated' children",
-      "description": "Two-time Olympic gold medalist Abby Wambach's advice for parents who want to raise successful kids: Don't hover over their sports practices. Here's why.",
-      "url": "https://www.cnbc.com/2025/10/25/abby-wambach-why-parents-shouldnt-attend-their-kids-sports-practices.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216271-1761252740306-gettyimages-2242104256-NUP_208910_00686.jpeg?v=1761254841&w=1920&h=1080",
-      "publishedAt": "2025-10-25T13:05:01Z",
-      "content": "Don't feel guilty if you can't make it to your kids' after-school sports practices, says two-time Olympic gold medalist Abby Wambach.\r\nLeaving your kids with their teammates and coaches without your … [+2984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The 5 most common jobs in America's most populous cities—and how much they pay",
-      "description": "Common occupations held by Americans include health and personal aides, retail salespeople, registered nurses and customer service representatives.",
-      "url": "https://www.cnbc.com/2025/10/25/most-common-jobs-in-largest-us-cities.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215023-1761081015093-gettyimages-1094446376-mon1196196.jpeg?v=1761081044&w=1920&h=1080",
-      "publishedAt": "2025-10-25T13:00:01Z",
-      "content": "There are nearly 4 million health and personal care aides in the U.S.\r\nIn fact, health and personal care aides were the most common job Americans held as of May 2024, earning an annual median salary … [+2195 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Skyrocketing costs for memory will jack up smartphone prices — Chinese manufacturer Xiaomi warns of higher prices for new devices",
-      "description": "Xiaomi President Lu Weibing stated in a social media post that the rising costs of memory chips are far beyond expectations and could intensify further.",
-      "url": "https://www.tomshardware.com/pc-components/dram/skyrocketing-costs-for-memory-will-jack-up-smartphone-prices-chinese-manufacturer-xiaomi-warns-of-higher-prices-for-new-devices",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pU95E8pwfvrx8dWfwg7X8M-1920-80.jpg",
-      "publishedAt": "2025-10-25T12:52:43Z",
-      "content": "The increasing cost of memory chips seems to be slowly creeping into the smartphone industry. Chinese smartphone manufacturer Xiaomi saw a disappointing response to its newly launched Redmi K90 range… [+2470 chars]"
     }
   ]
 }
