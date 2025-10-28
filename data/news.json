@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T08:44:59.431Z",
+  "fetchedAt": "2025-10-28T09:10:55.241Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Steven J. Vaughan-Nichols",
+      "title": "The Chinese Box and Turing Test: Is AI really intelligent?",
+      "description": "No, it's just good at mass-production copy and paste. And yes, we're correctly applying Betteridge's Law\nOpinion Remember ELIZA? The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and can…",
+      "url": "https://www.theregister.com/2025/10/27/ai_intelligence_opinion/",
+      "urlToImage": "https://regmedia.co.uk/2022/06/17/aibrain.jpg",
+      "publishedAt": "2025-10-27T09:00:09Z",
+      "content": "Opinion Remember ELIZA? The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT… [+4672 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess, Natasha Bernal",
+      "title": "Chatbots Are Pushing Sanctioned Russian Propaganda",
+      "description": "ChatGPT, Gemini, DeepSeek, and Grok are serving users propaganda from Russian-backed media when asked about the invasion of Ukraine, new research finds.",
+      "url": "https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/",
+      "urlToImage": "https://media.wired.com/photos/68fbfd7f131861cc7f65b812/191:100/w_1280,c_limit/Chatbots-Pushing-Russian-Sanctioned-Propaganda-Business.jpg",
+      "publishedAt": "2025-10-27T09:00:00Z",
+      "content": "OpenAIs ChatGPT, Googles Gemini, DeepSeek, and xAIs Grok are pushing Russian state propaganda from sanctioned entitiesincluding citations from Russian state media, sites tied to Russian intelligence … [+2695 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/YZUxMoqeHqUXbr6XtRFKCa-1920-80.jpg",
       "publishedAt": "2025-10-24T11:00:58Z",
       "content": "Demand for Intel's processors for client and data center applications was on the rise in the third quarter of 2025, but the company could not fully capitalize on it as it faced numerous supply shorta… [+4958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "AMD reportedly establishes $280 million silicon photonics hub in Taiwan — new R&D center could accelerate company's co-packaged optics roadmap",
-      "description": "AMD is investing over $280 million to establish two new R&D centers in Taiwan dedicated to silicon photonics and heterogeneous integration to further boost its data center roadmap.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/amd-reportedly-establishes-usd280-million-silicon-photonics-hub-in-taiwan-new-r-and-d-center-could-accelerate-companys-co-packaged-optics-roadmap",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/85Ensc6aXdvm6joZA7UnV3-1600-80.jpg",
-      "publishedAt": "2025-10-24T11:00:23Z",
-      "content": "According to a new report, AMD has made the decision to establish two new R&amp;D centers in Taiwan, focusing on silicon photonics, heterogeneous integration, and AI-related technologies, reports the… [+6884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Windows Insiders get special anniversary desktop wallpaper",
-      "description": "11 years of filing feedback and all we got was a bloody... not even a T-shirt? Microsoft is celebrating 11 years of the Windows Insider Program with custom desktops and - maybe - a secret hint for users wondering which operating system to consider.…",
-      "url": "https://www.theregister.com/2025/10/24/windows_insiders_given_special_anniversary/",
-      "urlToImage": "https://regmedia.co.uk/2018/12/19/shutterstock_party_sad.jpg",
-      "publishedAt": "2025-10-24T10:49:17Z",
-      "content": "Microsoft is celebrating 11 years of the Windows Insider Program with custom desktops and - maybe - a secret hint for users wondering which operating system to consider.\r\nThe software vendor uses the… [+2192 chars]"
     }
   ]
 }
