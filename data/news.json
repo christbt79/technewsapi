@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T11:07:47.266Z",
+  "fetchedAt": "2025-10-28T11:31:36.371Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI's spending bonanza has Wall Street focused on capex in Big Tech earnings reports",
+      "description": "Most of the tech megacaps report quarterly results this week, and investors are particular focused on capital expenditures.",
+      "url": "https://www.cnbc.com/2025/10/27/openai-spending-spree-wall-street-focus-on-capex-in-big-tech-earnings-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?v=1761347922&w=1920&h=1080",
+      "publishedAt": "2025-10-27T11:30:01Z",
+      "content": "Microsoft CEO Satya Nadella, right, speaks as OpenAI CEO Sam Altman looks on during the OpenAI DevDay event in San Francisco on Nov. 6, 2023.\r\nOpenAI's head-spinning investments announced in recent m… [+9150 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Workout app Ladder launches nutrition-tracking experience",
+      "description": "Fitness app Ladder is debuting a new nutrition tracking feature that lets you snap a photo to input macros.",
+      "url": "https://techcrunch.com/2025/10/27/workout-app-ladder-launches-nutrition-tracking-experience/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Nutrition-Main-Screen.jpeg?resize=1200,675",
+      "publishedAt": "2025-10-27T11:30:00Z",
+      "content": "As advanced AI models become better at understanding different types of input — such as text, voice, and images — and converting them into nutritional data, fitness apps that let people log their foo… [+2903 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -58,19 +84,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -78,6 +91,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -97,13 +123,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -123,13 +149,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -149,13 +175,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -835,19 +861,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -858,6 +871,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=1200",
       "publishedAt": "2025-10-24T15:00:00Z",
       "content": "With TechCrunch Disrupt 2025 in less than 3 days, were loading up Moscone West with 200+ cant-miss sessions including breakout sessions led by top leaders across the tech and startup ecosystem. Break… [+6618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Apple faces £1.5B payout after losing UK App Store case",
-      "description": "iPhone maker overcharged devs and users, says competition court\nApple could face claims estimated at around £1.5 billion after it lost a collective case in the UK arguing that its closed systems for apps resulted in overcharging businesses and consumers.…<!--…",
-      "url": "https://www.theregister.com/2025/10/24/uk_class_action_apple/",
-      "urlToImage": "https://regmedia.co.uk/2021/08/27/shutterstock_iphone_app_store.jpg",
-      "publishedAt": "2025-10-24T14:30:40Z",
-      "content": "Apple could face claims estimated at around £1.5 billion after it lost a collective case in the UK arguing that its closed systems for apps resulted in overcharging businesses and consumers.\r\nThe rul… [+1607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Intel Core Ultra 5 338H appears in Geekbench listing, confirming new \"Arc B370\" Xe3 iGPU — No \"X\" branding in sight as Panther Lake's naming scheme becomes clear",
-      "description": "A new Geekbench listing for a midrange Panther Lake CPU, Core Ultra 5 338H, shows a modest bump in performance, but confirms more important details like the exact GPU being utilized under the hood, while clearing up the naming scheme confusion that previously…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-core-ultra-5-338h-appears-in-geekbench-listing-confirming-new-arc-b370-xe3-igpu-no-x-branding-in-sight-as-panther-lakes-naming-scheme-becomes-clear",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ydNCQGEsffbQWXGGvk8FjE-1920-80.jpg",
-      "publishedAt": "2025-10-24T14:27:18Z",
-      "content": "Intel officially took the wraps off Panther Lake two weeks ago, and even though we already did our deep dive into the family's architecture, something far more arbitrary has still not been cleared up… [+4804 chars]"
     }
   ]
 }
