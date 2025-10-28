@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-28T13:03:38.100Z",
+  "fetchedAt": "2025-10-28T13:44:51.553Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Les Pounder",
+      "title": "Generative AI used to create wild new 3D printer design — exotic collaboration brings 5-axis 3D printing to the desktop",
+      "description": "A collaboration between Generative Machine Company and Aibuild sees an intriguing take on modern desktop 3D printers, with a printer that can reorient the toolhead to produce stronger 3D prints with little or no supports necessary.",
+      "url": "https://www.tomshardware.com/3d-printing/generative-ai-used-to-create-wild-new-3d-printer-design-exotic-collaboration-brings-5-axis-3d-printing-to-the-desktop",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EWPYJTHxDEyS99njaYQmdJ-1200-80.jpg",
+      "publishedAt": "2025-10-27T13:38:48Z",
+      "content": "A collaboration between two London-based companies, Generative Machine and Aibuild, has heralded a new type of 3D printer. The GenerationOne 5-axis is a generatively designed 3D printer, and will soo… [+2553 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing",
+      "description": "Earlier this month, Lyra Health announced a \"clinical-grade\" AI chatbot to help users with \"challenges\" like burnout, sleep disruptions, and stress. There are eighteen mentions of \"clinical\" in its press release, including \"clinically designed,\" \"clinically r…",
+      "url": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258029_clinical_grade_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-27T13:35:28Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nChatbot mental health companies are getting into clinical cosplay.\r\nChatbot mental health companies are getting into clinical cosplay.\r\nby\r\nRobert HartClose\r\nRob… [+8522 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Gemini is gaining fast on ChatGPT in one particular way, according to new data",
+      "description": "Google's chatbot has been making impressive gains lately. Here's why.",
+      "url": "https://www.zdnet.com/article/gemini-is-gaining-fast-on-chatgpt-in-one-particular-way-according-to-new-data/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c811ebe938d8a836552c1353cc288359877e3a71/2025/10/27/373add95-3cd2-40e8-b878-0ff8bf1fbd50/gettyimages-2197163077.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-27T13:27:00Z",
+      "content": "picture alliance / Contributor / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Visits to gemini.google.com have doubled over the past year.</li>… [+5188 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "Israeli intelligence vets raise $20M to track developer buying signals | TechCrunch",
+      "description": "Onfire, a vertical AI platform for IT revenue teams, is coming out of stealth with $20 million in funding, including a $14 million Series A co-led by Grove Ventures and TLV Partners.",
+      "url": "https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m-to-track-developer-buying-signals/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Onfire-Founders.jpg?resize=1200,800",
+      "publishedAt": "2025-10-27T13:16:41Z",
+      "content": "Developers hate (bad) marketing, but they still need a way to find useful tools and services. That’s why you’ll find a preponderance of developers on forums and sites like Hacker News, Reddit and Sta… [+4636 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -136,19 +188,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -156,6 +195,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -175,13 +227,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -201,13 +253,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -227,13 +279,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -913,19 +965,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -936,6 +975,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/a5c3694448e68dfcdcdcf10b8f35338186a22bd0/2025/10/24/95b315f4-d824-46e3-bfc4-0434211694f5/gettyimages-2226561889.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-24T16:42:21Z",
       "content": "NurPhoto/Contributor/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways \r\n<ul><li>Alibaba's new smart glasses are now available for preorder.</li… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Uncle Sam's new power plan will plug AI farms into the grid faster",
-      "description": "Proposal would fast-track hookups for the megawatt-hungry datacenters driving US electricity demand\nThe US Energy Secretary wants to see datacenters connected to the grid faster, and has directed the Federal Energy Regulatory Commission (FERC) to implement ne…",
-      "url": "https://www.theregister.com/2025/10/24/doe_datacenter_grid_connection/",
-      "urlToImage": "https://regmedia.co.uk/2022/06/20/power_grid_connected_urban_area_shutterstock.jpg",
-      "publishedAt": "2025-10-24T16:26:52Z",
-      "content": "The US Energy Secretary wants to see datacenters connected to the grid faster, and has directed the Federal Energy Regulatory Commission (FERC) to implement new rules that speed the process.\r\nIn a le… [+3560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Ivy League psychologist: 'Bring your whole self to work' is bad advice",
-      "description": "Be careful which aspects of your personality you bring to work, according to a psychologist: social etiquette still reigns supreme in the office.",
-      "url": "https://www.cnbc.com/2025/10/24/bring-your-whole-self-to-work-is-bad-advice-ivy-league-psychologist-saysheres-why.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215321-1761141758922-gettyimages-656227991-9df76570-54e7-4b36-ba94-49d429bc6c86.jpeg?v=1761141779&w=1920&h=1080",
-      "publishedAt": "2025-10-24T16:22:38Z",
-      "content": "If someone tells you to \"bring your whole self to work,\" don't listen, says psychologist Tomas Chamorro-Premuzic.\r\nLike many other workplace platitudes, the intention of the phrase is \"truly positive… [+4339 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Arbor’s ‘vegetarian rocket engine’ power plant is actually an omnivore | TechCrunch",
-      "description": "As demand for electricity from data centers grows, Arbor Energy has made its power plant capable of burning natural gas in addition to biomass.",
-      "url": "https://techcrunch.com/2025/10/24/arbors-vegetarian-rocket-engine-power-plant-is-actually-an-omnivore/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/arbor-atlas-pilot-power-plant.jpeg?resize=1200,892",
-      "publishedAt": "2025-10-24T16:14:06Z",
-      "content": "Two years ago, former SpaceX engineers used rocket tech to develop a power plant capable of removing carbon dioxide from the atmosphere, with a small asterisk. To draw down CO2, it burned plant waste… [+2449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "OpenAI goes after Microsoft 365 Copilot's lunch with 'company knowledge' feature",
-      "description": "ChatGPT can now rummage through corporate files via connectors, though Redmond still has the deeper hooks OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-spec…",
-      "url": "https://www.theregister.com/2025/10/24/openai_chatgpt_company_knowledge/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/16/shutterstock_chatgpt.jpg",
-      "publishedAt": "2025-10-24T15:46:38Z",
-      "content": "OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.\r\nNow available for ChatGPT Busin… [+1836 chars]"
     }
   ]
 }
