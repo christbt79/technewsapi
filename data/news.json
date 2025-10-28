@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-28T00:42:15.463Z",
+  "fetchedAt": "2025-10-28T02:20:47.198Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "I was not expecting these Dell wireless earbuds to be this good right out of the box",
+      "description": "The Dell Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for hybrid and office work.",
+      "url": "https://www.zdnet.com/article/i-was-not-expecting-these-dell-wireless-earbuds-to-be-this-good-right-out-of-the-box/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-27T02:00:32Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "I tested all of Edge's new AI browser features - and it felt like having a personal assistant",
+      "description": "Microsoft Edge has morphed into a full-fledged AI browser that can even shop for you. So, I put it to the test.",
+      "url": "https://www.zdnet.com/article/i-tested-all-of-edges-new-ai-browser-features-and-it-felt-like-having-a-personal-assistant/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9e178ccad1eecf5e4c4daa2646b2c4ee726691d1/2025/10/27/dc725945-7be4-41c4-979a-2be84a90447b/gettyimages-2242817672.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-27T01:24:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Edge's Copilot Mode adds real AI utility to everyday browsing.</li><li>I tested it to… [+12317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joseph Martens",
+      "title": "How to build sustainable AI? Start with the network",
+      "description": "Baking in sustainability begins with smart network design Sponsored Feature  The AI revolution is redrawing the business and consumer landscape across the globe. But it is also changing how telco and cloud service providers design and build out the infrastruc…",
+      "url": "https://www.theregister.com/2025/10/27/how_build_sustainable_ai/",
+      "urlToImage": "https://regmedia.co.uk/2023/06/02/shutterstock_green_cable_and_ethernet_port.jpg",
+      "publishedAt": "2025-10-27T01:00:06Z",
+      "content": "Sponsored Feature The AI revolution is redrawing the business and consumer landscape across the globe. But it is also changing how telco and cloud service providers design and build out the infrastru… [+6766 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -523,19 +562,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Tom's Hardware UK"
       },
@@ -546,6 +572,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
+      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
+      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
+      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/09/GettyImages-2181217360.jpg?quality=90&strip=all&crop=0%2C10.727700076304%2C100%2C78.544599847392&w=1200",
       "publishedAt": "2025-10-24T10:02:09Z",
       "content": "Dubai chocolate Is often a gooey mess to eat. | Omer Taha Cetin/Anadolu via Getty Images\r\n\n\nA Vox reader asks: Why is Dubai chocolate suddenly everywhere?! My husband and I have noticed that we sudde… [+8454 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "AWS outage post-mortem fingers DNS as the culprit that took out a chunk of the internet and services for days — automation systems race and crash",
-      "description": "Massive Amazon Web Service outage that took out a chunk of the internet and services for days was due to DNS.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/massive-amazon-web-service-outage-that-took-out-a-chunk-of-the-internet-and-services-for-days-was-due-to-dns-automation-systems-race-and-crash",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DgWS7mm8R9BeX5mYShVYhc-2121-80.jpg",
-      "publishedAt": "2025-10-24T09:30:00Z",
-      "content": "The recent Amazon Web Services outage that took out a significant portion of the internet, games, and even smart home devices for days, was extensively covered in the news. Cloud services' distribute… [+4360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Intel posts return to growth and profitability in Q3 2025, but significant challenges remain — achieves $13.7 billion revenue with $4.1 billion operating profit",
-      "description": "Intel returned to profitability in Q3 2025 with $13.7 billion in revenue and $4.1 billion profit, driven mainly by one-time gains, as client and data-center sales improved despite ongoing capacity shortages.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/intel-posts-surprise-return-to-growth-and-profitability-in-q3-2025-but-significant-challenges-remain-posts-usd13-7-billion-revenue-with-operating-profit",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sc4jMRDcUQARDogxU6vbKM-1920-80.jpg",
-      "publishedAt": "2025-10-24T09:28:39Z",
-      "content": "Intel on Thursday reported its better-than-expected financial results for the third quarter of 2025, marking its return to growth and profitability despite ongoing challenges. The company earned $13.… [+4849 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Virtualized Windows 11 test shows Apple's M5 destroying Intel and AMD's best in single-core benchmark — Chinese enthusiast pits Ryzen 9 9950X3D and Core i9 14900KS against Apple's latest SoC",
-      "description": "A Chinese enthusiast’s benchmark suggests Apple’s new M5 chip delivers record-breaking single-thread performance in CPU-Z, outperforming top AMD and Intel CPUs even while running Windows 11 in virtualization mode. But its multi-thread performance should be be…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/virtualized-windows-11-test-shows-apples-m5-destroying-intel-and-amds-best-in-single-core-benchmark-chinese-enthusiast-pits-ryzen-9-9950x3d-and-core-i9-14900ks-against-apples-latest-soc",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pt2zBYGMyTddZMePp87NQZ-1920-80.jpg",
-      "publishedAt": "2025-10-24T09:00:00Z",
-      "content": "Apple's processors are notorious for their high performance when running in their native environments: macOS and iOS. However, an experiment conducted by NPacific, a Chinese enthusiast (via HXL), sho… [+3079 chars]"
     }
   ]
 }
