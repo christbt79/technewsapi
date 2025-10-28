@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T11:31:36.371Z",
+  "fetchedAt": "2025-10-28T12:17:44.636Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump's trade deals, Novartis acquires Avidity, Taco Bell's beverage push and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/27/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216945-17614772922025-10-26t050306z_960211912_rc2gjhayf0xa_rtrmadp_0_asean-summit.jpeg?v=1761477329&w=1920&h=1080",
+      "publishedAt": "2025-10-27T12:16:10Z",
+      "content": "U.S. President Donald Trump looks on next to people waving Malaysian national flags before he departs on Air Force One from Kuala Lumpur International Airport in Sepang on Oct. 27, 2025.\r\nThis is CNB… [+5818 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "Ex-CISA head thinks AI might fix code so fast we won't need security teams",
+      "description": "Jen Easterly says most breaches stem from bad software, and smarter tech could finally clean it up Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be…",
+      "url": "https://www.theregister.com/2025/10/27/jen_easterly_ai_cybersecurity/",
+      "urlToImage": "https://regmedia.co.uk/2024/09/20/shutterstock_usg_jenn_easterly.jpg",
+      "publishedAt": "2025-10-27T11:43:00Z",
+      "content": "Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be tracked down faster than ever.\r\nSpeaki… [+4370 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -84,19 +110,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "WIRED",
-      "title": "AI of a Thousand Faces",
-      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
-      "url": "https://www.wired.com/ai-issue/",
-      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "Tommy Craggs",
       "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
       "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
@@ -104,6 +117,19 @@
       "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED",
+      "title": "AI of a Thousand Faces",
+      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+      "url": "https://www.wired.com/ai-issue/",
+      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
     },
     {
       "source": {
@@ -123,13 +149,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -149,13 +175,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -175,13 +201,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -861,19 +887,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
-      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -884,6 +897,19 @@
       "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-24T15:27:31Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nOutlook wont simply bolt on AI but rebuild around it.\r\nOutlook wont simply bolt on AI but rebuild around it.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this au… [+14480 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Nexperia China snubs Dutch HQ amid spat that threatens automotive production — says order to dismiss executive violates labor laws",
-      "description": "Nexperia's China subsidiary refuses to follow its HQ's order to vacate the position of John Chang, its VP for global sales and marketing, citing conflict with Chinese law.",
-      "url": "https://www.tomshardware.com/tech-industry/nexperia-china-snubs-dutch-hq-amid-spat-that-threatens-automotive-production-says-order-to-dismiss-executive-violates-labor-laws",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ahxtmCsDT4WUFXj3Hzuoqj-2000-80.jpg",
-      "publishedAt": "2025-10-24T15:01:43Z",
-      "content": "Nexperia’s China unit has openly rejected an order from its Dutch headquarters in Nijmegen, dismissing John Chang as its vice-president of global sales and marketing. According to the South China Mor… [+3430 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "The full breakout session agenda at TechCrunch Disrupt 2025",
-      "description": "The full Disrupt 2025 breakout session agenda now live. Join for tactical, small-group learning on AI, fundraising, M&A, workflows, and more. Browse the full lineup and register today to save up to $444. and 60% off a second pass before prices rise on October…",
-      "url": "https://techcrunch.com/2025/10/24/techcrunch-disrupt-2025-breakout-sessions/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=1200",
-      "publishedAt": "2025-10-24T15:00:00Z",
-      "content": "With TechCrunch Disrupt 2025 in less than 3 days, were loading up Moscone West with 200+ cant-miss sessions including breakout sessions led by top leaders across the tech and startup ecosystem. Break… [+6618 chars]"
     }
   ]
 }
