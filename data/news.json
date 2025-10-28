@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-28T15:10:31.101Z",
+  "fetchedAt": "2025-10-28T15:40:36.961Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Pinterest experiments with new AI-powered personalized boards",
+      "description": "Pinterest is testing an AI-driven collage to help users create outfits from saved Pins and personalized boards curated with AI.",
+      "url": "https://techcrunch.com/2025/10/27/pinterest-experiments-with-new-ai-powered-personalized-boards/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Pinterest_Stylesforyou.jpeg?w=1200",
+      "publishedAt": "2025-10-27T15:35:38Z",
+      "content": "Pinterest announced on Monday new AI-powered upgrades to its boards to make them more personalized for users. These features include an AI-driven collage, Styled for you, that helps users create outf… [+2127 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Techcrunch Staff",
+      "title": "TechCrunch Disrupt 2025: How to watch Astro Teller, Startup Battlefield, and more live | TechCrunch",
+      "description": "If you’re not able to attend in person, the next best thing is to check out our livestream of the Disrupt Stage, which features some of our most prominent speakers and the highly anticipated Startup Battlefield 200 pitch competition.",
+      "url": "https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-how-to-watch-astro-teller-startup-battlefield-and-more-live/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_1920x1080_V1.png?resize=1200,675",
+      "publishedAt": "2025-10-27T15:32:28Z",
+      "content": "TechCrunch Disrupt 2025 is here! If youre still on the fence about attending in person, dive into the extensive schedule of speakers, networking opportunities, workshops, afterparties, and more thats… [+2247 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "You have one week to opt out or become fodder for LinkedIn AI training",
+      "description": "Nations previously exempt from scraping now in the firing line\nIf you thought living in Europe, Canada, or Hong Kong meant you were protected from having LinkedIn scrape your posts to train its AI, think again. You have a week to opt out before the Microsoft …",
+      "url": "https://www.theregister.com/2025/10/27/linkedin_ai_profile_scraping/",
+      "urlToImage": "https://regmedia.co.uk/2024/11/27/shutterstock_2539616395.jpg",
+      "publishedAt": "2025-10-27T15:17:39Z",
+      "content": "If you thought living in Europe, Canada, or Hong Kong meant you were protected from having LinkedIn scrape your posts to train its AI, think again. You have a week to opt out before the Microsoft sub… [+3201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "As AI agents join SaaS, AWS tells users to expect more pricing puzzles",
+      "description": "Cloud giant says choice and flexibility matter more than standardization – for now\nInterview As agentic AI solutions flood the market, users will face a complex environment in terms of deployment and commercial models, with standard practices yet to be resolv…",
+      "url": "https://www.theregister.com/2025/10/27/aws_ai_agent_saas/",
+      "urlToImage": "https://regmedia.co.uk/2015/06/09/jigsaw_puzzle_648.jpg",
+      "publishedAt": "2025-10-27T15:14:41Z",
+      "content": "Interview As agentic AI solutions flood the market, users will face a complex environment in terms of deployment and commercial models, with standard practices yet to be resolved, says Olawale Oladeh… [+4802 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2236544180.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2025-10-24T23:10:00Z",
       "content": "<ul><li></li><li></li></ul>\r\nAltman taps a leading researcher for his brain-computer interface startup, suggesting a much less invasive approach than Elon Musks Neuralink.\r\nAltman taps a leading rese… [+3595 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Dell Cameron",
-      "title": "DHS Wants a Fleet of AI-Powered Surveillance Trucks",
-      "description": "US border patrol is asking companies to submit plans to turn standard 4x4 trucks into AI-powered watchtowers—combining radar, cameras, and autonomous tracking to extend surveillance on demand.",
-      "url": "https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/",
-      "urlToImage": "https://media.wired.com/photos/68fbd6e0b0ba213f49416b9d/191:100/w_1280,c_limit/CBP-Signs-Contract-for-Mobile-Surveillance-Units-Security-2238631814.jpg",
-      "publishedAt": "2025-10-24T22:59:51Z",
-      "content": "The US Department of Homeland Security is seeking to develop a new mobile surveillance platform that fuses artificial intelligence, radar, high-powered cameras, and wireless networking into a single … [+2715 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "High-stakes poker scam used rigged card shufflers, X-ray tables, and special glasses",
-      "description": "31 alleged poker schemers nabbed alongside arrest of separate sports betting ring\nThe feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal spor…",
-      "url": "https://www.theregister.com/2025/10/24/mafia_and_nba_celebs_arrested/",
-      "urlToImage": "https://regmedia.co.uk/2017/01/13/poker.jpg",
-      "publishedAt": "2025-10-24T21:20:00Z",
-      "content": "The feds on Thursday charged alleged mafia associates and current and former National Basketball Association players and coaches with running rigged poker games and illegal sports betting.\r\nTwo feder… [+5770 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Get your news from AI? Watch out - it's wrong almost half the time",
-      "description": "New research from the European Broadcasting Union and the BBC has found that four leading chatbots routinely generate flawed summaries of news stories.",
-      "url": "https://www.zdnet.com/article/get-your-news-from-ai-watch-out-its-wrong-almost-half-the-time/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/95c8b48fddd39a85021bd13848505109d78ec48f/2025/10/24/3d73a190-c6c4-42aa-82e3-37436aee66db/gettyimages-1613660613.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-24T20:49:07Z",
-      "content": "Iana Kunitsa/Moment via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>New research shows that AI chatbots often distort news stories.</li><li>45% of the… [+4831 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "ICE is building a social media panopticon",
-      "description": "As Immigration and Customs Enforcement carries out raids across the country, the agency is working rapidly to expand an online surveillance system that could potentially track millions of users on the web. Federal records uncovered by The Lever reveal that IC…",
-      "url": "https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK471_Government_Surveillance_CVirginia_B-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-24T19:58:07Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe agencys latest surveillance contract is an assault on democracy and free speech.\r\nThe agencys latest surveillance contract is an assault on democracy and fre… [+7531 chars]"
     }
   ]
 }
