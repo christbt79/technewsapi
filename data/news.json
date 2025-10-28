@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-28T13:44:51.553Z",
+  "fetchedAt": "2025-10-28T14:10:02.689Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "If you can’t afford a vacation, an AI app will sell you pictures of one",
+      "description": "Faking wealth has always been big business, from buying designer dupes to renting private jet “sets” for photoshoots. But these days, people are using AI to make it a little more personal: creating photos of themselves living in leisure and luxury not to chas…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6898.jpg?quality=90&strip=all&crop=0%2C23.637203572528%2C100%2C52.725592854943&w=1200",
+      "publishedAt": "2025-10-27T14:09:54Z",
+      "content": "<ul><li></li><li></li></ul>\r\nAlways be manifesting.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al… [+3834 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Google Gemini can generate slides and presentations for you now - here's how",
+      "description": "With the Canvas tool, you can devise a slideshow presentation based on your prompt or an uploaded file.",
+      "url": "https://www.zdnet.com/article/google-gemini-can-generate-slides-and-presentations-for-you-now-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4519dd00b2e78e5c4cce7e6c4907e3534d3f0712/2025/10/27/4eb1de46-abdb-4df6-af3f-d8aeee0223b5/google-gemini-can-now-generate-slides-and-presentations-for-you-heres-how2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-27T14:04:29Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Gemini can now create a slide show presentation for you.</li… [+4490 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Sequoia unveils $950M in new early-stage funds as it strives to be 'only as good as our next investment'",
+      "description": "Sequoia unveils $950M in new early-stage funds as it strives to be 'only as good as our next investment'techcrunch.com",
+      "url": "https://techcrunch.com/2025/10/27/sequoia-unveils-950m-in-new-early-stage-funds-as-it-strives-to-be-only-as-good-as-our-next-investment/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Investor-wall-Sequoia.jpg?resize=1200,800",
+      "publishedAt": "2025-10-27T14:02:56Z",
+      "content": "Despite the growing chatter of an AI bubble, Sequoia Capital insists its investment approach is unswayed by the market frenzy.\r\nMarkets go up and down, but our strategy remains consistent. We’re alwa… [+3131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia",
+      "description": "The AI200, expected in 2026, and the AI250, planned for 2027, both can come in a system that fills up a full, liquid-cooled server rack, Qualcomm said.",
+      "url": "https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139038-1746043403612-gettyimages-2183694537-DSC_1318.jpeg?v=1761572782&w=1920&h=1080",
+      "publishedAt": "2025-10-27T14:00:01Z",
+      "content": "Qualcomm announced Monday that it will release new artificial intelligence accelerator chips, marking new competition for Nvidia, which has so far dominated the market for AI semiconductors.\r\nThe AI … [+3476 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "TechCrunch Disrupt 2025: Day 1",
+      "description": "Today is the first day of TechCrunch Disrupt 2025! 10,000 founders, investors, and builders are flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conversations are everywhere, and the breakthroughs are only just b…",
+      "url": "https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
+      "publishedAt": "2025-10-27T14:00:00Z",
+      "content": "Today, Day 1, TechCrunch Disrupt 2025 goes full throttle 10,000 founders, investors, and builders flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conve… [+10731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Researchers exploit OpenAI's Atlas by disguising prompts as URLs",
+      "description": "NeutralTrust shows how agentic browser can interpret bogus links as trusted user commands\nResearchers have found more attack vectors for OpenAI's new Atlas web browser – this time by disguising a potentially malicious prompt as an apparently harmless URL.…",
+      "url": "https://www.theregister.com/2025/10/27/openai_atlas_prompt_injection/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/27/shutterstock_atlasdigital.jpg",
+      "publishedAt": "2025-10-27T13:54:17Z",
+      "content": "Researchers have found more attack vectors for OpenAI's new Atlas web browser this time by disguising a potentially malicious prompt as an apparently harmless URL.\r\nNeuralTrust found that Atlas's \"om… [+3019 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
       "publishedAt": "2025-10-24T19:01:31Z",
       "content": "The browser wars are heating up again, this time with AI in the drivers seat. \r\nOpenAI just launched Atlas, a ChatGPT-powered browser that lets users surf the web using natural language and even incl… [+593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Sneaky Mermaid attack in Microsoft 365 Copilot steals data",
-      "description": "Redmond says it's fixed this particular indirect prompt injection vuln Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data – like emails – via indirect prompt injection …",
-      "url": "https://www.theregister.com/2025/10/24/m365_copilot_mermaid_indirect_prompt_injection/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/24/sneaky_mermaid.jpg",
-      "publishedAt": "2025-10-24T18:58:32Z",
-      "content": "Microsoft fixed a security hole in Microsoft 365 Copilot that allowed attackers to trick the AI assistant into stealing sensitive tenant data like emails via indirect prompt injection attacks.\r\nBut t… [+2742 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time",
-      "description": "Halloween parties are fun. The preparation and cleanup? Not so much. Luckily for those looking to make life a little easier next week, Eufy’s X10 Pro Omni is available from Amazon for $499.99 ($300 off) when you clip the on-page coupon, which matches the all-…",
-      "url": "https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/eufy_x10_pro_omni.webp?quality=90&strip=all&crop=0%2C10.723721019849%2C100%2C78.552557960301&w=1200",
-      "publishedAt": "2025-10-24T18:14:29Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOur favorite midrange robot vacuum / mop has returned to its best price to date.\r\nOur favorite midrange robot vacuum / mop has returned to its best price to date… [+2616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "3 takeaways from Intel earnings: Cash flow, foundry progress and hardware surprise",
-      "description": "CEO Lip-Bu Tan said that artificial intelligence \"is a strong foundation for sustainable long-term growth.",
-      "url": "https://www.cnbc.com/2025/10/24/intel-earnings-q3-stock-trump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138284-1754575854218-108138284-17459584162025-04-29t202259z_872793_rc2k7ea4m7ma_rtrmadp_0_intel-tech.jpg?v=1754575876&w=1920&h=1080",
-      "publishedAt": "2025-10-24T18:13:52Z",
-      "content": "Intel snapped a losing streak of six straight quarterly losses and returned to profitability in the third quarter.\r\nIn its first earnings report since the Trump administration acquired a 10% stake in… [+2734 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Timothy Pricket-Morgan",
-      "title": "Engineering CPO is easy — scaling it for AI will take an ecosystem",
-      "description": "Co-packaged optics promise a big boost for AI Sponsored Post  It has taken a lot of dreaming and even more engineering, but the many promises of silicon photonics are starting to make their way into real products in the datacenter. It doesn't hurt that high-b…",
-      "url": "https://www.theregister.com/2025/10/24/engineering_cpo_easy_scaling/",
-      "urlToImage": "https://regmedia.co.uk/2022/03/04/photonics_shutterstock.jpg",
-      "publishedAt": "2025-10-24T17:59:59Z",
-      "content": "Sponsored Post It has taken a lot of dreaming and even more engineering, but the many promises of silicon photonics are starting to make their way into real products in the datacenter. It doesn't hur… [+2632 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Apple's Houston-built AI servers are now shipping, according to CEO Tim Cook — custom silicon to power Private Cloud Compute",
-      "description": "Apple CEO Tim Cook took to X yesterday, October 23, to announce that Apple’s “American-made advanced servers” have begun shipping from a new Houston facility to Apple’s own data centers.",
-      "url": "https://www.tomshardware.com/desktops/servers/apples-houston-built-ai-servers-now-shipping",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZZdA43hqREUBtm2zLesvm6-1920-80.png",
-      "publishedAt": "2025-10-24T16:48:10Z",
-      "content": "Apple CEO Tim Cook took to X yesterday, October 23, to announce that Apple’s “American-made advanced servers” have begun shipping from a new Houston facility to Apple’s own data centers.\r\nApple has s… [+2627 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Alibaba's new smart glasses take on Meta Ray-Bans - here's what they offer",
-      "description": "Pre-orders for the Quark AI smart glasses are now open.",
-      "url": "https://www.zdnet.com/article/alibabas-new-smart-glasses-take-on-meta-ray-bans-heres-what-they-offer/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a5c3694448e68dfcdcdcf10b8f35338186a22bd0/2025/10/24/95b315f4-d824-46e3-bfc4-0434211694f5/gettyimages-2226561889.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-24T16:42:21Z",
-      "content": "NurPhoto/Contributor/NurPhoto via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways \r\n<ul><li>Alibaba's new smart glasses are now available for preorder.</li… [+2441 chars]"
     }
   ]
 }
