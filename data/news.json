@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-27T23:32:00.513Z",
+  "fetchedAt": "2025-10-28T00:42:15.463Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options",
+      "description": "PLUS: China demotes tech self-sufficiency goal; Alibaba Cloud quietly quits VMware; India demands deepfake labels; and more! Asia In Brief  Australia’s Competition & Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly mis…",
+      "url": "https://www.theregister.com/2025/10/27/asia_tech_news_roundup/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/03/fighting_kangaroos_australia.jpg",
+      "publishedAt": "2025-10-27T00:09:48Z",
+      "content": "Asia In Brief Australias Competition &amp; Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly misleading users of its Microsoft 365 bundle.\r\nThe consumer protec… [+5137 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Accel and Prosus team up to back early-stage Indian startups | TechCrunch",
+      "description": "Accel and Prosus team up to back early-stage Indian startups | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
+      "publishedAt": "2025-10-26T23:33:16Z",
+      "content": "Storied investors Accel and Prosus have launched a new investment partnership to back Indian startups from day zero, targeting founders building large-scale solutions with the potential to serve the … [+5179 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pt2zBYGMyTddZMePp87NQZ-1920-80.jpg",
       "publishedAt": "2025-10-24T09:00:00Z",
       "content": "Apple's processors are notorious for their high performance when running in their native environments: macOS and iOS. However, an experiment conducted by NPacific, a Chinese enthusiast (via HXL), sho… [+3079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adam Doud",
-      "title": "I was prepared for an eSIM transfer nightmare, but this carrier changed my mind completely",
-      "description": "Transferring your phone number can be a mess, especially if you're going from iPhone to Android. Here's how I flipped the script.",
-      "url": "https://www.zdnet.com/article/i-was-prepared-for-an-esim-transfer-nightmare-but-this-carrier-changed-my-mind-completely/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b0b9675daf43a90a5ee07a83371f7dfb0ba095d9/2025/10/08/3d29fbee-6564-4aa6-9058-da9ae3c5b05a/dsc07915.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-24T08:45:28Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Crypto M&A surges 30-fold as niche firms shift to mainstream",
-      "description": "Crypto M&A skyrockets to over $10 billion, highlighting a shift as niche firms merge into mainstream finance for competitive edge.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-23/crypto-m-a-surges-30-fold-as-niche-firms-shift-to-mainstream",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/c8sai7/article70197046.ece/alternates/LANDSCAPE_1200/2021-06-03T084141Z_892512975_RC2WSN9U9ZI8_RTRMADP_3_DIGITAL-CRYPTO-UK-REGULATION.JPG",
-      "publishedAt": "2025-10-24T07:22:12Z",
-      "content": "21shares spent years building its crypto franchise outside Wall Streets orbit. From Zurich, it launched exchange-traded products that gave European investors access to Bitcoin and Ether long before t… [+4957 chars]"
     }
   ]
 }
