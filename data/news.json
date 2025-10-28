@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-28T10:10:59.820Z",
+  "fetchedAt": "2025-10-28T10:42:13.311Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Corey Quinn",
+      "title": "Everything you know about last week's AWS outage is wrong",
+      "description": "AI wasn't the cause, and multi-cloud is for rubes\nColumn AWS put out a hefty analysis of its October 20 outage, and it's apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 straight hours …",
+      "url": "https://www.theregister.com/2025/10/27/aws_outage_myths_reality/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/26/wrong.jpg",
+      "publishedAt": "2025-10-27T10:30:05Z",
+      "content": "Column AWS put out a hefty analysis of its October 20 outage, and it's apparently written in a continuing stream of consciousness before the Red Bull wore off and the author passed out after 36 strai… [+5776 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -13,19 +26,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Widget-Pilot-Image-Ad.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-27T10:06:05Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd heres how to opt out.\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattison Tuohy\r\nSenior Reviewer, Smart Home\r\nPosts from this author will be added to your d… [+9841 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "WIRED",
-      "title": "AI of a Thousand Faces",
-      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
-      "url": "https://www.wired.com/ai-issue/",
-      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
     },
     {
       "source": {
@@ -45,6 +45,19 @@
         "id": "wired",
         "name": "Wired"
       },
+      "author": "WIRED",
+      "title": "AI of a Thousand Faces",
+      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+      "url": "https://www.wired.com/ai-issue/",
+      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
       "author": "Anthony Lydgate",
       "title": "Divorced? With Kids? And an Impossible Ex? There’s AI for That",
       "description": "They didn’t want to put their children in the middle—so they put a machine there instead.",
@@ -58,13 +71,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -84,13 +97,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -110,13 +123,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -796,19 +809,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
-      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -819,6 +819,19 @@
       "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
+      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
+      "publishedAt": "2025-10-25T11:00:00Z",
+      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/gentrit-sylejmani-JjUyjE-oEbM-unsplash.jpg?resize=1200,800",
       "publishedAt": "2025-10-24T14:05:19Z",
       "content": "The Enhanced Games, a new sporting competition explicitly designed to allow performance-enhancing drugs, looks like a publicity stunt for the techno-macho era: Olympic athletes on steroids competing … [+6399 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "Ticket savings countdown — just 3 days until TechCrunch Disrupt 2025 turns San Francisco into startup city",
-      "description": "Three days. That’s it. TechCrunch Disrupt 2025 — the startup world’s biggest stage — kicks off October 27 – 29 at Moscone West in San Francisco. When Disrupt 2025 arrives, the city doesn’t just host innovation — it amplifies it, transforming San Francisco int…",
-      "url": "https://techcrunch.com/2025/10/24/ticket-savings-countdown-just-3-days-until-techcrunch-disrupt-2025-turns-san-francisco-into-startup-city/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/TC25_3Days-16X9-Dark.png?resize=1200,675",
-      "publishedAt": "2025-10-24T14:00:00Z",
-      "content": "Three days. Thats it. TechCrunch Disrupt 2025  the startup worlds biggest stage kicks off October 27 29 at Moscone West in San Francisco. When Disrupt 2025 arrives, the city doesnt just host innovati… [+4047 chars]"
     }
   ]
 }
