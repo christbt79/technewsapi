@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T12:17:44.636Z",
+  "fetchedAt": "2025-10-28T13:03:38.100Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Microsoft's OpenAI losses hidden as part of $4.7 billion 'other' expense — stake in AI company still doesn't turn a profit as companies grapple with ongoing contract negotiation",
+      "description": "Microsoft’s AI ambitions are in large part tied to OpenAI, but the financial picture surrounding the connection is pretty murky.",
+      "url": "https://www.tomshardware.com/tech-industry/microsofts-openai-math-is-still-a-black-box",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/auazJrpNUbbVz4k55gBpXg-2000-80.jpg",
+      "publishedAt": "2025-10-27T13:01:58Z",
+      "content": "Microsoft’s AI ambitions are in large part tied to OpenAI, but the financial picture surrounding the connection is pretty murky. In its latest annual report, Microsoft disclosed a $4.7 billion line i… [+3211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "You could be losing out on 15% of your mutual fund and ETF returns, researchers say—how to keep more of your money",
+      "description": "Morningstar research shows that investors typically earn smaller returns than the funds they own.",
+      "url": "https://www.cnbc.com/2025/10/27/morningstar-research-investors-lose-out-on-mutual-fund-etf-returns.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107232325-1682625475970-gettyimages-1355037951-pi-2290226.jpeg?v=1761250089&w=1920&h=1080",
+      "publishedAt": "2025-10-27T13:00:01Z",
+      "content": "To find out how well a mutual fund or exchange-traded fund has performed over a certain period, you typically look at total return.\r\nThat number bakes in a few assumptions. Namely, that you put a chu… [+4768 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/04/16/shutterstock_chatgpt.jpg",
       "publishedAt": "2025-10-24T15:46:38Z",
       "content": "OpenAI is chalenging Microsoft 365 Copilot with \"company knowledge,\" a new ChatGPT feature that connects to organizational data to generate business-specific answers.\r\nNow available for ChatGPT Busin… [+1836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Car prices hit an average of $50,000 for the first time—here's how much you'd pay per month",
-      "description": "Rising car prices have pushed monthly ownership costs past $1,000 per month.",
-      "url": "https://www.cnbc.com/2025/10/24/car-prices-hit-average-of-50000-dollars.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216297-1761255508947-gettyimages-590778059-zef006943.jpeg?v=1761255568&w=1920&h=1080",
-      "publishedAt": "2025-10-24T15:31:16Z",
-      "content": "New-car prices have never been higher.\r\nThe average sale price reached $50,080 in September, marking the first time it has topped $50,000, according to Kelley Blue Book.\r\nThe milestone came as shoppe… [+3859 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Microsoft Outlook is getting an AI overhaul under new leaders",
-      "description": "Outlook users have only just got over the webification of Microsoft's email client in recent years, and already there are major changes on the horizon. Sources familiar with Microsoft's plans tell me that the company recently reorganized its Outlook team unde…",
-      "url": "https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/247141_NOTEPAD_X_BOX_CVIRGINIA-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-24T15:27:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOutlook wont simply bolt on AI but rebuild around it.\r\nOutlook wont simply bolt on AI but rebuild around it.\r\nby\r\nTom WarrenClose\r\nTom Warren\r\nPosts from this au… [+14480 chars]"
     }
   ]
 }
