@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-28T19:31:34.474Z",
+  "fetchedAt": "2025-10-28T20:10:47.624Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon to announce sweeping corporate job cuts starting Tuesday",
+      "description": "The layoffs will amount to the largest cuts to Amazon's corporate workforce in the company's history, according to a person familiar with the matter.",
+      "url": "https://www.cnbc.com/2025/10/27/amazon-to-announce-sweeping-corporate-job-cuts-starting-tuesday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108074116-1733867888693-gettyimages-1244778915-ryder-amazon-3.jpeg?v=1761593997&w=1920&h=1080",
+      "publishedAt": "2025-10-27T20:03:43Z",
+      "content": "Amazon is preparing to announce sweeping job cuts beginning Tuesday, CNBC has learned.\r\nThe layoffs will amount to the largest cuts to Amazon's corporate workforce in the company's history, spanning … [+1531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "The most popular AI image and video generator might surprise you - here's why people use it",
+      "description": "Here's what personal and enterprise users alike flock to this tool for.",
+      "url": "https://www.zdnet.com/article/the-most-popular-ai-image-and-video-generator-might-surprise-you-heres-why-people-use-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8369f707d74cea4fed8d0d918eaf034764ed4887/2025/10/27/bb8c4404-1e6b-4600-910f-f5045c8cc8a5/gettyimages-2211086269.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-27T20:02:02Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey found many users prefer Gemini for creating images.</li><li>It dominates b… [+3194 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Amazon reportedly plans to cut around 30,000 corporate jobs",
+      "description": "Amazon could be planning to cut up to 30,000 corporate positions starting on Tuesday.",
+      "url": "https://techcrunch.com/2025/10/27/amazon-reportedly-plans-to-cut-around-30000-corporate-jobs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+      "publishedAt": "2025-10-27T19:39:04Z",
+      "content": "Amazon could be implementing the largest job reduction at the company since 2023. \r\nAs reported by Reuters on Monday, people familiar with the matter said that up to 30,000 corporate positions may be… [+677 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106860106-1616771430890-gettyimages-1003000794-axm-pk-25823.jpeg?v=1761320822&w=1920&h=1080",
       "publishedAt": "2025-10-25T15:00:01Z",
       "content": "Passive investing through exchange-traded funds may be losing its appeal.\r\nTidal Financial Group Chief Revenue Officer Gavin Filmore finds many of his clients are no longer satisfied with buying popu… [+1853 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "I've worked with over 1,000 kids: How to say 'no' or 'stop'—and actually get them to listen",
-      "description": "\"Saying 'no' is essential in parenting. But setting limits shouldn't start and end with that one word,\" says therapist and child life specialist Kelsey Mora.",
-      "url": "https://www.cnbc.com/2025/10/25/ive-worked-with-over-1000-kids-how-to-say-no-or-stop-and-actually-get-them-to-listen.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215546-1761160062306-GettyImages-1225403728.jpg?v=1761160154&w=1920&h=1080",
-      "publishedAt": "2025-10-25T13:30:01Z",
-      "content": "Saying \"no\" is essential in parenting. But setting limits shouldn't start and end with that one word.\r\nAs a certified child life specialist and licensed therapist, I know that saying \"no\" is meant to… [+5483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "New stablecoin connects crypto investors to real-world Nvidia AI GPUs that earn money by renting out compute power to AI devs — USD.AI lets crypto investors make bank off AI compute rentals",
-      "description": "USD.AI is a new DeFi protocol that lets you invest your stablecoin in an AI data center, with each investment tied to a real Nvidia AI GPU.",
-      "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/new-stablecoin-connects-crypto-investors-to-real-world-nvidia-ai-gpus-that-earn-money-by-renting-out-compute-power-to-ai-devs-usd-ai-lets-crypto-investors-make-bank-off-ai-compute-rentals",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QyUS3f7bAmrD65aHwTwcrm-2560-80.jpg",
-      "publishedAt": "2025-10-25T13:28:19Z",
-      "content": "USD.AI is a new decentralized finance (DeFi) protocol that connects crypto investors to real-world Nvidia AI GPUs that earn money by renting out compute power to AI developers. According to CoinDesk,… [+3463 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Billionaire Jimmy John’s founder: Work-life balance for entrepreneurs ''is the biggest line of bulls--- that’s ever been created’",
-      "description": "Jimmy John Liautaud says launching a successful business requires an immense amount of dedication and persistence, leaving no room for work-life balance.",
-      "url": "https://www.cnbc.com/2025/10/25/billionaire-jimmy-johns-founder-entrepreneurs-dont-get-work-life-balance.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215499-1761156017540-gettyimages-2206258415-gg_27651_n4jmakxx.jpeg?v=1761156035&w=1920&h=1080",
-      "publishedAt": "2025-10-25T13:15:01Z",
-      "content": "One quality separates the most successful business owners from all others, according to billionaire Jimmy John Liautaud: They work really, really hard.\r\nIn that vein, the 61-year-old founder and form… [+3774 chars]"
     }
   ]
 }
