@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-28T22:38:43.326Z",
+  "fetchedAt": "2025-10-28T23:08:45.072Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "This week's tech earnings will steer the market's direction over the next few months, Jim Cramer says",
+      "description": "CNBC's Jim Cramer stressed the importance of upcoming earnings from Apple, Amazon, Alphabet, Meta and Microsoft.",
+      "url": "https://www.cnbc.com/2025/10/27/tech-earnings-steer-market-next-few-months-jim-cramer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104573616-IMG_3283-jim-cramer.jpg?v=1697496723&w=1920&h=1080",
+      "publishedAt": "2025-10-27T22:53:11Z",
+      "content": "This week's earnings from major tech megacaps namely Amazon, Alphabet, Apple, Microsoft and Meta are vital to the market's performance over the next few months, CNBC's Jim Cramer said on Monday.\r\n\"We… [+3070 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fbc4b32c0883ef85a60b68/191:100/w_1280,c_limit/Copy%20of%200149_Grama_Casio_Shot_09_3708_219-339.jpg",
       "publishedAt": "2025-10-26T10:30:00Z",
       "content": "There's a fluffy robot, about the size of a guinea pig, sitting on my couch, and it's squeaking. My friend's dog Wylie sits watching it, suspicious of its every move.\r\nMoflin is an AI companion robot… [+1801 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "US-Pakistan relations don’t come at expense of India, Rubio says",
-      "description": "The US’s pivot toward Pakistan under President Donald Trump has irked New Delhi and coincided with a fraying in ties between Trump and Prime Minister Narendra Modi",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-26/us-pakistan-relations-don-t-come-at-expense-of-india-rubio-says",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wtyy49/article70204591.ece/alternates/LANDSCAPE_1200/2025-10-25T141529Z_725511553_RC22JHA6MQWL_RTRMADP_3_ISRAEL-PALESTINIANS-RUBIO.JPG",
-      "publishedAt": "2025-10-26T10:04:22Z",
-      "content": "The US is seeking to expand its strategic relationship with Pakistan but those ties dont come at the expense of Washingtons relations with India, Secretary of State Marco Rubio said.\r\nJust like India… [+2941 chars]"
     }
   ]
 }
