@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-28T20:39:45.993Z",
+  "fetchedAt": "2025-10-28T21:08:06.710Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Spotify finally brings video podcasts and music videos to its Apple TV app",
+      "description": "Spotify has announced a redesigned version of its Apple TV app that the company says has been “rebuilt from the ground up for a faster, smarter, more visual experience.” The tvOS version of the Spotify app is also gaining several welcome features from the mob…",
+      "url": "https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/spotify_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+      "publishedAt": "2025-10-27T20:57:08Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe tvOS version of the Spotify app has been redesigned and gains features like lyrics and queue management.\r\nThe tvOS version of the Spotify app has been redesi… [+3362 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1225201409.jpg?resize=1200,900",
       "publishedAt": "2025-10-25T19:06:17Z",
       "content": "A high school student in Baltimore County, Maryland was reportedly handcuffed and searched after an AI security system flagged his bag of chips as a possible firearm.\r\nTaki Allen, a student at Kenwoo… [+834 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O’Brien",
-      "title": "Tech left teens fighting over scraps, and now it wants those too",
-      "description": "Right now, there are robots stocking convenience store shelves in Japan. We haven't embraced that tech here in America yet, but it's hard to imagine 7-11 or Walmart won't at least experiment with it soon. Walmart gave up on its shelf-scanning robots in 2020, …",
-      "url": "https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258027_teenage_robot_jobs__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-25T17:43:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nTheyve been pushed out of the workforce, now were training robots to do the few jobs teens have left.\r\nTheyve been pushed out of the workforce, now were training… [+5471 chars]"
     }
   ]
 }
