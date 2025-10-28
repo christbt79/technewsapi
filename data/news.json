@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-28T18:48:16.795Z",
+  "fetchedAt": "2025-10-28T19:07:12.113Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "HPE's Discovery to succeed Frontier supercomputer with next-gen Cray tech",
+      "description": "Oak Ridge's $500M system due in 2028, paired with a separate Lux AI cluster arriving two years earlier\nHPE is set to build a successor to the Frontier exascale system for America's Oak Ridge National Laboratory, based on the next generation of its Cray superc…",
+      "url": "https://www.theregister.com/2025/10/27/hpe_discovery_frontier_successor/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/27/ornlgx3dsystemmockup.jpg",
+      "publishedAt": "2025-10-27T19:00:14Z",
+      "content": "HPE is set to build a successor to the Frontier exascale system for America's Oak Ridge National Laboratory, based on the next generation of its Cray supercomputer platform, plus a separate AI cluste… [+4360 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pU95E8pwfvrx8dWfwg7X8M-1920-80.jpg",
       "publishedAt": "2025-10-25T12:52:43Z",
       "content": "The increasing cost of memory chips seems to be slowly creeping into the smartphone industry. Chinese smartphone manufacturer Xiaomi saw a disappointing response to its newly launched Redmi K90 range… [+2470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI spending is boosting the economy, but many businesses are in survival mode",
-      "description": "As AI lifts the economy and stock market, businesses in retail, travel and construction are struggling with high costs and a downbeat consumer.",
-      "url": "https://www.cnbc.com/2025/10/25/ai-spending-is-boosting-the-economy-many-businesses-in-survival-mode.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117869-17423291702025-03-18t201546z_1889548261_rc2ufda8bhgm_rtrmadp_0_nvidia-gtc-keynote.jpeg?v=1742329238&w=1920&h=1080",
-      "publishedAt": "2025-10-25T12:07:11Z",
-      "content": "Cameron Pappas, owner of Norton's Florist\r\nFor Cameron Pappas, owner of Norton's Florist in Birmingham, Alabama, the artificial intelligence boom is a world away.\r\nWhile companies like Nvidia, Alphab… [+8712 chars]"
     }
   ]
 }
