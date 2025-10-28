@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-28T16:46:58.169Z",
+  "fetchedAt": "2025-10-28T17:09:24.131Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louise Matsakis",
+      "title": "Here's How Many People May Use ChatGPT During a Mental Health Crisis Each Week",
+      "description": "OpenAI released initial estimates about the share of users who may be experiencing symptoms like delusional thinking, mania, or suicidal ideation, and says it has tweaked GPT-5 to respond more effectively.",
+      "url": "https://www.wired.com/story/chatgpt-psychosis-and-self-harm-update/",
+      "urlToImage": "https://media.wired.com/photos/68fc0d76ee3985e8f4f63f45/191:100/w_1280,c_limit/OpenAI-Self-Harm-Psychosis-Business-2233062347.jpg",
+      "publishedAt": "2025-10-27T17:00:54Z",
+      "content": "For the first time ever, OpenAI has released a rough estimate of how many ChatGPT users globally may show signs of having a severe mental health crisis in a typical week. The company said Monday that… [+2516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Is Fitbit Premium's new AI coach worth the subscription? Try it now and see",
+      "description": "The redesigned Fitbit Premium aims to be your personal trainer - here's who gets to test it first.",
+      "url": "https://www.zdnet.com/article/is-fitbit-premiums-new-ai-coach-worth-the-subscription-try-it-now-and-see/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f0c3662257bd7949ed8c44df972ddb4d09904c09/2025/10/27/5c2d509a-95a5-443b-837b-d14c2fe44a2d/question-universe.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-27T17:00:32Z",
+      "content": "Google/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways \r\n<ul><li>Fitbit Premium's public preview is available October 28. </li><li>Adult Android users can try it … [+3566 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI startup Mercor now valued at $10 billion with new $350 million funding round",
+      "description": "The company was able to take advantage of the pivot to data-labeling after Meta paid $14.3 billion for a 49% stake in Scale AI in June",
+      "url": "https://www.cnbc.com/2025/10/27/ai-hiring-startup-mercor-funding.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217307-1761582591072-Mercor_Founders_-_Adarsh_Hiremath_Brendan_Foody.jpg?v=1761583724&w=1920&h=1080",
+      "publishedAt": "2025-10-27T17:00:31Z",
+      "content": "Artificial intelligence startup Mercor announced on Monday a new Series C round that values the company at $10 billion, a fivefold increase since its last raise in February.\r\nThe company said in a bl… [+1927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "China's autonomous military combat drone powered by DeepSeek highlights Nvidia reliance — investigation reveals People's Liberation Army, supporting institutions continue to use restricted H100 chips",
+      "description": "Chinese defense company Norinco introduced an AI military drone with 'autonomous combat-support' capability to help make warfare more efficient.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-autonomous-military-combat-drone-powered-by-deepseek-highlights-nvidia-reliance-investigation-reveals-peoples-liberation-army-supporting-institutions-continue-to-use-restricted-h100-chips",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ADkq2cqTn9RZGdFgKgtmDJ-1920-80.jpg",
+      "publishedAt": "2025-10-27T16:50:19Z",
+      "content": "China North Industries Corporation, or Norinco, a state-owned defense firm, earlier this year unveiled the P60, an autonomous military vehicle that can travel at 50 kilometers per hour (approximately… [+3697 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fc1049d10add0e2ec330ec/191:100/w_1280,c_limit/security_roundup_aws_outage.jpg",
       "publishedAt": "2025-10-25T10:30:00Z",
       "content": "The cloud giant Amazon Web Services experienced DNS resolution issues on Monday leading to cascading outages that took down wide swaths of the web. Mondays meltdown illustrated the worlds fundamental… [+6859 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers",
-      "title": "OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide",
-      "description": "In OpenAI’s new Atlas browser, the Ask ChatGPT sidebar is moderately helpful at best. Sometimes, it’s confusingly wrong.",
-      "url": "https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/",
-      "urlToImage": "https://media.wired.com/photos/68fc1ab3582abcd215b5b4b2/191:100/w_1280,c_limit/gear_openai_atlas_browser%20_tour.jpg",
-      "publishedAt": "2025-10-25T10:00:00Z",
-      "content": "OpenAIs recently launchedAtlas browser is a fascinating inversion of what users may expect from a browser, centering AI answers above traditional web links. Every click in a regular browser is a chan… [+2262 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Verity Burns",
-      "title": "The Pepsi Man Is Coming to Save Samsung From Boring Design",
-      "description": "Mauro Porcini is, amazingly, Samsung's first ever chief design officer. He's got a hell of a job ahead of him.",
-      "url": "https://www.wired.com/story/the-pepsi-man-is-coming-to-save-samsung-from-boring-design/",
-      "urlToImage": "https://media.wired.com/photos/68fb998f3352341155e1ec56/191:100/w_1280,c_limit/102525_Pepsi-Man-Samsung.jpg",
-      "publishedAt": "2025-10-25T09:00:00Z",
-      "content": "Samsung has one of the biggest product line ups of any tech brand, yet when it comes to design, its consistently seen as an also-ran. While other companies have forged distinctive and instantly recog… [+2880 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "Musk's ad chief at X departs after just 10 months | TechCrunch",
-      "description": "Musk's ad chief at X departs after just 10 months | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/24/musks-ad-chief-at-x-departs-after-just-10-months/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1782806946.jpg?resize=1200,800",
-      "publishedAt": "2025-10-25T06:49:09Z",
-      "content": "John Nitti has left his position as X’s advertising chief after just ten months, reports the Financial Times. \r\nNitti, who joined as global head of revenue operations and advertising innovation, was … [+1156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Why this VC bet on $3 billion AI firm ElevenLabs after one meeting with the founder",
-      "description": "\"Within 30 minutes of the first conversation, I told him, 'how much money do you want?',\" angel investor Carles Reina said of his first meeting with ElevenLabs.",
-      "url": "https://www.cnbc.com/2025/10/25/vc-bet-on-3-billion-ai-firm-elevenlabs-after-one-meeting-with-founder.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215255-1761137528935-0013.jpg?v=1761217558&w=1920&h=1080",
-      "publishedAt": "2025-10-25T06:08:23Z",
-      "content": "The angel investor who backed a billion-dollar AI startup when it was still in its infancy said he decided to invest in the company after just 30 minutes of meeting one of its founders.\r\nCarles Reina… [+3432 chars]"
     }
   ]
 }
