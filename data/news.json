@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T16:12:12.583Z",
+  "fetchedAt": "2025-10-28T16:46:58.169Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Tesla repeating old threats to get shareholders to approve Musk’s $1 trillion pay day",
+      "description": "Tesla’s board of directors issued a stark warning to shareholders today: approve Elon Musk’s unprecedented $1 trillion pay package or risk losing him as CEO. It’s a familiar threat, one that the board has used before, and if history offers any clues, it’s lik…",
+      "url": "https://www.theverge.com/news/806970/tesla-elon-musk-trillion-pay-shareholder-board-letter",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK022_ELON_MUSK_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-10-27T16:34:27Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIf it sounds like a familiar argument, its because its the same one the board used last year.\r\nIf it sounds like a familiar argument, its because its the same on… [+5537 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Fitbit’s overhauled app and AI health coach arrive today",
+      "description": "Fitbit's new Gemini-powered health coach is debuting in preview today, as part of an entirely new app experience that was announced back in August. Premium subscribers in the US on Android will have access to it first as it starts rolling out today, with plan…",
+      "url": "https://www.theverge.com/tech/806243/fitbit-ai-health-coach-app-update-preview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/fitbithealthcoach.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-27T16:22:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPremium subscribers can opt in and try out the new features.\r\nPremium subscribers can opt in and try out the new features.\r\nby\r\nAllison JohnsonClose\r\nAllison Joh… [+3985 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215255-1761137528935-0013.jpg?v=1761217558&w=1920&h=1080",
       "publishedAt": "2025-10-25T06:08:23Z",
       "content": "The angel investor who backed a billion-dollar AI startup when it was still in its infancy said he decided to invest in the company after just 30 minutes of meeting one of its founders.\r\nCarles Reina… [+3432 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "US stocks hit record high after soft CPI, led by tech mega-cap gains",
-      "description": "US stocks closed at a new high on Friday, as traders cheered softer-than-anticipated inflation data that underpinned expectations for Federal Reserve interest-rate cuts. Technology giants including Nvidia Corp, Apple Inc and Broadcom Inc led gains in the S&P …",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rallies-after-soft-cpi-intel-soars-on-healthy-earnings",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nhdtzo/article70200680.ece/alternates/LANDSCAPE_1200/PO10_Forex_chart.jpg",
-      "publishedAt": "2025-10-25T04:40:42Z",
-      "content": "US stocks closed at a new high on Friday, as traders cheered softer-than-anticipated inflation data that underpinned expectations for Federal Reserve interest-rate cuts. Technology giants including N… [+4515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "I let Edge's Copilot Mode buy me a new space heater - here's how the AI browser did",
-      "description": "Microsoft Edge has morphed into a full-fledged AI browser that can even shop for you. So, I put it to the test.",
-      "url": "https://www.zdnet.com/article/i-let-edges-copilot-mode-buy-me-a-new-space-heater-heres-how-the-ai-browser-did/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5480d4271d28fdae8c0df3e5e43b1001cb79b36a/2025/10/24/3081933c-d66f-4de8-9d91-b732bb847758/7.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-25T00:00:35Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Edge's Copilot Mode adds real AI utility to everyday browsing.</li><li>I tested it to… [+12317 chars]"
     }
   ]
 }
