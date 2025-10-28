@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-28T23:08:45.072Z",
+  "fetchedAt": "2025-10-28T23:33:50.019Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "South Korea's third-quarter GDP grows at fastest pace in over a year, beating expectations",
+      "description": "According to advance estimates from Bank of Korea, GDP rose 1.7%, year on year, compared to the 1.5% expected by economists polled by Reuters.",
+      "url": "https://www.cnbc.com/2025/10/28/south-koreas-gdp-q3-beats-expectations-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215710-1761176477890-gettyimages-1243489994-SKOREA_BUSAN.jpeg?v=1761176492&w=1920&h=1080",
+      "publishedAt": "2025-10-27T23:19:18Z",
+      "content": "South Korea's economy expanded at its fastest pace in more than a year, with its third-quarter gross domestic product growth topping analysts' estimates on Tuesday.\r\nAccording to advance estimates fr… [+1994 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -786,19 +799,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -806,6 +806,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -825,13 +838,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -851,13 +864,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -877,13 +890,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f943ad21295bfbfeb4231f/191:100/w_1280,c_limit/House-Fishing-Culture.jpg",
       "publishedAt": "2025-10-26T11:00:00Z",
       "content": "As youre hunting through real estate listings for a new home in Franklin, Tennessee, you come across a vertical video showing off expansive rooms featuring a four-poster bed, a fully stocked wine cel… [+2242 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Boone Ashworth",
-      "title": "Casio’s Fluffy AI Robot Squeaked Its Way Into My Heart",
-      "description": "The $430 Casio Moflin is a pointless but adorable robot you can’t help but love. Unless you’re a dog.",
-      "url": "https://www.wired.com/story/casios-fluffy-ai-robot-squeaked-its-way-into-my-heart/",
-      "urlToImage": "https://media.wired.com/photos/68fbc4b32c0883ef85a60b68/191:100/w_1280,c_limit/Copy%20of%200149_Grama_Casio_Shot_09_3708_219-339.jpg",
-      "publishedAt": "2025-10-26T10:30:00Z",
-      "content": "There's a fluffy robot, about the size of a guinea pig, sitting on my couch, and it's squeaking. My friend's dog Wylie sits watching it, suspicious of its every move.\r\nMoflin is an AI companion robot… [+1801 chars]"
     }
   ]
 }
