@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T17:09:24.131Z",
+  "fetchedAt": "2025-10-28T17:38:57.341Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Qualcomm unveils AI200 and AI250 AI inference accelerators — Hexagon takes on AMD and Nvidia in the booming data center realm",
+      "description": "Qualcomm has unveiled its AI200 and AI250 rack-scale AI inference solutions relying on data center-grade Hexagon NPUs with near-memory computing, micro-tile inferencing, and confidential computing support.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-unveils-ai200-and-ai250-ai-inference-accelerators-hexagon-takes-on-amd-and-nvidia-in-the-booming-data-center-realm",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RzwbAfT8LKAyAtweaGhrMS-1200-80.png",
+      "publishedAt": "2025-10-27T17:31:30Z",
+      "content": "Qualcomm on Monday formally announced two upcoming AI inference accelerators — the AI200 and AI250 — that will hit the market in 2026 and 2027. The new accelerators are said to compete against rack-s… [+4450 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zhiye Liu",
+      "title": "AMD rebrands Ryzen 7035, 7020 series mobile processors — Zen 2 and Zen 3+ chips receive new identities",
+      "description": "AMD has rebranded its Ryzen 7035 (Rembrandt-R) and Ryzen 7020 (Mendocino) series of mobile processors.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-rebrands-ryzen-7035-7020-series-mobile-processors-zen-2-and-zen-3-chips-receive-new-identities",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Uxhq9JaW2jQyALqcfVHku4-1500-80.jpg",
+      "publishedAt": "2025-10-27T17:13:33Z",
+      "content": "It appears that the period has once again arrived when chipmakers are rebadging some of their processors. Keen hardware enthusiast Gray has observed that AMD has rebranded certain Ryzen processors fr… [+4495 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
       "publishedAt": "2025-10-25T11:00:00Z",
       "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Microsoft for Startups exec says ‘my whole job is begging for GPUs,it's been that way since 2020’ — says that AI bubble doomsters are deluded",
-      "description": "Criticizes Jensen Huang for his perceived support of ‘random bitcoin miners’ over more deserving AI startups.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-for-startups-exec-says-my-whole-job-is-begging-for-gpus-its-been-that-way-since-2020-says-that-ai-bubble-doomsters-are-deluded",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mcUCEv8AzcMnUJJ3xjB6Cf-1920-80.jpg",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "Britton Winterrose, Microsoft’s lead in Technical Business Development for Startups, has taken to social media to complain that “my whole job is begging for GPUs.” In a brief Tweet-rant, highlighting… [+3158 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matt Burgess, Lily Hay Newman",
-      "title": "Amazon Explains How Its AWS Outage Took Down the Web",
-      "description": "Plus: The Jaguar Land Rover hack sets an expensive new record, OpenAI’s new Atlas browser raises security fears, Starlink cuts off scam compounds, and more.",
-      "url": "https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/",
-      "urlToImage": "https://media.wired.com/photos/68fc1049d10add0e2ec330ec/191:100/w_1280,c_limit/security_roundup_aws_outage.jpg",
-      "publishedAt": "2025-10-25T10:30:00Z",
-      "content": "The cloud giant Amazon Web Services experienced DNS resolution issues on Monday leading to cascading outages that took down wide swaths of the web. Mondays meltdown illustrated the worlds fundamental… [+6859 chars]"
     }
   ]
 }
