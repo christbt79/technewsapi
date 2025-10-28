@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-28T17:38:57.341Z",
+  "fetchedAt": "2025-10-28T18:14:26.119Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "LexisNexis CEO says the AI law era is already here",
+      "description": "Today, I’m talking with Sean Fitzpatrick, the CEO of LexisNexis, one of the most important companies in the entire legal system. For years — including when I was in law school — LexisNexis was basically the library. It’s where you went to look up case law, do…",
+      "url": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-Sean-Fitzpatrick_final.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+      "publishedAt": "2025-10-27T17:51:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSean Fitzpatrick promises his AI wont get you in trouble with a judge.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from this author will be added to your daily ema… [+55617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "U.S. Department of Energy and AMD cut a $1 billion deal for two AI supercomputers — pairing has already birthed the two fastest machines on the planet",
+      "description": "U.S. DoE and AMD cut a $1 billion deal for two AI supercomputers.",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/u-s-department-of-energy-and-amd-cut-a-usd1-billion-deal-for-two-ai-supercomputers-pairing-has-already-birthed-the-two-fastest-machines-on-the-planet",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DM8frhjgixaV878W45Ws4S-1920-80.png",
+      "publishedAt": "2025-10-27T17:50:00Z",
+      "content": "Tens of billions seem to fly in all sorts of directions these days in the AI world. A \"mere\" $1 billion deal would arguably not even register, but the one announced today is arguably far more importa… [+2374 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -513,19 +539,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -533,6 +546,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -552,13 +578,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -578,13 +604,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -604,13 +630,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258030_waymo_snow_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-25T11:12:09Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSnow and ice pose unique challenges for driverless cars. And Waymos expansion depends on its ability to tackle them head on.\r\nSnow and ice pose unique challenges… [+7303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "5 ways ambitious IT pros can future-proof their tech careers in an age of AI",
-      "description": "Mid-career IT professionals who climb the corporate ladder successfully have a number of things in common. Here's how to smash that glass ceiling.",
-      "url": "https://www.zdnet.com/education/professional-development/5-ways-ambitious-it-pros-can-future-proof-their-tech-careers-in-an-age-of-ai/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/789598f3ff695a5ace94e37869088cb9360fab4a/2025/10/24/342915f2-0484-49d9-9f83-5c6d0956a2e4/ladderlightscreenshot-2025-10-24-131629.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-25T11:00:42Z",
-      "content": "Cocoon/DigitalVision via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>Ambitious IT professionals are prepared to smash the glass ceiling.</li><… [+7743 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III",
-      "description": "Plus: Aura’s new digital photo frame goes wireless, a mood-morphing watch, Wyze and TP-Link unveil solar-powered outdoor security cameras, and Intel will open “AI Experience Stores” in five cities.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/",
-      "urlToImage": "https://media.wired.com/photos/68fc258076014c584f77ed1b/191:100/w_1280,c_limit/Gear%20News%20of%20the%20Week-%20There%E2%80%99s%20Yet%20Another%20New%20AI%20Browser,%20and%20Fujifilm%20Debuts%20the%20X-T30%20III.png",
-      "publishedAt": "2025-10-25T11:00:00Z",
-      "content": "An increasingly popular solution is the inclusion of a solar panel to keep that battery topped up, enabling you to install and potentially never touch the camera again. Both Wyze and TP-Link just rev… [+3752 chars]"
     }
   ]
 }
