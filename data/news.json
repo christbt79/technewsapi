@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-29T14:10:17.426Z",
+  "fetchedAt": "2025-10-29T14:42:39.746Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Monica Bell",
+      "title": "Sign up for T-Mobile and get a free Swarovski Motorola Razr - here's how",
+      "description": "T-Mobile is offering up to $1,000 off a Swarovski Razr phone (as well as other Razr and Google Pixel phones) when you sign up with certain plans. Here's how it works.",
+      "url": "https://www.zdnet.com/article/sign-up-for-t-mobile-and-get-a-free-swarovski-motorola-razr-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/18364da580699bf6ba01d746b5685ef127c533ee/2025/10/27/f6e036af-a848-42a8-8f38-907f306163dc/razr-swarovski-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T14:34:04Z",
+      "content": "T-Mobile/ZDNET\r\nIf you've been considering starting or opening a new phone line with T-Mobile and you have an eye for luxury, we found a great deal for you to take advantage of. T-Mobile will give yo… [+2619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "Is your company spending big on new tech? Here are 5 ways to prove it's paying off",
+      "description": "Measuring ROI can be tricky, so we spoke with several CIOs about how to make sure your board or leadership sees it.",
+      "url": "https://www.zdnet.com/article/is-your-company-spending-big-on-new-tech-here-are-5-ways-to-prove-its-paying-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d35455cbb99f3d1d2ad5aef4605c22215f205d63/2025/10/20/432db3db-b717-459e-a129-79bc59c9c577/gettyimages-1297916126.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T14:33:37Z",
+      "content": "twomeows / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Digital transformation success is a fast-moving target.</li><li>Smart CIOs coll… [+8060 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "OpenAI completes its for-profit recapitalization | TechCrunch",
+      "description": "OpenAI has completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation.",
+      "url": "https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181367.jpg?w=1024",
+      "publishedAt": "2025-10-28T14:32:41Z",
+      "content": "OpenAI on Tuesday said it had completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation. It’s the end result of a complex legal process … [+2582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
+      "title": "How to watch Nvidia GTC 2025 keynote — Jensen Huang shares the latest in AI and beyond",
+      "description": "Nvidia is hosting GTC and its keynote to reveal what's next in agentic AI, robotics, and accelerated computing.",
+      "url": "https://www.tomshardware.com/tech-industry/how-to-watch-nvidia-gtc-2025-keynote-jensen-huang-shares-the-latest-in-ai-and-beyond",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iHc2PctFNyiceRXZYJfrnQ-1600-80.jpg",
+      "publishedAt": "2025-10-28T14:31:40Z",
+      "content": "As part of Nvidia GTC Live from Washington D.C., Nvidia will host its hotly anticipated keynote with CEO Jensen Huang on Tuesday morning.\r\nThe main event kicks off at 12PM ET / 9AM PT on October 28, … [+1214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "OpenAI calls on U.S. to build 100 gigawatts of additional power-generating capacity per year — says electricity is a 'strategic asset' in AI race against China",
+      "description": "OpenAI has called on the US to build out more power-generating infrastructure, claiming that it is needed to help provide the backbone for the AI race the US is now in with China. With enormous infrastructure projects planned, it wants the US to build an addi…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-calls-on-u-s-to-build-100-gigawatts-of-additional-power-generating-capacity-per-year-says-electricity-is-a-strategic-asset-in-ai-race-against-china",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/T8Dw2rCunqAqPdqrexsUs3-1920-80.jpg",
+      "publishedAt": "2025-10-28T14:22:23Z",
+      "content": "Off the back of its globe-spanning, near-trillion-dollar infrastructure project announcements, OpenAI is now calling on the US government to invest more heavily in power generation, according to CNBC… [+3263 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Clearview AI faces criminal heat for ignoring EU data fines",
+      "description": "Noyb says New York-based facial recognition biz flouted GDPR orders and kept scraping anyway Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.…",
+      "url": "https://www.theregister.com/2025/10/28/noyb_criminal_charges_clearview/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/13/clearview.jpg",
+      "publishedAt": "2025-10-28T14:22:09Z",
+      "content": "Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.\r\nAustria-based Noyb (None of Your Business… [+1988 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Beyond U.S. ESG retreat, trillions is being invested in the long-term winners, says climate banker",
+      "description": "Standard Chartered chief sustainability officer Marisa Drew says trillions being invested across China, India and the Mideast will create long-term winners.",
+      "url": "https://www.cnbc.com/2025/10/28/esg-climate-investing-market-china-india-mideast-long-term-winners.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217211-1761573813863-gettyimages-2183873407-AZERBAIJAN_COP29.jpeg?v=1761573830&w=1920&h=1080",
+      "publishedAt": "2025-10-28T14:12:42Z",
+      "content": "When Marisa Drew, chief sustainability officer of Standard Chartered, first decided to leave a successful investment banking career to focus on sustainability, her friends and colleagues were skeptic… [+3929 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_1920x1080_V1.png?resize=1200,675",
       "publishedAt": "2025-10-27T15:32:28Z",
       "content": "TechCrunch Disrupt 2025 is here! If youre still on the fence about attending in person, dive into the extensive schedule of speakers, networking opportunities, workshops, afterparties, and more thats… [+2247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "You have one week to opt out or become fodder for LinkedIn AI training",
-      "description": "Nations previously exempt from scraping now in the firing line\nIf you thought living in Europe, Canada, or Hong Kong meant you were protected from having LinkedIn scrape your posts to train its AI, think again. You have a week to opt out before the Microsoft …",
-      "url": "https://www.theregister.com/2025/10/27/linkedin_ai_profile_scraping/",
-      "urlToImage": "https://regmedia.co.uk/2024/11/27/shutterstock_2539616395.jpg",
-      "publishedAt": "2025-10-27T15:17:39Z",
-      "content": "If you thought living in Europe, Canada, or Hong Kong meant you were protected from having LinkedIn scrape your posts to train its AI, think again. You have a week to opt out before the Microsoft sub… [+3201 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "As AI agents join SaaS, AWS tells users to expect more pricing puzzles",
-      "description": "Cloud giant says choice and flexibility matter more than standardization – for now\nInterview As agentic AI solutions flood the market, users will face a complex environment in terms of deployment and commercial models, with standard practices yet to be resolv…",
-      "url": "https://www.theregister.com/2025/10/27/aws_ai_agent_saas/",
-      "urlToImage": "https://regmedia.co.uk/2015/06/09/jigsaw_puzzle_648.jpg",
-      "publishedAt": "2025-10-27T15:14:41Z",
-      "content": "Interview As agentic AI solutions flood the market, users will face a complex environment in terms of deployment and commercial models, with standard practices yet to be resolved, says Olawale Oladeh… [+4802 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I just tested Oukitel's WP60, and it changed my mind about rugged smartphones",
-      "description": "If you need a phone with a big screen, big battery, and big performance, Oukitel has one right up your alley.",
-      "url": "https://www.zdnet.com/article/i-just-tested-oukitels-wp60-and-it-changed-my-mind-about-rugged-smartphones/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/03e55b2a714d00221beec2f7f99d7d82878f178c/2025/10/27/2776441e-8c48-415c-ae91-64ba254d6437/wp60hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-27T15:06:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've been reviewing Oukitel rugged phones for some time now, and the one thing that trips me up with these devices is the performance. Yes, they… [+5737 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Isabelle Johannessen",
-      "title": "The 2025 Startup Battlefield Top 20 are here. Let the competition begin. | TechCrunch",
-      "description": "These 20 companies are more than just early-stage startups — they’re the architects of what’s next. And they’ll have just six minutes on the Disrupt Stage to prove it.",
-      "url": "https://techcrunch.com/2025/10/27/the-2025-startup-battlefield-top-20-are-here-let-the-competition-begin/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
-      "publishedAt": "2025-10-27T15:01:42Z",
-      "content": "The Startup Battlefield is the stage where legends are made, and the next 20 contenders have arrived. These are the breakout companies that rose to the top of a fiercely competitive, global applicant… [+5386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "The most versatile Linux distributions you can install right now - and I've tried them all",
-      "description": "Looking for a general, all-purpose Linux OS? These are user-friendly, secure, and suitable for both new and experienced users.",
-      "url": "https://www.zdnet.com/article/the-most-versatile-linux-distributions-you-can-install-right-now-and-ive-tried-them-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/32b783f70dabf2716b57d3b08019fec8ca5e9813/2025/10/27/6a06d7c5-4f46-4ca2-bc71-f54611baecef/best-all-around-linux-distributions3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-27T15:01:00Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>There are plenty of Linux distributions to choose from.</li><li>Many of… [+7728 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "If you can’t afford a vacation, an AI app will sell you pictures of one",
-      "description": "Faking wealth has always been big business, from buying designer dupes to renting private jet “sets” for photoshoots. But these days, people are using AI to make it a little more personal: creating photos of themselves living in leisure and luxury not to chas…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/IMG_6898.jpg?quality=90&strip=all&crop=0%2C23.637203572528%2C100%2C52.725592854943&w=1200",
-      "publishedAt": "2025-10-27T14:09:54Z",
-      "content": "<ul><li></li><li></li></ul>\r\nAlways be manifesting.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author will be added to your daily email digest and your homepage feed.\r\nFollow\r\nFollowSee Al… [+3834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Google Gemini can generate slides and presentations for you now - here's how",
-      "description": "With the Canvas tool, you can devise a slideshow presentation based on your prompt or an uploaded file.",
-      "url": "https://www.zdnet.com/article/google-gemini-can-generate-slides-and-presentations-for-you-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4519dd00b2e78e5c4cce7e6c4907e3534d3f0712/2025/10/27/4eb1de46-abdb-4df6-af3f-d8aeee0223b5/google-gemini-can-now-generate-slides-and-presentations-for-you-heres-how2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-27T14:04:29Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Gemini can now create a slide show presentation for you.</li… [+4490 chars]"
     }
   ]
 }
