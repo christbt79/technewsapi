@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-29T12:18:26.710Z",
+  "fetchedAt": "2025-10-29T13:05:52.436Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Avram Piltch",
+      "title": "AI browsers face a security flaw as inevitable as death and taxes",
+      "description": "Agentic features open the door to data exfiltration or worse Feature  With great power comes great vulnerability. Several new AI browsers, including OpenAI's Atlas, offer the ability to take actions on the user's behalf, such as opening web pages or even shop…",
+      "url": "https://www.theregister.com/2025/10/28/ai_browsers_prompt_injection/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/21/prompt_shutterstock.jpg",
+      "publishedAt": "2025-10-28T12:46:59Z",
+      "content": "Feature With great power comes great vulnerability. Several new AI browsers, including OpenAI's Atlas, offer the ability to take actions on the user's behalf, such as opening web pages or even shoppi… [+9412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The Fed is likely to keep cutting interest rates, but multiple dangers lurk, CNBC survey finds",
+      "description": "The Fed is expected to cut by a quarter point at its meeting this week and could cut at the next two meetings as well.",
+      "url": "https://www.cnbc.com/2025/10/28/the-fed-is-likely-to-keep-cutting-interest-rates-but-multiple-dangers-lurk-cnbc-survey-finds.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176586-1753382224549-gettyimages-2226005161-ah708204.jpeg?v=1761652668&w=1920&h=1080",
+      "publishedAt": "2025-10-28T12:32:04Z",
+      "content": "The Federal Reserve is expected to lower interest rates by a quarter point at its meeting this week and could cut at the next two meetings as well, according to the October CNBC Fed Survey.\r\nBut ther… [+4361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "8 ‘highly coveted’ skills that set introverts apart—they’re ‘superpowers’ that extroverts don’t always have, says expert",
+      "description": "So much advice out there for \"introverts suggests that the best way for us to succeed is to fake being an extrovert,\" writes Goldie Chan. That's not the case.",
+      "url": "https://www.cnbc.com/2025/10/28/8-highly-coveted-skills-that-set-introverts-apart-theyre-superpowers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214763-1761058898765-GettyImages-2201653644.jpg?v=1761059091&w=1920&h=1080",
+      "publishedAt": "2025-10-28T12:30:01Z",
+      "content": "Introverts often grow up feeling out of place. After all, we live in a noisy, fast-paced world. But while life may seem to revolve around extroverts, the introverts' contribution are equally importan… [+5282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Server DRAM prices surge up to 50% as AI-induced memory shortage hits hyperscaler supply — U.S. and Chinese customers only getting 70% order fulfillment",
+      "description": "The DRAM supply chain is choking, and server memory is taking the first hit, with major U.S. and Chinese hyperscalers now receiving just 70% of the server DRAM they order.",
+      "url": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CeCQNdkPC36pXu5gWVWMa6-2000-80.jpg",
+      "publishedAt": "2025-10-28T12:22:35Z",
+      "content": "The DRAM supply chain is choking, and server memory is taking the first hit. According to DigiTimes, major U.S. and Chinese hyperscalers are now receiving just 70% of the server DRAM they order. That… [+2484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon layoffs, Qualcomm's AI chips, Airbnb cracks down on Halloween and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/28/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108037356-1726859958992-gettyimages-2158978945-BC_24SChart4472.jpeg?v=1761598569&w=1920&h=1080",
+      "publishedAt": "2025-10-28T12:21:52Z",
+      "content": "Amazon logo on brick office building facade with windows, San Francisco, California, Aug. 29, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.… [+5073 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c811ebe938d8a836552c1353cc288359877e3a71/2025/10/27/373add95-3cd2-40e8-b878-0ff8bf1fbd50/gettyimages-2197163077.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-27T13:27:00Z",
       "content": "picture alliance / Contributor / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Visits to gemini.google.com have doubled over the past year.</li>… [+5188 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anna Heim",
-      "title": "Israeli intelligence vets raise $20M to track developer buying signals | TechCrunch",
-      "description": "Onfire, a vertical AI platform for IT revenue teams, is coming out of stealth with $20 million in funding, including a $14 million Series A co-led by Grove Ventures and TLV Partners.",
-      "url": "https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m-to-track-developer-buying-signals/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Onfire-Founders.jpg?resize=1200,800",
-      "publishedAt": "2025-10-27T13:16:41Z",
-      "content": "Developers hate (bad) marketing, but they still need a way to find useful tools and services. That’s why you’ll find a preponderance of developers on forums and sites like Hacker News, Reddit and Sta… [+4636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Microsoft's OpenAI losses hidden as part of $4.7 billion 'other' expense — stake in AI company still doesn't turn a profit as companies grapple with ongoing contract negotiation",
-      "description": "Microsoft’s AI ambitions are in large part tied to OpenAI, but the financial picture surrounding the connection is pretty murky.",
-      "url": "https://www.tomshardware.com/tech-industry/microsofts-openai-math-is-still-a-black-box",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/auazJrpNUbbVz4k55gBpXg-2000-80.jpg",
-      "publishedAt": "2025-10-27T13:01:58Z",
-      "content": "Microsoft’s AI ambitions are in large part tied to OpenAI, but the financial picture surrounding the connection is pretty murky. In its latest annual report, Microsoft disclosed a $4.7 billion line i… [+3211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "You could be losing out on 15% of your mutual fund and ETF returns, researchers say—how to keep more of your money",
-      "description": "Morningstar research shows that investors typically earn smaller returns than the funds they own.",
-      "url": "https://www.cnbc.com/2025/10/27/morningstar-research-investors-lose-out-on-mutual-fund-etf-returns.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107232325-1682625475970-gettyimages-1355037951-pi-2290226.jpeg?v=1761250089&w=1920&h=1080",
-      "publishedAt": "2025-10-27T13:00:01Z",
-      "content": "To find out how well a mutual fund or exchange-traded fund has performed over a certain period, you typically look at total return.\r\nThat number bakes in a few assumptions. Namely, that you put a chu… [+4768 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump's trade deals, Novartis acquires Avidity, Taco Bell's beverage push and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/27/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216945-17614772922025-10-26t050306z_960211912_rc2gjhayf0xa_rtrmadp_0_asean-summit.jpeg?v=1761477329&w=1920&h=1080",
-      "publishedAt": "2025-10-27T12:16:10Z",
-      "content": "U.S. President Donald Trump looks on next to people waving Malaysian national flags before he departs on Air Force One from Kuala Lumpur International Airport in Sepang on Oct. 27, 2025.\r\nThis is CNB… [+5818 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "Ex-CISA head thinks AI might fix code so fast we won't need security teams",
-      "description": "Jen Easterly says most breaches stem from bad software, and smarter tech could finally clean it up Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be…",
-      "url": "https://www.theregister.com/2025/10/27/jen_easterly_ai_cybersecurity/",
-      "urlToImage": "https://regmedia.co.uk/2024/09/20/shutterstock_usg_jenn_easterly.jpg",
-      "publishedAt": "2025-10-27T11:43:00Z",
-      "content": "Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be tracked down faster than ever.\r\nSpeaki… [+4370 chars]"
     }
   ]
 }
