@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-29T16:47:01.745Z",
+  "fetchedAt": "2025-10-29T17:09:41.354Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia announces reference design for colossal gigawatt-scale Omniverse DSX data centers — single data center requires a nuclear reactor's worth of power generation",
+      "description": "Nvidia introduces Omniverse DSX Blueprint, a digital-twin-based reference design for gigawatt-scale AI data centers that standardizes how partners can build and optimize 'AI factories.'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-announces-reference-design-for-gargantuan-gigawatt-scale-omniverse-dsx-data-centers-single-data-center-requires-a-nuclear-reactors-worth-of-power-generation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rMEtrL4LyKa5zyZtuiwKpP-1920-80.jpg",
+      "publishedAt": "2025-10-28T17:07:27Z",
+      "content": "Nvidia used to be a humble supplier of graphics processors, providing reference designs for its partners' graphics cards. As the company grew, it moved from data center-grade GPUs for AI and HPC to r… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Most ransomware demands go unpaid now, so attackers have a new strategy",
+      "description": "Ransomware doesn't pay as well anymore - but that's not necessarily good news.",
+      "url": "https://www.zdnet.com/article/most-ransomware-demands-go-unpaid-now-so-attackers-have-a-new-strategy/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/afae1adfee85e0d4a3fcaf2959e376a72572ed7d/2025/10/28/c85d5ac8-d6da-4dca-a717-eb7cf911bfd8/cyberwar555gettyimages-1379206950.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T16:52:36Z",
+      "content": "Karunyapas/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Ransomware payments have reached a historic low of 23%.</li… [+4320 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
+      "title": "Fake Nvidia GTC stream hosting Jensen Huang deepfake crypto scam garners 100,000 YouTube viewers — video was even promoted above Nvidia's real event",
+      "description": "Unsuspecting YouTube viewers looking for Nvidia's GTC keynote on Tuesday might well have found themselves accidentally watching a Jensen Huang deepfake promoting a cryptocurrency scam, after YouTube promoted the video over the official stream.",
+      "url": "https://www.tomshardware.com/tech-industry/fake-nvidia-gtc-stream-hosting-jensen-huang-deepfake-crypto-scam-garners-100-000-youtube-viewers-video-was-even-promoted-above-nvidias-real-event",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GtHKDB3HbHWUwXWMqDkHKU-1284-80.jpg",
+      "publishedAt": "2025-10-28T16:48:34Z",
+      "content": "Unsuspecting YouTube viewers looking for Nvidia's GTC keynote on Tuesday might well have found themselves accidentally watching a Jensen Huang deepfake promoting a cryptocurrency scam, after YouTube … [+2184 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
       "publishedAt": "2025-10-27T19:39:04Z",
       "content": "Amazon could be implementing the largest job reduction at the company since 2023. \r\nAs reported by Reuters on Monday, people familiar with the matter said that up to 30,000 corporate positions may be… [+677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Atlas vuln lets crims inject malicious prompts ChatGPT won't forget between sessions",
-      "description": "It can do a lot more than just play 'Eye of the Tiger' daily\nIn yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cro…",
-      "url": "https://www.theregister.com/2025/10/27/atlas_vulnerability_memory_injection/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/20/memory_shutterstock.jpg",
-      "publishedAt": "2025-10-27T19:23:47Z",
-      "content": "In yet another reminder to be wary of AI browsers, researchers at LayerX uncovered a vulnerability in OpenAI's Atlas that lets attackers inject malicious instructions into ChatGPT's memory using cros… [+4638 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "OpenAI says over a million people talk to ChatGPT about suicide weekly | TechCrunch",
-      "description": "OpenAI released data on just how many of ChatGPT's users are facing mental health challenges, and how its addressing them.",
-      "url": "https://techcrunch.com/2025/10/27/openai-says-over-a-million-people-talk-to-chatgpt-about-suicide-weekly/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
-      "publishedAt": "2025-10-27T19:22:34Z",
-      "content": "OpenAI released new data on Monday illustrating how many of ChatGPT’s users are struggling with mental health issues, and talking to the AI chatbot about it. The company says that 0.15% of ChatGPT’s … [+3852 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Fitbit’s revamped app, with Gemini-powered health coach, rolls out to Premium users",
-      "description": "Fitbit’s Gemini-powered health coach is rolling out to Premium subscribers in the U.S. on Android.",
-      "url": "https://techcrunch.com/2025/10/27/fitbits-revamped-app-with-gemini-powered-health-coach-rolls-out-to-premium-users/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FitbitGeminiCoach-preview.png?w=1200",
-      "publishedAt": "2025-10-27T19:11:50Z",
-      "content": "Fitbits new Gemini-powered health coach, announced back in August, is becoming available as a public preview to Premium subscribers in the U.S. on Android starting tomorrow. It expands to iOS later t… [+2494 chars]"
     }
   ]
 }
