@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-29T02:28:13.350Z",
+  "fetchedAt": "2025-10-29T03:34:21.558Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Trump’s new trade deals give US an edge over Southeast Asia",
+      "description": "The pacts give Trump some clear wins, like the removal of many tariff and non-tariff barriers on US exports into those countries and pledges to spend billions of dollars on American goods",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-28/trump-s-newest-trade-deals-give-us-an-edge-over-southeast-asia",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/brjk7c/article70211003.ece/alternates/LANDSCAPE_1200/2025-10-26T065120Z_1266710133_RC2IJHAH7FC0_RTRMADP_3_ASEAN-SUMMIT.JPG",
+      "publishedAt": "2025-10-28T03:14:42Z",
+      "content": "US President Donald Trump came to Southeast Asia wielding trade deals his office hailed as historic. The finer details, though, suggest a set of agreements that are uneven and with plenty of unknowns… [+5488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "How Saudi Arabia is diversifying away from oil — and betting big on AI",
+      "description": "While oil is the primary driver of Saudi Arabia's economy, the kingdom is now diversifying into areas such as artificial intelligence, tourism and sports.",
+      "url": "https://www.cnbc.com/2025/10/28/how-saudi-arabia-is-diversifying-away-from-oil-and-betting-big-on-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145679-17472532752024-10-29t122012z_169525670_rc2cuaasj8ro_rtrmadp_0_saudi-investment-fii.jpeg?v=1747253306&w=1920&h=1080",
+      "publishedAt": "2025-10-28T02:53:06Z",
+      "content": "Think of Saudi Arabia and the first thing that comes to mind might be its massive, oil-derived wealth.\r\nWhile oil continues to drive Saudi Arabia's economy, the kingdom is now expanding into areas su… [+3631 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -903,19 +929,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -923,6 +936,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -942,13 +968,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -968,13 +994,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -994,13 +1020,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
       "publishedAt": "2025-10-26T14:00:00Z",
       "content": "The countdown is almost over tomorrows the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 2729, 10,000 founders, investors, and innovators will flood San Fr… [+4552 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "These friends were fired from dream jobs decades into their careers—their best advice for surviving a layoff",
-      "description": "Laura Brown and Kristin O'Neill are the co-authors of \"All the Girls Get Fired,\" a guide to surviving a layoff and bouncing back in your career.",
-      "url": "https://www.cnbc.com/2025/10/26/how-to-survive-a-layoff-from-all-the-cool-girls-get-fired-authors.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216752-1761331386475-gettyimages-2240742151-Laura_Brown__Kristina_ONeill_Book_Launch.jpeg?v=1761331428&w=1920&h=1080",
-      "publishedAt": "2025-10-26T13:45:01Z",
-      "content": "Laura Brown and Kristina O'Neill were at the top of their games. They had dream magazine jobs as editors in chief, with Brown at Instyle and O'Neill at WSJ. Magazine.\r\nThen they got fired.\r\nThat's th… [+8502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adam Doud",
-      "title": "T-Mobile just made it hard for tech enthusiasts like me to leave - here's what changed",
-      "description": "Transferring your phone number can be a mess, especially if you're going from iPhone to Android. Here's how my experience has been with the carrier.",
-      "url": "https://www.zdnet.com/article/t-mobile-just-made-it-hard-for-tech-enthusiasts-like-me-to-leave-heres-what-changed/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4ad221fe9a06bd66fab3550d16efb82c72f11650/2025/08/27/aca4c4fe-5287-4777-8f0e-55f516fab8f3/dsc07592.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-26T13:34:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
     }
   ]
 }
