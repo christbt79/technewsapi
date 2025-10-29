@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-29T19:07:31.932Z",
+  "fetchedAt": "2025-10-29T19:31:43.124Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Can AI create next 'Grand Theft Auto'? Take-Two Interactive CEO says no",
+      "description": "While AI's impact on business operations continues to grow, Take-Two Interactive CEO Strauss Zelnick said it's still limited in video game development.",
+      "url": "https://www.cnbc.com/2025/10/28/can-ai-create-next-grand-theft-auto-take-two-interactive-ceo-says-no.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107189464-16757016032022-02-08t005714z_1587732071_rc24fs9r7hbt_rtrmadp_0_take-two-results.jpeg?v=1733936510&w=1920&h=1080",
+      "publishedAt": "2025-10-28T19:30:03Z",
+      "content": "Strauss Zelnick, the CEO of video game publisher Take-Two Interactive, said he is not a \"naysayer\" when it comes to the promise of artificial intelligence. But at the same time, Zelnick, who leads th… [+4119 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fffc5c27ce16d6b52e8044/191:100/w_1280,c_limit/Grokipedia-Business-2212189919.jpg",
       "publishedAt": "2025-10-28T01:22:37Z",
       "content": "On Monday, Elon Musks xAI startup launched Grokipedia, which the billionaire is pitching as an AI-generated alternative to the crowdsourced encyclopedia Wikipedia. Musk first announced the project in… [+2490 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Elon Musk’s Grokipedia contains copied Wikipedia pages",
-      "description": "xAI’s Grokipedia, its Wikipedia-like online encyclopedia, is now live. The similarities go deeper than expected. Grokipedia’s design is pretty basic right now; like Wikipedia, the homepage is mostly just a big search bar, and entries resemble very basic Wikip…",
-      "url": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-27-at-5.35.43%E2%80%AFPM-1.png?quality=90&strip=all&crop=0%2C9.5393649537039%2C100%2C80.921270092592&w=1200",
-      "publishedAt": "2025-10-28T00:46:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSome of Grokipedias pages say that content is adapted from Wikipedia.\r\nSome of Grokipedias pages say that content is adapted from Wikipedia.\r\nby\r\nJay PetersClose… [+5575 chars]"
     }
   ]
 }
