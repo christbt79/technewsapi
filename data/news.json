@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-28T23:33:50.019Z",
+  "fetchedAt": "2025-10-29T00:45:22.983Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Zoom CEO Eric Yuan says AI will shorten our workweek",
+      "description": "Zoom CEO Eric Yuan says that, in a few years, we should be working a 3-4 day workweek because of AI.",
+      "url": "https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1137874452.jpg?w=1024",
+      "publishedAt": "2025-10-28T00:14:39Z",
+      "content": "Zoom founder and CEO Eric Yuan believes that AI assistants will finally allow us to shorten our workweek. Speaking on stage at the TechCrunch Disrupt 2025 conference on Monday, Yuan discussed his vid… [+1517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Chegg slashes 45% of workforce, blames 'new realities of AI'",
+      "description": "The online education company said the combination of artificial intelligence and diminished traffic from search engines like Google has hurt the business.",
+      "url": "https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105886313-1608767423549-cheg.jpg?v=1683132689&w=1920&h=1080",
+      "publishedAt": "2025-10-28T00:10:13Z",
+      "content": "Chegg said on Monday it would lay off about 45% of its workforce, or 388 employees, as the \"new realities\" of artificial intelligence and diminished traffic from internet search have led to plummetin… [+2312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Japan's Nikkei 225 set to continue run above 50,000 as Trump meets Takaichi",
+      "description": "Trump will be the first foreign leader to meet with Takaichi in person since she assumed the top job in Japan.",
+      "url": "https://www.cnbc.com/2025/10/28/asia-stock-markets-live-tuesday-nikkei-kospi-hang-seng-trump-takaichi-japan.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217533-1761607418364-gettyimages-2243566106-0k2a0145_ip5sn3uu.jpeg?v=1761607454&w=1920&h=1080",
+      "publishedAt": "2025-10-27T23:48:38Z",
+      "content": "Japan's Nikkei 225 is set to continue its record-breaking climb above the 50,000 mark on Tuesday as U.S. President Donald Trump is set to meet with newly minted Japanese Prime Minister Sanae Takaichi… [+1158 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Roelof Botha explains why Sequoia supports Shaun Maguire after COO quit | TechCrunch",
+      "description": "Sequoia's managing partner Roelof Botha defended his colleague's controversial comments that sparked an online backlash, arguing that the VC firm needs \"spiky\" people.",
+      "url": "https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+      "publishedAt": "2025-10-27T23:48:10Z",
+      "content": "During an interview at TechCrunch Disrupt 2025 on Monday, Sequoia Capital managing partner Roelof Botha defended his colleague, Sequoia partner Shaun Maguire, over the controversial comments Maguire … [+2750 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fc3bee4445c2d5d84ab891/191:100/w_1280,c_limit/Review-%20Google%20Nest%20Cam%20Indoor%20and%20Outdoor%202K.png",
       "publishedAt": "2025-10-26T12:30:00Z",
       "content": "The new Nest Cam Indoor and Nest Cam Outdoor boast the easiest setup experience Ive encountered. Simply plug them in (the Nest Cam Indoor comes with a 10-foot USB-C cable, the Nest Cam Outdoor has an… [+3313 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Microsoft's decision to axe Windows 10 is driving Apple PC sales growth — users buy Macs instead of AI PCs despite Microsoft’s push for Copilot+ PCs",
-      "description": "Counterpoint Research data shows a massive jump in Mac sales in the same quarter that support for Microsoft Windows 10 ended.",
-      "url": "https://www.tomshardware.com/software/operating-systems/microsofts-decision-to-axe-windows-10-is-driving-apple-pc-sales-growth-users-buy-macs-instead-of-ai-pcs-despite-microsofts-push-for-copilot-pcs",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yeNNgoFjGyM8NHfvyTuGT3-2560-80.jpg",
-      "publishedAt": "2025-10-26T12:24:18Z",
-      "content": "Microsoftended support for Windows 10 last October 14, ending its reign as one of the most popular operating systems for PCs after nearly a decade. This happened about a year and a half after the int… [+3048 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Most families don't talk about this important medical issue, psychologist says—how to have the conversation",
-      "description": "Many people have never asked their relatives about their genetic health risks, a study shows. Here's how to start the conversation from a clinical psychologist.",
-      "url": "https://www.cnbc.com/2025/10/26/psychologist-most-families-dont-talk-about-this-important-medical-issue.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216753-1761331422966-gettyimages-2216528468-lisbon_family_2025_04254.jpeg?v=1761331474&w=1920&h=1080",
-      "publishedAt": "2025-10-26T12:00:01Z",
-      "content": "One in seven people have never spoken to their relatives about their family's health history, according to a recent global study from Bupa, a health insurance company. The survey polled 8,000 adults … [+4248 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Top Wall Street analysts pound the table for solid returns in these 3 stocks",
-      "description": "TipRanks' ranking service highlights three stocks, including Pinterest and Uber Technologies, that are favored by Wall Street's top pros.",
-      "url": "https://www.cnbc.com/2025/10/26/top-wall-street-analysts-champion-these-3-stocks-for-solid-returns.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108181937-1754419776090-gettyimages-1532811951-app_logos.jpeg?v=1754419842&w=1920&h=1080",
-      "publishedAt": "2025-10-26T11:13:55Z",
-      "content": "The stock market has been volatile lately as investors study the latest twists and turns in the the U.S.-China trade war as well as earnings of major American companies. Despite those challenges, inv… [+6064 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kat Tenbarge",
-      "title": "Real Estate Is Entering Its AI Slop Era",
-      "description": "Fake video walk-throughs, a magically expanding loft, and stair hallucinations are just some of the new AI-generated features house hunters are coming across.",
-      "url": "https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/",
-      "urlToImage": "https://media.wired.com/photos/68f943ad21295bfbfeb4231f/191:100/w_1280,c_limit/House-Fishing-Culture.jpg",
-      "publishedAt": "2025-10-26T11:00:00Z",
-      "content": "As youre hunting through real estate listings for a new home in Franklin, Tennessee, you come across a vertical video showing off expansive rooms featuring a four-poster bed, a fully stocked wine cel… [+2242 chars]"
     }
   ]
 }
