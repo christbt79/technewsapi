@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-29T14:42:39.746Z",
+  "fetchedAt": "2025-10-29T15:10:27.535Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "AMD swoops in to help as John Carmack slams Nvidia's $4,000 DGX Spark, says it doesn't hit performance claims, overheats, and maxes out at 100W power draw — developer forums inundated with crashing and shutdown reports",
+      "description": "Nvidia’s DGX Spark, the company’s new $4,000 developer box powered by the Grace Blackwell GB10 superchip, is under fire after questions were raised about real-world performance and power draw.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/users-question-dgx-spark-performance",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RhwFRz4LybCHeJ2P3h4V8S-2560-80.jpg",
+      "publishedAt": "2025-10-28T15:09:13Z",
+      "content": "Nvidia’s DGX Spark, the company’s new $4,000 mini PC platform powered by the Grace Blackwell GB10 superchip\r\n, is under fire after John Carmack, the former CTO of Oculus VR, began raising questions a… [+3491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Don't know Photoshop? Adobe's new AI tool can do image edits for you now - just ask",
+      "description": "Adobe's new AI image model and Prompt to Edit tool aim to eliminate the pain of complex photo-editing tasks.",
+      "url": "https://www.zdnet.com/article/dont-know-photoshop-adobes-new-ai-tool-can-do-image-edits-for-you-now-just-ask/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5aede14e32cd4a0491e02363d91975dfbbb61f2a/2025/10/28/912af1f9-3f5b-46f4-96a1-058777589777/gettyimages-1577457976.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T15:01:00Z",
+      "content": "Adobe\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Adobe has launched new AI image-generating tools at Adobe Max.</li><li>Adobe Firefly Image Model 5 is the … [+3534 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Apple and Microsoft are now both worth more than $4T",
+      "description": "This is the first time Apple's market capitalization has crossed the $4 trillion mark, making it the third company to ever cross the milestone after Nvidia and Microsoft.",
+      "url": "https://techcrunch.com/2025/10/28/apple-and-microsoft-are-now-both-worth-more-than-4t/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1329996497-1.jpg?resize=1200,800",
+      "publishedAt": "2025-10-28T14:59:52Z",
+      "content": "Apple and Microsoft are now both worth more than $4 trillion each.\r\nThis is the first time Apple’s market capitalization has crossed the $4 trillion mark, making it the third company to ever cross th… [+1051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "Anthropic's Claude is learning Excel so you don't have to",
+      "description": "Good luck to the 1,000 enterprise guinea pigs on the initial preview\nAnthropic has opened a waitlist for Claude for Excel, promising spreadsheet devotees that its LLM will be able to understand their entire workbook.…",
+      "url": "https://www.theregister.com/2025/10/28/anthropic_claude_excel/",
+      "urlToImage": "https://regmedia.co.uk/2022/01/20/excel.png",
+      "publishedAt": "2025-10-28T14:49:28Z",
+      "content": "Anthropic has opened a waitlist for Claude for Excel, promising spreadsheet devotees that its LLM will be able to understand their entire workbook.\r\nForty years since its launch, Excel is the product… [+3878 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/26f2ab91e2b82c17e5f1a197253172de7de61643/2025/10/27/6accb04d-b571-4d53-b644-ea0a7fc21eca/gettyimages-2210645057.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-27T16:03:07Z",
       "content": "primeimages/iStock via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Anthropic's Claude chatbot just got a suite of finance updates. </li><li>Cla… [+4903 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Airbnb wants to help hosts prevent Halloween parties in the U.S. and Canada",
-      "description": "Airbnb will take a number of factors into consideration to block reservations it deems higher risks of being used for Halloween parties.",
-      "url": "https://www.cnbc.com/2025/10/27/airbnb-wants-to-help-hosts-prevent-halloween-parties-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217251-1761578065312-gettyimages-2236404464-radecka-illustra250920_npMPw.jpeg?v=1761578101&w=1920&h=1080",
-      "publishedAt": "2025-10-27T16:00:57Z",
-      "content": "Airbnb wants to block unauthorized parties this spooky season.\r\nThe travel and home rental platform said Monday that it will utilize its anti-party technology this Halloween weekend. The tech factors… [+1688 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Mercor quintuples valuation to $10B with $350M Series C | TechCrunch",
-      "description": "Mercor, which connects AI labs with domain experts for training their foundational AI models, is close to raising $350 million at a $10 billion valuation.",
-      "url": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/IMG_9747_3d5c52.jpeg?resize=1200,960",
-      "publishedAt": "2025-10-27T15:54:09Z",
-      "content": "Mercor, which connects AI labs with domain experts for training their foundational AI models, has raised $350 million at a $10 billion valuation, the company confirmed to TechCrunch.\r\nFelicis Venture… [+2200 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Pinterest experiments with new AI-powered personalized boards",
-      "description": "Pinterest is testing an AI-driven collage to help users create outfits from saved Pins and personalized boards curated with AI.",
-      "url": "https://techcrunch.com/2025/10/27/pinterest-experiments-with-new-ai-powered-personalized-boards/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Pinterest_Stylesforyou.jpeg?w=1200",
-      "publishedAt": "2025-10-27T15:35:38Z",
-      "content": "Pinterest announced on Monday new AI-powered upgrades to its boards to make them more personalized for users. These features include an AI-driven collage, Styled for you, that helps users create outf… [+2127 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Techcrunch Staff",
-      "title": "TechCrunch Disrupt 2025: How to watch Astro Teller, Startup Battlefield, and more live | TechCrunch",
-      "description": "If you’re not able to attend in person, the next best thing is to check out our livestream of the Disrupt Stage, which features some of our most prominent speakers and the highly anticipated Startup Battlefield 200 pitch competition.",
-      "url": "https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-how-to-watch-astro-teller-startup-battlefield-and-more-live/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/TC26_Disrupt_General_Article_1920x1080_V1.png?resize=1200,675",
-      "publishedAt": "2025-10-27T15:32:28Z",
-      "content": "TechCrunch Disrupt 2025 is here! If youre still on the fence about attending in person, dive into the extensive schedule of speakers, networking opportunities, workshops, afterparties, and more thats… [+2247 chars]"
     }
   ]
 }
