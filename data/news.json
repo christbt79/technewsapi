@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-29T19:31:43.124Z",
+  "fetchedAt": "2025-10-29T20:10:17.114Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "US and Japan move to loosen China’s rare earths grip — nations partner to build alternative pathways to power, resource independence",
+      "description": "Announced on October 28 in Tokyo, the agreement commits both governments to securing mineral flows and accelerating the deployment of advanced nuclear power.",
+      "url": "https://www.tomshardware.com/tech-industry/us-and-japan-move-to-pry-rare-earths-from-chinas-grip",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cZHA3wMmPpyS9kK9BhmAF9-1920-80.png",
+      "publishedAt": "2025-10-28T20:04:18Z",
+      "content": "The US and Japan have signed a rare earths and energy cooperation agreement aimed squarely at China’s chokehold on critical tech supply chains. Announced on October 28 in Tokyo, the agreement commits… [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Nvidia adds AI peanut butter to Nokia's 6G network chocolate, throws in $1 billion",
+      "description": "The pair intends to develop cellular infrastructure for running edge AI workloads\nNvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integrate AI technology into its mobile network infrastructure, bringing accelerated computing to the ed…",
+      "url": "https://www.theregister.com/2025/10/28/nvidia_nokia_partnership_6g/",
+      "urlToImage": "https://regmedia.co.uk/2023/08/25/nvidia_shutterstock.jpg",
+      "publishedAt": "2025-10-28T19:56:51Z",
+      "content": "Nvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integrate AI technology into its mobile network infrastructure, bringing accelerated computing to the edge and paving the way … [+4329 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tina Nguyen",
+      "title": "What the Trump family stands to gain from Changpeng Zhao’s pardon",
+      "description": "Hello and welcome to Regulator. When it comes to the news cycle, only the actual destruction of the White House could have overshadowed the slate of dubious pardons that President Donald Trump issued last week, including former Rep. George Santos, the compuls…",
+      "url": "https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25425464/247099_Changpeng_Zhao_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-28T19:50:36Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAlso: the White Houses ballroom blitz, brought to you by the tech industry.\r\nAlso: the White Houses ballroom blitz, brought to you by the tech industry.\r\nby\r\nTin… [+15059 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145679-17472532752024-10-29t122012z_169525670_rc2cuaasj8ro_rtrmadp_0_saudi-investment-fii.jpeg?v=1747253306&w=1920&h=1080",
       "publishedAt": "2025-10-28T02:53:06Z",
       "content": "Think of Saudi Arabia and the first thing that comes to mind might be its massive, oil-derived wealth.\r\nWhile oil continues to drive Saudi Arabia's economy, the kingdom is now expanding into areas su… [+3631 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "I found 3 AI content detectors that identify AI text 100% of the time - and an even better option",
-      "description": "I've been testing AI content detectors for more than two years. And now there's an equally effective option that doesn't require a new subscription.",
-      "url": "https://www.zdnet.com/article/i-found-3-ai-content-detectors-that-identify-ai-text-100-of-the-time-and-an-even-better-option/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/33942b57297bc87bfdae0ca37fd7643be72cccb8/2025/10/27/c503c03c-9df8-46bc-9cbd-1a761e5f7198/aikey555gettyimages-2214249975.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T02:00:00Z",
-      "content": "Naron Purba/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Using an AI to do your writing is plagiarism.</li><li>Serv… [+15572 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Qualcomm announces AI accelerators and mysterious racks they’ll run in",
-      "description": "House of the Snapdragon promises – without much detail – this kit will enable coolly efficient inferencing Qualcomm has announced some details of its tilt at the AI datacenter market by revealing a pair of accelerators and rack scale systems to house them, al…",
-      "url": "https://www.theregister.com/2025/10/28/qualcom_ai_accelerators/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/28/supplied_qualcomm_ai_rack.jpg",
-      "publishedAt": "2025-10-28T01:25:35Z",
-      "content": "Qualcomm has announced some details of its tilt at the AI datacenter market by revealing a pair of accelerators and rack scale systems to house them, all focused on inferencing workloads.\r\nThe compan… [+3443 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Reece Rogers",
-      "title": "Elon Musk's Grokipedia Pushes Far-Right Talking Points",
-      "description": "The new AI-powered Wikipedia competitor falsely claims that pornography worsened the AIDS epidemic and that social media may be fueling a rise in transgender people.",
-      "url": "https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/",
-      "urlToImage": "https://media.wired.com/photos/68fffc5c27ce16d6b52e8044/191:100/w_1280,c_limit/Grokipedia-Business-2212189919.jpg",
-      "publishedAt": "2025-10-28T01:22:37Z",
-      "content": "On Monday, Elon Musks xAI startup launched Grokipedia, which the billionaire is pitching as an AI-generated alternative to the crowdsourced encyclopedia Wikipedia. Musk first announced the project in… [+2490 chars]"
     }
   ]
 }
