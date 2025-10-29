@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-29T13:05:52.436Z",
+  "fetchedAt": "2025-10-29T13:47:35.049Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft",
+      "description": "OpenAI’s controversial for-profit restructuring is finally complete, along with a new deal with Microsoft. The company’s for-profit arm is now a public benefit corporation, dubbed OpenAI Group PBC. The nonprofit is now called the OpenAI Foundation and “holds …",
+      "url": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2215434051.jpg?quality=90&strip=all&crop=0%2C10.749338735387%2C100%2C78.501322529225&w=1200",
+      "publishedAt": "2025-10-28T13:46:12Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs controversial for-profit restructuring is finally complete, along with a new deal with Microsoft.\r\nThe companys for-profit arm is now a public benefit co… [+3458 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Amazon to cut 14,000 corporate jobs | TechCrunch",
+      "description": "Amazon said on Tuesday that it plans to reduce its corporate workforce by 14,000 jobs as it seeks to reduce bureaucracy, remove layers and invest more in its AI strategy.",
+      "url": "https://techcrunch.com/2025/10/28/amazon-to-cut-14000-corporate-jobs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1437319236.jpg?resize=1200,812",
+      "publishedAt": "2025-10-28T13:44:08Z",
+      "content": "Amazon said on Tuesday that it plans to reduce its corporate workforce by 14,000 jobs as it seeks to reduce bureaucracy, remove layers and invest more in its AI strategy.\r\nThis marks the e-commerce g… [+3040 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Adobe Max 2025: all the latest creative tools and AI announcements",
+      "description": "Adobe has kicked off its annual Max design conference, where it’ll be giving us a first glimpse at the latest updates coming to its Creative Cloud apps and Firefly AI models. The creative software giant is launching new generative AI tools that make digital v…",
+      "url": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK124_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-28T13:16:17Z",
+      "content": "Adobe has kicked off its annual Max design conference, where itll be giving us a first glimpse at the latest updates coming to its Creative Cloud apps and Firefly AI models. The creative software gia… [+4629 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "An Apple Shortcuts masterclass",
+      "description": "If you know how to set it up, it can almost seem like your phone can read your mind. The minute you walk out of the office, a text gets automatically fired off letting your spouse know exactly when you'll be home. When you start reading a book, your phone imm…",
+      "url": "https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1028_SIte_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-28T13:14:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: The Meta Ray-Ban Display, automating your life on your phone, and cheap earbuds.\r\nOn The Vergecast: The Meta Ray-Ban Display, automating your l… [+3531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "This new Gemini trick takes your presentation ideas and instantly brings them to life - here's how",
+      "description": "Gemini just made it super easy to impress your boss or professor.",
+      "url": "https://www.zdnet.com/article/this-new-gemini-trick-takes-your-presentation-ideas-and-instantly-brings-them-to-life-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5054145b670c47484d26f55de3c38b63af6b1980/2025/10/28/94c91fd2-2b18-4319-9159-d5775f630d14/google-gemini-can-generate-slides-and-presentations-for-you-now-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T13:13:00Z",
+      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google Gemini can now create a slide show presentation for you.</l… [+4502 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139038-1746043403612-gettyimages-2183694537-DSC_1318.jpeg?v=1761572782&w=1920&h=1080",
       "publishedAt": "2025-10-27T14:00:01Z",
       "content": "Qualcomm announced Monday that it will release new artificial intelligence accelerator chips, marking new competition for Nvidia, which has so far dominated the market for AI semiconductors.\r\nThe AI … [+3476 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "TechCrunch Disrupt 2025: Day 1",
-      "description": "Today is the first day of TechCrunch Disrupt 2025! 10,000 founders, investors, and builders are flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conversations are everywhere, and the breakthroughs are only just b…",
-      "url": "https://techcrunch.com/2025/10/27/techcrunch-disrupt-2025-day-1/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
-      "publishedAt": "2025-10-27T14:00:00Z",
-      "content": "Today, Day 1, TechCrunch Disrupt 2025 goes full throttle 10,000 founders, investors, and builders flooding Moscone West for a nonstop run of ideas, demos, and deals. The energy is electric, the conve… [+10731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Researchers exploit OpenAI's Atlas by disguising prompts as URLs",
-      "description": "NeutralTrust shows how agentic browser can interpret bogus links as trusted user commands\nResearchers have found more attack vectors for OpenAI's new Atlas web browser – this time by disguising a potentially malicious prompt as an apparently harmless URL.…",
-      "url": "https://www.theregister.com/2025/10/27/openai_atlas_prompt_injection/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/27/shutterstock_atlasdigital.jpg",
-      "publishedAt": "2025-10-27T13:54:17Z",
-      "content": "Researchers have found more attack vectors for OpenAI's new Atlas web browser this time by disguising a potentially malicious prompt as an apparently harmless URL.\r\nNeuralTrust found that Atlas's \"om… [+3019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Les Pounder",
-      "title": "Generative AI used to create wild new 3D printer design — exotic collaboration brings 5-axis 3D printing to the desktop",
-      "description": "A collaboration between Generative Machine Company and Aibuild sees an intriguing take on modern desktop 3D printers, with a printer that can reorient the toolhead to produce stronger 3D prints with little or no supports necessary.",
-      "url": "https://www.tomshardware.com/3d-printing/generative-ai-used-to-create-wild-new-3d-printer-design-exotic-collaboration-brings-5-axis-3d-printing-to-the-desktop",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EWPYJTHxDEyS99njaYQmdJ-1200-80.jpg",
-      "publishedAt": "2025-10-27T13:38:48Z",
-      "content": "A collaboration between two London-based companies, Generative Machine and Aibuild, has heralded a new type of 3D printer. The GenerationOne 5-axis is a generatively designed 3D printer, and will soo… [+2553 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "‘Clinical-grade AI’: a new buzzy AI word that means absolutely nothing",
-      "description": "Earlier this month, Lyra Health announced a \"clinical-grade\" AI chatbot to help users with \"challenges\" like burnout, sleep disruptions, and stress. There are eighteen mentions of \"clinical\" in its press release, including \"clinically designed,\" \"clinically r…",
-      "url": "https://www.theverge.com/report/806887/clinical-grade-ai-buzzword",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258029_clinical_grade_AI_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-27T13:35:28Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nChatbot mental health companies are getting into clinical cosplay.\r\nChatbot mental health companies are getting into clinical cosplay.\r\nby\r\nRobert HartClose\r\nRob… [+8522 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Gemini is gaining fast on ChatGPT in one particular way, according to new data",
-      "description": "Google's chatbot has been making impressive gains lately. Here's why.",
-      "url": "https://www.zdnet.com/article/gemini-is-gaining-fast-on-chatgpt-in-one-particular-way-according-to-new-data/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c811ebe938d8a836552c1353cc288359877e3a71/2025/10/27/373add95-3cd2-40e8-b878-0ff8bf1fbd50/gettyimages-2197163077.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-27T13:27:00Z",
-      "content": "picture alliance / Contributor / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Visits to gemini.google.com have doubled over the past year.</li>… [+5188 chars]"
     }
   ]
 }
