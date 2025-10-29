@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-29T18:47:06.470Z",
+  "fetchedAt": "2025-10-29T19:07:31.932Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Can these ChatGPT updates make the chatbot safer for mental health?",
+      "description": "OpenAI said its latest GPT-5 improvements reduced undesirable behavior from chatbots by 65%. But usage guidelines remain mixed, even from CEO Sam Altman himself.",
+      "url": "https://www.zdnet.com/article/can-these-chatgpt-updates-make-the-chatbot-safer-for-mental-health/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/621125bda18d2b6ee40d4893e4ea9f0ed5d3d7cc/2025/10/28/5a6e1d35-5f3a-4017-8eea-4f7032b28b45/gettyimages-2201255686.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T19:01:38Z",
+      "content": "herstockart/iStock Unreleased via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>OpenAI is reducing undesirable behavior in its chatbot.</li><li>… [+4401 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028  | TechCrunch",
+      "description": "To achieve those goals, OpenAI is betting on two key strategies: continued algorithmic innovation and dramatically scaling up \"test time compute\" — essentially how long models spend thinking about problems.",
+      "url": "https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-28-at-10.53.15AM.png?resize=1200,671",
+      "publishedAt": "2025-10-28T18:49:11Z",
+      "content": "OpenAI says its deep learning systems are rapidly advancing, with models increasingly able to solve complex tasks faster. So fast, in fact, that internally, OpenAI is tracking toward achieving an int… [+2757 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-27-at-5.35.43%E2%80%AFPM-1.png?quality=90&strip=all&crop=0%2C9.5393649537039%2C100%2C80.921270092592&w=1200",
       "publishedAt": "2025-10-28T00:46:59Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSome of Grokipedias pages say that content is adapted from Wikipedia.\r\nSome of Grokipedias pages say that content is adapted from Wikipedia.\r\nby\r\nJay PetersClose… [+5575 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Zoom CEO Eric Yuan says AI will shorten our workweek",
-      "description": "Zoom CEO Eric Yuan says that, in a few years, we should be working a 3-4 day workweek because of AI.",
-      "url": "https://techcrunch.com/2025/10/27/zoom-ceo-eric-yuan-says-ai-will-shorten-our-workweek/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-1137874452.jpg?w=1024",
-      "publishedAt": "2025-10-28T00:14:39Z",
-      "content": "Zoom founder and CEO Eric Yuan believes that AI assistants will finally allow us to shorten our workweek. Speaking on stage at the TechCrunch Disrupt 2025 conference on Monday, Yuan discussed his vid… [+1517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Chegg slashes 45% of workforce, blames 'new realities of AI'",
-      "description": "The online education company said the combination of artificial intelligence and diminished traffic from search engines like Google has hurt the business.",
-      "url": "https://www.cnbc.com/2025/10/27/chegg-slashes-45percent-of-workforce-blames-new-realities-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105886313-1608767423549-cheg.jpg?v=1683132689&w=1920&h=1080",
-      "publishedAt": "2025-10-28T00:10:13Z",
-      "content": "Chegg said on Monday it would lay off about 45% of its workforce, or 388 employees, as the \"new realities\" of artificial intelligence and diminished traffic from internet search have led to plummetin… [+2312 chars]"
     }
   ]
 }
