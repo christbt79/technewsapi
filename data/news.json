@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-29T09:10:36.566Z",
+  "fetchedAt": "2025-10-29T09:38:14.552Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Chris Haslam",
+      "title": "Skylight Smart Calendar Max Review: Family Planning",
+      "description": "Skylight’s massive digital calendar helps to make sense of a busy family diary, but it won’t make you organized if you aren't already.",
+      "url": "https://www.wired.com/review/skylight-smart-calendar-max/",
+      "urlToImage": "https://media.wired.com/photos/69000a15912f31ccdaa888cf/191:100/w_1280,c_limit/Review-%20Skylight%20Smart%20Calendar%20Max.png",
+      "publishedAt": "2025-10-28T09:30:00Z",
+      "content": "From my Gmail account, forwarding on emails containing dates and appointments is easy, and once I was in the habit, I did it almost subconsciously. I used to do a similar thing with important dates, … [+2684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Intel's revolutionary 54-year-old 4004 chip was the world's first programmable microchip — 2,300-transistor 10,000nm processor exposed",
+      "description": "A CPU collector/enthusiast has taken the top off of an Intel 4004 processor and taken pictures of the chip's insides, showing the 10,000nm chip in all its glory.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/cpu-collector-exposes-microscopic-insides-of-intels-revolutionary-4004-chip-10-000nm-chip-was-the-worlds-first-programmable-microchip-processor",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nKH6V8sXo6WytVH8aCiqYX-1920-80.jpg",
+      "publishedAt": "2025-10-28T09:30:00Z",
+      "content": "CPU collector and enthusiast CPU Duke was given the opportunity to \"pop the hood\" off Intel's first-ever multi-purpose microprocessor, the 4004. In a post on X, the CPU collector removed the top port… [+3777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cathie Wood says humanoid robots will be the ‘biggest of all’ AI opportunities",
+      "description": "Ark Invest founder Cathie Wood on Tuesday singled out the potential for artificial intelligence to accelerate the development of humanoid robots.",
+      "url": "https://www.cnbc.com/2025/10/28/cathie-wood-humanoid-robots-will-be-biggest-of-all-ai-opportunities.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108135201-1745395184879-gettyimages-2160436537-AA_07072024_1765475.jpeg?v=1761637972&w=1920&h=1080",
+      "publishedAt": "2025-10-28T09:24:31Z",
+      "content": "An Optimus bot from Tesla on display during the 2024 World AI Conference &amp; High-Level Meeting on Global AI Governance at the Shanghai World Expo Exhibition and Convention Center on July 7, 2024.\r… [+2475 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/06/02/shutterstock_green_cable_and_ethernet_port.jpg",
       "publishedAt": "2025-10-27T01:00:06Z",
       "content": "Sponsored Feature The AI revolution is redrawing the business and consumer landscape across the globe. But it is also changing how telco and cloud service providers design and build out the infrastru… [+6766 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Australia sues Microsoft for misleading Microsoft 365 users about Copilot subscription options",
-      "description": "PLUS: China demotes tech self-sufficiency goal; Alibaba Cloud quietly quits VMware; India demands deepfake labels; and more! Asia In Brief  Australia’s Competition & Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly mis…",
-      "url": "https://www.theregister.com/2025/10/27/asia_tech_news_roundup/",
-      "urlToImage": "https://regmedia.co.uk/2021/02/03/fighting_kangaroos_australia.jpg",
-      "publishedAt": "2025-10-27T00:09:48Z",
-      "content": "Asia In Brief Australias Competition &amp; Consumer Commission on Monday commenced legal proceedings against Microsoft for allegedly misleading users of its Microsoft 365 bundle.\r\nThe consumer protec… [+5137 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Accel and Prosus team up to back early-stage Indian startups | TechCrunch",
-      "description": "Accel and Prosus team up to back early-stage Indian startups | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/26/accel-and-prosus-team-up-to-back-early-stage-indian-startups-building-for-1-4b-people/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
-      "publishedAt": "2025-10-26T23:33:16Z",
-      "content": "Storied investors Accel and Prosus have launched a new investment partnership to back Indian startups from day zero, targeting founders building large-scale solutions with the potential to serve the … [+5179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Shaq's new ride gets jaq'ed in haq attaq",
-      "description": "PLUS: Judge spanks NSO; Mozilla requires data use disclosures; TARmageddon meets Rust; And more! Infosec In Brief  Former basketball star Shaquille O'Neal is 7'1\" (215 cm), and therefore uses car customization companies to modify vehicles to fit his frame. Bu…",
-      "url": "https://www.theregister.com/2025/10/26/shaq_haq_attaq/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/26/shutterstock_editorial_only_shaquille_o_neal.jpg",
-      "publishedAt": "2025-10-26T22:43:52Z",
-      "content": "Infosec In Brief Former basketball star Shaquille O'Neal is 7'1\" (215 cm), and therefore uses car customization companies to modify vehicles to fit his frame. But it appears cybercriminals have targe… [+6075 chars]"
     }
   ]
 }
