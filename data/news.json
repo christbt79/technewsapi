@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-29T21:08:17.871Z",
+  "fetchedAt": "2025-10-29T21:34:24.961Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Wikipedia founder Jimmy Wales isn't worried about Elon Musk's Grokipedia: 'Not optimistic he will create anything very useful right now'",
+      "description": "Elon Musk launched Grokipedia to rival Wikipedia and what he says is 'woke' bias, but founder Jimmy Wales isn't worried, and says LLMs can't even write a wiki.",
+      "url": "https://www.cnbc.com/2025/10/28/elon-musk-grokipedia-wikipedia-founder-jimmy-wales.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218200-1761683540768-gettyimages-1780155114-EZ2_5503.jpeg?v=1761683560&w=1920&h=1080",
+      "publishedAt": "2025-10-28T21:30:14Z",
+      "content": "Elon Musk's Wikipedia rival Grokipedia got off to a \"rocky start\" in its public debut, but Wikipedia founder Jimmy Wales didn't even have to take a look at the AI's output to know what he expected.\r\n… [+4654 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Liam Proven",
+      "title": "This is Doom, running headless, on Ubuntu Arm… on a satellite",
+      "description": "Ólafur Waage has an unusual take on \"will it run Doom?\"\nUbuntu Summit Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established \"…",
+      "url": "https://www.theregister.com/2025/10/28/doom_running_in_space/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_2375569273.jpg",
+      "publishedAt": "2025-10-28T21:30:09Z",
+      "content": "Ubuntu Summit Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-establish… [+4472 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Andrew Prokop",
+      "title": "Trump has forgotten why he won in 2024",
+      "description": "For years, voters believed that, despite all of President Donald Trump’s chaos and controversies, he’d still do a good job with the economy. Not anymore. Trump’s economic approval numbers hit new all-time lows across both his terms this month in polling from …",
+      "url": "https://www.vox.com/politics/466332/trump-economy-polling-bad-worst-inflation-prices",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2228225688_b083e6.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "publishedAt": "2025-10-28T21:29:12Z",
+      "content": "President Donald Trump holds a chart on household income in the Oval Office of the White House in Washigton, DC, on August 7, 2025. | Yuri Gripas/Abaca/Bloomberg via Getty Images\r\n\n\nFor years, voters… [+5506 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&w=1920&h=1080",
       "publishedAt": "2025-10-28T07:32:52Z",
       "content": "ARK Invest CEO Cathie Wood on Tuesday pushed back on fears of an artificial intelligence bubble, while flagging the possibility of a \"reality check\" on AI valuations.\r\nSpeaking to CNBC's Dan Murphy o… [+1187 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Hopes of a U.S.-China deal spark a rally",
-      "description": "U.S. markets hit highs on the prospect of a U.S.-China trade deal. And that's before an agreement has been signed officially.",
-      "url": "https://www.cnbc.com/2025/10/28/cnbc-daily-open-hopes-of-a-us-china-deal-sparks-rally.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105995692-1561897232478trump-xi.jpg?v=1561897441&w=1920&h=1080",
-      "publishedAt": "2025-10-28T07:30:01Z",
-      "content": "The mere prospect of a U.S.-China trade deal is enough to send markets higher.\r\nOn Monday stateside, the S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs with the… [+3249 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Mining execs embrace 'phenomenal' rare earths interest from the Middle East",
-      "description": "Mining executives have welcomed bumper investor interest in critical minerals from the Middle East.",
-      "url": "https://www.cnbc.com/2025/10/28/rare-earths-mining-firms-embrace-bumper-interest-from-the-middle-east.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217161-1761569944067-gettyimages-2243454102-cr1_4231_hxpwfilu.jpeg?v=1761570011&w=1920&h=1080",
-      "publishedAt": "2025-10-28T07:12:59Z",
-      "content": "Guests enjoy the Fortune Global Forum 2025 Gala Dinner on October 26, 2025 at Diriyah Gate, Riyadh, Saudi Arabia.\r\nMining executives have welcomed a sharp upswing in investor interest from the Middle… [+5011 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "OpenAI offers free ChatGPT Go for one year to all users in India | TechCrunch",
-      "description": "OpenAI offers free ChatGPT Go for one year to all users in India | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
-      "publishedAt": "2025-10-28T06:19:20Z",
-      "content": "OpenAI is offering its ChatGPT Go plan available free of charge for one year to users in India who sign up during a limited promotional period starting November 4, as the company looks to expand in o… [+2420 chars]"
     }
   ]
 }
