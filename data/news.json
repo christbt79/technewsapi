@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-29T22:38:33.397Z",
+  "fetchedAt": "2025-10-29T23:09:06.354Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Celestica CEO explains the company's role in the AI boom",
+      "description": "Celestica CEO Rob Mionis talked his business' strategy in an interview with CNBC's Jim Cramer.",
+      "url": "https://www.cnbc.com/2025/10/28/celestica-ceo-ai-boom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218187-1761682850805-gettyimages-2227231495-img_0195.jpeg?v=1761682885&w=1920&h=1080",
+      "publishedAt": "2025-10-28T23:05:07Z",
+      "content": "Celestica CEO Rob Mionis explained how his company designs and manufactures infrastructure that enables artificial intelligence in a Tuesday interview with CNBC's Jim Cramer.\r\n\"If AI is a speeding fr… [+1864 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Senators propose banning teens from using AI chatbots",
+      "description": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI …",
+      "url": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/30f782a9.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-28T22:42:04Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new rules would force AI companies to verify whether users are over 18. \r\nThe new rules would force AI companies to verify whether users are over 18. \r\nby\r\nE… [+2611 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/QjxKDzTuq3XLjGn4tzfwWX-1280-80.png",
       "publishedAt": "2025-10-28T10:18:38Z",
       "content": "SK hynix last week used the 2025 Global Summit to reveal its AI NAND strategy and AIN storage products aimed at artificial intelligence applications. While AI systems have historically used storage d… [+4147 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "PayPal signs deal with OpenAI to become the first payments wallet in ChatGPT",
-      "description": "The move makes PayPal an early part of OpenAI's efforts to broaden ChatGPT's use for e-commerce.",
-      "url": "https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039286-1727296965061-Alex-Chriss.jpg?v=1727297019&w=1920&h=1080",
-      "publishedAt": "2025-10-28T10:15:01Z",
-      "content": "PayPal has signed a deal with OpenAI to have its digital wallet embedded into ChatGPT so users can pay for items found through the leading consumer AI tool, the company told CNBC exclusively. \r\nThe a… [+2140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Chatbots parrot Putin's propaganda about the illegal invasion of Ukraine",
-      "description": "Fake views from Moscow's pet media outlets appear in about one in five responses\nPopular chatbots powered by large language models cited links to Russian state-attributed sources in up to a quarter of answers about the war in Ukraine, raising fresh questions …",
-      "url": "https://www.theregister.com/2025/10/28/chatbots_still_parrot_russian_state/",
-      "urlToImage": "https://regmedia.co.uk/2017/05/03/mask.jpg",
-      "publishedAt": "2025-10-28T10:00:46Z",
-      "content": "Popular chatbots powered by large language models cited links to Russian state-attributed sources in up to a quarter of answers about the war in Ukraine, raising fresh questions over whether AI risks… [+4839 chars]"
     }
   ]
 }
