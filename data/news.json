@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-29T11:08:19.194Z",
+  "fetchedAt": "2025-10-29T11:33:28.135Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google investors have big expectations after stock’s sharpest quarterly rally in 20 years",
+      "description": "Following a 38% jump in Alphabet shares in the third quarter, Wall Street will be paying close attention to the company's comments on its AI strategy.",
+      "url": "https://www.cnbc.com/2025/10/28/google-investors-high-hopes-after-stocks-sharpest-rally-in-20-years.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
+      "publishedAt": "2025-10-28T11:30:01Z",
+      "content": "Google CEO Sundar Pichai waves as he arrives to attend the Artificial Intelligence (AI) Action Summit at the Grand Palais in Paris, France, February 11, 2025. \r\nAlphabet has a high bar to clear when … [+6418 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Adobe’s new AI audio tools can add soundtracks and voice-overs to videos",
+      "description": "Adobe is giving filmmakers new generative AI audio tools that can quickly add thematically appropriate backing tracks and narration to videos. Generate Soundtrack and Generate Speech are being introduced to a redesigned Adobe Firefly AI app, while Adobe is al…",
+      "url": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/GenerateSoundtrack.jpg?quality=90&strip=all&crop=0%2C9.0459569517161%2C88%2C81.908086096568&w=1200",
+      "publishedAt": "2025-10-28T11:20:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd unlike many AI music-makers, Adobe says its new Firefly tools are completely safe to use commercially.\r\nAnd unlike many AI music-makers, Adobe says its new F… [+4490 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1202,19 +1228,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "WIRED",
-      "title": "AI of a Thousand Faces",
-      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
-      "url": "https://www.wired.com/ai-issue/",
-      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "Tommy Craggs",
       "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
       "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
@@ -1222,6 +1235,19 @@
       "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED",
+      "title": "AI of a Thousand Faces",
+      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+      "url": "https://www.wired.com/ai-issue/",
+      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
     },
     {
       "source": {
@@ -1241,13 +1267,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -1267,39 +1293,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Katie Drummond",
-      "title": "The Worst Thing About AI Is That People Can’t Shut Up About It",
-      "description": "A plea from WIRED’s top boss: Say less.",
-      "url": "https://www.wired.com/story/ai-journalism-worst-thing-about-ai/",
-      "urlToImage": "https://media.wired.com/photos/68eec201eadc50eb0ecc7414/191:100/w_1280,c_limit/WIRED-AI-as_JOURNALISM_SHADOW-ALT.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "I tried to get out of this assignment so many times, in so many different ways.\r\nNot every package needs an editors letter, I told them. I was very busy recording a new podcast, getting ready to spea… [+6169 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     }
   ]
 }
