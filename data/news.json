@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-29T06:15:11.909Z",
+  "fetchedAt": "2025-10-29T06:49:15.117Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "OpenAI offers free ChatGPT Go for one year to all users in India | TechCrunch",
+      "description": "OpenAI offers free ChatGPT Go for one year to all users in India | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/27/openai-offers-free-chatgpt-go-for-one-year-to-all-users-in-india/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
+      "publishedAt": "2025-10-28T06:19:20Z",
+      "content": "OpenAI is offering its ChatGPT Go plan available free of charge for one year to users in India who sign up during a limited promotional period starting November 4, as the company looks to expand in o… [+2420 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
       "publishedAt": "2025-10-26T15:42:02Z",
       "content": "US and Chinese trade negotiators say they’ve reached a framework agreement that, if approved by both governments this week, would roll back proposed 100% tariffs on Chinese imports and pause Beijing’… [+3041 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Sam Altman says AI could eliminate jobs that aren’t ‘real work’",
-      "description": "Sam Altman isn’t known for understatement, but even by his own standards, what he said on stage at OpenAI’s DevDay conference earlier this month was pretty problematic.",
-      "url": "https://www.tomshardware.com/tech-industry/sam-altman-says-ai-could-eliminate-jobs-that-arent-real-work",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gpNqFzQBwPFumBCtuTDUCd-1920-80.jpg",
-      "publishedAt": "2025-10-26T14:38:12Z",
-      "content": "Sam Altman isn’t known for understatement, but even by his own standards, what he said on stage at OpenAI’s DevDay conference earlier this month was pretty problematic. In a live interview with AI ne… [+2724 chars]"
     }
   ]
 }
