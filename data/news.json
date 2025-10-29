@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-29T10:42:05.198Z",
+  "fetchedAt": "2025-10-29T11:08:19.194Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta's AI app has seen growth soar since launch of Vibes, but trails OpenAI's Sora",
+      "description": "The Meta AI app has seen a major jolt in downloads since the company launched Vibes and began paying creators to make AI-generated videos.",
+      "url": "https://www.cnbc.com/2025/10/28/meta-ai-vibes-on-wall-street-radar-in-q3-earnings-trails-openai-sora.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200607-1758197174388-gettyimages-2235448056-META_CONNECT.jpeg?v=1758739143&w=1920&h=1080",
+      "publishedAt": "2025-10-28T11:00:01Z",
+      "content": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., wears a pair of Meta Oakley Vanguard AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2… [+6419 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Anna Lagos",
+      "title": "China Dives in on the World’s First Wind-Powered Undersea Data Center",
+      "description": "The $226 million project uses ocean breezes and seawater to stay cool.",
+      "url": "https://www.wired.com/story/china-dives-in-on-the-worlds-first-wind-powered-undersea-data-center/",
+      "urlToImage": "https://media.wired.com/photos/68fab92565a13f02607aecfa/191:100/w_1280,c_limit/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
+      "publishedAt": "2025-10-28T11:00:00Z",
+      "content": "The project is environmentally sustainable in other ways. More than 95 percent of its electricity comes from offshore wind turbines. Overall, the designers estimate that this reduces energy consumpti… [+1992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Bill Gates softens 'Climate Disaster' approach, says too many resources are going to fight the problem",
+      "description": "Microsoft co-founder Bill Gates says countries and leaders need to shift their approach to climate change and focus on 'improving lives'",
+      "url": "https://www.cnbc.com/2025/10/28/bill-gates-says-countries-need-to-rethink-their-climate-strategy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194846-17570782952025-09-05t001447z_1374391004_rc2blgak2e5j_rtrmadp_0_usa-trump.jpeg?v=1757078334&w=1920&h=1080",
+      "publishedAt": "2025-10-28T10:52:45Z",
+      "content": "Microsoft co-founder Bill Gates, who wrote a book in 2021 titled, \"How to Avoid a Climate Disaster,\" now says leaders need to shift their approach to climate change.\r\nIn a letter published Tuesday ah… [+3081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "'Battered and bruised but still standing': WTO chief on global trade after tariffs",
+      "description": "The global trade system has remained resilient despite the U.S.'  introduction of import tariffs, the WTO's chief said.",
+      "url": "https://www.cnbc.com/2025/10/28/its-battered-and-bruised-but-still-standing-wto-on-global-trade.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108178098-1753742709455-gettyimages-2226818807-Qingdao_Port_Container_Trade.jpeg?v=1753742829&w=1920&h=1080",
+      "publishedAt": "2025-10-28T10:52:27Z",
+      "content": "Global trade is not broken, despite the disruption, pressure and shock of trade tariffs introduced by the U.S. this year, the head of the World Trade Organization (WTO) told CNBC Tuesday.\r\n\"Many peop… [+3402 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "PayPal partners with OpenAI to let users pay for their shopping within ChatGPT | TechCrunch",
+      "description": "Paypal said on Tuesday that it is adopting a protocol in combination with OpenAI's \"Instant Checkout\" feature to let users pay for their shopping directly within ChatGPT, starting in 2026.",
+      "url": "https://techcrunch.com/2025/10/28/paypal-partners-with-openai-to-let-users-pay-for-their-shopping-within-chatgpt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800",
+      "publishedAt": "2025-10-28T10:48:54Z",
+      "content": "Paypal said on Tuesday that it is adopting a protocol in combination with OpenAI’s “Instant Checkout” feature to let users pay for their shopping directly within ChatGPT, starting in 2026.\r\nPaypal is… [+2288 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1137,19 +1202,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -1157,6 +1209,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -1176,13 +1241,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -1202,13 +1267,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -1228,78 +1293,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "Rise of the Killer Chatbots",
-      "description": "On an airstrip somewhere in Texas, a swarm of killer jets approaches—controlled by, of all things, a large language model.",
-      "url": "https://www.wired.com/story/ai-weapon-anduril-llms-drones/",
-      "urlToImage": "https://media.wired.com/photos/68e037e07fa76797a839d2ea/191:100/w_1280,c_limit/WIRED-AI-as_WEAPON_RED.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "At a secret US military base located about 50 miles from the Mexican borderexact location: classifiedthe defense contractor Anduril is testing a remarkable new use for a large language model. I atten… [+5096 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Alex Mar",
-      "title": "The Cure",
-      "description": "Every day, millions confide in AI, exposing their most intimate problems and hoping it will fix them. This is the story of two people—and their bots—on the very edge of therapy’s new frontier.",
-      "url": "https://www.wired.com/story/ai-therapist-collective-psyche/",
-      "urlToImage": "https://media.wired.com/photos/68fa88eb3b71ab2da0002d69/191:100/w_1280,c_limit/00-opener-20251022-WIRED-117-muted-full-res-center-color.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Quentin awoke on a thin mattress, beneath a collection of scavenged blankets, in an abandoned RV deep in the Arizona desert. A young pit bull lay curled up beside them in the mid-morning light. Slidi… [+5368 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brian Merchant",
-      "title": "AI Is the Bubble to Burst Them All",
-      "description": "I talked to the scholars who literally wrote the book on tech bubbles—and applied their test.",
-      "url": "https://www.wired.com/story/ai-bubble-will-burst/",
-      "urlToImage": "https://media.wired.com/photos/68e043992e3fc9a36ea8f485/191:100/w_1280,c_limit/WIRED-AI-as_Bubble_Blue_ALT2.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In the nearly three years since AI took center stage in Silicon Valley, the major players, with the exception of Nvidia, whose chips would likely still be in use post-bust, still havent demonstrated … [+3675 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "AI’s Next Frontier? An Algorithm for Consciousness",
-      "description": "Some of the world’s most interesting thinkers about thinking think they might’ve cracked machine sentience. And I think they might be onto something.",
-      "url": "https://www.wired.com/story/ai-sentient-consciousness-algorithm/",
-      "urlToImage": "https://media.wired.com/photos/68e030e70657e0c2fe68a56d/191:100/w_1280,c_limit/WIRED-AI-as_RELIGION_RED_ALT.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "As a journalist who covers AI, I hear from countless people who seem utterly convinced that ChatGPT, Claude, or some other chatbot has achieved sentience. Or consciousness. Ormy personal favoritea mi… [+4598 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Sandra Upson",
-      "title": "How to Build an AI Startup: Go Big, Be Strange, Embrace Probable Doom",
-      "description": "Thousands of entrepreneurs are trying to rebuild the economy around AI. I set out to see how they’re actually doing it.",
-      "url": "https://www.wired.com/story/ai-startup-interview-founders/",
-      "urlToImage": "https://media.wired.com/photos/68fc00a1582abcd215b5b4af/191:100/w_1280,c_limit/WIRED-AI-as_Startup_Blue.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Earth, its said, is home to more than 10,000 AI startups. Theyre more abundant than cheetahs. They outnumber dawn redwoods. The figure is a guess, of coursestartups come, startups go. But last year, … [+3498 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     }
   ]
 }
