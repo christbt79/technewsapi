@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-29T13:47:35.049Z",
+  "fetchedAt": "2025-10-29T14:10:17.426Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Palo Alto Networks debuts automated AI agents to fight cyberattacks",
+      "description": "Palo Alto Networks launched new AI agents on Tuesday that allow customers to automate certain cybersecurity actions.",
+      "url": "https://www.cnbc.com/2025/10/28/palo-alto-networks-debuts-new-tk-agent-to-fight-cy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137406-17458547422025-03-25t214442z_1404614266_rc2jkda1kvqf_rtrmadp_0_paloalto-stocks.jpeg?v=1753825094&w=1920&h=1080",
+      "publishedAt": "2025-10-28T14:00:01Z",
+      "content": "Palo Alto Networks on Tuesday launched new artificial intelligence agents that allow customers to automate certain cybersecurity actions.\r\nThe new agents, known as Cortex AgentiX, can handle threat i… [+1295 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "TechCrunch Events",
+      "title": "TechCrunch Disrupt 2025: Day 2",
+      "description": "Second day of TechCrunch Disrupt 2025 at San Francisco's Moscone West. Here's the rundown to what to expect, including the 50% discount on passes for remainder of the event.",
+      "url": "https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
+      "publishedAt": "2025-10-28T14:00:00Z",
+      "content": "Its time for day two of TechCrunch Disrupt 2025, which means San Franciscos Moscone West will be jam-packed with another marathon of speakers, workshops, networking opportunities, and afterparties fo… [+10591 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4519dd00b2e78e5c4cce7e6c4907e3534d3f0712/2025/10/27/4eb1de46-abdb-4df6-af3f-d8aeee0223b5/google-gemini-can-now-generate-slides-and-presentations-for-you-heres-how2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-27T14:04:29Z",
       "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Gemini can now create a slide show presentation for you.</li… [+4490 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Sequoia unveils $950M in new early-stage funds as it strives to be 'only as good as our next investment'",
-      "description": "Sequoia unveils $950M in new early-stage funds as it strives to be 'only as good as our next investment'techcrunch.com",
-      "url": "https://techcrunch.com/2025/10/27/sequoia-unveils-950m-in-new-early-stage-funds-as-it-strives-to-be-only-as-good-as-our-next-investment/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Investor-wall-Sequoia.jpg?resize=1200,800",
-      "publishedAt": "2025-10-27T14:02:56Z",
-      "content": "Despite the growing chatter of an AI bubble, Sequoia Capital insists its investment approach is unswayed by the market frenzy.\r\nMarkets go up and down, but our strategy remains consistent. We’re alwa… [+3131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Qualcomm announces AI chips to compete with AMD and Nvidia",
-      "description": "The AI200, expected in 2026, and the AI250, planned for 2027, both can come in a system that fills up a full, liquid-cooled server rack, Qualcomm said.",
-      "url": "https://www.cnbc.com/2025/10/27/qualcomm-ai200-ai250-ai-chips-nvidia-amd.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139038-1746043403612-gettyimages-2183694537-DSC_1318.jpeg?v=1761572782&w=1920&h=1080",
-      "publishedAt": "2025-10-27T14:00:01Z",
-      "content": "Qualcomm announced Monday that it will release new artificial intelligence accelerator chips, marking new competition for Nvidia, which has so far dominated the market for AI semiconductors.\r\nThe AI … [+3476 chars]"
     }
   ]
 }
