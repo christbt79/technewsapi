@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-29T00:45:22.983Z",
+  "fetchedAt": "2025-10-29T02:28:13.350Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "I found 3 AI content detectors that identify AI text 100% of the time - and an even better option",
+      "description": "I've been testing AI content detectors for more than two years. And now there's an equally effective option that doesn't require a new subscription.",
+      "url": "https://www.zdnet.com/article/i-found-3-ai-content-detectors-that-identify-ai-text-100-of-the-time-and-an-even-better-option/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/33942b57297bc87bfdae0ca37fd7643be72cccb8/2025/10/27/c503c03c-9df8-46bc-9cbd-1a761e5f7198/aikey555gettyimages-2214249975.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T02:00:00Z",
+      "content": "Naron Purba/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Using an AI to do your writing is plagiarism.</li><li>Serv… [+15572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Qualcomm announces AI accelerators and mysterious racks they’ll run in",
+      "description": "House of the Snapdragon promises – without much detail – this kit will enable coolly efficient inferencing Qualcomm has announced some details of its tilt at the AI datacenter market by revealing a pair of accelerators and rack scale systems to house them, al…",
+      "url": "https://www.theregister.com/2025/10/28/qualcom_ai_accelerators/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/28/supplied_qualcomm_ai_rack.jpg",
+      "publishedAt": "2025-10-28T01:25:35Z",
+      "content": "Qualcomm has announced some details of its tilt at the AI datacenter market by revealing a pair of accelerators and rack scale systems to house them, all focused on inferencing workloads.\r\nThe compan… [+3443 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Reece Rogers",
+      "title": "Elon Musk's Grokipedia Pushes Far-Right Talking Points",
+      "description": "The new AI-powered Wikipedia competitor falsely claims that pornography worsened the AIDS epidemic and that social media may be fueling a rise in transgender people.",
+      "url": "https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/",
+      "urlToImage": "https://media.wired.com/photos/68fffc5c27ce16d6b52e8044/191:100/w_1280,c_limit/Grokipedia-Business-2212189919.jpg",
+      "publishedAt": "2025-10-28T01:22:37Z",
+      "content": "On Monday, Elon Musks xAI startup launched Grokipedia, which the billionaire is pitching as an AI-generated alternative to the crowdsourced encyclopedia Wikipedia. Musk first announced the project in… [+2490 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Elon Musk’s Grokipedia contains copied Wikipedia pages",
+      "description": "xAI’s Grokipedia, its Wikipedia-like online encyclopedia, is now live. The similarities go deeper than expected. Grokipedia’s design is pretty basic right now; like Wikipedia, the homepage is mostly just a big search bar, and entries resemble very basic Wikip…",
+      "url": "https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Screenshot-2025-10-27-at-5.35.43%E2%80%AFPM-1.png?quality=90&strip=all&crop=0%2C9.5393649537039%2C100%2C80.921270092592&w=1200",
+      "publishedAt": "2025-10-28T00:46:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSome of Grokipedias pages say that content is adapted from Wikipedia.\r\nSome of Grokipedias pages say that content is adapted from Wikipedia.\r\nby\r\nJay PetersClose… [+5575 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -851,19 +903,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "WIRED",
-      "title": "AI of a Thousand Faces",
-      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
-      "url": "https://www.wired.com/ai-issue/",
-      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "Tommy Craggs",
       "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
       "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
@@ -871,6 +910,19 @@
       "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED",
+      "title": "AI of a Thousand Faces",
+      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+      "url": "https://www.wired.com/ai-issue/",
+      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
     },
     {
       "source": {
@@ -890,13 +942,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -916,13 +968,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -942,13 +994,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4ad221fe9a06bd66fab3550d16efb82c72f11650/2025/08/27/aca4c4fe-5287-4777-8f0e-55f516fab8f3/dsc07592.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-26T13:34:00Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>eSIM management became an initial, frustrating, time-consuming challenge.</li><li>T-Mobile n… [+5778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "A week with this Samsung smart monitor convinced me I might be done with TVs",
-      "description": "The Samsung M90SF is the company's latest OLED smart monitor, and it's more than just an extension of your PC.",
-      "url": "https://www.zdnet.com/article/a-week-with-this-samsung-smart-monitor-convinced-me-i-might-be-done-with-tvs/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b0f54ebc10868aa51cf408bd3c3d6f3d96c23e1b/2025/10/24/589d5bdb-183a-4099-b3ce-20dcea672eed/dsc08425.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-26T13:26:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nThere I was: logged off of Slack, legs kicked up, and mentally prepared for the start of another exhausting but thrilling NBA season. This year'… [+4755 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "‘Never in your life buy a 5090 Founders Edition’: repair tech slams Nvidia’s flagship card design for train wreck melting 16-pin power connector",
-      "description": "The GeForce RTX 5090 Founders Edition is Nvidia’s flagship GPU, but one repair technician says it comes with a hidden flaw that makes it one of the worst designs he’s seen.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/northridge-fix-slams-flagship-nvidia-5090",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ogiiFXBptPFCENMztQEo2D-1972-80.png",
-      "publishedAt": "2025-10-26T13:09:25Z",
-      "content": "The GeForce RTX 5090 Founders Edition is Nvidia’s own-brand flagship GPU for consumers, but one repair technician says it comes with a hidden flaw that makes it “one of the worst designs in the histo… [+2448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "These 4 traits help successful people achieve their goals more often than most, Ivy League psychologist says: 'Stop writing in your journal'",
-      "description": "Achieving your long-term goals requires a lot of grit, says University of Pennsylvania psychologist and bestselling author Angela Duckworth.",
-      "url": "https://www.cnbc.com/2025/10/26/ivy-league-psychologist-these-traits-help-successful-people-achieve-goals.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215495-1761155825234-gettyimages-1138996771-rbf06905.jpeg?v=1761155840&w=1920&h=1080",
-      "publishedAt": "2025-10-26T13:05:01Z",
-      "content": "People who consistently achieve their goals have a few key traits in common, according to psychologist Angela Duckworth.\r\nDuckworth, a University of Pennsylvania professor and bestselling author, has… [+3746 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Simon Hill",
-      "title": "Google Nest Cam Indoor and Outdoor 2K Review: Slick, Smart, and Secure",
-      "description": "The latest Nest cams jump to 2K resolution, but what really elevates them is Gemini’s pricey AI subscription smarts.",
-      "url": "https://www.wired.com/review/google-nest-cam-indoor-outdoor-2k-2025/",
-      "urlToImage": "https://media.wired.com/photos/68fc3bee4445c2d5d84ab891/191:100/w_1280,c_limit/Review-%20Google%20Nest%20Cam%20Indoor%20and%20Outdoor%202K.png",
-      "publishedAt": "2025-10-26T12:30:00Z",
-      "content": "The new Nest Cam Indoor and Nest Cam Outdoor boast the easiest setup experience Ive encountered. Simply plug them in (the Nest Cam Indoor comes with a 10-foot USB-C cable, the Nest Cam Outdoor has an… [+3313 chars]"
     }
   ]
 }
