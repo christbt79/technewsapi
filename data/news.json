@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-29T22:09:08.048Z",
+  "fetchedAt": "2025-10-29T22:38:33.397Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Shayna Korol",
+      "title": "There’s a bigger story in the OpenAI for-profit news",
+      "description": "Big news for the pursuit of artificial general intelligence — or AI that’s of human-level intelligence across the board. OpenAI, which describes its mission as “ensuring that AGI benefits all of humanity,” finalized its long-in-the-works corporate restructuri…",
+      "url": "https://www.vox.com/future-perfect/466368/openai-for-profit-restructure-biodefense-valthos",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223572220.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-10-28T22:33:41Z",
+      "content": "Big news for the pursuit of artificial general intelligence or AI thats of human-level intelligence across the board. OpenAI, which describes its mission as ensuring that AGI benefits all of humanity… [+6889 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Why Jim Cramer thinks Amazon is a keeper",
+      "description": "CNBC's Jim Cramer said Amazon is a good stock to own for the long term.",
+      "url": "https://www.cnbc.com/2025/10/28/jim-cramer-amazon-keeper.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
+      "publishedAt": "2025-10-28T22:30:51Z",
+      "content": "CNBC's Jim Cramer on Tuesday explained why he's sticking with Amazon for the CNBC Investing Club's Charitable Trust, offering optimistic commentary about tech giant's future and commending its upcomi… [+3143 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025 | TechCrunch",
+      "description": "Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025 | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/slack.jpg?resize=1200,1000",
+      "publishedAt": "2025-10-28T22:19:06Z",
+      "content": "If every good startup begins with a problem, this one may have begun with a bad Slack conversation. As CEO and co-founder Tom Bachant tells it, he remembers seeing the chaos of Slack-based support th… [+2894 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025 | TechCrunch",
+      "description": "Founded by a former math teacher and Googler, Super Teacher's AI tutor is being used in public school in New York, New Jersey, and Hawaii.",
+      "url": "https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/SJrlH6OgSnq4oZil7k0J_Super20Teacher20Icon.png?w=1024",
+      "publishedAt": "2025-10-28T22:17:52Z",
+      "content": "Tutoring is one of the most effective tools for improving a child’s education, yet very few kids in the U.S. receive it. A 2023 survey of the nation’s largest school districts found that fewer than 1… [+2739 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Inside CampusAI's mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025",
+      "description": "CampusAI is like “Coursera meets GitHub meets Tinder in the metaverse” — an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
+      "url": "https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-24-at-11.39.53AM.png?resize=1200,673",
+      "publishedAt": "2025-10-28T22:17:50Z",
+      "content": "As companies push to increase efficiency and stay competitive, theyre encouraging, or in some cases outright requiring, workers to know how to use AI tools. However, the push for AI use has exposed a… [+6440 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/05/03/mask.jpg",
       "publishedAt": "2025-10-28T10:00:46Z",
       "content": "Popular chatbots powered by large language models cited links to Russian state-attributed sources in up to a quarter of answers about the war in Ukraine, raising fresh questions over whether AI risks… [+4839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Sunny Grimm",
-      "title": "China builds brain-mimicking AI server the size of a mini-fridge, claims 90% power reduction — BI Explorer 1 packs in 1,152 CPU cores and 4.8TB of memory, runs on a household power outlet",
-      "description": "China's GDIIST research institute has announced the development and soon release of the BIE-1, an AI supercomputer inspired by the operation of the human brain. This neuromorphic computing tech is one of the first standalone, non-rack-based brain-based comput…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-builds-neuromorphic-ai-server-the-size-of-a-mini-fridge-bi-explorer-1-runs-on-a-household-socket-and-contains-1-152-cpu-cores",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sS6PSzWqprKMArtPujYaP7-2560-80.jpg",
-      "publishedAt": "2025-10-28T10:00:00Z",
-      "content": "Chinese scientists have unveiled what they call the \"world's first brain-inspired computing entity,\" an AI \"supercomputer\" called the BIE-1, inspired by the operation of the human brain. While this c… [+4011 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Chris Haslam",
-      "title": "Skylight Smart Calendar Max Review: Family Planning",
-      "description": "Skylight’s massive digital calendar helps to make sense of a busy family diary, but it won’t make you organized if you aren't already.",
-      "url": "https://www.wired.com/review/skylight-smart-calendar-max/",
-      "urlToImage": "https://media.wired.com/photos/69000a15912f31ccdaa888cf/191:100/w_1280,c_limit/Review-%20Skylight%20Smart%20Calendar%20Max.png",
-      "publishedAt": "2025-10-28T09:30:00Z",
-      "content": "From my Gmail account, forwarding on emails containing dates and appointments is easy, and once I was in the habit, I did it almost subconsciously. I used to do a similar thing with important dates, … [+2684 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "Intel's revolutionary 54-year-old 4004 chip was the world's first programmable microchip — 2,300-transistor 10,000nm processor exposed",
-      "description": "A CPU collector/enthusiast has taken the top off of an Intel 4004 processor and taken pictures of the chip's insides, showing the 10,000nm chip in all its glory.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/cpu-collector-exposes-microscopic-insides-of-intels-revolutionary-4004-chip-10-000nm-chip-was-the-worlds-first-programmable-microchip-processor",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nKH6V8sXo6WytVH8aCiqYX-1920-80.jpg",
-      "publishedAt": "2025-10-28T09:30:00Z",
-      "content": "CPU collector and enthusiast CPU Duke was given the opportunity to \"pop the hood\" off Intel's first-ever multi-purpose microprocessor, the 4004. In a post on X, the CPU collector removed the top port… [+3777 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cathie Wood says humanoid robots will be the ‘biggest of all’ AI opportunities",
-      "description": "Ark Invest founder Cathie Wood on Tuesday singled out the potential for artificial intelligence to accelerate the development of humanoid robots.",
-      "url": "https://www.cnbc.com/2025/10/28/cathie-wood-humanoid-robots-will-be-biggest-of-all-ai-opportunities.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108135201-1745395184879-gettyimages-2160436537-AA_07072024_1765475.jpeg?v=1761637972&w=1920&h=1080",
-      "publishedAt": "2025-10-28T09:24:31Z",
-      "content": "An Optimus bot from Tesla on display during the 2024 World AI Conference &amp; High-Level Meeting on Global AI Governance at the Shanghai World Expo Exhibition and Convention Center on July 7, 2024.\r… [+2475 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "ARM",
-      "title": "Cloud's new performance leader: Arm beats x86",
-      "description": "AWS's Arm Neoverse-based Graviton4 chips set a new bar, beating AMD and Intel in performance and price-performance Signal65 benchmarks Partner Content  When it comes to datacenter computing, the performance gap has been turned on its head.…",
-      "url": "https://www.theregister.com/2025/10/28/clouds_new_performance_leader/",
-      "urlToImage": "https://regmedia.co.uk/2015/06/25/race_horse.jpg",
-      "publishedAt": "2025-10-28T09:00:13Z",
-      "content": "Partner Content When it comes to datacenter computing, the performance gap has been turned on its head.\r\nFor years, x86 processors from AMD and Intel were seen as the safe bets in cloud computing. Bu… [+5671 chars]"
     }
   ]
 }
