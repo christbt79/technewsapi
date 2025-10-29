@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-29T18:14:21.253Z",
+  "fetchedAt": "2025-10-29T18:47:06.470Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Why bitcoin miner CleanSpark beat Microsoft for Wyoming AI data center deal, and what it means for crypto mining's future",
+      "description": "CleanSpark, a Las Vegas-based bitcoin miner, is getting into the booming AI data center business, and rivaling big tech's power ambitions.",
+      "url": "https://www.cnbc.com/2025/10/28/bitcoin-miner-cleanspark-crypto-mining-energy-power-ai-data-center.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107115735-1662667698139-gettyimages-1240299195-CLEANSPARK_BITCOIN_GA.jpeg?v=1761666886&w=1920&h=1080",
+      "publishedAt": "2025-10-28T18:45:06Z",
+      "content": "CleanSpark, a Las Vegas based bitcoin miner, is moving into artificial intelligence, beginning to develop AI data centers alongside its crypto-mining business. The company's CEO laid out details of t… [+5196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Eli Lilly, Nvidia partner to build supercomputer, AI factory for drug discovery and development",
+      "description": "It's the latest stride by Nvidia and the pharmaceutical industry to harness AI to try to reduce costs and shorten the time it takes to bring cures to patients.",
+      "url": "https://www.cnbc.com/2025/10/28/eli-lilly-nvidia-supercomputer-ai-factory-drug-discovery.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203000-17586586822025-09-23t201605z_1719661872_rc2oxga1dwo0_rtrmadp_0_usa-lilly.jpeg?v=1758658848&w=1920&h=1080",
+      "publishedAt": "2025-10-28T18:30:59Z",
+      "content": "Eli Lilly and Nvidia are partnering to build what they call the pharmaceutical industry's \"most powerful\" supercomputer and so-called AI factory to help accelerate drug discovery and development acro… [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "ServiceNow and Nvidia say their new open-source model is built for security - here's why",
+      "description": "Worried about your business's data? Apriel 2.0 is aimed at federal agencies and tightly regulated industries like healthcare and finance that want AI agents with less risk.",
+      "url": "https://www.zdnet.com/article/servicenow-and-nvidia-say-their-new-open-source-model-is-built-for-security-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1ac625d02ae81b06ddffef24eaa3b459cce24d78/2025/10/28/4819732c-b71d-4641-ae40-55ead5122638/gettyimages-2229033397.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T18:30:00Z",
+      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ServiceNow and Nvidia have launched a new open-source AI model.… [+4246 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia and partners to build seven AI supercomputers for the U.S. gov't with over 100,000 Blackwell GPUs —combined performance of 2,200 ExaFLOPS of compute",
+      "description": "Nvidia, Oracle, and the U.S. Department of Energy will build seven ExaFLOPS-class AI supercomputers for Argonne National Laboratory — including the Oracle-built Equinox and Solstice systems with over 100,000 Blackwell GPUs delivering up to 2,200 FP4 ExaFLOPS …",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/nvidia-and-partners-to-build-seven-ai-supercomputers-for-the-u-s-govt-with-over-100-000-blackwell-gpus-combined-performance-of-2-200-exaflops-of-compute",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzkHfFLkoFeUknmz6rgz6G-1600-80.png",
+      "publishedAt": "2025-10-28T18:29:18Z",
+      "content": "Coming on the heels of the Vera Rubin-based supercomputers for Los Alamos National Laboratory, Nvidia announced on Tuesday that, together with partners, it would build seven ExaFLOPS-class AI superco… [+3169 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lorenzo Franceschi-bicchierai",
+      "title": "Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025 | TechCrunch",
+      "description": "Elloe AI promises a system capable of fact-checking AI outputs, making sure they don’t violate laws and regulations, and that they are safe for the users.",
+      "url": "https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/owen_01-forbes.jpg?resize=1200,800",
+      "publishedAt": "2025-10-28T18:24:47Z",
+      "content": "Owen Sakawa, the founder of Elloe AI, wants his platform to be the immune system for AI and the antivirus for any AI agent.  \r\nThe idea, Sakawa said in an interview days before the TechCrunch Disrupt… [+1971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "5 ways to verify your age on Google Play (and which states will see it first)",
+      "description": "Several months after AI-powered age verification rolled out to YouTube, age checks are hitting another Google service.",
+      "url": "https://www.zdnet.com/article/5-ways-to-verify-your-age-on-google-play-and-which-states-will-see-it-first/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b024779d1b40bd25e878b4964e0e2e0d2de3abd8/2025/10/28/4ac1911d-3dc4-4eb5-9618-482f42134828/playstorecolorsgettyimages-2223600563.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T18:20:50Z",
+      "content": "SOPA Images/Contributor/LightRocket via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Age verification is rolling out in the Google Play Store.</… [+2877 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025",
+      "description": "The startup’s platform is built on several modular systems that clients can purchase individually or as a complete suite.",
+      "url": "https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1247809421.jpg?resize=1200,680",
+      "publishedAt": "2025-10-28T18:20:00Z",
+      "content": "Vram Ismaliyan spent nearly 14 years at Wells Fargo, selling payment infrastructure strategies to Fortune 500 companies.  Despite being a top performer in the payments division, he felt constantly bo… [+3078 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/105886313-1608767423549-cheg.jpg?v=1683132689&w=1920&h=1080",
       "publishedAt": "2025-10-28T00:10:13Z",
       "content": "Chegg said on Monday it would lay off about 45% of its workforce, or 388 employees, as the \"new realities\" of artificial intelligence and diminished traffic from internet search have led to plummetin… [+2312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Japan's Nikkei 225 set to continue run above 50,000 as Trump meets Takaichi",
-      "description": "Trump will be the first foreign leader to meet with Takaichi in person since she assumed the top job in Japan.",
-      "url": "https://www.cnbc.com/2025/10/28/asia-stock-markets-live-tuesday-nikkei-kospi-hang-seng-trump-takaichi-japan.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217533-1761607418364-gettyimages-2243566106-0k2a0145_ip5sn3uu.jpeg?v=1761607454&w=1920&h=1080",
-      "publishedAt": "2025-10-27T23:48:38Z",
-      "content": "Japan's Nikkei 225 is set to continue its record-breaking climb above the 50,000 mark on Tuesday as U.S. President Donald Trump is set to meet with newly minted Japanese Prime Minister Sanae Takaichi… [+1158 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Roelof Botha explains why Sequoia supports Shaun Maguire after COO quit | TechCrunch",
-      "description": "Sequoia's managing partner Roelof Botha defended his colleague's controversial comments that sparked an online backlash, arguing that the VC firm needs \"spiky\" people.",
-      "url": "https://techcrunch.com/2025/10/27/roelof-botha-explains-why-sequoia-supports-shaun-maguire-after-coo-quit/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "publishedAt": "2025-10-27T23:48:10Z",
-      "content": "During an interview at TechCrunch Disrupt 2025 on Monday, Sequoia Capital managing partner Roelof Botha defended his colleague, Sequoia partner Shaun Maguire, over the controversial comments Maguire … [+2750 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "South Korea's third-quarter GDP grows at fastest pace in over a year, beating expectations",
-      "description": "According to advance estimates from Bank of Korea, GDP rose 1.7%, year on year, compared to the 1.5% expected by economists polled by Reuters.",
-      "url": "https://www.cnbc.com/2025/10/28/south-koreas-gdp-q3-beats-expectations-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215710-1761176477890-gettyimages-1243489994-SKOREA_BUSAN.jpeg?v=1761176492&w=1920&h=1080",
-      "publishedAt": "2025-10-27T23:19:18Z",
-      "content": "South Korea's economy expanded at its fastest pace in more than a year, with its third-quarter gross domestic product growth topping analysts' estimates on Tuesday.\r\nAccording to advance estimates fr… [+1994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "This week's tech earnings will steer the market's direction over the next few months, Jim Cramer says",
-      "description": "CNBC's Jim Cramer stressed the importance of upcoming earnings from Apple, Amazon, Alphabet, Meta and Microsoft.",
-      "url": "https://www.cnbc.com/2025/10/27/tech-earnings-steer-market-next-few-months-jim-cramer.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104573616-IMG_3283-jim-cramer.jpg?v=1697496723&w=1920&h=1080",
-      "publishedAt": "2025-10-27T22:53:11Z",
-      "content": "This week's earnings from major tech megacaps namely Amazon, Alphabet, Apple, Microsoft and Meta are vital to the market's performance over the next few months, CNBC's Jim Cramer said on Monday.\r\n\"We… [+3070 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "AMD, Department of Energy announce $1 billion AI supercomputer partnership",
-      "description": "AMD has sealed a $1 billion deal with the US Department of Energy to develop two supercomputers, Lux and Discovery, in collaboration with Oracle and Hewlett Packard Enterprise (HPE). Both supercomputers will live at Oak Ridge National Laboratory (ORNL) in Oak…",
-      "url": "https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,10.654292878952,100,78.691414242097",
-      "publishedAt": "2025-10-27T22:16:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOak Ridge National Laboratory is getting two new supercomputers powered by AMD chips.\r\nOak Ridge National Laboratory is getting two new supercomputers powered by… [+2822 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aria Alamalhodaei",
-      "title": "Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025",
-      "description": "Defense startup Pytho AI wants to turbocharge military mission planning and it will show off its tech at Disrupt 2025techcrunch.com",
-      "url": "https://techcrunch.com/2025/10/27/defense-startup-pytho-ai-wants-to-turbocharge-military-mission-planning-and-it-will-show-off-its-tech-at-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1601911146.jpg?resize=1200,800",
-      "publishedAt": "2025-10-27T21:48:31Z",
-      "content": "Pytho AI is coming out of stealth with an ambitious pitch to the Department of Defense: turn mission planning that takes warfighters days into a process measured in minutes.\r\nThe startup was founded … [+3562 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Mbodi will show how it can train a robot using AI agents at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "Mbodi users prompt the software with natural language, and its cluster of AI agents works to make training easier.",
-      "url": "https://techcrunch.com/2025/10/27/mbodi-will-show-how-it-can-train-a-robot-using-ai-agents-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/mbodi_logo_on_abb_robot.png?resize=1200,674",
-      "publishedAt": "2025-10-27T21:47:57Z",
-      "content": "Robots can be programmed to do a variety of tasks, like packing boxes and even performing surgery. But each individual movement or task requires its own specific training process, which makes it hard… [+3208 chars]"
     }
   ]
 }
