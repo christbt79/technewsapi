@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-29T16:12:17.150Z",
+  "fetchedAt": "2025-10-29T16:47:01.745Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Musk says Samsung's Texas fab outclasses TSMC's US-based fabs — with AI5 still in development, questions remain over whether Tesla will need advanced tools",
+      "description": "Elon Musk's statement that Samsung's Taylor, Texas fab is more advanced than TSMC's Fab 21 in Arizona reflects the newer 3nm-era tools being installed there. However, this advantage has little relevance for Tesla's AI5 processor, which likely relies on SF4A F…",
+      "url": "https://www.tomshardware.com/tech-industry/musk-says-samsungs-texas-fab-outclasses-tsmc-fab-21-with-ai5-still-in-development-questions-remain-over-whether-tesla-will-need-advanced-tools",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TdcHL2vJrbPR3aV5DhwCaB-1920-80.jpg",
+      "publishedAt": "2025-10-28T16:41:08Z",
+      "content": "Last week, Elon Musk announced that Tesla would make its next-generation AI5 processor in the U.S. and would double-source this system-on-chip from both TSMC and Samsung Foundry. This is down to Tesl… [+11360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia unveils Vera Rubin supercomputers for Los Alamos National Laboratory, total of seven new supercomputers — announcement comes on heels of AMD's recent supercomputer wins",
+      "description": "Nvidia and HPE will build the Mission and Vision supercomputers for Los Alamos based on the Vera Rubin platform to advance national-security and open-science research using AI simulation and scientific computing.",
+      "url": "https://www.tomshardware.com/tech-industry/supercomputers/nvidia-unveils-vera-rubin-supercomputers-for-los-alamos-national-laboratory-announcement-comes-on-heels-of-amds-recent-supercomputer-wins",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WafuwVWN2Nctp7334w3JfE-1600-80.jpg",
+      "publishedAt": "2025-10-28T16:40:16Z",
+      "content": "Nvidia announced at GTC that it would team up with HPE to build two new supercomputers based on its Vera Rubin platform for Los Alamos National Laboratory. The machine will be used for national secur… [+2826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "GitHub's new Agent HQ gives devs a command center for all their AI tools - why this is a huge deal",
+      "description": "GitHub just brought Codex, Claude, and Jules together in one agentic development platform. Here's how it works and why it matters.",
+      "url": "https://www.zdnet.com/article/githubs-new-agent-hq-gives-devs-a-command-center-for-all-their-ai-tools-why-this-is-a-huge-deal/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/94933b5480674665cd088813bcbaffadd34ea4c8/2025/10/28/c77a6c19-0c5f-47fa-b9c5-e5b9793aa889/github-unveils-agent-hq-a-massive-ai-upgrade-with-openai-claude-and-jules2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-28T16:36:00Z",
+      "content": "Github / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>GitHub launches Agent HQ to unite Codex, Claude, and Jules.</li><li>Devel… [+8626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Elon Musk's Grokipedia launches, filled to the brim with plagiarism and AI slop",
+      "description": "Scratch Grokipedia and Wikipedia bleeds What do you do if you're the richest man on Earth and don't like Wikipedia? Start your own imitation encyclopedia, call it Grokipedia, lift a bunch of pages from the site, and let AI fill in the rest. Obviously, that's …",
+      "url": "https://www.theregister.com/2025/10/28/elon_musks_grokipedia_launches/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_1575538918.jpg",
+      "publishedAt": "2025-10-28T16:33:14Z",
+      "content": "What do you do if you're the richest man on Earth and don't like Wikipedia? Start your own imitation encyclopedia, call it Grokipedia, lift a bunch of pages from the site, and let AI fill in the rest… [+2781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Forrester warns AI bubble to deflate as enterprises defer spending to 2027",
+      "description": "Gap between vendor promises and business results set to trigger market correction, research firm predicts\nai-pocalypse Bubble, meet pin. Large organizations are set to defer a quarter of planned AI spending from next year until 2027, forcing a market correcti…",
+      "url": "https://www.theregister.com/2025/10/28/forrester_ai_spending/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_bubbles.jpg",
+      "publishedAt": "2025-10-28T16:28:57Z",
+      "content": "ai-pocalypse Bubble, meet pin. Large organizations are set to defer a quarter of planned AI spending from next year until 2027, forcing a market correction.\r\nThis is according to research firm Forres… [+3283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "GitHub unites OpenAI, Google and Anthropic AI agents in one place to bring 'order to the chaos'",
+      "description": "Microsoft's GitHub announced Agent HQ, a new platform that will allow software developers to steer and monitor the work of multiple agents.",
+      "url": "https://www.cnbc.com/2025/10/28/github-openai-google-anthropic-agents-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216551-1761309809783-gettyimages-2242650147-MICROSOFT_EARNS.jpeg?v=1761309838&w=1920&h=1080",
+      "publishedAt": "2025-10-28T16:27:57Z",
+      "content": "Microsoft's GitHub unit on Tuesday announced Agent HQ, a new \"mission control\" interface that will allow software developers to manage coding agents from multiple vendors on a single platform. \r\nAn a… [+1795 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "You’ll be able to pay with PayPal in ChatGPT next year",
+      "description": "PayPal announced today that you’ll be able to use its wallet to make purchases directly through ChatGPT beginning sometime in 2026. The recently-added Instant Checkout feature in ChatGPT will have an option to pay with PayPal, using the same interface you alr…",
+      "url": "https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/PayPal.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-28T16:13:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPayPal is the first digital wallet to land on ChatGPT.\r\nPayPal is the first digital wallet to land on ChatGPT.\r\nby\r\nStevie BonifieldClose\r\nStevie Bonifield\r\nPost… [+2349 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/FitbitGeminiCoach-preview.png?w=1200",
       "publishedAt": "2025-10-27T19:11:50Z",
       "content": "Fitbits new Gemini-powered health coach, announced back in August, is becoming available as a public preview to Premium subscribers in the U.S. on Android starting tomorrow. It expands to iOS later t… [+2494 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "HPE's Discovery to succeed Frontier supercomputer with next-gen Cray tech",
-      "description": "Oak Ridge's $500M system due in 2028, paired with a separate Lux AI cluster arriving two years earlier\nHPE is set to build a successor to the Frontier exascale system for America's Oak Ridge National Laboratory, based on the next generation of its Cray superc…",
-      "url": "https://www.theregister.com/2025/10/27/hpe_discovery_frontier_successor/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/27/ornlgx3dsystemmockup.jpg",
-      "publishedAt": "2025-10-27T19:00:14Z",
-      "content": "HPE is set to build a successor to the Frontier exascale system for America's Oak Ridge National Laboratory, based on the next generation of its Cray supercomputer platform, plus a separate AI cluste… [+4360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI is driving huge productivity gains for large companies while small companies get left behind",
-      "description": "Artificial intelligence is widening the productivity gap between the large and small companies, furthering the 'K-shaped economy' phenomenon.",
-      "url": "https://www.cnbc.com/2025/10/27/ai-is-driving-huge-productivity-gains-for-large-companies-while-small-companies-get-left-behind.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107149970-1668107389320-gettyimages-1244666704-AMAZON_FUTURE.jpeg?v=1668107670&w=1920&h=1080",
-      "publishedAt": "2025-10-27T18:47:00Z",
-      "content": "Artificial intelligence is widening the productivity gap between large and small companies, lifting up bigger firms that are able to effectively scale the technology and cut costs tie to human worker… [+3394 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "Skyline Nav AI's software can guide you anywhere, without GPS — find it at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "The company's so-called Pathfinder software can look at almost anything — buildings, tree-lined roads, even aerial views — and quickly match it to a database and generate real-time navigation.",
-      "url": "https://techcrunch.com/2025/10/27/skyline-nav-ais-software-can-guide-you-anywhere-without-gps-find-it-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-889811488.jpg?resize=1200,782",
-      "publishedAt": "2025-10-27T18:18:29Z",
-      "content": "You’re lost. Even worse, there’s no cell signal. The last thing keeping you from fully freaking out is that little blue dot — the universal sign that, somewhere up above, a GPS satellite has eyes on … [+4529 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Oxford spinout RADiCAIT uses AI to make diagnostic imaging more affordable and accessible — catch it at TechCrunch Disrupt 2025",
-      "description": "“What we really do is we took the most constrained, complex, and costly medical imaging solution in radiology, and we supplanted it with what is the most accessible, simple and affordable, which is CT,” Sean Walsh, RADiCAIT’s CEO told TechCrunch.",
-      "url": "https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/image-6.png?resize=1200,992",
-      "publishedAt": "2025-10-27T18:18:09Z",
-      "content": "If you’ve ever had a PET scan, you know it’s an ordeal. The scans help doctors detect cancer and track its spread, but the process itself is a logistical nightmare for patients. \r\nIt starts with fast… [+4854 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025",
-      "description": "Biotech Nephrogen combines AI and gene therapy to reverse kidney disease — check it out at TechCrunch Disrupt 2025techcrunch.com",
-      "url": "https://techcrunch.com/2025/10/27/biotech-nephrogen-combines-ai-and-gene-therapy-to-reverse-kidney-disease-check-it-out-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-450853983.jpg?resize=1200,800",
-      "publishedAt": "2025-10-27T18:18:08Z",
-      "content": "When Demetri Maxim was seven years old, his mothers kidneys stopped working. She was put on dialysis, which meant that she had to go to the hospital four times a week to have her blood filtered by a … [+2669 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "COI Energy solves a conundrum: Letting businesses sell unused electricity — catch it at TechCrunch Disrupt 2025 | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/27/coi-energy-solves-a-conundrum-letting-businesses-sell-unused-electricity-catch-it-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/COI-Energy-founder-SaLisa-Berrien.jpg?resize=1200,960",
-      "publishedAt": "2025-10-27T18:17:29Z",
-      "content": "When it comes to supplying electricity to large enterprises with multi-building campuses, the allocation system is archaic. Unlike homeowners, who pay for what they actually use, campuses buy a stand… [+4622 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nilay Patel",
-      "title": "LexisNexis CEO says the AI law era is already here",
-      "description": "Today, I’m talking with Sean Fitzpatrick, the CEO of LexisNexis, one of the most important companies in the entire legal system. For years — including when I was in law school — LexisNexis was basically the library. It’s where you went to look up case law, do…",
-      "url": "https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD-Sean-Fitzpatrick_final.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "publishedAt": "2025-10-27T17:51:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSean Fitzpatrick promises his AI wont get you in trouble with a judge.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from this author will be added to your daily ema… [+55617 chars]"
     }
   ]
 }
