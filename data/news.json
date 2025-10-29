@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-29T21:34:24.961Z",
+  "fetchedAt": "2025-10-29T22:09:08.048Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power | TechCrunch",
+      "description": "Geothermal startup Mazama Energy said it drilled a borehole that set a temperature record. Such superhot rocks could make geothermal a key player in data center power.",
+      "url": "https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
+      "publishedAt": "2025-10-28T21:50:33Z",
+      "content": "As grids come under strain from growing demand from data centers and EVs, geothermal startups have been racing to unlock energy that lurks deep within the Earth. Now, one startup has developed the wo… [+2224 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2015/06/25/race_horse.jpg",
       "publishedAt": "2025-10-28T09:00:13Z",
       "content": "Partner Content When it comes to datacenter computing, the performance gap has been turned on its head.\r\nFor years, x86 processors from AMD and Intel were seen as the safe bets in cloud computing. Bu… [+5671 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Ark Invest CEO Cathie Wood flags AI market correction risk: 'We think there will be a reality check'",
-      "description": "ARK Invest CEO Cathie Wood on Tuesday pushed back on fears of an artificial intelligence bubble.",
-      "url": "https://www.cnbc.com/2025/10/28/cathie-wood-flags-market-correction-risk-but-rejects-ai-bubble-fears.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&w=1920&h=1080",
-      "publishedAt": "2025-10-28T07:32:52Z",
-      "content": "ARK Invest CEO Cathie Wood on Tuesday pushed back on fears of an artificial intelligence bubble, while flagging the possibility of a \"reality check\" on AI valuations.\r\nSpeaking to CNBC's Dan Murphy o… [+1187 chars]"
     }
   ]
 }
