@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-29T17:38:55.822Z",
+  "fetchedAt": "2025-10-29T18:14:21.253Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Jensen Huang says Nvidia's AI chips are now being manufactured in Arizona",
+      "description": "Previously, Nvidia's fastest GPUs were solely manufactured in Taiwan.",
+      "url": "https://www.cnbc.com/2025/10/28/nvidia-jensen-huang-gtc-washington-dc-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217917-1761667541425-gettyimages-2243371156-NVIDIA_AI_KEYNOTE.jpeg?v=1761667666&w=1920&h=1080",
+      "publishedAt": "2025-10-28T18:01:34Z",
+      "content": "Jensen Huang, chief executive officer of Nvidia Corp., speaks to members of the media prior to the keynote address at the Nvidia AI summit in Washington, DC, US, on Tuesday, Oct. 28, 2025. \r\nNvidia C… [+6149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "OpenAI and Microsoft sign agreement to restructure OpenAI into a public benefit corporation with Microsoft retaining 27% stake — non-profit 'Open AI Foundation' to oversee 'Open AI PBC'",
+      "description": "OpenAI is restructuring into a public benefit corporation with Microsoft retaining a 27% stake in the new \"OpenAI PBC,\" worth roughly $135 billion. OpenAI PBC will still be overseen by the non-profit OpenAI Inc., soon to be renamed OpenAI Foundation. Both com…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-sign-agreement-to-restructure-openai-into-a-public-benefit-corporation-with-microsoft-retaining-27-percent-stake-non-profit-open-ai-foundation-to-oversee-open-ai-pbc",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3EJozH85guJFiELF2KMrf3-960-80.webp",
+      "publishedAt": "2025-10-28T18:00:52Z",
+      "content": "OpenAI has been at the forefront of the rapidly expanding artificial intelligence industry for years, with ChatGPT largely responsible for ushering in this new era of technology. Microsoft was an ear… [+4215 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI",
+      "description": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGItechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243821602.jpg?resize=1200,800",
+      "publishedAt": "2025-10-28T17:48:10Z",
+      "content": "Vinod Khosla has a bold vision for how society could be reconfigured to share the abundance created by AI technology. Speaking at the TechCrunch Disrupt 2025 conference on Tuesday, the Khosla Venture… [+1910 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/mbodi_logo_on_abb_robot.png?resize=1200,674",
       "publishedAt": "2025-10-27T21:47:57Z",
       "content": "Robots can be programmed to do a variety of tasks, like packing boxes and even performing surgery. But each individual movement or task requires its own specific training process, which makes it hard… [+3208 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Spotify finally brings video podcasts and music videos to its Apple TV app",
-      "description": "Spotify has announced a redesigned version of its Apple TV app that the company says has been “rebuilt from the ground up for a faster, smarter, more visual experience.” The tvOS version of the Spotify app is also gaining several welcome features from the mob…",
-      "url": "https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/spotify_1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "publishedAt": "2025-10-27T20:57:08Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe tvOS version of the Spotify app has been redesigned and gains features like lyrics and queue management.\r\nThe tvOS version of the Spotify app has been redesi… [+3362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI says U.S. needs more power to stay ahead of China in AI: 'Electrons are the new oil'",
-      "description": "OpenAI urged the White House to substantially increase the U.S.' investment in new energy capacity",
-      "url": "https://www.cnbc.com/2025/10/27/open-ai-power-china.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203074-1758667426196-gettyimages-2236544160-STARGATE_DATA_CENTER.jpeg?v=1761594603&w=1920&h=1080",
-      "publishedAt": "2025-10-27T20:38:46Z",
-      "content": "OpenAI on Monday said the U.S. needs to substantially ramp up its investment in new energy capacity if it wants to stay ahead of China in the race to develop artificial intelligence.\r\nThe startup has… [+1247 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "Robotaxi companies must do more to prove safety, Waymo co-CEO says | TechCrunch",
-      "description": "Waymo co-CEO Tekedra Mawakana urged rival autonomous vehicle companies to be more transparent about their safety data.",
-      "url": "https://techcrunch.com/2025/10/27/robotaxi-companies-must-do-more-to-prove-safety-waymo-co-ceo-says/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_4239.jpg?resize=1200,900",
-      "publishedAt": "2025-10-27T20:29:11Z",
-      "content": "Waymo co-CEO Tekedra Mawakana believes other companies working on autonomous vehicles need to do more to prove their technology is safe, she said during an interview at TechCrunch Disrupt 2025.\r\nMawa… [+2077 chars]"
     }
   ]
 }
