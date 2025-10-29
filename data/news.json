@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-29T07:10:04.715Z",
+  "fetchedAt": "2025-10-29T07:36:35.942Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Ark Invest CEO Cathie Wood flags AI market correction risk: 'We think there will be a reality check'",
+      "description": "ARK Invest CEO Cathie Wood on Tuesday pushed back on fears of an artificial intelligence bubble.",
+      "url": "https://www.cnbc.com/2025/10/28/cathie-wood-flags-market-correction-risk-but-rejects-ai-bubble-fears.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&w=1920&h=1080",
+      "publishedAt": "2025-10-28T07:32:52Z",
+      "content": "ARK Invest CEO Cathie Wood on Tuesday pushed back on fears of an artificial intelligence bubble, while flagging the possibility of a \"reality check\" on AI valuations.\r\nSpeaking to CNBC's Dan Murphy o… [+1187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Hopes of a U.S.-China deal spark a rally",
+      "description": "U.S. markets hit highs on the prospect of a U.S.-China trade deal. And that's before an agreement has been signed officially.",
+      "url": "https://www.cnbc.com/2025/10/28/cnbc-daily-open-hopes-of-a-us-china-deal-sparks-rally.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105995692-1561897232478trump-xi.jpg?v=1561897441&w=1920&h=1080",
+      "publishedAt": "2025-10-28T07:30:01Z",
+      "content": "The mere prospect of a U.S.-China trade deal is enough to send markets higher.\r\nOn Monday stateside, the S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite closed at record highs with the… [+3249 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Mining execs embrace 'phenomenal' rare earths interest from the Middle East",
+      "description": "Mining executives have welcomed bumper investor interest in critical minerals from the Middle East.",
+      "url": "https://www.cnbc.com/2025/10/28/rare-earths-mining-firms-embrace-bumper-interest-from-the-middle-east.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217161-1761569944067-gettyimages-2243454102-cr1_4231_hxpwfilu.jpeg?v=1761570011&w=1920&h=1080",
+      "publishedAt": "2025-10-28T07:12:59Z",
+      "content": "Guests enjoy the Fortune Global Forum 2025 Gala Dinner on October 26, 2025 at Diriyah Gate, Riyadh, Saudi Arabia.\r\nMining executives have welcomed a sharp upswing in investor interest from the Middle… [+5011 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -955,19 +994,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "WIRED",
-      "title": "AI of a Thousand Faces",
-      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
-      "url": "https://www.wired.com/ai-issue/",
-      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "Tommy Craggs",
       "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
       "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
@@ -975,6 +1001,19 @@
       "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "WIRED",
+      "title": "AI of a Thousand Faces",
+      "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
+      "url": "https://www.wired.com/ai-issue/",
+      "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
     },
     {
       "source": {
@@ -994,13 +1033,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
@@ -1020,13 +1059,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -1046,13 +1085,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1224111372_9d6ea2.jpg?resize=1200,777",
       "publishedAt": "2025-10-26T19:38:39Z",
       "content": "Apple Maps users could start seeing ads in the app as soon as next year, according to a new report from Bloombergs Mark Gurman.\r\nSimilar to Google Maps and other mapping apps, Apples plan is to allow… [+579 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "TechCrunch Disrupt 2025 begins in less than 24 hours — catch our last ticket deals",
-      "description": "The countdown is almost over — tomorrow’s the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 27–29, 10,000 founders, investors, and innovators will flood San Francisco for three days of building, connecting, and deal…",
-      "url": "https://techcrunch.com/2025/10/26/techcrunch-disrupt-2025-begins-in-less-than-24-hours-catch-our-last-ticket-deals/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
-      "publishedAt": "2025-10-26T18:57:28Z",
-      "content": "The countdown is almost over tomorrows the day! In less than 24 hours, TechCrunch Disrupt 2025 takes over Moscone West. From October 2729, 10,000 founders, investors, and innovators will flood San Fr… [+4552 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "TechCrunch Mobility: The 'robot army' argument | TechCrunch",
-      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "url": "https://techcrunch.com/2025/10/26/techcrunch-mobility-the-robot-army-argument/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/musk-promises-2024.jpg?resize=1200,800",
-      "publishedAt": "2025-10-26T16:06:03Z",
-      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nI am sure… [+8238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "US–China reach trade framework that could avert 100% tariffs and pause rare-earth curbs — development comes as Trump and Xi prepare to meet this week",
-      "description": "US and Chinese trade negotiators say they’ve reached a framework agreement that, if approved by both governments this week, would roll back proposed 100% tariffs on Chinese imports and pause Beijing’s escalating export restrictions on rare-earth materials.",
-      "url": "https://www.tomshardware.com/tech-industry/us-china-trade-framework-could-avoid-tariffs-and-rare-earth-curbs",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
-      "publishedAt": "2025-10-26T15:42:02Z",
-      "content": "US and Chinese trade negotiators say they’ve reached a framework agreement that, if approved by both governments this week, would roll back proposed 100% tariffs on Chinese imports and pause Beijing’… [+3041 chars]"
     }
   ]
 }
