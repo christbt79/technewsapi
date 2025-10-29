@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-10-29T07:36:35.942Z",
+  "fetchedAt": "2025-10-29T08:13:31.114Z",
   "articles": [
     {
       "source": {
@@ -994,19 +994,6 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Tommy Craggs",
-      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
-      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
-      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
-      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
-      "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
       "author": "WIRED",
       "title": "AI of a Thousand Faces",
       "description": "What happens now that AI is everywhere and in everything? WIRED can’t tell the future, but we can try to make sense of it. Behold: 17 readings from the furthest reaches of the AI age.",
@@ -1014,6 +1001,19 @@
       "urlToImage": "https://media.wired.com/photos/68faaefe196a5b8bbe906187/191:100/w_1280,c_limit/AI-thousand-faces-thumb.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Hundreds of millions of people use it. Trillions of dollars fuel it. In 2025, the conversation around AI turned from what it could be to what it is: Large language models are now everywhere, in our s… [+441 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Tommy Craggs",
+      "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+      "description": "He’s one of the loudest voices of the AI haters—even as he does PR for AI companies. Either way, Ed Zitron has your attention.",
+      "url": "https://www.wired.com/story/ai-pr-ed-zitron-profile/",
+      "urlToImage": "https://media.wired.com/photos/68fb9ff84f886f50f060be36/191:100/w_1280,c_limit/Ed-Zitron-2x1-1.jpg",
+      "publishedAt": "2025-10-27T10:00:00Z",
+      "content": "In his day job, Ed Zitron runs a boutique public relations firm called EZPR. This might surprise anyone who has come to know Zitron through his podcast or his social media or the newsletter in which … [+4536 chars]"
     },
     {
       "source": {
@@ -1033,13 +1033,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Steven Levy",
-      "title": "Why AI Breaks Bad",
-      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
-      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
-      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
+      "author": "Paul Ford",
+      "title": "The Argument for Letting AI Burn It All Down",
+      "description": "When the AI bubble bursts, the nerds will do their best work.",
+      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
+      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
+      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
     },
     {
       "source": {
@@ -1059,13 +1059,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Paul Ford",
-      "title": "The Argument for Letting AI Burn It All Down",
-      "description": "When the AI bubble bursts, the nerds will do their best work.",
-      "url": "https://www.wired.com/story/ai-normal-after-ai-plateaus/",
-      "urlToImage": "https://media.wired.com/photos/68e83fefb02e55ff56b21b54/191:100/w_1280,c_limit/WIRED-AI-as_Normal_Blue_2.jpg",
+      "author": "Sheon Han",
+      "title": "AI and the End of Accents",
+      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
+      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
+      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "Suddenly, and not long ago, our dearest tech industry leaders began to suggest caution. Sam Altman said that AI is in a bubble for sure, albeit one formed around a kernel of truth. Mark Zuckerberg sa… [+3018 chars]"
+      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
     },
     {
       "source": {
@@ -1085,13 +1085,13 @@
         "id": "wired",
         "name": "Wired"
       },
-      "author": "Sheon Han",
-      "title": "AI and the End of Accents",
-      "description": "I sound Korean—because I am Korean. Can AI make me sound American?",
-      "url": "https://www.wired.com/story/ai-americanizer-end-accents/",
-      "urlToImage": "https://media.wired.com/photos/68e04a3145b931ea873e448a/191:100/w_1280,c_limit/WIRED-AI-as_AMERICANIZER_RED_ALT1.jpg",
+      "author": "Steven Levy",
+      "title": "Why AI Breaks Bad",
+      "description": "Once in a while, LLMs turn evil—and no one quite knows why.",
+      "url": "https://www.wired.com/story/ai-black-box-interpretability-problem/",
+      "urlToImage": "https://media.wired.com/photos/68fb1f5f2aa19db24bcdc4ab/191:100/w_1280,c_limit/WIRED_AI-Blackbox_Opener_Final.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
-      "content": "It all began, as these things often do, with an Instagram ad. No one tells you this if youre an immigrant, but accent discrimination is a real thing, said a woman in the video. Her own accent is fain… [+3518 chars]"
+      "content": "Still, the models are improving much faster than the efforts to understand them. And the Anthropic team admits that as AI agents proliferate, the theoretical criminality of the lab grows ever closer … [+2929 chars]"
     },
     {
       "source": {
