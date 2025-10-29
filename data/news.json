@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-29T10:10:31.943Z",
+  "fetchedAt": "2025-10-29T10:42:05.198Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon laying off about 14,000 corporate workers as it invests more in AI",
+      "description": "The company said it's cutting roles in order to help make the company leaner and less bureaucratic, while it looks to invest in generative AI.",
+      "url": "https://www.cnbc.com/2025/10/28/amazon-layoffs-corporate-workers-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217469-1761596968439-gettyimages-2221389323-AFP_63TY9KL.jpeg?v=1761597002&w=1920&h=1080",
+      "publishedAt": "2025-10-28T10:31:57Z",
+      "content": "Amazon said Tuesday that it will lay off about 14,000 corporate employees, marking the latest cuts in the company's multi-year effort to rein in costs.\r\nIn a blog post, the company wrote that the lay… [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Katie Drummond",
+      "title": "Why Nicholas Thompson Made a Custom GPT to Run Faster",
+      "description": "The Atlantic CEO’s new book, The Running Ground, examines his complicated relationship with the sport. On this week’s episode of “The Big Interview,” he talks about the ways tech is helping him become a better runner.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-nicholas-thompson/",
+      "urlToImage": "https://media.wired.com/photos/68f2d44889fd0a7e7062ae7c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Nick-Thompson-Business-2183750049.jpg",
+      "publishedAt": "2025-10-28T10:30:00Z",
+      "content": "To most of the world, Nicholas Tompson is known as an editor, an AI enthusiast, or something of a LinkedIn influencer. But the former WIRED editor in chief, who is now CEO of The Atlantic, is often b… [+1992 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Elon Musk’s AI-powered Wikipedia competitor goes live after a rocky launch",
+      "description": "Elon Musk has launched an early version of a new AI-powered encyclopedia called 'Grokipedia,' which he posing as a competitor to the popular Wikipedia.",
+      "url": "https://www.cnbc.com/2025/10/28/elon-musks-ai-wikipedia-competitor-grokipedia-goes-live.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108174052-1752860819446-gettyimages-2224956920-kokovlis-notitle250718_nprWp.jpeg?v=1752860919&w=1920&h=1080",
+      "publishedAt": "2025-10-28T10:29:27Z",
+      "content": "Elon Musk launched an early version of an AI-powered encyclopedia called 'Grokipedia' on Monday, with its website temporarily crashing before coming back online hours later. \r\nThe new AI service, nam… [+3334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "SK hynix unveils AI NAND strategy, including gargantuan petabyte-class QLC SSDs — ultra-fast HBF and 100M IOPS SSDs also in the pipeline",
+      "description": "SK hynix introduced its AI NAND lineup — AIN D, AIN P, and AIN B — at the 2025 Global Summit, outlining a new strategy to deliver high-density, high-performance, and high-bandwidth storage tailored for AI servers and workloads.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-unveils-ai-nand-strategy-including-gargantuan-petabyte-class-qlc-ssds-ultra-fast-hbf-and-100m-iops-ssds-also-in-the-pipeline",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QjxKDzTuq3XLjGn4tzfwWX-1280-80.png",
+      "publishedAt": "2025-10-28T10:18:38Z",
+      "content": "SK hynix last week used the 2025 Global Summit to reveal its AI NAND strategy and AIN storage products aimed at artificial intelligence applications. While AI systems have historically used storage d… [+4147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "PayPal signs deal with OpenAI to become the first payments wallet in ChatGPT",
+      "description": "The move makes PayPal an early part of OpenAI's efforts to broaden ChatGPT's use for e-commerce.",
+      "url": "https://www.cnbc.com/2025/10/28/paypal-openai-chatgpt-payments-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108039286-1727296965061-Alex-Chriss.jpg?v=1727297019&w=1920&h=1080",
+      "publishedAt": "2025-10-28T10:15:01Z",
+      "content": "PayPal has signed a deal with OpenAI to have its digital wallet embedded into ChatGPT so users can pay for items found through the leading consumer AI tool, the company told CNBC exclusively. \r\nThe a… [+2140 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fc00a1582abcd215b5b4af/191:100/w_1280,c_limit/WIRED-AI-as_Startup_Blue.jpg",
       "publishedAt": "2025-10-27T10:00:00Z",
       "content": "Earth, its said, is home to more than 10,000 AI startups. Theyre more abundant than cheetahs. They outnumber dawn redwoods. The figure is a guess, of coursestartups come, startups go. But last year, … [+3498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Saudi Arabia poised to become AI data center hub, says Groq CEO",
-      "description": "Jonathan Ross, the CEO of AI chip company Groq, told CNBC that the Middle East is \"the ideal place\" for data centers.",
-      "url": "https://www.cnbc.com/2025/10/27/saudi-arabia-poised-to-become-ai-data-center-hub-groq-ceo-at-fii.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167952-1751619868648-gettyimages-2154742340-GENAI_SUMMIT.jpeg?v=1761555978&w=1920&h=1080",
-      "publishedAt": "2025-10-27T09:53:33Z",
-      "content": "Saudi Arabia is primed to become a hotspot for artificial intelligence infrastructure thanks to its surplus in energy, according to Groq CEO Jonathan Ross.\r\nThe Middle Eastern country is known for it… [+1422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Steven J. Vaughan-Nichols",
-      "title": "The Chinese Box and Turing Test: Is AI really intelligent?",
-      "description": "No, it's just good at mass-production copy and paste. And yes, we're correctly applying Betteridge's Law\nOpinion Remember ELIZA? The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and can…",
-      "url": "https://www.theregister.com/2025/10/27/ai_intelligence_opinion/",
-      "urlToImage": "https://regmedia.co.uk/2022/06/17/aibrain.jpg",
-      "publishedAt": "2025-10-27T09:00:09Z",
-      "content": "Opinion Remember ELIZA? The 1966 chatbot from MIT's AI Lab convinced countless people it was intelligent using nothing but simple pattern matching and canned responses. Nearly 60 years later, ChatGPT… [+4672 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matt Burgess, Natasha Bernal",
-      "title": "Chatbots Are Pushing Sanctioned Russian Propaganda",
-      "description": "ChatGPT, Gemini, DeepSeek, and Grok are serving users propaganda from Russian-backed media when asked about the invasion of Ukraine, new research finds.",
-      "url": "https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/",
-      "urlToImage": "https://media.wired.com/photos/68fbfd7f131861cc7f65b812/191:100/w_1280,c_limit/Chatbots-Pushing-Russian-Sanctioned-Propaganda-Business.jpg",
-      "publishedAt": "2025-10-27T09:00:00Z",
-      "content": "OpenAIs ChatGPT, Googles Gemini, DeepSeek, and xAIs Grok are pushing Russian state propaganda from sanctioned entitiesincluding citations from Russian state media, sites tied to Russian intelligence … [+2695 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Ready to ditch Windows? I found a powerful mini PC that's optimized for Linux",
-      "description": "The Kubuntu Focus NX Gen 3 comes preloaded with one of my favorite Linux distributions and takes only minutes to set up.",
-      "url": "https://www.zdnet.com/article/ready-to-ditch-windows-i-found-a-powerful-mini-pc-thats-optimized-for-linux/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8fd6b42d25332cfb0fa1f5412a58a769c138ef56/2025/10/07/256fecb2-bf39-4462-ac7d-66787e91af68/focus3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-27T08:00:34Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nAny chance I can get to review a Linux-powered PC, I'm thrilled to do so. It's not only because I get to experience how a third party approaches… [+5140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "I was not expecting these Dell wireless earbuds to be this good right out of the box",
-      "description": "The Dell Pro Plus earbuds provide outstanding call clarity, solid noise reduction, and a marathon battery - ideal for hybrid and office work.",
-      "url": "https://www.zdnet.com/article/i-was-not-expecting-these-dell-wireless-earbuds-to-be-this-good-right-out-of-the-box/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/30243f940c74ea6a2032ee55552785132068c323/2025/10/14/13d09b5c-e630-4fe9-a6d9-f0894bd02cc3/dell-pro-plus-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-27T02:00:32Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nDell is breaking into new ground with the recent launch of its first-ever wireless earbuds: the Dell Pro Plus. While they can certainly be used … [+5800 chars]"
     }
   ]
 }
