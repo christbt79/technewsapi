@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-30T07:09:29.224Z",
+  "fetchedAt": "2025-10-30T07:34:07.400Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "I tested HP's latest OmniBook, and it feels more premium than its price would suggest",
+      "description": "HP's OmniBook X Flip 14 delivers a premium experience for the everyday user, but different configurations are more optimal than others.",
+      "url": "https://www.zdnet.com/article/i-tested-hps-latest-omnibook-and-it-feels-more-premium-than-its-price-would-suggest/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1ea16bbb44629e47c4e84e488706b0c1619bad31/2025/09/12/2a187752-db60-4c9d-ba90-9d4d24d596e9/dsc03924.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T07:30:35Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nHP's OmniBook Flip series has impressed us here at ZDNET this past year, stepping up as affordable, versatile laptops for a variety of everyday … [+6456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Rallies and tech 'revolution' — all powered by AI",
+      "description": "Investors can't get enough of AI, despite worries over high valuations — and tech companies can't get enough of each other, either.",
+      "url": "https://www.cnbc.com/2025/10/29/cnbc-daily-open-rallies-and-tech-revolution-all-powered-by-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218351-1761716905088-gettyimages-2153474326-AFP_34TH9TL.jpeg?v=1761716921&w=1920&h=1080",
+      "publishedAt": "2025-10-29T07:30:01Z",
+      "content": "Investors can't get enough of artificial intelligence, despite worries over the sector's excessively high valuations.\r\nThe S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite rose Tuesday … [+3204 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/GenFill.jpg?quality=90&strip=all&crop=0%2C10.039024626721%2C85.866662597656%2C79.921950746558&w=1200",
       "publishedAt": "2025-10-28T11:58:49Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAdobes Creative Cloud and Firefly apps are adding new ways to do labor-intensive photo and video editing tasks for you.\r\nAdobes Creative Cloud and Firefly apps a… [+3783 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle, Jess Weatherbed",
-      "title": "Adobe’s AI social media admin is here with ‘Project Moonlight’",
-      "description": "As Adobe builds AI assistants into each of its applications, the company is also building an AI agent on its Firefly platform to act as a centralized creative director for social media campaigns. Project Moonlight’s chatbot integrates with Adobe’s creative so…",
-      "url": "https://www.theverge.com/news/807457/adobe-ai-agent-project-moonlight",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/ProjectMoonlight.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-28T11:55:02Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nProject Moonlight can draw inspiration from a users social media presence and Adobe project history.\r\nProject Moonlight can draw inspiration from a users social … [+3638 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Janus Rose",
-      "title": "Privacy laws can’t keep up with ‘luxury surveillance’",
-      "description": "With Meta's new range of smart glasses, Mark Zuckerberg is pitching a vision of the future that sci-fi authors have been warning about for decades - one where privacy is truly dead, and everyone is recording everyone else at all times. This in itself is nothi…",
-      "url": "https://www.theverge.com/tech/807834/meta-smart-glasses-privacy-laws-wearables",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-28T11:53:11Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWith Metas new smart glasses, social shaming is still more powerful than the law.\r\nWith Metas new smart glasses, social shaming is still more powerful than the l… [+14455 chars]"
     }
   ]
 }
