@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-30T18:12:58.071Z",
+  "fetchedAt": "2025-10-30T18:47:04.919Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape | TechCrunch",
+      "description": "He painted a picture of a future of enterprise software where the SaaS is used for the core business workflow, and then the agents ride on top of that.",
+      "url": "https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/54888689454_eb7571a628_k.jpg?resize=1200,800",
+      "publishedAt": "2025-10-29T18:45:55Z",
+      "content": "Box co-founder and CEO Aaron Levie doesn’t think AI agents will replace enterprise SaaS (software as a service) companies. Instead, he believes that the more likely future is a hybrid combination of … [+2417 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "San Francisco mayor: 'We should be the testbed for emerging tech' | TechCrunch",
+      "description": "While San Francisco's mayor Daniel Lurie is opening his arms to autonomous vehicles, other cities are more resistant. Boston, for instance, has considered a ban on autonomous vehicles in the city.",
+      "url": "https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/lurie-disrupt.jpg?resize=1200,800",
+      "publishedAt": "2025-10-29T18:38:55Z",
+      "content": "Waymo and Zoox robotaxis are a regular sight on San Francisco streets and soon Uber, through a partnership with Lucid and Nuro, will descend on the city as well. It is exactly how San Francisco Mayor… [+1616 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brad Bourque",
+      "title": "The Pixel Watch 3 Is $100 Off",
+      "description": "Outfit your wrist with the previous generation of Pixel smartwatch for just $200.",
+      "url": "https://www.wired.com/story/pixel-watch-3-deal-1025/",
+      "urlToImage": "https://media.wired.com/photos/6902575aba6da1ec470b32b3/191:100/w_1280,c_limit/The%20Pixel%20Watch%203%20is%20$100%20Off.png",
+      "publishedAt": "2025-10-29T18:15:12Z",
+      "content": "Are you an Android user who is constantly looking at Apple Watch owners with envy? You're in luck, as the Pixel Watch 3 is marked down to just $200 at Amazon in several colors. I spotted three discou… [+1807 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/621125bda18d2b6ee40d4893e4ea9f0ed5d3d7cc/2025/10/28/5a6e1d35-5f3a-4017-8eea-4f7032b28b45/gettyimages-2201255686.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-28T19:01:38Z",
       "content": "herstockart/iStock Unreleased via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>OpenAI is reducing undesirable behavior in its chatbot.</li><li>… [+4401 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Sam Altman says OpenAI will have a ‘legitimate AI researcher’ by 2028  | TechCrunch",
-      "description": "To achieve those goals, OpenAI is betting on two key strategies: continued algorithmic innovation and dramatically scaling up \"test time compute\" — essentially how long models spend thinking about problems.",
-      "url": "https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-28-at-10.53.15AM.png?resize=1200,671",
-      "publishedAt": "2025-10-28T18:49:11Z",
-      "content": "OpenAI says its deep learning systems are rapidly advancing, with models increasingly able to solve complex tasks faster. So fast, in fact, that internally, OpenAI is tracking toward achieving an int… [+2757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Why bitcoin miner CleanSpark beat Microsoft for Wyoming AI data center deal, and what it means for crypto mining's future",
-      "description": "CleanSpark, a Las Vegas-based bitcoin miner, is getting into the booming AI data center business, and rivaling big tech's power ambitions.",
-      "url": "https://www.cnbc.com/2025/10/28/bitcoin-miner-cleanspark-crypto-mining-energy-power-ai-data-center.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107115735-1662667698139-gettyimages-1240299195-CLEANSPARK_BITCOIN_GA.jpeg?v=1761666886&w=1920&h=1080",
-      "publishedAt": "2025-10-28T18:45:06Z",
-      "content": "CleanSpark, a Las Vegas based bitcoin miner, is moving into artificial intelligence, beginning to develop AI data centers alongside its crypto-mining business. The company's CEO laid out details of t… [+5196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Eli Lilly, Nvidia partner to build supercomputer, AI factory for drug discovery and development",
-      "description": "It's the latest stride by Nvidia and the pharmaceutical industry to harness AI to try to reduce costs and shorten the time it takes to bring cures to patients.",
-      "url": "https://www.cnbc.com/2025/10/28/eli-lilly-nvidia-supercomputer-ai-factory-drug-discovery.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203000-17586586822025-09-23t201605z_1719661872_rc2oxga1dwo0_rtrmadp_0_usa-lilly.jpeg?v=1758658848&w=1920&h=1080",
-      "publishedAt": "2025-10-28T18:30:59Z",
-      "content": "Eli Lilly and Nvidia are partnering to build what they call the pharmaceutical industry's \"most powerful\" supercomputer and so-called AI factory to help accelerate drug discovery and development acro… [+3954 chars]"
     }
   ]
 }
