@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T21:33:33.831Z",
+  "fetchedAt": "2025-10-30T22:09:01.778Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Mark Zuckerberg is excited to add more AI content to all your social feeds",
+      "description": "Meta CEO Mark Zuckerberg is getting ready to dump even more AI-generated posts into your social feeds. During an earnings call on Wednesday, Zuckerberg said the company will “add yet another huge corpus of content” to its recommendations system as AI “makes i…",
+      "url": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK169_L_Normand_MarkZuckerburg_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T21:41:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nZuckerberg said AI will add a huge corpus of content to social media.\r\nZuckerberg said AI will add a huge corpus of content to social media.\r\nby\r\nEmma RothClose\r… [+2695 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218200-1761683540768-gettyimages-1780155114-EZ2_5503.jpeg?v=1761683560&w=1920&h=1080",
       "publishedAt": "2025-10-28T21:30:14Z",
       "content": "Elon Musk's Wikipedia rival Grokipedia got off to a \"rocky start\" in its public debut, but Wikipedia founder Jimmy Wales didn't even have to take a look at the AI's output to know what he expected.\r\n… [+4654 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Liam Proven",
-      "title": "This is Doom, running headless, on Ubuntu Arm… on a satellite",
-      "description": "Ólafur Waage has an unusual take on \"will it run Doom?\"\nUbuntu Summit Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-established \"…",
-      "url": "https://www.theregister.com/2025/10/28/doom_running_in_space/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_2375569273.jpg",
-      "publishedAt": "2025-10-28T21:30:09Z",
-      "content": "Ubuntu Summit Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-establish… [+4472 chars]"
     }
   ]
 }
