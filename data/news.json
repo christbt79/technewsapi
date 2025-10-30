@@ -1,6 +1,123 @@
 {
-  "fetchedAt": "2025-10-30T12:17:45.785Z",
+  "fetchedAt": "2025-10-30T13:04:17.228Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Grammarly rebrands to 'Superhuman,' launches a new AI assistant | TechCrunch",
+      "description": "Grammarly is renaming itself as Superhuman, after acquiring Superhuman email client in July",
+      "url": "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Static_Google-Calendar-Agent.jpeg?resize=1200,675",
+      "publishedAt": "2025-10-29T13:03:48Z",
+      "content": "Typically, when a company acquires another, it will absorb the new company’s branding or integrate it with its own identity. Grammarly is doing something different: After acquiring email client Super… [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I've been testing the top AI browsers - here's which ones actually impressed me",
+      "description": "AI browsers promise to change how we search, shop, and work online. So, I've been trying them - and found 5 so far that really deliver.",
+      "url": "https://www.zdnet.com/article/ive-been-testing-the-top-ai-browsers-heres-which-ones-actually-impressed-me/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/792064729defb8a16f80cf71dd24bf8c81f60ef7/2025/10/28/25ea0058-5e09-485c-9c70-fd36b283e55d/ai-browser-round-up.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T13:03:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways \r\n<ul><li>AI-powered web browsers are on the rise.</li><li>There are several different AI brow… [+11082 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "YouTube looks to improve its TV app with QR codes for shopping, AI-powered upscaling | TechCrunch",
+      "description": "Key updates include the introduction of QR codes that let you identify and shop for items in tagged videos, AI-powered upscaling, and improved search.",
+      "url": "https://techcrunch.com/2025/10/29/youtubes-latest-updates-are-aimed-at-improving-the-tv-experience/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1311780018.jpg?resize=1200,800",
+      "publishedAt": "2025-10-29T13:02:49Z",
+      "content": "YouTube on Wednesday showed off several new updates aimed at improving its TV user interface. \r\nKey updates include the introduction of QR codes that let you identify and shop for items in tagged vid… [+2578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Grammarly changes its name to Superhuman - and its mission to AI wrangler",
+      "description": "The AI writing tool isn't going away - it's being joined by a suite of new tools, including an agent manager that can turn assistants on and off as needed.",
+      "url": "https://www.zdnet.com/article/grammarly-changes-its-name-to-superhuman-and-its-mission-to-ai-wrangler/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0663e43f891d02a5426343cd43c877925db003e8/2025/10/29/a5ff895c-5c5b-4e51-922d-2fb83429379d/gettyimages-2234865868.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T13:00:36Z",
+      "content": "Krot Studio/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Grammarly has changed its name to Superhuman.</li><li>The … [+7437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Character.AI to block romantic AI chats for minors a year after teen's suicide",
+      "description": "Character.AI said it will phase out open-ended chats for minors, including romantic dialogues with AI chatbots, by Nov. 25.",
+      "url": "https://www.cnbc.com/2025/10/29/character-ai-chatbots-teens-persona.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217989-1761670730651-gettyimages-1529870473-CHARACTERAI_CHATBOTS.jpeg?v=1761670768&w=1920&h=1080",
+      "publishedAt": "2025-10-29T13:00:01Z",
+      "content": "Character.AI on Wednesday announced that it will soon shut off the ability for minors to have free-ranging chats, including romantic and therapeutic conversations, with the startup's artificial intel… [+5043 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Phia's founders on how AI is changing online shopping | TechCrunch",
+      "description": "Phia founders, Phoebe Gates and Sophia Kianni, are building an AI assistant that aims to help you shop, and save.",
+      "url": "https://techcrunch.com/2025/10/29/phias-founders-on-how-ai-is-changing-online-shopping/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243869768.jpg?resize=1200,800",
+      "publishedAt": "2025-10-29T12:44:32Z",
+      "content": "When Phia‘s founders Phoebe Gates and Sophia Kianni decided to build an AI startup, they targeted an area they understood well: online shopping.\r\nThe founders, who met at Stanford when they were rand… [+3277 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "Grammarly is changing its name to Superhuman",
+      "description": "AI writing aid Grammarly is now part of Superhuman, alongside Coda, Superhuman Mail, and a new AI assistant called Superhuman Go. The new Superhuman suite, including all those tools, will be available starting today for everyone with a paid Grammarly Pro subs…",
+      "url": "https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/superhuman-go-grammarly.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-29T12:33:52Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nChatGPT changed the game on Grammarly, but now its adding more AI to pull users back into its sidebar.\r\nChatGPT changed the game on Grammarly, but now its adding… [+3911 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "Exclusive: Adobe's Corrective AI Can Change the Emotions of a Voice-Over",
+      "description": "Ahead of Adobe's MAX Sneaks event, WIRED got an exclusive look at a new tool that can change the tone and style of a voice-over.",
+      "url": "https://www.wired.com/story/adobe-max-sneaks-2025-corrective-ai/",
+      "urlToImage": "https://media.wired.com/photos/6901844d3dafa06c7f430cf1/191:100/w_1280,c_limit/adobe%20change%20emotion%20Soruce%20Jacob%20Roach.JPG",
+      "publishedAt": "2025-10-29T12:30:00Z",
+      "content": "Adobe's Oriol Nieto loaded up a short video with a handful of scenes and a voice-over, but no sound effects. The AI model analyzed the video and broke it down into scenes, applying emotional tags and… [+1734 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Character.AI is banning minors from AI character chats",
+      "description": "Character.AI is gradually shutting down chats for people under 18 and rolling out new ways to figure out if users are adults. The company announced Wednesday that under-18 users will be immediately limited to two hours of \"open-ended chats\" with its AI charac…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK278_character_ai_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T12:21:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTeens are limited to two hours of chats each day, starting today, and will be banned from them entirely by November 25th.\r\nTeens are limited to two hours of chat… [+6080 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1183,123 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/d35455cbb99f3d1d2ad5aef4605c22215f205d63/2025/10/20/432db3db-b717-459e-a129-79bc59c9c577/gettyimages-1297916126.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-28T14:33:37Z",
       "content": "twomeows / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Digital transformation success is a fast-moving target.</li><li>Smart CIOs coll… [+8060 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "OpenAI completes its for-profit recapitalization | TechCrunch",
-      "description": "OpenAI has completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation.",
-      "url": "https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181367.jpg?w=1024",
-      "publishedAt": "2025-10-28T14:32:41Z",
-      "content": "OpenAI on Tuesday said it had completed its recapitalization, splitting the AI lab into a for-profit corporation nested inside a non-profit foundation. It’s the end result of a complex legal process … [+2582 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
-      "title": "How to watch Nvidia GTC 2025 keynote — Jensen Huang shares the latest in AI and beyond",
-      "description": "Nvidia is hosting GTC and its keynote to reveal what's next in agentic AI, robotics, and accelerated computing.",
-      "url": "https://www.tomshardware.com/tech-industry/how-to-watch-nvidia-gtc-2025-keynote-jensen-huang-shares-the-latest-in-ai-and-beyond",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iHc2PctFNyiceRXZYJfrnQ-1600-80.jpg",
-      "publishedAt": "2025-10-28T14:31:40Z",
-      "content": "As part of Nvidia GTC Live from Washington D.C., Nvidia will host its hotly anticipated keynote with CEO Jensen Huang on Tuesday morning.\r\nThe main event kicks off at 12PM ET / 9AM PT on October 28, … [+1214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "OpenAI calls on U.S. to build 100 gigawatts of additional power-generating capacity per year — says electricity is a 'strategic asset' in AI race against China",
-      "description": "OpenAI has called on the US to build out more power-generating infrastructure, claiming that it is needed to help provide the backbone for the AI race the US is now in with China. With enormous infrastructure projects planned, it wants the US to build an addi…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-calls-on-u-s-to-build-100-gigawatts-of-additional-power-generating-capacity-per-year-says-electricity-is-a-strategic-asset-in-ai-race-against-china",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/T8Dw2rCunqAqPdqrexsUs3-1920-80.jpg",
-      "publishedAt": "2025-10-28T14:22:23Z",
-      "content": "Off the back of its globe-spanning, near-trillion-dollar infrastructure project announcements, OpenAI is now calling on the US government to invest more heavily in power generation, according to CNBC… [+3263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Clearview AI faces criminal heat for ignoring EU data fines",
-      "description": "Noyb says New York-based facial recognition biz flouted GDPR orders and kept scraping anyway Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.…",
-      "url": "https://www.theregister.com/2025/10/28/noyb_criminal_charges_clearview/",
-      "urlToImage": "https://regmedia.co.uk/2021/04/13/clearview.jpg",
-      "publishedAt": "2025-10-28T14:22:09Z",
-      "content": "Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.\r\nAustria-based Noyb (None of Your Business… [+1988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Beyond U.S. ESG retreat, trillions is being invested in the long-term winners, says climate banker",
-      "description": "Standard Chartered chief sustainability officer Marisa Drew says trillions being invested across China, India and the Mideast will create long-term winners.",
-      "url": "https://www.cnbc.com/2025/10/28/esg-climate-investing-market-china-india-mideast-long-term-winners.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217211-1761573813863-gettyimages-2183873407-AZERBAIJAN_COP29.jpeg?v=1761573830&w=1920&h=1080",
-      "publishedAt": "2025-10-28T14:12:42Z",
-      "content": "When Marisa Drew, chief sustainability officer of Standard Chartered, first decided to leave a successful investment banking career to focus on sustainability, her friends and colleagues were skeptic… [+3929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Palo Alto Networks debuts automated AI agents to fight cyberattacks",
-      "description": "Palo Alto Networks launched new AI agents on Tuesday that allow customers to automate certain cybersecurity actions.",
-      "url": "https://www.cnbc.com/2025/10/28/palo-alto-networks-debuts-new-tk-agent-to-fight-cy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108137406-17458547422025-03-25t214442z_1404614266_rc2jkda1kvqf_rtrmadp_0_paloalto-stocks.jpeg?v=1753825094&w=1920&h=1080",
-      "publishedAt": "2025-10-28T14:00:01Z",
-      "content": "Palo Alto Networks on Tuesday launched new artificial intelligence agents that allow customers to automate certain cybersecurity actions.\r\nThe new agents, known as Cortex AgentiX, can handle threat i… [+1295 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "TechCrunch Disrupt 2025: Day 2",
-      "description": "Second day of TechCrunch Disrupt 2025 at San Francisco's Moscone West. Here's the rundown to what to expect, including the 50% discount on passes for remainder of the event.",
-      "url": "https://techcrunch.com/2025/10/28/techcrunch-disrupt-2025-day-2/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
-      "publishedAt": "2025-10-28T14:00:00Z",
-      "content": "Its time for day two of TechCrunch Disrupt 2025, which means San Franciscos Moscone West will be jam-packed with another marathon of speakers, workshops, networking opportunities, and afterparties fo… [+10591 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft",
-      "description": "OpenAI’s controversial for-profit restructuring is finally complete, along with a new deal with Microsoft. The company’s for-profit arm is now a public benefit corporation, dubbed OpenAI Group PBC. The nonprofit is now called the OpenAI Foundation and “holds …",
-      "url": "https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gettyimages-2215434051.jpg?quality=90&strip=all&crop=0%2C10.749338735387%2C100%2C78.501322529225&w=1200",
-      "publishedAt": "2025-10-28T13:46:12Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs controversial for-profit restructuring is finally complete, along with a new deal with Microsoft.\r\nThe companys for-profit arm is now a public benefit co… [+3458 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Amazon to cut 14,000 corporate jobs | TechCrunch",
-      "description": "Amazon said on Tuesday that it plans to reduce its corporate workforce by 14,000 jobs as it seeks to reduce bureaucracy, remove layers and invest more in its AI strategy.",
-      "url": "https://techcrunch.com/2025/10/28/amazon-to-cut-14000-corporate-jobs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1437319236.jpg?resize=1200,812",
-      "publishedAt": "2025-10-28T13:44:08Z",
-      "content": "Amazon said on Tuesday that it plans to reduce its corporate workforce by 14,000 jobs as it seeks to reduce bureaucracy, remove layers and invest more in its AI strategy.\r\nThis marks the e-commerce g… [+3040 chars]"
     }
   ]
 }
