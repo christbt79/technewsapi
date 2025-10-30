@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-30T17:38:52.550Z",
+  "fetchedAt": "2025-10-30T18:12:58.071Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The Fed is 'worried that layoffs will increase sooner and faster than hiring,' says chief economist",
+      "description": "The Fed is loosening monetary policy to protect a slowing job market, even as prices continue to rise.",
+      "url": "https://www.cnbc.com/2025/10/29/why-the-fed-is-cutting-rates-even-as-prices-keep-rising.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218751-1761757188571-gettyimages-2235415173-AFP_74VP7MQ.jpeg?v=1761757270&w=1920&h=1080",
+      "publishedAt": "2025-10-29T18:06:44Z",
+      "content": "The Federal Reserve announced its second consecutive cut to its benchmark interest rate on Wednesday, reducing the federal funds rate by a quarter percentage point to a range of 3.75% to 4%.\r\nWhile t… [+3069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "AWS Stargate-smashing Rainier AI megacluster is up and running",
+      "description": "Half a million Trainium2 chips now running Anthropic workloads, with half a million more waiting in the wings\nNever mind Sam Altman's Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon's competing mountain of AI compute p…",
+      "url": "https://www.theregister.com/2025/10/29/aws_rainier_ai_megacluster/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/29/aws-rainier.jpg",
+      "publishedAt": "2025-10-29T18:01:19Z",
+      "content": "Never mind Sam Altman's Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon's competing mountain of AI compute power is already up and running. \r\nAmazon Web Servi… [+2403 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "AI Agents Are Terrible Freelance Workers",
+      "description": "A new benchmark measures how well AI agents can automate economically valuable chores. Human-level AI is still some ways off.",
+      "url": "https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/",
+      "urlToImage": "https://media.wired.com/photos/690147a56a37037ce5efc6db/191:100/w_1280,c_limit/A-%20Lab-AI-Agents-Tried-to-Make-Money-Doing-Freelance-Work-Business-2168056998.jpg",
+      "publishedAt": "2025-10-29T18:00:00Z",
+      "content": "Even the bestartificial intelligenceagents are fairly hopeless at online freelance work, according to an experiment that challenges the idea of AI replacing office workers en masse.\r\nThe Remote Labor… [+2415 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia's $5 trillion market cap is equivalent to around 25 Disneys, 50 Nikes and more than 3,000 JetBlues",
+      "description": "Nvidia's market cap dwarfs that of other well-known companies, as well as entire sectors and even full international markets.",
+      "url": "https://www.cnbc.com/2025/10/29/nvidia-5-trillion-market-cap-ai-disney-mcdonalds-ford-macys.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186411-1755245023980-gettyimages-2228729615-vcg111582736767.jpeg?v=1761746329&w=1920&h=1080",
+      "publishedAt": "2025-10-29T17:56:21Z",
+      "content": "An Nvidia chip is seen through a magnifying glass in Beijing, China, on August 1, 2025. \r\nNvidia on Wednesday became the first company to surpass the $5 trillion market cap milestone, meaning it loom… [+2330 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "I've been testing AI content detectors for years - these are your best options in 2025",
+      "description": "AI content is everywhere now, but these detectors can help (including one that may surprise you).",
+      "url": "https://www.zdnet.com/article/ive-been-testing-ai-content-detectors-for-years-these-are-your-best-options-in-2025/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/57ce91424b52ef54e1797980e51260603d947f30/2025/10/29/e11b7afd-f886-4fa9-a231-39542cd30e83/gettyimages-1200976833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T17:53:00Z",
+      "content": "busracavus/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Using an AI to do your writing is plagiarism.</li><li>Services marketed as A… [+15554 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203000-17586586822025-09-23t201605z_1719661872_rc2oxga1dwo0_rtrmadp_0_usa-lilly.jpeg?v=1758658848&w=1920&h=1080",
       "publishedAt": "2025-10-28T18:30:59Z",
       "content": "Eli Lilly and Nvidia are partnering to build what they call the pharmaceutical industry's \"most powerful\" supercomputer and so-called AI factory to help accelerate drug discovery and development acro… [+3954 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "ServiceNow and Nvidia say their new open-source model is built for security - here's why",
-      "description": "Worried about your business's data? Apriel 2.0 is aimed at federal agencies and tightly regulated industries like healthcare and finance that want AI agents with less risk.",
-      "url": "https://www.zdnet.com/article/servicenow-and-nvidia-say-their-new-open-source-model-is-built-for-security-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1ac625d02ae81b06ddffef24eaa3b459cce24d78/2025/10/28/4819732c-b71d-4641-ae40-55ead5122638/gettyimages-2229033397.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T18:30:00Z",
-      "content": "Javier Zayas Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>ServiceNow and Nvidia have launched a new open-source AI model.… [+4246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia and partners to build seven AI supercomputers for the U.S. gov't with over 100,000 Blackwell GPUs —combined performance of 2,200 ExaFLOPS of compute",
-      "description": "Nvidia, Oracle, and the U.S. Department of Energy will build seven ExaFLOPS-class AI supercomputers for Argonne National Laboratory — including the Oracle-built Equinox and Solstice systems with over 100,000 Blackwell GPUs delivering up to 2,200 FP4 ExaFLOPS …",
-      "url": "https://www.tomshardware.com/tech-industry/supercomputers/nvidia-and-partners-to-build-seven-ai-supercomputers-for-the-u-s-govt-with-over-100-000-blackwell-gpus-combined-performance-of-2-200-exaflops-of-compute",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gzkHfFLkoFeUknmz6rgz6G-1600-80.png",
-      "publishedAt": "2025-10-28T18:29:18Z",
-      "content": "Coming on the heels of the Vera Rubin-based supercomputers for Los Alamos National Laboratory, Nvidia announced on Tuesday that, together with partners, it would build seven ExaFLOPS-class AI superco… [+3169 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lorenzo Franceschi-bicchierai",
-      "title": "Elloe AI wants to be the ‘immune system’ for AI — check it out at Disrupt 2025 | TechCrunch",
-      "description": "Elloe AI promises a system capable of fact-checking AI outputs, making sure they don’t violate laws and regulations, and that they are safe for the users.",
-      "url": "https://techcrunch.com/2025/10/28/elloe-ai-wants-to-be-the-immune-system-for-ai-check-it-out-at-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/owen_01-forbes.jpg?resize=1200,800",
-      "publishedAt": "2025-10-28T18:24:47Z",
-      "content": "Owen Sakawa, the founder of Elloe AI, wants his platform to be the immune system for AI and the antivirus for any AI agent.  \r\nThe idea, Sakawa said in an interview days before the TechCrunch Disrupt… [+1971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "5 ways to verify your age on Google Play (and which states will see it first)",
-      "description": "Several months after AI-powered age verification rolled out to YouTube, age checks are hitting another Google service.",
-      "url": "https://www.zdnet.com/article/5-ways-to-verify-your-age-on-google-play-and-which-states-will-see-it-first/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b024779d1b40bd25e878b4964e0e2e0d2de3abd8/2025/10/28/4ac1911d-3dc4-4eb5-9618-482f42134828/playstorecolorsgettyimages-2223600563.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T18:20:50Z",
-      "content": "SOPA Images/Contributor/LightRocket via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Age verification is rolling out in the Google Play Store.</… [+2877 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Identifee, built by Wells Fargo alumni, unifies productivity tech for bankers into a single platform — catch it at TechCrunch Disrupt 2025",
-      "description": "The startup’s platform is built on several modular systems that clients can purchase individually or as a complete suite.",
-      "url": "https://techcrunch.com/2025/10/28/identifee-built-by-wells-fargo-alumni-unifies-productivity-tech-for-bankers-into-a-single-platform-catch-it-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1247809421.jpg?resize=1200,680",
-      "publishedAt": "2025-10-28T18:20:00Z",
-      "content": "Vram Ismaliyan spent nearly 14 years at Wells Fargo, selling payment infrastructure strategies to Fortune 500 companies.  Despite being a top performer in the payments division, he felt constantly bo… [+3078 chars]"
     }
   ]
 }
