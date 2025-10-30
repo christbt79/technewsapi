@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-30T22:36:46.425Z",
+  "fetchedAt": "2025-10-30T23:08:40.053Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Companies outside of tech need data center exposure, Jim Cramer says",
+      "description": "CNBC's Jim Cramer suggested some of the best-performing stocks outside of the tech sector have some business related to the AI boom.",
+      "url": "https://www.cnbc.com/2025/10/29/companies-data-center-exposure-jim-cramer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105653382-1546289245501img_5976rr.jpg?v=1693437363&w=1920&h=1080",
+      "publishedAt": "2025-10-29T23:02:23Z",
+      "content": "Companies outside of the tech sector would benefit from some involvement in the data center boom, CNBC's Jim Cramer suggested on Wednesday, using recent earnings from manufacturer Caterpillar as an e… [+1674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cramer's Lightning Round: Datavault AI is 'losing money hand over fist'",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2025/10/29/cramers-lightning-round-datavault-ai-is-losing-money-hand-over-fist.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1698361043&w=1920&h=1080",
+      "publishedAt": "2025-10-29T22:55:05Z",
+      "content": "Sign up now for the CNBC Investing Club to follow Jim Cramer's every move in the market.Questions for Cramer?Call Cramer: 1-800-743-CNBC\r\nWant to take a deep dive into Cramer's world? Hit him up!Mad … [+135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "ServiceNow CEO denies AI companies are threatening enterprise software: 'They don't do what we do'",
+      "description": "ServiceNow CEO Bill McDermott pushed back against the idea that artificial intelligence technology will make enterprise software redundant.",
+      "url": "https://www.cnbc.com/2025/10/29/servicenow-ceo-ai-companies-enterprise.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106281528-1575584302822img_9018.jpg?v=1686757741&w=1920&h=1080",
+      "publishedAt": "2025-10-29T22:52:00Z",
+      "content": "ServiceNow CEO Bill McDermott pushed back against the idea that artificial intelligence technology will make enterprise software redundant in a Wednesday interview with CNBC's Jim Cramer.\r\n\"We realiz… [+1646 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "YouTube offers voluntary buyouts as company reorganizes around AI",
+      "description": "In an internal memo to staff, YouTube CEO Neal Mohan said the platform is reorganizing its product teams for the first time in a decade.",
+      "url": "https://www.cnbc.com/2025/10/29/youtube-offers-voluntary-buyouts-as-company-reorganizes-around-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146149-1747324974303-gettyimages-2203987828-mhay4538_tluavci4.jpeg?v=1761776682&w=1920&h=1080",
+      "publishedAt": "2025-10-29T22:49:22Z",
+      "content": "YouTube is offering voluntary buyouts with severance for U.S.-based employees as it restructures its product organization to focus more on artificial intelligence.\r\nThe move comes as Google CEO Sunda… [+1264 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Solana co-founder Anatoly Yakovenko is a big fan of agentic coding | TechCrunch",
+      "description": "Speaking at TechCrunch Disrupt, Yakovenko said he's become increasingly comfortable taking a back seat in software development tasks.",
+      "url": "https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-2.59.52-PM.jpg?resize=1200,608",
+      "publishedAt": "2025-10-29T22:44:12Z",
+      "content": "The rise of agentic coding tools has been a sea change for software engineers across the industry — but for Solana Labs CEO Anatoly Yakovenko, it seems to have landed particularly hard. Speaking at T… [+2034 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218187-1761682850805-gettyimages-2227231495-img_0195.jpeg?v=1761682885&w=1920&h=1080",
       "publishedAt": "2025-10-28T23:05:07Z",
       "content": "Celestica CEO Rob Mionis explained how his company designs and manufactures infrastructure that enables artificial intelligence in a Tuesday interview with CNBC's Jim Cramer.\r\n\"If AI is a speeding fr… [+1864 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Senators propose banning teens from using AI chatbots",
-      "description": "A new piece of legislation could require AI companies to verify the ages of everyone who uses their chatbots. Sens. Josh Hawley (R-MO) and Richard Blumenthal (D-CT) introduced the GUARD Act on Tuesday, which would also ban everyone under 18 from accessing AI …",
-      "url": "https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/30f782a9.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-28T22:42:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new rules would force AI companies to verify whether users are over 18. \r\nThe new rules would force AI companies to verify whether users are over 18. \r\nby\r\nE… [+2611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Shayna Korol",
-      "title": "There’s a bigger story in the OpenAI for-profit news",
-      "description": "Big news for the pursuit of artificial general intelligence — or AI that’s of human-level intelligence across the board. OpenAI, which describes its mission as “ensuring that AGI benefits all of humanity,” finalized its long-in-the-works corporate restructuri…",
-      "url": "https://www.vox.com/future-perfect/466368/openai-for-profit-restructure-biodefense-valthos",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2223572220.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "publishedAt": "2025-10-28T22:33:41Z",
-      "content": "Big news for the pursuit of artificial general intelligence or AI thats of human-level intelligence across the board. OpenAI, which describes its mission as ensuring that AGI benefits all of humanity… [+6889 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Why Jim Cramer thinks Amazon is a keeper",
-      "description": "CNBC's Jim Cramer said Amazon is a good stock to own for the long term.",
-      "url": "https://www.cnbc.com/2025/10/28/jim-cramer-amazon-keeper.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
-      "publishedAt": "2025-10-28T22:30:51Z",
-      "content": "CNBC's Jim Cramer on Tuesday explained why he's sticking with Amazon for the CNBC Investing Club's Charitable Trust, offering optimistic commentary about tech giant's future and commending its upcomi… [+3143 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "Unthread has a plan for cleaning up Slack and will show off its tech at TechCrunch Disrupt 2025 | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/28/unthread-has-a-plan-for-cleaning-up-slack-and-will-show-off-its-tech-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/slack.jpg?resize=1200,1000",
-      "publishedAt": "2025-10-28T22:19:06Z",
-      "content": "If every good startup begins with a problem, this one may have begun with a bad Slack conversation. As CEO and co-founder Tom Bachant tells it, he remembers seeing the chaos of Slack-based support th… [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "Super Teacher is building an AI tutor for elementary schools — catch it at Disrupt 2025 | TechCrunch",
-      "description": "Founded by a former math teacher and Googler, Super Teacher's AI tutor is being used in public school in New York, New Jersey, and Hawaii.",
-      "url": "https://techcrunch.com/2025/10/28/super-teacher-is-building-an-ai-tutor-for-elementary-schools-catch-it-at-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/SJrlH6OgSnq4oZil7k0J_Super20Teacher20Icon.png?w=1024",
-      "publishedAt": "2025-10-28T22:17:52Z",
-      "content": "Tutoring is one of the most effective tools for improving a child’s education, yet very few kids in the U.S. receive it. A 2023 survey of the nation’s largest school districts found that fewer than 1… [+2739 chars]"
     }
   ]
 }
