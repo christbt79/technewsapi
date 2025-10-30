@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T20:38:34.166Z",
+  "fetchedAt": "2025-10-30T21:08:14.315Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "How one mountain town hopes AI can help it fight wildfires",
+      "description": "A popular ski resort town in Colorado is adopting a new AI Smart City Solution from Hewlett Packard Enterprise (HPE) to help it better detect wildfires, as well as update a range of other city services. Vail is expanding its firefighting toolbox as hotter, mo…",
+      "url": "https://www.theverge.com/report/809348/ai-fire-detection-vail-hpe-smart-city-platform",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824779/STK438_CLIMATE_CHANGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T20:48:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new HPE smart city platform is meant to bolster wildfire response in Vail, Colorado.\r\nA new HPE smart city platform is meant to bolster wildfire response in Va… [+5808 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2228225688_b083e6.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
       "publishedAt": "2025-10-28T21:29:12Z",
       "content": "President Donald Trump holds a chart on household income in the Oval Office of the White House in Washigton, DC, on August 7, 2025. | Yuri Gripas/Abaca/Bloomberg via Getty Images\r\n\n\nFor years, voters… [+5506 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Monica Bell",
-      "title": "You can save $250 on a Samsung Galaxy Watch 8 Classic at Best Buy - here's how",
-      "description": "Time to level up? If you trade in your Samsung Galaxy Watch 5 Pro or Watch 6 Classic, you can get $250 off a new Watch 8 Classic with a free band at Best Buy.",
-      "url": "https://www.zdnet.com/article/you-can-save-250-on-a-samsung-galaxy-watch-8-classic-at-best-buy-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/337aa6db2d564a47ec7a768d10138ee2315aefdd/2025/07/08/9a13bf32-aa2f-444e-be40-0070a1eb60d7/dsc06439.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T21:00:31Z",
-      "content": "Kerry Wan/ZDNET\r\nIf you're a fan of Samsung Galaxy watches but haven't yet sprung for the Watch 8 Classic model, now's the perfect time to do so. Right now you can trade in a Samsung Galaxy Watch 5 P… [+3262 chars]"
     }
   ]
 }
