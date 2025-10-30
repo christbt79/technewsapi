@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T19:07:38.394Z",
+  "fetchedAt": "2025-10-30T19:30:54.148Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Gemini for Home is rolling out - here's how to get early access",
+      "description": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/gemini-for-home-is-rolling-out-heres-how-to-get-early-access/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T19:13:30Z",
+      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google just began offering Gemini for Home for early access.</li><li>It's compatible with most Nest speak… [+5349 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25425464/247099_Changpeng_Zhao_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-28T19:50:36Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAlso: the White Houses ballroom blitz, brought to you by the tech industry.\r\nAlso: the White Houses ballroom blitz, brought to you by the tech industry.\r\nby\r\nTin… [+15059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Can AI create next 'Grand Theft Auto'? Take-Two Interactive CEO says no",
-      "description": "While AI's impact on business operations continues to grow, Take-Two Interactive CEO Strauss Zelnick said it's still limited in video game development.",
-      "url": "https://www.cnbc.com/2025/10/28/can-ai-create-next-grand-theft-auto-take-two-interactive-ceo-says-no.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107189464-16757016032022-02-08t005714z_1587732071_rc24fs9r7hbt_rtrmadp_0_take-two-results.jpeg?v=1733936510&w=1920&h=1080",
-      "publishedAt": "2025-10-28T19:30:03Z",
-      "content": "Strauss Zelnick, the CEO of video game publisher Take-Two Interactive, said he is not a \"naysayer\" when it comes to the promise of artificial intelligence. But at the same time, Zelnick, who leads th… [+4119 chars]"
     }
   ]
 }
