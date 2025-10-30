@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T16:11:56.842Z",
+  "fetchedAt": "2025-10-30T16:48:23.359Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Maxwell Zeff",
+      "title": "How AI labs use Mercor to get the data companies won’t share | TechCrunch",
+      "description": "Mercor CEO Brendan Foody has built a $10 billion empire freeing up valuable data from legacy industries, and making it available to AI labs.",
+      "url": "https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mercor-CEO.jpg?resize=1200,671",
+      "publishedAt": "2025-10-29T16:19:08Z",
+      "content": "Instead of signing expensive contracts with companies for their data, AI labs these days are trying a new tack: tapping former senior employees from those companies for their industry knowledge, Merc… [+5409 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/10/24/shutterstock_power_plant.jpg",
       "publishedAt": "2025-10-28T17:20:09Z",
       "content": "OpenAI wants the Trump administration to build 100 gigawatts of additional electricity generation capacity per annum to avoid the US being overtaken by China in the AI arms race.\r\nThe highly-valued g… [+2399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "Need the best AI content detector in 2025? Try these four tools (you probably already use one)",
-      "description": "I've been testing AI content detectors for more than two years. And now there's an equally effective option that doesn't require a new subscription.",
-      "url": "https://www.zdnet.com/article/need-the-best-ai-content-detector-in-2025-try-these-4-tools-you-probably-already-use-one/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e0bc4e068c20c94390a5c30fb02f8bd5d6c1d5c3/2025/10/28/603d1c2f-2951-4c11-ae92-15d68f0233ef/gettyimages-1355569095.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T17:20:00Z",
-      "content": "seamartini/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Using an AI to do your writing is plagiarism.</li><li>Services marketed as A… [+15554 chars]"
     }
   ]
 }
