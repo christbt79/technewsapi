@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T06:47:12.691Z",
+  "fetchedAt": "2025-10-30T07:09:29.224Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's The China Connection newsletter: Five things Beijing wants from a Trump-Xi meeting",
+      "description": "What China asks of the U.S. this week can reveal the extent to which Beijing has assessed the transformation of its global clout.",
+      "url": "https://www.cnbc.com/2025/10/29/china-connection-newsletter-what-beijing-wants-trump-xi-meeting-south-korea-apec-summit-gyeongju.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216993-1761531406632-gettyimages-2218949916-UK_US_CHINA.jpeg?v=1761531632&w=1920&h=1080",
+      "publishedAt": "2025-10-29T07:00:01Z",
+      "content": "The U.S. and China held their fourth round of trade talks this year in Malaysia over the weekend as anticipation grows for a meeting Thursday between the leaders of the world's two largest economies.… [+7773 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257966_ethics_of_recording_people_with_smart_glasses__CVirginia3-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-28T11:53:11Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWith Metas new smart glasses, social shaming is still more powerful than the law.\r\nWith Metas new smart glasses, social shaming is still more powerful than the l… [+14455 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Amazon is cutting 14,000 corporate jobs",
-      "description": "Amazon is planning to axe around 14,000 corporate jobs. The mass layoffs were expected as part of the company’s cost-cutting drive, but are smaller than the 30,000 job losses previous reports had indicated.   Beth Galetti, a senior executive at the e-commerce…",
-      "url": "https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-28T11:40:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSome may ask why were reducing roles when the company is performing well, an executive admitted, blaming AI for the layoffs. \r\nSome may ask why were reducing rol… [+3018 chars]"
     }
   ]
 }
