@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-10-30T15:40:24.824Z",
+  "fetchedAt": "2025-10-30T16:11:56.842Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Windows 11 videos demonstrating account and hardware requirements bypass purged from YouTube — platform says content ‘encourages dangerous or illegal activities that risk serious physical harm or death’",
+      "description": "A YouTuber's videos telling people how to use Windows 11 without a Microsoft account and how to install it on unsupported hardware were allegedly violating community guidelines on dangerous and illegal activities.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/windows-11-videos-demonstrating-account-and-hardware-requirements-bypass-purged-from-youtube-platform-says-content-encourages-dangerous-or-illegal-activities-that-risk-serious-physical-harm-or-death",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8Q4bUw4KVnruV2by3zhBvT-1920-80.jpg",
+      "publishedAt": "2025-10-29T16:09:23Z",
+      "content": "A YouTube creator’s videos, posted just days apart and demonstrating how to bypass Microsoft’s Windows 11 limitations, were removed for allegedly violating the platform’s community guidelines. Rich, … [+3100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "How a system snapshot can save you when your OS goes awry - create one today",
+      "description": "System snapshots are the perfect complement to traditional backups. They can save the day when your computer goes awry or an update goes south. Here's how they work.",
+      "url": "https://www.zdnet.com/article/how-a-system-snapshot-can-save-you-when-your-os-goes-awry-create-one-today/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4969081c09c89af6c8cd032e8929f3c8b0ce576c/2025/10/28/c191c362-e757-4ba5-abd5-b37a737d6fd7/squares-floatinggettyimages-2230989635.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T16:09:14Z",
+      "content": "Iana Kunitsa/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A system snapshot ensures you always have the means to restore.</li><li>Som… [+5360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta to report third-quarter earnings after the bell",
+      "description": "Meta will report third-quarter earnings on Wednesday and investors will be watching for any signs that it will increase spending on artificial intelligence.",
+      "url": "https://www.cnbc.com/2025/10/29/meta-q3-earnings-report-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
+      "publishedAt": "2025-10-29T16:08:50Z",
+      "content": "Meta is slated to report third-quarter earnings on Wednesday after the bell and investors will be watching for any indication that it will increase spending on artificial intelligence.\r\nHere's what a… [+2806 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "The easiest way to protect your Linux PC from disaster - no backup needed",
+      "description": "If you want to always have a running state for your Linux desktop, create a snapshot. Here's how.",
+      "url": "https://www.zdnet.com/article/the-easiest-way-to-protect-your-linux-pc-from-disaster-no-backup-needed/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6ab3fca4304f2e7e6ed858a46a06d282dceed02a/2025/10/29/f2e9da41-8e78-4658-964c-4c2e015af1c1/how-to-set-up-automatic-snapshots-on-linux-and-how-they-compare-to-backups.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T16:00:55Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Snapshots are a crucial part of keeping your system running.</li><li>You'll want to i… [+5230 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft set to report quarterly results after the close",
+      "description": "Microsoft's cloud business has been growing faster than rival Amazon Web Services, as the company ramps up artificial intelligence investments.",
+      "url": "https://www.cnbc.com/2025/10/29/microsoft-msft-q1-2026-earnings-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188843-1755732260764-gettyimages-1730506424-axelspringeraward_9946.jpeg?v=1761669022&w=1920&h=1080",
+      "publishedAt": "2025-10-29T16:00:01Z",
+      "content": "Microsoft will report results for its fiscal first quarter after the close of regular trading Wednesday.\r\nHere's what analysts are expecting according to a consensus of estimates from LSEG:\r\n<ul><li>… [+2595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Alphabet set to report Q3 earnings after the bell Wednesday",
+      "description": "Alphabet is set to report third-quarter earnings after the bell Wednesday.",
+      "url": "https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
+      "publishedAt": "2025-10-29T16:00:01Z",
+      "content": "Alphabet is set to report third-quarter earnings after the bell Wednesday.\r\nHere's what analysts are expecting according to LSEG consensus:\r\n<ul><li>Revenue: $99.89 billion</li><li>Earnings per share… [+5398 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Nvidia becomes first public company worth $5 trillion | TechCrunch",
+      "description": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China and Japan.",
+      "url": "https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "publishedAt": "2025-10-29T15:54:04Z",
+      "content": "The biggest beneficiary of the ongoing AI boom, Nvidia has become the first public company to pass the $5 trillion market cap milestone.\r\nThe company’s shares rose more than 5.6% on Wednesday to as m… [+2058 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia's market capitalization hits $5.12 trillion — AI powerhouse is the first company in history to hit seismic milestone",
+      "description": "GTC announcements drive Nvidia's market capitalization by over $200 billion in one day, making the company the world's first firm to reach a market capitalization of over $5 trillion.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-market-capitalization-hits-usd5-12-trillion-ai-powerhouse-is-the-first-company-in-history-to-hit-seismic-milestone",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fcjx2YZZLa8S3KbUsb4qDj-2560-80.jpg",
+      "publishedAt": "2025-10-29T15:44:15Z",
+      "content": "The market capitalization of Nvidia passed the $5 trillion mark on Wednesday, following a host of potentially lucrative deals and projects the company announced at its GPU Technology Conference event… [+3506 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e0bc4e068c20c94390a5c30fb02f8bd5d6c1d5c3/2025/10/28/603d1c2f-2951-4c11-ae92-15d68f0233ef/gettyimages-1355569095.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-28T17:20:00Z",
       "content": "seamartini/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Using an AI to do your writing is plagiarism.</li><li>Services marketed as A… [+15554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Create your dream presentation with Gemini's latest update - here's how",
-      "description": "Struggling with your slides? Here's how the latest Gemini updates can help you polish a presentation, and who can access them.",
-      "url": "https://www.zdnet.com/article/create-your-dream-presentation-with-geminis-latest-update-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/da131f63505eddf38100a65f05d86d1af8857d04/2025/10/28/2e7d3b56-b4da-4ca9-9b06-3c164a018a0f/gettyimages-2162499608.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T17:19:35Z",
-      "content": "antishock/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's October Gemini Drop includes upgrades to Gemini Can… [+2307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia announces reference design for colossal gigawatt-scale Omniverse DSX data centers — single data center requires a nuclear reactor's worth of power generation",
-      "description": "Nvidia introduces Omniverse DSX Blueprint, a digital-twin-based reference design for gigawatt-scale AI data centers that standardizes how partners can build and optimize 'AI factories.'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-announces-reference-design-for-gargantuan-gigawatt-scale-omniverse-dsx-data-centers-single-data-center-requires-a-nuclear-reactors-worth-of-power-generation",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rMEtrL4LyKa5zyZtuiwKpP-1920-80.jpg",
-      "publishedAt": "2025-10-28T17:07:27Z",
-      "content": "Nvidia used to be a humble supplier of graphics processors, providing reference designs for its partners' graphics cards. As the company grew, it moved from data center-grade GPUs for AI and HPC to r… [+3336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "Most ransomware demands go unpaid now, so attackers have a new strategy",
-      "description": "Ransomware doesn't pay as well anymore - but that's not necessarily good news.",
-      "url": "https://www.zdnet.com/article/most-ransomware-demands-go-unpaid-now-so-attackers-have-a-new-strategy/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/afae1adfee85e0d4a3fcaf2959e376a72572ed7d/2025/10/28/c85d5ac8-d6da-4dca-a717-eb7cf911bfd8/cyberwar555gettyimages-1379206950.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T16:52:36Z",
-      "content": "Karunyapas/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Ransomware payments have reached a historic low of 23%.</li… [+4320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
-      "title": "Fake Nvidia GTC stream hosting Jensen Huang deepfake crypto scam garners 100,000 YouTube viewers — video was even promoted above Nvidia's real event",
-      "description": "Unsuspecting YouTube viewers looking for Nvidia's GTC keynote on Tuesday might well have found themselves accidentally watching a Jensen Huang deepfake promoting a cryptocurrency scam, after YouTube promoted the video over the official stream.",
-      "url": "https://www.tomshardware.com/tech-industry/fake-nvidia-gtc-stream-hosting-jensen-huang-deepfake-crypto-scam-garners-100-000-youtube-viewers-video-was-even-promoted-above-nvidias-real-event",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GtHKDB3HbHWUwXWMqDkHKU-1284-80.jpg",
-      "publishedAt": "2025-10-28T16:48:34Z",
-      "content": "Unsuspecting YouTube viewers looking for Nvidia's GTC keynote on Tuesday might well have found themselves accidentally watching a Jensen Huang deepfake promoting a cryptocurrency scam, after YouTube … [+2184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Musk says Samsung's Texas fab outclasses TSMC's US-based fabs — with AI5 still in development, questions remain over whether Tesla will need advanced tools",
-      "description": "Elon Musk's statement that Samsung's Taylor, Texas fab is more advanced than TSMC's Fab 21 in Arizona reflects the newer 3nm-era tools being installed there. However, this advantage has little relevance for Tesla's AI5 processor, which likely relies on SF4A F…",
-      "url": "https://www.tomshardware.com/tech-industry/musk-says-samsungs-texas-fab-outclasses-tsmc-fab-21-with-ai5-still-in-development-questions-remain-over-whether-tesla-will-need-advanced-tools",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/TdcHL2vJrbPR3aV5DhwCaB-1920-80.jpg",
-      "publishedAt": "2025-10-28T16:41:08Z",
-      "content": "Last week, Elon Musk announced that Tesla would make its next-generation AI5 processor in the U.S. and would double-source this system-on-chip from both TSMC and Samsung Foundry. This is down to Tesl… [+11360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia unveils Vera Rubin supercomputers for Los Alamos National Laboratory, total of seven new supercomputers — announcement comes on heels of AMD's recent supercomputer wins",
-      "description": "Nvidia and HPE will build the Mission and Vision supercomputers for Los Alamos based on the Vera Rubin platform to advance national-security and open-science research using AI simulation and scientific computing.",
-      "url": "https://www.tomshardware.com/tech-industry/supercomputers/nvidia-unveils-vera-rubin-supercomputers-for-los-alamos-national-laboratory-announcement-comes-on-heels-of-amds-recent-supercomputer-wins",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WafuwVWN2Nctp7334w3JfE-1600-80.jpg",
-      "publishedAt": "2025-10-28T16:40:16Z",
-      "content": "Nvidia announced at GTC that it would team up with HPE to build two new supercomputers based on its Vera Rubin platform for Los Alamos National Laboratory. The machine will be used for national secur… [+2826 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "GitHub's new Agent HQ gives devs a command center for all their AI tools - why this is a huge deal",
-      "description": "GitHub just brought Codex, Claude, and Jules together in one agentic development platform. Here's how it works and why it matters.",
-      "url": "https://www.zdnet.com/article/githubs-new-agent-hq-gives-devs-a-command-center-for-all-their-ai-tools-why-this-is-a-huge-deal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/94933b5480674665cd088813bcbaffadd34ea4c8/2025/10/28/c77a6c19-0c5f-47fa-b9c5-e5b9793aa889/github-unveils-agent-hq-a-massive-ai-upgrade-with-openai-claude-and-jules2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T16:36:00Z",
-      "content": "Github / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>GitHub launches Agent HQ to unite Codex, Claude, and Jules.</li><li>Devel… [+8626 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Elon Musk's Grokipedia launches, filled to the brim with plagiarism and AI slop",
-      "description": "Scratch Grokipedia and Wikipedia bleeds What do you do if you're the richest man on Earth and don't like Wikipedia? Start your own imitation encyclopedia, call it Grokipedia, lift a bunch of pages from the site, and let AI fill in the rest. Obviously, that's …",
-      "url": "https://www.theregister.com/2025/10/28/elon_musks_grokipedia_launches/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_1575538918.jpg",
-      "publishedAt": "2025-10-28T16:33:14Z",
-      "content": "What do you do if you're the richest man on Earth and don't like Wikipedia? Start your own imitation encyclopedia, call it Grokipedia, lift a bunch of pages from the site, and let AI fill in the rest… [+2781 chars]"
     }
   ]
 }
