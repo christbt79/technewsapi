@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-30T20:10:13.993Z",
+  "fetchedAt": "2025-10-30T20:38:34.166Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "ServiceNow tops estimates, approves 5-for-1 stock split",
+      "description": "ServiceNow reported third-quarter results on Wednesday that blew past Wall Street's expectations and its board approved a five-for-one stock split.",
+      "url": "https://www.cnbc.com/2025/10/29/servicenow-now-earnings-q3-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217775-1761657308000-gettyimages-2223987540-ALLEN__CO_2025.jpeg?v=1761657355&w=1920&h=1080",
+      "publishedAt": "2025-10-29T20:24:36Z",
+      "content": "ServiceNow reported third-quarter results on Wednesday that blew past Wall Street's estimates, with the company also approving a five-for-one stock split.\r\nShares rose 4%. \r\nHere's how the company di… [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lily Hay Newman",
+      "title": "The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures",
+      "description": "The second major cloud outage in less than two weeks, Azure's downtime highlights the “brittleness” of a digital ecosystem that depends on a few companies never making mistakes.",
+      "url": "https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/",
+      "urlToImage": "https://media.wired.com/photos/69025f9c42a73fc665080443/191:100/w_1280,c_limit/sec-microsoft-azure--2190627170.jpg",
+      "publishedAt": "2025-10-29T20:20:07Z",
+      "content": "Microsoft's Azure cloud platform, its widely used 365 services, Xbox, and Minecraft started suffering outages at roughly noon Eastern time on Wednesday, the result of what Microsoft said was an inadv… [+2769 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta’s Reality Labs posts $4.4 billion loss in third quarter",
+      "description": "The Reality Labs business, focused on virtual and augmented reality, lost $4.4 billion loss in third quarter while recording $470 million in sales.",
+      "url": "https://www.cnbc.com/2025/10/29/metas-reality-labs-posts-4point4-billion-loss-in-third-quarter.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200610-1758197176239-gettyimages-2235448205-META_CONNECT.jpeg?v=1761594857&w=1920&h=1080",
+      "publishedAt": "2025-10-29T20:18:13Z",
+      "content": "Meta continues to sink money into the metaverse, anchored by virtual reality and augmented reality technologies.\r\nThe company reported third-quarter earnings on Wednesday and said that the Reality La… [+1575 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/337aa6db2d564a47ec7a768d10138ee2315aefdd/2025/07/08/9a13bf32-aa2f-444e-be40-0070a1eb60d7/dsc06439.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-28T21:00:31Z",
       "content": "Kerry Wan/ZDNET\r\nIf you're a fan of Samsung Galaxy watches but haven't yet sprung for the Watch 8 Classic model, now's the perfect time to do so. Right now you can trade in a Samsung Galaxy Watch 5 P… [+3262 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Nvidia, Oracle to build 7 supercomputers for Department of Energy, including its largest ever",
-      "description": "100,000 Blackwell GPUs and 2,200 exaFLOPs make for a big system The US Department of Energy is partnering with Nvidia and Oracle to build seven new AI supercomputers to accelerate scientific research and develop agentic AI for discovery. Two of these systems,…",
-      "url": "https://www.theregister.com/2025/10/28/nvidia_oracle_supercomputers_doe/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_1394053004.jpg",
-      "publishedAt": "2025-10-28T20:58:32Z",
-      "content": "The US Department of Energy is partnering with Nvidia and Oracle to build seven new AI supercomputers to accelerate scientific research and develop agentic AI for discovery. Two of these systems, loc… [+3428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "No one pays ransomware demands anymore - so attackers have a new goal",
-      "description": "Ransomware payments were made in around 85% of attacks in 2019. But things have changed dramatically since then. Here's why.",
-      "url": "https://www.zdnet.com/article/no-one-pays-ransomware-demands-anymore-so-attackers-have-a-new-goal/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/84d013b5b8e77e463e7002160cd9d7b33181aac5/2025/10/28/90176f62-722e-49ba-8589-af615ffd439e/gettyimages-942607134.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T20:56:00Z",
-      "content": "solarseven/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Ransomware payments have reached a historic low of 23%.</li><li>Dropping suc… [+4302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "US and Japan move to loosen China’s rare earths grip — nations partner to build alternative pathways to power, resource independence",
-      "description": "Announced on October 28 in Tokyo, the agreement commits both governments to securing mineral flows and accelerating the deployment of advanced nuclear power.",
-      "url": "https://www.tomshardware.com/tech-industry/us-and-japan-move-to-pry-rare-earths-from-chinas-grip",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cZHA3wMmPpyS9kK9BhmAF9-1920-80.png",
-      "publishedAt": "2025-10-28T20:04:18Z",
-      "content": "The US and Japan have signed a rare earths and energy cooperation agreement aimed squarely at China’s chokehold on critical tech supply chains. Announced on October 28 in Tokyo, the agreement commits… [+2458 chars]"
     }
   ]
 }
