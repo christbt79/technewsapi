@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-30T00:45:22.841Z",
+  "fetchedAt": "2025-10-30T02:25:51.283Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "This new AI browser lets you set up 'Skills' to take on your everyday tasks - how it works",
+      "description": "Agentic browsers are everywhere, each with its pros and cons. Now, Strawberry Browser is taking a novel approach to automating your repetitive tasks.",
+      "url": "https://www.zdnet.com/article/this-new-ai-browser-lets-you-set-up-skills-to-take-on-your-everyday-tasks-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/73c1bf1057814787d2fffe6c731ba73d75549383/2025/10/28/e9f8c3ab-f8f0-4780-977b-84ce94a8518a/redpaper555gettyimages-1394045673.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T02:00:32Z",
+      "content": "MirageC/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Strawberry Browser is a new agentic browser.</li><li>With Skills, you can make r… [+4697 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: It's a boom, it's a bubble, it's still not enough for investors: It's AI",
+      "description": "Investors can't get enough of AI, despite worries over high valuations — and tech companies can't get enough of each other, either.",
+      "url": "https://www.cnbc.com/2025/10/29/cnbc-daily-open-boom-or-bubble-investors-cant-get-enough-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418096-1716321352932-gettyimages-2153474412-AFP_34TH9MQ.jpeg?v=1756437228&w=1920&h=1080",
+      "publishedAt": "2025-10-29T01:25:39Z",
+      "content": "Investors can't get enough of artificial intelligence, despite worries over the sector's excessively high valuations.\r\nThe S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite rose Tuesday … [+1897 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "John.Higgins",
+      "title": "Amazon’s Echo Studio is smaller but mightier",
+      "description": "The majority of Amazon smart speakers lean more into the \"smart\" than the \"speaker,\" except for the Echo Studio. That device, which arrived in November 2019, was an imposing, sound-quality-first speaker that delivered Alexa functionality alongside impressive …",
+      "url": "https://www.theverge.com/tech/808520/amazon-echo-studio-2025-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T01:00:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Atmos smart speaker goes up against the HomePod 2 and wins.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statemen… [+8700 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/GenerateSoundtrack.jpg?quality=90&strip=all&crop=0%2C9.0459569517161%2C88%2C81.908086096568&w=1200",
       "publishedAt": "2025-10-28T11:20:59Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd unlike many AI music-makers, Adobe says its new Firefly tools are completely safe to use commercially.\r\nAnd unlike many AI music-makers, Adobe says its new F… [+4490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta's AI app has seen growth soar since launch of Vibes, but trails OpenAI's Sora",
-      "description": "The Meta AI app has seen a major jolt in downloads since the company launched Vibes and began paying creators to make AI-generated videos.",
-      "url": "https://www.cnbc.com/2025/10/28/meta-ai-vibes-on-wall-street-radar-in-q3-earnings-trails-openai-sora.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200607-1758197174388-gettyimages-2235448056-META_CONNECT.jpeg?v=1758739143&w=1920&h=1080",
-      "publishedAt": "2025-10-28T11:00:01Z",
-      "content": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., wears a pair of Meta Oakley Vanguard AI glasses during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2… [+6419 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Anna Lagos",
-      "title": "China Dives in on the World’s First Wind-Powered Undersea Data Center",
-      "description": "The $226 million project uses ocean breezes and seawater to stay cool.",
-      "url": "https://www.wired.com/story/china-dives-in-on-the-worlds-first-wind-powered-undersea-data-center/",
-      "urlToImage": "https://media.wired.com/photos/68fab92565a13f02607aecfa/191:100/w_1280,c_limit/Screenshot%202025-10-23%20at%2011.33.04%E2%80%AFa.m..png",
-      "publishedAt": "2025-10-28T11:00:00Z",
-      "content": "The project is environmentally sustainable in other ways. More than 95 percent of its electricity comes from offshore wind turbines. Overall, the designers estimate that this reduces energy consumpti… [+1992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Bill Gates softens 'Climate Disaster' approach, says too many resources are going to fight the problem",
-      "description": "Microsoft co-founder Bill Gates says countries and leaders need to shift their approach to climate change and focus on 'improving lives'",
-      "url": "https://www.cnbc.com/2025/10/28/bill-gates-says-countries-need-to-rethink-their-climate-strategy.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194846-17570782952025-09-05t001447z_1374391004_rc2blgak2e5j_rtrmadp_0_usa-trump.jpeg?v=1757078334&w=1920&h=1080",
-      "publishedAt": "2025-10-28T10:52:45Z",
-      "content": "Microsoft co-founder Bill Gates, who wrote a book in 2021 titled, \"How to Avoid a Climate Disaster,\" now says leaders need to shift their approach to climate change.\r\nIn a letter published Tuesday ah… [+3081 chars]"
     }
   ]
 }
