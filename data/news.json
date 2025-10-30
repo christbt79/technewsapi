@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T04:40:28.771Z",
+  "fetchedAt": "2025-10-30T05:09:39.130Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "Google Workspace Promo Code: Up to 14% Off in October 2025",
+      "description": "Save on your Google Workspace plan with verified promo codes from WIRED. Get 10% off Starter, 12% off Standard, or 14% off Plus plans for three months when you sign up before January 31, 2026.",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "urlToImage": "https://media.wired.com/photos/67b63b967f8fc45af4896200/191:100/w_1280,c_limit/WIRED-Coupons-R2_7.png",
+      "publishedAt": "2025-10-29T05:00:00Z",
+      "content": "Google Workspace is the modern business worlds de facto productivity suite, and its only gotten better over the years. Theres the centralization of Google Docs, Drive, and Gmail, of course, but Googl… [+2712 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/28/job_cuts.jpg",
       "publishedAt": "2025-10-28T11:33:38Z",
       "content": "Amazon is cutting 14,000 corporate jobs, blaming the accelerating impact of artificial intelligence for changing how the company operates and how many people it needs.\r\nIn a public statement, Beth Ga… [+3197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google investors have big expectations after stock’s sharpest quarterly rally in 20 years",
-      "description": "Following a 38% jump in Alphabet shares in the third quarter, Wall Street will be paying close attention to the company's comments on its AI strategy.",
-      "url": "https://www.cnbc.com/2025/10/28/google-investors-high-hopes-after-stocks-sharpest-rally-in-20-years.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
-      "publishedAt": "2025-10-28T11:30:01Z",
-      "content": "Google CEO Sundar Pichai waves as he arrives to attend the Artificial Intelligence (AI) Action Summit at the Grand Palais in Paris, France, February 11, 2025. \r\nAlphabet has a high bar to clear when … [+6418 chars]"
     }
   ]
 }
