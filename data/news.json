@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-30T17:08:59.544Z",
+  "fetchedAt": "2025-10-30T17:38:52.550Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Google to bring shuttered nuclear power plant back from the dead | TechCrunch",
+      "description": "Google is working with NextEra to reopen the Duane Arnold Energy Center in Iowa to power the tech companies data centers.",
+      "url": "https://techcrunch.com/2025/10/29/google-to-bring-shuttered-nuclear-power-plant-back-from-the-dead/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Duane-Arnold-reactor.jpg?resize=1200,952",
+      "publishedAt": "2025-10-29T17:24:05Z",
+      "content": "Google announced this week it is working with NextEra Energy to revive a nuclear power plant in Iowa that had closed in 2020.\r\nNextEra has been looking for a partner to reopen the reactor for the pas… [+2016 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "Extropic Aims to Disrupt the Data Center Bonanza",
+      "description": "A startup hopes to challenge Nvidia, AMD, and Intel with a chip that wrangles probabilities rather than ones and zeros.",
+      "url": "https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/",
+      "urlToImage": "https://media.wired.com/photos/69023ea55216e0070a31d8c6/191:100/w_1280,c_limit/brass_on_wood_2.jpg",
+      "publishedAt": "2025-10-29T17:11:10Z",
+      "content": "Extropic, a startup developing an exotic new kind of computer chip that handles probabilistic bits, has produced its first working hardware along with proof that more advanced systems will tackle use… [+2898 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1247809421.jpg?resize=1200,680",
       "publishedAt": "2025-10-28T18:20:00Z",
       "content": "Vram Ismaliyan spent nearly 14 years at Wells Fargo, selling payment infrastructure strategies to Fortune 500 companies.  Despite being a top performer in the payments division, he felt constantly bo… [+3078 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jensen Huang says Nvidia's AI chips are now being manufactured in Arizona",
-      "description": "Previously, Nvidia's fastest GPUs were solely manufactured in Taiwan.",
-      "url": "https://www.cnbc.com/2025/10/28/nvidia-jensen-huang-gtc-washington-dc-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217917-1761667541425-gettyimages-2243371156-NVIDIA_AI_KEYNOTE.jpeg?v=1761667666&w=1920&h=1080",
-      "publishedAt": "2025-10-28T18:01:34Z",
-      "content": "Jensen Huang, chief executive officer of Nvidia Corp., speaks to members of the media prior to the keynote address at the Nvidia AI summit in Washington, DC, US, on Tuesday, Oct. 28, 2025. \r\nNvidia C… [+6149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "OpenAI and Microsoft sign agreement to restructure OpenAI into a public benefit corporation with Microsoft retaining 27% stake — non-profit 'Open AI Foundation' to oversee 'Open AI PBC'",
-      "description": "OpenAI is restructuring into a public benefit corporation with Microsoft retaining a 27% stake in the new \"OpenAI PBC,\" worth roughly $135 billion. OpenAI PBC will still be overseen by the non-profit OpenAI Inc., soon to be renamed OpenAI Foundation. Both com…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-sign-agreement-to-restructure-openai-into-a-public-benefit-corporation-with-microsoft-retaining-27-percent-stake-non-profit-open-ai-foundation-to-oversee-open-ai-pbc",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3EJozH85guJFiELF2KMrf3-960-80.webp",
-      "publishedAt": "2025-10-28T18:00:52Z",
-      "content": "OpenAI has been at the forefront of the rapidly expanding artificial intelligence industry for years, with ChatGPT largely responsible for ushering in this new era of technology. Microsoft was an ear… [+4215 chars]"
     }
   ]
 }
