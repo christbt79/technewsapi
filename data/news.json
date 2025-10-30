@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T08:12:57.729Z",
+  "fetchedAt": "2025-10-30T08:44:29.958Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia CEO Jensen Huang starts a key trip to South Korea — here's what he might be up to",
+      "description": "Nvidia CEO Jensen Huang is headed to South Korea where he is expected to meet President Donald Trump and the country's top business executives.",
+      "url": "https://www.cnbc.com/2025/10/29/nvidia-ceo-jensen-huang-south-korea-trip-what-to-expect.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139103-17460485422025-04-30t212829z_78593056_rc2g8ea6njsw_rtrmadp_0_usa-trump.jpeg?v=1747154544&w=1920&h=1080",
+      "publishedAt": "2025-10-29T08:26:38Z",
+      "content": "Nvidia CEO Jensen Huang delivers remarks next to U.S. President Donald Trump at an 'Investing in America' event in Washington, D.C., on April 30, 2025.\r\nNvidia CEO Jensen Huang is headed to South Kor… [+3852 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Express-AI-Assistant.png?quality=90&strip=all&crop=0%2C3.5043662306087%2C100%2C92.991267538783&w=1200",
       "publishedAt": "2025-10-28T11:59:02Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nAdobe says its design platforms AI chatbot can interpret vague prompts to pull off multi-step requests.\r\nAdobe says its design platforms AI chatbot can interpret… [+3995 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Photoshop and Premiere Pro’s new AI tools can instantly edit more of your work",
-      "description": "Adobe has kicked off its annual Max event, giving us a first look at new and upcoming generative AI tools launching for the company’s Photoshop, Premiere Pro, and Lightroom Creative Cloud apps. These include updates to Photoshop’s Generative Fill feature that…",
-      "url": "https://www.theverge.com/news/807811/adobe-photoshop-lightroom-premiere-pro-ai-max-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/GenFill.jpg?quality=90&strip=all&crop=0%2C10.039024626721%2C85.866662597656%2C79.921950746558&w=1200",
-      "publishedAt": "2025-10-28T11:58:49Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAdobes Creative Cloud and Firefly apps are adding new ways to do labor-intensive photo and video editing tasks for you.\r\nAdobes Creative Cloud and Firefly apps a… [+3783 chars]"
     }
   ]
 }
