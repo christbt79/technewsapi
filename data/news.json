@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T03:29:38.767Z",
+  "fetchedAt": "2025-10-30T03:53:35.929Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump signals he plans to speak to China's Xi about Nvidia's 'super duper' chips",
+      "description": "U.S. President Donald Trump says he plans to discuss Nvidia’s advanced Blackwell AI chips with Chinese President Xi Jinping later this week.",
+      "url": "https://www.cnbc.com/2025/10/29/trump-signals-he-plans-to-speak-to-chinas-xi-about-nvidias-super-duper-chips.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218106-1761678855548-gettyimages-2242782397-776406311_gyi-1024-whitehouse_KKN.jpeg?v=1761678949&w=1920&h=1080",
+      "publishedAt": "2025-10-29T03:31:58Z",
+      "content": "U.S. President Donald Trump plans to discuss Nvidia's advanced AI chips with Chinese President Xi Jinping during their widely expected meeting on Thursday, he told a media scrum Wednesday. \r\nWhile ta… [+1550 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
       "publishedAt": "2025-10-28T11:30:01Z",
       "content": "Google CEO Sundar Pichai waves as he arrives to attend the Artificial Intelligence (AI) Action Summit at the Grand Palais in Paris, France, February 11, 2025. \r\nAlphabet has a high bar to clear when … [+6418 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Adobe’s new AI audio tools can add soundtracks and voice-overs to videos",
-      "description": "Adobe is giving filmmakers new generative AI audio tools that can quickly add thematically appropriate backing tracks and narration to videos. Generate Soundtrack and Generate Speech are being introduced to a redesigned Adobe Firefly AI app, while Adobe is al…",
-      "url": "https://www.theverge.com/news/807809/adobe-firefly-ai-audio-generate-soundtrack-speech",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/GenerateSoundtrack.jpg?quality=90&strip=all&crop=0%2C9.0459569517161%2C88%2C81.908086096568&w=1200",
-      "publishedAt": "2025-10-28T11:20:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd unlike many AI music-makers, Adobe says its new Firefly tools are completely safe to use commercially.\r\nAnd unlike many AI music-makers, Adobe says its new F… [+4490 chars]"
     }
   ]
 }
