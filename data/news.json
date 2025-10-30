@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-10-30T13:04:17.228Z",
+  "fetchedAt": "2025-10-30T13:45:15.473Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "TikTok can use AI to turn your long video into short ones",
+      "description": "TikTok announced three new features at its US Creator Summit yesterday. They include an update to revenue sharing for creators that offer subscriptions plus tools that can help with both the early planning stages of a video, and the process of editing longer …",
+      "url": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/tiktok1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T13:45:01Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart Split automatically turns videos longer than a minute into bite-size clips reframed vertically for phones.\r\nSmart Split automatically turns videos longer t… [+3355 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "OpenAI and Microsoft finally have a new deal - and it's all about AGI",
+      "description": "Sam Altman outlined a loose roadmap for what's to come, including Microsoft's role and OpenAI's goals for achieving superintelligence.",
+      "url": "https://www.zdnet.com/article/openai-and-microsoft-finally-have-a-new-deal-and-its-all-about-agi/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/839a369714b16097bf5b93dbbccdc6164fb2578c/2025/09/29/6d8b293f-34da-48f4-8088-3011a97c178e/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T13:35:05Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI finalized its restructuring, prioritizing AI.</li><li>Its nonprofit arm is n… [+4754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "AI layoffs to backfire: half quietly rehired at lower pay",
+      "description": "Bosses banking on automation? 55% will regret those job cuts\nMany organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles — often \"offshore or at lower salary.\"…<!--#include virtual='/data_centre/_whitepaper_…",
+      "url": "https://www.theregister.com/2025/10/29/forrester_ai_rehiring/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/20/hiring.jpg",
+      "publishedAt": "2025-10-29T13:30:39Z",
+      "content": "Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles often \"offshore or at lower salary.\"\r\nAccording to Forrester's \"Predictions 2026: The F… [+2561 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "OpenAI has an AGI problem — and Microsoft just made it worse",
+      "description": "OpenAI is ending October with a new for-profit structure, a new deal with Microsoft, and an entirely new level of pressure to achieve artificial general intelligence. The generally accepted definition of AGI is an artificial intelligence system that equals or…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T13:19:21Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe competition is heating up.\r\nThe competition is heating up.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author will be added to your daily email dig… [+7458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Recruiters are 'drinking through a fire hose' of job applications, experts say—AI is partially to blame",
+      "description": "Recruiters and hiring managers are dealing with an unprecedented spike in job applications, and the numbers are \"overwhelming,\" according to experts.",
+      "url": "https://www.cnbc.com/2025/10/29/recruiters-are-drinking-through-a-fire-hose-of-job-applications-experts-say.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170818-1752241908302-gettyimages-1843733338-mdk-47.jpeg?v=1761595822&w=1920&h=1080",
+      "publishedAt": "2025-10-29T13:19:08Z",
+      "content": "Talent professionals and job seekers alike are grappling with the enormous rise in job applications submitted every day, according to experts.\r\nThe number of applications submitted on LinkedIn has su… [+5204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "From futuristic NEOM to tech and tourism, Saudi Arabia's priorities are shifting",
+      "description": "Saudi's economy minister told CNBC the country was \"reprioritizing a little bit towards sectors that need it the most.\"",
+      "url": "https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107408664-1714563748310-KSA_The_Line_3_4096-2304-max.jpg?v=1714563906&w=1920&h=1080",
+      "publishedAt": "2025-10-29T13:18:23Z",
+      "content": "Digital render of NEOM's The Line project in Saudi Arabia\r\nWhen Saudi Arabia first announced plans to reinvent its oil-based economy, huge infrastructure projects like the futuristic region NEOM and … [+4034 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/2mTTeMrwaEY9yDvu8qZMEK-2048-80.png",
       "publishedAt": "2025-10-28T15:13:53Z",
       "content": "With the worldwide adoption of renewable energy, plus the fact that semiconductor factories require tons of watts, you'd think that Taiwan, of all places, would be awash with power generation of the … [+2875 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "AMD swoops in to help as John Carmack slams Nvidia's $4,000 DGX Spark, says it doesn't hit performance claims, overheats, and maxes out at 100W power draw — developer forums inundated with crashing and shutdown reports",
-      "description": "Nvidia’s DGX Spark, the company’s new $4,000 developer box powered by the Grace Blackwell GB10 superchip, is under fire after questions were raised about real-world performance and power draw.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/users-question-dgx-spark-performance",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RhwFRz4LybCHeJ2P3h4V8S-2560-80.jpg",
-      "publishedAt": "2025-10-28T15:09:13Z",
-      "content": "Nvidia’s DGX Spark, the company’s new $4,000 mini PC platform powered by the Grace Blackwell GB10 superchip\r\n, is under fire after John Carmack, the former CTO of Oculus VR, began raising questions a… [+3491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Don't know Photoshop? Adobe's new AI tool can do image edits for you now - just ask",
-      "description": "Adobe's new AI image model and Prompt to Edit tool aim to eliminate the pain of complex photo-editing tasks.",
-      "url": "https://www.zdnet.com/article/dont-know-photoshop-adobes-new-ai-tool-can-do-image-edits-for-you-now-just-ask/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5aede14e32cd4a0491e02363d91975dfbbb61f2a/2025/10/28/912af1f9-3f5b-46f4-96a1-058777589777/gettyimages-1577457976.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T15:01:00Z",
-      "content": "Adobe\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Adobe has launched new AI image-generating tools at Adobe Max.</li><li>Adobe Firefly Image Model 5 is the … [+3534 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Apple and Microsoft are now both worth more than $4T",
-      "description": "This is the first time Apple's market capitalization has crossed the $4 trillion mark, making it the third company to ever cross the milestone after Nvidia and Microsoft.",
-      "url": "https://techcrunch.com/2025/10/28/apple-and-microsoft-are-now-both-worth-more-than-4t/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1329996497-1.jpg?resize=1200,800",
-      "publishedAt": "2025-10-28T14:59:52Z",
-      "content": "Apple and Microsoft are now both worth more than $4 trillion each.\r\nThis is the first time Apple’s market capitalization has crossed the $4 trillion mark, making it the third company to ever cross th… [+1051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "Anthropic's Claude is learning Excel so you don't have to",
-      "description": "Good luck to the 1,000 enterprise guinea pigs on the initial preview\nAnthropic has opened a waitlist for Claude for Excel, promising spreadsheet devotees that its LLM will be able to understand their entire workbook.…",
-      "url": "https://www.theregister.com/2025/10/28/anthropic_claude_excel/",
-      "urlToImage": "https://regmedia.co.uk/2022/01/20/excel.png",
-      "publishedAt": "2025-10-28T14:49:28Z",
-      "content": "Anthropic has opened a waitlist for Claude for Excel, promising spreadsheet devotees that its LLM will be able to understand their entire workbook.\r\nForty years since its launch, Excel is the product… [+3878 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Monica Bell",
-      "title": "Sign up for T-Mobile and get a free Swarovski Motorola Razr - here's how",
-      "description": "T-Mobile is offering up to $1,000 off a Swarovski Razr phone (as well as other Razr and Google Pixel phones) when you sign up with certain plans. Here's how it works.",
-      "url": "https://www.zdnet.com/article/sign-up-for-t-mobile-and-get-a-free-swarovski-motorola-razr-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/18364da580699bf6ba01d746b5685ef127c533ee/2025/10/27/f6e036af-a848-42a8-8f38-907f306163dc/razr-swarovski-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T14:34:04Z",
-      "content": "T-Mobile/ZDNET\r\nIf you've been considering starting or opening a new phone line with T-Mobile and you have an eye for luxury, we found a great deal for you to take advantage of. T-Mobile will give yo… [+2619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "Is your company spending big on new tech? Here are 5 ways to prove it's paying off",
-      "description": "Measuring ROI can be tricky, so we spoke with several CIOs about how to make sure your board or leadership sees it.",
-      "url": "https://www.zdnet.com/article/is-your-company-spending-big-on-new-tech-here-are-5-ways-to-prove-its-paying-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d35455cbb99f3d1d2ad5aef4605c22215f205d63/2025/10/20/432db3db-b717-459e-a129-79bc59c9c577/gettyimages-1297916126.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T14:33:37Z",
-      "content": "twomeows / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Digital transformation success is a fast-moving target.</li><li>Smart CIOs coll… [+8060 chars]"
     }
   ]
 }
