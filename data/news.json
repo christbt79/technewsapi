@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-30T10:10:23.709Z",
+  "fetchedAt": "2025-10-30T10:41:44.589Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Cops alerted by AI gun detection system arrest high school student holding bag of Doritos — eight cars sent to disarm chip-toting teen",
+      "description": "A young student was left traumatized after being ordered to the ground and handcuffed by police because an AI gun detection system erroneously called the cops on his Doritos habit.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cops-alerted-by-ai-gun-detection-system-arrest-high-school-student-holding-bag-of-doritos-eight-cars-sent-to-disarm-chip-toting-teen",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ttWRMsX2L7BJy8T5QYiLjL-1920-80.jpg",
+      "publishedAt": "2025-10-29T10:41:32Z",
+      "content": "A young student was left traumatized after being ordered to the ground and handcuffed by police because an AI gun detection system erroneously called the cops on his Doritos habit.\r\nTaki Allen ate th… [+3271 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Nvidia reveals Vera Rubin Superchip for the first time — incredibly compact board features 88-core Vera CPU, two Rubin GPUs, and 8 SOCAMM modules",
+      "description": "First images of Nvidia's Vera Rubin Superchip depicting two Rubin GPUs and a multi-chiplet Vera CPU surrounded by SOCAMM2 memory modules emerge.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reveals-vera-rubin-superchip-for-the-first-time-incredibly-compact-board-features-88-core-vera-cpu-two-rubin-gpus-and-8-socamm-modules",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iW8XU6BHtKpxAmtGpNNbf-2560-80.jpg",
+      "publishedAt": "2025-10-29T10:38:59Z",
+      "content": "At its GTC keynote in DC on Tuesday, Nvidia unveiled its next-generation Vera Rubin Superchip, comprising two Rubin GPUs for AI and HPC as well as its custom 88-core Vera CPU. All three components wi… [+2871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "World’s largest sovereign wealth fund gains 5.8% in third quarter",
+      "description": "The fund, the largest of its kind in the world, said its value grew 854 billion NOK in Q3, powered by strong equities gains.",
+      "url": "https://www.cnbc.com/2025/10/29/norway-2-trillion-sovereign-wealth-fund-q3-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105978605-1561018690965gettyimages-469162965.jpeg?v=1761313115&w=1920&h=1080",
+      "publishedAt": "2025-10-29T10:33:59Z",
+      "content": "Norway's $2 trillion sovereign wealth fund the largest of its kind in the world  on Wednesday reported a 5.8% return during the third quarter, powered by strong stock market gains across mining, tele… [+3013 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Express-AI-Assistant.jpeg?resize=1200,676",
       "publishedAt": "2025-10-28T12:08:32Z",
       "content": "Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing.\r\nMost companies like to put AI assistants into a sidebar in… [+2171 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Adobe Firefly Image 5 brings support for layers, will let creators make custom models | TechCrunch",
-      "description": "Adobe said on Tuesday that it is launching the latest iteration of its image generation model, Firefly Image 5. The company is also adding features to the Firefly website, support for more third-party models, and the ability to generate speech and soundtracks.",
-      "url": "https://techcrunch.com/2025/10/28/adobe-firefly-image-5-brings-support-for-layers-will-let-creators-make-custom-models/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-      "publishedAt": "2025-10-28T12:05:08Z",
-      "content": "Adobe said on Tuesday that it is launching the latest iteration of its image generation model, Firefly Image 5. The company is also adding more features to the Firefly website, support for more third… [+2956 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Adobe's new AI tool lets you fix your photos with simple text commands - try it today",
-      "description": "Adobe's new AI image model and Prompt to Edit tool aim to eliminate the pain of complex photo-editing tasks.",
-      "url": "https://www.zdnet.com/article/adobes-new-prompt-to-edit-tool-lets-you-fix-your-photos-with-simple-text-commands-try-it-today/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1a6319f0db9b4c84d4c5f813fab5b1e88196dc49/2025/10/27/21211902-2037-4ca7-81f9-29c842caf02e/fireflyimagemodel5.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T12:00:30Z",
-      "content": "Adobe\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Adobe has launched new AI image-generating tools at Adobe Max.</li><li>Adobe Firefly Image Model 5 is the … [+3534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Photoshop's biggest AI update yet just dropped - how to try all the new tools",
-      "description": "Adobe has brought conversational editing and a host of other AI features to Photoshop. Here's what's new.",
-      "url": "https://www.zdnet.com/article/photoshops-biggest-ai-update-yet-just-dropped-how-to-try-all-the-new-tools/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/caef79f8bbe5c22511fb550b5b53b8f99e6d9157/2025/10/28/56db6396-469a-422f-8deb-dfbaaf1e6f6d/adobe-is-bringing-conversational-editing-and-a-host-of-other-ai-features-to-photoshop-heres-whats-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T12:00:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Photoshop is getting several new AI-powered features.</li><li>The features are des… [+3007 chars]"
     }
   ]
 }
