@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T14:09:21.982Z",
+  "fetchedAt": "2025-10-30T14:41:25.804Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Nvidia pitches Omniverse DSX as model for gigawatt-scale AI factories",
+      "description": "GPU giant teams with partners to create digital twin blueprint for next-gen datacenters Nvidia unveiled Omniverse DSX at its GTC event in Washington DC — a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.…",
+      "url": "https://www.theregister.com/2025/10/29/nvidia_omniverse_dsx/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/29/nvidiaaifactory.jpg",
+      "publishedAt": "2025-10-29T14:16:07Z",
+      "content": "Nvidia unveiled Omniverse DSX at its GTC event in Washington DC a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.\r\nThe GPU giant also confirmed the … [+2387 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108117858-17423285082025-03-18t200614z_1442080187_rc2ufdas1sqq_rtrmadp_0_nvidia-gtc-keynote.jpeg?v=1742397317&w=1920&h=1080",
       "publishedAt": "2025-10-28T15:51:02Z",
       "content": "[The stream is slated to start at 12 p.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nNvidia CEO Jensen Huang will deliver a keynote speech from Washington at 12 p.m.… [+966 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia takes $1 billion stake in Nokia",
-      "description": "Nokia said that it would use the proceeds to fund its plans for AI and other general corporate purposes.",
-      "url": "https://www.cnbc.com/2025/10/28/nvidia-nokia-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108048898-1729156900837-gettyimages-2041810949-_k0a2127_i405ekps.jpeg?v=1761666318&w=1920&h=1080",
-      "publishedAt": "2025-10-28T15:47:01Z",
-      "content": "Nokiaannounced on Tuesday that Nvidia will purchase $1 billion in new Nokia shares, the latest equity stake in a strategic partner for the AI chip giant. \r\nNokia shares soared 20% higher following th… [+1377 chars]"
     }
   ]
 }
