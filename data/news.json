@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-30T23:08:40.053Z",
+  "fetchedAt": "2025-10-30T23:32:13.438Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Digg founder Kevin Rose on the need for trusted social communities in the AI era | TechCrunch",
+      "description": "\"The dead internet theory is real,\" Reddit co-founder Alexis Ohanian told Digg founder Kevin Rose, referring to the idea that much of the internet isn't",
+      "url": "https://techcrunch.com/2025/10/29/digg-founder-kevin-rose-on-the-need-for-trusted-social-communities-in-the-ai-era/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2244048690.jpg?resize=1200,800",
+      "publishedAt": "2025-10-29T23:29:43Z",
+      "content": "“The dead internet theory is real,” Reddit co-founder Alexis Ohanian told Digg founder Kevin Rose, referring to the idea that much of the internet isn’t human — it’s mostly bots. \r\nThe two entreprene… [+3628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta CEO Mark Zuckerberg defends AI spending: 'We're seeing the returns'",
+      "description": "Mark Zuckerberg is reminding investors that Meta needs to keep spending on artificial intelligence because of the risk of not investing enough.",
+      "url": "https://www.cnbc.com/2025/10/29/meta-ceo-mark-zuckerberg-defends-ai-spend-were-seeing-the-returns-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200609-1758197175452-gettyimages-2235448166-META_CONNECT.jpeg?v=1761656568&w=1920&h=1080",
+      "publishedAt": "2025-10-29T23:29:42Z",
+      "content": "Meta CEO Mark Zuckerberg is sounding a familiar tune when it comes to artificial intelligence: better to invest too much than too little.\r\nOn his company's third-quarter earnings call on Wednesday, Z… [+2966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google expects 'significant increase' in capital expenditure in 2026, execs say",
+      "description": "Alphabet is planning a \"significant increase\" in spend next year as it continues to invest in AI infrastructure to meet the demand of its customer backlog.",
+      "url": "https://www.cnbc.com/2025/10/29/google-expects-significant-increase-in-capex-in-2026-execs-say.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1761777160&w=1920&h=1080",
+      "publishedAt": "2025-10-29T23:27:24Z",
+      "content": "Google parent Alphabet is planning a \"significant increase\" in spend next year as it continues to invest in AI infrastructure to meet the demand of its customer backlog, executives said Wednesday.\r\nT… [+3131 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Matt Rosoff",
+      "title": "Microsoft seemingly just revealed that OpenAI lost $11.5B last quarter",
+      "description": "Satya has also delivered Sam most of the cash he promised\nMicrosoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $1…",
+      "url": "https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/21/shutterstock_altman_nadella.jpg",
+      "publishedAt": "2025-10-29T23:17:31Z",
+      "content": "Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of … [+2962 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/kumail-nanjiani-thomas-middleditch-martin-starr-zach-woods-photo-cred-john-p-johnson-for-hbo.jpg?resize=1200,800",
       "publishedAt": "2025-10-29T00:02:31Z",
       "content": "If you were wandering the Expo Hall at TechCrunch Disrupt 2025, or watching our pitch stage earlier Tuesday, you might have noticed a familiar face from Pied Piper. Thomas Middleditch, who starred in… [+591 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "OpenAI non-profit will run for-profit that has yet to make a profit",
-      "description": "Corporate restructuring will benefit ... uh, humanity\nOpenAI has obtained a new lease on life.…",
-      "url": "https://www.theregister.com/2025/10/28/openai_simplifies_corporate_structure_into/",
-      "urlToImage": "https://regmedia.co.uk/2019/07/22/msft-openai.jpg",
-      "publishedAt": "2025-10-28T23:54:11Z",
-      "content": "OpenAI has obtained a new lease on life.\r\nThe cash-burning AI biz on Tuesday announced an agreement with Microsoft that will allow it to form a public benefit corporation and recapitalize, meaning it… [+4316 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia-supplier SK Hynix third-quarter profit jumps 62% to a record high on AI-fueled memory demand",
-      "description": "SK Hynix posted record quarterly revenue and profit, boosted by a strong demand for its high bandwidth memory used in generative AI chipsets.",
-      "url": "https://www.cnbc.com/2025/10/29/sk-hynix-q3-profit-revenue-record-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106965517-1635211625420-gettyimages-1230847399-AFP_8ZR4ZR.jpeg?v=1761663037&w=1920&h=1080",
-      "publishedAt": "2025-10-28T23:14:17Z",
-      "content": "South Korea's SK Hynix, one of the world's largest memory chipmakers, on Wednesday posted record quarterly revenue and profit, boosted by a strong demand for its high bandwidth memory used in generat… [+2448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Google Play users are starting to see age verification checks - here's how it works",
-      "description": "Several months after AI-powered age verification rolled out to YouTube, age checks are hitting another Google service.",
-      "url": "https://www.zdnet.com/article/google-play-users-are-starting-to-see-age-verification-checks-heres-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b0b9675daf43a90a5ee07a83371f7dfb0ba095d9/2025/10/08/3d29fbee-6564-4aa6-9058-da9ae3c5b05a/dsc07915.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T23:10:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Age verification is rolling out in the Google Play Store.</li><li>Users will have several me… [+2433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Celestica CEO explains the company's role in the AI boom",
-      "description": "Celestica CEO Rob Mionis talked his business' strategy in an interview with CNBC's Jim Cramer.",
-      "url": "https://www.cnbc.com/2025/10/28/celestica-ceo-ai-boom.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218187-1761682850805-gettyimages-2227231495-img_0195.jpeg?v=1761682885&w=1920&h=1080",
-      "publishedAt": "2025-10-28T23:05:07Z",
-      "content": "Celestica CEO Rob Mionis explained how his company designs and manufactures infrastructure that enables artificial intelligence in a Tuesday interview with CNBC's Jim Cramer.\r\n\"If AI is a speeding fr… [+1864 chars]"
     }
   ]
 }
