@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-30T10:41:44.589Z",
+  "fetchedAt": "2025-10-30T11:08:14.397Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Target lost its style edge. Its new CEO wants to change that",
+      "description": "Target is trying to win back its reputation for style as it heads into the crucial holiday season and tries to rebound from stagnant sales.",
+      "url": "https://www.cnbc.com/2025/10/29/new-target-ceo-michael-fiddelke-aims-to-boost-clothing-home-goods.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218001-1761671400548-IMG_0108.jpg?v=1761671797&w=1920&h=1080",
+      "publishedAt": "2025-10-29T11:00:01Z",
+      "content": "Target's merchants and designers have drawn inspiration from traveling to rodeos, ski lodges and college campuses. Some of the retailer's fall accessories have western accents, such as purses with fr… [+12991 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple's iPhone Air doesn't look like a best-seller. It might not matter.",
+      "description": "Apple's earnings report this Thursday is critical for investors because it includes the first official sales for the iPhone 17 and the iPhone Air.",
+      "url": "https://www.cnbc.com/2025/10/29/apples-iphone-air-sales-in-focus-at-q4-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196371-1757442493263-gettyimages-2234527438-_75a6287_jjhq4tzw.jpeg?v=1761689831&w=1920&h=1080",
+      "publishedAt": "2025-10-29T11:00:01Z",
+      "content": "Apple's Thursday earnings report is critical for investors because it includes the first official sales figures for the iPhone 17. \r\nThe report covers sales through the end of September, which includ… [+5176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon opens $11 billion AI data center in rural Indiana as rivals race to break ground",
+      "description": "Amazon has opened a date center on 1,200 acres of land in Indiana dedicated to training and running models from Anthropic.",
+      "url": "https://www.cnbc.com/2025/10/29/amazon-opens-11-billion-ai-data-center-project-rainier-in-indiana.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218278-1761690885230-aws-ss3.png?v=1761691961&w=1920&h=1080",
+      "publishedAt": "2025-10-29T11:00:01Z",
+      "content": "Amazon's largest AI data center has seven completed buildings, with 30 total buildings planned on 1,200 acres in New Carlisle, Indiana, shown here on October 8, 2025.\r\nNEW CARLISLE, Indiana A year ag… [+9841 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "YouTube will let you opt out of AI upscaling on low-res videos",
+      "description": "YouTube has announced several new features that aim to improve the viewing experience on TV screens, including an instant shopping tool and visual upgrades for low-resolution videos. Specifically, YouTube says it will start automatically upscaling videos uplo…",
+      "url": "https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986640/acastro_STK092_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T10:46:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe platform is optimizing its TV experience with new resolution upscaling and shopping features.\r\nThe platform is optimizing its TV experience with new resoluti… [+3629 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176586-1753382224549-gettyimages-2226005161-ah708204.jpeg?v=1761652668&w=1920&h=1080",
       "publishedAt": "2025-10-28T12:32:04Z",
       "content": "The Federal Reserve is expected to lower interest rates by a quarter point at its meeting this week and could cut at the next two meetings as well, according to the October CNBC Fed Survey.\r\nBut ther… [+4361 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "8 ‘highly coveted’ skills that set introverts apart—they’re ‘superpowers’ that extroverts don’t always have, says expert",
-      "description": "So much advice out there for \"introverts suggests that the best way for us to succeed is to fake being an extrovert,\" writes Goldie Chan. That's not the case.",
-      "url": "https://www.cnbc.com/2025/10/28/8-highly-coveted-skills-that-set-introverts-apart-theyre-superpowers.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214763-1761058898765-GettyImages-2201653644.jpg?v=1761059091&w=1920&h=1080",
-      "publishedAt": "2025-10-28T12:30:01Z",
-      "content": "Introverts often grow up feeling out of place. After all, we live in a noisy, fast-paced world. But while life may seem to revolve around extroverts, the introverts' contribution are equally importan… [+5282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Server DRAM prices surge up to 50% as AI-induced memory shortage hits hyperscaler supply — U.S. and Chinese customers only getting 70% order fulfillment",
-      "description": "The DRAM supply chain is choking, and server memory is taking the first hit, with major U.S. and Chinese hyperscalers now receiving just 70% of the server DRAM they order.",
-      "url": "https://www.tomshardware.com/pc-components/storage/server-dram-prices-surge-50-percent",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CeCQNdkPC36pXu5gWVWMa6-2000-80.jpg",
-      "publishedAt": "2025-10-28T12:22:35Z",
-      "content": "The DRAM supply chain is choking, and server memory is taking the first hit. According to DigiTimes, major U.S. and Chinese hyperscalers are now receiving just 70% of the server DRAM they order. That… [+2484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon layoffs, Qualcomm's AI chips, Airbnb cracks down on Halloween and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/28/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108037356-1726859958992-gettyimages-2158978945-BC_24SChart4472.jpeg?v=1761598569&w=1920&h=1080",
-      "publishedAt": "2025-10-28T12:21:52Z",
-      "content": "Amazon logo on brick office building facade with windows, San Francisco, California, Aug. 29, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.… [+5073 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Adobe launches AI assistants for Express and Photoshop | TechCrunch",
-      "description": "Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing.",
-      "url": "https://techcrunch.com/2025/10/28/adobe-launches-ai-assistants-for-express-and-photoshop/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Express-AI-Assistant.jpeg?resize=1200,676",
-      "publishedAt": "2025-10-28T12:08:32Z",
-      "content": "Adobe today released new AI assistants Creative Cloud products, Express and Photoshop, that can help users with image creation and editing.\r\nMost companies like to put AI assistants into a sidebar in… [+2171 chars]"
     }
   ]
 }
