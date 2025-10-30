@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T21:08:14.315Z",
+  "fetchedAt": "2025-10-30T21:33:33.831Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft takes $3.1 billion hit from OpenAI investment",
+      "description": "Microsoft and OpenAI are key partners in cloud and artificial intelligence, but they're increasingly becoming competitors as well.",
+      "url": "https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108147622-1747681700109-gettyimages-2215434051-AFP_47CH4DB.jpeg?v=1761770857&w=1920&h=1080",
+      "publishedAt": "2025-10-29T21:23:18Z",
+      "content": "Microsoft took a $3.1 billion hit to its net income in the first quarter due to the software company's hefty investment in OpenAI.\r\nIn its earnings report on Wednesday, Microsoft said the drop in pro… [+2583 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/28/shutterstock_2375569273.jpg",
       "publishedAt": "2025-10-28T21:30:09Z",
       "content": "Ubuntu Summit Doom takes place on Mars, but up until recently, it has only been played on Earth. However, at the Ubuntu Summit, one enterprising developer explained how he extended the well-establish… [+4472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Andrew Prokop",
-      "title": "Trump has forgotten why he won in 2024",
-      "description": "For years, voters believed that, despite all of President Donald Trump’s chaos and controversies, he’d still do a good job with the economy. Not anymore. Trump’s economic approval numbers hit new all-time lows across both his terms this month in polling from …",
-      "url": "https://www.vox.com/politics/466332/trump-economy-polling-bad-worst-inflation-prices",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2228225688_b083e6.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2025-10-28T21:29:12Z",
-      "content": "President Donald Trump holds a chart on household income in the Oval Office of the White House in Washigton, DC, on August 7, 2025. | Yuri Gripas/Abaca/Bloomberg via Getty Images\r\n\n\nFor years, voters… [+5506 chars]"
     }
   ]
 }
