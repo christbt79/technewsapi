@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-30T19:30:54.148Z",
+  "fetchedAt": "2025-10-30T20:10:13.993Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "2024's Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt | TechCrunch",
+      "description": "geCKo Materials returned to the stage at TechCrunch Disrupt to debut new products as it pushes deeper into commercializing its tech.",
+      "url": "https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2244029449.jpg?resize=1200,800",
+      "publishedAt": "2025-10-29T20:08:03Z",
+      "content": "The 2024 runner-up in the TechCrunch Disrupt Startup Battlefield, geCKo Materials, returned to the stage at this year’s show to debut new products as it pushes deeper into commercializing its tech.\r\n… [+2011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Powell says AI is different from dotcom bubble and is major source of economic growth",
+      "description": "Powell says AI is different from dotcom bubble and is major source of economic growth",
+      "url": "https://www.cnbc.com/2025/10/29/powell-says-ai-different-from-dotcom-bubble-major-source-gdp-growth.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218889-1761764666602-gettyimages-2244020592-aw1a7067_ea5nudy3.jpeg?v=1761764764&w=1920&h=1080",
+      "publishedAt": "2025-10-29T20:03:49Z",
+      "content": "Federal Reserve Chair Jerome Powell said on Wednesday that the artificial intelligence boom is different from the dotcom bubble of the late 1990s.\r\n\"This is different in the sense that these companie… [+1087 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cZHA3wMmPpyS9kK9BhmAF9-1920-80.png",
       "publishedAt": "2025-10-28T20:04:18Z",
       "content": "The US and Japan have signed a rare earths and energy cooperation agreement aimed squarely at China’s chokehold on critical tech supply chains. Announced on October 28 in Tokyo, the agreement commits… [+2458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Nvidia adds AI peanut butter to Nokia's 6G network chocolate, throws in $1 billion",
-      "description": "The pair intends to develop cellular infrastructure for running edge AI workloads\nNvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integrate AI technology into its mobile network infrastructure, bringing accelerated computing to the ed…",
-      "url": "https://www.theregister.com/2025/10/28/nvidia_nokia_partnership_6g/",
-      "urlToImage": "https://regmedia.co.uk/2023/08/25/nvidia_shutterstock.jpg",
-      "publishedAt": "2025-10-28T19:56:51Z",
-      "content": "Nvidia CEO Jensen Huang on Tuesday announced a partnership with Nokia to integrate AI technology into its mobile network infrastructure, bringing accelerated computing to the edge and paving the way … [+4329 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tina Nguyen",
-      "title": "What the Trump family stands to gain from Changpeng Zhao’s pardon",
-      "description": "Hello and welcome to Regulator. When it comes to the news cycle, only the actual destruction of the White House could have overshadowed the slate of dubious pardons that President Donald Trump issued last week, including former Rep. George Santos, the compuls…",
-      "url": "https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25425464/247099_Changpeng_Zhao_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-28T19:50:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAlso: the White Houses ballroom blitz, brought to you by the tech industry.\r\nAlso: the White Houses ballroom blitz, brought to you by the tech industry.\r\nby\r\nTin… [+15059 chars]"
     }
   ]
 }
