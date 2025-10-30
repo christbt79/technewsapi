@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-30T16:48:23.359Z",
+  "fetchedAt": "2025-10-30T17:08:59.544Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "ElevenLabs CEO says AI audio models will be 'commoditized' over time | TechCrunch",
+      "description": "ElevenLabs' founder Mati Staniszewski said that, in the short term, AI audio models were still the \"biggest advantage and the biggest step change you can have today.\"",
+      "url": "https://techcrunch.com/2025/10/29/elevenlabs-ceo-says-ai-audio-models-will-be-commoditized-over-time/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
+      "publishedAt": "2025-10-29T17:00:40Z",
+      "content": "AI audio company ElevenLabs‘ co-founder and chief executive Mati Staniszewski believes that AI models will be commoditized over time, a revealing comment for a company focused today on building them.… [+2111 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "I tried Grokipedia, the AI-powered 'anti-Wikipedia.' Here's why neither is foolproof",
+      "description": "Is Elon Musk's alternative to Wikipedia worth trying, or just a summation of his tweets? Tread carefully.",
+      "url": "https://www.zdnet.com/article/i-tried-grokipedia-the-ai-powered-anti-wikipedia-heres-why-neither-is-foolproof/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1f27335abb446a13b8a93d563d1dbf156a280c9f/2025/10/28/d5acfae2-4730-41f8-b053-350a7126c333/gettyimages-1215375477.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T16:54:47Z",
+      "content": "Busà Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>xAI's Grokipedia is now live.</li><li>Articles on the platform are writ… [+7378 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/3EJozH85guJFiELF2KMrf3-960-80.webp",
       "publishedAt": "2025-10-28T18:00:52Z",
       "content": "OpenAI has been at the forefront of the rapidly expanding artificial intelligence industry for years, with ChatGPT largely responsible for ushering in this new era of technology. Microsoft was an ear… [+4215 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGI",
-      "description": "VC Vinod Khosla says the US government could take 10% stake in all public companies to soften the blow of AGItechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/28/vc-vinod-khosla-says-the-us-government-could-take/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243821602.jpg?resize=1200,800",
-      "publishedAt": "2025-10-28T17:48:10Z",
-      "content": "Vinod Khosla has a bold vision for how society could be reconfigured to share the abundance created by AI technology. Speaking at the TechCrunch Disrupt 2025 conference on Tuesday, the Khosla Venture… [+1910 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "OpenAI tells Trump to build more power plants or China wins the AI arms race",
-      "description": "'Electrons are the new oil,' ChatGPT maker claims, demanding 100 GW per year OpenAI wants the Trump administration to build 100 gigawatts of additional electricity generation capacity per annum to avoid the US being overtaken by China in the AI arms race.…",
-      "url": "https://www.theregister.com/2025/10/28/openai_100gw_power_demand/",
-      "urlToImage": "https://regmedia.co.uk/2017/10/24/shutterstock_power_plant.jpg",
-      "publishedAt": "2025-10-28T17:20:09Z",
-      "content": "OpenAI wants the Trump administration to build 100 gigawatts of additional electricity generation capacity per annum to avoid the US being overtaken by China in the AI arms race.\r\nThe highly-valued g… [+2399 chars]"
     }
   ]
 }
