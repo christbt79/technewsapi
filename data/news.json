@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-30T06:14:20.941Z",
+  "fetchedAt": "2025-10-30T06:47:12.691Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's UK Exchange newsletter: UK backs innovation hub Cambridge, even as rapid expansion tests the city’s limit",
+      "description": "Cambridge has become one of the world’s leading hubs for deeptech and life sciences and is attracting growing sums of international capital.",
+      "url": "https://www.cnbc.com/2025/10/29/cnbcs-uk-exchange-uk-backs-innovation-hub-cambridge-expansion-tests-citys-limit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217859-1761664643901-gettyimages-2181882674-BRITAIN-BUDGETREEVES.jpeg?v=1761664677&w=1920&h=1080",
+      "publishedAt": "2025-10-29T06:30:01Z",
+      "content": "This report is from this week's CNBC's UK Exchange newsletter. Like what you see? You can subscribe here.\r\nThe dispatch\r\nThe U.K. economy, along with many continental European peers, faces well-estab… [+8526 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-28T11:40:45Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nSome may ask why were reducing roles when the company is performing well, an executive admitted, blaming AI for the layoffs. \r\nSome may ask why were reducing rol… [+3018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Amazon axes 14,000 desk jobs in AI-powered slimming plan",
-      "description": "Layoffs are part of an efficiency drive, not a sign of struggle, says HR exec Amazon is cutting 14,000 corporate jobs, blaming the accelerating impact of artificial intelligence for changing how the company operates – and how many people it needs.…",
-      "url": "https://www.theregister.com/2025/10/28/amazon_14000_jobs_cut/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/28/job_cuts.jpg",
-      "publishedAt": "2025-10-28T11:33:38Z",
-      "content": "Amazon is cutting 14,000 corporate jobs, blaming the accelerating impact of artificial intelligence for changing how the company operates and how many people it needs.\r\nIn a public statement, Beth Ga… [+3197 chars]"
     }
   ]
 }
