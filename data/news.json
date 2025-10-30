@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-30T22:09:01.778Z",
+  "fetchedAt": "2025-10-30T22:36:46.425Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Gemini for Home is finally rolling out for early access - here's how to try it first",
+      "description": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/gemini-for-home-is-finally-rolling-out-for-early-access-heres-how-to-try-it-first/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T22:31:00Z",
+      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google just began offering Gemini for Home for early access.</li><li>It's compatible with most Nest speak… [+5349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "Massive Azure outage recovery efforts underway - here's the latest",
+      "description": "Hours later, numerous Microsoft Azure and end-user-facing services are still down, and it appears they'll be out for hours more.",
+      "url": "https://www.zdnet.com/article/massive-azure-outage-recovery-efforts-underway-heres-the-latest/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a841231e72c4e7f992acba2316fbfe123e2a742a/2025/10/29/a96fa80f-3f77-4ad3-b0ac-8dedf2aa69a2/azuregettyimages-2158989859.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-29T22:16:00Z",
+      "content": "Azure is down everywhere.\r\nMicrosoft\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Azure went down globally today.</li><li>Microsoft customer-facing… [+5154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "'Keep Android Open' movement fights back against Google sideloading restrictions",
+      "description": "Petition seeks to rally community opposition and alert regulators\nStarting next year, Google plans to require all apps installed on certified Android devices, including sideloading, to come from developers it has verified. Many Android developers see the move…",
+      "url": "https://www.theregister.com/2025/10/29/keep_android_open_movement/",
+      "urlToImage": "https://regmedia.co.uk/2020/11/06/android.jpg",
+      "publishedAt": "2025-10-29T22:13:45Z",
+      "content": "Starting next year, Google plans to require all apps installed on certified Android devices, including sideloading, to come from developers it has verified. Many Android developers see the move as a … [+7019 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/SJrlH6OgSnq4oZil7k0J_Super20Teacher20Icon.png?w=1024",
       "publishedAt": "2025-10-28T22:17:52Z",
       "content": "Tutoring is one of the most effective tools for improving a child’s education, yet very few kids in the U.S. receive it. A 2023 survey of the nation’s largest school districts found that fewer than 1… [+2739 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Inside CampusAI's mission to close the AI training gap for everyday workers — check it out at TechCrunch Disrupt 2025",
-      "description": "CampusAI is like “Coursera meets GitHub meets Tinder in the metaverse” — an educational platform focused on making learning accessible to everyday people who want to bring AI into their everyday workflows, and a virtual ecosystem to connect like-minded people.",
-      "url": "https://techcrunch.com/2025/10/28/inside-campusais-mission-to-close-the-ai-training-gap-for-everyday-workers-check-it-out-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-24-at-11.39.53AM.png?resize=1200,673",
-      "publishedAt": "2025-10-28T22:17:50Z",
-      "content": "As companies push to increase efficiency and stay competitive, theyre encouraging, or in some cases outright requiring, workers to know how to use AI tools. However, the push for AI use has exposed a… [+6440 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Khosla-backed Mazama taps super-hot rocks in race to deliver 24/7 power | TechCrunch",
-      "description": "Geothermal startup Mazama Energy said it drilled a borehole that set a temperature record. Such superhot rocks could make geothermal a key player in data center power.",
-      "url": "https://techcrunch.com/2025/10/28/khosla-backed-mazama-taps-super-hot-rocks-in-race-to-deliver-24-7-power/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-28T21:50:33Z",
-      "content": "As grids come under strain from growing demand from data centers and EVs, geothermal startups have been racing to unlock energy that lurks deep within the Earth. Now, one startup has developed the wo… [+2224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Wikipedia founder Jimmy Wales isn't worried about Elon Musk's Grokipedia: 'Not optimistic he will create anything very useful right now'",
-      "description": "Elon Musk launched Grokipedia to rival Wikipedia and what he says is 'woke' bias, but founder Jimmy Wales isn't worried, and says LLMs can't even write a wiki.",
-      "url": "https://www.cnbc.com/2025/10/28/elon-musk-grokipedia-wikipedia-founder-jimmy-wales.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218200-1761683540768-gettyimages-1780155114-EZ2_5503.jpeg?v=1761683560&w=1920&h=1080",
-      "publishedAt": "2025-10-28T21:30:14Z",
-      "content": "Elon Musk's Wikipedia rival Grokipedia got off to a \"rocky start\" in its public debut, but Wikipedia founder Jimmy Wales didn't even have to take a look at the AI's output to know what he expected.\r\n… [+4654 chars]"
     }
   ]
 }
