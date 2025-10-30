@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-10-30T11:32:45.359Z",
+  "fetchedAt": "2025-10-30T12:17:45.785Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart, Elissa Welle",
+      "title": "Grokipedia is racist, transphobic, and loves Elon Musk",
+      "description": "On Monday, a new online “encyclopedia” sputtered to life. Grokipedia is the brainchild of Elon Musk and his startup xAI, and the billionaire is promoting it as a supposedly less woke and less biased version of Wikipedia. Musk’s goal? “The truth, the whole tru…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/808514/grokipedia-wikipedia-comparison",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Untitled-3.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-29T12:15:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nxAIs Wikipedia-like website offers a generous take on Musks worldview.\r\nxAIs Wikipedia-like website offers a generous take on Musks worldview.\r\nby\r\nRobert HartCl… [+8477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia's day of deals, the Fed decision, Boeing earnings and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/29/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218143-1761680360087-gettyimages-2243393783-NVIDIA_AI_KEYNOTE.jpeg?v=1761680411&w=1920&h=1080",
+      "publishedAt": "2025-10-29T12:14:54Z",
+      "content": "Jensen Huang, chief executive officer of Nvidia Corp., during a Bloomberg Television interview at the Nvidia AI summit in Washington, DC, US, on Tuesday, Oct. 28, 2025. \r\nThis is CNBC's Morning Squaw… [+5290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI introduces safety models that other sites can use to classify harms",
+      "description": "OpenAI developed the models in partnership with Discord, SafetyKit, and Robust Open Online Safety Tools.",
+      "url": "https://www.cnbc.com/2025/10/29/openai-introduces-safety-models-other-sites-can-use-to-classify-harms.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172939-1752692236301-gettyimages-2224158210-_d1_8980_0k2vaapw.jpeg?v=1761702237&w=1920&h=1080",
+      "publishedAt": "2025-10-29T12:06:57Z",
+      "content": "OpenAI on Wednesday announced two reasoning models that developers can use to classify a range of online safety harms on their platforms. \r\nThe artificial intelligence models are called gpt-oss-safeg… [+2266 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Why is Bill Gates tone policing on climate change?",
+      "description": "Bill Gates wants us all to be more upbeat about climate change. He argues that we've made great progress on the problem, aided in large part by technological advances. So it's time to focus more on improving people's lives, particularly by fighting hunger and…",
+      "url": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2237235833.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "publishedAt": "2025-10-29T12:05:45Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHe says there needs to be more focus on health and prosperity and less obsession over reducing pollution. But its all connected.\r\nHe says there needs to be more … [+9602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Biotech beauty company Debut brings new ingredients, products to skincare market",
+      "description": "Debut Biotech, a company innovating new molecules through advanced biotechnology, is partnering with Image Skincare to launch a new beauty product.",
+      "url": "https://www.cnbc.com/2025/10/29/debut-biotech-image-skincare.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217185-1761571284268-mwall_20250220_1431.jpeg?v=1761571492&w=1920&h=1080",
+      "publishedAt": "2025-10-29T12:00:01Z",
+      "content": "In a lab tucked away in southern California, scientists at Debut Biotech are testing molecules using advanced biotechnology to create new skincare formulations.\r\nThe San Diego-based company, founded … [+8005 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1437319236.jpg?resize=1200,812",
       "publishedAt": "2025-10-28T13:44:08Z",
       "content": "Amazon said on Tuesday that it plans to reduce its corporate workforce by 14,000 jobs as it seeks to reduce bureaucracy, remove layers and invest more in its AI strategy.\r\nThis marks the e-commerce g… [+3040 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Adobe Max 2025: all the latest creative tools and AI announcements",
-      "description": "Adobe has kicked off its annual Max design conference, where it’ll be giving us a first glimpse at the latest updates coming to its Creative Cloud apps and Firefly AI models. The creative software giant is launching new generative AI tools that make digital v…",
-      "url": "https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK124_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-28T13:16:17Z",
-      "content": "Adobe has kicked off its annual Max design conference, where itll be giving us a first glimpse at the latest updates coming to its Creative Cloud apps and Firefly AI models. The creative software gia… [+4629 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "An Apple Shortcuts masterclass",
-      "description": "If you know how to set it up, it can almost seem like your phone can read your mind. The minute you walk out of the office, a text gets automatically fired off letting your spouse know exactly when you'll be home. When you start reading a book, your phone imm…",
-      "url": "https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VST_1028_SIte_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-28T13:14:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: The Meta Ray-Ban Display, automating your life on your phone, and cheap earbuds.\r\nOn The Vergecast: The Meta Ray-Ban Display, automating your l… [+3531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "This new Gemini trick takes your presentation ideas and instantly brings them to life - here's how",
-      "description": "Gemini just made it super easy to impress your boss or professor.",
-      "url": "https://www.zdnet.com/article/this-new-gemini-trick-takes-your-presentation-ideas-and-instantly-brings-them-to-life-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5054145b670c47484d26f55de3c38b63af6b1980/2025/10/28/94c91fd2-2b18-4319-9159-d5775f630d14/google-gemini-can-generate-slides-and-presentations-for-you-now-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-28T13:13:00Z",
-      "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Google Gemini can now create a slide show presentation for you.</l… [+4502 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Avram Piltch",
-      "title": "AI browsers face a security flaw as inevitable as death and taxes",
-      "description": "Agentic features open the door to data exfiltration or worse Feature  With great power comes great vulnerability. Several new AI browsers, including OpenAI's Atlas, offer the ability to take actions on the user's behalf, such as opening web pages or even shop…",
-      "url": "https://www.theregister.com/2025/10/28/ai_browsers_prompt_injection/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/21/prompt_shutterstock.jpg",
-      "publishedAt": "2025-10-28T12:46:59Z",
-      "content": "Feature With great power comes great vulnerability. Several new AI browsers, including OpenAI's Atlas, offer the ability to take actions on the user's behalf, such as opening web pages or even shoppi… [+9412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The Fed is likely to keep cutting interest rates, but multiple dangers lurk, CNBC survey finds",
-      "description": "The Fed is expected to cut by a quarter point at its meeting this week and could cut at the next two meetings as well.",
-      "url": "https://www.cnbc.com/2025/10/28/the-fed-is-likely-to-keep-cutting-interest-rates-but-multiple-dangers-lurk-cnbc-survey-finds.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108176586-1753382224549-gettyimages-2226005161-ah708204.jpeg?v=1761652668&w=1920&h=1080",
-      "publishedAt": "2025-10-28T12:32:04Z",
-      "content": "The Federal Reserve is expected to lower interest rates by a quarter point at its meeting this week and could cut at the next two meetings as well, according to the October CNBC Fed Survey.\r\nBut ther… [+4361 chars]"
     }
   ]
 }
