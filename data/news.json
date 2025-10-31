@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T16:11:09.185Z",
+  "fetchedAt": "2025-10-31T16:44:29.252Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Another shuttered nuclear power plant is getting new life, thanks to Big Tech",
+      "description": "Google announced plans to revive a nuclear power plant that shut down in 2020, as it looks to secure enough electricity for its AI data centers. The company announced a 25-year agreement with NextEra Energy to eventually purchase electricity from the Duane Ar…",
+      "url": "https://www.theverge.com/news/810254/google-ai-data-center-nuclear-power-plant-restart",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Duane-Arnold-Energy-Center5.jpg?quality=90&strip=all&crop=8.2225015713388%2C0%2C83.554996857322%2C100&w=1200",
+      "publishedAt": "2025-10-30T16:43:27Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle made a deal to bring an Iowa nuclear plant back to life to power its data centers.\r\nGoogle made a deal to bring an Iowa nuclear plant back to life to powe… [+3369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "Docker Compose vulnerability opens door to host-level writes – patch pronto",
+      "description": "Windows Desktop installer also fixed after DLL hijack flaw rated 8.8 severity Docker Compose users are being strongly urged to upgrade their versions of the orchestration tool after a researcher uncovered a flaw that could allow attackers to stage path traver…",
+      "url": "https://www.theregister.com/2025/10/30/docker_compose_desktop_flaws/",
+      "urlToImage": "https://regmedia.co.uk/2019/11/13/docker_shutterstock.jpg",
+      "publishedAt": "2025-10-30T16:27:51Z",
+      "content": "Docker Compose users are being strongly urged to upgrade their versions of the orchestration tool after a researcher uncovered a flaw that could allow attackers to stage path traversal attacks.\r\nNIST… [+2878 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mercor-CEO.jpg?resize=1200,671",
       "publishedAt": "2025-10-29T16:19:08Z",
       "content": "Instead of signing expensive contracts with companies for their data, AI labs these days are trying a new tack: tapping former senior employees from those companies for their industry knowledge, Merc… [+5409 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Windows 11 videos demonstrating account and hardware requirements bypass purged from YouTube — platform says content ‘encourages dangerous or illegal activities that risk serious physical harm or death’",
-      "description": "A YouTuber's videos telling people how to use Windows 11 without a Microsoft account and how to install it on unsupported hardware were allegedly violating community guidelines on dangerous and illegal activities.",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/windows-11-videos-demonstrating-account-and-hardware-requirements-bypass-purged-from-youtube-platform-says-content-encourages-dangerous-or-illegal-activities-that-risk-serious-physical-harm-or-death",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8Q4bUw4KVnruV2by3zhBvT-1920-80.jpg",
-      "publishedAt": "2025-10-29T16:09:23Z",
-      "content": "A YouTube creator’s videos, posted just days apart and demonstrating how to bypass Microsoft’s Windows 11 limitations, were removed for allegedly violating the platform’s community guidelines. Rich, … [+3100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "How a system snapshot can save you when your OS goes awry - create one today",
-      "description": "System snapshots are the perfect complement to traditional backups. They can save the day when your computer goes awry or an update goes south. Here's how they work.",
-      "url": "https://www.zdnet.com/article/how-a-system-snapshot-can-save-you-when-your-os-goes-awry-create-one-today/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4969081c09c89af6c8cd032e8929f3c8b0ce576c/2025/10/28/c191c362-e757-4ba5-abd5-b37a737d6fd7/squares-floatinggettyimages-2230989635.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T16:09:14Z",
-      "content": "Iana Kunitsa/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A system snapshot ensures you always have the means to restore.</li><li>Som… [+5360 chars]"
     }
   ]
 }
