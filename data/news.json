@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T22:08:51.805Z",
+  "fetchedAt": "2025-10-31T22:37:26.261Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Reddit CEO on data scraping lawsuits against AI companies: 'We see both sides of this'",
+      "description": "Reddit CEO Steve Huffman addressed recent lawsuits his company has brought against AI outfits.",
+      "url": "https://www.cnbc.com/2025/10/30/reddit-ceo-ai-lawsuits-data-scraping.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108050953-1729604494513-gettyimages-2179195394-AFP_36KE63D.jpeg?v=1761848823&w=1920&h=1080",
+      "publishedAt": "2025-10-30T22:29:40Z",
+      "content": "In a Thursday interview with CNBC's Jim Cramer, Reddit CEO Steve Huffman suggested he understands the opposition's point of view in lawsuits the company has filed against Perplexity and Anthropic, al… [+1327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Tech stocks' Thursday declines might not last long, Jim Cramer says",
+      "description": "CNBC's Jim Cramer unpacked Thursday's market action.",
+      "url": "https://www.cnbc.com/2025/10/30/tech-stocks-thursday-declines-might-not-last-long-jim-cramer-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349568-1579719779301img_3380r.jpg?v=1693521799&w=1920&h=1080",
+      "publishedAt": "2025-10-30T22:28:55Z",
+      "content": "CNBC's Jim Cramer unpacked Thursday's market action, saying that even though tech stocks took a hit, they might not stay down for long, praising recent quarters from Apple and Amazon.\r\n\"After Apple's… [+2247 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1698361043&w=1920&h=1080",
       "publishedAt": "2025-10-29T22:55:05Z",
       "content": "Sign up now for the CNBC Investing Club to follow Jim Cramer's every move in the market.Questions for Cramer?Call Cramer: 1-800-743-CNBC\r\nWant to take a deep dive into Cramer's world? Hit him up!Mad … [+135 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "ServiceNow CEO denies AI companies are threatening enterprise software: 'They don't do what we do'",
-      "description": "ServiceNow CEO Bill McDermott pushed back against the idea that artificial intelligence technology will make enterprise software redundant.",
-      "url": "https://www.cnbc.com/2025/10/29/servicenow-ceo-ai-companies-enterprise.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106281528-1575584302822img_9018.jpg?v=1686757741&w=1920&h=1080",
-      "publishedAt": "2025-10-29T22:52:00Z",
-      "content": "ServiceNow CEO Bill McDermott pushed back against the idea that artificial intelligence technology will make enterprise software redundant in a Wednesday interview with CNBC's Jim Cramer.\r\n\"We realiz… [+1646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "YouTube offers voluntary buyouts as company reorganizes around AI",
-      "description": "In an internal memo to staff, YouTube CEO Neal Mohan said the platform is reorganizing its product teams for the first time in a decade.",
-      "url": "https://www.cnbc.com/2025/10/29/youtube-offers-voluntary-buyouts-as-company-reorganizes-around-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146149-1747324974303-gettyimages-2203987828-mhay4538_tluavci4.jpeg?v=1761776682&w=1920&h=1080",
-      "publishedAt": "2025-10-29T22:49:22Z",
-      "content": "YouTube is offering voluntary buyouts with severance for U.S.-based employees as it restructures its product organization to focus more on artificial intelligence.\r\nThe move comes as Google CEO Sunda… [+1264 chars]"
     }
   ]
 }
