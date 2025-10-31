@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-31T13:43:28.384Z",
+  "fetchedAt": "2025-10-31T14:09:42.859Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Google partners with Ambani's Reliance to offer free AI Pro access to millions of Jio users in India | TechCrunch",
+      "description": "Google partners with Ambani's Reliance to offer free AI Pro access to millions of Jio users in India | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/gemini.jpg?resize=1200,800",
+      "publishedAt": "2025-10-30T14:08:29Z",
+      "content": "In a push to expand its AI footprint in emerging markets, Google has partnered with billionaire Mukesh Ambaniled Reliance Industries to bundle its AI Pro subscription with Jio 5G plans at no extra co… [+3974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Omer Minkara",
+      "title": "AI is just an instrument in your CX symphony - how to conduct it well, according to NiCE analysts",
+      "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
+      "url": "https://www.zdnet.com/article/ai-is-just-an-instrument-in-your-cx-symphony-how-to-conduct-it-well-according-to-nice-analysts/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T13:49:58Z",
+      "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Alphabet stock jumps 4% after posting strong results, boosting AI spend",
+      "description": "The strong quarter and a boost in capital spending impressed analysts and solidified Alphabet's position as an AI leader.",
+      "url": "https://www.cnbc.com/2025/10/30/alphabet-goog-stock-earnings-ai-spend.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071552-1733348556613-gettyimages-2188268152-mms16604_seshpvev.jpeg?v=1733348778&w=1920&h=1080",
+      "publishedAt": "2025-10-30T13:49:21Z",
+      "content": "Alphabet stock jumped 4% Thursday after the company reported third-quarter financial results that beat across the board and increased its capital expenditures for the year.\r\nThe Google parent company… [+2014 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/08/21618366341_fbe9a8e707_k.jpg?resize=1200,801",
       "publishedAt": "2025-10-29T14:00:00Z",
       "content": "Welcome to the third and final day of TechCrunch Disrupt 2025 at Moscone West in San Francisco! The excitement here is still in full swing, and theres no slowing down.\r\nIf you thought it was too late… [+8839 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "US signs collaboration agreements with Japan and South Korea for AI, chips and biotech | TechCrunch",
-      "description": "The U.S. inked Technology Prosperity Deals (TPD) with Japan and South Korea with an eye towards spurring collaboration on AI, semiconductors, quantum computing, biotech, space, 6G and other technologies.",
-      "url": "https://techcrunch.com/2025/10/29/us-signs-collaboration-agreements-with-japan-and-south-korea-for-ai-chips-and-biotech/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/us-japan-south-korea-flags.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T13:53:05Z",
-      "content": "U.S. President Donald Trump touched down in Asia this week, not just for diplomacy, but to sign deals that could shape the next chapter of the global technology race. The U.S. inked Technology Prospe… [+2300 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "TikTok can use AI to turn your long video into short ones",
-      "description": "TikTok announced three new features at its US Creator Summit yesterday. They include an update to revenue sharing for creators that offer subscriptions plus tools that can help with both the early planning stages of a video, and the process of editing longer …",
-      "url": "https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/tiktok1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T13:45:01Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nSmart Split automatically turns videos longer than a minute into bite-size clips reframed vertically for phones.\r\nSmart Split automatically turns videos longer t… [+3355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "OpenAI and Microsoft finally have a new deal - and it's all about AGI",
-      "description": "Sam Altman outlined a loose roadmap for what's to come, including Microsoft's role and OpenAI's goals for achieving superintelligence.",
-      "url": "https://www.zdnet.com/article/openai-and-microsoft-finally-have-a-new-deal-and-its-all-about-agi/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/839a369714b16097bf5b93dbbccdc6164fb2578c/2025/09/29/6d8b293f-34da-48f4-8088-3011a97c178e/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T13:35:05Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI finalized its restructuring, prioritizing AI.</li><li>Its nonprofit arm is n… [+4754 chars]"
     }
   ]
 }
