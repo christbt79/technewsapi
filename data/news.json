@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T04:42:12.402Z",
+  "fetchedAt": "2025-10-31T05:10:28.335Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Samsung picks fights with Google and Qualcomm",
+      "description": "Brings its largely unloved browser to PCs and promises to make its Exynos SoCs more competitive Samsung has signaled it intends to take on Google and Qualcomm.…",
+      "url": "https://www.theregister.com/2025/10/30/samsung_q3_2025/",
+      "urlToImage": "https://regmedia.co.uk/2021/10/07/shutterstock_samsung_chip_editorial_only.jpg",
+      "publishedAt": "2025-10-30T04:56:40Z",
+      "content": "Samsung has signaled it intends to take on Google and Qualcomm.\r\nThe Korean giants weapon of choice to niggle Google is a Windows port of the Samsung Internet browser it ships on smartphones.\r\nThe Ko… [+3630 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/5d1a96b901c10eef0899ba4e32a4f4575cd610be/2025/10/28/b4da54d2-d0c7-4979-8533-54fc8815ae07/pixel-watch-4-features3.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T09:42:00Z",
       "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li> The Google Pixel Watch 4 is the most intelligent smartwatch available today. </li><li> Som… [+7704 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia shares pop 3% in premarket as tech giant nears historic $5 trillion valuation",
-      "description": "Nvidia is on track to become the first company to cross the $5 trillion market value threshold.",
-      "url": "https://www.cnbc.com/2025/10/29/nvidia-on-track-to-hit-historic-5-trillion-valuation-amid-ai-rally.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202499-17585856722025-07-23t220158z_1400367285_rc2lsfae8ca3_rtrmadp_0_usa-trump-ai.jpeg?v=1758585693&w=1920&h=1080",
-      "publishedAt": "2025-10-29T09:02:57Z",
-      "content": "Shares of Nvidia rose more than 3% in premarket trade on Wednesday, putting the tech giant on track to become the first company to cross the $5 trillion market value threshold.\r\nThe latest move highe… [+240 chars]"
     }
   ]
 }
