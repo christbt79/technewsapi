@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T18:14:14.274Z",
+  "fetchedAt": "2025-10-31T18:46:29.947Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Proton trains new service to expose corporate infosec cover-ups",
+      "description": "Service will tell on compromised organizations, even if they didn't plan on doing so themselves\nSome orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big bre…",
+      "url": "https://www.theregister.com/2025/10/30/proton_data_breach_observatory/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_2659801557.jpg",
+      "publishedAt": "2025-10-30T18:44:40Z",
+      "content": "Some orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big breaches that might otherwise stay buri… [+4368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "You can now give NotebookLM more instructions - here's why that's a game changer",
+      "description": "Google gave one of our favorite AI tools several upgrades - and they're available to everyone.",
+      "url": "https://www.zdnet.com/article/you-can-now-give-notebooklm-more-instructions-heres-why-thats-a-game-changer/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1fdb82b443543bfa735ff274027de11ccaf9b540/2025/07/22/af3792a6-7a47-41a7-a166-9a5a2bd93fd9/notebooklm-use.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T18:31:13Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google upgraded NotebookLM's performance, key features, and security.</li><li>Users… [+2124 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/c9190153e3b52d7fadeaf3273aea59f38f888919/2025/10/29/c0fbb0e6-d478-4ad8-a17c-e0f71ad895b0/gettyimages-1422219763.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T18:54:00Z",
       "content": "PM Images/DigitalVision via Getty Images\r\nZDNET's key takeaways\r\n<ul><li>54% of I&amp;O leaders are using AI to cut spending, Gartner says.</li><li>50% also cited budget constraints as their biggest … [+4052 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Box CEO Aaron Levie on how AI is changing the enterprise SaaS landscape | TechCrunch",
-      "description": "He painted a picture of a future of enterprise software where the SaaS is used for the core business workflow, and then the agents ride on top of that.",
-      "url": "https://techcrunch.com/2025/10/29/box-ceo-aaron-levie-on-how-ai-is-changing-the-enterprise-saas-landscape/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/54888689454_eb7571a628_k.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T18:45:55Z",
-      "content": "Box co-founder and CEO Aaron Levie doesn’t think AI agents will replace enterprise SaaS (software as a service) companies. Instead, he believes that the more likely future is a hybrid combination of … [+2417 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "San Francisco mayor: 'We should be the testbed for emerging tech' | TechCrunch",
-      "description": "While San Francisco's mayor Daniel Lurie is opening his arms to autonomous vehicles, other cities are more resistant. Boston, for instance, has considered a ban on autonomous vehicles in the city.",
-      "url": "https://techcrunch.com/2025/10/29/sf-mayor-we-should-be-the-testbed-for-emerging-tech/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/lurie-disrupt.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T18:38:55Z",
-      "content": "Waymo and Zoox robotaxis are a regular sight on San Francisco streets and soon Uber, through a partnership with Lucid and Nuro, will descend on the city as well. It is exactly how San Francisco Mayor… [+1616 chars]"
     }
   ]
 }
