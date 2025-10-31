@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-31T21:07:52.885Z",
+  "fetchedAt": "2025-10-31T21:31:34.893Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Shayna Korol",
+      "title": "The challenge of creating brains in a lab",
+      "description": "They’re growing miniature 3D brains from stem cells. These aren’t your fictional mad scientists’ brains in a vat; they’re organoids, and they grow in petri dishes. They’re also incredibly cool.  We can, should, and will use cerebral organoids to discover new …",
+      "url": "https://www.vox.com/future-perfect/466758/brain-organoids-lab-grown-conciousness-ai",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2241095077.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+      "publishedAt": "2025-10-30T21:30:32Z",
+      "content": "A screen showing human brain cells is photographed at the Swiss start-up FinalSpark in Vevey, on October 3, 2025. Inside a lab in the picturesque Swiss city of Vevey, a scientist feeds tiny clumps of… [+5398 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Zoë Schiffer, Louise Matsakis",
+      "title": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs",
+      "description": "In this episode of ‘Uncanny Valley,’ we run through the top stories of the week and look closely at complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/",
+      "urlToImage": "https://media.wired.com/photos/68fa99670f48aeee5d43d09b/191:100/w_1280,c_limit/Uncanny-Valley-AI-Psychosis-Business-1491212583.jpg",
+      "publishedAt": "2025-10-30T21:27:08Z",
+      "content": "Louise Matsakis: Oh God, you would not see me in the office for weeks if there was a bedbug infestation. How did they find out about this?\r\nZoë Schiffer: So basically, they received this email on Sun… [+1992 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Nvidia is reportedly investing up to $1 billion in Poolside  | TechCrunch",
+      "description": "Nvidia is an existing investor in the AI company and participated in it's $500 million Series A round in 2024.",
+      "url": "https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "publishedAt": "2025-10-30T21:13:49Z",
+      "content": "Semiconductor giant Nvidia is reportedly looking to make a sizable investment in AI software development platform Poolside.\r\nNvidia is looking to invest at least $500 million, and up to $1 billion, i… [+924 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T22:31:00Z",
       "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google just began offering Gemini for Home for early access.</li><li>It's compatible with most Nest speak… [+5349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "Massive Azure outage recovery efforts underway - here's the latest",
-      "description": "Hours later, numerous Microsoft Azure and end-user-facing services are still down, and it appears they'll be out for hours more.",
-      "url": "https://www.zdnet.com/article/massive-azure-outage-recovery-efforts-underway-heres-the-latest/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a841231e72c4e7f992acba2316fbfe123e2a742a/2025/10/29/a96fa80f-3f77-4ad3-b0ac-8dedf2aa69a2/azuregettyimages-2158989859.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T22:16:00Z",
-      "content": "Azure is down everywhere.\r\nMicrosoft\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Azure went down globally today.</li><li>Microsoft customer-facing… [+5154 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "'Keep Android Open' movement fights back against Google sideloading restrictions",
-      "description": "Petition seeks to rally community opposition and alert regulators\nStarting next year, Google plans to require all apps installed on certified Android devices, including sideloading, to come from developers it has verified. Many Android developers see the move…",
-      "url": "https://www.theregister.com/2025/10/29/keep_android_open_movement/",
-      "urlToImage": "https://regmedia.co.uk/2020/11/06/android.jpg",
-      "publishedAt": "2025-10-29T22:13:45Z",
-      "content": "Starting next year, Google plans to require all apps installed on certified Android devices, including sideloading, to come from developers it has verified. Many Android developers see the move as a … [+7019 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Mark Zuckerberg is excited to add more AI content to all your social feeds",
-      "description": "Meta CEO Mark Zuckerberg is getting ready to dump even more AI-generated posts into your social feeds. During an earnings call on Wednesday, Zuckerberg said the company will “add yet another huge corpus of content” to its recommendations system as AI “makes i…",
-      "url": "https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK169_L_Normand_MarkZuckerburg_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T21:41:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nZuckerberg said AI will add a huge corpus of content to social media.\r\nZuckerberg said AI will add a huge corpus of content to social media.\r\nby\r\nEmma RothClose\r… [+2695 chars]"
     }
   ]
 }
