@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T17:09:17.351Z",
+  "fetchedAt": "2025-10-31T17:37:48.082Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "A 'war room' mentality: How auto giants are battling the Nexperia chip crunch",
+      "description": "Global automakers are bracing for a potential shortage of automotive semiconductor chips sparked by geopolitical tensions between the U.S. and China.",
+      "url": "https://www.cnbc.com/2025/10/30/nexperia-auto-chip-shortage-china-honda-vw.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
+      "publishedAt": "2025-10-30T17:22:32Z",
+      "content": "A Honda sedan moves down the assembly line on Jan. 28, 2025 at the automaker's assembly plant in Marysville, Ohio. \r\nGlobal automakers are once again bracing for production disruptions due to a poten… [+6081 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218751-1761757188571-gettyimages-2235415173-AFP_74VP7MQ.jpeg?v=1761757270&w=1920&h=1080",
       "publishedAt": "2025-10-29T18:06:44Z",
       "content": "The Federal Reserve announced its second consecutive cut to its benchmark interest rate on Wednesday, reducing the federal funds rate by a quarter percentage point to a range of 3.75% to 4%.\r\nWhile t… [+3069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "AWS Stargate-smashing Rainier AI megacluster is up and running",
-      "description": "Half a million Trainium2 chips now running Anthropic workloads, with half a million more waiting in the wings\nNever mind Sam Altman's Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon's competing mountain of AI compute p…",
-      "url": "https://www.theregister.com/2025/10/29/aws_rainier_ai_megacluster/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/29/aws-rainier.jpg",
-      "publishedAt": "2025-10-29T18:01:19Z",
-      "content": "Never mind Sam Altman's Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon's competing mountain of AI compute power is already up and running. \r\nAmazon Web Servi… [+2403 chars]"
     }
   ]
 }
