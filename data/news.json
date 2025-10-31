@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T20:37:10.554Z",
+  "fetchedAt": "2025-10-31T21:07:52.885Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Claude code will send your data to crims ... if they ask it nicely",
+      "description": "Company tells users concerned about exfiltration to 'stop it if you see it'\nA researcher has found a way to trick Anthropic's Claude into uploading private data to an attacker's account using indirect prompt injection. Anthropic says it has already documented…",
+      "url": "https://www.theregister.com/2025/10/30/anthropics_claude_private_data/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_2568495377.jpg",
+      "publishedAt": "2025-10-30T21:00:19Z",
+      "content": "A researcher has found a way to trick Claude into uploading private data to an attacker's account using indirect prompt injection. Anthropic says it has already documented the risk, and its foolproof… [+5607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "SF Mayor Lurie says city 'on the rise' after Trump reverses course on troop deployment",
+      "description": "Mayor Lurie told CNBC that he feels pressure \"every day\" to deliver safe and clean streets for residents.",
+      "url": "https://www.cnbc.com/2025/10/30/sf-mayor-daniel-lurie-says-city-improving-after-trump-deployment-issue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216266-1761252353195-gettyimages-2242857306-_75a4183_whscuilb.jpeg?v=1761252436&w=1920&h=1080",
+      "publishedAt": "2025-10-30T20:53:08Z",
+      "content": "San Francisco Mayor Daniel Lurie, who was recently thrust into a national debate about the safety of big cities, told CNBC on Thursday that he feels \"pressure every day\" to continue improving conditi… [+2583 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/VRG_Illo_STK169_L_Normand_MarkZuckerburg_Positive.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-29T21:41:31Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nZuckerberg said AI will add a huge corpus of content to social media.\r\nZuckerberg said AI will add a huge corpus of content to social media.\r\nby\r\nEmma RothClose\r… [+2695 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft takes $3.1 billion hit from OpenAI investment",
-      "description": "Microsoft and OpenAI are key partners in cloud and artificial intelligence, but they're increasingly becoming competitors as well.",
-      "url": "https://www.cnbc.com/2025/10/29/microsoft-open-ai-investment-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108147622-1747681700109-gettyimages-2215434051-AFP_47CH4DB.jpeg?v=1761770857&w=1920&h=1080",
-      "publishedAt": "2025-10-29T21:23:18Z",
-      "content": "Microsoft took a $3.1 billion hit to its net income in the first quarter due to the software company's hefty investment in OpenAI.\r\nIn its earnings report on Wednesday, Microsoft said the drop in pro… [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "How one mountain town hopes AI can help it fight wildfires",
-      "description": "A popular ski resort town in Colorado is adopting a new AI Smart City Solution from Hewlett Packard Enterprise (HPE) to help it better detect wildfires, as well as update a range of other city services. Vail is expanding its firefighting toolbox as hotter, mo…",
-      "url": "https://www.theverge.com/report/809348/ai-fire-detection-vail-hpe-smart-city-platform",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824779/STK438_CLIMATE_CHANGE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T20:48:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new HPE smart city platform is meant to bolster wildfire response in Vail, Colorado.\r\nA new HPE smart city platform is meant to bolster wildfire response in Va… [+5808 chars]"
     }
   ]
 }
