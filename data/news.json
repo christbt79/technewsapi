@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T10:40:53.940Z",
+  "fetchedAt": "2025-10-31T11:07:54.032Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
+      "title": "U.S. and China agree on one-year tariff truce, including semiconductor and rare earth breakthroughs — the future of Nvidia AI chip sales to the nation remains murky",
+      "description": "President Trump and Xi Jinping have agreed a one-year tariff truce.",
+      "url": "https://www.tomshardware.com/tech-industry/u-s-and-china-agree-on-one-year-tariff-truce-including-semiconductor-and-rare-earth-breakthroughs-the-future-of-nvidia-ai-chip-sales-to-the-nation-remains-murky",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CHE48KniLshPqvS6zczQAM-2000-80.jpg",
+      "publishedAt": "2025-10-30T10:47:30Z",
+      "content": "In momentous news for the global trade war and the global semiconductor industry, President Trump and China's Xi Jinping have reportedly agreed on a one-year tariff truce that could pave the way for … [+2449 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2237235833.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
       "publishedAt": "2025-10-29T12:05:45Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nHe says there needs to be more focus on health and prosperity and less obsession over reducing pollution. But its all connected.\r\nHe says there needs to be more … [+9602 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Biotech beauty company Debut brings new ingredients, products to skincare market",
-      "description": "Debut Biotech, a company innovating new molecules through advanced biotechnology, is partnering with Image Skincare to launch a new beauty product.",
-      "url": "https://www.cnbc.com/2025/10/29/debut-biotech-image-skincare.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217185-1761571284268-mwall_20250220_1431.jpeg?v=1761571492&w=1920&h=1080",
-      "publishedAt": "2025-10-29T12:00:01Z",
-      "content": "In a lab tucked away in southern California, scientists at Debut Biotech are testing molecules using advanced biotechnology to create new skincare formulations.\r\nThe San Diego-based company, founded … [+8005 chars]"
     }
   ]
 }
