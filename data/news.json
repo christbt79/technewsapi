@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-10-31T13:02:58.979Z",
+  "fetchedAt": "2025-10-31T13:43:28.384Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Gilbert",
+      "title": "No, SNAP Benefits Aren’t Mostly Used by Immigrants",
+      "description": "SNAP benefits are set to run out on Saturday. Far-right influencers and extremists are incorrectly claiming that immigrants are the main recipients of food stamps.",
+      "url": "https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/",
+      "urlToImage": "https://media.wired.com/photos/6902226b1f8a7b4ed47cf7ae/191:100/w_1280,c_limit/pol-snap-gop-lies-2242699566.jpg",
+      "publishedAt": "2025-10-30T13:40:55Z",
+      "content": "As roughly 42 million Americans face the loss of food stamps this weekend, far-right influencers, extremists, and conspiracy theorists are using the crisis to push racist disinformation about who rec… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Bending Spoons scoops up AOL in $2.8B debt-fueled deal",
+      "description": "Dial-up dinosaur finds yet another corporate home as Yahoo waves goodbye Bending Spoons, an Italian tech biz, is buying AOL from Yahoo, funded by a $2.8 billion debt financing package that will also bankroll future acquisitions.…",
+      "url": "https://www.theregister.com/2025/10/30/yahoo_sells_aol_to_bending/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_1055848523.jpg",
+      "publishedAt": "2025-10-30T13:38:04Z",
+      "content": "Bending Spoons, an Italian tech biz, is buying AOL from Yahoo, funded by a $2.8 billion debt financing package that will also bankroll future acquisitions.\r\nThe purchase price remains undisclosed. Be… [+2023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "YouTube is upgrading old videos to HD and 4K automatically - but you can opt out",
+      "description": "YouTube also says it's rolling out several other new features.",
+      "url": "https://www.zdnet.com/article/youtube-is-upgrading-old-videos-to-hd-and-4k-automatically-but-you-can-opt-out/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2baefd1e615e55b1e946e2f9f258c6d5efa318d5/2025/10/30/a5fa3d91-b764-41d6-b87a-b03bcc81d8e9/youtube-is-going-to-automatically-upscale-videos-but-you-can-opt-out-heres-what-you-need-to-know.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T13:34:42Z",
+      "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's Key Takeaways\r\n<ul><li>YouTube has a new feature that will automatically upscale videos.</li><li>… [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sarah Jeong",
+      "title": "How Silicon Valley enshittified the internet",
+      "description": "Hello, and welcome to Decoder. This is Sarah Jeong, features editor at The Verge. I’m standing in for Nilay for one final Thursday episode here as he settles back into full-time hosting duties.  Today, we’ve got a fun one. I’m talking to Cory Doctorow, prolif…",
+      "url": "https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Enshittification_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-30T13:33:48Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHow Silicon Valley enshittified the internet\r\nEnshittification author Cory Doctorow on why things get worse, and how to fight back.\r\nby\r\nSarah JeongClose\r\nSarah … [+4879 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta stock drops 12% as heightened AI spending overshadows strong third-quarter results",
+      "description": "Meta's results raised skepticism over the payoff from its aggressive artificial intelligence spending plans and overshadowed strong results.",
+      "url": "https://www.cnbc.com/2025/10/30/meta-stock-earnings-ai-spend.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367089-17067169752024-01-31t155824z_1044434571_rc23t5amngcp_rtrmadp_0_usa-tech-exploitation.jpeg?v=1706717007&w=1920&h=1080",
+      "publishedAt": "2025-10-30T13:31:59Z",
+      "content": "Meta Platforms' stock dropped more than 12% Thursday as skepticism about the payoff from its aggressive artificial intelligence spending plans overshadowed strong results.\r\nThe social media giant lif… [+1788 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Figma’s new app lets you combine multiple AI models and editing tools",
+      "description": "Figma has acquired Weavy, a creative platform that allows users to link AI models and editing tools together, and use them simultaneously in a single canvas. The platform will now live under its new parent company as “Figma Weave,” according to Figma’s announ…",
+      "url": "https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Weavy-4.jpg?quality=90&strip=all&crop=0%2C8.0144178489107%2C100%2C83.971164302179&w=1200",
+      "publishedAt": "2025-10-30T13:16:47Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nFigma Weave is a node-based canvas platform that gives creators more control over AI-generated content.\r\nFigma Weave is a node-based canvas platform that gives c… [+2056 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Figma acquires AI-powered media generation company Weavy",
+      "description": "Figma said today that it has acquired AI-powered image and video generation company Weavy.",
+      "url": "https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Figma_Weavy_Static_Icons.jpeg?resize=1200,675",
+      "publishedAt": "2025-10-30T13:15:00Z",
+      "content": "Design platform Figma said today that it has acquired AI-powered image and video generation company Weavy. The startup will join Figma under a new brand called Figma Weave.\r\nFigma said that 20 people… [+2175 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-okafor",
+      "title": "The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps | TechCrunch",
+      "description": "YC-backed The Prompting Company helps customers get recommendations from AI. It is also partnering with NVIDIA on \"next-generation\" search.",
+      "url": "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1200,676",
+      "publishedAt": "2025-10-30T13:14:11Z",
+      "content": "People are increasingly asking AI, not Google, to help them discover products. A recent shopping report says Americans, this holiday season, will likely turn to large language models this season to f… [+4864 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/839a369714b16097bf5b93dbbccdc6164fb2578c/2025/09/29/6d8b293f-34da-48f4-8088-3011a97c178e/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T13:35:05Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI finalized its restructuring, prioritizing AI.</li><li>Its nonprofit arm is n… [+4754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "AI layoffs to backfire: half quietly rehired at lower pay",
-      "description": "Bosses banking on automation? 55% will regret those job cuts\nMany organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles — often \"offshore or at lower salary.\"…<!--#include virtual='/data_centre/_whitepaper_…",
-      "url": "https://www.theregister.com/2025/10/29/forrester_ai_rehiring/",
-      "urlToImage": "https://regmedia.co.uk/2021/02/20/hiring.jpg",
-      "publishedAt": "2025-10-29T13:30:39Z",
-      "content": "Many organizations rushing to cut staff in the name of AI efficiency are expected to quietly rehire those roles often \"offshore or at lower salary.\"\r\nAccording to Forrester's \"Predictions 2026: The F… [+2561 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "OpenAI has an AGI problem — and Microsoft just made it worse",
-      "description": "OpenAI is ending October with a new for-profit structure, a new deal with Microsoft, and an entirely new level of pressure to achieve artificial general intelligence. The generally accepted definition of AGI is an artificial intelligence system that equals or…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431700/STK201_SAM_ALTMAN_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T13:19:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe competition is heating up.\r\nThe competition is heating up.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from this author will be added to your daily email dig… [+7458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Recruiters are 'drinking through a fire hose' of job applications, experts say—AI is partially to blame",
-      "description": "Recruiters and hiring managers are dealing with an unprecedented spike in job applications, and the numbers are \"overwhelming,\" according to experts.",
-      "url": "https://www.cnbc.com/2025/10/29/recruiters-are-drinking-through-a-fire-hose-of-job-applications-experts-say.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170818-1752241908302-gettyimages-1843733338-mdk-47.jpeg?v=1761595822&w=1920&h=1080",
-      "publishedAt": "2025-10-29T13:19:08Z",
-      "content": "Talent professionals and job seekers alike are grappling with the enormous rise in job applications submitted every day, according to experts.\r\nThe number of applications submitted on LinkedIn has su… [+5204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "From futuristic NEOM to tech and tourism, Saudi Arabia's priorities are shifting",
-      "description": "Saudi's economy minister told CNBC the country was \"reprioritizing a little bit towards sectors that need it the most.\"",
-      "url": "https://www.cnbc.com/2025/10/29/from-neom-to-ai-and-tourism-saudi-arabias-priorities-are-shifting.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107408664-1714563748310-KSA_The_Line_3_4096-2304-max.jpg?v=1714563906&w=1920&h=1080",
-      "publishedAt": "2025-10-29T13:18:23Z",
-      "content": "Digital render of NEOM's The Line project in Saudi Arabia\r\nWhen Saudi Arabia first announced plans to reinvent its oil-based economy, huge infrastructure projects like the futuristic region NEOM and … [+4034 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Grammarly rebrands to 'Superhuman,' launches a new AI assistant | TechCrunch",
-      "description": "Grammarly is renaming itself as Superhuman, after acquiring Superhuman email client in July",
-      "url": "https://techcrunch.com/2025/10/29/grammarly-rebrands-to-superhuman-launches-a-new-ai-assistant/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Static_Google-Calendar-Agent.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-29T13:03:48Z",
-      "content": "Typically, when a company acquires another, it will absorb the new company’s branding or integrate it with its own identity. Grammarly is doing something different: After acquiring email client Super… [+2217 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I've been testing the top AI browsers - here's which ones actually impressed me",
-      "description": "AI browsers promise to change how we search, shop, and work online. So, I've been trying them - and found 5 so far that really deliver.",
-      "url": "https://www.zdnet.com/article/ive-been-testing-the-top-ai-browsers-heres-which-ones-actually-impressed-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/792064729defb8a16f80cf71dd24bf8c81f60ef7/2025/10/28/25ea0058-5e09-485c-9c70-fd36b283e55d/ai-browser-round-up.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T13:03:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways \r\n<ul><li>AI-powered web browsers are on the rise.</li><li>There are several different AI brow… [+11082 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "YouTube looks to improve its TV app with QR codes for shopping, AI-powered upscaling | TechCrunch",
-      "description": "Key updates include the introduction of QR codes that let you identify and shop for items in tagged videos, AI-powered upscaling, and improved search.",
-      "url": "https://techcrunch.com/2025/10/29/youtubes-latest-updates-are-aimed-at-improving-the-tv-experience/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1311780018.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T13:02:49Z",
-      "content": "YouTube on Wednesday showed off several new updates aimed at improving its TV user interface. \r\nKey updates include the introduction of QR codes that let you identify and shop for items in tagged vid… [+2578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Grammarly changes its name to Superhuman - and its mission to AI wrangler",
-      "description": "The AI writing tool isn't going away - it's being joined by a suite of new tools, including an agent manager that can turn assistants on and off as needed.",
-      "url": "https://www.zdnet.com/article/grammarly-changes-its-name-to-superhuman-and-its-mission-to-ai-wrangler/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0663e43f891d02a5426343cd43c877925db003e8/2025/10/29/a5ff895c-5c5b-4e51-922d-2fb83429379d/gettyimages-2234865868.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T13:00:36Z",
-      "content": "Krot Studio/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Grammarly has changed its name to Superhuman.</li><li>The … [+7437 chars]"
     }
   ]
 }
