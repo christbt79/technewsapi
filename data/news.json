@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T21:31:34.893Z",
+  "fetchedAt": "2025-10-31T22:08:51.805Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Navan IPO tumbles 20% after historic debut under SEC shutdown workaround",
+      "description": "Navan finished its first day trading at an approximate valuation of $4.7 billion, which is about half of its last private valuation of $9.2 billion.",
+      "url": "https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
+      "publishedAt": "2025-10-30T21:41:40Z",
+      "content": "Navan, the corporate travel and expense platform, finished its first day of trading on the Nasdaq on Thursday down 20% from its $25 IPO price, resulting in a valuation of approximately $4.7 billion f… [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Tim Cook says more AIs are coming to Apple Intelligence",
+      "description": "Tim Cook says Apple has plans to embed more third-party AI tools into the company’s operating systems. “Our intention is to integrate with more people over time,” Cook said in an interview with CNBC. Apple has already embedded ChatGPT into Siri, with a Google…",
+      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC01507.webp?quality=90&strip=all&crop=0%2C11.017233631299%2C100%2C77.965532737402&w=1200",
+      "publishedAt": "2025-10-30T21:32:44Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple is planning to integrate with more companies over time, according to Cook.\r\nApple is planning to integrate with more companies over time, according to Cook… [+3336 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108146149-1747324974303-gettyimages-2203987828-mhay4538_tluavci4.jpeg?v=1761776682&w=1920&h=1080",
       "publishedAt": "2025-10-29T22:49:22Z",
       "content": "YouTube is offering voluntary buyouts with severance for U.S.-based employees as it restructures its product organization to focus more on artificial intelligence.\r\nThe move comes as Google CEO Sunda… [+1264 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Solana co-founder Anatoly Yakovenko is a big fan of agentic coding | TechCrunch",
-      "description": "Speaking at TechCrunch Disrupt, Yakovenko said he's become increasingly comfortable taking a back seat in software development tasks.",
-      "url": "https://techcrunch.com/2025/10/29/solana-co-founder-anatoly-yakovenko-is-a-big-fan-of-agentic-coding/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-2.59.52-PM.jpg?resize=1200,608",
-      "publishedAt": "2025-10-29T22:44:12Z",
-      "content": "The rise of agentic coding tools has been a sea change for software engineers across the industry — but for Solana Labs CEO Anatoly Yakovenko, it seems to have landed particularly hard. Speaking at T… [+2034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Gemini for Home is finally rolling out for early access - here's how to try it first",
-      "description": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/gemini-for-home-is-finally-rolling-out-for-early-access-heres-how-to-try-it-first/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T22:31:00Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google just began offering Gemini for Home for early access.</li><li>It's compatible with most Nest speak… [+5349 chars]"
     }
   ]
 }
