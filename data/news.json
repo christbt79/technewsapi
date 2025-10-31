@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T10:10:20.707Z",
+  "fetchedAt": "2025-10-31T10:40:53.940Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Isabel O’Brien",
+      "title": "A Fight Over Big Tech’s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire",
+      "description": "An ideological war over how tech giants can account for AI data center emissions has bled into the international arena.",
+      "url": "https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/",
+      "urlToImage": "https://media.wired.com/photos/68e68926238fbbab3f2aeb31/191:100/w_1280,c_limit/100825_Tech-Data-Center-Emissions.jpg",
+      "publishedAt": "2025-10-30T10:31:37Z",
+      "content": "Last weeks request for public comment from the Greenhouse Gas Protocol (GHGP) doesnt look like a major win for a tech giant to the naked eye. In fact, it seems almost clerical. But for Google and Mic… [+2280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "OpenAI's Microsoft contract negotiation is a necessary step toward a future IPO — Altman's goal is to build 30 gigawatts of compute infrastructure, valued at $1.4 trillion",
+      "description": "Microsoft and OpenAI have finalised the wording of their working relationship for the next five years and beyond. This brings to a close the negotiations which had held up major investments from Softbank, as well as OpenAI's for-profit restructuring.",
+      "url": "https://www.tomshardware.com/tech-industry/openais-microsoft-contract-negotiation-is-a-necessary-step-toward-a-future-ipo-altmans-goal-is-to-build-30-gigawatts-of-compute-infrastructure-valued-at-usd1-4-trillion",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZJYbzmaCeM9RkDxJayWF6Y-1920-80.jpg",
+      "publishedAt": "2025-10-30T10:16:42Z",
+      "content": "After months of negotiations and with a looming end-of-year deadline, Microsoft and OpenAI have finally agreed on the wording for their working relationship going forward, clarifying several salient … [+6446 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217185-1761571284268-mwall_20250220_1431.jpeg?v=1761571492&w=1920&h=1080",
       "publishedAt": "2025-10-29T12:00:01Z",
       "content": "In a lab tucked away in southern California, scientists at Debut Biotech are testing molecules using advanced biotechnology to create new skincare formulations.\r\nThe San Diego-based company, founded … [+8005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Target lost its style edge. Its new CEO wants to change that",
-      "description": "Target is trying to win back its reputation for style as it heads into the crucial holiday season and tries to rebound from stagnant sales.",
-      "url": "https://www.cnbc.com/2025/10/29/new-target-ceo-michael-fiddelke-aims-to-boost-clothing-home-goods.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218001-1761671400548-IMG_0108.jpg?v=1761671797&w=1920&h=1080",
-      "publishedAt": "2025-10-29T11:00:01Z",
-      "content": "Target's merchants and designers have drawn inspiration from traveling to rodeos, ski lodges and college campuses. Some of the retailer's fall accessories have western accents, such as purses with fr… [+12991 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple's iPhone Air doesn't look like a best-seller. It might not matter.",
-      "description": "Apple's earnings report this Thursday is critical for investors because it includes the first official sales for the iPhone 17 and the iPhone Air.",
-      "url": "https://www.cnbc.com/2025/10/29/apples-iphone-air-sales-in-focus-at-q4-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196371-1757442493263-gettyimages-2234527438-_75a6287_jjhq4tzw.jpeg?v=1761689831&w=1920&h=1080",
-      "publishedAt": "2025-10-29T11:00:01Z",
-      "content": "Apple's Thursday earnings report is critical for investors because it includes the first official sales figures for the iPhone 17. \r\nThe report covers sales through the end of September, which includ… [+5176 chars]"
     }
   ]
 }
