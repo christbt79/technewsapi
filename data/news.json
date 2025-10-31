@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T14:09:42.859Z",
+  "fetchedAt": "2025-10-31T14:41:04.458Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Invisible npm malware pulls a disappearing act – then nicks your tokens",
+      "description": "PhantomRaven slipped over a hundred credential-stealing packages into npm\nA new supply chain attack dubbed PhantomRaven has flooded the npm registry with malicious packages that steal credentials, tokens, and secrets during installation. The packages appear s…",
+      "url": "https://www.theregister.com/2025/10/30/phantomraven_npm_malware/",
+      "urlToImage": "https://regmedia.co.uk/2020/12/11/shutterstock_raven.jpg",
+      "publishedAt": "2025-10-30T14:19:07Z",
+      "content": "A new supply chain attack dubbed PhantomRaven has flooded the npm registry with malicious packages that steal credentials, tokens, and secrets during installation. The packages appear safe when first… [+3237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Need cash? Perplexity will give you $15 for every friend you refer to Comet - how to get it",
+      "description": "There doesn't seem to be a limit to how much money you can earn.",
+      "url": "https://www.zdnet.com/article/need-cash-perplexity-will-give-you-15-for-every-friend-you-refer-to-comet-how-to-get-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8392be8f826ca4a91a69877d027a1277a7fcd98a/2025/10/30/a6160733-6bd9-4366-ae88-cb3899977ed5/perplexity-will-give-you-15-for-every-friend-you-refer-to-comet-how-to-get-your-cash2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T14:15:00Z",
+      "content": "Perplexity / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Perplexity is offering a referral program for its Comet browser.</li><… [+2382 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Google-Home-Speaker-with-Light-Ring-Jade.png?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
       "publishedAt": "2025-10-29T14:08:48Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini for Home will replace Google Assistant on your Nest smart home devices.\r\nGemini for Home will replace Google Assistant on your Nest smart home devices.\r\nb… [+2604 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "The Echo Dot Max is Amazon’s biggest little speaker yet",
-      "description": "I love the Echo Dot Max. It's an excellent speaker, a good listener, and comes in purple - which is just fun. It's got new, easier-to-use controls and more smart home sensors and radios than earlier models. It's also one of the first devices designed for Alex…",
-      "url": "https://www.theverge.com/tech/808747/amazon-echo-dot-max-smart-speaker-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258034_Echo_Dot_Max_2025_JTuohy_0011.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T14:04:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe hardware finally feels ready, but Alexa Plus is still a work in progress.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our e… [+12819 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "TechCrunch Events",
-      "title": "TechCrunch Disrupt 2025: Day 3",
-      "description": "This is the third and final day of TechCrunch Disrupt 2025 at Moscone West in San Francisco. Register here to get a 50% discount and don't miss out on innovation and scaling. Disrupt won' come back for another year.",
-      "url": "https://techcrunch.com/2025/10/29/techcrunch-disrupt-2025-day-3/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/08/21618366341_fbe9a8e707_k.jpg?resize=1200,801",
-      "publishedAt": "2025-10-29T14:00:00Z",
-      "content": "Welcome to the third and final day of TechCrunch Disrupt 2025 at Moscone West in San Francisco! The excitement here is still in full swing, and theres no slowing down.\r\nIf you thought it was too late… [+8839 chars]"
     }
   ]
 }
