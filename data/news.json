@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T17:37:48.082Z",
+  "fetchedAt": "2025-10-31T18:14:14.274Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Canva’s new ‘Creative Operating System’ is actually a marketing workspace",
+      "description": "Canva is introducing new digital marketing and video-editing tools, built around what the company is calling a “world-first” design-focused AI model. These launches are part of an overhaul to the design platforms Visual Suite workplace products, which Canva d…",
+      "url": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Canva-Creative-OS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-30T17:59:26Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe platform has a new design-focused AI model and end-to-end marketing features.\r\nThe platform has a new design-focused AI model and end-to-end marketing featur… [+3779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Ex-Intel CEO Pat Gelsinger praises cutting-edge Nvidia chip production with TSMC on US soil, despite Intel missing out — hails manufacturing milestone of US-based supply chain",
+      "description": "Intel's ex-CEO, Pat Gelsinger, has praised the news that Nvidia's latest graphics chips are now in full production on American soil. Highlighting how important the silicon supply chain is for national security, he said that he hopes this will allow Nvidia to …",
+      "url": "https://www.tomshardware.com/tech-industry/ex-intel-ceo-pat-gelsinger-praises-cutting-edge-nvidia-chip-production-with-tsmc-on-us-soil-despite-intel-missing-out-hails-manufacturing-milestone-of-us-based-supply-chain",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sEZgkWc5wMHXoc9PbowE4a-1920-80.jpg",
+      "publishedAt": "2025-10-30T17:41:12Z",
+      "content": "Intel's former CEO, Pat Gelsinger, has praised the news that Nvidia's latest Blackwell GPUs are now being produced at its Arizona facility. It's important, he said, for the most cutting-edge silicon … [+2897 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/lurie-disrupt.jpg?resize=1200,800",
       "publishedAt": "2025-10-29T18:38:55Z",
       "content": "Waymo and Zoox robotaxis are a regular sight on San Francisco streets and soon Uber, through a partnership with Lucid and Nuro, will descend on the city as well. It is exactly how San Francisco Mayor… [+1616 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brad Bourque",
-      "title": "The Pixel Watch 3 Is $100 Off",
-      "description": "Outfit your wrist with the previous generation of Pixel smartwatch for just $200.",
-      "url": "https://www.wired.com/story/pixel-watch-3-deal-1025/",
-      "urlToImage": "https://media.wired.com/photos/6902575aba6da1ec470b32b3/191:100/w_1280,c_limit/The%20Pixel%20Watch%203%20is%20$100%20Off.png",
-      "publishedAt": "2025-10-29T18:15:12Z",
-      "content": "Are you an Android user who is constantly looking at Apple Watch owners with envy? You're in luck, as the Pixel Watch 3 is marked down to just $200 at Amazon in several colors. I spotted three discou… [+1807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The Fed is 'worried that layoffs will increase sooner and faster than hiring,' says chief economist",
-      "description": "The Fed is loosening monetary policy to protect a slowing job market, even as prices continue to rise.",
-      "url": "https://www.cnbc.com/2025/10/29/why-the-fed-is-cutting-rates-even-as-prices-keep-rising.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218751-1761757188571-gettyimages-2235415173-AFP_74VP7MQ.jpeg?v=1761757270&w=1920&h=1080",
-      "publishedAt": "2025-10-29T18:06:44Z",
-      "content": "The Federal Reserve announced its second consecutive cut to its benchmark interest rate on Wednesday, reducing the federal funds rate by a quarter percentage point to a range of 3.75% to 4%.\r\nWhile t… [+3069 chars]"
     }
   ]
 }
