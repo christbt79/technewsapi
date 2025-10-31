@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-31T14:41:04.458Z",
+  "fetchedAt": "2025-10-31T15:08:33.675Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "The best free AI courses and certificates for upskilling in 2025 - and I've tried them all",
+      "description": "I've worked with AI for decades and have a master's degree in education. Here are the top free AI courses online that I recommend, along with my reasons for recommending them.",
+      "url": "https://www.zdnet.com/article/the-best-free-ai-courses-and-certificates-for-upskilling-in-2025-and-ive-tried-them-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f4f303bd6813460eecc860ed80fdde677a029d0f/2025/10/30/f33fa2a9-d422-495e-9d70-78d9ff775b4b/gettyimages-2234176104.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T15:05:00Z",
+      "content": "I've been working with AI for a very long time. I conducted one of the first-ever academic studies of AI ethics as a thesis project way back in the day. I created and launched an expert system develo… [+1545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zak Killian",
+      "title": "New AMD driver snubs Radeon RX 5000, 6000 GPUs with latest updates — also disables USB-C functionality on RX 7900 series",
+      "description": "The latest AMD Radeon graphics driver skips older GPUs for feature updates and drops functionality from last-gen flagships.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/new-amd-driver-snubs-radeon-rx-5000-6000-gpus-with-latest-updates-also-disables-usb-c-functionality-on-rx-7900-series",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fr5dCQbYg8NKqYvETTkjz8-2560-80.jpg",
+      "publishedAt": "2025-10-30T15:04:41Z",
+      "content": "Are you still stuck deep in Battlefield 6 and dearly desiring a driver update to improve performance on your Radeon RX 6000 series GPU? Well, we have good and bad news for you: the latest Adrenalin u… [+4036 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Liam Proven",
+      "title": "KDE tidies up Plasma 6.5 with 60-odd fixes and smoother setup for OEMs",
+      "description": "Big release with a lot of new features – and a few inevitable glitches\nThe KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team's squashed over 60 bugs – and they're by no mean…",
+      "url": "https://www.theregister.com/2025/10/30/kde_65_651/",
+      "urlToImage": "https://regmedia.co.uk/2021/03/02/plasma.jpg",
+      "publishedAt": "2025-10-30T14:51:50Z",
+      "content": "The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team's squashed over 60 bugs and they're by no means all new.\r\nK… [+3843 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Microsoft’s agent platform play",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. To understand how Microsoft sees its role in the AI race, look at what was announced at the company's GitHub Unive…",
+      "url": "https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-978868526.jpg?quality=90&strip=all&crop=9.771875%2C10.791193787747%2C90.228125%2C70.973600968568&w=1200",
+      "publishedAt": "2025-10-30T14:49:39Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat this weeks GitHub news says about Microsofts role in the AI race.\r\nWhat this weeks GitHub news says about Microsofts role in the AI race.\r\nby\r\nAlex HeathClo… [+5762 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jnfKu2m58ySVTYFy3KbByS-2000-80.jpg",
       "publishedAt": "2025-10-29T14:54:13Z",
       "content": "An individual whose brother-in-law recently passed has explained how they managed to slash the hospital medical bills left behind from hundreds to tens of thousands. Nthmonkey on Threads claims that … [+3726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Dame Emma Thompson gives the 'AI revolution' both barrels",
-      "description": "Oscar-winning author and performer would prefer Copilot did not offer her writing assistance\nDame Emma Thompson's expletive-laden takedown of AI writing assistants may strike a chord with frustrated users everywhere.…",
-      "url": "https://www.theregister.com/2025/10/29/emma_thompson_ai/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/29/shutterstock_emmathompson.jpg",
-      "publishedAt": "2025-10-29T14:50:48Z",
-      "content": "Dame Emma Thompson's expletive-laden takedown of AI writing assistants may strike a chord with frustrated users everywhere.\r\nWhen Stephen Colbert asked the Oscar-winning performer and writer how she … [+1384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "6 essential rules for unleashing AI on your software development process - and the No. 1 risk",
-      "description": "AI is reshaping Agile development. Here's how teams can boost productivity and quality while avoiding the biggest risks.",
-      "url": "https://www.zdnet.com/article/6-essential-rules-for-unleashing-ai-on-your-software-development-process-and-the-no-1-risk/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3f815bfa307f08d7fc2c1c5add8d3b50ba7d6667/2025/10/29/0d30eaa0-51cb-4a7a-b5df-b07905c9cc55/gettyimages-2219617515.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T14:48:52Z",
-      "content": "fotograzia / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Pressure grows for software better aligned with business.</li><li>Agile tech… [+8779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Nvidia pitches Omniverse DSX as model for gigawatt-scale AI factories",
-      "description": "GPU giant teams with partners to create digital twin blueprint for next-gen datacenters Nvidia unveiled Omniverse DSX at its GTC event in Washington DC — a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.…",
-      "url": "https://www.theregister.com/2025/10/29/nvidia_omniverse_dsx/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/29/nvidiaaifactory.jpg",
-      "publishedAt": "2025-10-29T14:16:07Z",
-      "content": "Nvidia unveiled Omniverse DSX at its GTC event in Washington DC a blueprint for designing and operating gigawatt-scale AI datacenters using digital twin technology.\r\nThe GPU giant also confirmed the … [+2387 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "Google Gemini for Home is rolling out in the US — here’s how to get early access",
-      "description": "Google smart home users in the US can now get an early taste of the new Gemini for Home assistant, which began rolling out in early access on Tuesday. It’s slated to replace the current Google Assistant on Nest devices, marking one of the most significant upd…",
-      "url": "https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/Google-Home-Speaker-with-Light-Ring-Jade.png?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
-      "publishedAt": "2025-10-29T14:08:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGemini for Home will replace Google Assistant on your Nest smart home devices.\r\nGemini for Home will replace Google Assistant on your Nest smart home devices.\r\nb… [+2604 chars]"
     }
   ]
 }
