@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-10-31T16:44:29.252Z",
+  "fetchedAt": "2025-10-31T17:09:17.351Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "Massive Azure outage is over, but problems linger - here's what happened",
+      "description": "Microsoft confirmed recovery late yesterday and is implementing rollback controls to prevent similar issues.",
+      "url": "https://www.zdnet.com/article/massive-azure-outage-is-over-but-problems-linger-heres-what-happened/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/555ac3c737ab86ecafa4491c922c73b13fd25a0d/2025/10/30/4f032850-d79d-4b92-a18a-ddaf429fcf4a/mssign5555gettyimages-2241942366.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T17:07:00Z",
+      "content": "picture alliance/Contributor/picture alliance via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Azure experienced a global outage on Oc… [+7829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Omer Minkara",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
+      "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T17:06:00Z",
+      "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Omer Minkara",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
+      "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T17:06:00Z",
+      "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Canva's new 'Creative Operating System' wants to be your one-stop-shop for AI design",
+      "description": "The company is calling its new suite of AI features \"the biggest evolution of its product to date.\" Here's what it offers.",
+      "url": "https://www.zdnet.com/article/canvas-new-creative-operating-system-wants-to-be-your-one-stop-shop-for-ai-design/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/336ae173775679bfd24728776e8f2e2e98d3fa82/2025/10/30/04273705-3e42-480c-8d36-c39b7da8ea2c/gettyimages-1411959940.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T17:05:38Z",
+      "content": "dem10/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Canva unveiled its Creative Operating System on Thursday.</li><l… [+5978 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research",
+      "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's how it works.",
+      "url": "https://www.zdnet.com/article/openai-unveils-aardvark-a-gpt-5-powered-agent-for-autonomous-cybersecurity-research/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/285b3135bc42402adf30867f110e2826c7d72cd5/2025/10/30/5b7f80f4-48e6-4662-9aa5-2845fda8dc18/aardvark-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T17:00:31Z",
+      "content": "Elyse Betters Picaro/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI has launched Aardvark, a cybersecurity researcher agent. </li><li>Aardvark is … [+2813 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Canva launches its own design model, adds new AI features to the platform",
+      "description": "Canva is launching new features like Forms, email design, and makes Affinity free for all users.",
+      "url": "https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Creative-OS.jpeg?resize=1200,675",
+      "publishedAt": "2025-10-30T17:00:00Z",
+      "content": "Creative suite company Canva launched its own design model on Thursday that understands different layers and formats today to power its features. The company also introduced new product forms, update… [+3110 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Affinity’s new design platform combines everything into one app",
+      "description": "After acquiring Serif last year, Canva is now relaunching its Adobe-rivalling Affinity creative suite as a new all-in-one app for photo editing, vector illustration, and page layouts. Unlike Affinity’s previous Designer, Photo, and Publisher software, which w…",
+      "url": "https://www.theverge.com/news/810251/canva-affinity-design-suite-free-app-relaunch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/B1_Affinity_PTK_Non-Destructive_Editing.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-30T16:58:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd Canva really, really wants you to know that its completely free.\r\nAnd Canva really, really wants you to know that its completely free.\r\nby\r\nJess WeatherbedCl… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Corporate travel and expense software firm Navan shares fall by as much as 12% in first trade after $6 billion Nasdaq IPO",
+      "description": "Navan shares fell by as much as 12% after the corporate travel and expense management software startup went public on the Nasdaq in a resurgent year for IPOs.",
+      "url": "https://www.cnbc.com/2025/10/30/travel-tech-navan-ipo-nasdaq-stock-price.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218742-17617566772025-09-23t175147z_12272999_rc2txgaz4dsv_rtrmadp_0_navan-ipo.jpeg?v=1761756761&w=1920&h=1080",
+      "publishedAt": "2025-10-30T16:45:47Z",
+      "content": "Corporate travel and expense management platform Navan fell by as much as 12% in its first trading day on the Nasdaq under the ticker symbol \"NAVN\" after its successful initial public offering.\r\nThe … [+4448 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/29/aws-rainier.jpg",
       "publishedAt": "2025-10-29T18:01:19Z",
       "content": "Never mind Sam Altman's Stargate, which is just beginning to open its portal to distant AI-fueled worlds: Amazon's competing mountain of AI compute power is already up and running. \r\nAmazon Web Servi… [+2403 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "AI Agents Are Terrible Freelance Workers",
-      "description": "A new benchmark measures how well AI agents can automate economically valuable chores. Human-level AI is still some ways off.",
-      "url": "https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/",
-      "urlToImage": "https://media.wired.com/photos/690147a56a37037ce5efc6db/191:100/w_1280,c_limit/A-%20Lab-AI-Agents-Tried-to-Make-Money-Doing-Freelance-Work-Business-2168056998.jpg",
-      "publishedAt": "2025-10-29T18:00:00Z",
-      "content": "Even the bestartificial intelligenceagents are fairly hopeless at online freelance work, according to an experiment that challenges the idea of AI replacing office workers en masse.\r\nThe Remote Labor… [+2415 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia's $5 trillion market cap is equivalent to around 25 Disneys, 50 Nikes and more than 3,000 JetBlues",
-      "description": "Nvidia's market cap dwarfs that of other well-known companies, as well as entire sectors and even full international markets.",
-      "url": "https://www.cnbc.com/2025/10/29/nvidia-5-trillion-market-cap-ai-disney-mcdonalds-ford-macys.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186411-1755245023980-gettyimages-2228729615-vcg111582736767.jpeg?v=1761746329&w=1920&h=1080",
-      "publishedAt": "2025-10-29T17:56:21Z",
-      "content": "An Nvidia chip is seen through a magnifying glass in Beijing, China, on August 1, 2025. \r\nNvidia on Wednesday became the first company to surpass the $5 trillion market cap milestone, meaning it loom… [+2330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "I've been testing AI content detectors for years - these are your best options in 2025",
-      "description": "AI content is everywhere now, but these detectors can help (including one that may surprise you).",
-      "url": "https://www.zdnet.com/article/ive-been-testing-ai-content-detectors-for-years-these-are-your-best-options-in-2025/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/57ce91424b52ef54e1797980e51260603d947f30/2025/10/29/e11b7afd-f886-4fa9-a231-39542cd30e83/gettyimages-1200976833.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T17:53:00Z",
-      "content": "busracavus/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Using an AI to do your writing is plagiarism.</li><li>Services marketed as A… [+15554 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Google to bring shuttered nuclear power plant back from the dead | TechCrunch",
-      "description": "Google is working with NextEra to reopen the Duane Arnold Energy Center in Iowa to power the tech companies data centers.",
-      "url": "https://techcrunch.com/2025/10/29/google-to-bring-shuttered-nuclear-power-plant-back-from-the-dead/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Duane-Arnold-reactor.jpg?resize=1200,952",
-      "publishedAt": "2025-10-29T17:24:05Z",
-      "content": "Google announced this week it is working with NextEra Energy to revive a nuclear power plant in Iowa that had closed in 2020.\r\nNextEra has been looking for a partner to reopen the reactor for the pas… [+2016 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "Extropic Aims to Disrupt the Data Center Bonanza",
-      "description": "A startup hopes to challenge Nvidia, AMD, and Intel with a chip that wrangles probabilities rather than ones and zeros.",
-      "url": "https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/",
-      "urlToImage": "https://media.wired.com/photos/69023ea55216e0070a31d8c6/191:100/w_1280,c_limit/brass_on_wood_2.jpg",
-      "publishedAt": "2025-10-29T17:11:10Z",
-      "content": "Extropic, a startup developing an exotic new kind of computer chip that handles probabilistic bits, has produced its first working hardware along with proof that more advanced systems will tackle use… [+2898 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "ElevenLabs CEO says AI audio models will be 'commoditized' over time | TechCrunch",
-      "description": "ElevenLabs' founder Mati Staniszewski said that, in the short term, AI audio models were still the \"biggest advantage and the biggest step change you can have today.\"",
-      "url": "https://techcrunch.com/2025/10/29/elevenlabs-ceo-says-ai-audio-models-will-be-commoditized-over-time/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
-      "publishedAt": "2025-10-29T17:00:40Z",
-      "content": "AI audio company ElevenLabs‘ co-founder and chief executive Mati Staniszewski believes that AI models will be commoditized over time, a revealing comment for a company focused today on building them.… [+2111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "I tried Grokipedia, the AI-powered 'anti-Wikipedia.' Here's why neither is foolproof",
-      "description": "Is Elon Musk's alternative to Wikipedia worth trying, or just a summation of his tweets? Tread carefully.",
-      "url": "https://www.zdnet.com/article/i-tried-grokipedia-the-ai-powered-anti-wikipedia-heres-why-neither-is-foolproof/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1f27335abb446a13b8a93d563d1dbf156a280c9f/2025/10/28/d5acfae2-4730-41f8-b053-350a7126c333/gettyimages-1215375477.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T16:54:47Z",
-      "content": "Busà Photography/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>xAI's Grokipedia is now live.</li><li>Articles on the platform are writ… [+7378 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Maxwell Zeff",
-      "title": "How AI labs use Mercor to get the data companies won’t share | TechCrunch",
-      "description": "Mercor CEO Brendan Foody has built a $10 billion empire freeing up valuable data from legacy industries, and making it available to AI labs.",
-      "url": "https://techcrunch.com/2025/10/29/how-ai-labs-use-mercor-to-get-the-data-companies-wont-share/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Mercor-CEO.jpg?resize=1200,671",
-      "publishedAt": "2025-10-29T16:19:08Z",
-      "content": "Instead of signing expensive contracts with companies for their data, AI labs these days are trying a new tack: tapping former senior employees from those companies for their industry knowledge, Merc… [+5409 chars]"
     }
   ]
 }
