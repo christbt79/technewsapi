@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T18:46:29.947Z",
+  "fetchedAt": "2025-10-31T19:02:36.244Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Google parent company spending like a drunken sailor as capex triples over 2 years",
+      "description": "Microsoft also ramping up spending, but investors concerned about overshooting demand\nAlphabet, Google's parent company, expects capital expenditures to hit $93 billion in 2025, largely to meet demand from cloud customers, according to its recent financial re…",
+      "url": "https://www.theregister.com/2025/10/30/alphabet_capex/",
+      "urlToImage": "https://regmedia.co.uk/2024/07/02/google_shutterstock.jpg",
+      "publishedAt": "2025-10-30T19:02:03Z",
+      "content": "Alphabet, Google's parent company, expects capital expenditures to hit $93 billion in 2025, largely to meet demand from cloud customers, according to its recent financial report.\r\nOn the back of resu… [+2565 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T19:13:30Z",
       "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google just began offering Gemini for Home for early access.</li><li>It's compatible with most Nest speak… [+5349 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "More IT leaders are using AI to cut costs - but not in the ways you'd expect, Gartner finds",
-      "description": "It turns out basic uses of AI, such as for infrastructure and operations, could be the surest path to profitability.",
-      "url": "https://www.zdnet.com/article/more-it-leaders-are-using-ai-to-cut-costs-but-not-in-the-ways-youd-expect-gartner-finds/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c9190153e3b52d7fadeaf3273aea59f38f888919/2025/10/29/c0fbb0e6-d478-4ad8-a17c-e0f71ad895b0/gettyimages-1422219763.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T18:54:00Z",
-      "content": "PM Images/DigitalVision via Getty Images\r\nZDNET's key takeaways\r\n<ul><li>54% of I&amp;O leaders are using AI to cut spending, Gartner says.</li><li>50% also cited budget constraints as their biggest … [+4052 chars]"
     }
   ]
 }
