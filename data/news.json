@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T06:14:43.939Z",
+  "fetchedAt": "2025-10-31T06:48:07.764Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Forget Azure and AWS: IBM Cloud is experiencing a quantum computer outage",
+      "description": "We’re guessing that turning it off and on again won’t help given qubits can be on and off at the same time IBM has one-upped AWS and Microsoft by reporting an outage in one of its cloudy quantum computers.…",
+      "url": "https://www.theregister.com/2025/10/30/ibm_cloud_experiencing_quantum_computer/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/30/supplied_ibm_quantum_two_system.jpg",
+      "publishedAt": "2025-10-30T06:31:06Z",
+      "content": "IBM has one-upped AWS and Microsoft by reporting an outage in one of its cloudy quantum computers.\r\nEarly on Thursday morning, Big Blue advised The quantum computer, ibm_aachen, is temporarily unavai… [+1999 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428433-1718263567709-gettyimages-2144493443-INDIA_MANUFACTURING.jpeg?v=1718263592&w=1920&h=1080",
       "publishedAt": "2025-10-29T09:55:52Z",
       "content": "In a move aimed at cutting India's import dependency for electronic components, the government has approved the first set of projects under its $2.7 billion program, yet another measure in its stated… [+3379 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Matthew Miller",
-      "title": "7 Google Pixel Watch features you're not using (but definitely should)",
-      "description": "With the Pixel Watch 4, Google truly hit it out of the park with advanced functions and features that propel it to the top, and some of these functions also work with older models.",
-      "url": "https://www.zdnet.com/article/7-google-pixel-watch-features-youre-not-using-but-definitely-should/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5d1a96b901c10eef0899ba4e32a4f4575cd610be/2025/10/28/b4da54d2-d0c7-4979-8533-54fc8815ae07/pixel-watch-4-features3.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T09:42:00Z",
-      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li> The Google Pixel Watch 4 is the most intelligent smartwatch available today. </li><li> Som… [+7704 chars]"
     }
   ]
 }
