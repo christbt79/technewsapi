@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T11:07:54.032Z",
+  "fetchedAt": "2025-10-31T11:31:31.393Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "This doctor raised $130 million from Michael Dell, Jim Breyer and others to try to fix health care",
+      "description": "Cofounder and chief medical officer Dr. Clay Johnston launched Harbor after running Michael Dell's namesake medical school.",
+      "url": "https://www.cnbc.com/2025/10/30/michael-dell-jim-breyer-back-startup-harbor-health.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215512-1761156803296-ClayJohnston-Casual-Outdoor.jpg?v=1761223384&w=1920&h=1080",
+      "publishedAt": "2025-10-30T11:30:01Z",
+      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+3561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Adam Clark Estes",
+      "title": "Elon Musk created a Wikipedia competitor. What could go wrong?",
+      "description": "What the billionaire’s new encyclopedia tells us about the future of knowledge.",
+      "url": "https://www.vox.com/technology/466568/elon-musk-grokipedia-wikipedia-competitor-grok-xai",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2235955651.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-30T11:30:00Z",
+      "content": "Grokipedia, Elon Musks attempt at creating an alternative to Wikipedia, is now live. Early analysis suggests that the site powered by Musks xAI and fact-checked by Grok, the companys right-leaning AI… [+6354 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218143-1761680360087-gettyimages-2243393783-NVIDIA_AI_KEYNOTE.jpeg?v=1761680411&w=1920&h=1080",
       "publishedAt": "2025-10-29T12:14:54Z",
       "content": "Jensen Huang, chief executive officer of Nvidia Corp., during a Bloomberg Television interview at the Nvidia AI summit in Washington, DC, US, on Tuesday, Oct. 28, 2025. \r\nThis is CNBC's Morning Squaw… [+5290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI introduces safety models that other sites can use to classify harms",
-      "description": "OpenAI developed the models in partnership with Discord, SafetyKit, and Robust Open Online Safety Tools.",
-      "url": "https://www.cnbc.com/2025/10/29/openai-introduces-safety-models-other-sites-can-use-to-classify-harms.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172939-1752692236301-gettyimages-2224158210-_d1_8980_0k2vaapw.jpeg?v=1761702237&w=1920&h=1080",
-      "publishedAt": "2025-10-29T12:06:57Z",
-      "content": "OpenAI on Wednesday announced two reasoning models that developers can use to classify a range of online safety harms on their platforms. \r\nThe artificial intelligence models are called gpt-oss-safeg… [+2266 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Why is Bill Gates tone policing on climate change?",
-      "description": "Bill Gates wants us all to be more upbeat about climate change. He argues that we've made great progress on the problem, aided in large part by technological advances. So it's time to focus more on improving people's lives, particularly by fighting hunger and…",
-      "url": "https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2237235833.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-      "publishedAt": "2025-10-29T12:05:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nHe says there needs to be more focus on health and prosperity and less obsession over reducing pollution. But its all connected.\r\nHe says there needs to be more … [+9602 chars]"
     }
   ]
 }
