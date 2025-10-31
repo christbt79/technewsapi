@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-10-31T19:31:11.805Z",
+  "fetchedAt": "2025-10-31T20:10:46.081Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "This simple Pixel update finally makes my Android calls as nice as iPhone's",
+      "description": "Android calls just got a major glow-up. Here's what Pixel users can try now.",
+      "url": "https://www.zdnet.com/article/this-simple-pixel-update-finally-makes-my-android-calls-as-nice-as-iphones/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4fc40658e02fdaca2fbe9e79bdcc027db7d2d397/2025/10/27/5af07d5d-a880-4bfd-8203-c479953ec9ab/pxl-20251027-175957838.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T19:54:05Z",
+      "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Eric Levitz",
+      "title": "The job market is getting worse. So why are stocks booming?",
+      "description": "It’s getting harder to find a job and easier to lose one.  Employers are hiring workers at a steadily lower rate while laying them off at a rising one, according to data from the Chicago Federal Reserve. The unemployment rate has been ticking up, and job grow…",
+      "url": "https://www.vox.com/politics/466680/stock-market-today-federal-reserve-jobs-unemployment-inflation",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2243092709.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
+      "publishedAt": "2025-10-30T19:53:37Z",
+      "content": "Traders work on the floor of the New York Stock Exchange (NYSE) on October 24, 2025, in New York City. | Angela Weiss/AFP via Getty Images\r\n\n\nIt’s getting harder to find a job and easier to lose one.… [+8804 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "I tested Sora's new 'Character Cameo' feature, and it was borderline disturbing",
+      "description": "The new feature lets you create AI videos of your pets, inanimate objects, and more. Here's how it went for me.",
+      "url": "https://www.zdnet.com/article/i-tested-soras-new-character-cameo-feature-and-it-was-borderline-disturbing/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/868845c19228a7d96869c6654de92235cb812708/2025/10/30/ca163d7f-2604-49e9-ad33-5f70d00df21c/screen-shot-2025-10-30-at-2-08-57-pm.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T19:42:00Z",
+      "content": "James Keith/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>OpenAI announced character cameos for Sora.</li><li>Characters come with th… [+4650 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/69025f9c42a73fc665080443/191:100/w_1280,c_limit/sec-microsoft-azure--2190627170.jpg",
       "publishedAt": "2025-10-29T20:20:07Z",
       "content": "Microsoft's Azure cloud platform, its widely used 365 services, Xbox, and Minecraft started suffering outages at roughly noon Eastern time on Wednesday, the result of what Microsoft said was an inadv… [+2769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta’s Reality Labs posts $4.4 billion loss in third quarter",
-      "description": "The Reality Labs business, focused on virtual and augmented reality, lost $4.4 billion loss in third quarter while recording $470 million in sales.",
-      "url": "https://www.cnbc.com/2025/10/29/metas-reality-labs-posts-4point4-billion-loss-in-third-quarter.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200610-1758197176239-gettyimages-2235448205-META_CONNECT.jpeg?v=1761594857&w=1920&h=1080",
-      "publishedAt": "2025-10-29T20:18:13Z",
-      "content": "Meta continues to sink money into the metaverse, anchored by virtual reality and augmented reality technologies.\r\nThe company reported third-quarter earnings on Wednesday and said that the Reality La… [+1575 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "2024's Startup Battlefield runner-up geCKo Materials reveals four new products at TechCrunch Disrupt | TechCrunch",
-      "description": "geCKo Materials returned to the stage at TechCrunch Disrupt to debut new products as it pushes deeper into commercializing its tech.",
-      "url": "https://techcrunch.com/2025/10/29/2024s-startup-battlefield-runner-up-gecko-materials-reveals-four-new-products-at-techcrunch-disrupt/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2244029449.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T20:08:03Z",
-      "content": "The 2024 runner-up in the TechCrunch Disrupt Startup Battlefield, geCKo Materials, returned to the stage at this year’s show to debut new products as it pushes deeper into commercializing its tech.\r\n… [+2011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Powell says AI is different from dotcom bubble and is major source of economic growth",
-      "description": "Powell says AI is different from dotcom bubble and is major source of economic growth",
-      "url": "https://www.cnbc.com/2025/10/29/powell-says-ai-different-from-dotcom-bubble-major-source-gdp-growth.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218889-1761764666602-gettyimages-2244020592-aw1a7067_ea5nudy3.jpeg?v=1761764764&w=1920&h=1080",
-      "publishedAt": "2025-10-29T20:03:49Z",
-      "content": "Federal Reserve Chair Jerome Powell said on Wednesday that the artificial intelligence boom is different from the dotcom bubble of the late 1990s.\r\n\"This is different in the sense that these companie… [+1087 chars]"
     }
   ]
 }
