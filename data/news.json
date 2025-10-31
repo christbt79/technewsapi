@@ -1,6 +1,123 @@
 {
-  "fetchedAt": "2025-10-31T15:38:10.500Z",
+  "fetchedAt": "2025-10-31T16:11:09.185Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tage Kene-okafor",
+      "title": "Bevel raises $10M Series A from General Catalyst for its AI health companion | TechCrunch",
+      "description": "The AI health companion unifies data from wearables and habits across sleep, fitness, and nutrition into personalized insights for users.",
+      "url": "https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2447.jpeg?resize=1200,800",
+      "publishedAt": "2025-10-30T16:06:23Z",
+      "content": "Most people tracking their health today end up with scattered clues. Their smartwatch shows sleep duration. A fitness app logs steps. A nutrition app counts calories. Yet few tools help people unders… [+4737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Police bust chip counterfeiting outfit in China, fakes may have made it into PC hardware — GPUs, motherboards, and power supplies potentially impacted by fake Infineon and TI power chips",
+      "description": "Shenzhen authorities have dismantled a counterfeit chip operation that allegedly sold reclaimed and rebranded integrated circuits as premium imports from Infineon and others.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/police-bust-chip-relabeling-ring-in-shenzen",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PoEW83on8deZDKn3RcA8we-2000-80.jpg",
+      "publishedAt": "2025-10-30T16:04:22Z",
+      "content": "Shenzhen authorities have dismantled a counterfeit chip operation that allegedly sold reclaimed and rebranded integrated circuits as premium imports from Infineon, Texas Instruments, and other Wester… [+2986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple reports fourth quarter earnings after the bell",
+      "description": "The fourth quarter, which runs through the end of September, is the first quarter that includes sales from new iPhone 17 models.",
+      "url": "https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213541-17607096732025-10-17t130016z_893115583_rc297x9r28qi_rtrmadp_0_apple-f1.jpeg?v=1760709702&w=1920&h=1080",
+      "publishedAt": "2025-10-30T16:00:01Z",
+      "content": "Apple reports fiscal fourth quarter earnings on Thursday after the bell.\r\nThe fourth quarter, which runs through the end of September, is the first quarter that includes a little more than a week of … [+2062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon earnings primer: Cloud dominance in focus after massive outage as rivals gain ground",
+      "description": "Investors are closely watching growth in Amazon's cloud computing unit, which faces increasing pressure from rivals and artificial intelligence deals.",
+      "url": "https://www.cnbc.com/2025/10/30/amazon-amzn-q3-earnings-report-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139644-1746130974818-108139644-1746130763914-gettyimages-2201505679-ALEXA_AI_UNVEILING.jpeg?v=1761833231&w=1920&h=1080",
+      "publishedAt": "2025-10-30T16:00:01Z",
+      "content": "Amazon is slated to post results for the third quarter after the closing bell Thursday.\r\nHere's what analysts polled by LSEG are looking for:\r\n<ul><li>Earnings per share: $1.57</li><li>Revenue: $177.… [+3647 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "AI browsers are a cybersecurity time bomb",
+      "description": "Web browsers are getting awfully chatty. They got even chattier last week after OpenAI and Microsoft kicked the AI browser race into high gear with ChatGPT Atlas and a \"Copilot Mode\" for Edge. They can answer questions, summarize pages, and even take actions …",
+      "url": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_ai_browser_security_Kristen__Radtke.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-30T15:53:23Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nRushed releases, corruptible AI agents, and supercharged tracking make AI browsers home to a host of known and unknown cybersecurity risks.\r\nRushed releases, cor… [+8011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Trump and Xi ease trade tensions, but Nvidia still can't sell Blackwell in China",
+      "description": "US President did discuss chip exports with his counterpart, but made no breakthroughs\nTalks between US President Trump and Chinese leader Xi Jinping in South Korea yielded a modest thaw, with the two agreeing to trim tariffs and pause new rare-earth export cu…",
+      "url": "https://www.theregister.com/2025/10/30/us_to_reduce_tariffs_china/",
+      "urlToImage": "https://regmedia.co.uk/2018/09/06/shutterstock_china_usa.jpg",
+      "publishedAt": "2025-10-30T15:49:54Z",
+      "content": "Talks between US President Trump and Chinese leader Xi Jinping in South Korea yielded a modest thaw, with the two agreeing to trim tariffs and pause new rare-earth export curbs. But whether Nvidia ca… [+2621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "US government shutdown clouds an otherwise sunny ServiceNow forecast",
+      "description": "Enterprise software giant lifts guidance but adds 'prudence' as federal contracts stall\nServiceNow has built some \"prudence\" into its earnings guidance due to the ongoing US government shutdown.…",
+      "url": "https://www.theregister.com/2025/10/30/us_government_shutdown_servicenow/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_1289760685.jpg",
+      "publishedAt": "2025-10-30T15:48:12Z",
+      "content": "ServiceNow has built some \"prudence\" into its earnings guidance due to the ongoing US government shutdown.\r\nThe tech vendor, which provides a service layer and AI agents on top of business applicatio… [+2436 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Pinterest’s new AI shopping assistant helps you pick a fit",
+      "description": "Move over Andy Sachs, Pinterest is launching an AI-enabled shopping assistant that aims to suggest your next look. Beginning on Thursday, and over the coming weeks and months, Pinterest users will be able to talk to the visual platform about what they’re shop…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AIFwd_OctGTM-Newsroom-Header.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-30T15:45:58Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCEO Bill Ready thinks Pinterests Gen Z users will like talking to it.\r\nCEO Bill Ready thinks Pinterests Gen Z users will like talking to it.\r\nby\r\nElissa WelleClo… [+4375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Joshua Keating",
+      "title": "A trade truce, a nuclear threat: What to make of the Trump-Xi meeting",
+      "description": "Since President Donald Trump’s second term began, his administration’s approach to China has been arguably the toughest aspect of its foreign policy to parse. In part, that’s because the top members of Trump’s team haven’t always seemed to be on the same page…",
+      "url": "https://www.vox.com/politics/466624/xi-trump-trade-nukes-taiwan",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-871894534.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-30T15:42:17Z",
+      "content": "President Donald Trump takes part in a welcoming ceremony with China’s leader, Xi Jinping, on November 9, 2017 in Beijing during Trump’s first term in office. | Thomas Peter/Pool/Getty Images\r\n\n\nSinc… [+9684 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1183,123 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4969081c09c89af6c8cd032e8929f3c8b0ce576c/2025/10/28/c191c362-e757-4ba5-abd5-b37a737d6fd7/squares-floatinggettyimages-2230989635.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T16:09:14Z",
       "content": "Iana Kunitsa/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A system snapshot ensures you always have the means to restore.</li><li>Som… [+5360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta to report third-quarter earnings after the bell",
-      "description": "Meta will report third-quarter earnings on Wednesday and investors will be watching for any signs that it will increase spending on artificial intelligence.",
-      "url": "https://www.cnbc.com/2025/10/29/meta-q3-earnings-report-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&w=1920&h=1080",
-      "publishedAt": "2025-10-29T16:08:50Z",
-      "content": "Meta is slated to report third-quarter earnings on Wednesday after the bell and investors will be watching for any indication that it will increase spending on artificial intelligence.\r\nHere's what a… [+2806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "The easiest way to protect your Linux PC from disaster - no backup needed",
-      "description": "If you want to always have a running state for your Linux desktop, create a snapshot. Here's how.",
-      "url": "https://www.zdnet.com/article/the-easiest-way-to-protect-your-linux-pc-from-disaster-no-backup-needed/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6ab3fca4304f2e7e6ed858a46a06d282dceed02a/2025/10/29/f2e9da41-8e78-4658-964c-4c2e015af1c1/how-to-set-up-automatic-snapshots-on-linux-and-how-they-compare-to-backups.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T16:00:55Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Snapshots are a crucial part of keeping your system running.</li><li>You'll want to i… [+5230 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft set to report quarterly results after the close",
-      "description": "Microsoft's cloud business has been growing faster than rival Amazon Web Services, as the company ramps up artificial intelligence investments.",
-      "url": "https://www.cnbc.com/2025/10/29/microsoft-msft-q1-2026-earnings-report.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188843-1755732260764-gettyimages-1730506424-axelspringeraward_9946.jpeg?v=1761669022&w=1920&h=1080",
-      "publishedAt": "2025-10-29T16:00:01Z",
-      "content": "Microsoft will report results for its fiscal first quarter after the close of regular trading Wednesday.\r\nHere's what analysts are expecting according to a consensus of estimates from LSEG:\r\n<ul><li>… [+2595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Alphabet set to report Q3 earnings after the bell Wednesday",
-      "description": "Alphabet is set to report third-quarter earnings after the bell Wednesday.",
-      "url": "https://www.cnbc.com/2025/10/29/alphabet-google-q3-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1757946732&w=1920&h=1080",
-      "publishedAt": "2025-10-29T16:00:01Z",
-      "content": "Alphabet is set to report third-quarter earnings after the bell Wednesday.\r\nHere's what analysts are expecting according to LSEG consensus:\r\n<ul><li>Revenue: $99.89 billion</li><li>Earnings per share… [+5398 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Nvidia becomes first public company worth $5 trillion | TechCrunch",
-      "description": "With a market cap of $5 trillion, Nvidia is now worth more than the aggregated stock markets of all countries, apart from the United States, China and Japan.",
-      "url": "https://techcrunch.com/2025/10/29/nvidia-becomes-first-public-company-worth-5-trillion/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "publishedAt": "2025-10-29T15:54:04Z",
-      "content": "The biggest beneficiary of the ongoing AI boom, Nvidia has become the first public company to pass the $5 trillion market cap milestone.\r\nThe company’s shares rose more than 5.6% on Wednesday to as m… [+2058 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia's market capitalization hits $5.12 trillion — AI powerhouse is the first company in history to hit seismic milestone",
-      "description": "GTC announcements drive Nvidia's market capitalization by over $200 billion in one day, making the company the world's first firm to reach a market capitalization of over $5 trillion.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-market-capitalization-hits-usd5-12-trillion-ai-powerhouse-is-the-first-company-in-history-to-hit-seismic-milestone",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fcjx2YZZLa8S3KbUsb4qDj-2560-80.jpg",
-      "publishedAt": "2025-10-29T15:44:15Z",
-      "content": "The market capitalization of Nvidia passed the $5 trillion mark on Wednesday, following a host of potentially lucrative deals and projects the company announced at its GPU Technology Conference event… [+3506 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Tesla’s Cybercab may have a steering wheel after all",
-      "description": "Tesla’s Cybercab isn’t scheduled to go into production until 2026, but when it does, it may end up stuck with a vestige of the automotive past: a steering wheel. To be sure, we still use steering wheels. But the Tesla Cybercab was meant to be the first vehicl…",
-      "url": "https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T15:36:22Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat does it need? A good steering wheel that doesnt fly off when youre driving.\r\nWhat does it need? A good steering wheel that doesnt fly off when youre driving… [+4329 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "6 hidden GNOME Search tricks every Linux user should try",
-      "description": "GNOME's built-in search tool can actually do quite a lot. Here's how I use it to work faster and smarter.",
-      "url": "https://www.zdnet.com/article/6-hidden-gnome-search-tricks-every-linux-user-should-try/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/69b8be8f917065f7d61876d6ffb83055f53d6c19/2025/10/29/421d40fc-21e0-4572-ba17-d6a24bf2b708/6-cool-things-you-can-do-with-the-gnome-activities-search-function.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T15:29:30Z",
-      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways \r\n<ul><li>GNOME Search is more than just a search tool.</li><li>There are severa… [+5554 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "India to dethrone US for dev numbers as AI reshapes coding, says GitHub",
-      "description": "TypeScript was ranked top programming language The Indian software developer community will outgrow the US's by 2030, GitHub's Octoverse 2025 report shows. However, today, the United States remains in the lead.…",
-      "url": "https://www.theregister.com/2025/10/29/india_devs_github/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/29/shutterstock_2017662464.jpg",
-      "publishedAt": "2025-10-29T15:08:06Z",
-      "content": "The Indian software developer community will outgrow the US's by 2030, GitHub's Octoverse 2025 report shows. However, today, the United States remains in the lead.\r\nThe repo platform's latest study a… [+3688 chars]"
     }
   ]
 }
