@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-10-31T15:08:33.675Z",
+  "fetchedAt": "2025-10-31T15:38:10.500Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "President Trump’s ballroom design might not be AI — but it’s still a mess",
+      "description": "When President Donald Trump revealed the physical model of the sprawling ballroom that will replace the now-demolished East Wing of the White House, something just seemed off. The model, small enough to fit on a table, is supposed to be a representation of th…",
+      "url": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242389845.jpg?quality=90&strip=all&crop=0%2C10.727913000968%2C100%2C78.544173998065&w=1200",
+      "publishedAt": "2025-10-30T15:37:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ballroom models colliding windows, blocked staircase, and extra windows might just be a lot of human error.\r\nThe ballroom models colliding windows, blocked s… [+6139 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Samsung’s internet browser is headed to PC",
+      "description": "Samsung is bringing its mobile web browser to bigger screens. It’s launching a beta version of its Samsung Internet on PC with support for cross-device syncing, which should make it easier to access all your browsing data if you’ve never switched to a differe…",
+      "url": "https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/galaxy-samsung-browser.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
+      "publishedAt": "2025-10-30T15:33:23Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now try Samsung Internet on PC with new AI features and cross-device syncing.\r\nYou can now try Samsung Internet on PC with new AI features and cross-devi… [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI companies are downplaying amount of energy and capital they need, Joe Lonsdale says",
+      "description": "Palantir co-founder and venture capitalist Joe Lonsdale says that execs at AI companies are underselling the resources required to meet their ambitions.",
+      "url": "https://www.cnbc.com/2025/10/30/palantir-s-lonsdale-says-ai-companies-downplay-energy-capital-needs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105213182-1754507260703-iw_newBillionaires_lonsdaleJoe.png?v=1754507273&w=1920&h=1080",
+      "publishedAt": "2025-10-30T15:23:17Z",
+      "content": "Joe Lonsdale, the founder of venture firm 8VC, says that top executives in artificial intelligence are underselling the resources they need to meet their ambitious goals.\r\nThese companies are \" afrai… [+1551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "The new most popular AI image and video generator might surprise you",
+      "description": "Here's what personal and enterprise users alike flock to this tool for.",
+      "url": "https://www.zdnet.com/article/the-new-most-popular-ai-image-and-video-generator-might-surprise-you/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f89aa993f4c543dbd97ddefab32bae01ce895c54/2025/10/30/3f424318-ae60-4c85-966a-4c0ca22dade0/gettyimages-1409196384.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T15:20:00Z",
+      "content": "undefined/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey found many users prefer Gemini for creating images.… [+4490 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/29/shutterstock_2017662464.jpg",
       "publishedAt": "2025-10-29T15:08:06Z",
       "content": "The Indian software developer community will outgrow the US's by 2030, GitHub's Octoverse 2025 report shows. However, today, the United States remains in the lead.\r\nThe repo platform's latest study a… [+3688 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jake Lahut",
-      "title": "Donald Trump Is the First AI Slop President",
-      "description": "How do AI videos end up on Donald Trump’s social media accounts? WIRED investigates.",
-      "url": "https://www.wired.com/story/donald-trump-ai-slop-white-house/",
-      "urlToImage": "https://media.wired.com/photos/690190863e7fbc1c430c368d/191:100/w_1280,c_limit/politics_trump_ai_slop_president.jpg",
-      "publishedAt": "2025-10-29T15:00:00Z",
-      "content": "President Donald Trump, a septuagenarian known for his general avoidance of keyboards and computers, has somehow become Americas first generative AI president.\r\nThe most infamous example of his exper… [+2214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "China deploys wind-powered underwater data center off Shanghai coast — $226 million project could top 24 megawatts, harnessing the cooling power of the sea",
-      "description": "China has launched what it claims is the world’s first wind-powered undersea data center — a sealed, seawater-cooled cluster sitting 35 meters beneath the surface off the coast of Shanghai.",
-      "url": "https://www.tomshardware.com/tech-industry/cnina-deploys-wind-powered-underwater-data-center",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qXiJBNjFVkjaEvTcyPoY67-1920-80.png",
-      "publishedAt": "2025-10-29T14:57:51Z",
-      "content": "China has launched what it claims is the world’s first wind-powered undersea data center — a sealed, seawater-cooled cluster sitting 35 meters beneath the surface off the coast of Shanghai. The $226 … [+2818 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Nvidia is officially a $5 trillion company",
-      "description": "Nvidia has become the world’s first $5 trillion company. Shares soared by up to 5 percent to over $211 around 9:30AM ET on Wednesday morning, according to Bloomberg, marking the latest milestone for a company that only just hit the $4 trillion mark in July. N…",
-      "url": "https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T14:57:09Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe chipmakers shares rose past $211 as it continues making big moves in AI.\r\nThe chipmakers shares rose past $211 as it continues making big moves in AI.\r\nby\r\nE… [+2134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Grieving family uses AI chatbot to cut hospital bill from $195,000 to $33,000 — family says Claude highlighted duplicative charges, improper coding, and other violations",
-      "description": "Someone has explained how they used AI to slash hospital bills from hundreds to tens of thousands of dollars.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/grieving-family-uses-ai-chatbot-to-cut-hospital-bill-from-usd195-000-to-usd33-000-family-says-claude-highlighted-duplicative-charges-improper-coding-and-other-violations",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jnfKu2m58ySVTYFy3KbByS-2000-80.jpg",
-      "publishedAt": "2025-10-29T14:54:13Z",
-      "content": "An individual whose brother-in-law recently passed has explained how they managed to slash the hospital medical bills left behind from hundreds to tens of thousands. Nthmonkey on Threads claims that … [+3726 chars]"
     }
   ]
 }
