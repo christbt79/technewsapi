@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-10-31T00:43:39.374Z",
+  "fetchedAt": "2025-10-31T02:24:07.803Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Will Knight",
+      "title": "Meta, Google, and Microsoft Triple Down on AI Spending",
+      "description": "Three of the biggest US tech companies reported record profits and record infrastructure spending on Wednesday, fueling speculation about a possible AI market bubble.",
+      "url": "https://www.wired.com/story/microsoft-google-meta-2025-earnings/",
+      "urlToImage": "https://media.wired.com/photos/6902815b030326d7e206e552/191:100/w_1280,c_limit/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg",
+      "publishedAt": "2025-10-30T02:09:50Z",
+      "content": "Three of the biggest US tech giantsMicrosoft, Meta, and Googlesent investors a blunt message when they reported quarterly earnings on Wednesday: Their lavish spending on AI infrastructure is only jus… [+2839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Magic Leap and Google showcase what's next for AI smart glasses",
+      "description": "Will Meta finally get some real competition?",
+      "url": "https://www.zdnet.com/article/magic-leap-and-google-showcase-whats-next-for-ai-smart-glasses/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d643171166dbeaacccdd9c6ad91b590ea3bbff91/2025/10/29/26963004-20e0-41bd-a3e0-798673d44a8c/68fceabc59e3cbd87c7ca9bf-hq-audio-lab-sub-assembly-and-dat-for-kpi-testing-38a5426-1920x1080-72dpi-s1a-adj-fin-wo-leg.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T02:00:43Z",
+      "content": "Magic Leap\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Magic Leap extended its partnership with Google. </li><li>The companies showed a prototype of AR/AI s… [+2093 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Google Labs' free new experiment creates AI-generated ads for your small business",
+      "description": "No ad budget? Try this tool - all you need is a URL to get started.",
+      "url": "https://www.zdnet.com/article/google-labs-free-new-experiment-creates-ai-generated-ads-for-your-small-business/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7e850ba175c1d33e6c993c88068bcd7d5e303958/2025/10/29/3608af5b-d06a-4d9a-a009-cd7197701344/pomelli.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T02:00:42Z",
+      "content": "Screenshot by Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Pomelli is an experiment from Google Labs and Google DeepMind.</li><li>It can cre… [+2064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "PayPal's new service is built for the AI shopping future - security included",
+      "description": "The company's new features hope to reduce stress for merchants while boosting ROI. Here's how to try them out for your business.",
+      "url": "https://www.zdnet.com/article/paypals-new-service-is-built-for-the-ai-shopping-future-security-included/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9c73520f4b6972d125372a3a4c11d5c6c3394e90/2025/10/29/93f9107b-20f3-4385-b38f-a2c22cf0695f/gettyimages-2191007168.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T02:00:32Z",
+      "content": "Getty Images/JHVEPhoto\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>PayPal announced an agentic commerce services suite.</li><li>This includes a new agentic … [+3855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "AI is making Google and Meta even stronger and richer",
+      "description": "So they’re increasing spending on infrastructure to keep it that way When generative AI exploded into public view in late 2022, plenty of pundits predicted it would be bad news for the likes of Google and Meta as nimble AI-powered rivals found new ways to cap…",
+      "url": "https://www.theregister.com/2025/10/30/meta_alphabet_q3_2025/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/01/money_shutterstock.jpg",
+      "publishedAt": "2025-10-30T01:53:08Z",
+      "content": "When generative AI exploded into public view in late 2022, plenty of pundits predicted it would be bad news for the likes of Google and Meta as nimble AI-powered rivals found new ways to capture neti… [+3274 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Capex is the number to look at amid Big Tech earnings",
+      "description": "The crux is that spending on artificial intelligence isn't going to slow down, at least for the next year, thanks to increasing demand for AI services.",
+      "url": "https://www.cnbc.com/2025/10/30/cnbc-daily-open-capex-is-the-number-to-look-at-amid-big-tech-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1761309903&w=1920&h=1080",
+      "publishedAt": "2025-10-30T01:23:25Z",
+      "content": "The news is coming in fast and thick. Strap in.\r\nFirst, interest rates.\r\nThe U.S. Federal Reserve lowered rates by 25 basis points, as expected by traders. But Chair Jerome Powell cautioned that anot… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Cluely's Roy Lee on the ragebait strategy for startup marketing | TechCrunch",
+      "description": "Cluely's Roy Lee has a message for startup founders: you should be thinking harder about how to go viral.",
+      "url": "https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-4.12.02-PM.jpg?resize=1200,676",
+      "publishedAt": "2025-10-30T01:00:39Z",
+      "content": "Cluely’s Roy Lee has a message for startup founders: you should be thinking harder about how to go viral.\r\n“Generally, if you’re not in deep tech, then you need to low-key deep focus on distribution,… [+2170 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216993-1761531406632-gettyimages-2218949916-UK_US_CHINA.jpeg?v=1761531632&w=1920&h=1080",
       "publishedAt": "2025-10-29T07:00:01Z",
       "content": "The U.S. and China held their fourth round of trade talks this year in Malaysia over the weekend as anticipation grows for a meeting Thursday between the leaders of the world's two largest economies.… [+7773 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's UK Exchange newsletter: UK backs innovation hub Cambridge, even as rapid expansion tests the city’s limit",
-      "description": "Cambridge has become one of the world’s leading hubs for deeptech and life sciences and is attracting growing sums of international capital.",
-      "url": "https://www.cnbc.com/2025/10/29/cnbcs-uk-exchange-uk-backs-innovation-hub-cambridge-expansion-tests-citys-limit.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217859-1761664643901-gettyimages-2181882674-BRITAIN-BUDGETREEVES.jpeg?v=1761664677&w=1920&h=1080",
-      "publishedAt": "2025-10-29T06:30:01Z",
-      "content": "This report is from this week's CNBC's UK Exchange newsletter. Like what you see? You can subscribe here.\r\nThe dispatch\r\nThe U.K. economy, along with many continental European peers, faces well-estab… [+8526 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "Google Workspace Promo Code: Up to 14% Off in October 2025",
-      "description": "Save on your Google Workspace plan with verified promo codes from WIRED. Get 10% off Starter, 12% off Standard, or 14% off Plus plans for three months when you sign up before January 31, 2026.",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "urlToImage": "https://media.wired.com/photos/67b63b967f8fc45af4896200/191:100/w_1280,c_limit/WIRED-Coupons-R2_7.png",
-      "publishedAt": "2025-10-29T05:00:00Z",
-      "content": "Google Workspace is the modern business worlds de facto productivity suite, and its only gotten better over the years. Theres the centralization of Google Docs, Drive, and Gmail, of course, but Googl… [+2712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump signals he plans to speak to China's Xi about Nvidia's 'super duper' chips",
-      "description": "U.S. President Donald Trump says he plans to discuss Nvidia’s advanced Blackwell AI chips with Chinese President Xi Jinping later this week.",
-      "url": "https://www.cnbc.com/2025/10/29/trump-signals-he-plans-to-speak-to-chinas-xi-about-nvidias-super-duper-chips.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218106-1761678855548-gettyimages-2242782397-776406311_gyi-1024-whitehouse_KKN.jpeg?v=1761678949&w=1920&h=1080",
-      "publishedAt": "2025-10-29T03:31:58Z",
-      "content": "U.S. President Donald Trump plans to discuss Nvidia's advanced AI chips with Chinese President Xi Jinping during their widely expected meeting on Thursday, he told a media scrum Wednesday. \r\nWhile ta… [+1550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "This new AI browser lets you set up 'Skills' to take on your everyday tasks - how it works",
-      "description": "Agentic browsers are everywhere, each with its pros and cons. Now, Strawberry Browser is taking a novel approach to automating your repetitive tasks.",
-      "url": "https://www.zdnet.com/article/this-new-ai-browser-lets-you-set-up-skills-to-take-on-your-everyday-tasks-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/73c1bf1057814787d2fffe6c731ba73d75549383/2025/10/28/e9f8c3ab-f8f0-4780-977b-84ce94a8518a/redpaper555gettyimages-1394045673.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T02:00:32Z",
-      "content": "MirageC/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Strawberry Browser is a new agentic browser.</li><li>With Skills, you can make r… [+4697 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: It's a boom, it's a bubble, it's still not enough for investors: It's AI",
-      "description": "Investors can't get enough of AI, despite worries over high valuations — and tech companies can't get enough of each other, either.",
-      "url": "https://www.cnbc.com/2025/10/29/cnbc-daily-open-boom-or-bubble-investors-cant-get-enough-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107418096-1716321352932-gettyimages-2153474412-AFP_34TH9MQ.jpeg?v=1756437228&w=1920&h=1080",
-      "publishedAt": "2025-10-29T01:25:39Z",
-      "content": "Investors can't get enough of artificial intelligence, despite worries over the sector's excessively high valuations.\r\nThe S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite rose Tuesday … [+1897 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "John.Higgins",
-      "title": "Amazon’s Echo Studio is smaller but mightier",
-      "description": "The majority of Amazon smart speakers lean more into the \"smart\" than the \"speaker,\" except for the Echo Studio. That device, which arrived in November 2019, was an imposing, sound-quality-first speaker that delivered Alexa functionality alongside impressive …",
-      "url": "https://www.theverge.com/tech/808520/amazon-echo-studio-2025-review",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258035_Alexa_Studio_2025_JHiggins_0017.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-29T01:00:39Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Atmos smart speaker goes up against the HomePod 2 and wins.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statemen… [+8700 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Here are the 5 Startup Battlefield finalists at TechCrunch Disrupt 2025 | TechCrunch",
-      "description": "After two days full of live demos and pitches, it's time to announce the five finalists at this year's Startup Battlefield.",
-      "url": "https://techcrunch.com/2025/10/28/here-are-the-5-startup-battlefield-finalists-at-techcrunch-disrupt-2025/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
-      "publishedAt": "2025-10-29T00:28:59Z",
-      "content": "After two days full of live demos and pitches, it’s time to announce the five finalists at this year’s Startup Battlefield.\r\nThese finalists were selected from an initial pool of thousands of applica… [+3348 chars]"
     }
   ]
 }
