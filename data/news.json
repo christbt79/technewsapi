@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T09:10:48.160Z",
+  "fetchedAt": "2025-10-31T09:38:30.539Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "There's mushroom for improvement in fungal computing",
+      "description": "Ohio State boffins coax shiitake and button varieties into behaving like memristors US boffins claim early tests indicate edible mushrooms can function as organic memory devices, though significant challenges remain before the lab experiment can be turned int…",
+      "url": "https://www.theregister.com/2025/10/30/ohio_state_mushroom_memristors/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/29/shutterstock_shiitake.jpg",
+      "publishedAt": "2025-10-30T09:30:08Z",
+      "content": "US boffins claim early tests indicate edible mushrooms can function as organic memory devices, though significant challenges remain before the lab experiment can be turned into something practical.\r\n… [+2411 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ttWRMsX2L7BJy8T5QYiLjL-1920-80.jpg",
       "publishedAt": "2025-10-29T10:41:32Z",
       "content": "A young student was left traumatized after being ordered to the ground and handcuffed by police because an AI gun detection system erroneously called the cops on his Doritos habit.\r\nTaki Allen ate th… [+3271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Nvidia reveals Vera Rubin Superchip for the first time — incredibly compact board features 88-core Vera CPU, two Rubin GPUs, and 8 SOCAMM modules",
-      "description": "First images of Nvidia's Vera Rubin Superchip depicting two Rubin GPUs and a multi-chiplet Vera CPU surrounded by SOCAMM2 memory modules emerge.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reveals-vera-rubin-superchip-for-the-first-time-incredibly-compact-board-features-88-core-vera-cpu-two-rubin-gpus-and-8-socamm-modules",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iW8XU6BHtKpxAmtGpNNbf-2560-80.jpg",
-      "publishedAt": "2025-10-29T10:38:59Z",
-      "content": "At its GTC keynote in DC on Tuesday, Nvidia unveiled its next-generation Vera Rubin Superchip, comprising two Rubin GPUs for AI and HPC as well as its custom 88-core Vera CPU. All three components wi… [+2871 chars]"
     }
   ]
 }
