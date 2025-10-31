@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T07:33:59.235Z",
+  "fetchedAt": "2025-10-31T08:12:41.030Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: All about Trump-Xi, Fed cuts and Big Tech earnings",
+      "description": "The crux is that spending on artificial intelligence isn't going to slow down, at least for the next year, thanks to increasing demand for AI services.",
+      "url": "https://www.cnbc.com/2025/10/30/cnbc-daily-open-all-about-trump-xi-fed-cuts-and-big-tech-earnings-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219172-1761806291081-gettyimages-2235383914-zawrzel-economya250916_nphta.jpeg?v=1761806323&w=1920&h=1080",
+      "publishedAt": "2025-10-30T07:40:49Z",
+      "content": "The news cycle barely stopped to breathe today.\r\nFirst, Trump meets Xi.\r\nU.S. President Donald Trump met Chinese leader Xi Jinping in South Korea on Thursday, during which he struck a 1-year rare ear… [+2938 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/iW8XU6BHtKpxAmtGpNNbf-2560-80.jpg",
       "publishedAt": "2025-10-29T10:38:59Z",
       "content": "At its GTC keynote in DC on Tuesday, Nvidia unveiled its next-generation Vera Rubin Superchip, comprising two Rubin GPUs for AI and HPC as well as its custom 88-core Vera CPU. All three components wi… [+2871 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "World’s largest sovereign wealth fund gains 5.8% in third quarter",
-      "description": "The fund, the largest of its kind in the world, said its value grew 854 billion NOK in Q3, powered by strong equities gains.",
-      "url": "https://www.cnbc.com/2025/10/29/norway-2-trillion-sovereign-wealth-fund-q3-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105978605-1561018690965gettyimages-469162965.jpeg?v=1761313115&w=1920&h=1080",
-      "publishedAt": "2025-10-29T10:33:59Z",
-      "content": "Norway's $2 trillion sovereign wealth fund the largest of its kind in the world  on Wednesday reported a 5.8% return during the third quarter, powered by strong stock market gains across mining, tele… [+3013 chars]"
     }
   ]
 }
