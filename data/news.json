@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T03:29:48.437Z",
+  "fetchedAt": "2025-10-31T03:54:33.273Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Microsoft says it’s recovering from global cloud outage",
+      "description": "Microsoft is recovering from a global Azure Front Door outage that disrupted services for multiple companies, including Alaska Airlines.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-29/microsoft-is-investigating-outages-of-office-game-applications",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/r5c3x/article70219662.ece/alternates/LANDSCAPE_1200/IMG_iStock-1890243590_2_1_RRCQHQ7R.jpg",
+      "publishedAt": "2025-10-30T03:34:58Z",
+      "content": "Microsoft Corp. cloud services are recovering from an outage that disrupted its workplace software products and the operations of several companies, including Alaska Air Group Inc.\r\nThe outage hit a … [+1913 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218351-1761716905088-gettyimages-2153474326-AFP_34TH9TL.jpeg?v=1761716921&w=1920&h=1080",
       "publishedAt": "2025-10-29T07:30:01Z",
       "content": "Investors can't get enough of artificial intelligence, despite worries over the sector's excessively high valuations.\r\nThe S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite rose Tuesday … [+3204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC's The China Connection newsletter: Five things Beijing wants from a Trump-Xi meeting",
-      "description": "What China asks of the U.S. this week can reveal the extent to which Beijing has assessed the transformation of its global clout.",
-      "url": "https://www.cnbc.com/2025/10/29/china-connection-newsletter-what-beijing-wants-trump-xi-meeting-south-korea-apec-summit-gyeongju.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216993-1761531406632-gettyimages-2218949916-UK_US_CHINA.jpeg?v=1761531632&w=1920&h=1080",
-      "publishedAt": "2025-10-29T07:00:01Z",
-      "content": "The U.S. and China held their fourth round of trade talks this year in Malaysia over the weekend as anticipation grows for a meeting Thursday between the leaders of the world's two largest economies.… [+7773 chars]"
     }
   ]
 }
