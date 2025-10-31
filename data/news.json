@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T19:02:36.244Z",
+  "fetchedAt": "2025-10-31T19:31:11.805Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Microsoft 365 business customers are running out of places to hide from Copilot",
+      "description": "People, Files, and Calendar companion apps gain an auto-installed dose of AI\nJust when you thought Microsoft had run out of Windows apps to stuff with Copilot, it's cramming the AI into your taskbar companions - People, Files, and Calendar are next.…",
+      "url": "https://www.theregister.com/2025/10/30/microsoft_365_companion_apps/",
+      "urlToImage": "https://regmedia.co.uk/2025/06/20/copilot.jpg",
+      "publishedAt": "2025-10-30T19:15:58Z",
+      "content": "Just when you thought Microsoft had run out of Windows apps to stuff with Copilot, it's cramming the AI into your taskbar companions - People, Files, and Calendar are next.\r\nThe Microsoft 365 compani… [+2521 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218889-1761764666602-gettyimages-2244020592-aw1a7067_ea5nudy3.jpeg?v=1761764764&w=1920&h=1080",
       "publishedAt": "2025-10-29T20:03:49Z",
       "content": "Federal Reserve Chair Jerome Powell said on Wednesday that the artificial intelligence boom is different from the dotcom bubble of the late 1990s.\r\n\"This is different in the sense that these companie… [+1087 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Gemini for Home is rolling out - here's how to get early access",
-      "description": "There are countless things you can accomplish with Google's long-awaited new AI assistant - once you get off the waitlist. Here's how.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/gemini-for-home-is-rolling-out-heres-how-to-get-early-access/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2c00b3dac592b19a9adec2bdd8903b22027c0f47/2025/10/29/3cf92171-0961-41c6-b2bc-da6fa8d3e9c4/next333screenshot-2025-10-29-150737.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T19:13:30Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google just began offering Gemini for Home for early access.</li><li>It's compatible with most Nest speak… [+5349 chars]"
     }
   ]
 }
