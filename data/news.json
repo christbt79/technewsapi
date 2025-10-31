@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T07:09:25.934Z",
+  "fetchedAt": "2025-10-31T07:33:59.235Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "I wore 5 different headphones across 8 flights - here's how each pair won (and lost)",
+      "description": "The airplane is the true litmus test for headphones and earbuds. I tested the leading models so you don't have to.",
+      "url": "https://www.zdnet.com/article/i-wore-5-different-headphones-across-8-flights-heres-how-each-pair-won-and-lost/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6a7d11075362a4d22f5d7925c668c7ed515de938/2025/09/27/568920fd-d70f-4f8e-8cb3-d734885ddb9f/spp3-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-30T07:30:26Z",
+      "content": "Jada Jones/ZDNET\r\nTo me, there's no better way to spend several hours of my time than in a packed airplane, squished next to strangers, 30,000 feet in the air, traversing through time and space. I ha… [+8702 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/105978605-1561018690965gettyimages-469162965.jpeg?v=1761313115&w=1920&h=1080",
       "publishedAt": "2025-10-29T10:33:59Z",
       "content": "Norway's $2 trillion sovereign wealth fund the largest of its kind in the world  on Wednesday reported a 5.8% return during the third quarter, powered by strong stock market gains across mining, tele… [+3013 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "India is dependent on China for electronic components. Now it's trying to change that",
-      "description": "India is looking to cut electronic component imports, and has approved the first set of manufacturing projects under its $2.7 billion incentive scheme.",
-      "url": "https://www.cnbc.com/2025/10/29/india-is-dependent-on-china-for-electronic-components-now-its-trying-to-change-that-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428433-1718263567709-gettyimages-2144493443-INDIA_MANUFACTURING.jpeg?v=1718263592&w=1920&h=1080",
-      "publishedAt": "2025-10-29T09:55:52Z",
-      "content": "In a move aimed at cutting India's import dependency for electronic components, the government has approved the first set of projects under its $2.7 billion program, yet another measure in its stated… [+3379 chars]"
     }
   ]
 }
