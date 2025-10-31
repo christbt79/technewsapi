@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-10-31T03:54:33.273Z",
+  "fetchedAt": "2025-10-31T04:13:07.981Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Tech giants face investor scrutiny amid AI spending surge",
+      "description": "Tech giants Meta and Microsoft face investor skepticism as their substantial AI spending raises concerns about potential overinvestment.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/meta-microsoft-test-investors-patience-with-ai-spending-spree",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/e0v3jp/article70219693.ece/alternates/LANDSCAPE_1200/IMG_iStock-1353816577_2_1_28CQDCAL.jpg",
+      "publishedAt": "2025-10-30T04:11:13Z",
+      "content": "The largest technology companies are betting on an AI future powered by gigantic complexes of data centers filled with humming servers.\r\nNow that the staggering cost of this push is coming into sharp… [+5279 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/1ea16bbb44629e47c4e84e488706b0c1619bad31/2025/09/12/2a187752-db60-4c9d-ba90-9d4d24d596e9/dsc03924.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-29T07:30:35Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nHP's OmniBook Flip series has impressed us here at ZDNET this past year, stepping up as affordable, versatile laptops for a variety of everyday … [+6456 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Rallies and tech 'revolution' — all powered by AI",
-      "description": "Investors can't get enough of AI, despite worries over high valuations — and tech companies can't get enough of each other, either.",
-      "url": "https://www.cnbc.com/2025/10/29/cnbc-daily-open-rallies-and-tech-revolution-all-powered-by-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218351-1761716905088-gettyimages-2153474326-AFP_34TH9TL.jpeg?v=1761716921&w=1920&h=1080",
-      "publishedAt": "2025-10-29T07:30:01Z",
-      "content": "Investors can't get enough of artificial intelligence, despite worries over the sector's excessively high valuations.\r\nThe S&amp;P 500, Dow Jones Industrial Average and Nasdaq Composite rose Tuesday … [+3204 chars]"
     }
   ]
 }
