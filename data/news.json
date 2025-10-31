@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T04:13:07.981Z",
+  "fetchedAt": "2025-10-31T04:42:12.402Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Trump, Xi Meeting ends after around 90 minutes of trade talks",
+      "description": "Xi told Trump he felt “very warm seeing you again” and said he was “ready to continue working with you to build a solid foundation for China-US relations”",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/trump-xi-launch-pivotal-trade-talks-at-south-korea-summit",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/bppwnk/article70219734.ece/alternates/LANDSCAPE_1200/2025-10-30T043018Z_511999781_RC24MHAWVZ3A_RTRMADP_3_USA-TRUMP-XI.JPG",
+      "publishedAt": "2025-10-30T04:40:27Z",
+      "content": "Donald Trump and Xi Jinping wrapped up their highly-anticipated summit after around an hour and a half on Thursday, concluding talks they hoped would quell an expansive trade fight that has shaken gl… [+6466 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Samsung’s chip profit soars after AI fuels demand for memory",
+      "description": "Samsung has been mobilizing its vast resources to better position itself in a fierce global contest where big spenders including OpenAI and Meta Platforms Inc. are amassing computing power for their AI services.",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/samsung-s-chip-profit-soars-after-ai-fuels-demand-for-memory",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/bcngsb/article70219716.ece/alternates/LANDSCAPE_1200/2025-08-25T213536Z_862563841_RC2LEGASQY51_RTRMADP_3_SAMSUNG-RESULTS.JPG",
+      "publishedAt": "2025-10-30T04:28:08Z",
+      "content": "Samsung Electronics Co.s semiconductor arm reported a stronger-than-expected rise in profit, suggesting global AI demand is helping drive a recovery at the Korean companys most important business.\r\nT… [+2304 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108202499-17585856722025-07-23t220158z_1400367285_rc2lsfae8ca3_rtrmadp_0_usa-trump-ai.jpeg?v=1758585693&w=1920&h=1080",
       "publishedAt": "2025-10-29T09:02:57Z",
       "content": "Shares of Nvidia rose more than 3% in premarket trade on Wednesday, putting the tech giant on track to become the first company to cross the $5 trillion market value threshold.\r\nThe latest move highe… [+240 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia CEO Jensen Huang starts a key trip to South Korea — here's what he might be up to",
-      "description": "Nvidia CEO Jensen Huang is headed to South Korea where he is expected to meet President Donald Trump and the country's top business executives.",
-      "url": "https://www.cnbc.com/2025/10/29/nvidia-ceo-jensen-huang-south-korea-trip-what-to-expect.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139103-17460485422025-04-30t212829z_78593056_rc2g8ea6njsw_rtrmadp_0_usa-trump.jpeg?v=1747154544&w=1920&h=1080",
-      "publishedAt": "2025-10-29T08:26:38Z",
-      "content": "Nvidia CEO Jensen Huang delivers remarks next to U.S. President Donald Trump at an 'Investing in America' event in Washington, D.C., on April 30, 2025.\r\nNvidia CEO Jensen Huang is headed to South Kor… [+3852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "I tested HP's latest OmniBook, and it feels more premium than its price would suggest",
-      "description": "HP's OmniBook X Flip 14 delivers a premium experience for the everyday user, but different configurations are more optimal than others.",
-      "url": "https://www.zdnet.com/article/i-tested-hps-latest-omnibook-and-it-feels-more-premium-than-its-price-would-suggest/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1ea16bbb44629e47c4e84e488706b0c1619bad31/2025/09/12/2a187752-db60-4c9d-ba90-9d4d24d596e9/dsc03924.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-29T07:30:35Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nHP's OmniBook Flip series has impressed us here at ZDNET this past year, stepping up as affordable, versatile laptops for a variety of everyday … [+6456 chars]"
     }
   ]
 }
