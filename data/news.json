@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T00:47:18.023Z",
+  "fetchedAt": "2025-11-01T02:25:56.162Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Trick or treat for markets this Halloween?",
+      "description": "Investors were spooked by some Big Tech capex plans, with all three major indexes falling Thursday.",
+      "url": "https://www.cnbc.com/2025/10/31/cnbc-daily-open-trick-or-treat-for-markets-this-halloween.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219752-1761872158980-gettyimages-2244113118-vcg111600777407.jpeg?v=1761872168&w=1920&h=1080",
+      "publishedAt": "2025-10-31T01:18:51Z",
+      "content": "As we head into Halloween, Wall Street appears to be facing a mix of tricks and treats. \r\nInvestors were spooked by some Big Tech capex plans, with all three major indexes falling Thursday. Meta stoc… [+2934 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1761777160&w=1920&h=1080",
       "publishedAt": "2025-10-29T23:27:24Z",
       "content": "Google parent Alphabet is planning a \"significant increase\" in spend next year as it continues to invest in AI infrastructure to meet the demand of its customer backlog, executives said Wednesday.\r\nT… [+3131 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Matt Rosoff",
-      "title": "Microsoft seemingly just revealed that OpenAI lost $11.5B last quarter",
-      "description": "Satya has also delivered Sam most of the cash he promised\nMicrosoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of $1…",
-      "url": "https://www.theregister.com/2025/10/29/microsoft_earnings_q1_26_openai_loss/",
-      "urlToImage": "https://regmedia.co.uk/2023/11/21/shutterstock_altman_nadella.jpg",
-      "publishedAt": "2025-10-29T23:17:31Z",
-      "content": "Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of … [+2962 chars]"
     }
   ]
 }
