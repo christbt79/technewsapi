@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-10-31T23:31:26.383Z",
+  "fetchedAt": "2025-11-01T00:47:18.023Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Amazon juggernaut continues hauling in more cash despite recent bad news",
+      "description": "The spending will continue until AI revenue improves\nDespite a trickle of bad news from Amazon in recent weeks, the company's business is thrumming along, with AWS leading the way.…",
+      "url": "https://www.theregister.com/2025/10/31/amazon_earnings_q3_25/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/11/jassy_shutterstock.jpg",
+      "publishedAt": "2025-10-31T00:06:11Z",
+      "content": "Despite a trickle of bad news from Amazon in recent weeks, the company's business is thrumming along, with AWS leading the way.\r\nAmazon reported earnings for its third quarter on Thursday and investo… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Apple isn't playing the same AI capex game as the rest of the megacaps",
+      "description": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.",
+      "url": "https://www.cnbc.com/2025/10/30/apple-isnt-playing-the-same-ai-capex-game-as-the-rest-of-the-megacaps.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196778-1757507590799-gettyimages-2234563479-_73a3022_jnkqswz6.jpeg?v=1761864974&w=1920&h=1080",
+      "publishedAt": "2025-10-30T23:37:36Z",
+      "content": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.\r\nInstead of simply buying as many AI c… [+3585 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2023/11/21/shutterstock_altman_nadella.jpg",
       "publishedAt": "2025-10-29T23:17:31Z",
       "content": "Microsoft reported earnings for the quarter ended Sept. 30 on Wednesday after market close and buried in its financial filings were a couple of passages suggesting that OpenAI suffered a net loss of … [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Companies outside of tech need data center exposure, Jim Cramer says",
-      "description": "CNBC's Jim Cramer suggested some of the best-performing stocks outside of the tech sector have some business related to the AI boom.",
-      "url": "https://www.cnbc.com/2025/10/29/companies-data-center-exposure-jim-cramer.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105653382-1546289245501img_5976rr.jpg?v=1693437363&w=1920&h=1080",
-      "publishedAt": "2025-10-29T23:02:23Z",
-      "content": "Companies outside of the tech sector would benefit from some involvement in the data center boom, CNBC's Jim Cramer suggested on Wednesday, using recent earnings from manufacturer Caterpillar as an e… [+1674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cramer's Lightning Round: Datavault AI is 'losing money hand over fist'",
-      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-      "url": "https://www.cnbc.com/2025/10/29/cramers-lightning-round-datavault-ai-is-losing-money-hand-over-fist.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1698361043&w=1920&h=1080",
-      "publishedAt": "2025-10-29T22:55:05Z",
-      "content": "Sign up now for the CNBC Investing Club to follow Jim Cramer's every move in the market.Questions for Cramer?Call Cramer: 1-800-743-CNBC\r\nWant to take a deep dive into Cramer's world? Hit him up!Mad … [+135 chars]"
     }
   ]
 }
