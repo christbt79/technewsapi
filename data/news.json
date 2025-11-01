@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-01T14:34:47.397Z",
+  "fetchedAt": "2025-11-01T15:07:25.561Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Blackwell GPU's exclusion from high-level trade talks highlights deepening AI ecosystem rift between nations — China aims to build sovereign hardware and software systems without Nvidia",
+      "description": "Under the newly announced trade ceasefire, China will delay its sweeping new export controls on rare earth elements, while the U.S. holds off on fresh tariffs. But Blackwell's exclusion from talks highlights the deepening rift between the two nations.",
+      "url": "https://www.tomshardware.com/tech-industry/china-delays-rare-earth-export-curbs-but-ai-chip-ban-stays-in-place",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W2i7zpp4FFMJbTAdQfK6yF-1920-80.jpg",
+      "publishedAt": "2025-10-31T14:59:53Z",
+      "content": "The newly announced China-U.S. trade ceasefire appears, at first glance, to be a long-overdue cooling-off period. For now, China will delay its sweeping new export controls on rare earth elements, wh… [+6163 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray",
+      "title": "Why AI coding tools like Cursor and Replit are doomed - and what comes next",
+      "description": "The newfangled programming tools don't have what it takes to go the distance. Here's why.",
+      "url": "https://www.zdnet.com/article/cursor-replit-and-other-ai-code-tools-could-go-the-way-of-the-dodo/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4cde37db6cee6b7646e3a51dd5cc36ae8721ea56/2025/10/31/94515131-e4ba-41b6-a2f6-d4175dacd809/gettyimages-1278651533.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T14:43:07Z",
+      "content": "YaroslavKryuchka/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI-based coding tools won't be able to compete with the LLM giants.</… [+8067 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Enshittification_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-30T13:33:48Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nHow Silicon Valley enshittified the internet\r\nEnshittification author Cory Doctorow on why things get worse, and how to fight back.\r\nby\r\nSarah JeongClose\r\nSarah … [+4879 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta stock drops 12% as heightened AI spending overshadows strong third-quarter results",
-      "description": "Meta's results raised skepticism over the payoff from its aggressive artificial intelligence spending plans and overshadowed strong results.",
-      "url": "https://www.cnbc.com/2025/10/30/meta-stock-earnings-ai-spend.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107367089-17067169752024-01-31t155824z_1044434571_rc23t5amngcp_rtrmadp_0_usa-tech-exploitation.jpeg?v=1706717007&w=1920&h=1080",
-      "publishedAt": "2025-10-30T13:31:59Z",
-      "content": "Meta Platforms' stock dropped more than 12% Thursday as skepticism about the payoff from its aggressive artificial intelligence spending plans overshadowed strong results.\r\nThe social media giant lif… [+1788 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Figma’s new app lets you combine multiple AI models and editing tools",
-      "description": "Figma has acquired Weavy, a creative platform that allows users to link AI models and editing tools together, and use them simultaneously in a single canvas. The platform will now live under its new parent company as “Figma Weave,” according to Figma’s announ…",
-      "url": "https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Weavy-4.jpg?quality=90&strip=all&crop=0%2C8.0144178489107%2C100%2C83.971164302179&w=1200",
-      "publishedAt": "2025-10-30T13:16:47Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nFigma Weave is a node-based canvas platform that gives creators more control over AI-generated content.\r\nFigma Weave is a node-based canvas platform that gives c… [+2056 chars]"
     }
   ]
 }
