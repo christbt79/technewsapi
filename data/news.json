@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T12:56:39.777Z",
+  "fetchedAt": "2025-11-01T13:18:20.648Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Shane Downing",
+      "title": "HighPoint RocketAIC 7608AW Review: The Fast Gets Even Faster with 56 GB/s of throughput",
+      "description": "The HighPoint RocketAIC 7608AW is a boundary-pusher when configured with 8x8TB Samsung 9100 Pro SSDs. It’s super fast, but the consumer application is limited.",
+      "url": "https://www.tomshardware.com/pc-components/ssds/highpoint-rocketaic-7608aw-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aQgwrv2xaP6bZqCPwTnLZb-2560-80.jpg",
+      "publishedAt": "2025-10-31T13:00:00Z",
+      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.There’s storage, and… [+9493 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/CHE48KniLshPqvS6zczQAM-2000-80.jpg",
       "publishedAt": "2025-10-30T10:47:30Z",
       "content": "In momentous news for the global trade war and the global semiconductor industry, President Trump and China's Xi Jinping have reportedly agreed on a one-year tariff truce that could pave the way for … [+2449 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Isabel O’Brien",
-      "title": "A Fight Over Big Tech’s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire",
-      "description": "An ideological war over how tech giants can account for AI data center emissions has bled into the international arena.",
-      "url": "https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/",
-      "urlToImage": "https://media.wired.com/photos/68e68926238fbbab3f2aeb31/191:100/w_1280,c_limit/100825_Tech-Data-Center-Emissions.jpg",
-      "publishedAt": "2025-10-30T10:31:37Z",
-      "content": "Last weeks request for public comment from the Greenhouse Gas Protocol (GHGP) doesnt look like a major win for a tech giant to the naked eye. In fact, it seems almost clerical. But for Google and Mic… [+2280 chars]"
     }
   ]
 }
