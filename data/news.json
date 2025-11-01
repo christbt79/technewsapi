@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-11-01T11:31:22.535Z",
+  "fetchedAt": "2025-11-01T12:15:06.317Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon's earnings rally, Netflix's stock split, chocolate inflation and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/10/31/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201090-1758260523533-gettyimages-2236197183-img_7349.jpeg?v=1761860370&w=1920&h=1080",
+      "publishedAt": "2025-10-31T12:06:50Z",
+      "content": "A customer holds up the new orange-colored iPhone 17 Pro Max smartphone inside an Apple retail store in Chongqing, China, on September 19, 2025. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe … [+5229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Just 5% of CRE companies have achieved their AI goals. Here's why",
+      "description": "JLL found that 88% of investors, owners and landlords said they have started piloting AI, with most pursuing an average of five use cases simultaneously.",
+      "url": "https://www.cnbc.com/2025/10/31/cre-companies-ai-goals.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217206-1761573060744-gettyimages-1727979993-dsc00326.jpeg?v=1761680830&w=1920&h=1080",
+      "publishedAt": "2025-10-31T12:03:47Z",
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+3705 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "This new most popular AI image and video generator has enterprise users flocking to it",
+      "description": "Here's what personal and business users alike are switching to this tool for.",
+      "url": "https://www.zdnet.com/article/this-new-most-popular-ai-image-and-video-generator-has-enterprise-users-flocking-to-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d3dd48c7a75757d8398d839e5fd7b27a5ebfa8c4/2025/10/31/5cecc8b1-2cdd-4e01-90d8-ef55f0cdf955/gettyimages-2234176145.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T11:59:00Z",
+      "content": "Andriy Onufriyenko/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey found many users prefer Gemini for creating images.</li><li>It dominate… [+4470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "These QuietComfort Ultra headphones show Bose still does one thing better than Apple",
+      "description": "A bigger battery is great, but smarter power management is even better.",
+      "url": "https://www.zdnet.com/article/these-quietcomfort-ultra-headphones-show-bose-still-does-one-thing-better-than-apple/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/77698803d575ee4311996c27a64572c9e1f062aa/2025/10/10/27a7cb03-f31b-46ec-9356-cffd66f3af29/qcu2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T11:50:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been Bose's weaknesses. Its 2019 fl… [+4196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Your Sony headphones just got a useful Bluetooth upgrade with the latest software patch",
+      "description": "A new firmware update brings Bluetooth LE Audio and Find My Device support to select Sony models - if your phone supports it.",
+      "url": "https://www.zdnet.com/article/your-sony-headphones-just-got-a-useful-bluetooth-upgrade-with-the-latest-software-patch/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eaabaef30a557b15d0c28b2e501c44331109dc9f/2025/05/12/89089ed7-3975-4e57-8f08-136e5ba24777/xm6-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T11:47:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Android expanded support for LE Audio to select Sony headphones and earbuds.</li><li>Users can … [+3314 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Mini PC maker Minisforum to hike prices, citing 'significant increase in our overall costs' — barebones models not affected, suggesting change caused by memory chip shortages",
+      "description": "Minisforum is increasing the prices of its items that come with DDR5 memory and SSDs, although the cost of barebones products remains unchanged.",
+      "url": "https://www.tomshardware.com/pc-components/mini-pc-maker-minisforum-to-hike-prices-citing-significant-increase-in-our-overall-costs-barebones-models-not-affected-suggesting-change-caused-by-memory-chip-shortages",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oLArQnScJwdtaBaGDQqtXo-1920-80.jpg",
+      "publishedAt": "2025-10-31T11:45:00Z",
+      "content": "Mini PC maker Minisforum just announced a price hike for its product lineup, except for barebone models and items that do not come with DDR5 memory and SSD storage. The company made this announcement… [+2800 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Not enough people are talking about this budget Android phone that's feature rich",
+      "description": "If you're looking for a phone with a large screen, a big battery, and impressive performance, Oukitel has just the one for you.",
+      "url": "https://www.zdnet.com/article/not-enough-people-are-talking-about-this-budget-android-phone-thats-feature-rich/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/168dd776c45adeff0d134ff3e97af633e4ea103a/2025/10/22/3db2807e-9668-4181-a8b0-05e7f772cd65/wp581.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T11:37:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've been reviewing Oukitel rugged phones for some time now, and the one thing that trips me up with these devices is the performance. Yes, they… [+5737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "These Galaxy S26 rumors hint at Samsung making a big performance bet - will it pay off?",
+      "description": "Samsung's flagships are due for a major refresh - here's everything we know so far about the Galaxy S26, from processor and camera to battery and more.",
+      "url": "https://www.zdnet.com/article/these-galaxy-s26-rumors-hint-at-samsung-making-a-big-performance-bet-will-it-pay-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/75c1150aaf65796261bcc3163dda0551cf1380d6/2025/01/28/60bf7541-cc7c-4f33-af55-e9217c04b454/dsc03899-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T11:34:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5649 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/usqRm6m3kbw9offYMauyjB-2560-80.jpg",
       "publishedAt": "2025-10-30T09:40:00Z",
       "content": "Artificial intelligence has taken the world by storm, incorporating itself knee-deep in various aspects of our society seemingly overnight, for better or for worse. In the case of Australia's police,… [+4493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "There's mushroom for improvement in fungal computing",
-      "description": "Ohio State boffins coax shiitake and button varieties into behaving like memristors US boffins claim early tests indicate edible mushrooms can function as organic memory devices, though significant challenges remain before the lab experiment can be turned int…",
-      "url": "https://www.theregister.com/2025/10/30/ohio_state_mushroom_memristors/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/29/shutterstock_shiitake.jpg",
-      "publishedAt": "2025-10-30T09:30:08Z",
-      "content": "US boffins claim early tests indicate edible mushrooms can function as organic memory devices, though significant challenges remain before the lab experiment can be turned into something practical.\r\n… [+2411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: All about Trump-Xi, Fed cuts and Big Tech earnings",
-      "description": "The crux is that spending on artificial intelligence isn't going to slow down, at least for the next year, thanks to increasing demand for AI services.",
-      "url": "https://www.cnbc.com/2025/10/30/cnbc-daily-open-all-about-trump-xi-fed-cuts-and-big-tech-earnings-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219172-1761806291081-gettyimages-2235383914-zawrzel-economya250916_nphta.jpeg?v=1761806323&w=1920&h=1080",
-      "publishedAt": "2025-10-30T07:40:49Z",
-      "content": "The news cycle barely stopped to breathe today.\r\nFirst, Trump meets Xi.\r\nU.S. President Donald Trump met Chinese leader Xi Jinping in South Korea on Thursday, during which he struck a 1-year rare ear… [+2938 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "I wore 5 different headphones across 8 flights - here's how each pair won (and lost)",
-      "description": "The airplane is the true litmus test for headphones and earbuds. I tested the leading models so you don't have to.",
-      "url": "https://www.zdnet.com/article/i-wore-5-different-headphones-across-8-flights-heres-how-each-pair-won-and-lost/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6a7d11075362a4d22f5d7925c668c7ed515de938/2025/09/27/568920fd-d70f-4f8e-8cb3-d734885ddb9f/spp3-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T07:30:26Z",
-      "content": "Jada Jones/ZDNET\r\nTo me, there's no better way to spend several hours of my time than in a packed airplane, squished next to strangers, 30,000 feet in the air, traversing through time and space. I ha… [+8702 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Forget Azure and AWS: IBM Cloud is experiencing a quantum computer outage",
-      "description": "We’re guessing that turning it off and on again won’t help given qubits can be on and off at the same time IBM has one-upped AWS and Microsoft by reporting an outage in one of its cloudy quantum computers.…",
-      "url": "https://www.theregister.com/2025/10/30/ibm_cloud_experiencing_quantum_computer/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/30/supplied_ibm_quantum_two_system.jpg",
-      "publishedAt": "2025-10-30T06:31:06Z",
-      "content": "IBM has one-upped AWS and Microsoft by reporting an outage in one of its cloudy quantum computers.\r\nEarly on Thursday morning, Big Blue advised The quantum computer, ibm_aachen, is temporarily unavai… [+1999 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Samsung picks fights with Google and Qualcomm",
-      "description": "Brings its largely unloved browser to PCs and promises to make its Exynos SoCs more competitive Samsung has signaled it intends to take on Google and Qualcomm.…",
-      "url": "https://www.theregister.com/2025/10/30/samsung_q3_2025/",
-      "urlToImage": "https://regmedia.co.uk/2021/10/07/shutterstock_samsung_chip_editorial_only.jpg",
-      "publishedAt": "2025-10-30T04:56:40Z",
-      "content": "Samsung has signaled it intends to take on Google and Qualcomm.\r\nThe Korean giants weapon of choice to niggle Google is a Windows port of the Samsung Internet browser it ships on smartphones.\r\nThe Ko… [+3630 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Trump, Xi Meeting ends after around 90 minutes of trade talks",
-      "description": "Xi told Trump he felt “very warm seeing you again” and said he was “ready to continue working with you to build a solid foundation for China-US relations”",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-30/trump-xi-launch-pivotal-trade-talks-at-south-korea-summit",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/bppwnk/article70219734.ece/alternates/LANDSCAPE_1200/2025-10-30T043018Z_511999781_RC24MHAWVZ3A_RTRMADP_3_USA-TRUMP-XI.JPG",
-      "publishedAt": "2025-10-30T04:40:27Z",
-      "content": "Donald Trump and Xi Jinping wrapped up their highly-anticipated summit after around an hour and a half on Thursday, concluding talks they hoped would quell an expansive trade fight that has shaken gl… [+6466 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Samsung’s chip profit soars after AI fuels demand for memory",
-      "description": "Samsung has been mobilizing its vast resources to better position itself in a fierce global contest where big spenders including OpenAI and Meta Platforms Inc. are amassing computing power for their AI services.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-30/samsung-s-chip-profit-soars-after-ai-fuels-demand-for-memory",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/bcngsb/article70219716.ece/alternates/LANDSCAPE_1200/2025-08-25T213536Z_862563841_RC2LEGASQY51_RTRMADP_3_SAMSUNG-RESULTS.JPG",
-      "publishedAt": "2025-10-30T04:28:08Z",
-      "content": "Samsung Electronics Co.s semiconductor arm reported a stronger-than-expected rise in profit, suggesting global AI demand is helping drive a recovery at the Korean companys most important business.\r\nT… [+2304 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Tech giants face investor scrutiny amid AI spending surge",
-      "description": "Tech giants Meta and Microsoft face investor skepticism as their substantial AI spending raises concerns about potential overinvestment.",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-30/meta-microsoft-test-investors-patience-with-ai-spending-spree",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/e0v3jp/article70219693.ece/alternates/LANDSCAPE_1200/IMG_iStock-1353816577_2_1_28CQDCAL.jpg",
-      "publishedAt": "2025-10-30T04:11:13Z",
-      "content": "The largest technology companies are betting on an AI future powered by gigantic complexes of data centers filled with humming servers.\r\nNow that the staggering cost of this push is coming into sharp… [+5279 chars]"
     }
   ]
 }
