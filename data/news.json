@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-01T17:31:59.865Z",
+  "fetchedAt": "2025-11-01T18:11:26.507Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Steven Levy",
+      "title": "The Man Who Invented AGI",
+      "description": "Everyone is obsessed with artificial general intelligence—the stage when AI can match all feats of human cognition. The guy who named it saw it as a threat.",
+      "url": "https://www.wired.com/story/the-man-who-invented-agi/",
+      "urlToImage": "https://media.wired.com/photos/6903a7a87e68b5a0905771d7/191:100/w_1280,c_limit/Backchannel-AGI-Origins-Business-1945031205.jpg",
+      "publishedAt": "2025-10-31T18:08:03Z",
+      "content": "Wang, who now teaches at Temple University, says he only vaguely remembers the discussion but says he might have suggested some alternatives. More importantly, he tells me that what those contributor… [+2379 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kyle Wiggers",
+      "title": "ChatGPT: Everything you need to know about the AI chatbot",
+      "description": "Here's a ChatGPT guide to help understand Open AI's viral text-generating system. We outline the most recent updates and answer your FAQs.",
+      "url": "https://techcrunch.com/2025/10/31/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "publishedAt": "2025-10-31T17:43:55Z",
+      "content": "ChatGPT, OpenAIs text-generating AI chatbot, has taken the world by storm since its launch in November 2022. What started as a tool to supercharge productivity through writing essays and code with sh… [+49391 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The top 3 warning signs your company is preparing for a layoff, according to experts: 'Don't get too comfortable'",
+      "description": "If your company is hiring less and changing corporate messaging, it could be a sign of an upcoming layoff, according to experts.",
+      "url": "https://www.cnbc.com/2025/10/31/top-warning-signs-your-company-is-preparing-for-a-layoff-according-to-experts.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217862-1761664714427-gettyimages-1367657152-_mg_8124copy.jpeg?v=1761664744&w=1920&h=1080",
+      "publishedAt": "2025-10-31T17:36:35Z",
+      "content": "Amid high-profile job cuts at major companies like Meta, Amazon and Target, many workers are undoubtedly anxious about future downsizing.\r\nAccording to Jason Walker and Rey Ramirez, co-founders of Th… [+5325 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Tattd gave four TechCrunch writers tattoos at Startup Battlefield | TechCrunch",
+      "description": "Tattd, a marketplace for tattoo-seekers and artists, set up a mini tattoo parlor in the Expo Hall at TechCrunch Disrupt 2025.",
+      "url": "https://techcrunch.com/2025/10/31/tattd-gave-four-techcrunch-writers-tattoos-at-startup-battlefield/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_4729-rotated.jpg?resize=900,1200",
+      "publishedAt": "2025-10-31T17:33:33Z",
+      "content": "On Tuesday morning at TechCrunch Disrupt 2025, our Senior Producer Maggie Nye rolled up her jacket sleeve to show me her new tattoo: a classic, pixelated cursor arrow. TechCrunch’s Becca Szkutak got … [+3045 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AIFwd_OctGTM-Newsroom-Header.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-30T15:45:58Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nCEO Bill Ready thinks Pinterests Gen Z users will like talking to it.\r\nCEO Bill Ready thinks Pinterests Gen Z users will like talking to it.\r\nby\r\nElissa WelleClo… [+4375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Joshua Keating",
-      "title": "A trade truce, a nuclear threat: What to make of the Trump-Xi meeting",
-      "description": "Since President Donald Trump’s second term began, his administration’s approach to China has been arguably the toughest aspect of its foreign policy to parse. In part, that’s because the top members of Trump’s team haven’t always seemed to be on the same page…",
-      "url": "https://www.vox.com/politics/466624/xi-trump-trade-nukes-taiwan",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-871894534.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-30T15:42:17Z",
-      "content": "President Donald Trump takes part in a welcoming ceremony with China’s leader, Xi Jinping, on November 9, 2017 in Beijing during Trump’s first term in office. | Thomas Peter/Pool/Getty Images\r\n\n\nSinc… [+9684 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "President Trump’s ballroom design might not be AI — but it’s still a mess",
-      "description": "When President Donald Trump revealed the physical model of the sprawling ballroom that will replace the now-demolished East Wing of the White House, something just seemed off. The model, small enough to fit on a table, is supposed to be a representation of th…",
-      "url": "https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242389845.jpg?quality=90&strip=all&crop=0%2C10.727913000968%2C100%2C78.544173998065&w=1200",
-      "publishedAt": "2025-10-30T15:37:41Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe ballroom models colliding windows, blocked staircase, and extra windows might just be a lot of human error.\r\nThe ballroom models colliding windows, blocked s… [+6139 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Samsung’s internet browser is headed to PC",
-      "description": "Samsung is bringing its mobile web browser to bigger screens. It’s launching a beta version of its Samsung Internet on PC with support for cross-device syncing, which should make it easier to access all your browsing data if you’ve never switched to a differe…",
-      "url": "https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/galaxy-samsung-browser.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
-      "publishedAt": "2025-10-30T15:33:23Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can now try Samsung Internet on PC with new AI features and cross-device syncing.\r\nYou can now try Samsung Internet on PC with new AI features and cross-devi… [+2298 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "AI companies are downplaying amount of energy and capital they need, Joe Lonsdale says",
-      "description": "Palantir co-founder and venture capitalist Joe Lonsdale says that execs at AI companies are underselling the resources required to meet their ambitions.",
-      "url": "https://www.cnbc.com/2025/10/30/palantir-s-lonsdale-says-ai-companies-downplay-energy-capital-needs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105213182-1754507260703-iw_newBillionaires_lonsdaleJoe.png?v=1754507273&w=1920&h=1080",
-      "publishedAt": "2025-10-30T15:23:17Z",
-      "content": "Joe Lonsdale, the founder of venture firm 8VC, says that top executives in artificial intelligence are underselling the resources they need to meet their ambitious goals.\r\nThese companies are \" afrai… [+1551 chars]"
     }
   ]
 }
