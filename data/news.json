@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-01T15:07:25.561Z",
+  "fetchedAt": "2025-11-01T15:31:20.846Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Reddit stock pops 18% after showing strong advertising and user growth",
+      "description": "Reddit's stock popped after the company surpassed third-quarter estimates due to strong advertising growth.",
+      "url": "https://www.cnbc.com/2025/10/31/reddit-rddt-stock-earnings-outlook.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107391065-1711045231372-gettyimages-2102319874-reddit394530_clsacluf.jpeg?v=1761919182&w=1920&h=1080",
+      "publishedAt": "2025-10-31T15:24:58Z",
+      "content": "Reddit's stock popped more than 18% Friday after the company surpassed third-quarter estimates and signaled strong advertising growth.\r\nThe social media platform's revenues surged 68% from a year ago… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Constance Grady",
+      "title": "The right is obsessed with Lord of the Rings. But they don’t understand it.",
+      "description": "Among the many humiliations of being American in the current moment is this: Members of the tech right and the conservative ruling class continually fetishize objects of nerd culture while also displaying a willful inability to grasp the very basic messages t…",
+      "url": "https://www.vox.com/culture/466858/lord-of-the-rings-conservatives-right-republicans-elon-musk-jd-vance-peter-thiel",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/thumb_F217C17A-3384-4B24-82F8-4305A4224AB0.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2025-10-31T15:17:37Z",
+      "content": "Among the many humiliations of being American in the current moment is this: Members of the tech right and the conservative ruling class continually fetishize objects of nerd culture while also displ… [+5826 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Tim Cook says Apple is open to M&A on the AI front",
+      "description": "Apple CEO Tim Cook looks to M&A and AI partnerships to advance Apple Intelligence.",
+      "url": "https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+      "publishedAt": "2025-10-31T15:17:12Z",
+      "content": "Apple CEO Tim Cook signaled to investors the company is still open to acquisitions and partnerships to move things forward on the AI front. \r\nThe comments were made this week during the company’s Q4 … [+1936 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Tiernan Ray",
+      "title": "Why AI coding tools like Cursor and Replit are doomed - and what comes next",
+      "description": "The newfangled programming tools don't have what it takes to go the distance. Here's why.",
+      "url": "https://www.zdnet.com/article/why-ai-coding-tools-like-cursor-and-replit-are-doomed-and-what-comes-next/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4cde37db6cee6b7646e3a51dd5cc36ae8721ea56/2025/10/31/94515131-e4ba-41b6-a2f6-d4175dacd809/gettyimages-1278651533.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T15:09:00Z",
+      "content": "YaroslavKryuchka/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI-based coding tools won't be able to compete with the LLM giants.</… [+8067 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071552-1733348556613-gettyimages-2188268152-mms16604_seshpvev.jpeg?v=1733348778&w=1920&h=1080",
       "publishedAt": "2025-10-30T13:49:21Z",
       "content": "Alphabet stock jumped 4% Thursday after the company reported third-quarter financial results that beat across the board and increased its capital expenditures for the year.\r\nThe Google parent company… [+2014 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "David Gilbert",
-      "title": "No, SNAP Benefits Aren’t Mostly Used by Immigrants",
-      "description": "SNAP benefits are set to run out on Saturday. Far-right influencers and extremists are incorrectly claiming that immigrants are the main recipients of food stamps.",
-      "url": "https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/",
-      "urlToImage": "https://media.wired.com/photos/6902226b1f8a7b4ed47cf7ae/191:100/w_1280,c_limit/pol-snap-gop-lies-2242699566.jpg",
-      "publishedAt": "2025-10-30T13:40:55Z",
-      "content": "As roughly 42 million Americans face the loss of food stamps this weekend, far-right influencers, extremists, and conspiracy theorists are using the crisis to push racist disinformation about who rec… [+2587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Bending Spoons scoops up AOL in $2.8B debt-fueled deal",
-      "description": "Dial-up dinosaur finds yet another corporate home as Yahoo waves goodbye Bending Spoons, an Italian tech biz, is buying AOL from Yahoo, funded by a $2.8 billion debt financing package that will also bankroll future acquisitions.…",
-      "url": "https://www.theregister.com/2025/10/30/yahoo_sells_aol_to_bending/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_1055848523.jpg",
-      "publishedAt": "2025-10-30T13:38:04Z",
-      "content": "Bending Spoons, an Italian tech biz, is buying AOL from Yahoo, funded by a $2.8 billion debt financing package that will also bankroll future acquisitions.\r\nThe purchase price remains undisclosed. Be… [+2023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "YouTube is upgrading old videos to HD and 4K automatically - but you can opt out",
-      "description": "YouTube also says it's rolling out several other new features.",
-      "url": "https://www.zdnet.com/article/youtube-is-upgrading-old-videos-to-hd-and-4k-automatically-but-you-can-opt-out/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2baefd1e615e55b1e946e2f9f258c6d5efa318d5/2025/10/30/a5fa3d91-b764-41d6-b87a-b03bcc81d8e9/youtube-is-going-to-automatically-upscale-videos-but-you-can-opt-out-heres-what-you-need-to-know.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T13:34:42Z",
-      "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's Key Takeaways\r\n<ul><li>YouTube has a new feature that will automatically upscale videos.</li><li>… [+2677 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sarah Jeong",
-      "title": "How Silicon Valley enshittified the internet",
-      "description": "Hello, and welcome to Decoder. This is Sarah Jeong, features editor at The Verge. I’m standing in for Nilay for one final Thursday episode here as he settles back into full-time hosting duties.  Today, we’ve got a fun one. I’m talking to Cory Doctorow, prolif…",
-      "url": "https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Enshittification_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-30T13:33:48Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nHow Silicon Valley enshittified the internet\r\nEnshittification author Cory Doctorow on why things get worse, and how to fight back.\r\nby\r\nSarah JeongClose\r\nSarah … [+4879 chars]"
     }
   ]
 }
