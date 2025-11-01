@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T06:43:12.425Z",
+  "fetchedAt": "2025-11-01T07:08:27.510Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "So long, SaaS: Why AI spells end of per-seat software licenses - and what comes next",
+      "description": "The AI surge is forcing application vendors to restructure how they deliver and charge for solutions. Software companies will need to sell outcomes, not licenses.",
+      "url": "https://www.zdnet.com/article/so-long-saas-why-ai-spells-end-of-per-seat-software-licenses-and-what-comes-next/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/00838bcf8799f051608ddd221ac340307ce25dce/2025/10/30/33c2aff4-10ae-42a1-bfa8-d0a791d481ef/bluechairs5555gettyimages-90677692.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T07:00:31Z",
+      "content": "travellinglight/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Per-seat software licenses may soon be obsolete.</li><… [+6231 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-4.12.02-PM.jpg?resize=1200,676",
       "publishedAt": "2025-10-30T01:00:39Z",
       "content": "Cluely’s Roy Lee has a message for startup founders: you should be thinking harder about how to go viral.\r\n“Generally, if you’re not in deep tech, then you need to low-key deep focus on distribution,… [+2170 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Samsung’s third-quarter profit more than doubles, beating estimates as chip recovery gathers pace",
-      "description": "Samsung Electronics reported a rebound in earnings on Thursday, with operating profit more than doubling from the previous quarter.",
-      "url": "https://www.cnbc.com/2025/10/30/samsungs-third-quarter-profit-surges-160percent-as-chip-business-bounces-back-from-brutal-slump.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1761781388&w=1920&h=1080",
-      "publishedAt": "2025-10-30T00:29:34Z",
-      "content": "Samsung Electronics reported a rebound in earnings on Thursday, with operating profit more than doubling from the previous quarter on a rebound in its chip business. \r\nHere are Samsung's third-quarte… [+1151 chars]"
     }
   ]
 }
