@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-01T12:15:06.317Z",
+  "fetchedAt": "2025-11-01T12:56:39.777Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "God will be declared by a panel of experts",
+      "description": "What is AGI? We know it stands for Artificial General Intelligence. That's a good start. But what does AGI mean, really? And how do we know when we've achieved it? For that matter, who decides we've achieved it? Does the AGI decide? This week, as OpenAI compl…",
+      "url": "https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1031_Site_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-31T12:47:42Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: OpenAIs hunt for AGI, Adobes creative AI onslaught, and broadband nutrition labels.\r\nOn The Vergecast: OpenAIs hunt for AGI, Adobes creative AI… [+3594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia's Huang downplays concerns over selling AI chips to Beijing: It has 'plenty' of its own",
+      "description": "\"It's in the best interest of America to serve that China market. It's in the best interest of China to have the American technology,\" the Nvidia CEO said.",
+      "url": "https://www.cnbc.com/2025/10/31/nvidias-huang-doesnt-buy-the-national-security-concerns-over-selling-chips-to-china.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219929-1761912982853-gettyimages-2244288176-_r629420_copy_wqxkfhr0.jpeg?v=1761912998&w=1920&h=1080",
+      "publishedAt": "2025-10-31T12:44:08Z",
+      "content": "Nvidia CEO Jensen Huang listens to a reporter's question during a press conference at the APEC CEO summit on October 31, 2025 in Gyeongju, South Korea. \r\nNvidia CEO Jensen Huang doesn't buy the natio… [+3406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "More retirement investors opting for 'good enough' stock portfolio strategy to protect their market money",
+      "description": "Retirees are in a tough spot needing stock market growth to fight inflation, but their personal finance plans can't stomach a major market correction.",
+      "url": "https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106790381-1605030237440-gettyimages-1283629372-pi-2094384.jpeg?v=1761840062&w=1920&h=1080",
+      "publishedAt": "2025-10-31T12:30:01Z",
+      "content": "Retirees and investors near retirement are in a tough spot. They need growth from their stock market portfolio to fight inflation and rising health care costs, but another major market drop could lea… [+3631 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Affirm gets boost from New York Life with $750 million loan deal",
+      "description": "Affirm has secured similar funding lines with Liberty Mutual Investments, PGIM, and Sixth Street Partners, a trend across the buy-now-pay-later sector.",
+      "url": "https://www.cnbc.com/2025/10/31/affirm-new-york-life-loan-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108129439-1744225477767-gettyimages-2198546816-TFSPI_12022025-4494.jpeg?v=1761870765&w=1920&h=1080",
+      "publishedAt": "2025-10-31T12:30:01Z",
+      "content": "Affirm is expanding its partnership with New York Life Insurance, a move that highlights how traditional financial giants are deepening their exposure to fintech-driven consumer lending.\r\nUnder the n… [+1504 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68e68926238fbbab3f2aeb31/191:100/w_1280,c_limit/100825_Tech-Data-Center-Emissions.jpg",
       "publishedAt": "2025-10-30T10:31:37Z",
       "content": "Last weeks request for public comment from the Greenhouse Gas Protocol (GHGP) doesnt look like a major win for a tech giant to the naked eye. In fact, it seems almost clerical. But for Google and Mic… [+2280 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "OpenAI's Microsoft contract negotiation is a necessary step toward a future IPO — Altman's goal is to build 30 gigawatts of compute infrastructure, valued at $1.4 trillion",
-      "description": "Microsoft and OpenAI have finalised the wording of their working relationship for the next five years and beyond. This brings to a close the negotiations which had held up major investments from Softbank, as well as OpenAI's for-profit restructuring.",
-      "url": "https://www.tomshardware.com/tech-industry/openais-microsoft-contract-negotiation-is-a-necessary-step-toward-a-future-ipo-altmans-goal-is-to-build-30-gigawatts-of-compute-infrastructure-valued-at-usd1-4-trillion",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZJYbzmaCeM9RkDxJayWF6Y-1920-80.jpg",
-      "publishedAt": "2025-10-30T10:16:42Z",
-      "content": "After months of negotiations and with a looming end-of-year deadline, Microsoft and OpenAI have finally agreed on the wording for their working relationship going forward, clarifying several salient … [+6446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zhiye Liu",
-      "title": "QNAP's new NAS brings exotic data center 'ruler' SSDs into your house — massive ES.1 form factor SSDs for up to 19.2TB of storage for $4,399",
-      "description": "QNAP launches TBS-h574TX all-flash NASbook with pre-installed 9.6TB or 19.2TB of enterprise E1.S storage.",
-      "url": "https://www.tomshardware.com/pc-components/nas/qnaps-new-nas-brings-exotic-data-center-form-factor-into-your-house-massive-es-1-ssds-for-up-to-19-2tb-of-storage-for-usd4-399",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oR6sv362g23tXN9T83fwoC-1920-80.jpg",
-      "publishedAt": "2025-10-30T10:00:00Z",
-      "content": "QNAP now offers pre-installed bundles for the company's NASbook TBS-h574TX, featuring EDSFF (Enterprise and Datacenter Standard Form Factor) E1.S SSDs, commonly referred to as the \"ruler\" form factor… [+4707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Why the AI wearable market is set to grow by 10x - and it's not just new gadgets",
-      "description": "Spending on AI-powered wearables is expected to reach $304.8 billion by 2033, as consumers adopt new health and wellness routines.",
-      "url": "https://www.zdnet.com/article/ai-health-wearables-are-headed-toward-phenomenal-growth-per-report/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0c5aae99084caca0b5045ffcd2d80fb21389d4a5/2025/10/29/347b8041-0ab1-4f68-b12d-d506f4c006fe/gettyimages-2217982284.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T09:44:01Z",
-      "content": "EMS-FORSTER-PRODUCTIONS/DigitalVision/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Spending on AI-powered wearables is expected to exceed $300 … [+3161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Australia's police to use AI to decode criminals' emoji slang to curb online crime — \"crimefluencers\" will be decoded and translated for investigators",
-      "description": "Australia's police are looking to build an AI tool that would detect and interpret emoji slang online in an effort to curb crime among bad actors in hateful communities, dubbed \"crimefluencers.\" The AI will understand the difference between harmless lingo and…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australias-police-will-soon-start-to-use-ai-to-curb-online-crime-emoji-slang-will-be-decoded-and-translated-for-investigators-to-better-understand-crimefluencers",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/usqRm6m3kbw9offYMauyjB-2560-80.jpg",
-      "publishedAt": "2025-10-30T09:40:00Z",
-      "content": "Artificial intelligence has taken the world by storm, incorporating itself knee-deep in various aspects of our society seemingly overnight, for better or for worse. In the case of Australia's police,… [+4493 chars]"
     }
   ]
 }
