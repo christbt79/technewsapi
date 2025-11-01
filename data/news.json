@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-01T06:12:33.622Z",
+  "fetchedAt": "2025-11-01T06:43:12.425Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Ghosts of gains past for markets this Halloween",
+      "description": "Investors were spooked by some Big Tech capex plans, with all three major indexes falling Thursday.",
+      "url": "https://www.cnbc.com/2025/10/31/cnbc-daily-open-ghosts-of-gains-past-for-markets-this-halloween.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219820-1761889605610-gettyimages-2243685676-AFP_82KL4WK.jpeg?v=1761889617&w=1920&h=1080",
+      "publishedAt": "2025-10-31T06:31:00Z",
+      "content": "U.S. President Donald Trump and First Lady Melania Trump host a Halloween event at the White House in Washington, DC, on Oct. 30, 2025.\r\nAs Halloween looms, Wall Street is balancing tricks and treats… [+3325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Actor couldn’t understand why computer didn’t work when the curtain came down",
+      "description": "When tech support collides with Halloween, the results are scary\nOn Call Happy Halloween, dear reader! The Register wishes you a wonderfully scary day. To kick things off, we’ve twisted On Call, our weekly reader-contributed column about keeping computers ali…",
+      "url": "https://www.theregister.com/2025/10/31/on_call/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_pumpkinhead_halloween_using_computer.jpg",
+      "publishedAt": "2025-10-31T06:30:13Z",
+      "content": "On Call Happy Halloween, dear reader! The Register wishes you a wonderfully scary day. To kick things off, weve twisted On Call, our weekly reader-contributed column about keeping computers alive des… [+4394 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179470-1753922208638-gettyimages-1065011358-191112final.jpeg?v=1761781388&w=1920&h=1080",
       "publishedAt": "2025-10-30T00:29:34Z",
       "content": "Samsung Electronics reported a rebound in earnings on Thursday, with operating profit more than doubling from the previous quarter on a rebound in its chip business. \r\nHere are Samsung's third-quarte… [+1151 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "NBA champion Tristan Thompson partners with World Mobile to launch community-owned network Uplift | TechCrunch",
-      "description": "With Uplift, every subscription will contribute to neighborhood-level network expansion, while local hosts that are known as \"AirNode operators\" will earn a portion of network revenue by providing community coverage.",
-      "url": "https://techcrunch.com/2025/10/29/nba-champion-tristan-thompson-and-world-mobile-launch-community-owned-network-uplift/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2244055209.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T23:41:34Z",
-      "content": "NBA champion Tristan Thompson announced at TechCrunch Disrupt 2025 that he’s partnering with global telecom company World Mobile to launch a community-owned mobile network called Uplift. The network … [+2974 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Digg founder Kevin Rose on the need for trusted social communities in the AI era | TechCrunch",
-      "description": "\"The dead internet theory is real,\" Reddit co-founder Alexis Ohanian told Digg founder Kevin Rose, referring to the idea that much of the internet isn't",
-      "url": "https://techcrunch.com/2025/10/29/digg-founder-kevin-rose-on-the-need-for-trusted-social-communities-in-the-ai-era/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2244048690.jpg?resize=1200,800",
-      "publishedAt": "2025-10-29T23:29:43Z",
-      "content": "“The dead internet theory is real,” Reddit co-founder Alexis Ohanian told Digg founder Kevin Rose, referring to the idea that much of the internet isn’t human — it’s mostly bots. \r\nThe two entreprene… [+3628 chars]"
     }
   ]
 }
