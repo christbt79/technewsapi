@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T03:53:23.308Z",
+  "fetchedAt": "2025-11-01T04:10:21.927Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Intel in talks to acquire AI chip startup SambaNova",
+      "description": "Intel is discussing the terms of an acquisition with SambaNova, which has been working with bankers to gauge interest from potential suitors, the people said",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/intel-in-talks-to-acquire-ai-chip-startup-sambanova",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/xvf0mi/article70224188.ece/alternates/LANDSCAPE_1200/2025-10-23T163654Z_783588248_RC2LEGASZP2E_RTRMADP_3_INTEL-RESULTS.JPG",
+      "publishedAt": "2025-10-31T03:57:30Z",
+      "content": "Intel Corp. is in preliminary talks to buy artificial intelligence chip startup SambaNova Systems Inc., according to people familiar with the matter.\r\nIntel is discussing the terms of an acquisition … [+2001 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200609-1758197175452-gettyimages-2235448166-META_CONNECT.jpeg?v=1761656568&w=1920&h=1080",
       "publishedAt": "2025-10-29T23:29:42Z",
       "content": "Meta CEO Mark Zuckerberg is sounding a familiar tune when it comes to artificial intelligence: better to invest too much than too little.\r\nOn his company's third-quarter earnings call on Wednesday, Z… [+2966 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google expects 'significant increase' in capital expenditure in 2026, execs say",
-      "description": "Alphabet is planning a \"significant increase\" in spend next year as it continues to invest in AI infrastructure to meet the demand of its customer backlog.",
-      "url": "https://www.cnbc.com/2025/10/29/google-expects-significant-increase-in-capex-in-2026-execs-say.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1761777160&w=1920&h=1080",
-      "publishedAt": "2025-10-29T23:27:24Z",
-      "content": "Google parent Alphabet is planning a \"significant increase\" in spend next year as it continues to invest in AI infrastructure to meet the demand of its customer backlog, executives said Wednesday.\r\nT… [+3131 chars]"
     }
   ]
 }
