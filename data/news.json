@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-01T15:31:20.846Z",
+  "fetchedAt": "2025-11-01T16:08:53.156Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Matthew Miller",
+      "title": "7 hidden Google Pixel Watch features that make a big difference (and how to access them)",
+      "description": "With the Pixel Watch 4, Google truly hit it out of the park with advanced functions and features, and some of them also work with older models.",
+      "url": "https://www.zdnet.com/article/7-hidden-google-pixel-watch-features-that-make-a-big-difference-and-how-to-access-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5d1a96b901c10eef0899ba4e32a4f4575cd610be/2025/10/28/b4da54d2-d0c7-4979-8533-54fc8815ae07/pixel-watch-4-features3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T15:56:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li> The Google Pixel Watch 4 is the most intelligent smartwatch available today. </li><li> Som… [+7704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Exxon in advanced talks to power AI data centers with natural gas and carbon capture",
+      "description": "The tech sector has mostly secured renewable energy to power data centers, but some are turning to natural gas as well as they search for reliable power.",
+      "url": "https://www.cnbc.com/2025/10/31/exxon-ai-data-center-natural-gas-carbon-capture.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220053-1761924196425-gettyimages-2224637282-ENERGY_INNOVATION_SUMMIT.jpeg?v=1761924233&w=1920&h=1080",
+      "publishedAt": "2025-10-31T15:50:20Z",
+      "content": "Exxon Mobil is holding advanced talks with power providers and technology companies to cut the emissions of AI data centers that rely on natural gas by deploying carbon capture technology, CEO Darren… [+1289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "As big tech pushes AI spending to the max, you may be helping to pay for it",
+      "description": "Big tech companies including Meta, Alphabet and Amazon are spending billions on AI, but they're not the only ones paying for it as software fees rise.",
+      "url": "https://www.cnbc.com/2025/10/31/big-tech-ai-spending-billions-microsoft-google-software-subscriptions.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220010-1761919655491-gettyimages-2242189159-20090101251022-99-402678.jpeg?v=1761919699&w=1920&h=1080",
+      "publishedAt": "2025-10-31T15:49:10Z",
+      "content": "As the tech industry's giants race to build out AI infrastructure Microsoft spent $34.9 billion in just one quarter while Meta plans to spend up to $72 billion this year   they may not be the only on… [+8120 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Perplexity strikes multi-year licensing deal with Getty Images  | TechCrunch",
+      "description": "Perplexity’s agreement with Getty appears to legitimize some of the startup’s previous use of Getty’s stock photos. Perplexity came under fire last year for a series of plagiarism accusations from several news organizations.",
+      "url": "https://techcrunch.com/2025/10/31/perplexity-strikes-multi-year-licensing-deal-with-getty-images/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
+      "publishedAt": "2025-10-31T15:48:28Z",
+      "content": "AI search startup Perplexity has signed a multi-year licensing deal with Getty Images, which gives it permission to display images from Getty across its AI-powered search and discovery tools. The dea… [+2624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "American startup Substrate promises 2nm-class chipmaking with particle accelerators, at a tenth of the cost of EUV — X-ray lithography system has potential to surpass ASML's EUV scanners",
+      "description": "A U.S. startup is developing a compact particle-accelerator-based X-ray lithography system that could surpass ASML's EUV scanners in resolution and cut wafer costs tenfold by the end of the decade, but its plan to build its own fabs rather than sell tools mea…",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/american-startup-substrate-promises-2nm-class-chipmaking-with-particle-accelerators-at-a-tenth-of-the-cost-of-euv-x-ray-lithography-system-has-potential-to-surpass-asmls-euv-scanners",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RsQrx3Du6DkXezDVZ8fVsb-2560-80.png",
+      "publishedAt": "2025-10-31T15:43:06Z",
+      "content": "American startup Substrate is developing a new X-ray lithography (XRL) system, powered by a particle accelerator-based light source, that promises superior performance and cost efficiency compared to… [+12088 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Mike Winters",
+      "title": "52-year-old sees 66% increase in coffee price—costs are up nationwide",
+      "description": "In the grocery aisle, one shopper noticed his usual coffee now costs nearly twice what he paid a year ago.",
+      "url": "https://www.cnbc.com/2025/10/31/coffee-cost-sharp-increase-nationwide.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220006-1761919235198-coffee_prices_tiktok_720.png?v=1761924658&w=1920&h=1080",
+      "publishedAt": "2025-10-31T15:33:27Z",
+      "content": "In August 2025, Chuck Smith went to buy coffee at a Walmart in Rochester, Indiana. But something seemed off.\r\n\"I bent down to pick up the coffee and happened to notice the price,\" he tells CNBC Make … [+4224 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -904,9 +982,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -917,9 +995,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/03/02/plasma.jpg",
       "publishedAt": "2025-10-30T14:51:50Z",
       "content": "The KDE Plasma 6.5 graphical shell arrived last week for Unix-like operating systems, and now 6.5.1 is here for the more cautious. The team's squashed over 60 bugs and they're by no means all new.\r\nK… [+3843 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Alex Heath",
-      "title": "Microsoft’s agent platform play",
-      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. To understand how Microsoft sees its role in the AI race, look at what was announced at the company's GitHub Unive…",
-      "url": "https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-978868526.jpg?quality=90&strip=all&crop=9.771875%2C10.791193787747%2C90.228125%2C70.973600968568&w=1200",
-      "publishedAt": "2025-10-30T14:49:39Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhat this weeks GitHub news says about Microsofts role in the AI race.\r\nWhat this weeks GitHub news says about Microsofts role in the AI race.\r\nby\r\nAlex HeathClo… [+5762 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "Invisible npm malware pulls a disappearing act – then nicks your tokens",
-      "description": "PhantomRaven slipped over a hundred credential-stealing packages into npm\nA new supply chain attack dubbed PhantomRaven has flooded the npm registry with malicious packages that steal credentials, tokens, and secrets during installation. The packages appear s…",
-      "url": "https://www.theregister.com/2025/10/30/phantomraven_npm_malware/",
-      "urlToImage": "https://regmedia.co.uk/2020/12/11/shutterstock_raven.jpg",
-      "publishedAt": "2025-10-30T14:19:07Z",
-      "content": "A new supply chain attack dubbed PhantomRaven has flooded the npm registry with malicious packages that steal credentials, tokens, and secrets during installation. The packages appear safe when first… [+3237 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "Need cash? Perplexity will give you $15 for every friend you refer to Comet - how to get it",
-      "description": "There doesn't seem to be a limit to how much money you can earn.",
-      "url": "https://www.zdnet.com/article/need-cash-perplexity-will-give-you-15-for-every-friend-you-refer-to-comet-how-to-get-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8392be8f826ca4a91a69877d027a1277a7fcd98a/2025/10/30/a6160733-6bd9-4366-ae88-cb3899977ed5/perplexity-will-give-you-15-for-every-friend-you-refer-to-comet-how-to-get-your-cash2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T14:15:00Z",
-      "content": "Perplexity / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Perplexity is offering a referral program for its Comet browser.</li><… [+2382 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google partners with Ambani's Reliance to offer free AI Pro access to millions of Jio users in India | TechCrunch",
-      "description": "Google partners with Ambani's Reliance to offer free AI Pro access to millions of Jio users in India | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/30/google-partners-with-ambanis-reliance-to-offer-free-ai-pro-access-to-millions-of-jio-users-in-india/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/gemini.jpg?resize=1200,800",
-      "publishedAt": "2025-10-30T14:08:29Z",
-      "content": "In a push to expand its AI footprint in emerging markets, Google has partnered with billionaire Mukesh Ambaniled Reliance Industries to bundle its AI Pro subscription with Jio 5G plans at no extra co… [+3974 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Omer Minkara",
-      "title": "AI is just an instrument in your CX symphony - how to conduct it well, according to NiCE analysts",
-      "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/ai-is-just-an-instrument-in-your-cx-symphony-how-to-conduct-it-well-according-to-nice-analysts/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T13:49:58Z",
-      "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Alphabet stock jumps 4% after posting strong results, boosting AI spend",
-      "description": "The strong quarter and a boost in capital spending impressed analysts and solidified Alphabet's position as an AI leader.",
-      "url": "https://www.cnbc.com/2025/10/30/alphabet-goog-stock-earnings-ai-spend.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071552-1733348556613-gettyimages-2188268152-mms16604_seshpvev.jpeg?v=1733348778&w=1920&h=1080",
-      "publishedAt": "2025-10-30T13:49:21Z",
-      "content": "Alphabet stock jumped 4% Thursday after the company reported third-quarter financial results that beat across the board and increased its capital expenditures for the year.\r\nThe Google parent company… [+2014 chars]"
     }
   ]
 }
