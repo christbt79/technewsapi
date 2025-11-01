@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T07:31:21.687Z",
+  "fetchedAt": "2025-11-01T08:11:18.412Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google to offer Gemini AI for free to over 500 million Jio users as global firms double down on India",
+      "description": "Global AI companies are stepping up efforts to gain users in India by offering free subscriptions",
+      "url": "https://www.cnbc.com/2025/10/31/google-gemini-ai-free-500-million-jio-relince-users-india-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219826-1761893545928-gettyimages-2243121604-raa-googleai251026_npy3E.jpeg?v=1761893569&w=1920&h=1080",
+      "publishedAt": "2025-10-31T08:02:53Z",
+      "content": "Google will offer its Gemini AI service for free to over 500 million Reliance Jio users in India, as global artificial intelligence firms double down on acquiring customers in the country.\r\nThe U.S. … [+2450 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1761309903&w=1920&h=1080",
       "publishedAt": "2025-10-30T01:23:25Z",
       "content": "The news is coming in fast and thick. Strap in.\r\nFirst, interest rates.\r\nThe U.S. Federal Reserve lowered rates by 25 basis points, as expected by traders. But Chair Jerome Powell cautioned that anot… [+1719 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Cluely's Roy Lee on the ragebait strategy for startup marketing | TechCrunch",
-      "description": "Cluely's Roy Lee has a message for startup founders: you should be thinking harder about how to go viral.",
-      "url": "https://techcrunch.com/2025/10/29/cluelys-roy-lee-on-the-ragebait-strategy-for-startup-marketing/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-4.12.02-PM.jpg?resize=1200,676",
-      "publishedAt": "2025-10-30T01:00:39Z",
-      "content": "Cluely’s Roy Lee has a message for startup founders: you should be thinking harder about how to go viral.\r\n“Generally, if you’re not in deep tech, then you need to low-key deep focus on distribution,… [+2170 chars]"
     }
   ]
 }
