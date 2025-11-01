@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-01T13:18:20.648Z",
+  "fetchedAt": "2025-11-01T13:36:55.169Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom",
+      "description": "With the largest cloud and internet companies reporting results this week, it's clear that spending on artificial intelligence is only increasing.",
+      "url": "https://www.cnbc.com/2025/10/31/tech-ai-google-meta-amazon-microsoft-spend.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1755819335&w=1920&h=1080",
+      "publishedAt": "2025-10-31T13:36:42Z",
+      "content": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. \r\nTech's internet giants have made it throu… [+5231 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "Nvidia expands AI ties with Hyundai, Samsung, SK, Naver | TechCrunch",
+      "description": "NVIDIA CEO Jensen Huang is visiting South Korea to strengthen partnerships with Samsung, Hyundai, SK, and Naver, unveiling plans for AI-powered networks and next-generation intelligent systems.",
+      "url": "https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024",
+      "publishedAt": "2025-10-31T13:34:42Z",
+      "content": "Nvidia CEO Jensen Huang is visiting South Korea for the first time in fifteen years to unveil new plans and deepen collaboration with major Korean tech companies including Hyundai Motor, Samsung, SK,… [+4839 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Reddit CEO says chatbots are not a traffic driver",
+      "description": "Reddit doesn't see a lot of traffic coming from chatbot answers",
+      "url": "https://techcrunch.com/2025/10/31/reddit-ceo-says-chatbots-are-not-a-traffic-driver/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1176192608-1.jpg?w=1024",
+      "publishedAt": "2025-10-31T13:34:03Z",
+      "content": "Reddit CEO Steve Huffman said AI chatbots aren’t a major traffic driver for the social platform despite companies like OpenAI and Google having seen progress in people using AI for search. During Red… [+2367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Meta to sell $30B in bonds to build AI datacenters",
+      "description": "Zuckcorp will gladly pay you in 2065 for the eyewatering sums it is borrowing today Even the world's richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and s…",
+      "url": "https://www.theregister.com/2025/10/31/meta_launches_30_billion_bond/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_2492993419.jpg",
+      "publishedAt": "2025-10-31T13:28:57Z",
+      "content": "Even the world's richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and support its ambition in A… [+3165 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Nexperia conflict spills overseas as it halts exports to China — German automotive manufacturers slow production due to semiconductor shortages from Dutch chipmaker",
+      "description": "The fallout of the Nexperia ownership scuffle between the Dutch government and Chinese business interests is spilling overseas, with German automotive parts suppliers slowly reducing production due to semiconductor shortages. Meanwhile, Nexperia's Dutch facil…",
+      "url": "https://www.tomshardware.com/tech-industry/nexperia-conflict-spills-overseas-as-it-halts-exports-to-china-german-automotive-manufacturers-slow-production-due-to-semiconductor-shortages-from-dutch-chipmaker",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QFRNMZoaEkYtnG5r3vfKok-1600-80.jpg",
+      "publishedAt": "2025-10-31T13:28:10Z",
+      "content": "The fallout from the scuffle between the Dutch government and Chinese business interests over the ownership of Dutch chip firm, Nexperia, is starting to impact supply chains elsewhere in the world. A… [+3141 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Perplexity’s new AI tool aims to simplify patent research",
+      "description": "Patents are notoriously difficult to search for, but Perplexity has launched an AI-powered tool that’s supposed to make the process a little easier. Its new patent research agent allows you to search for patents using natural language, rather than a string of…",
+      "url": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-31T13:23:18Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nInstead of searching for a string of keywords, Perplexitys new tool allows you to use natural language to look for patents.\r\nInstead of searching for a string of… [+2143 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Brittany-Brosky-Show-Static-01-1.png?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-30T12:27:35Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nYouTubes TV app is starting to look a lot more like Netflix, further blurring the lines between traditional TV and creator shows.\r\nYouTubes TV app is starting to… [+6493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Elon Musk says idling Tesla cars could create massive 100-million-vehicle strong computer for AI — 'bored' vehicles could offer 100 gigawatts of distributed compute power",
-      "description": "During Tesla’s Q3 2025 earnings call, the firm’s CEO, Elon Musk, proposed that the cars take part in 'a giant distributed inference fleet' to tap into their incredible compute power \"if they are bored.\"",
-      "url": "https://www.tomshardware.com/tech-industry/elon-musk-says-idling-tesla-cars-could-create-massive-100-million-vehicle-strong-computer-for-ai-bored-vehicles-could-offer-100-gigawatts-of-distributed-compute-power",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BJuizVuxPX3EcwBHiiHJTX-2000-80.jpg",
-      "publishedAt": "2025-10-30T12:18:49Z",
-      "content": "During Tesla’s Q3 2025 earnings call, the firm’s CEO, Elon Musk, proposed that the cars take part in \"a giant distributed inference fleet\" to tap into their incredible compute power \"if they are bore… [+4023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Navan IPO lands rare one-person venture capital firm its biggest win ever, a $1 billion payday",
-      "description": "Angel investor Oren Zeev created the blueprint for the solo general partner firm, a new, rare category of venture capital. The Navan IPO is his biggest win yet.",
-      "url": "https://www.cnbc.com/2025/10/30/navan-ipo-shares-investors.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218984-1761770418368-zeev.jpg?v=1761826161&w=1920&h=1080",
-      "publishedAt": "2025-10-30T12:10:19Z",
-      "content": "It wasn't a traditional pitch meeting. There were no slides, no product demo. There wasn't even a clear explanation of what the founders were trying to build. But for investor Oren Zeev's decision-ma… [+13759 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Big Tech earnings, Fed cuts rates, Trump-Xi meeting and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/30/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108197832-1757624736423-IMG_7484.jpg?v=1757624963&w=1920&h=1080",
-      "publishedAt": "2025-10-30T12:03:11Z",
-      "content": "Stocks on display at the Nasdaq on Sept. 10, 2025. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are five key things investors need to kno… [+5614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "This doctor raised $130 million from Michael Dell, Jim Breyer and others to try to fix health care",
-      "description": "Cofounder and chief medical officer Dr. Clay Johnston launched Harbor after running Michael Dell's namesake medical school.",
-      "url": "https://www.cnbc.com/2025/10/30/michael-dell-jim-breyer-back-startup-harbor-health.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108215512-1761156803296-ClayJohnston-Casual-Outdoor.jpg?v=1761223384&w=1920&h=1080",
-      "publishedAt": "2025-10-30T11:30:01Z",
-      "content": "A version of this article first appeared in CNBC's Inside Wealth newsletter with Robert Frank, a weekly guide to the high-net-worth investor and consumer. Sign up to receive future editions, straight… [+3561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Adam Clark Estes",
-      "title": "Elon Musk created a Wikipedia competitor. What could go wrong?",
-      "description": "What the billionaire’s new encyclopedia tells us about the future of knowledge.",
-      "url": "https://www.vox.com/technology/466568/elon-musk-grokipedia-wikipedia-competitor-grok-xai",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/GettyImages-2235955651.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-30T11:30:00Z",
-      "content": "Grokipedia, Elon Musks attempt at creating an alternative to Wikipedia, is now live. Early analysis suggests that the site powered by Musks xAI and fact-checked by Grok, the companys right-leaning AI… [+6354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stephen.warwick@futurenet.com (Stephen Warwick) , Stephen Warwick",
-      "title": "U.S. and China agree on one-year tariff truce, including semiconductor and rare earth breakthroughs — the future of Nvidia AI chip sales to the nation remains murky",
-      "description": "President Trump and Xi Jinping have agreed a one-year tariff truce.",
-      "url": "https://www.tomshardware.com/tech-industry/u-s-and-china-agree-on-one-year-tariff-truce-including-semiconductor-and-rare-earth-breakthroughs-the-future-of-nvidia-ai-chip-sales-to-the-nation-remains-murky",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CHE48KniLshPqvS6zczQAM-2000-80.jpg",
-      "publishedAt": "2025-10-30T10:47:30Z",
-      "content": "In momentous news for the global trade war and the global semiconductor industry, President Trump and China's Xi Jinping have reportedly agreed on a one-year tariff truce that could pave the way for … [+2449 chars]"
     }
   ]
 }
