@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T09:08:51.796Z",
+  "fetchedAt": "2025-11-01T09:33:18.988Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "SA Mathieson",
+      "title": "England's local government shake-up promises to be a massive tech headache",
+      "description": "Surrey to be divided into two new councils in first phase of countrywide reorg The UK government will replace Surrey County Council and its 11 borough and district councils with two new unitary councils, which will provide most local services to the area's 1.…",
+      "url": "https://www.theregister.com/2025/10/31/england_local_government_shakeup/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_surreyhills.jpg",
+      "publishedAt": "2025-10-31T09:15:11Z",
+      "content": "The UK government will replace Surrey County Council and its 11 borough and district councils with two new unitary councils, which will provide most local services to the area's 1.2 million residents… [+4008 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/05/01/money_shutterstock.jpg",
       "publishedAt": "2025-10-30T01:53:08Z",
       "content": "When generative AI exploded into public view in late 2022, plenty of pundits predicted it would be bad news for the likes of Google and Meta as nimble AI-powered rivals found new ways to capture neti… [+3274 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Capex is the number to look at amid Big Tech earnings",
-      "description": "The crux is that spending on artificial intelligence isn't going to slow down, at least for the next year, thanks to increasing demand for AI services.",
-      "url": "https://www.cnbc.com/2025/10/30/cnbc-daily-open-capex-is-the-number-to-look-at-amid-big-tech-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1761309903&w=1920&h=1080",
-      "publishedAt": "2025-10-30T01:23:25Z",
-      "content": "The news is coming in fast and thick. Strap in.\r\nFirst, interest rates.\r\nThe U.S. Federal Reserve lowered rates by 25 basis points, as expected by traders. But Chair Jerome Powell cautioned that anot… [+1719 chars]"
     }
   ]
 }
