@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T22:34:58.761Z",
+  "fetchedAt": "2025-11-01T23:07:49.324Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Cramer's Lightning Round: SoundHound AI is a 'pure spec'",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2025/10/31/cramers-lightning-round-soundhound-ai-is-a-pure-spec.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102079128-1539342565979105501689.jpg?v=1698448473&w=1920&h=1080",
+      "publishedAt": "2025-10-31T22:56:00Z",
+      "content": "SoundHound AI: \"That's a pure spec...It's got to make money before I can get seriously behind it.\"\r\nNextracker: \"This company is a tremendous company...I'd like to have it cool off a little bit, but … [+184 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218742-17617566772025-09-23t175147z_12272999_rc2txgaz4dsv_rtrmadp_0_navan-ipo.jpeg?v=1761756761&w=1920&h=1080",
       "publishedAt": "2025-10-30T16:45:47Z",
       "content": "Corporate travel and expense management platform Navan fell by as much as 12% in its first trading day on the Nasdaq under the ticker symbol \"NAVN\" after its successful initial public offering.\r\nThe … [+4448 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Another shuttered nuclear power plant is getting new life, thanks to Big Tech",
-      "description": "Google announced plans to revive a nuclear power plant that shut down in 2020, as it looks to secure enough electricity for its AI data centers. The company announced a 25-year agreement with NextEra Energy to eventually purchase electricity from the Duane Ar…",
-      "url": "https://www.theverge.com/news/810254/google-ai-data-center-nuclear-power-plant-restart",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Duane-Arnold-Energy-Center5.jpg?quality=90&strip=all&crop=8.2225015713388%2C0%2C83.554996857322%2C100&w=1200",
-      "publishedAt": "2025-10-30T16:43:27Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle made a deal to bring an Iowa nuclear plant back to life to power its data centers.\r\nGoogle made a deal to bring an Iowa nuclear plant back to life to powe… [+3369 chars]"
     }
   ]
 }
