@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-01T19:03:24.746Z",
+  "fetchedAt": "2025-11-01T19:31:15.334Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Meta bought 1 GW of solar this week | TechCrunch",
+      "description": "The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint.",
+      "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
+      "publishedAt": "2025-10-31T19:29:04Z",
+      "content": "Meta signed three deals this week to procure nearly 1 gigawatt of solar power as it races to power its lofty AI ambitions.\r\nThe trio of agreements brings Metas total solar purchases to over 3 gigawat… [+1893 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "That $20,000 viral humanoid home robot? It's not what it seems",
+      "description": "The internet was abuzz this week over Neo, 1X's new housekeeping robot - but then the reviews rolled in.",
+      "url": "https://www.zdnet.com/article/that-20000-viral-humanoid-home-robot-its-not-what-it-seems/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9c2f68429f201b8561e7d9e24448629feec81794/2025/10/31/d0dfb300-ef10-443b-93e5-cab7b0234b32/neoflowerscreenshot-2025-10-31-151716.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T19:27:47Z",
+      "content": "Screenshot by David Grober/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>1X's viral Neo humanoid robot isn't quite as good as it looks.</li><li>Neo cost… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Datacenter biz and nuke startup join forces for Texas AI ranch",
+      "description": "The bit barn will run on gas power first. Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn't likely until the next decade.…",
+      "url": "https://www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_2208691733.jpg",
+      "publishedAt": "2025-10-31T19:19:36Z",
+      "content": "Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn't likely until the next decade.\r\nThe two firms have announced plans to devel… [+3742 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1125,9 +1164,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1138,9 +1177,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/PoEW83on8deZDKn3RcA8we-2000-80.jpg",
       "publishedAt": "2025-10-30T16:04:22Z",
       "content": "Shenzhen authorities have dismantled a counterfeit chip operation that allegedly sold reclaimed and rebranded integrated circuits as premium imports from Infineon, Texas Instruments, and other Wester… [+2986 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple reports fourth quarter earnings after the bell",
-      "description": "The fourth quarter, which runs through the end of September, is the first quarter that includes sales from new iPhone 17 models.",
-      "url": "https://www.cnbc.com/2025/10/30/apple-aapl-earnings-report-q4-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213541-17607096732025-10-17t130016z_893115583_rc297x9r28qi_rtrmadp_0_apple-f1.jpeg?v=1760709702&w=1920&h=1080",
-      "publishedAt": "2025-10-30T16:00:01Z",
-      "content": "Apple reports fiscal fourth quarter earnings on Thursday after the bell.\r\nThe fourth quarter, which runs through the end of September, is the first quarter that includes a little more than a week of … [+2062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon earnings primer: Cloud dominance in focus after massive outage as rivals gain ground",
-      "description": "Investors are closely watching growth in Amazon's cloud computing unit, which faces increasing pressure from rivals and artificial intelligence deals.",
-      "url": "https://www.cnbc.com/2025/10/30/amazon-amzn-q3-earnings-report-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139644-1746130974818-108139644-1746130763914-gettyimages-2201505679-ALEXA_AI_UNVEILING.jpeg?v=1761833231&w=1920&h=1080",
-      "publishedAt": "2025-10-30T16:00:01Z",
-      "content": "Amazon is slated to post results for the third quarter after the closing bell Thursday.\r\nHere's what analysts polled by LSEG are looking for:\r\n<ul><li>Earnings per share: $1.57</li><li>Revenue: $177.… [+3647 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "AI browsers are a cybersecurity time bomb",
-      "description": "Web browsers are getting awfully chatty. They got even chattier last week after OpenAI and Microsoft kicked the AI browser race into high gear with ChatGPT Atlas and a \"Copilot Mode\" for Edge. They can answer questions, summarize pages, and even take actions …",
-      "url": "https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_ai_browser_security_Kristen__Radtke.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-30T15:53:23Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nRushed releases, corruptible AI agents, and supercharged tracking make AI browsers home to a host of known and unknown cybersecurity risks.\r\nRushed releases, cor… [+8011 chars]"
     }
   ]
 }
