@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-01T14:07:20.949Z",
+  "fetchedAt": "2025-11-01T14:34:47.397Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Korean fried chicken stocks surge 30% as Nvidia CEO Jensen Huang dines out on local delicacy — entire industry buoyed by secret ingredient, Jensanity",
+      "description": "Korean fried chicken glows extra hot on the stock market after Jensen Huang was seen enjoying this spicy delicacy in Seoul.",
+      "url": "https://www.tomshardware.com/tech-industry/korean-fried-chicken-stocks-surge-30-percent-as-nvidia-ceo-jensen-huang-dines-out-on-local-delicacy-entire-industry-buoyed-by-secret-ingredient-jensanity",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ABGFBuqK9dbJQo5bEUdeeG-2000-80.jpg",
+      "publishedAt": "2025-10-31T14:33:36Z",
+      "content": "Korean fried chicken stocks were given a significant boost today by a new not-so-secret ingredient – a sprinkling of Jensanity. Nvidia CEO Jensen Huang was in Seoul meeting top execs at firms such as… [+2694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "European markets lower as investors react to earnings; euro zone inflation falls to 2.1%",
+      "description": "Investors on Friday are reacting to a number of big-name earnings and central bank decisions this week.",
+      "url": "https://www.cnbc.com/2025/10/31/european-markets-expected-to-open-lower-amid-earnings-and-ecb-rates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108124126-1743513610327-gettyimages-2201578096-contini-aerialvi250222_npmRv.jpeg?v=1761890877&w=1920&h=1080",
+      "publishedAt": "2025-10-31T14:29:35Z",
+      "content": "LONDON  European markets were lower on Friday as investors reacted to an expected dip in euro zone inflation and a swathe of earnings this week. \r\nThe pan-European Stoxx 600 was around 0.6% lower by … [+2861 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot | TechCrunch",
+      "description": "After generating over 10 million social media impressions with the launch of its text-to-3D model app, Adam has raised a $4.1 million seed round to power its next steps.",
+      "url": "https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Adam-cofounders-Aaron-Li-and-Zach-Dive.jpg?resize=1200,802",
+      "publishedAt": "2025-10-31T14:23:56Z",
+      "content": "Adam, one of the most viral startups in Y Combinators Winter 2025 batch, has raised a $4.1 million seed round to power its next steps, TechCrunch learned exclusively.\r\nAfter generating over 10 millio… [+3407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Getty Images stock pops 19% on deal with Perplexity AI",
+      "description": "Perplexity will be able to display creative and editorial content from Getty Images through its AI-powered search tools.",
+      "url": "https://www.cnbc.com/2025/10/31/getty-images-stock-perplexity-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207464-1759494073766-gettyimages-2238362029-kokovlis-notitle251002_np4bt.jpeg?v=1759494130&w=1920&h=1080",
+      "publishedAt": "2025-10-31T14:21:45Z",
+      "content": "Shares of Getty Images soared 19% on Friday after the company announced that it struck a multiyear licensing agreement with Perplexity AI.\r\nPerplexity will be able to display creative and editorial c… [+561 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio",
+      "description": "Creative, the company best known for its Sound Blaster line of sound cards that boosted the audio capabilities of ’90s-era PCs, is reviving the brand with a new hub called the Re:Imagine. It’s reminiscent of Elgato’s Stream Deck controllers, but with a focus …",
+      "url": "https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/soundblaster3.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
+      "publishedAt": "2025-10-31T14:08:34Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCreatives Sound Blaster Re:Imagine hub streamlines routing audio to and from your various devices.\r\nCreatives Sound Blaster Re:Imagine hub streamlines routing au… [+3127 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Weavy-4.jpg?quality=90&strip=all&crop=0%2C8.0144178489107%2C100%2C83.971164302179&w=1200",
       "publishedAt": "2025-10-30T13:16:47Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nFigma Weave is a node-based canvas platform that gives creators more control over AI-generated content.\r\nFigma Weave is a node-based canvas platform that gives c… [+2056 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Figma acquires AI-powered media generation company Weavy",
-      "description": "Figma said today that it has acquired AI-powered image and video generation company Weavy.",
-      "url": "https://techcrunch.com/2025/10/30/figma-acquires-ai-powered-media-generation-company-weavy/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Figma_Weavy_Static_Icons.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-30T13:15:00Z",
-      "content": "Design platform Figma said today that it has acquired AI-powered image and video generation company Weavy. The startup will join Figma under a new brand called Figma Weave.\r\nFigma said that 20 people… [+2175 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tage Kene-okafor",
-      "title": "The Prompting Company snags $6.5M to help products get mentioned in ChatGPT and other AI apps | TechCrunch",
-      "description": "YC-backed The Prompting Company helps customers get recommendations from AI. It is also partnering with NVIDIA on \"next-generation\" search.",
-      "url": "https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1200,676",
-      "publishedAt": "2025-10-30T13:14:11Z",
-      "content": "People are increasingly asking AI, not Google, to help them discover products. A recent shopping report says Americans, this holiday season, will likely turn to large language models this season to f… [+4864 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Universal partners with AI startup Udio after settling copyright suit",
-      "description": "Universal Music Group says it has made “industry-first strategic agreements” to “settle copyright infringement litigation” with AI startup Udio and license music for a new AI-powered music platform. The move is one of several anticipated licensing deals expec…",
-      "url": "https://www.theverge.com/news/809882/universal-music-udio-settlement",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2234202094.jpg?quality=90&strip=all&crop=0%2C11.063940796424%2C100%2C77.872118407152&w=1200",
-      "publishedAt": "2025-10-30T13:02:23Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe pair are launching an AI music making platform next year.\r\nThe pair are launching an AI music making platform next year.\r\nby\r\nRobert HartClose\r\nRobert Hart\r\n… [+2296 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Steven J. Vaughan-Nichols",
-      "title": "Canonical CEO says no to IPO in current volatile market",
-      "description": "'We should be a public company,' Shuttleworth tells The Reg, just not 'with our trousers around our ankles' Interview  An initial public offering is a matter of when, not if, for Canonical founder and CEO Mark Shuttleworth, though interested stock owners shou…",
-      "url": "https://www.theregister.com/2025/10/30/canonical_ceo_mark_shuttleworth_ipo/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/24/ubuntu.jpg",
-      "publishedAt": "2025-10-30T12:57:15Z",
-      "content": "Interview An initial public offering is a matter of when, not if, for Canonical founder and CEO Mark Shuttleworth, though interested stock owners shouldn't expect a prospectus anytime soon.\r\n\"We are … [+6647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Equinix revealed as occupant of £3.9B UK datacenter campus",
-      "description": "Investment will fund 250 MW, three-facility campus near London as AI and cloud demand surge Equinix will occupy a massive datacenter campus near London's M25, investing £3.9 billion ($5.1 billion) in the 85-acre (0.34 square kilometers) Hertfordshire plot clo…",
-      "url": "https://www.theregister.com/2025/10/30/equinix_datacenter_hertfordshire/",
-      "urlToImage": "https://regmedia.co.uk/2024/09/13/dc01uk_aerial.jpg",
-      "publishedAt": "2025-10-30T12:55:42Z",
-      "content": "Equinix will occupy a massive datacenter campus near London's M25, investing £3.9 billion ($5.1 billion) in the 85-acre (0.34 square kilometers) Hertfordshire plot close to South Mimms services.\r\nThe… [+1752 chars]"
     }
   ]
 }
