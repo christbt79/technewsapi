@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-01T17:07:10.901Z",
+  "fetchedAt": "2025-11-01T17:31:59.865Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Adobe’s experimental AI tool can edit entire videos using one frame",
+      "description": "Adobe demonstrated some of the experimental AI tools it’s working on at its Max conference that provide new ways to intuitively edit photos, videos, and audio. These experiments, called “sneaks,” include tools that instantly apply any changes you make to one …",
+      "url": "https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Adobe-Project-Frame-Forward.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-31T17:31:03Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHere are the coolest developmental features that Adobe showcased at Max.\r\nHere are the coolest developmental features that Adobe showcased at Max.\r\nby\r\nJess Weat… [+4736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Tired of Windows? Why this 'premium' Chromebook is my new favorite recommendation",
+      "description": "Acer's Chromebook Plus Spin 514 is loaded with 16GB of RAM, a battery-efficient MediaTek processor, and a lovely convertible display.",
+      "url": "https://www.zdnet.com/article/tired-of-windows-why-this-premium-chromebook-is-my-new-favorite-recommendation/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fc56e79f6f9b78ab7ee7d25974bf4af6a21e8281/2025/10/29/c6d2f368-5862-46f7-9d13-6194da5bd9cc/img-4283.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T17:18:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nReady to branch out from Windows? If you're looking for a thin and light laptop for work, school, or everyday use, and you're interested in dive… [+5518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "YouTube's AI moderator pulls Windows 11 workaround videos, calls them dangerous",
+      "description": "Creators baffled as videos on local accounts, unsupported PCs vanish under ‘harmful acts’ rule Is installing Windows 11 with a local account or on unsupported hardware harmful or dangerous? YouTube's AI moderation system seems to think so, as it has started p…",
+      "url": "https://www.theregister.com/2025/10/31/ai_moderation_youtube_windows11_workaround/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/02/bot.jpg",
+      "publishedAt": "2025-10-31T17:09:41Z",
+      "content": "Is installing Windows 11 with a local account or on unsupported hardware harmful or dangerous? YouTube's AI moderation system seems to think so, as it has started pulling videos that show users how t… [+5023 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/105213182-1754507260703-iw_newBillionaires_lonsdaleJoe.png?v=1754507273&w=1920&h=1080",
       "publishedAt": "2025-10-30T15:23:17Z",
       "content": "Joe Lonsdale, the founder of venture firm 8VC, says that top executives in artificial intelligence are underselling the resources they need to meet their ambitious goals.\r\nThese companies are \" afrai… [+1551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "The new most popular AI image and video generator might surprise you",
-      "description": "Here's what personal and enterprise users alike flock to this tool for.",
-      "url": "https://www.zdnet.com/article/the-new-most-popular-ai-image-and-video-generator-might-surprise-you/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f89aa993f4c543dbd97ddefab32bae01ce895c54/2025/10/30/3f424318-ae60-4c85-966a-4c0ca22dade0/gettyimages-1409196384.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T15:20:00Z",
-      "content": "undefined/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey found many users prefer Gemini for creating images.… [+4490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "The best free AI courses and certificates for upskilling in 2025 - and I've tried them all",
-      "description": "I've worked with AI for decades and have a master's degree in education. Here are the top free AI courses online that I recommend, along with my reasons for recommending them.",
-      "url": "https://www.zdnet.com/article/the-best-free-ai-courses-and-certificates-for-upskilling-in-2025-and-ive-tried-them-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f4f303bd6813460eecc860ed80fdde677a029d0f/2025/10/30/f33fa2a9-d422-495e-9d70-78d9ff775b4b/gettyimages-2234176104.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T15:05:00Z",
-      "content": "I've been working with AI for a very long time. I conducted one of the first-ever academic studies of AI ethics as a thesis project way back in the day. I created and launched an expert system develo… [+1545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zak Killian",
-      "title": "New AMD driver snubs Radeon RX 5000, 6000 GPUs with latest updates — also disables USB-C functionality on RX 7900 series",
-      "description": "The latest AMD Radeon graphics driver skips older GPUs for feature updates and drops functionality from last-gen flagships.",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/new-amd-driver-snubs-radeon-rx-5000-6000-gpus-with-latest-updates-also-disables-usb-c-functionality-on-rx-7900-series",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/fr5dCQbYg8NKqYvETTkjz8-2560-80.jpg",
-      "publishedAt": "2025-10-30T15:04:41Z",
-      "content": "Are you still stuck deep in Battlefield 6 and dearly desiring a driver update to improve performance on your Radeon RX 6000 series GPU? Well, we have good and bad news for you: the latest Adrenalin u… [+4036 chars]"
     }
   ]
 }
