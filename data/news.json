@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-01T19:31:15.334Z",
+  "fetchedAt": "2025-11-01T20:08:42.879Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark",
+      "description": "AI promises to find bugs and gaps in your apps After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.…",
+      "url": "https://www.theregister.com/2025/10/31/openai_aardvark_agentic_security/",
+      "urlToImage": "https://regmedia.co.uk/2017/10/20/shutterstock_aardvark.jpg",
+      "publishedAt": "2025-10-31T19:35:06Z",
+      "content": "After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.\r\nThe maker of ChatGPT o… [+2767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Couple earns $28,000 a month but constantly fights about money: 'Everything for me is a fire'",
+      "description": "Edward and Ellen are quite well-off, earning $336,000 a year. But they struggle to see eye-to-eye on everyday financial decisions.",
+      "url": "https://www.cnbc.com/2025/10/31/couple-earns-28000-dollars-a-month-but-constantly-fights-about-money.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108015868-1722631698653-gettyimages-1746936876-20230605-imgl4293.jpeg?v=1761927110&w=1920&h=1080",
+      "publishedAt": "2025-10-31T19:32:53Z",
+      "content": "Ellen and Edward earn $28,000 a month, or an annual income of around $336,000 a year more than triple their home state of Hawaii's median household income.\r\nBut their high income doesn't prevent the … [+4299 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2019/11/13/docker_shutterstock.jpg",
       "publishedAt": "2025-10-30T16:27:51Z",
       "content": "Docker Compose users are being strongly urged to upgrade their versions of the orchestration tool after a researcher uncovered a flaw that could allow attackers to stage path traversal attacks.\r\nNIST… [+2878 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tage Kene-okafor",
-      "title": "Bevel raises $10M Series A from General Catalyst for its AI health companion | TechCrunch",
-      "description": "The AI health companion unifies data from wearables and habits across sleep, fitness, and nutrition into personalized insights for users.",
-      "url": "https://techcrunch.com/2025/10/30/bevel-raises-10m-series-a-from-general-catalyst-for-its-ai-health-companion/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/IMG_2447.jpeg?resize=1200,800",
-      "publishedAt": "2025-10-30T16:06:23Z",
-      "content": "Most people tracking their health today end up with scattered clues. Their smartwatch shows sleep duration. A fitness app logs steps. A nutrition app counts calories. Yet few tools help people unders… [+4737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Police bust chip counterfeiting outfit in China, fakes may have made it into PC hardware — GPUs, motherboards, and power supplies potentially impacted by fake Infineon and TI power chips",
-      "description": "Shenzhen authorities have dismantled a counterfeit chip operation that allegedly sold reclaimed and rebranded integrated circuits as premium imports from Infineon and others.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/police-bust-chip-relabeling-ring-in-shenzen",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PoEW83on8deZDKn3RcA8we-2000-80.jpg",
-      "publishedAt": "2025-10-30T16:04:22Z",
-      "content": "Shenzhen authorities have dismantled a counterfeit chip operation that allegedly sold reclaimed and rebranded integrated circuits as premium imports from Infineon, Texas Instruments, and other Wester… [+2986 chars]"
     }
   ]
 }
