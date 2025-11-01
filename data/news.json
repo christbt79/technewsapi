@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T09:33:18.988Z",
+  "fetchedAt": "2025-11-01T10:09:01.453Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia CEO Jensen Huang says AI is in a 'virtuous cycle.' Here's what he means",
+      "description": "\"The virtual cycle of AI has been designed, and this is ... the reason why you're seeing the world's capex going so fast,\" Nvidia CEO Jensen Huang said.",
+      "url": "https://www.cnbc.com/2025/10/31/nvidia-ceo-jensen-huang-says-ai-has-reached-a-virtuous-cycle.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217998-1761671175464-gettyimages-2243377473-AFP_82AU2UC.jpeg?v=1761894262&w=1920&h=1080",
+      "publishedAt": "2025-10-31T09:53:52Z",
+      "content": "Nvidia CEO Jensen Huang said on Friday that artificial intelligence had reached a \"virtuous cycle,\" tipping the industry for continuous growth.\r\nSpeaking at the APEC CEO Summit in South Korea, Huang … [+3290 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9c73520f4b6972d125372a3a4c11d5c6c3394e90/2025/10/29/93f9107b-20f3-4385-b38f-a2c22cf0695f/gettyimages-2191007168.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T02:00:32Z",
       "content": "Getty Images/JHVEPhoto\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>PayPal announced an agentic commerce services suite.</li><li>This includes a new agentic … [+3855 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "AI is making Google and Meta even stronger and richer",
-      "description": "So they’re increasing spending on infrastructure to keep it that way When generative AI exploded into public view in late 2022, plenty of pundits predicted it would be bad news for the likes of Google and Meta as nimble AI-powered rivals found new ways to cap…",
-      "url": "https://www.theregister.com/2025/10/30/meta_alphabet_q3_2025/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/01/money_shutterstock.jpg",
-      "publishedAt": "2025-10-30T01:53:08Z",
-      "content": "When generative AI exploded into public view in late 2022, plenty of pundits predicted it would be bad news for the likes of Google and Meta as nimble AI-powered rivals found new ways to capture neti… [+3274 chars]"
     }
   ]
 }
