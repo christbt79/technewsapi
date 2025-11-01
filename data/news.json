@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-01T10:37:21.464Z",
+  "fetchedAt": "2025-11-01T11:06:09.620Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "The Pixel phone update that Android fans can be proud of - and how it beats iOS 26",
+      "description": "Android calls just got a major glow-up. Here's what Pixel users can try now.",
+      "url": "https://www.zdnet.com/article/the-pixel-phone-update-that-android-fans-can-be-proud-of-and-how-it-beats-ios-26/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/186e0a99ea45132375900f5c7c0a805c9bd0051d/2025/10/27/786099c5-c7e0-468c-93bb-128496ed5a60/pxl-20251027-164507986-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T10:57:00Z",
+      "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Liam Proven",
+      "title": "Linux vendors are getting into Ubuntu – and Snap",
+      "description": "Ubuntu's much-maligned format may be finally reaching critical mass\nUbuntu Summit More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages.…",
+      "url": "https://www.theregister.com/2025/10/31/linux_vendors_getting_into_snap/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_46277122.jpg",
+      "publishedAt": "2025-10-31T10:45:10Z",
+      "content": "Ubuntu Summit More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages.\r\nAside from relatively closed platforms such as C… [+4862 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/6902815b030326d7e206e552/191:100/w_1280,c_limit/Microsoft-Google-Meta-Report-Earnings-Business-2242649875.jpg",
       "publishedAt": "2025-10-30T02:09:50Z",
       "content": "Three of the biggest US tech giantsMicrosoft, Meta, and Googlesent investors a blunt message when they reported quarterly earnings on Wednesday: Their lavish spending on AI infrastructure is only jus… [+2839 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Magic Leap and Google showcase what's next for AI smart glasses",
-      "description": "Will Meta finally get some real competition?",
-      "url": "https://www.zdnet.com/article/magic-leap-and-google-showcase-whats-next-for-ai-smart-glasses/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d643171166dbeaacccdd9c6ad91b590ea3bbff91/2025/10/29/26963004-20e0-41bd-a3e0-798673d44a8c/68fceabc59e3cbd87c7ca9bf-hq-audio-lab-sub-assembly-and-dat-for-kpi-testing-38a5426-1920x1080-72dpi-s1a-adj-fin-wo-leg.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T02:00:43Z",
-      "content": "Magic Leap\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Magic Leap extended its partnership with Google. </li><li>The companies showed a prototype of AR/AI s… [+2093 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Google Labs' free new experiment creates AI-generated ads for your small business",
-      "description": "No ad budget? Try this tool - all you need is a URL to get started.",
-      "url": "https://www.zdnet.com/article/google-labs-free-new-experiment-creates-ai-generated-ads-for-your-small-business/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7e850ba175c1d33e6c993c88068bcd7d5e303958/2025/10/29/3608af5b-d06a-4d9a-a009-cd7197701344/pomelli.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T02:00:42Z",
-      "content": "Screenshot by Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Pomelli is an experiment from Google Labs and Google DeepMind.</li><li>It can cre… [+2064 chars]"
     }
   ]
 }
