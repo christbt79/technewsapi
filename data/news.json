@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T18:11:26.507Z",
+  "fetchedAt": "2025-11-01T18:40:47.843Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Wired",
+      "title": "Paid Post | Rethinking Network Visibility in the Age of Agentic AI",
+      "description": "Paid Post | Dashboards aren’t enough anymore. The next step in network management pairs human insight with autonomous agents that can act, learn, and adapt.",
+      "url": "https://www.wired.com/sponsored/story/gtt/",
+      "urlToImage": "https://media.wired.com/photos/6904c40260b82c8ef03c4d79/191:100/w_1280,c_limit/GTT_Header%20Image.jpg",
+      "publishedAt": "2025-10-31T18:34:22Z",
+      "content": "For customers, this means intelligent assistants that can handle network performance queries and anomaly detection in real time. Internally, employees gain the same advantage, surfacing information a… [+2279 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1086,9 +1099,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1099,9 +1112,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_1289760685.jpg",
       "publishedAt": "2025-10-30T15:48:12Z",
       "content": "ServiceNow has built some \"prudence\" into its earnings guidance due to the ongoing US government shutdown.\r\nThe tech vendor, which provides a service layer and AI agents on top of business applicatio… [+2436 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Pinterest’s new AI shopping assistant helps you pick a fit",
-      "description": "Move over Andy Sachs, Pinterest is launching an AI-enabled shopping assistant that aims to suggest your next look. Beginning on Thursday, and over the coming weeks and months, Pinterest users will be able to talk to the visual platform about what they’re shop…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/AIFwd_OctGTM-Newsroom-Header.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-30T15:45:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCEO Bill Ready thinks Pinterests Gen Z users will like talking to it.\r\nCEO Bill Ready thinks Pinterests Gen Z users will like talking to it.\r\nby\r\nElissa WelleClo… [+4375 chars]"
     }
   ]
 }
