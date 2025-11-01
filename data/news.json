@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-01T18:40:47.843Z",
+  "fetchedAt": "2025-11-01T19:03:24.746Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo | TechCrunch",
+      "description": "AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/CoreWeave.jpg?resize=1200,800",
+      "publishedAt": "2025-10-31T18:54:09Z",
+      "content": "Core Scientific shareholders on Thursday voted down an all-stock acquisition offer from partner and competitor CoreWeave that was valued at the time at $9 billion.  \r\nThey did so following a vote-no … [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Pinterest's new shopping assistant finds products to fit your tastes - see how it works",
+      "description": "Endless scrolling for that perfect something eventually gets old. Pinterest's AI wants to keep shopping fresh.",
+      "url": "https://www.zdnet.com/article/pinterests-new-shopping-assistant-finds-products-to-fit-your-tastes-see-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/77bbf4428ebc4839efc334073f0c3247e1b4de5f/2025/10/31/ac884b0c-2d69-46ba-8c99-7aa150e5a477/pinterest.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-10-31T18:47:09Z",
+      "content": "Pinterest/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Pinterest launched a beta version of its AI-powered shopping assistant.</li><li>Pinterest Assist… [+2398 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1099,9 +1125,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1112,9 +1138,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_illo_ai_browser_security_Kristen__Radtke.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-30T15:53:23Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nRushed releases, corruptible AI agents, and supercharged tracking make AI browsers home to a host of known and unknown cybersecurity risks.\r\nRushed releases, cor… [+8011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Trump and Xi ease trade tensions, but Nvidia still can't sell Blackwell in China",
-      "description": "US President did discuss chip exports with his counterpart, but made no breakthroughs\nTalks between US President Trump and Chinese leader Xi Jinping in South Korea yielded a modest thaw, with the two agreeing to trim tariffs and pause new rare-earth export cu…",
-      "url": "https://www.theregister.com/2025/10/30/us_to_reduce_tariffs_china/",
-      "urlToImage": "https://regmedia.co.uk/2018/09/06/shutterstock_china_usa.jpg",
-      "publishedAt": "2025-10-30T15:49:54Z",
-      "content": "Talks between US President Trump and Chinese leader Xi Jinping in South Korea yielded a modest thaw, with the two agreeing to trim tariffs and pause new rare-earth export curbs. But whether Nvidia ca… [+2621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "US government shutdown clouds an otherwise sunny ServiceNow forecast",
-      "description": "Enterprise software giant lifts guidance but adds 'prudence' as federal contracts stall\nServiceNow has built some \"prudence\" into its earnings guidance due to the ongoing US government shutdown.…",
-      "url": "https://www.theregister.com/2025/10/30/us_government_shutdown_servicenow/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/01/shutterstock_1289760685.jpg",
-      "publishedAt": "2025-10-30T15:48:12Z",
-      "content": "ServiceNow has built some \"prudence\" into its earnings guidance due to the ongoing US government shutdown.\r\nThe tech vendor, which provides a service layer and AI agents on top of business applicatio… [+2436 chars]"
     }
   ]
 }
