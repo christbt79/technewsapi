@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-01T13:36:55.169Z",
+  "fetchedAt": "2025-11-01T14:07:20.949Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Amazon's stock soars 12% on third-quarter beat and increased spending guidance",
+      "description": "Amazon blew past analyst estimates in its third-quarter earnings report and raised its capital expenditures forecast for the year to $125 billion.",
+      "url": "https://www.cnbc.com/2025/10/31/amazon-amzn-stock-earnings-revenue-ai-cloud.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107825-17405902912025-02-26t171428z_315459334_rc2f2daohftm_rtrmadp_0_amazon-com-alexa.jpeg?v=1740590368&w=1920&h=1080",
+      "publishedAt": "2025-10-31T13:45:48Z",
+      "content": "Amazon shares soared 12% on Friday after the company reported an across-the-board beat for the third quarter and boosted its forecast for spending due to demand for artificial intelligence services.\r… [+3083 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/09/13/dc01uk_aerial.jpg",
       "publishedAt": "2025-10-30T12:55:42Z",
       "content": "Equinix will occupy a massive datacenter campus near London's M25, investing £3.9 billion ($5.1 billion) in the 85-acre (0.34 square kilometers) Hertfordshire plot close to South Mimms services.\r\nThe… [+1752 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Janko Roettgers",
-      "title": "Inside YouTube’s transformation on your TV",
-      "description": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. The YouTube app on your TV is about to undergo some massive changes, to the point where you mi…",
-      "url": "https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Brittany-Brosky-Show-Static-01-1.png?quality=90&strip=all&crop=0%2C6.9226294357184%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-30T12:27:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYouTubes TV app is starting to look a lot more like Netflix, further blurring the lines between traditional TV and creator shows.\r\nYouTubes TV app is starting to… [+6493 chars]"
     }
   ]
 }
