@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T22:07:52.622Z",
+  "fetchedAt": "2025-11-02T22:35:33.475Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft plans to hire more but with 'a lot more leverage' thanks to AI, CEO Satya Nadella says",
+      "description": "The company wants to ensure that all of its employees can access its Microsoft 365 and GitHub Copilot artificial intelligence tools, CEO Satya Nadella said.",
+      "url": "https://www.cnbc.com/2025/11/01/microsoft-ceo-headcount-leverage-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139003-1746040294896-gettyimages-2207879673-MICROSOFT_COPILOT.jpeg?v=1762032586&w=1920&h=1080",
+      "publishedAt": "2025-11-01T22:08:30Z",
+      "content": "Microsoft will expand its employee base once again, CEO Satya Nadella told investor Brad Gerstner on a podcast that aired on Friday.\r\nThe software maker's workforce didn't budge in the 2025 fiscal ye… [+2541 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_2568495377.jpg",
       "publishedAt": "2025-10-30T21:00:19Z",
       "content": "A researcher has found a way to trick Claude into uploading private data to an attacker's account using indirect prompt injection. Anthropic says it has already documented the risk, and its foolproof… [+5607 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "SF Mayor Lurie says city 'on the rise' after Trump reverses course on troop deployment",
-      "description": "Mayor Lurie told CNBC that he feels pressure \"every day\" to deliver safe and clean streets for residents.",
-      "url": "https://www.cnbc.com/2025/10/30/sf-mayor-daniel-lurie-says-city-improving-after-trump-deployment-issue.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216266-1761252353195-gettyimages-2242857306-_75a4183_whscuilb.jpeg?v=1761252436&w=1920&h=1080",
-      "publishedAt": "2025-10-30T20:53:08Z",
-      "content": "San Francisco Mayor Daniel Lurie, who was recently thrust into a national debate about the safety of big cities, told CNBC on Thursday that he feels \"pressure every day\" to continue improving conditi… [+2583 chars]"
     }
   ]
 }
