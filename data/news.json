@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T08:10:45.746Z",
+  "fetchedAt": "2025-11-02T08:38:12.850Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Robotic lawnmower uses AI to dodge cats, toys",
+      "description": "The Sunseeker Elite X5 can mow on its own, but it doesn't come cheap\nThe tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to s…",
+      "url": "https://www.theregister.com/2025/11/01/robotic_lawnmower_ai/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/31/sunseeker_robomower.jpg",
+      "publishedAt": "2025-11-01T08:32:05Z",
+      "content": "The tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to see what h… [+4677 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/285b3135bc42402adf30867f110e2826c7d72cd5/2025/10/30/5b7f80f4-48e6-4662-9aa5-2845fda8dc18/aardvark-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:00:31Z",
       "content": "Elyse Betters Picaro/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI has launched Aardvark, a cybersecurity researcher agent. </li><li>Aardvark is … [+2813 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Canva launches its own design model, adds new AI features to the platform",
-      "description": "Canva is launching new features like Forms, email design, and makes Affinity free for all users.",
-      "url": "https://techcrunch.com/2025/10/30/canva-launches-its-own-design-model-adds-new-ai-features-to-the-platform/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Creative-OS.jpeg?resize=1200,675",
-      "publishedAt": "2025-10-30T17:00:00Z",
-      "content": "Creative suite company Canva launched its own design model on Thursday that understands different layers and formats today to power its features. The company also introduced new product forms, update… [+3110 chars]"
     }
   ]
 }
