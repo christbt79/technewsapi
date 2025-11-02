@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T19:31:16.362Z",
+  "fetchedAt": "2025-11-02T20:08:53.231Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster | TechCrunch",
+      "description": "Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
+      "publishedAt": "2025-11-01T20:03:29Z",
+      "content": "Elon Musk and Sam Altman are still taking swipes at each other on Musks social media platform X.\r\nWhile both men were founders at OpenAI, where Altman is CEO, they have subsequently sparred across so… [+1686 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216266-1761252353195-gettyimages-2242857306-_75a4183_whscuilb.jpeg?v=1761252436&w=1920&h=1080",
       "publishedAt": "2025-10-30T20:53:08Z",
       "content": "San Francisco Mayor Daniel Lurie, who was recently thrust into a national debate about the safety of big cities, told CNBC on Thursday that he feels \"pressure every day\" to continue improving conditi… [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Reddit shares climb on earnings beat, strong forecast",
-      "description": "Reddit beats on top and bottom, but logged in user growth keeps slowing",
-      "url": "https://www.cnbc.com/2025/10/30/reddit-rddt-q3-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108030051-1725569740850-gettyimages-2102320889-reddit394581_etwtyicj.jpeg?v=1761855815&w=1920&h=1080",
-      "publishedAt": "2025-10-30T20:21:22Z",
-      "content": "Reddit reported third-quarter earnings on Thursday in which the company beat on the top and bottom and provided strong guidance. \r\nShares were up more than 5% in after-hours trading on Thursday.\r\nHer… [+2312 chars]"
     }
   ]
 }
