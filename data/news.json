@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T14:34:40.011Z",
+  "fetchedAt": "2025-11-02T15:07:38.012Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "AI researchers 'embodied' an LLM into a robot – and it started channeling Robin Williams | TechCrunch",
+      "description": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
+      "url": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
+      "publishedAt": "2025-11-01T15:02:27Z",
+      "content": "The AI researchers at Andon Labs the people who gave Anthropic Claude an office vending machine to run and hilarity ensued have published the results of a new AI experiment. This time they programmed… [+7753 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/868845c19228a7d96869c6654de92235cb812708/2025/10/30/ca163d7f-2604-49e9-ad33-5f70d00df21c/screen-shot-2025-10-30-at-2-08-57-pm.png?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T19:42:00Z",
       "content": "James Keith/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nZDNET's key takeaways\r\n<ul><li>OpenAI announced character cameos for Sora.</li><li>Characters come with th… [+4650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Microsoft 365 business customers are running out of places to hide from Copilot",
-      "description": "People, Files, and Calendar companion apps gain an auto-installed dose of AI\nJust when you thought Microsoft had run out of Windows apps to stuff with Copilot, it's cramming the AI into your taskbar companions - People, Files, and Calendar are next.…",
-      "url": "https://www.theregister.com/2025/10/30/microsoft_365_companion_apps/",
-      "urlToImage": "https://regmedia.co.uk/2025/06/20/copilot.jpg",
-      "publishedAt": "2025-10-30T19:15:58Z",
-      "content": "Just when you thought Microsoft had run out of Windows apps to stuff with Copilot, it's cramming the AI into your taskbar companions - People, Files, and Calendar are next.\r\nThe Microsoft 365 compani… [+2521 chars]"
     }
   ]
 }
