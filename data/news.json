@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-02T11:31:17.047Z",
+  "fetchedAt": "2025-11-02T12:15:01.589Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "While AI spending is top of mind, online ads are driving a lot of Big Tech's growth",
+      "description": "Meta, Amazon, Alphabet and Microsoft reported quarterly earnings that showed rising digital ad sales and increased AI infrastructure spending.",
+      "url": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179672-1753964381009-Untitled-1.jpg?v=1753964473&w=1920&h=1080",
+      "publishedAt": "2025-11-01T12:00:01Z",
+      "content": "META CEO Mark Zuckerberg (L) and Microsoft CEO Satya Nadella.\r\nAs tech giants increase their already breathtaking spending on artificial intelligence, their respective digital advertising businesses … [+6346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Hacker installed and ran Doom on an orbiting European Space Agency satellite",
+      "description": "Doom once ran in an ESA space satellite, as recounted by one of the hackers",
+      "url": "https://www.tomshardware.com/video-games/doom-can-run-just-about-anywhere-including-space-hacker-recounts-tale-of-running-the-game-on-an-orbiting-satellite",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YayC3wPSmmRcR2qtkKzynS-1877-80.jpg",
+      "publishedAt": "2025-11-01T11:34:00Z",
+      "content": "There were lots of interesting topics discussed in the recent Ubuntu Summit, but one in particular might just tickle the fancy of most any techie above 30: the story of how Doom was actually running … [+3658 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/1fdb82b443543bfa735ff274027de11ccaf9b540/2025/07/22/af3792a6-7a47-41a7-a166-9a5a2bd93fd9/notebooklm-use.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T18:31:13Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google upgraded NotebookLM's performance, key features, and security.</li><li>Users… [+2124 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Canva’s new ‘Creative Operating System’ is actually a marketing workspace",
-      "description": "Canva is introducing new digital marketing and video-editing tools, built around what the company is calling a “world-first” design-focused AI model. These launches are part of an overhaul to the design platforms Visual Suite workplace products, which Canva d…",
-      "url": "https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Canva-Creative-OS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-30T17:59:26Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe platform has a new design-focused AI model and end-to-end marketing features.\r\nThe platform has a new design-focused AI model and end-to-end marketing featur… [+3779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Ex-Intel CEO Pat Gelsinger praises cutting-edge Nvidia chip production with TSMC on US soil, despite Intel missing out — hails manufacturing milestone of US-based supply chain",
-      "description": "Intel's ex-CEO, Pat Gelsinger, has praised the news that Nvidia's latest graphics chips are now in full production on American soil. Highlighting how important the silicon supply chain is for national security, he said that he hopes this will allow Nvidia to …",
-      "url": "https://www.tomshardware.com/tech-industry/ex-intel-ceo-pat-gelsinger-praises-cutting-edge-nvidia-chip-production-with-tsmc-on-us-soil-despite-intel-missing-out-hails-manufacturing-milestone-of-us-based-supply-chain",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sEZgkWc5wMHXoc9PbowE4a-1920-80.jpg",
-      "publishedAt": "2025-10-30T17:41:12Z",
-      "content": "Intel's former CEO, Pat Gelsinger, has praised the news that Nvidia's latest Blackwell GPUs are now being produced at its Arizona facility. It's important, he said, for the most cutting-edge silicon … [+2897 chars]"
     }
   ]
 }
