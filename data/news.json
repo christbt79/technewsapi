@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T17:07:03.179Z",
+  "fetchedAt": "2025-11-02T17:33:29.480Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week",
+      "description": "There are plenty of good smartwatches out there, and Google’s last-gen Pixel Watch 3 is one of them. Right now, the 45mm / Wi-Fi model is available at Amazon, Walmart, and Target for $199.99 ($100 off), which is a new low price and $150 less than the Pixel Wa…",
+      "url": "https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Google-Pixel-Watch-3-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-01T17:09:31Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found great deals on the foldable Motorola Razr (2024), the SteelSeries Arctis Pro Wireless headset, and more.\r\nWe also found great deals on the foldable… [+6228 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108030051-1725569740850-gettyimages-2102320889-reddit394581_etwtyicj.jpeg?v=1761855815&w=1920&h=1080",
       "publishedAt": "2025-10-30T20:21:22Z",
       "content": "Reddit reported third-quarter earnings on Thursday in which the company beat on the top and bottom and provided strong guidance. \r\nShares were up more than 5% in after-hours trading on Thursday.\r\nHer… [+2312 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon cloud records 20% sales growth, topping estimates",
-      "description": "Amazon Web Services is the world's top provider of cloud infrastructure, but it's facing intensifying pressure from competitors Google and Microsoft.",
-      "url": "https://www.cnbc.com/2025/10/30/aws-q3-2025-earnings-report-amazon-cloud.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071277-1733330010508-gettyimages-2187566975-776246284_14.jpeg?v=1738787355&w=1920&h=1080",
-      "publishedAt": "2025-10-30T20:14:15Z",
-      "content": "Amazon said Thursday that revenue in its cloud computing business increased 20% in the third quarter, exceedinganalysts' estimates.\r\nRevenue at Amazon Web Services for the third quarter totaled $33 b… [+1595 chars]"
     }
   ]
 }
