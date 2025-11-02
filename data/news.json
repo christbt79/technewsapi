@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-02T13:36:14.253Z",
+  "fetchedAt": "2025-11-02T14:07:23.734Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Nexperia allowed to resume exports from China following Trump-Xi talks — companies may seek exemptions from the Ministry of Commerce to restart international deliveries",
+      "description": "International automakers can now apply for licenses to resume chip deliveries from Nexperia China.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nexperia-allowed-to-resume-exports-from-china-following-trump-xi-talks-companies-may-seek-exemptions-from-the-ministry-of-commerce-to-restart-international-deliveries",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2uDHpkJthdNoUjCTVPbm59-2560-80.jpg",
+      "publishedAt": "2025-11-01T13:52:54Z",
+      "content": "Beijing has just allowed companies to apply for exemptions from its Nexperia export ban, allowing those relying on its chips to resume orders finally. China previously banned exports from the company… [+3077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "I'm a Japanese nutritionist and I'm 'obsessed' with fruit—I eat these 5 for longevity and brain health",
+      "description": "Michiko Tomioka is a nutritionist from Japan, home to some of the world's longest-living people. She shares the five fruits she eats every day to support gut and brain health, immunity, and overall well-being.",
+      "url": "https://www.cnbc.com/2025/11/01/japanese-nutritionist-5-fruits-i-eat-every-day-for-longevity-and-brain-health.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219540-1761846489783-GettyImages-648500832.jpg?v=1761846542&w=1920&h=1080",
+      "publishedAt": "2025-11-01T13:37:06Z",
+      "content": "I grew up in Nara, Japan, surrounded by fruit trees, farms, and generous neighbors who would bring us baskets of freshly picked strawberries, watermelons, persimmons, figs, and pretty much anything t… [+5375 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/06/20/copilot.jpg",
       "publishedAt": "2025-10-30T19:15:58Z",
       "content": "Just when you thought Microsoft had run out of Windows apps to stuff with Copilot, it's cramming the AI into your taskbar companions - People, Files, and Calendar are next.\r\nThe Microsoft 365 compani… [+2521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Google parent company spending like a drunken sailor as capex triples over 2 years",
-      "description": "Microsoft also ramping up spending, but investors concerned about overshooting demand\nAlphabet, Google's parent company, expects capital expenditures to hit $93 billion in 2025, largely to meet demand from cloud customers, according to its recent financial re…",
-      "url": "https://www.theregister.com/2025/10/30/alphabet_capex/",
-      "urlToImage": "https://regmedia.co.uk/2024/07/02/google_shutterstock.jpg",
-      "publishedAt": "2025-10-30T19:02:03Z",
-      "content": "Alphabet, Google's parent company, expects capital expenditures to hit $93 billion in 2025, largely to meet demand from cloud customers, according to its recent financial report.\r\nOn the back of resu… [+2565 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Proton trains new service to expose corporate infosec cover-ups",
-      "description": "Service will tell on compromised organizations, even if they didn't plan on doing so themselves\nSome orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big bre…",
-      "url": "https://www.theregister.com/2025/10/30/proton_data_breach_observatory/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_2659801557.jpg",
-      "publishedAt": "2025-10-30T18:44:40Z",
-      "content": "Some orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big breaches that might otherwise stay buri… [+4368 chars]"
     }
   ]
 }
