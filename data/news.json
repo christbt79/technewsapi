@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-02T10:36:43.198Z",
+  "fetchedAt": "2025-11-02T11:06:04.502Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "8 ways to help your teams build lasting responsible AI",
+      "description": "Make responsible AI part of system design and deployment, not an afterthought. Industry experts offer guidelines for building and managing responsible applications.",
+      "url": "https://www.zdnet.com/article/8-ways-to-help-your-teams-build-lasting-responsible-ai/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0b161868a0ed01eb060b00b7238dd83866c66e51/2025/10/31/a358d260-f6c3-4b2b-8c2f-6e037497a612/blackboxnetworkgettyimages-156642978.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T11:01:14Z",
+      "content": "virtualmage/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>IT, engineering, data, and AI teams now lead responsible A… [+8288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "Two Apple devices you really shouldn't buy this month (and 9 that are safe for now)",
+      "description": "Before you buy that shiny new Apple product, let's look at Apple's release plans. Plus, here's how you might be able to save money on the AirPods Pro 3.",
+      "url": "https://www.zdnet.com/article/two-apple-devices-you-really-shouldnt-buy-this-month-and-9-that-are-safe-for-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/cbcdf384f5430e0aa42f730ebc6ed4fed2404aee/2024/09/19/3fb11332-ba20-43ff-93a5-503c906b816d/apple-vision-pro-sep-2024-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-01T11:00:00Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>A new iPad Pro is in the pre-order stage with the launch on October 22.</li><li>MacBook Pro g… [+8266 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
       "publishedAt": "2025-10-30T17:22:32Z",
       "content": "A Honda sedan moves down the assembly line on Jan. 28, 2025 at the automaker's assembly plant in Marysville, Ohio. \r\nGlobal automakers are once again bracing for production disruptions due to a poten… [+6081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "Massive Azure outage is over, but problems linger - here's what happened",
-      "description": "Microsoft confirmed recovery late yesterday and is implementing rollback controls to prevent similar issues.",
-      "url": "https://www.zdnet.com/article/massive-azure-outage-is-over-but-problems-linger-heres-what-happened/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/555ac3c737ab86ecafa4491c922c73b13fd25a0d/2025/10/30/4f032850-d79d-4b92-a18a-ddaf429fcf4a/mssign5555gettyimages-2241942366.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T17:07:00Z",
-      "content": "picture alliance/Contributor/picture alliance via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft Azure experienced a global outage on Oc… [+7829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
-      "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T17:06:00Z",
-      "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
     }
   ]
 }
