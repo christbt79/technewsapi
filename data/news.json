@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T11:06:04.502Z",
+  "fetchedAt": "2025-11-02T11:31:17.047Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matthew Korfhage",
+      "title": "What to Do in Portland, Oregon If You're Here for Business (2025)",
+      "description": "Work, eat, and play like a local with this business traveler's guide. Discover Portland’s best hotels, coworking spaces, and hidden gems worth your time.",
+      "url": "https://www.wired.com/story/the-wired-guide-to-portland-for-business-travelers/",
+      "urlToImage": "https://media.wired.com/photos/6902f6a16c98c9bbcde1afcf/191:100/w_1280,c_limit/CITY%20GUIDE%20-%20Portland.png",
+      "publishedAt": "2025-11-01T11:08:00Z",
+      "content": "As a tech city, Portland often feels like a lifestyle destination for wayward engineers. Though nearly 10 percent of Portland works in tech, Stumptowns business scene can sometimes seem to be in hidi… [+8726 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/sEZgkWc5wMHXoc9PbowE4a-1920-80.jpg",
       "publishedAt": "2025-10-30T17:41:12Z",
       "content": "Intel's former CEO, Pat Gelsinger, has praised the news that Nvidia's latest Blackwell GPUs are now being produced at its Arizona facility. It's important, he said, for the most cutting-edge silicon … [+2897 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "A 'war room' mentality: How auto giants are battling the Nexperia chip crunch",
-      "description": "Global automakers are bracing for a potential shortage of automotive semiconductor chips sparked by geopolitical tensions between the U.S. and China.",
-      "url": "https://www.cnbc.com/2025/10/30/nexperia-auto-chip-shortage-china-honda-vw.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
-      "publishedAt": "2025-10-30T17:22:32Z",
-      "content": "A Honda sedan moves down the assembly line on Jan. 28, 2025 at the automaker's assembly plant in Marysville, Ohio. \r\nGlobal automakers are once again bracing for production disruptions due to a poten… [+6081 chars]"
     }
   ]
 }
