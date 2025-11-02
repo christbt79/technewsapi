@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T12:15:01.589Z",
+  "fetchedAt": "2025-11-02T12:55:49.778Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+      "title": "AMD’s latest Adrenalin driver update drops Windows 10 from release notes, but the company says support continues",
+      "description": "The company says Windows 10 users can still install the Adrenalin Edition 25.10.2 drivers via the Windows 11 installer, even as Microsoft’s older OS officially moves into end-of-life status.",
+      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-latest-adrenalin-driver-update-drops-windows-10-from-release-notes-but-the-company-says-support-continues",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iddck7uUbzHKsyUD9akjyT-2560-80.jpg",
+      "publishedAt": "2025-11-01T12:29:00Z",
+      "content": "AMD’s latest Adrenalin Edition 25.10.2 driver release has caused quite a stir among users, but the company has now issued important clarifications. While the update moves Radeon RX 5000 (RDNA 1) and … [+2700 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_2659801557.jpg",
       "publishedAt": "2025-10-30T18:44:40Z",
       "content": "Some orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big breaches that might otherwise stay buri… [+4368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "You can now give NotebookLM more instructions - here's why that's a game changer",
-      "description": "Google gave one of our favorite AI tools several upgrades - and they're available to everyone.",
-      "url": "https://www.zdnet.com/article/you-can-now-give-notebooklm-more-instructions-heres-why-thats-a-game-changer/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/1fdb82b443543bfa735ff274027de11ccaf9b540/2025/07/22/af3792a6-7a47-41a7-a166-9a5a2bd93fd9/notebooklm-use.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T18:31:13Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google upgraded NotebookLM's performance, key features, and security.</li><li>Users… [+2124 chars]"
     }
   ]
 }
