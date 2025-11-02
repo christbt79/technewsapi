@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T07:31:48.644Z",
+  "fetchedAt": "2025-11-02T08:10:45.746Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "VC who bet on billion-dollar AI firm shares two red flags that stop him investing in a founder",
+      "description": "\"If the first signs are just not there, I usually don't want to waste anyone's time,\" angel investor Carles Reina shared regarding meeting with founders.",
+      "url": "https://www.cnbc.com/2025/11/01/vc-who-backed-billion-dollar-ai-firm-shares-two-red-flags-in-founders-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219249-1761823683473-gettyimages-1815861478-dsc05991.jpeg?v=1761823701&w=1920&h=1080",
+      "publishedAt": "2025-11-01T08:10:30Z",
+      "content": "Man and woman having a small business meeting in smart casual clothes\r\nOne successful angel investor has revealed two red flags that prevent him from investing in a founder in the first meeting.\r\nCar… [+3121 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1229,9 +1242,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1242,9 +1255,9 @@
         "name": "ZDNet"
       },
       "author": "Omer Minkara",
-      "title": "Mastering the CX symphony in 2025: How to make AI play in tune",
+      "title": "Mastering the CX symphony in 2025: How to make AI play in tune, according to NiCE analysts",
       "description": "Inside NiCE Analyst Summit 2025: Organizations can deliver and scale exceptional customer experiences with AI, but automation only delivers full value when it's intelligently orchestrated.",
-      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune/",
+      "url": "https://www.zdnet.com/article/mastering-the-cx-symphony-in-2025-how-to-make-ai-play-in-tune-according-to-nice-analysts/",
       "urlToImage": "https://www.zdnet.com/a/img/resize/b303bd92454b5510ca94a582d9410fedd20a285d/2025/10/30/d7534b04-07c4-478c-826c-912951e9d1ef/gettyimages-aa037081.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:06:00Z",
       "content": "Kevin Jordan/Photodisc/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI is transforming customer experience across the enterprise.</li><li>CX ex… [+12173 chars]"
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Creative-OS.jpeg?resize=1200,675",
       "publishedAt": "2025-10-30T17:00:00Z",
       "content": "Creative suite company Canva launched its own design model on Thursday that understands different layers and formats today to power its features. The company also introduced new product forms, update… [+3110 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Affinity’s new design platform combines everything into one app",
-      "description": "After acquiring Serif last year, Canva is now relaunching its Adobe-rivalling Affinity creative suite as a new all-in-one app for photo editing, vector illustration, and page layouts. Unlike Affinity’s previous Designer, Photo, and Publisher software, which w…",
-      "url": "https://www.theverge.com/news/810251/canva-affinity-design-suite-free-app-relaunch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/B1_Affinity_PTK_Non-Destructive_Editing.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-30T16:58:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAnd Canva really, really wants you to know that its completely free.\r\nAnd Canva really, really wants you to know that its completely free.\r\nby\r\nJess WeatherbedCl… [+2778 chars]"
     }
   ]
 }
