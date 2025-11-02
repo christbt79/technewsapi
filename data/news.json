@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T16:09:03.966Z",
+  "fetchedAt": "2025-11-02T16:39:56.339Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Rising energy prices put AI and data centers in the crosshairs | TechCrunch",
+      "description": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
+      "url": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197370288.jpg?resize=1200,800",
+      "publishedAt": "2025-11-01T16:18:37Z",
+      "content": "As tech companies tout their plans for massive new data centers, consumers are increasingly worried the AI-driven gold rush will ultimately drive up the price they pay for electricity, according to a… [+2885 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108071277-1733330010508-gettyimages-2187566975-776246284_14.jpeg?v=1738787355&w=1920&h=1080",
       "publishedAt": "2025-10-30T20:14:15Z",
       "content": "Amazon said Thursday that revenue in its cloud computing business increased 20% in the third quarter, exceedinganalysts' estimates.\r\nRevenue at Amazon Web Services for the third quarter totaled $33 b… [+1595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "This simple Pixel update finally makes my Android calls as nice as iPhone's",
-      "description": "Android calls just got a major glow-up. Here's what Pixel users can try now.",
-      "url": "https://www.zdnet.com/article/this-simple-pixel-update-finally-makes-my-android-calls-as-nice-as-iphones/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4fc40658e02fdaca2fbe9e79bdcc027db7d2d397/2025/10/27/5af07d5d-a880-4bfd-8203-c479953ec9ab/pxl-20251027-175957838.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T19:54:05Z",
-      "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6815 chars]"
     }
   ]
 }
