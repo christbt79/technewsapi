@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-02T08:38:12.850Z",
+  "fetchedAt": "2025-11-02T09:08:28.646Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Trader’s guide to India’s data centre boom powered by Google, OpenAI",
+      "description": "The creation of an AI ecosystem offers a fresh opportunity to investors in India’s $5.4 trillion market, which has so far trailed this year’s global equities rally in part due to an absence of pure-play AI names like US chipmaker Nvidia Corp. and Chinese chip…",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-01/trader-s-guide-to-india-s-data-center-boom-powered-by-google-openai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/leypim/article70228988.ece/alternates/LANDSCAPE_1200/2025-10-14T192217Z_777146968_RC2LU7A7NF70_RTRMADP_3_OPENAI-CHATGPT-CONTENT.jpg",
+      "publishedAt": "2025-11-01T09:01:54Z",
+      "content": "As Alphabet Inc.s Google and other US tech behemoths pledge billions of dollars to build artificial intelligence infrastructure in India, investors are racing to identify local firms set to benefit f… [+4745 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/336ae173775679bfd24728776e8f2e2e98d3fa82/2025/10/30/04273705-3e42-480c-8d36-c39b7da8ea2c/gettyimages-1411959940.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-30T17:05:38Z",
       "content": "dem10/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Canva unveiled its Creative Operating System on Thursday.</li><l… [+5978 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "OpenAI unveils 'Aardvark,' a GPT-5-powered agent for autonomous cybersecurity research",
-      "description": "OpenAI said the new cybersecurity agent can identify, explain, and help fix vulnerabilities. Here's how it works.",
-      "url": "https://www.zdnet.com/article/openai-unveils-aardvark-a-gpt-5-powered-agent-for-autonomous-cybersecurity-research/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/285b3135bc42402adf30867f110e2826c7d72cd5/2025/10/30/5b7f80f4-48e6-4662-9aa5-2845fda8dc18/aardvark-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-30T17:00:31Z",
-      "content": "Elyse Betters Picaro/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI has launched Aardvark, a cybersecurity researcher agent. </li><li>Aardvark is … [+2813 chars]"
     }
   ]
 }
