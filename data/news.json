@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T05:39:53.632Z",
+  "fetchedAt": "2025-11-03T06:15:51.124Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Emerging market stocks rose every month this year for first time since 1993",
+      "description": "The MSCI Emerging Markets Index has rallied every month from January to October — a feat last seen in 1993 — and is up around 30% this year. On Friday, it fell 0.7% but closed out the month with a 4% gain",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-31/em-stocks-rise-every-month-this-year-first-time-since-1993",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/soou90/article70230191.ece/alternates/LANDSCAPE_1200/PO02_Gold_candle_chart.jpg",
+      "publishedAt": "2025-11-02T06:09:38Z",
+      "content": "The emerging-market equity benchmark gained for a 10th consecutive month in October, as an artificial-intelligence boom and a weaker dollar drive capital inflows.\r\nThe MSCI Emerging Markets Index has… [+2332 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
       "publishedAt": "2025-10-30T21:13:49Z",
       "content": "Semiconductor giant Nvidia is reportedly looking to make a sizable investment in AI software development platform Poolside.\r\nNvidia is looking to invest at least $500 million, and up to $1 billion, i… [+924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Claude code will send your data to crims ... if they ask it nicely",
-      "description": "Company tells users concerned about exfiltration to 'stop it if you see it'\nA researcher has found a way to trick Anthropic's Claude into uploading private data to an attacker's account using indirect prompt injection. Anthropic says it has already documented…",
-      "url": "https://www.theregister.com/2025/10/30/anthropics_claude_private_data/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_2568495377.jpg",
-      "publishedAt": "2025-10-30T21:00:19Z",
-      "content": "A researcher has found a way to trick Claude into uploading private data to an attacker's account using indirect prompt injection. Anthropic says it has already documented the risk, and its foolproof… [+5607 chars]"
     }
   ]
 }
