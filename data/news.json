@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T21:08:30.395Z",
+  "fetchedAt": "2025-11-03T21:34:04.416Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation | TechCrunch",
+      "description": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
+      "url": "https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-backdrop-Google-IO.png?w=947",
+      "publishedAt": "2025-11-02T21:14:06Z",
+      "content": "Google says it has removed Gemma from its AI Studio after a U.S. senator accused the AI model of fabricating accusations of sexual misconduct against her.\r\nIn a letter to Google CEO Sundar Pichai, Se… [+2616 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/186e0a99ea45132375900f5c7c0a805c9bd0051d/2025/10/27/786099c5-c7e0-468c-93bb-128496ed5a60/pxl-20251027-164507986-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-31T10:57:00Z",
       "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6835 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Liam Proven",
-      "title": "Linux vendors are getting into Ubuntu – and Snap",
-      "description": "Ubuntu's much-maligned format may be finally reaching critical mass\nUbuntu Summit More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages.…",
-      "url": "https://www.theregister.com/2025/10/31/linux_vendors_getting_into_snap/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_46277122.jpg",
-      "publishedAt": "2025-10-31T10:45:10Z",
-      "content": "Ubuntu Summit More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages.\r\nAside from relatively closed platforms such as C… [+4862 chars]"
     }
   ]
 }
