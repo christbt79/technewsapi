@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-03T15:39:59.449Z",
+  "fetchedAt": "2025-11-03T16:11:27.613Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft AI chief says only biological beings can be conscious",
+      "description": "Mustafa Suleyman has become one of the most influential voices in tech to come out against building seemingly conscious AI.",
+      "url": "https://www.cnbc.com/2025/11/02/microsoft-ai-chief-mustafa-suleyman-only-biological-beings-can-be-conscious.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107360187-1705498131263-1J7A0183.JPG?v=1710865691&w=1920&h=1080",
+      "publishedAt": "2025-11-02T15:49:05Z",
+      "content": "Mustafa Suleyman, CEO of Microsoft AI, speaks at an event commemorating the 50th anniversary of the company at Microsoft headquarters in Redmond, Washington, on April 4, 2025.\r\nMicrosoft AI chief Mus… [+6644 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "China tweets satellite photos of Taiwan's critical Hsinchu chip hub in pressure-ratcheting political stunt — 'where all the world’s advanced foundry IP is created,' highest concentration of chipmaking facilities in the world",
+      "description": "A Chinese embassy post highlighting Hsinchu Science Park underscores rising geopolitical risks to the world’s most advanced chip supply.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-posts-photo-of-taiwans-chip-hub-in-political-message",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GQtcCsy8rJJhSTwCjj2m6k-1269-80.jpg",
+      "publishedAt": "2025-11-02T15:46:04Z",
+      "content": "On Friday night, China’s embassy in Washington posted a familiar message to X: “There is but one China in the world.” But this time, the predictable rhetoric from China came with a glossy photo carou… [+3306 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/00838bcf8799f051608ddd221ac340307ce25dce/2025/10/30/33c2aff4-10ae-42a1-bfa8-d0a791d481ef/bluechairs5555gettyimages-90677692.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-31T07:00:31Z",
       "content": "travellinglight/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Per-seat software licenses may soon be obsolete.</li><… [+6231 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Ghosts of gains past for markets this Halloween",
-      "description": "Investors were spooked by some Big Tech capex plans, with all three major indexes falling Thursday.",
-      "url": "https://www.cnbc.com/2025/10/31/cnbc-daily-open-ghosts-of-gains-past-for-markets-this-halloween.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219820-1761889605610-gettyimages-2243685676-AFP_82KL4WK.jpeg?v=1761889617&w=1920&h=1080",
-      "publishedAt": "2025-10-31T06:31:00Z",
-      "content": "U.S. President Donald Trump and First Lady Melania Trump host a Halloween event at the White House in Washington, DC, on Oct. 30, 2025.\r\nAs Halloween looms, Wall Street is balancing tricks and treats… [+3325 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Actor couldn’t understand why computer didn’t work when the curtain came down",
-      "description": "When tech support collides with Halloween, the results are scary\nOn Call Happy Halloween, dear reader! The Register wishes you a wonderfully scary day. To kick things off, we’ve twisted On Call, our weekly reader-contributed column about keeping computers ali…",
-      "url": "https://www.theregister.com/2025/10/31/on_call/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_pumpkinhead_halloween_using_computer.jpg",
-      "publishedAt": "2025-10-31T06:30:13Z",
-      "content": "On Call Happy Halloween, dear reader! The Register wishes you a wonderfully scary day. To kick things off, weve twisted On Call, our weekly reader-contributed column about keeping computers alive des… [+4394 chars]"
     }
   ]
 }
