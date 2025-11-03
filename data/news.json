@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T08:14:28.685Z",
+  "fetchedAt": "2025-11-03T08:46:10.690Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Fortytwo's decentralized AI has the answer to life, the universe, and everything",
+      "description": "No datacenters required\nFortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over centralized AI services.…",
+      "url": "https://www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/",
+      "urlToImage": "https://regmedia.co.uk/2017/03/21/hitchhiker.jpg",
+      "publishedAt": "2025-11-02T08:30:15Z",
+      "content": "Fortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over central… [+9761 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68fa99670f48aeee5d43d09b/191:100/w_1280,c_limit/Uncanny-Valley-AI-Psychosis-Business-1491212583.jpg",
       "publishedAt": "2025-10-30T21:27:08Z",
       "content": "Louise Matsakis: Oh God, you would not see me in the office for weeks if there was a bedbug infestation. How did they find out about this?\r\nZoë Schiffer: So basically, they received this email on Sun… [+1992 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Nvidia is reportedly investing up to $1 billion in Poolside  | TechCrunch",
-      "description": "Nvidia is an existing investor in the AI company and participated in it's $500 million Series A round in 2024.",
-      "url": "https://techcrunch.com/2025/10/30/nvidia-is-reportedly-investing-up-to-1-billion-in-poolside/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "publishedAt": "2025-10-30T21:13:49Z",
-      "content": "Semiconductor giant Nvidia is reportedly looking to make a sizable investment in AI software development platform Poolside.\r\nNvidia is looking to invest at least $500 million, and up to $1 billion, i… [+924 chars]"
     }
   ]
 }
