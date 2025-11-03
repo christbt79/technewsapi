@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T14:41:09.478Z",
+  "fetchedAt": "2025-11-03T15:10:06.023Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "While SNAP battle leaves Americans fearing hunger, near $400 billion in food wasted every year",
+      "description": "As the political battle over SNAP benefits leave millions of Americans fearing hunger, the U.S. is wasting an estimated $382 billion a year in food.",
+      "url": "https://www.cnbc.com/2025/11/02/snap-benefits-hunger-in-america-us-food-waste.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220132-1761932350301-gettyimages-2243832297-US_GOV_FUNDING.jpeg?v=1761932392&w=1920&h=1080",
+      "publishedAt": "2025-11-02T15:03:42Z",
+      "content": "Millions of Americans are living in fear that they will go hungry due to potential delays in SNAP food assistance benefit payments, even after a federal judge ordered the Trump administration to make… [+7117 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218542-1761747041057-gettyimages-2243417409-NVIDIA_AI_KEYNOTE.jpeg?v=1761747105&w=1920&h=1080",
       "publishedAt": "2025-10-31T06:00:01Z",
       "content": "Korean semiconductor giant Samsung said on Thursday that it plans to buy and deploy a cluster of 50,000 Nvidia graphic processing units to improve its chip manufacturing for mobile devices and robots… [+2208 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Intel in talks to acquire AI chip startup SambaNova",
-      "description": "Intel is discussing the terms of an acquisition with SambaNova, which has been working with bankers to gauge interest from potential suitors, the people said",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-30/intel-in-talks-to-acquire-ai-chip-startup-sambanova",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/xvf0mi/article70224188.ece/alternates/LANDSCAPE_1200/2025-10-23T163654Z_783588248_RC2LEGASZP2E_RTRMADP_3_INTEL-RESULTS.JPG",
-      "publishedAt": "2025-10-31T03:57:30Z",
-      "content": "Intel Corp. is in preliminary talks to buy artificial intelligence chip startup SambaNova Systems Inc., according to people familiar with the matter.\r\nIntel is discussing the terms of an acquisition … [+2001 chars]"
     }
   ]
 }
