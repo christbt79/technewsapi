@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-03T12:18:28.341Z",
+  "fetchedAt": "2025-11-03T13:04:04.992Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Christian de Looper",
+      "title": "Samsung Galaxy Buds 3 Pro vs. Apple AirPods Pro 3: I compared both, and this one wins",
+      "description": "It's a battle of device ecosystems - but is one truly better? Here's my verdict.",
+      "url": "https://www.zdnet.com/article/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro-3-i-compared-both-and-this-one-wins/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3723d81dfb59c4ffc61a2c21021e571a98c29bfc/2025/09/22/a2bbdfbe-b230-41b9-ae86-8777e3b546b6/app3bsgal.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-02T12:30:35Z",
+      "content": "Christian de Looper/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe first-party advantage is real. \r\nThe most obvious example of why first-party products are worth considering is th… [+6347 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Microsoft CEO says the company doesn't have enough electricity to install all the AI GPUs in its inventory - 'you may actually have a bunch of chips sitting in inventory that I can’t plug in'",
+      "description": "Microsoft CEO Satya Nadella said in an interview that he has some AI chips in inventory that he cannot use because he has nowhere to plug them in.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-ceo-says-the-company-doesnt-have-enough-electricity-to-install-all-the-ai-gpus-in-its-inventory-you-may-actually-have-a-bunch-of-chips-sitting-in-inventory-that-i-cant-plug-in",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rMNVD2T8rNc2h7zBikky7G-1920-80.jpg",
+      "publishedAt": "2025-11-02T12:20:00Z",
+      "content": "Microsoft CEO Satya Nadella said during an interview alongside OpenAI CEO Sam Altman that the problem in the AI industry is not an excess supply of compute, but rather a lack of power to accommodate … [+3228 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196778-1757507590799-gettyimages-2234563479-_73a3022_jnkqswz6.jpeg?v=1761864974&w=1920&h=1080",
       "publishedAt": "2025-10-30T23:37:36Z",
       "content": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.\r\nInstead of simply buying as many AI c… [+3585 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Reddit CEO on data scraping lawsuits against AI companies: 'We see both sides of this'",
-      "description": "Reddit CEO Steve Huffman addressed recent lawsuits his company has brought against AI outfits.",
-      "url": "https://www.cnbc.com/2025/10/30/reddit-ceo-ai-lawsuits-data-scraping.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108050953-1729604494513-gettyimages-2179195394-AFP_36KE63D.jpeg?v=1761848823&w=1920&h=1080",
-      "publishedAt": "2025-10-30T22:29:40Z",
-      "content": "In a Thursday interview with CNBC's Jim Cramer, Reddit CEO Steve Huffman suggested he understands the opposition's point of view in lawsuits the company has filed against Perplexity and Anthropic, al… [+1327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Tech stocks' Thursday declines might not last long, Jim Cramer says",
-      "description": "CNBC's Jim Cramer unpacked Thursday's market action.",
-      "url": "https://www.cnbc.com/2025/10/30/tech-stocks-thursday-declines-might-not-last-long-jim-cramer-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349568-1579719779301img_3380r.jpg?v=1693521799&w=1920&h=1080",
-      "publishedAt": "2025-10-30T22:28:55Z",
-      "content": "CNBC's Jim Cramer unpacked Thursday's market action, saying that even though tech stocks took a hit, they might not stay down for long, praising recent quarters from Apple and Amazon.\r\n\"After Apple's… [+2247 chars]"
     }
   ]
 }
