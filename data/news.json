@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-03T14:09:49.229Z",
+  "fetchedAt": "2025-11-03T14:41:09.478Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "What keeps Ella Emhoff motivated during tumultuous times: 'Small changes impact big change'",
+      "description": "Ella Emhoff on staying politically active, mental health, and the best advice former Vice President Kamala Harris gave her.",
+      "url": "https://www.cnbc.com/2025/11/02/what-keeps-ella-emhoff-motivated-during-tumultuous-times.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219615-1761852934344-gettyimages-2242725956-sc1_4563_35dptu0b.jpeg?v=1761853000&w=1920&h=1080",
+      "publishedAt": "2025-11-02T14:30:01Z",
+      "content": "With politics among the biggest stressors for Americans, and the political gender gap growing among young people, it can be hard to stay motivated when divisions feel more contentious than ever.\r\nFew… [+3512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "I've studied over 200 kids—these 7 'magic phrases' can calm any tantrum instantly",
+      "description": "Calming down your kid during a tantrum can feel impossible. Reem Raouda, a child psychologist who has studied over 200 kids, shares the \"magic phrases\" that will instantly stop a meltdown.",
+      "url": "https://www.cnbc.com/2025/11/02/ive-studied-over-200-kidsthese-7-magic-phrases-can-calm-any-tantrum-instantly.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219563-1761848790870-GettyImages-1311549168.jpg?v=1761848832&w=1920&h=1080",
+      "publishedAt": "2025-11-02T14:28:29Z",
+      "content": "When your kid is in the middle of a tantrum, logic and lectures don't work.\r\nI've studied over 200 kids and worked with hundreds of families, and one thing is clear: Tantrums aren't about defiance. R… [+4330 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/xvf0mi/article70224188.ece/alternates/LANDSCAPE_1200/2025-10-23T163654Z_783588248_RC2LEGASZP2E_RTRMADP_3_INTEL-RESULTS.JPG",
       "publishedAt": "2025-10-31T03:57:30Z",
       "content": "Intel Corp. is in preliminary talks to buy artificial intelligence chip startup SambaNova Systems Inc., according to people familiar with the matter.\r\nIntel is discussing the terms of an acquisition … [+2001 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Trick or treat for markets this Halloween?",
-      "description": "Investors were spooked by some Big Tech capex plans, with all three major indexes falling Thursday.",
-      "url": "https://www.cnbc.com/2025/10/31/cnbc-daily-open-trick-or-treat-for-markets-this-halloween.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219752-1761872158980-gettyimages-2244113118-vcg111600777407.jpeg?v=1761872168&w=1920&h=1080",
-      "publishedAt": "2025-10-31T01:18:51Z",
-      "content": "As we head into Halloween, Wall Street appears to be facing a mix of tricks and treats. \r\nInvestors were spooked by some Big Tech capex plans, with all three major indexes falling Thursday. Meta stoc… [+2934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Amazon juggernaut continues hauling in more cash despite recent bad news",
-      "description": "The spending will continue until AI revenue improves\nDespite a trickle of bad news from Amazon in recent weeks, the company's business is thrumming along, with AWS leading the way.…",
-      "url": "https://www.theregister.com/2025/10/31/amazon_earnings_q3_25/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/11/jassy_shutterstock.jpg",
-      "publishedAt": "2025-10-31T00:06:11Z",
-      "content": "Despite a trickle of bad news from Amazon in recent weeks, the company's business is thrumming along, with AWS leading the way.\r\nAmazon reported earnings for its third quarter on Thursday and investo… [+3377 chars]"
     }
   ]
 }
