@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T11:31:49.679Z",
+  "fetchedAt": "2025-11-03T12:18:28.341Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "GPU overclocker uses chilled car antifreeze and pond pump to push Intel card to sub-zero temps, sets world record — 'TrashBench' sets GPU benchmark record at -17C, gains 16% more performance",
+      "description": "TrashBench manages to break the 3DMark Time Spy performance record using a water pump and a 50/50 glycol mix.",
+      "url": "https://www.tomshardware.com/pc-components/overclocking/gpu-overclocker-uses-car-coolant-and-pond-pump-to-cool-intel-arc-b580-achieves-17c-temperature-16-percent-performance-uplift-and-gpu-benchmark-record",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZbWzHT4YhngmgztdRHx43-1920-80.jpg",
+      "publishedAt": "2025-11-02T12:00:00Z",
+      "content": "GPU overclocker TrashBench set a world overclocking record on an Intel Arc B580 GPU with a relatively simple setup. Instead of employing exotic solutions like liquid nitrogen, used by other overclock… [+2459 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106349568-1579719779301img_3380r.jpg?v=1693521799&w=1920&h=1080",
       "publishedAt": "2025-10-30T22:28:55Z",
       "content": "CNBC's Jim Cramer unpacked Thursday's market action, saying that even though tech stocks took a hit, they might not stay down for long, praising recent quarters from Apple and Amazon.\r\n\"After Apple's… [+2247 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Navan IPO tumbles 20% after historic debut under SEC shutdown workaround",
-      "description": "Navan finished its first day trading at an approximate valuation of $4.7 billion, which is about half of its last private valuation of $9.2 billion.",
-      "url": "https://techcrunch.com/2025/10/30/navan-ipo-tumbles-20-after-historic-debut-under-sec-shutdown-workaround/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
-      "publishedAt": "2025-10-30T21:41:40Z",
-      "content": "Navan, the corporate travel and expense platform, finished its first day of trading on the Nasdaq on Thursday down 20% from its $25 IPO price, resulting in a valuation of approximately $4.7 billion f… [+2346 chars]"
     }
   ]
 }
