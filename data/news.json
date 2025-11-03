@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T17:08:47.676Z",
+  "fetchedAt": "2025-11-03T17:37:34.678Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Sam Altman says ‘enough’ to questions about OpenAI’s revenue | TechCrunch",
+      "description": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments.",
+      "url": "https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
+      "publishedAt": "2025-11-02T17:16:58Z",
+      "content": "OpenAI CEO Sam Altman recently said that the company is doing well more than $13 billion in annual revenue and he sounded a little testy when pressed on how it will pay for its massive spending commi… [+2504 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_46277122.jpg",
       "publishedAt": "2025-10-31T10:45:10Z",
       "content": "Ubuntu Summit More than one Linux-adjacent vendor presented at the Ubuntu Summit, and a small but recurring theme is offering official Snap packages.\r\nAside from relatively closed platforms such as C… [+4862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kayla Solino",
-      "title": "This niche wellness gadget stops my headaches in their tracks - here's how I use it",
-      "description": "The Renpho Eyeris 2 Massager helps alleviate my headaches and tired eyes, and I can stream music with it too.",
-      "url": "https://www.zdnet.com/article/this-niche-wellness-gadget-stops-my-headaches-in-their-tracks-heres-how-i-use-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/19f77c6e68bc79277d837a674545b3d2af5a175d/2025/10/30/d4ef89e7-b8a2-4eb9-a0aa-a9248bd6e723/rotated-1761849850-img-2868-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T10:30:32Z",
-      "content": "Kayla Solino/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nI spend a lot of time on the computer. \r\nI work remotely, and as ZDNET's deals and shopping editor, I often work a decent am… [+5031 chars]"
     }
   ]
 }
