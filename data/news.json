@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-03T11:08:03.540Z",
+  "fetchedAt": "2025-11-03T11:31:49.679Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Researchers create superconducting germanium semiconductor material using standard chip fabrication techniques - prototype demonstrates millions of superconducting junctions on a 2-inch wafer",
+      "description": "Researchers at NYU and the University of Queensland have demonstrated superconductivity in gallium-doped epitaxial germanium, fabricated using industry-standard semiconductor tools.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/researchers-create-superconductive-germanium-using-standard-chip-fabrication-techniques",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuWmSkJXyBs7iM5nTHRAza-1459-80.png",
+      "publishedAt": "2025-11-02T11:30:00Z",
+      "content": "Researchers at NYU and the University of Queensland have demonstrated superconductivity in gallium-doped epitaxial germanium, fabricated using industry-standard semiconductor tools. The new material … [+2623 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boone Ashworth",
+      "title": "Ray-Ban Meta Gen 2 Review: Upgraded Glasses, Bad Vibes",
+      "description": "Meta's new display-less smart glasses are quite good, but the vibes are off.",
+      "url": "https://www.wired.com/review/ray-ban-meta-gen-2-glasses/",
+      "urlToImage": "https://media.wired.com/photos/6906870d7b005df85cad76e5/191:100/w_1280,c_limit/Review-%20Ray-Ban%20Meta%20Gen%202.png",
+      "publishedAt": "2025-11-02T11:30:00Z",
+      "content": "As I wore them on one of my walks through San Francisco, on the shore of Ocean Beach, I came upon a dolphin-like fish that had washed up on the sand. Though I got my camera glasses close enough to th… [+1555 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -312,6 +338,19 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/102079128-1539342565979105501689.jpg?v=1698448473&w=1920&h=1080",
       "publishedAt": "2025-10-31T22:56:00Z",
       "content": "SoundHound AI: \"That's a pure spec...It's got to make money before I can get seriously behind it.\"\r\nNextracker: \"This company is a tremendous company...I'd like to have it cool off a little bit, but … [+184 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Vox Staff",
+      "title": "Welcome to the November issue of The Highlight",
+      "description": "AI is improving at what feels like a breakneck pace. Once, it struggled with basic syntax; now, it can ace some college-level coursework. The better it gets, the more reason there is to worry about what it could soon mean for all of our jobs — and whether con…",
+      "url": "https://www.vox.com/the-highlight/467014/welcome-to-the-november-issue-of-the-highlight",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/NovemberHighlight_LandingPage_10-30.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-31T21:58:39Z",
+      "content": "AI is improving at what feels like a breakneck pace. Once, it struggled with basic syntax; now, it can ace some college-level coursework. The better it gets, the more reason there is to worry about w… [+958 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
       "publishedAt": "2025-10-30T21:41:40Z",
       "content": "Navan, the corporate travel and expense platform, finished its first day of trading on the Nasdaq on Thursday down 20% from its $25 IPO price, resulting in a valuation of approximately $4.7 billion f… [+2346 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Tim Cook says more AIs are coming to Apple Intelligence",
-      "description": "Tim Cook says Apple has plans to embed more third-party AI tools into the company’s operating systems. “Our intention is to integrate with more people over time,” Cook said in an interview with CNBC. Apple has already embedded ChatGPT into Siri, with a Google…",
-      "url": "https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC01507.webp?quality=90&strip=all&crop=0%2C11.017233631299%2C100%2C77.965532737402&w=1200",
-      "publishedAt": "2025-10-30T21:32:44Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple is planning to integrate with more companies over time, according to Cook.\r\nApple is planning to integrate with more companies over time, according to Cook… [+3336 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Shayna Korol",
-      "title": "The challenge of creating brains in a lab",
-      "description": "They’re growing miniature 3D brains from stem cells. These aren’t your fictional mad scientists’ brains in a vat; they’re organoids, and they grow in petri dishes. They’re also incredibly cool.  We can, should, and will use cerebral organoids to discover new …",
-      "url": "https://www.vox.com/future-perfect/466758/brain-organoids-lab-grown-conciousness-ai",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2241095077.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-      "publishedAt": "2025-10-30T21:30:32Z",
-      "content": "A screen showing human brain cells is photographed at the Swiss start-up FinalSpark in Vevey, on October 3, 2025. Inside a lab in the picturesque Swiss city of Vevey, a scientist feeds tiny clumps of… [+5398 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Zoë Schiffer, Louise Matsakis",
-      "title": "WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs",
-      "description": "In this episode of ‘Uncanny Valley,’ we run through the top stories of the week and look closely at complaints to the FTC alleging that ChatGPT led them or loved ones into AI psychosis.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/",
-      "urlToImage": "https://media.wired.com/photos/68fa99670f48aeee5d43d09b/191:100/w_1280,c_limit/Uncanny-Valley-AI-Psychosis-Business-1491212583.jpg",
-      "publishedAt": "2025-10-30T21:27:08Z",
-      "content": "Louise Matsakis: Oh God, you would not see me in the office for weeks if there was a bedbug infestation. How did they find out about this?\r\nZoë Schiffer: So basically, they received this email on Sun… [+1992 chars]"
     }
   ]
 }
