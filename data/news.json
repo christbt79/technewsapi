@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T13:04:04.992Z",
+  "fetchedAt": "2025-11-03T13:44:30.410Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Top Wall Street analysts suggest these 3 dividend stocks for enhanced total returns",
+      "description": "TipRanks' ranking service highlights three dividend-paying stocks, including Valero Energy and Albertsons Companies.",
+      "url": "https://www.cnbc.com/2025/11/02/top-wall-street-analysts-suggest-these-3-dividend-stocks-for-enhanced-total-returns-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104705823-GettyImages-839005266-valero.jpg?v=1761909539&w=1920&h=1080",
+      "publishedAt": "2025-11-02T13:19:33Z",
+      "content": "The Valero Energy refinery in Texas City, Texas.\r\nThe focus on dividend stocks is growing, as the U.S. Federal Reserve announced another rate cut. Investors can consider stocks that offer dividends a… [+6571 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/04/11/jassy_shutterstock.jpg",
       "publishedAt": "2025-10-31T00:06:11Z",
       "content": "Despite a trickle of bad news from Amazon in recent weeks, the company's business is thrumming along, with AWS leading the way.\r\nAmazon reported earnings for its third quarter on Thursday and investo… [+3377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Apple isn't playing the same AI capex game as the rest of the megacaps",
-      "description": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.",
-      "url": "https://www.cnbc.com/2025/10/30/apple-isnt-playing-the-same-ai-capex-game-as-the-rest-of-the-megacaps.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108196778-1757507590799-gettyimages-2234563479-_73a3022_jnkqswz6.jpeg?v=1761864974&w=1920&h=1080",
-      "publishedAt": "2025-10-30T23:37:36Z",
-      "content": "While many of the largest tech companies race to build massive data centers for their artificial intelligence ambitions, Apple is taking a more modest approach.\r\nInstead of simply buying as many AI c… [+3585 chars]"
     }
   ]
 }
