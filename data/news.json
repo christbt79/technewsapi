@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T22:38:23.385Z",
+  "fetchedAt": "2025-11-03T23:08:40.262Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Fred Imbert",
+      "title": "Stock market today: Live updates",
+      "description": "Stock futures were little changed on Sunday night, as a new month of trading begins.",
+      "url": "https://www.cnbc.com/2025/11/02/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200189-17581349282025-09-17t184531z_2044740987_rc2utga0l43x_rtrmadp_0_usa-stocks.jpeg?v=1758300143&w=1920&h=1080",
+      "publishedAt": "2025-11-02T23:04:37Z",
+      "content": "Stock futures were little changed on Sunday night, as a new month of trading begins.\r\nS&amp;P 500 futures ticked higher by 0.1% along with Nasdaq-100 futures. Dow Jones Industrial Average futures adv… [+1583 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939746.jpg?quality=90&strip=all&crop=0%2C10.73009041629%2C100%2C78.53981916742&w=1200",
       "publishedAt": "2025-10-31T11:16:01Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nMore monetization is on the way, including cuts to free AI video allowances.\r\nMore monetization is on the way, including cuts to free AI video allowances.\r\nby\r\nR… [+3245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "The Pixel phone update that Android fans can be proud of - and how it beats iOS 26",
-      "description": "Android calls just got a major glow-up. Here's what Pixel users can try now.",
-      "url": "https://www.zdnet.com/article/the-pixel-phone-update-that-android-fans-can-be-proud-of-and-how-it-beats-ios-26/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/186e0a99ea45132375900f5c7c0a805c9bd0051d/2025/10/27/786099c5-c7e0-468c-93bb-128496ed5a60/pxl-20251027-164507986-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T10:57:00Z",
-      "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6835 chars]"
     }
   ]
 }
