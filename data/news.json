@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T16:44:11.936Z",
+  "fetchedAt": "2025-11-03T17:08:47.676Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025 | TechCrunch",
+      "description": "TechCrunch Mobility: Everything said on, and off, the stage at TechCrunch Disrupt 2025 | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/02/techcrunch-mobility-everything-said-on-and-off-the-stage-at-techcrunch-disrupt-2025/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/tekedra-many_views-disrupt.jpg?resize=1200,801",
+      "publishedAt": "2025-11-02T17:06:29Z",
+      "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nWere mixi… [+6830 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/19f77c6e68bc79277d837a674545b3d2af5a175d/2025/10/30/d4ef89e7-b8a2-4eb9-a0aa-a9248bd6e723/rotated-1761849850-img-2868-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-31T10:30:32Z",
       "content": "Kayla Solino/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nI spend a lot of time on the computer. \r\nI work remotely, and as ZDNET's deals and shopping editor, I often work a decent am… [+5031 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia CEO Jensen Huang says AI is in a 'virtuous cycle.' Here's what he means",
-      "description": "\"The virtual cycle of AI has been designed, and this is ... the reason why you're seeing the world's capex going so fast,\" Nvidia CEO Jensen Huang said.",
-      "url": "https://www.cnbc.com/2025/10/31/nvidia-ceo-jensen-huang-says-ai-has-reached-a-virtuous-cycle.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217998-1761671175464-gettyimages-2243377473-AFP_82AU2UC.jpeg?v=1761894262&w=1920&h=1080",
-      "publishedAt": "2025-10-31T09:53:52Z",
-      "content": "Nvidia CEO Jensen Huang said on Friday that artificial intelligence had reached a \"virtuous cycle,\" tipping the industry for continuous growth.\r\nSpeaking at the APEC CEO Summit in South Korea, Huang … [+3290 chars]"
     }
   ]
 }
