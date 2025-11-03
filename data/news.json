@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-03T15:10:06.023Z",
+  "fetchedAt": "2025-11-03T15:39:59.449Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "GPU surgeon attempts to rescue fatally-bent RTX 4090 that came in for a melted power connector fix — autopsy reveals shorted MOSFET that killed the GPU core",
+      "description": "It's not often we see a graphics card that is almost completely fried across the board. That's what happened with this poor RTX 4090 whose 12V rail leaked into the memory, frying the VRAM and travelling to the core in the process, killing the GPU for good. No…",
+      "url": "https://www.tomshardware.com/pc-components/gpus/gpu-surgeon-attempts-to-rescue-fatally-bent-rtx-4090-that-came-in-for-a-melted-power-connector-fix-autopsy-reveals-shorted-mosfet-that-killed-the-gpu-core-rare-failed-repair-attempt-from-skilled-technician",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZJtvMY5GSt5TMSXKRNiu9-1920-80.png",
+      "publishedAt": "2025-11-02T15:34:35Z",
+      "content": "Here's a bent-out-of-shape GPU repair that quickly turned from a curiosity into a horror story: A dead Aorus-branded Nvidia RTX 4090 card landed on the desk of Northwest Repair, originally reported t… [+3798 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_pumpkinhead_halloween_using_computer.jpg",
       "publishedAt": "2025-10-31T06:30:13Z",
       "content": "On Call Happy Halloween, dear reader! The Register wishes you a wonderfully scary day. To kick things off, weve twisted On Call, our weekly reader-contributed column about keeping computers alive des… [+4394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Samsung building facility with 50,000 Nvidia GPUs to automate chip manufacturing",
-      "description": "Samsung is the latest company to announce a deal with Nvidia, whose chips remain essential for building and deploying advanced artificial intelligence.",
-      "url": "https://www.cnbc.com/2025/10/31/samsung-nvidia-ai-chips-megafactory.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218542-1761747041057-gettyimages-2243417409-NVIDIA_AI_KEYNOTE.jpeg?v=1761747105&w=1920&h=1080",
-      "publishedAt": "2025-10-31T06:00:01Z",
-      "content": "Korean semiconductor giant Samsung said on Thursday that it plans to buy and deploy a cluster of 50,000 Nvidia graphic processing units to improve its chip manufacturing for mobile devices and robots… [+2208 chars]"
     }
   ]
 }
