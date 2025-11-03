@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-03T16:11:27.613Z",
+  "fetchedAt": "2025-11-03T16:44:11.936Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Elon Musk alleges Sam Altman 'stole a non-profit' as AI bros spat over cancelled Tesla Roadster order",
+      "description": "Sam Altman, the CEO of OpenAI, recently posted his Tesla Roadster order being mishandled on X — both of those latter companies are owned by Elon Musk, who replied with a casual \"you stole a non-profit\" statement. Altman was instrumental in the recent recapita…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-alleges-sam-altman-stole-a-non-profit-as-ai-bros-spat-over-cancelled-tesla-roadster-order",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9ywjRpaArKhPbXZ5T3zUdh-2560-80.jpg",
+      "publishedAt": "2025-11-02T16:41:38Z",
+      "content": "Yesterday, OpenAI CEO Sam Altman took to X — Elon Musk's platform — to post three screenshots telling a story about how his 2018 order for the next-gen Tesla Roadster was mishandled. Altman emailed t… [+4022 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Meta has an AI product problem  | TechCrunch",
+      "description": "Meta's AI spending is starting to make Wall Street nervous.",
+      "url": "https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+      "publishedAt": "2025-11-02T16:13:58Z",
+      "content": "In the midst of an unprecedented AI buildout, Meta is spending more than most. The company is building two massive data centers, and reporting indicates there will be as much as $600 billion in spend… [+5825 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
+      "title": "Developer warns users that fake download site is hosting Windows 11 upgrade bypass tool — Win 10 upgraders warned of potential malicious downloads",
+      "description": "Following Windows 10’s end-of-life, Flyoobe has grown in popularity for enabling safe Windows 11 upgrades on unsupported systems - but you must only download it via the official GitHub source.",
+      "url": "https://www.tomshardware.com/software/windows/developer-warns-users-that-fake-download-site-is-hosting-windows-11-upgrade-bypass-tool-win-10-upgraders-warned-of-potential-malicious-downloads",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ySimRFAV4FPfQqYuTyEg33-1920-80.jpg",
+      "publishedAt": "2025-11-02T16:12:21Z",
+      "content": "With Windows 10 reaching its end of life (EOL) last month, a free third-party tool called Flyoobe (which we have covered here) has been gaining popularity for enabling safe upgrades to Windows 11 on … [+2513 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217998-1761671175464-gettyimages-2243377473-AFP_82AU2UC.jpeg?v=1761894262&w=1920&h=1080",
       "publishedAt": "2025-10-31T09:53:52Z",
       "content": "Nvidia CEO Jensen Huang said on Friday that artificial intelligence had reached a \"virtuous cycle,\" tipping the industry for continuous growth.\r\nSpeaking at the APEC CEO Summit in South Korea, Huang … [+3290 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "SA Mathieson",
-      "title": "England's local government shake-up promises to be a massive tech headache",
-      "description": "Surrey to be divided into two new councils in first phase of countrywide reorg The UK government will replace Surrey County Council and its 11 borough and district councils with two new unitary councils, which will provide most local services to the area's 1.…",
-      "url": "https://www.theregister.com/2025/10/31/england_local_government_shakeup/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/30/shutterstock_surreyhills.jpg",
-      "publishedAt": "2025-10-31T09:15:11Z",
-      "content": "The UK government will replace Surrey County Council and its 11 borough and district councils with two new unitary councils, which will provide most local services to the area's 1.2 million residents… [+4008 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google to offer Gemini AI for free to over 500 million Jio users as global firms double down on India",
-      "description": "Global AI companies are stepping up efforts to gain users in India by offering free subscriptions",
-      "url": "https://www.cnbc.com/2025/10/31/google-gemini-ai-free-500-million-jio-relince-users-india-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219826-1761893545928-gettyimages-2243121604-raa-googleai251026_npy3E.jpeg?v=1761893569&w=1920&h=1080",
-      "publishedAt": "2025-10-31T08:02:53Z",
-      "content": "Google will offer its Gemini AI service for free to over 500 million Reliance Jio users in India, as global artificial intelligence firms double down on acquiring customers in the country.\r\nThe U.S. … [+2450 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "So long, SaaS: Why AI spells end of per-seat software licenses - and what comes next",
-      "description": "The AI surge is forcing application vendors to restructure how they deliver and charge for solutions. Software companies will need to sell outcomes, not licenses.",
-      "url": "https://www.zdnet.com/article/so-long-saas-why-ai-spells-end-of-per-seat-software-licenses-and-what-comes-next/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/00838bcf8799f051608ddd221ac340307ce25dce/2025/10/30/33c2aff4-10ae-42a1-bfa8-d0a791d481ef/bluechairs5555gettyimages-90677692.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T07:00:31Z",
-      "content": "travellinglight/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Per-seat software licenses may soon be obsolete.</li><… [+6231 chars]"
     }
   ]
 }
