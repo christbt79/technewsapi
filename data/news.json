@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T03:28:28.616Z",
+  "fetchedAt": "2025-11-04T03:52:34.299Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Nvidia is worth $5 trillion. Here’s what it means for the market",
+      "description": "Nvidia's historic $5 trillion valuation reshapes market dynamics, highlighting its dominance and influence in the AI-driven economy.",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-02/nvidia-is-worth-5-trillion-here-s-what-it-means-for-the-market",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/if7ahv/article70234835.ece/alternates/LANDSCAPE_1200/2023-09-08T115933Z_1848560545_RC2KOZ923906_RTRMADP_3_RELIANCE-NVIDIA.JPG",
+      "publishedAt": "2025-11-03T03:32:37Z",
+      "content": "Nvidia Corp made history last week when it became the first company ever to have a market value of $5 trillion. But thats just one way its casting a shadow over the global economy.\r\nThe chipmaker at … [+4948 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/d3dd48c7a75757d8398d839e5fd7b27a5ebfa8c4/2025/10/31/5cecc8b1-2cdd-4e01-90d8-ef55f0cdf955/gettyimages-2234176145.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-31T11:59:00Z",
       "content": "Andriy Onufriyenko/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey found many users prefer Gemini for creating images.</li><li>It dominate… [+4470 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "These QuietComfort Ultra headphones show Bose still does one thing better than Apple",
-      "description": "A bigger battery is great, but smarter power management is even better.",
-      "url": "https://www.zdnet.com/article/these-quietcomfort-ultra-headphones-show-bose-still-does-one-thing-better-than-apple/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/77698803d575ee4311996c27a64572c9e1f062aa/2025/10/10/27a7cb03-f31b-46ec-9356-cffd66f3af29/qcu2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T11:50:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been Bose's weaknesses. Its 2019 fl… [+4196 chars]"
     }
   ]
 }
