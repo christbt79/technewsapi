@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-04T09:40:08.431Z",
+  "fetchedAt": "2025-11-04T10:11:44.483Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Owen Hughes",
+      "title": "Students using ChatGPT beware: Real learning takes legwork, study finds",
+      "description": "Boffins say outsourcing your homework leaves you sounding less knowledgeable, short on facts\nA study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school: to be a subject matter expert, you've got to spend t…",
+      "url": "https://www.theregister.com/2025/11/03/chatgpt_real_understanding/",
+      "urlToImage": "https://regmedia.co.uk/2018/11/13/shutterstock_confused.jpg",
+      "publishedAt": "2025-11-03T10:00:11Z",
+      "content": "A study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school: to be a subject matter expert, you've got to spend time swotting up.\r\nMore than 10,00… [+4089 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "I tried a $400 Android phone that looks dull on paper, and I couldn't put it down",
+      "description": "The TCL Nxtpaper 60 Ultra redefines 'Ultra,' prioritizing eye comfort and stylus performance over raw power.",
+      "url": "https://www.zdnet.com/article/i-tried-a-400-android-phone-that-looks-dull-on-paper-and-i-couldnt-put-it-down/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/522be71b5f901bb25b5975fe1efa71adcfe34505/2025/09/20/6bcf1e5f-9085-4aa8-b4c2-4f51262b2bfa/pxl-20250911-201446397-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T09:47:27Z",
+      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7487 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "This tiny tester that tells me what USB cables actually work is my best investment yet",
+      "description": "The Treedix multifunction USB cable tester quickly identifies which cables still work and which ones belong in the recycling bin.",
+      "url": "https://www.zdnet.com/article/this-tiny-tester-that-tells-me-what-usb-cables-actually-work-is-my-best-investment-yet/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6fa8dd7be252462dd67e245bc5fa23b7fb400591/2025/10/28/c5381eae-b06f-4b95-a955-151de63c816a/img-0342.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T09:45:35Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're anything like me, you have a box or bag (or maybe several) of cables you plan to one day sort through. Or maybe you need a quick and e… [+2789 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/aQgwrv2xaP6bZqCPwTnLZb-2560-80.jpg",
       "publishedAt": "2025-10-31T13:00:00Z",
       "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.There’s storage, and… [+9493 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "God will be declared by a panel of experts",
-      "description": "What is AGI? We know it stands for Artificial General Intelligence. That's a good start. But what does AGI mean, really? And how do we know when we've achieved it? For that matter, who decides we've achieved it? Does the AGI decide? This week, as OpenAI compl…",
-      "url": "https://www.theverge.com/podcast/811156/openai-agi-microsoft-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/VRG_VST_1031_Site_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-31T12:47:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: OpenAIs hunt for AGI, Adobes creative AI onslaught, and broadband nutrition labels.\r\nOn The Vergecast: OpenAIs hunt for AGI, Adobes creative AI… [+3594 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia's Huang downplays concerns over selling AI chips to Beijing: It has 'plenty' of its own",
-      "description": "\"It's in the best interest of America to serve that China market. It's in the best interest of China to have the American technology,\" the Nvidia CEO said.",
-      "url": "https://www.cnbc.com/2025/10/31/nvidias-huang-doesnt-buy-the-national-security-concerns-over-selling-chips-to-china.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219929-1761912982853-gettyimages-2244288176-_r629420_copy_wqxkfhr0.jpeg?v=1761912998&w=1920&h=1080",
-      "publishedAt": "2025-10-31T12:44:08Z",
-      "content": "Nvidia CEO Jensen Huang listens to a reporter's question during a press conference at the APEC CEO summit on October 31, 2025 in Gyeongju, South Korea. \r\nNvidia CEO Jensen Huang doesn't buy the natio… [+3406 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "More retirement investors opting for 'good enough' stock portfolio strategy to protect their market money",
-      "description": "Retirees are in a tough spot needing stock market growth to fight inflation, but their personal finance plans can't stomach a major market correction.",
-      "url": "https://www.cnbc.com/2025/10/31/more-retirees-opting-for-good-enough-stock-strategy-to-protect-money.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106790381-1605030237440-gettyimages-1283629372-pi-2094384.jpeg?v=1761840062&w=1920&h=1080",
-      "publishedAt": "2025-10-31T12:30:01Z",
-      "content": "Retirees and investors near retirement are in a tough spot. They need growth from their stock market portfolio to fight inflation and rising health care costs, but another major market drop could lea… [+3631 chars]"
     }
   ]
 }
