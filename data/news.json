@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T23:08:52.032Z",
+  "fetchedAt": "2025-11-04T23:34:04.504Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Elad Gil on which AI markets have winners -- and which are still wide open | TechCrunch",
+      "description": "Elad Gil on which AI markets have winners -- and which are still wide open | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?resize=1200,800",
+      "publishedAt": "2025-11-03T23:14:12Z",
+      "content": "Solo VC investor extraordinaire Elad Gil said on stage at TechCrunch Disrupt that AI has been one of the least predictable tech booms hes ever seen. \r\nGil is on the cap table of virtually every hit c… [+3961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stock market today: Live updates",
+      "description": "Stock futures fell Tuesday, pressured by declines in artificial intelligence-related names.",
+      "url": "https://www.cnbc.com/2025/11/03/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220652-1762260198115-108220652-1762187355171-Traders-Photo-20251102-KK-PRESS-009-1.jpg?v=1762260218&w=1920&h=1080",
+      "publishedAt": "2025-11-03T23:13:00Z",
+      "content": "Stock futures fell Tuesday, pressured by declines in artificial intelligence-related names like Palantir as investors grow increasingly concerned about valuations in the bull market-leading shares.\r\n… [+3337 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuWmSkJXyBs7iM5nTHRAza-1459-80.png",
       "publishedAt": "2025-11-02T11:30:00Z",
       "content": "Researchers at NYU and the University of Queensland have demonstrated superconductivity in gallium-doped epitaxial germanium, fabricated using industry-standard semiconductor tools. The new material … [+2623 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Boone Ashworth",
-      "title": "Ray-Ban Meta Gen 2 Review: Upgraded Glasses, Bad Vibes",
-      "description": "Meta's new display-less smart glasses are quite good, but the vibes are off.",
-      "url": "https://www.wired.com/review/ray-ban-meta-gen-2-glasses/",
-      "urlToImage": "https://media.wired.com/photos/6906870d7b005df85cad76e5/191:100/w_1280,c_limit/Review-%20Ray-Ban%20Meta%20Gen%202.png",
-      "publishedAt": "2025-11-02T11:30:00Z",
-      "content": "As I wore them on one of my walks through San Francisco, on the shore of Ocean Beach, I came upon a dolphin-like fish that had washed up on the sand. Though I got my camera glasses close enough to th… [+1555 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Fortytwo's decentralized AI has the answer to life, the universe, and everything",
-      "description": "No datacenters required\nFortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over centralized AI services.…",
-      "url": "https://www.theregister.com/2025/11/02/fortytwo_dcentralized_ai/",
-      "urlToImage": "https://regmedia.co.uk/2017/03/21/hitchhiker.jpg",
-      "publishedAt": "2025-11-02T08:30:15Z",
-      "content": "Fortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over central… [+9761 chars]"
     }
   ]
 }
