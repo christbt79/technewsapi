@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T10:44:15.722Z",
+  "fetchedAt": "2025-11-04T11:08:30.682Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "The secret to a successful AI rollout? It's all about timing - and these 5 factors",
+      "description": "AI rollouts fail 95% of the time. Here's how to get yours right.",
+      "url": "https://www.zdnet.com/article/the-secret-to-a-successful-ai-rollout-its-all-about-timing-and-these-5-factors/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f440ab74fba23623c5298023530b3400ed86aa0e/2025/10/31/8c29eadc-f6fc-4f36-a9a2-a62d287e0ddb/gettyimages-1433912402.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T11:00:00Z",
+      "content": "PM Images / DigitalVision / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most AI projects get stuck at the starting gate.</li><li>Reaching the … [+7326 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Mary-Ann Russon",
+      "title": "The race to shore up Europe’s power grids against cyberattacks and sabotage",
+      "description": "Ukraine first to deploy open source security platform to isolate incidents, stop lateral movement Feature  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens…",
+      "url": "https://www.theregister.com/2025/11/03/europe_power_grid_security/",
+      "urlToImage": "https://regmedia.co.uk/2025/04/10/shutterstock_high_voltage.jpg",
+      "publishedAt": "2025-11-03T10:45:13Z",
+      "content": "Feature It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens of millions of people without electric… [+13178 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_2492993419.jpg",
       "publishedAt": "2025-10-31T13:28:57Z",
       "content": "Even the world's richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and support its ambition in A… [+3165 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Nexperia conflict spills overseas as it halts exports to China — German automotive manufacturers slow production due to semiconductor shortages from Dutch chipmaker",
-      "description": "The fallout of the Nexperia ownership scuffle between the Dutch government and Chinese business interests is spilling overseas, with German automotive parts suppliers slowly reducing production due to semiconductor shortages. Meanwhile, Nexperia's Dutch facil…",
-      "url": "https://www.tomshardware.com/tech-industry/nexperia-conflict-spills-overseas-as-it-halts-exports-to-china-german-automotive-manufacturers-slow-production-due-to-semiconductor-shortages-from-dutch-chipmaker",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QFRNMZoaEkYtnG5r3vfKok-1600-80.jpg",
-      "publishedAt": "2025-10-31T13:28:10Z",
-      "content": "The fallout from the scuffle between the Dutch government and Chinese business interests over the ownership of Dutch chip firm, Nexperia, is starting to impact supply chains elsewhere in the world. A… [+3141 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Perplexity’s new AI tool aims to simplify patent research",
-      "description": "Patents are notoriously difficult to search for, but Perplexity has launched an AI-powered tool that’s supposed to make the process a little easier. Its new patent research agent allows you to search for patents using natural language, rather than a string of…",
-      "url": "https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-31T13:23:18Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nInstead of searching for a string of keywords, Perplexitys new tool allows you to use natural language to look for patents.\r\nInstead of searching for a string of… [+2143 chars]"
     }
   ]
 }
