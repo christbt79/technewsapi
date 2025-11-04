@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T10:11:44.483Z",
+  "fetchedAt": "2025-11-04T10:44:15.722Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "Is that video AI? 6 tell-tale signs it's a deepfake",
+      "description": "Don't be fooled. Here's how you can spot AI videos.",
+      "url": "https://www.zdnet.com/article/is-that-video-ai-6-tell-tale-signs-its-a-deepfake/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e965c9a67d478a9abfcd6ea61141b936ac406635/2025/10/31/06619c2a-b633-494e-86c7-8a26136c9e45/6.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T10:12:57Z",
+      "content": "Last but not least, ask yourself if what you just watched seems even remotely possible or too funny, cute, or amazing to be real. It probably is, if that's the case. \r\nI remember last year, when thos… [+927 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-31T13:23:18Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nInstead of searching for a string of keywords, Perplexitys new tool allows you to use natural language to look for patents.\r\nInstead of searching for a string of… [+2143 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Shane Downing",
-      "title": "HighPoint RocketAIC 7608AW Review: The Fast Gets Even Faster with 56 GB/s of throughput",
-      "description": "The HighPoint RocketAIC 7608AW is a boundary-pusher when configured with 8x8TB Samsung 9100 Pro SSDs. It’s super fast, but the consumer application is limited.",
-      "url": "https://www.tomshardware.com/pc-components/ssds/highpoint-rocketaic-7608aw-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aQgwrv2xaP6bZqCPwTnLZb-2560-80.jpg",
-      "publishedAt": "2025-10-31T13:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.There’s storage, and… [+9493 chars]"
     }
   ]
 }
