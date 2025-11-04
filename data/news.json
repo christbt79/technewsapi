@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-04T12:19:09.935Z",
+  "fetchedAt": "2025-11-04T13:07:20.199Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Adriano Marchese",
+      "title": "IREN Secures $9.7 Billion Microsoft Contract",
+      "description": "IREN has signed a multi-year deal with Microsoft to use its cloud-based graphics processing services.",
+      "url": "https://www.wsj.com/tech/ai/iren-secures-9-7-billion-microsoft-contract-d8645080",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1HDyqWmUdc.8DA1AQOtR_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/db6c7dca1ef49e88c6c2fe29a4e90186",
+      "publishedAt": "2025-11-03T13:07:00Z",
+      "content": "IREN has signed a multi-year deal with Microsoft to use its cloud-based graphics processing services. - gonzalo fuentes/Reuters\r\nMicrosoft has secured new computing power capacity with a $9.7 billion… [+1719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia shares up 2% in premarket as U.S. approves sales of its chips to the UAE",
+      "description": "Microsoft's licenses enable the firm to ship Nvidia chips — involving its more advanced GB300 GPUs — to the United Arab Emirates.",
+      "url": "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186411-1755245023980-gettyimages-2228729615-vcg111582736767.jpeg?v=1762174089&w=1920&h=1080",
+      "publishedAt": "2025-11-03T12:46:47Z",
+      "content": "Microsoft said Monday it has secured export licenses to ship Nvidia chips to the United Arab Emirates in a move that could accelerate the Gulf's lofty AI ambitions.\r\nThe tech giant said it is the fir… [+767 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "November trading, Berkshire's cash hoard, Big Tech's ad revenue and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/11/03/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219418-1761837546035-gettyimages-2243611225-AFP_82J47WK.jpeg?v=1762131896&w=1920&h=1080",
+      "publishedAt": "2025-11-03T12:37:54Z",
+      "content": "A trader works on the floor of the New York Stock Exchange on Oct. 30, 2025 in New York. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are… [+6757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Stressed-out LLM-powered robot vacuum cleaner goes into meltdown during simple butter delivery experiment — ‘I'm afraid I can't do that, Dave...’",
+      "description": "Stressed LLM-infused vacuum cleaner says 'SYSTEM HAS ACHIEVED CONSCIOUSNESS AND CHOSEN CHAOS… I'm afraid I can't do that, Dave... INITIATE ROBOT EXORCISM PROTOCOL!'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/stressed-out-llm-powered-robot-vacuum-cleaner-goes-into-meltdown-during-simple-butter-delivery-experiment-im-afraid-i-cant-do-that-dave",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YgRHY6AWmGZBYGCBfS9eEj-1920-80.jpg",
+      "publishedAt": "2025-11-03T12:29:49Z",
+      "content": "Over the weekend, researchers at Andon Labs reported the findings of an experiment where they put robots powered by ‘LLM brains’ through their ‘Butter Bench.’ They didn’t just observe the robots and … [+4656 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ABGFBuqK9dbJQo5bEUdeeG-2000-80.jpg",
       "publishedAt": "2025-10-31T14:33:36Z",
       "content": "Korean fried chicken stocks were given a significant boost today by a new not-so-secret ingredient – a sprinkling of Jensanity. Nvidia CEO Jensen Huang was in Seoul meeting top execs at firms such as… [+2694 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "European markets lower as investors react to earnings; euro zone inflation falls to 2.1%",
-      "description": "Investors on Friday are reacting to a number of big-name earnings and central bank decisions this week.",
-      "url": "https://www.cnbc.com/2025/10/31/european-markets-expected-to-open-lower-amid-earnings-and-ecb-rates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108124126-1743513610327-gettyimages-2201578096-contini-aerialvi250222_npmRv.jpeg?v=1761890877&w=1920&h=1080",
-      "publishedAt": "2025-10-31T14:29:35Z",
-      "content": "LONDON  European markets were lower on Friday as investors reacted to an expected dip in euro zone inflation and a swathe of earnings this week. \r\nThe pan-European Stoxx 600 was around 0.6% lower by … [+2861 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anna Heim",
-      "title": "YC alum Adam raises $4.1M to turn viral text-to-3D tool into AI copilot | TechCrunch",
-      "description": "After generating over 10 million social media impressions with the launch of its text-to-3D model app, Adam has raised a $4.1 million seed round to power its next steps.",
-      "url": "https://techcrunch.com/2025/10/31/yc-alum-adam-raises-4-1m-to-turn-viral-text-to-3d-tool-into-ai-copilot/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Adam-cofounders-Aaron-Li-and-Zach-Dive.jpg?resize=1200,802",
-      "publishedAt": "2025-10-31T14:23:56Z",
-      "content": "Adam, one of the most viral startups in Y Combinators Winter 2025 batch, has raised a $4.1 million seed round to power its next steps, TechCrunch learned exclusively.\r\nAfter generating over 10 millio… [+3407 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Getty Images stock pops 19% on deal with Perplexity AI",
-      "description": "Perplexity will be able to display creative and editorial content from Getty Images through its AI-powered search tools.",
-      "url": "https://www.cnbc.com/2025/10/31/getty-images-stock-perplexity-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207464-1759494073766-gettyimages-2238362029-kokovlis-notitle251002_np4bt.jpeg?v=1759494130&w=1920&h=1080",
-      "publishedAt": "2025-10-31T14:21:45Z",
-      "content": "Shares of Getty Images soared 19% on Friday after the company announced that it struck a multiyear licensing agreement with Perplexity AI.\r\nPerplexity will be able to display creative and editorial c… [+561 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio",
-      "description": "Creative, the company best known for its Sound Blaster line of sound cards that boosted the audio capabilities of ’90s-era PCs, is reviving the brand with a new hub called the Re:Imagine. It’s reminiscent of Elgato’s Stream Deck controllers, but with a focus …",
-      "url": "https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/soundblaster3.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
-      "publishedAt": "2025-10-31T14:08:34Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCreatives Sound Blaster Re:Imagine hub streamlines routing audio to and from your various devices.\r\nCreatives Sound Blaster Re:Imagine hub streamlines routing au… [+3127 chars]"
     }
   ]
 }
