@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T14:42:30.605Z",
+  "fetchedAt": "2025-11-04T15:10:15.936Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "Lyft CEO David Risher on paying drivers more and the shift to robotaxis",
+      "description": "Today, I’m talking with David Risher, who is the CEO of Lyft. I’ll just say from the jump: I think you’ll like this one, since David is refreshingly direct and doesn’t pull a lot of punches. He has on the board of Lyft for years, but he only stepped in as CEO…",
+      "url": "https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_Risher_Lyft_full.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+      "publishedAt": "2025-11-03T15:02:30Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nRisher sees Lyft as a service company above all, but AI makes everything weird\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from this author will be added to your d… [+84408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Are premium Chromebooks worth it in 2025? This laptop was enough to convert this Windows fan",
+      "description": "Acer's Chromebook Plus Spin 514 packs 12GB of RAM, a power-efficient MediaTek chip, and a sleek convertible display.",
+      "url": "https://www.zdnet.com/article/are-premium-chromebooks-worth-it-in-2025-this-laptop-was-enough-to-convert-this-windows-fan/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/03a2430f80a2158822734ec5164b39c3001c0bc0/2025/10/29/7ab41443-dcca-490c-960c-6729a56bdf32/img-4285.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T14:59:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nReady to branch out from Windows? If you're looking for a thin and light laptop for work, school, or everyday use, and you're interested in dive… [+5518 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/RsQrx3Du6DkXezDVZ8fVsb-2560-80.png",
       "publishedAt": "2025-10-31T15:43:06Z",
       "content": "American startup Substrate is developing a new X-ray lithography (XRL) system, powered by a particle accelerator-based light source, that promises superior performance and cost efficiency compared to… [+12088 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Mike Winters",
-      "title": "52-year-old sees 66% increase in coffee price—costs are up nationwide",
-      "description": "In the grocery aisle, one shopper noticed his usual coffee now costs nearly twice what he paid a year ago.",
-      "url": "https://www.cnbc.com/2025/10/31/coffee-cost-sharp-increase-nationwide.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220006-1761919235198-coffee_prices_tiktok_720.png?v=1761924658&w=1920&h=1080",
-      "publishedAt": "2025-10-31T15:33:27Z",
-      "content": "In August 2025, Chuck Smith went to buy coffee at a Walmart in Rochester, Indiana. But something seemed off.\r\n\"I bent down to pick up the coffee and happened to notice the price,\" he tells CNBC Make … [+4224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Reddit stock pops 18% after showing strong advertising and user growth",
-      "description": "Reddit's stock popped after the company surpassed third-quarter estimates due to strong advertising growth.",
-      "url": "https://www.cnbc.com/2025/10/31/reddit-rddt-stock-earnings-outlook.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107391065-1711045231372-gettyimages-2102319874-reddit394530_clsacluf.jpeg?v=1761919182&w=1920&h=1080",
-      "publishedAt": "2025-10-31T15:24:58Z",
-      "content": "Reddit's stock popped more than 18% Friday after the company surpassed third-quarter estimates and signaled strong advertising growth.\r\nThe social media platform's revenues surged 68% from a year ago… [+1822 chars]"
     }
   ]
 }
