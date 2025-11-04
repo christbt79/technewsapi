@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-04T13:47:33.525Z",
+  "fetchedAt": "2025-11-04T14:10:04.811Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Microsoft inks $9.7bil deal with Australia's IREN for AI cloud capacity | TechCrunch",
+      "description": "The deal will give Microsoft access to compute infrastructure built with Nvidia's GB300 GPUs, which will be deployed over phases through 2026.",
+      "url": "https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1883327378-e1730136121848.jpg?resize=1200,800",
+      "publishedAt": "2025-11-03T14:05:28Z",
+      "content": "Microsoft is leaving no stone unturned in its quest to secure more compute capacity for meeting its customers’ heavy demand for AI services.\r\nOn Monday, the Redmond-based tech giant signed a $9.7 bil… [+1216 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "LG founder's grandson, production firm partner up to bring AI to filmmaking | TechCrunch",
+      "description": "Brian Koo’s Stock Farm Road and Utopai Studios have partnered up to form Utopai East, an AI-powered film production company.",
+      "url": "https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Brian-Koo-1.jpeg?resize=1200,800",
+      "publishedAt": "2025-11-03T14:04:46Z",
+      "content": "Since AI tools went mainstream, filmmakers, writers, and actors have been scrambling to figure out whether these technologies can truly assist their creativity or if they might end up replacing human… [+4774 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI signs $38 billion compute deal with Amazon, partnering with cloud leader for first time",
+      "description": "OpenAI will immediately begin tapping Nvidia's AI processors using infrastructure from Amazon Web Services.",
+      "url": "https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1762142083&w=1920&h=1080",
+      "publishedAt": "2025-11-03T14:02:37Z",
+      "content": "OpenAI has signed a deal to buy $38 billion worth of capacity from Amazon Web Services, its first contract with the leader in cloud infrastructure and the latest sign that the $500 billion artificial… [+5214 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "People without kids should make this money move before it's too late, estate planning expert says",
+      "description": "Having certain estate planning documents in place is especially important for people without obvious next-of-kin, experts say.",
+      "url": "https://www.cnbc.com/2025/11/03/make-this-key-money-move-now-if-you-dont-have-kids-expert-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218136-1761679919211-gettyimages-1414968502-dsc00250.jpeg?v=1761679953&w=1920&h=1080",
+      "publishedAt": "2025-11-03T14:00:01Z",
+      "content": "If you don't have children and don't plan on having any, many of the \"default\" settings of personal finance may not apply to you. You may not, for instance, plan on leaving legacy wealth, as many par… [+4054 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/thumb_F217C17A-3384-4B24-82F8-4305A4224AB0.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
       "publishedAt": "2025-10-31T15:17:37Z",
       "content": "Among the many humiliations of being American in the current moment is this: Members of the tech right and the conservative ruling class continually fetishize objects of nerd culture while also displ… [+5826 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Tim Cook says Apple is open to M&A on the AI front",
-      "description": "Apple CEO Tim Cook looks to M&A and AI partnerships to advance Apple Intelligence.",
-      "url": "https://techcrunch.com/2025/10/31/tim-cook-says-apple-is-open-to-ma-on-the-ai-front/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
-      "publishedAt": "2025-10-31T15:17:12Z",
-      "content": "Apple CEO Tim Cook signaled to investors the company is still open to acquisitions and partnerships to move things forward on the AI front. \r\nThe comments were made this week during the company’s Q4 … [+1936 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Tiernan Ray",
-      "title": "Why AI coding tools like Cursor and Replit are doomed - and what comes next",
-      "description": "The newfangled programming tools don't have what it takes to go the distance. Here's why.",
-      "url": "https://www.zdnet.com/article/why-ai-coding-tools-like-cursor-and-replit-are-doomed-and-what-comes-next/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4cde37db6cee6b7646e3a51dd5cc36ae8721ea56/2025/10/31/94515131-e4ba-41b6-a2f6-d4175dacd809/gettyimages-1278651533.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T15:09:00Z",
-      "content": "YaroslavKryuchka/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI-based coding tools won't be able to compete with the LLM giants.</… [+8067 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Blackwell GPU's exclusion from high-level trade talks highlights deepening AI ecosystem rift between nations — China aims to build sovereign hardware and software systems without Nvidia",
-      "description": "Under the newly announced trade ceasefire, China will delay its sweeping new export controls on rare earth elements, while the U.S. holds off on fresh tariffs. But Blackwell's exclusion from talks highlights the deepening rift between the two nations.",
-      "url": "https://www.tomshardware.com/tech-industry/china-delays-rare-earth-export-curbs-but-ai-chip-ban-stays-in-place",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/W2i7zpp4FFMJbTAdQfK6yF-1920-80.jpg",
-      "publishedAt": "2025-10-31T14:59:53Z",
-      "content": "The newly announced China-U.S. trade ceasefire appears, at first glance, to be a long-overdue cooling-off period. For now, China will delay its sweeping new export controls on rare earth elements, wh… [+6163 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Tiernan Ray",
-      "title": "Why AI coding tools like Cursor and Replit are doomed - and what comes next",
-      "description": "The newfangled programming tools don't have what it takes to go the distance. Here's why.",
-      "url": "https://www.zdnet.com/article/cursor-replit-and-other-ai-code-tools-could-go-the-way-of-the-dodo/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4cde37db6cee6b7646e3a51dd5cc36ae8721ea56/2025/10/31/94515131-e4ba-41b6-a2f6-d4175dacd809/gettyimages-1278651533.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T14:43:07Z",
-      "content": "YaroslavKryuchka/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI-based coding tools won't be able to compete with the LLM giants.</… [+8067 chars]"
     }
   ]
 }
