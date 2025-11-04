@@ -1,6 +1,110 @@
 {
-  "fetchedAt": "2025-11-04T17:37:14.687Z",
+  "fetchedAt": "2025-11-04T18:13:56.915Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Lambda, Microsoft agree to multibillion-dollar AI infrastructure deal with Nvidia chips",
+      "description": "The new infrastructure with Microsoft will include the NVIDIA GB300 NVL72 systems, which are also deployed by hyperscaler CoreWeave.",
+      "url": "https://www.cnbc.com/2025/11/03/lambda-ai-microsoft-nvidia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108104463-1739985379716-AP25031404600076.jpg?v=1739985456&w=1920&h=1080",
+      "publishedAt": "2025-11-03T18:05:05Z",
+      "content": "Cloud computing startup Lambda announced on Monday a multibillion-dollar deal with Microsoft for artificial intelligence infrastructure powered by tens of thousands of Nvidia chips.\r\nThe agreement co… [+1453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Microsoft, Alphabet throw more cash on the AI bonfire",
+      "description": "The spending will continue until ROI improves\nTech companies continue to sling crazy amounts of money at AI, with Microsoft announcing deals worth billions in Texas and the United Arab Emirates (UAE), while Google parent Alphabet is selling bonds in Europe to…",
+      "url": "https://www.theregister.com/2025/11/03/tech_firms_continue_to_burn/",
+      "urlToImage": "https://regmedia.co.uk/2016/05/25/burning_money_photo_via_shutterstock.jpg",
+      "publishedAt": "2025-11-03T18:00:19Z",
+      "content": "Tech companies continue to sling crazy amounts of money at AI, with Microsoft announcing deals worth billions in Texas and the United Arab Emirates (UAE), while Google parent Alphabet is selling bond… [+3098 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Justin Pot",
+      "title": "Your Friend Asked You a Question. Don't Copy and Paste an Answer From a Chatbot",
+      "description": "Your friend came to you because they respect your knowledge and opinion, and outsourcing the answer to a machine is lazy and rude. Just answer them yourself.",
+      "url": "https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/",
+      "urlToImage": "https://media.wired.com/photos/6902580e3915279a80da75b9/191:100/w_1280,c_limit/gear-chatbot-copypaste-2148925760-2200190561.jpg",
+      "publishedAt": "2025-11-03T17:57:52Z",
+      "content": "Back in the 2010s, a website called Let Me Google That For You gained a notable amount of popularity for serving a single purpose: snark.\r\nThe site lets you generate a custom link that you can send s… [+2324 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Chrome can now autofill your passport, driver’s license, and vehicle registration info",
+      "description": "Desktop users who have enhanced autofill enabled with see their passport and driver’s license number, vehicle information, like their license plate or VIN, and more automatically filled.",
+      "url": "https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1008258336.jpg?resize=1200,800",
+      "publishedAt": "2025-11-03T17:57:28Z",
+      "content": "Google announced on Monday that its Chrome browser can now fill in your passport, driver’s license, vehicle registration, and more as part of its auto-fill feature.\r\nThe addition expands Chrome’s exi… [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Les Pounder",
+      "title": "Anycubic Early Black Friday 3D Printers deals begin with up to 39% off — massive savings on printers and accessories beginning today",
+      "description": "We've dug up the best early Black Friday 3D printer deals — massive savings on 3D printers and accessories beginning today",
+      "url": "https://www.tomshardware.com/3d-printing/anycubic-early-black-friday-3d-printers-deals-begin-with-up-to-39-percent-off-massive-savings-on-printers-and-accessories-beginning-today",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VjGpeHPAfmsyhxWWgEXhR3.gif",
+      "publishedAt": "2025-11-03T17:39:09Z",
+      "content": "Anycubic has started its Black Friday / Cyber Monday sale early, and we have been all over the site to find you the best deals on a great 3D printer and the many accessories to keep you printing.\r\nWe… [+13970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Perplexity and Getty are teaming up - could this help soothe copyright concerns?",
+      "description": "A new agreement between the two companies aims to tackle the legal messiness of AI image generation.",
+      "url": "https://www.zdnet.com/article/perplexity-and-getty-are-teaming-up-could-this-help-soothe-copyright-concerns/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c0eee66eac0e221afcb84a153815ba029beeb15f/2025/11/03/c2392a9e-2946-4234-a591-549436c920f5/gettyimages-1153093392.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T17:38:50Z",
+      "content": "ogeday çelik/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Getty Images and Perplexity have a licensing agreement. <… [+2814 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Cybercrooks team up with organized crime to steal pricey cargo",
+      "description": "Old-school cargo heists reborn in the cyber age\nCybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.…",
+      "url": "https://www.theregister.com/2025/11/03/cybercriminals_team_up_with_ocgs/",
+      "urlToImage": "https://regmedia.co.uk/2019/06/18/shutterstock_box_dolly.jpg",
+      "publishedAt": "2025-11-03T17:38:04Z",
+      "content": "Cybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.\r\nReminiscent of the decades-ol… [+4863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "AI struggles to cite results properly. Can Perplexity and Getty's new partnership fix that?",
+      "description": "The two companies aim to better credit images in query results. Here's how it could impact information quality.",
+      "url": "https://www.zdnet.com/article/ai-struggles-to-cite-results-properly-can-perplexity-and-gettys-new-partnership-fix-that/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c0eee66eac0e221afcb84a153815ba029beeb15f/2025/11/03/c2392a9e-2946-4234-a591-549436c920f5/gettyimages-1153093392.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T17:38:00Z",
+      "content": "ogeday çelik/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Getty Images and Perplexity have a licensing agreement. <… [+2598 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1196,110 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/cbcdf384f5430e0aa42f730ebc6ed4fed2404aee/2024/09/19/3fb11332-ba20-43ff-93a5-503c906b816d/apple-vision-pro-sep-2024-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-01T11:00:00Z",
       "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>A new iPad Pro is in the pre-order stage with the launch on October 22.</li><li>MacBook Pro g… [+8266 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Gear News of the Week: Withings Launches Its Pee Scanner, and Samsung Shows Off a Trifold Phone",
-      "description": "Plus: Supercute kei cars from Honda and BYD, Insta360 has a cheaper 360 camera, and Nothing's latest phone won't be coming to the US, while the OnePlus 15 gets a launch date.",
-      "url": "https://www.wired.com/story/gear-news-of-the-week-withings-launches-its-pee-scanner-and-samsung-shows-off-a-trifold-phone/",
-      "urlToImage": "https://media.wired.com/photos/690534855c666be57394dc7b/191:100/w_1280,c_limit/2%20Withings%20U-Scan%20SOURCE%20Withings.png",
-      "publishedAt": "2025-11-01T10:00:00Z",
-      "content": "A few weeks ago, bathroom and plumbing company Kohler debuted the Dekoda, a health and wellness sensor that lives on your toilet bowl and records signs of your gut health and hydration. Now, Withings… [+2400 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc",
-      "title": "China's Xi pushes for global AI body at APEC in counter to U.S.",
-      "description": "Xi said a World Artificial Intelligence Cooperation Organization could set governance rules and boost cooperation.",
-      "url": "https://www.cnbc.com/2025/11/01/chinas-xi-pushes-for-global-ai-body-at-apec-in-counter-to-us.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218701-17617542602025-09-02t043753z_430267540_rc2gjgahlcjf_rtrmadp_0_ww2-anniversary-china-russia-mongolia.jpeg?v=1761988814&w=1920&h=1080",
-      "publishedAt": "2025-11-01T09:24:02Z",
-      "content": "Chinese President Xi Jinping took center stage at a meeting of APEC leaders on Saturday to push a proposal for a global body to govern artificial intelligence and position China as an alternative to … [+2058 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Trader’s guide to India’s data centre boom powered by Google, OpenAI",
-      "description": "The creation of an AI ecosystem offers a fresh opportunity to investors in India’s $5.4 trillion market, which has so far trailed this year’s global equities rally in part due to an absence of pure-play AI names like US chipmaker Nvidia Corp. and Chinese chip…",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-01/trader-s-guide-to-india-s-data-center-boom-powered-by-google-openai",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/leypim/article70228988.ece/alternates/LANDSCAPE_1200/2025-10-14T192217Z_777146968_RC2LU7A7NF70_RTRMADP_3_OPENAI-CHATGPT-CONTENT.jpg",
-      "publishedAt": "2025-11-01T09:01:54Z",
-      "content": "As Alphabet Inc.s Google and other US tech behemoths pledge billions of dollars to build artificial intelligence infrastructure in India, investors are racing to identify local firms set to benefit f… [+4745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Robotic lawnmower uses AI to dodge cats, toys",
-      "description": "The Sunseeker Elite X5 can mow on its own, but it doesn't come cheap\nThe tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to s…",
-      "url": "https://www.theregister.com/2025/11/01/robotic_lawnmower_ai/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/31/sunseeker_robomower.jpg",
-      "publishedAt": "2025-11-01T08:32:05Z",
-      "content": "The tentacles of AI seem to be reaching everywhere, even to the humble lawnmower. We tested the Sunseeker Elite X5, a robotic mower that uses machine learning to steer around your lawn, to see what h… [+4677 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "VC who bet on billion-dollar AI firm shares two red flags that stop him investing in a founder",
-      "description": "\"If the first signs are just not there, I usually don't want to waste anyone's time,\" angel investor Carles Reina shared regarding meeting with founders.",
-      "url": "https://www.cnbc.com/2025/11/01/vc-who-backed-billion-dollar-ai-firm-shares-two-red-flags-in-founders-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219249-1761823683473-gettyimages-1815861478-dsc05991.jpeg?v=1761823701&w=1920&h=1080",
-      "publishedAt": "2025-11-01T08:10:30Z",
-      "content": "Man and woman having a small business meeting in smart casual clothes\r\nOne successful angel investor has revealed two red flags that prevent him from investing in a founder in the first meeting.\r\nCar… [+3121 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anna Heim",
-      "title": "What is Bending Spoons? Everything to know about AOL’s acquirer | TechCrunch",
-      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
-      "url": "https://techcrunch.com/2025/10/31/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/Bending-Spoons_CEO-_-cofounder_Luca-Ferrari_3-e1707994418889.jpg?resize=1200,676",
-      "publishedAt": "2025-11-01T01:13:00Z",
-      "content": "Bending Spoons’ four cofounders this week joined the billionaire ranks.\r\nCEO Luca Ferrari’s stake in the Milan-based tech conglomerate is now reportedly worth $1.4 billion, while cofounders Matteo Da… [+7700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Cramer's Lightning Round: SoundHound AI is a 'pure spec'",
-      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-      "url": "https://www.cnbc.com/2025/10/31/cramers-lightning-round-soundhound-ai-is-a-pure-spec.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102079128-1539342565979105501689.jpg?v=1698448473&w=1920&h=1080",
-      "publishedAt": "2025-10-31T22:56:00Z",
-      "content": "SoundHound AI: \"That's a pure spec...It's got to make money before I can get seriously behind it.\"\r\nNextracker: \"This company is a tremendous company...I'd like to have it cool off a little bit, but … [+184 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Vox Staff",
-      "title": "Welcome to the November issue of The Highlight",
-      "description": "AI is improving at what feels like a breakneck pace. Once, it struggled with basic syntax; now, it can ace some college-level coursework. The better it gets, the more reason there is to worry about what it could soon mean for all of our jobs — and whether con…",
-      "url": "https://www.vox.com/the-highlight/467014/welcome-to-the-november-issue-of-the-highlight",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/NovemberHighlight_LandingPage_10-30.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-10-31T21:58:39Z",
-      "content": "AI is improving at what feels like a breakneck pace. Once, it struggled with basic syntax; now, it can ace some college-level coursework. The better it gets, the more reason there is to worry about w… [+958 chars]"
     }
   ]
 }
