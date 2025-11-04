@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T06:15:08.761Z",
+  "fetchedAt": "2025-11-04T06:48:23.677Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The global critical minerals race is heating up — and rare earths stocks are skyrocketing",
+      "description": "U.S.-listed rare earths miners have been on a tear this year, with some companies rallying more than 400% as the global critical minerals race heats up.",
+      "url": "https://www.cnbc.com/2025/11/03/rare-earths-stocks-boom-as-the-global-critical-mineral-race-heats-up.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170157-17521529192020-04-22t000000z_660892074_rc2n9g90g5vd_rtrmadp_0_usa-rareearths.jpeg?v=1760111410&w=1920&h=1080",
+      "publishedAt": "2025-11-03T06:41:59Z",
+      "content": "A wheel loader takes ore to a crusher at the MP Materials rare earth mine in Mountain Pass, California, U.S. January 30, 2020.\r\nThe emergence of critical minerals as a new arena of geopolitical compe… [+6180 chars]"
+    },
     {
       "source": {
         "id": "bloomberg",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217206-1761573060744-gettyimages-1727979993-dsc00326.jpeg?v=1761680830&w=1920&h=1080",
       "publishedAt": "2025-10-31T12:03:47Z",
       "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+3705 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "This new most popular AI image and video generator has enterprise users flocking to it",
-      "description": "Here's what personal and business users alike are switching to this tool for.",
-      "url": "https://www.zdnet.com/article/this-new-most-popular-ai-image-and-video-generator-has-enterprise-users-flocking-to-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d3dd48c7a75757d8398d839e5fd7b27a5ebfa8c4/2025/10/31/5cecc8b1-2cdd-4e01-90d8-ef55f0cdf955/gettyimages-2234176145.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T11:59:00Z",
-      "content": "Andriy Onufriyenko/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey found many users prefer Gemini for creating images.</li><li>It dominate… [+4470 chars]"
     }
   ]
 }
