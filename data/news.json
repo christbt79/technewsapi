@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-04T21:08:47.665Z",
+  "fetchedAt": "2025-11-04T21:34:18.899Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Google yanks Gemma after US senator says model ‘hallucinated’ her committing crimes",
+      "description": "Still available via API, the developer-facing AI isn't even really designed to answer general-purpose questions\nIf Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented crimin…",
+      "url": "https://www.theregister.com/2025/11/03/google_pulls_gemma_from_ai_studio/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/22/gemma.jpg",
+      "publishedAt": "2025-11-03T21:34:03Z",
+      "content": "If Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative… [+4613 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "Lambda inks multi-billion-dollar AI infrastructure deal with Microsoft | TechCrunch",
+      "description": "This deal was announced just hours after Microsoft announced a $9.7 billion deal with Australian data center company IREN.",
+      "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
+      "publishedAt": "2025-11-03T21:23:55Z",
+      "content": "Cloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.\r\nNvidia-backed Lambda announced it struck a multi-billion-dollar deal with Microsoft … [+1926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Palantir tops estimates, boosts fourth-quarter guidance on AI adoption",
+      "description": "Palantir's earnings topped third-quarter results and the company issued strong guidance, attributing much of its rapid growth to artificial intelligence.",
+      "url": "https://www.cnbc.com/2025/11/03/palantir-pltr-q3-earnings-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115846-1741901334944-gettyimages-2204343747-PALANTIR_AIPCON.jpeg?v=1762185570&w=1920&h=1080",
+      "publishedAt": "2025-11-03T21:11:04Z",
+      "content": "Palantir reported quarterly results that topped analysts' estimates and issued better-than-expected guidance for the fourth quarter, attributing much of its strength to artificial intelligence. The s… [+2678 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197370288.jpg?resize=1200,800",
       "publishedAt": "2025-11-01T16:18:37Z",
       "content": "As tech companies tout their plans for massive new data centers, consumers are increasingly worried the AI-driven gold rush will ultimately drive up the price they pay for electricity, according to a… [+2885 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Where the Nexperia auto chip crisis stands now as the U.S., China and EU race to contain fallout",
-      "description": "The Nexperia crisis is still threatening vehicle production worldwide.",
-      "url": "https://www.cnbc.com/2025/11/01/where-the-nexperia-auto-chip-crisis-stands-now.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220234-17619405512025-10-23t103823z_1905056082_rc2mhhav54c5_rtrmadp_0_volkswagen-production-chips.jpeg?v=1761940606&w=1920&h=1080",
-      "publishedAt": "2025-11-01T15:59:55Z",
-      "content": "The logo of Chinese-owned semiconductor company Nexperia is displayed at the chipmaker's German facility, after the Dutch government seized control and auto industry bodies sounded the alarm over the… [+3922 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Self-assembling data centers in space are becoming reality as Rendezvous Robotics partners with Starcloud — Elon Musk chimes in that 'SpaceX will be doing this'",
-      "description": "Rendezvous Robotics' autonomous tile-based modules, built using Project TESSERAE tech, will potentially power Starcloud's plans to build massive data centers in space. The company is partnering with Nvidia to build a 5-gigawatt facility in orbit, and Rendezvo…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/self-assembling-data-centers-in-space-are-becoming-reality-as-rendezvous-robotics-partners-with-starcloud-elon-musk-chimes-in-that-spacex-will-be-doing-this",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9F2J9rVov7W6BmJEg93fJY-2500-80.webp",
-      "publishedAt": "2025-11-01T15:55:14Z",
-      "content": "Starcloud is already launching an AI-equipped satellite featuring an Nvidia H100 GPU into space next month. Still, it plans to build a 5-gigawatt data center eventually, and Rendezvous Robotics can b… [+4783 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "AI researchers 'embodied' an LLM into a robot – and it started channeling Robin Williams | TechCrunch",
-      "description": "AI researchers at Andon Labs embedded various LLMs in a vacuum robot to test how ready they were to be embodied. And hilarity ensued.",
-      "url": "https://techcrunch.com/2025/11/01/ai-researchers-embodied-an-llm-into-a-robot-and-it-started-channeling-robin-williams/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
-      "publishedAt": "2025-11-01T15:02:27Z",
-      "content": "The AI researchers at Andon Labs the people who gave Anthropic Claude an office vending machine to run and hilarity ensued have published the results of a new AI experiment. This time they programmed… [+7753 chars]"
     }
   ]
 }
