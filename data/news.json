@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T20:39:47.957Z",
+  "fetchedAt": "2025-11-04T21:08:47.665Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "5 steps to fixing your business's top security risk",
+      "description": "Weak or compromised passwords pose the greatest security risk to companies, according to a new report from password manager 1Password.",
+      "url": "https://www.zdnet.com/article/5-steps-to-fixing-your-businesss-top-security-risk/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fffbf694c73af06355a152d30b2a653f273d248b/2025/04/30/8a32912a-16c7-457b-806e-a870260af189/5-things-to-do-on-world-password-day-to-keep-your-accounts-safe.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T20:42:13Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Weak or compromised passwords pose a significant security risk to companies.</li><l… [+4928 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
       "publishedAt": "2025-11-01T15:02:27Z",
       "content": "The AI researchers at Andon Labs the people who gave Anthropic Claude an office vending machine to run and hilarity ensued have published the results of a new AI experiment. This time they programmed… [+7753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Nexperia allowed to resume exports from China following Trump-Xi talks — companies may seek exemptions from the Ministry of Commerce to restart international deliveries",
-      "description": "International automakers can now apply for licenses to resume chip deliveries from Nexperia China.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/nexperia-allowed-to-resume-exports-from-china-following-trump-xi-talks-companies-may-seek-exemptions-from-the-ministry-of-commerce-to-restart-international-deliveries",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2uDHpkJthdNoUjCTVPbm59-2560-80.jpg",
-      "publishedAt": "2025-11-01T13:52:54Z",
-      "content": "Beijing has just allowed companies to apply for exemptions from its Nexperia export ban, allowing those relying on its chips to resume orders finally. China previously banned exports from the company… [+3077 chars]"
     }
   ]
 }
