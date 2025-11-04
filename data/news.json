@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T22:38:34.113Z",
+  "fetchedAt": "2025-11-04T23:08:52.032Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work | TechCrunch",
+      "description": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/miyazaki-ai-ghibli.jpg?resize=1200,800",
+      "publishedAt": "2025-11-03T22:43:54Z",
+      "content": "A Japanese trade organization representing publishers like Studio Ghibli wrote a letter to OpenAI last week, calling for the AI giant to stop training its AI models on their copyrighted content witho… [+3013 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/03/21/hitchhiker.jpg",
       "publishedAt": "2025-11-02T08:30:15Z",
       "content": "Fortytwo, a Silicon Valley startup, was founded last year based on the idea that a decentralized swarm of small AI models running on personal computers offers scaling and cost advantages over central… [+9761 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Emerging market stocks rose every month this year for first time since 1993",
-      "description": "The MSCI Emerging Markets Index has rallied every month from January to October — a feat last seen in 1993 — and is up around 30% this year. On Friday, it fell 0.7% but closed out the month with a 4% gain",
-      "url": "https://www.bloomberg.com/news/articles/2025-10-31/em-stocks-rise-every-month-this-year-first-time-since-1993",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/soou90/article70230191.ece/alternates/LANDSCAPE_1200/PO02_Gold_candle_chart.jpg",
-      "publishedAt": "2025-11-02T06:09:38Z",
-      "content": "The emerging-market equity benchmark gained for a 10th consecutive month in October, as an artificial-intelligence boom and a weaker dollar drive capital inflows.\r\nThe MSCI Emerging Markets Index has… [+2332 chars]"
     }
   ]
 }
