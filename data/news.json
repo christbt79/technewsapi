@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-04T16:45:04.885Z",
+  "fetchedAt": "2025-11-04T17:07:37.578Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Gullible bots struggle to distinguish between facts and beliefs",
+      "description": "Researchers point to risks in high-stakes applications as well as the potential to spread misinformation\nLarge language models often fail to distinguish between factual knowledge and personal belief, and are especially poor at recognizing when a belief is fal…",
+      "url": "https://www.theregister.com/2025/11/03/llms_struggle_to_distinguish_facts_beliefs/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/03/shutterstock_2309269527.jpg",
+      "publishedAt": "2025-11-03T17:06:30Z",
+      "content": "Large language models often fail to distinguish between factual knowledge and personal belief, and are especially poor at recognizing when a belief is false.\r\nA peer-reviewed study argues that, unles… [+2849 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "The AI industry is running on FOMO",
+      "description": "For Big Tech, a penny invested in AI is a penny earned… Maybe. After an indeterminate amount of time. Investors hope. On earnings calls last week, Amazon, Google, Microsoft, and Meta reported more than $350 billion this year on capital expenditures, or longer…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-03T17:06:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAt least according to Big Techs latest earnings calls.\r\nAt least according to Big Techs latest earnings calls.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from t… [+8768 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set",
+      "description": "Dia's AI browser has a head start on what works for consumers thanks to learnings from its browser experiment, Arc.",
+      "url": "https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/@Mention-Tabs.jpeg?resize=1200,775",
+      "publishedAt": "2025-11-03T17:01:58Z",
+      "content": "The AI web browser Dia is drawing inspiration from its predecessor, Arc, an earlier experiment in modernizing the web browsing experience that hailed from the startup known as The Browser Company. On… [+3390 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "This $400 Android phone with a paper-like display is boringly awesome - and I can't let go",
+      "description": "The TCL Nxtpaper 60 Ultra redefines 'Ultra,' prioritizing eye comfort and stylus performance over raw power.",
+      "url": "https://www.zdnet.com/article/this-400-android-phone-with-a-paper-like-display-is-boringly-awesome-and-i-cant-let-go/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e68949d871852ec7f3eccca7ffad8b5f37154d9c/2025/09/20/f30c8bbf-bcb5-46dd-95d2-6fbed51e696e/pxl-20250920-002756553-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T16:54:00Z",
+      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7487 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Should you ditch your TP-Link router? Here's how to secure your Wi-Fi today",
+      "description": "As a ban on the country's favorite router brand looms, here's how to keep your network and data safe.",
+      "url": "https://www.zdnet.com/article/should-you-ditch-your-tp-link-router-heres-how-to-secure-your-wi-fi-today/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/7c8c8520e88a2c0507e543bea3be0bbc69e493b7/2025/11/03/75ca51a8-d3a0-4221-94ea-19d0d54e2684/u-s-ban-on-tp-link-routers-gains-traction-heres-what-to-do-to-stay-protected-online.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T16:49:29Z",
+      "content": "TP Link / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>US agencies back proposal to ban TP-Link routers.</li><li>A ban could so… [+8907 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/10/20/shutterstock_aardvark.jpg",
       "publishedAt": "2025-10-31T19:35:06Z",
       "content": "After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.\r\nThe maker of ChatGPT o… [+2767 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Couple earns $28,000 a month but constantly fights about money: 'Everything for me is a fire'",
-      "description": "Edward and Ellen are quite well-off, earning $336,000 a year. But they struggle to see eye-to-eye on everyday financial decisions.",
-      "url": "https://www.cnbc.com/2025/10/31/couple-earns-28000-dollars-a-month-but-constantly-fights-about-money.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108015868-1722631698653-gettyimages-1746936876-20230605-imgl4293.jpeg?v=1761927110&w=1920&h=1080",
-      "publishedAt": "2025-10-31T19:32:53Z",
-      "content": "Ellen and Edward earn $28,000 a month, or an annual income of around $336,000 a year more than triple their home state of Hawaii's median household income.\r\nBut their high income doesn't prevent the … [+4299 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Meta bought 1 GW of solar this week | TechCrunch",
-      "description": "The social media company inked three deals in the U.S. to power its data centers and offset its carbon footprint.",
-      "url": "https://techcrunch.com/2025/10/31/meta-bought-1-gw-of-solar-this-week/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1475927398.jpeg?resize=1200,674",
-      "publishedAt": "2025-10-31T19:29:04Z",
-      "content": "Meta signed three deals this week to procure nearly 1 gigawatt of solar power as it races to power its lofty AI ambitions.\r\nThe trio of agreements brings Metas total solar purchases to over 3 gigawat… [+1893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "That $20,000 viral humanoid home robot? It's not what it seems",
-      "description": "The internet was abuzz this week over Neo, 1X's new housekeeping robot - but then the reviews rolled in.",
-      "url": "https://www.zdnet.com/article/that-20000-viral-humanoid-home-robot-its-not-what-it-seems/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9c2f68429f201b8561e7d9e24448629feec81794/2025/10/31/d0dfb300-ef10-443b-93e5-cab7b0234b32/neoflowerscreenshot-2025-10-31-151716.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T19:27:47Z",
-      "content": "Screenshot by David Grober/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>1X's viral Neo humanoid robot isn't quite as good as it looks.</li><li>Neo cost… [+2220 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Datacenter biz and nuke startup join forces for Texas AI ranch",
-      "description": "The bit barn will run on gas power first. Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn't likely until the next decade.…",
-      "url": "https://www.theregister.com/2025/10/31/datacenter_biz_and_nuke_startup/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_2208691733.jpg",
-      "publishedAt": "2025-10-31T19:19:36Z",
-      "content": "Texas is set to get another nuclear-powered datacenter project thanks to Blue Energy and Crusoe, but any atomic action isn't likely until the next decade.\r\nThe two firms have announced plans to devel… [+3742 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo | TechCrunch",
-      "description": "AI mania tanks CoreWeave’s Core Scientific acquisition; it buys Python notebook Marimo | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/10/31/ai-mania-tanks-coreweaves-core-scientific-acquisition-it-buys-python-notebook-marimo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/03/CoreWeave.jpg?resize=1200,800",
-      "publishedAt": "2025-10-31T18:54:09Z",
-      "content": "Core Scientific shareholders on Thursday voted down an all-stock acquisition offer from partner and competitor CoreWeave that was valued at the time at $9 billion.  \r\nThey did so following a vote-no … [+2112 chars]"
     }
   ]
 }
