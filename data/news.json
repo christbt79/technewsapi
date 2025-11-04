@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T02:23:50.521Z",
+  "fetchedAt": "2025-11-04T03:28:28.616Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "AI is becoming introspective - and that 'should be monitored carefully,' warns Anthropic",
+      "description": "Models that introspect on their own thoughts could be a huge boon for researchers - or pose a threat to humans.",
+      "url": "https://www.zdnet.com/article/ai-is-becoming-introspective-and-that-should-be-monitored-carefully-warns-anthropic/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d27cd01b346d87176f4ad4ae804eee4a62caabf4/2025/11/02/b603f5a3-1b44-42fc-83ee-16957aceb6f3/gettyimages-1147184158.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T03:00:27Z",
+      "content": "Just_Super/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Claude shows limited introspective abilities, Anthropic said.</li><li>The study used … [+9101 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Samsung phones have a secret Wi-Fi menu that can solve your internet problems - how to enable it",
+      "description": "If you love Samsung's feature-packed software, this OneUI tool is your next rabbit hole.",
+      "url": "https://www.zdnet.com/article/samsung-phones-have-a-secret-wi-fi-menu-that-can-solve-your-internet-problems-how-to-enable-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b79b91e1e5cb72abc72b7426817ca660f0fa8b4e/2025/07/02/5b3f6656-63d8-49a2-96ba-90812c84f438/dsc06223.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T03:00:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung's hidden \"Connectivity Labs\" unlocks secret Wi-Fi tools.</li><li>Features include Wi-Fi … [+1719 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/77698803d575ee4311996c27a64572c9e1f062aa/2025/10/10/27a7cb03-f31b-46ec-9356-cffd66f3af29/qcu2-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-31T11:50:00Z",
       "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBattery life and power management are crucial yet overlooked strengths, but they've always been Bose's weaknesses. Its 2019 fl… [+4196 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Your Sony headphones just got a useful Bluetooth upgrade with the latest software patch",
-      "description": "A new firmware update brings Bluetooth LE Audio and Find My Device support to select Sony models - if your phone supports it.",
-      "url": "https://www.zdnet.com/article/your-sony-headphones-just-got-a-useful-bluetooth-upgrade-with-the-latest-software-patch/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/eaabaef30a557b15d0c28b2e501c44331109dc9f/2025/05/12/89089ed7-3975-4e57-8f08-136e5ba24777/xm6-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T11:47:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Android expanded support for LE Audio to select Sony headphones and earbuds.</li><li>Users can … [+3314 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Mini PC maker Minisforum to hike prices, citing 'significant increase in our overall costs' — barebones models not affected, suggesting change caused by memory chip shortages",
-      "description": "Minisforum is increasing the prices of its items that come with DDR5 memory and SSDs, although the cost of barebones products remains unchanged.",
-      "url": "https://www.tomshardware.com/pc-components/mini-pc-maker-minisforum-to-hike-prices-citing-significant-increase-in-our-overall-costs-barebones-models-not-affected-suggesting-change-caused-by-memory-chip-shortages",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/oLArQnScJwdtaBaGDQqtXo-1920-80.jpg",
-      "publishedAt": "2025-10-31T11:45:00Z",
-      "content": "Mini PC maker Minisforum just announced a price hike for its product lineup, except for barebone models and items that do not come with DDR5 memory and SSD storage. The company made this announcement… [+2800 chars]"
     }
   ]
 }
