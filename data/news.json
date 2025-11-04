@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T20:11:10.104Z",
+  "fetchedAt": "2025-11-04T20:39:47.957Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "AWS, Nvidia, Crowdstrike seek security startups to enter the arena",
+      "description": "Last year's winner scored a $65M funding round on a $300M valuation\nCloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…",
+      "url": "https://www.theregister.com/2025/11/03/cybersecurity_startup_accelerator/",
+      "urlToImage": "https://regmedia.co.uk/2020/05/06/shutterstock_business_boxing.jpg",
+      "publishedAt": "2025-11-03T20:11:54Z",
+      "content": "Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.\r\nThe highly competitive Cybers… [+2371 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/2uDHpkJthdNoUjCTVPbm59-2560-80.jpg",
       "publishedAt": "2025-11-01T13:52:54Z",
       "content": "Beijing has just allowed companies to apply for exemptions from its Nexperia export ban, allowing those relying on its chips to resume orders finally. China previously banned exports from the company… [+3077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "I'm a Japanese nutritionist and I'm 'obsessed' with fruit—I eat these 5 for longevity and brain health",
-      "description": "Michiko Tomioka is a nutritionist from Japan, home to some of the world's longest-living people. She shares the five fruits she eats every day to support gut and brain health, immunity, and overall well-being.",
-      "url": "https://www.cnbc.com/2025/11/01/japanese-nutritionist-5-fruits-i-eat-every-day-for-longevity-and-brain-health.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219540-1761846489783-GettyImages-648500832.jpg?v=1761846542&w=1920&h=1080",
-      "publishedAt": "2025-11-01T13:37:06Z",
-      "content": "I grew up in Nara, Japan, surrounded by fruit trees, farms, and generous neighbors who would bring us baskets of freshly picked strawberries, watermelons, persimmons, figs, and pretty much anything t… [+5375 chars]"
     }
   ]
 }
