@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T08:13:32.250Z",
+  "fetchedAt": "2025-11-04T08:45:58.570Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Paul Kunert",
+      "title": "From Intel to the infinite, Pat Gelsinger wants Christian AI to change the world",
+      "description": "Taking belief in LLMs very literally indeed Opinion  It's not been a year since his ouster as Intel's CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He's done hardware with Intel, software with VMWare. This time, it's faithware.…",
+      "url": "https://www.theregister.com/2025/11/03/from_intel_to_the_infinite/",
+      "urlToImage": "https://regmedia.co.uk/2025/10/31/ai_church.jpg",
+      "publishedAt": "2025-11-03T08:30:14Z",
+      "content": "Opinion It's not been a year since his ouster as Intel's CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He's done hardware with Intel, software with VMWare. This time, it's faithw… [+5354 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108129439-1744225477767-gettyimages-2198546816-TFSPI_12022025-4494.jpeg?v=1761870765&w=1920&h=1080",
       "publishedAt": "2025-10-31T12:30:01Z",
       "content": "Affirm is expanding its partnership with New York Life Insurance, a move that highlights how traditional financial giants are deepening their exposure to fintech-driven consumer lending.\r\nUnder the n… [+1504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon's earnings rally, Netflix's stock split, chocolate inflation and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/10/31/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201090-1758260523533-gettyimages-2236197183-img_7349.jpeg?v=1761860370&w=1920&h=1080",
-      "publishedAt": "2025-10-31T12:06:50Z",
-      "content": "A customer holds up the new orange-colored iPhone 17 Pro Max smartphone inside an Apple retail store in Chongqing, China, on September 19, 2025. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe … [+5229 chars]"
     }
   ]
 }
