@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T07:09:58.562Z",
+  "fetchedAt": "2025-11-04T07:36:55.635Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: U.S. stocks' gains in October owe much to AI",
+      "description": "The AI trade looks, for now, less like the immediate sugar rush of a candy bar (and its subsequent crash), and more like a sustained energy boost.",
+      "url": "https://www.cnbc.com/2025/11/03/cnbc-daily-open-us-stocks-gains-in-october-owe-much-to-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219977-17619164262025-10-31t075321z_12249420_rc2vmha0s3d5_rtrmadp_0_apec-summit-nvidia.jpeg?v=1761916506&w=1920&h=1080",
+      "publishedAt": "2025-11-03T07:30:01Z",
+      "content": "Traders who shorted the S&amp;P 500 essentially, betting that it would go down last month were in for a rude surprise. The broad-based index ended the month 2.3% higher, defying \"Octoberphobia,\" a te… [+2643 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108201090-1758260523533-gettyimages-2236197183-img_7349.jpeg?v=1761860370&w=1920&h=1080",
       "publishedAt": "2025-10-31T12:06:50Z",
       "content": "A customer holds up the new orange-colored iPhone 17 Pro Max smartphone inside an Apple retail store in Chongqing, China, on September 19, 2025. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe … [+5229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Just 5% of CRE companies have achieved their AI goals. Here's why",
-      "description": "JLL found that 88% of investors, owners and landlords said they have started piloting AI, with most pursuing an average of five use cases simultaneously.",
-      "url": "https://www.cnbc.com/2025/10/31/cre-companies-ai-goals.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217206-1761573060744-gettyimages-1727979993-dsc00326.jpeg?v=1761680830&w=1920&h=1080",
-      "publishedAt": "2025-10-31T12:03:47Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+3705 chars]"
     }
   ]
 }
