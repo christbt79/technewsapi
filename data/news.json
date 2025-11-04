@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T19:31:32.504Z",
+  "fetchedAt": "2025-11-04T20:11:10.104Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kirsten Korosec",
+      "title": "Waymo's robotaxi expansion accelerates with 3 new cities | TechCrunch",
+      "description": "Waymo's robotaxi expansion accelerates with 3 new cities | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/waymo-zeekr-rt.jpg?resize=1200,801",
+      "publishedAt": "2025-11-03T19:46:31Z",
+      "content": "Waymo said Monday it will launch a robotaxi service in Detroit, Las Vegas, and San Diego as the Alphabet-owned company hits the accelerator on its expansion plans. \r\nThe announcement illustrates Waym… [+2905 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219540-1761846489783-GettyImages-648500832.jpg?v=1761846542&w=1920&h=1080",
       "publishedAt": "2025-11-01T13:37:06Z",
       "content": "I grew up in Nara, Japan, surrounded by fruit trees, farms, and generous neighbors who would bring us baskets of freshly picked strawberries, watermelons, persimmons, figs, and pretty much anything t… [+5375 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "AMD’s latest Adrenalin driver update drops Windows 10 from release notes, but the company says support continues",
-      "description": "The company says Windows 10 users can still install the Adrenalin Edition 25.10.2 drivers via the Windows 11 installer, even as Microsoft’s older OS officially moves into end-of-life status.",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-latest-adrenalin-driver-update-drops-windows-10-from-release-notes-but-the-company-says-support-continues",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/iddck7uUbzHKsyUD9akjyT-2560-80.jpg",
-      "publishedAt": "2025-11-01T12:29:00Z",
-      "content": "AMD’s latest Adrenalin Edition 25.10.2 driver release has caused quite a stir among users, but the company has now issued important clarifications. While the update moves Radeon RX 5000 (RDNA 1) and … [+2700 chars]"
     }
   ]
 }
