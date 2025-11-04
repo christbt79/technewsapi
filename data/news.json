@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T11:08:30.682Z",
+  "fetchedAt": "2025-11-04T11:35:25.681Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Producer of stinky thermal paste that corrodes copper has known about the issue since 2024 - the paste emits acidic vapors, corrodes copper, 'glues' heatsinks to processors, and permanently damages coolers",
+      "description": "Igor Wallossek reports that Amech knew that its SGT-4 thermal paste could corrode copper and damage coolers since October 2024, but kept selling it with bogus compliance papers and later blamed critics instead of fixing the problem.",
+      "url": "https://www.tomshardware.com/pc-components/cpus/producer-of-stinky-thermal-paste-that-corrodes-copper-knew-about-the-issue-since-2024",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hw8PYdYDFnujWMb3DErPTh-1600-80.jpg",
+      "publishedAt": "2025-11-03T11:30:00Z",
+      "content": "Amech, the maker of the thermal paste that stinks and damages coolers, has known about the issues with its product since at least October 2024, according to Igor Wallosek from Igor's Lab. Instead of … [+3850 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Auto giants rally as China says it will consider exemptions for Nexperia chip exports",
+      "description": "A standoff between the Netherlands and China over chipmaker Nexperia had prompted auto giants to warn of production outages.",
+      "url": "https://www.cnbc.com/2025/11/03/auto-giants-rally-as-china-considers-nexperia-chip-export-exemptions.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220431-1762167413335-gettyimages-2244584670-vcg111599184670.jpeg?v=1762167427&w=1920&h=1080",
+      "publishedAt": "2025-11-03T11:16:33Z",
+      "content": "Shares of Europe's biggest carmakers rose on Monday as fears over an industry shortage of semiconductors appeared to recede.\r\nChina on Saturday said it would consider some exemptions for Nexperia chi… [+1576 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1031,6 +1057,19 @@
     {
       "source": {
         "id": null,
+        "name": "Vox"
+      },
+      "author": "Eric Levitz",
+      "title": "The most likely AI apocalypse",
+      "description": "Over the past year, I’ve had many disquieting realizations — that the American voter is more forgiving of insurrections than inflation, that being 37 means having one bad knee (and another not particularly good one), and that the New York Mets made a pact wit…",
+      "url": "https://www.vox.com/the-highlight/466025/ai-jobs-chatgpt-agi",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/AI_IsabelSeliger_Vox.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-10-31T15:51:35Z",
+      "content": "Over the past year, I’ve had many disquieting realizations — that the American voter is more forgiving of insurrections than inflation, that being 37 means having one bad knee (and another not partic… [+19254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "CNBC"
       },
       "author": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1755819335&w=1920&h=1080",
       "publishedAt": "2025-10-31T13:36:42Z",
       "content": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. \r\nTech's internet giants have made it throu… [+5231 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "Nvidia expands AI ties with Hyundai, Samsung, SK, Naver | TechCrunch",
-      "description": "NVIDIA CEO Jensen Huang is visiting South Korea to strengthen partnerships with Samsung, Hyundai, SK, and Naver, unveiling plans for AI-powered networks and next-generation intelligent systems.",
-      "url": "https://techcrunch.com/2025/10/31/nvidia-expands-ai-ties-with-hyundai-samsung-sk-naver/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1598978057.jpg?w=1024",
-      "publishedAt": "2025-10-31T13:34:42Z",
-      "content": "Nvidia CEO Jensen Huang is visiting South Korea for the first time in fifteen years to unveil new plans and deepen collaboration with major Korean tech companies including Hyundai Motor, Samsung, SK,… [+4839 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Reddit CEO says chatbots are not a traffic driver",
-      "description": "Reddit doesn't see a lot of traffic coming from chatbot answers",
-      "url": "https://techcrunch.com/2025/10/31/reddit-ceo-says-chatbots-are-not-a-traffic-driver/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1176192608-1.jpg?w=1024",
-      "publishedAt": "2025-10-31T13:34:03Z",
-      "content": "Reddit CEO Steve Huffman said AI chatbots aren’t a major traffic driver for the social platform despite companies like OpenAI and Google having seen progress in people using AI for search. During Red… [+2367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Meta to sell $30B in bonds to build AI datacenters",
-      "description": "Zuckcorp will gladly pay you in 2065 for the eyewatering sums it is borrowing today Even the world's richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and s…",
-      "url": "https://www.theregister.com/2025/10/31/meta_launches_30_billion_bond/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/31/shutterstock_2492993419.jpg",
-      "publishedAt": "2025-10-31T13:28:57Z",
-      "content": "Even the world's richest companies need outside help to fulfill their datacenter dreams. Now, Meta is selling $30 billion in bonds to build out its infrastructure estate and support its ambition in A… [+3165 chars]"
     }
   ]
 }
