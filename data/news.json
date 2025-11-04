@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T18:46:52.916Z",
+  "fetchedAt": "2025-11-04T19:07:39.656Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "OpenAI Signs $38 Billion Deal With Amazon",
+      "description": "OpenAI has committed to buying billions of dollars worth of compute from AWS—the latest in a string of major deals brokered by the AI startup.",
+      "url": "https://www.wired.com/story/openai-amazon-multi-billion-dollar-deal/",
+      "urlToImage": "https://media.wired.com/photos/6908dabab4390cc1ef394dee/191:100/w_1280,c_limit/AWS-Amazon-Business-2243562968.jpg",
+      "publishedAt": "2025-11-03T19:04:05Z",
+      "content": "OpenAI has signed a multi-year deal with Amazon to buy $38 billion worth of AWS cloud infrastructure to train its models and serve its users.\r\nThe deal is yet another sign of the AI industry becoming… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brian Barrett, Leah Feiger",
+      "title": "WIRED Roundup: Alpha School, Grokipedia, and Real Estate AI Videos",
+      "description": "In this episode of “Uncanny Valley,” we run through the top stories of the week and dive into why the promise of a tech-forward school in Texas with software instead of teachers fell apart.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-alpha-school-grokipedia-real-estate-ai-videos/",
+      "urlToImage": "https://media.wired.com/photos/6903e781d7276866034bbcd3/191:100/w_1280,c_limit/Uncanny-Valley-News-Update-Alpha-School-Security-1339828637.jpg",
+      "publishedAt": "2025-11-03T19:03:46Z",
+      "content": "The thing that gets me, and I'm really curious about your take on this, Brian, as someone with children, that the guides these people that were brought in, they were actually in the room with student… [+2211 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179672-1753964381009-Untitled-1.jpg?v=1753964473&w=1920&h=1080",
       "publishedAt": "2025-11-01T12:00:01Z",
       "content": "META CEO Mark Zuckerberg (L) and Microsoft CEO Satya Nadella.\r\nAs tech giants increase their already breathtaking spending on artificial intelligence, their respective digital advertising businesses … [+6346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Hacker installed and ran Doom on an orbiting European Space Agency satellite",
-      "description": "Doom once ran in an ESA space satellite, as recounted by one of the hackers",
-      "url": "https://www.tomshardware.com/video-games/doom-can-run-just-about-anywhere-including-space-hacker-recounts-tale-of-running-the-game-on-an-orbiting-satellite",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YayC3wPSmmRcR2qtkKzynS-1877-80.jpg",
-      "publishedAt": "2025-11-01T11:34:00Z",
-      "content": "There were lots of interesting topics discussed in the recent Ubuntu Summit, but one in particular might just tickle the fancy of most any techie above 30: the story of how Doom was actually running … [+3658 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Matthew Korfhage",
-      "title": "What to Do in Portland, Oregon If You're Here for Business (2025)",
-      "description": "Work, eat, and play like a local with this business traveler's guide. Discover Portland’s best hotels, coworking spaces, and hidden gems worth your time.",
-      "url": "https://www.wired.com/story/the-wired-guide-to-portland-for-business-travelers/",
-      "urlToImage": "https://media.wired.com/photos/6902f6a16c98c9bbcde1afcf/191:100/w_1280,c_limit/CITY%20GUIDE%20-%20Portland.png",
-      "publishedAt": "2025-11-01T11:08:00Z",
-      "content": "As a tech city, Portland often feels like a lifestyle destination for wayward engineers. Though nearly 10 percent of Portland works in tech, Stumptowns business scene can sometimes seem to be in hidi… [+8726 chars]"
     }
   ]
 }
