@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T17:07:37.578Z",
+  "fetchedAt": "2025-11-04T17:37:14.687Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI",
+      "description": "The Content Overseas Distribution Association (CODA), an anti-piracy organization representing Japanese IP holders like Studio Ghibli and Bandai Namco, released a letter last week asking OpenAI to stop using its members’ content to train Sora 2, as reported b…",
+      "url": "https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-03T17:34:13Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nJapanese trade association CODA says Sora 2s opt-out policy may have violated copyright law.\r\nJapanese trade association CODA says Sora 2s opt-out policy may hav… [+2973 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Coca-Cola’s new AI holiday ad is a sloppy eyesore",
+      "description": "Coca-Cola is once again using generative AI to reimagine its classic Coke caravan holiday commercials, and in doing so, killing some of the festive joy you have for the brand. After receiving backlash for airing three AI-generated holiday commercials last yea…",
+      "url": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Coca-Cola-AI-holiday-ad-2025.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-03T17:31:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Holidays Are Coming to cheapen your seasonal nostalgia.\r\nThe Holidays Are Coming to cheapen your seasonal nostalgia.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherb… [+3741 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/NovemberHighlight_LandingPage_10-30.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-10-31T21:58:39Z",
       "content": "AI is improving at what feels like a breakneck pace. Once, it struggled with basic syntax; now, it can ace some college-level coursework. The better it gets, the more reason there is to worry about w… [+958 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Kelli Wessinger, Noel King",
-      "title": "When the AI bubble pops",
-      "description": "Every tech company now seems to have their own AI: Google Gemini. OpenAI’s ChatGPT. MetaAI. Spending for AI is reaching record highs, powering a big boom for the stock market. Even the White House wants in on the fun. So are we in an AI bubble — an overblown …",
-      "url": "https://www.vox.com/podcasts/466649/ai-bubble-burst-data-centers-economy",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2242399885.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
-      "publishedAt": "2025-10-31T21:52:19Z",
-      "content": "Every tech company now seems to have their own AI: Google Gemini. OpenAI’s ChatGPT. MetaAI. Spending for AI is reaching record highs, powering a big boom for the stock market. Even the White House wa… [+5523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "AI blew open software security, now OpenAI wants to fix it with an agent called Aardvark",
-      "description": "AI promises to find bugs and gaps in your apps After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.…",
-      "url": "https://www.theregister.com/2025/10/31/openai_aardvark_agentic_security/",
-      "urlToImage": "https://regmedia.co.uk/2017/10/20/shutterstock_aardvark.jpg",
-      "publishedAt": "2025-10-31T19:35:06Z",
-      "content": "After helping expand the modern software attack surface with the rise of AI services prone to data poisoning and prompt injection, OpenAI has thrown a bone to cyber defenders.\r\nThe maker of ChatGPT o… [+2767 chars]"
     }
   ]
 }
