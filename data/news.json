@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T13:07:20.199Z",
+  "fetchedAt": "2025-11-04T13:47:33.525Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Agentic AI reshaping tech hiring policies, say CTOs and CIOs",
+      "description": "Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles\nDemand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE in…",
+      "url": "https://www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/",
+      "urlToImage": "https://regmedia.co.uk/2017/07/20/conveyorbeltrobots.jpg",
+      "publishedAt": "2025-11-03T13:19:42Z",
+      "content": "Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.\r\nOr so says research by th… [+2423 chars]"
+    },
     {
       "source": {
         "id": "the-wall-street-journal",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4cde37db6cee6b7646e3a51dd5cc36ae8721ea56/2025/10/31/94515131-e4ba-41b6-a2f6-d4175dacd809/gettyimages-1278651533.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-10-31T14:43:07Z",
       "content": "YaroslavKryuchka/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AI-based coding tools won't be able to compete with the LLM giants.</… [+8067 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Korean fried chicken stocks surge 30% as Nvidia CEO Jensen Huang dines out on local delicacy — entire industry buoyed by secret ingredient, Jensanity",
-      "description": "Korean fried chicken glows extra hot on the stock market after Jensen Huang was seen enjoying this spicy delicacy in Seoul.",
-      "url": "https://www.tomshardware.com/tech-industry/korean-fried-chicken-stocks-surge-30-percent-as-nvidia-ceo-jensen-huang-dines-out-on-local-delicacy-entire-industry-buoyed-by-secret-ingredient-jensanity",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ABGFBuqK9dbJQo5bEUdeeG-2000-80.jpg",
-      "publishedAt": "2025-10-31T14:33:36Z",
-      "content": "Korean fried chicken stocks were given a significant boost today by a new not-so-secret ingredient – a sprinkling of Jensanity. Nvidia CEO Jensen Huang was in Seoul meeting top execs at firms such as… [+2694 chars]"
     }
   ]
 }
