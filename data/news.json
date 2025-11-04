@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T14:10:04.811Z",
+  "fetchedAt": "2025-11-04T14:42:30.605Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "Drawer full of USB cables? This tiny tester tells you which ones actually work as advertised",
+      "description": "The Treedix multifunction USB cable tester quickly identifies which cables still work and which ones belong in the recycling bin.",
+      "url": "https://www.zdnet.com/article/drawer-full-of-usb-cables-this-tiny-tester-tells-you-which-ones-actually-work-as-advertised/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6fa8dd7be252462dd67e245bc5fa23b7fb400591/2025/10/28/c5381eae-b06f-4b95-a955-151de63c816a/img-0342.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T14:12:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're anything like me, you have a box or bag (or maybe several) of cables you plan to one day sort through. Or maybe you need a quick and e… [+2789 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107391065-1711045231372-gettyimages-2102319874-reddit394530_clsacluf.jpeg?v=1761919182&w=1920&h=1080",
       "publishedAt": "2025-10-31T15:24:58Z",
       "content": "Reddit's stock popped more than 18% Friday after the company surpassed third-quarter estimates and signaled strong advertising growth.\r\nThe social media platform's revenues surged 68% from a year ago… [+1822 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Constance Grady",
-      "title": "The right is obsessed with Lord of the Rings. But they don’t understand it.",
-      "description": "Among the many humiliations of being American in the current moment is this: Members of the tech right and the conservative ruling class continually fetishize objects of nerd culture while also displaying a willful inability to grasp the very basic messages t…",
-      "url": "https://www.vox.com/culture/466858/lord-of-the-rings-conservatives-right-republicans-elon-musk-jd-vance-peter-thiel",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/thumb_F217C17A-3384-4B24-82F8-4305A4224AB0.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2025-10-31T15:17:37Z",
-      "content": "Among the many humiliations of being American in the current moment is this: Members of the tech right and the conservative ruling class continually fetishize objects of nerd culture while also displ… [+5826 chars]"
     }
   ]
 }
