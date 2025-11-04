@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-04T00:44:08.566Z",
+  "fetchedAt": "2025-11-04T02:23:50.521Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "White House says China to lift rare earth export bans, stop probes into US tech companies",
+      "description": "PLUS: Google's massive AI giveaway in India; Raid on Australian software company; Alleged scam camp owner's assets seized; and more! Asia In Brief  Last week’s trade talks between the USA and China have seen the two countries ease some trade restrictions.…",
+      "url": "https://www.theregister.com/2025/11/03/asia_tech_news_roundup/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/03/shutterstock_editorial_only_china_xi_usa_trump.jpg",
+      "publishedAt": "2025-11-03T01:57:20Z",
+      "content": "Asia In Brief Last weeks trade talks between the USA and China have seen the two countries ease some trade restrictions.\r\nAccording to a fact sheet published by the White House on Saturday, the talks… [+5860 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: AI trade frenzy seems driven by a 'virtuous' cycle",
+      "description": "The AI trade looks, for now, less like the immediate sugar rush of a candy bar (and its subsequent crash), and more like a sustained energy boost.",
+      "url": "https://www.cnbc.com/2025/11/03/cnbc-daily-open-ai-trade-frenzy-seems-driven-by-a-virtuous-cycle.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219976-17619164262025-10-31t092030z_1484929842_rc2xmhaeb3d7_rtrmadp_0_apec-summit-nvidia.jpeg?v=1761916506&w=1920&h=1080",
+      "publishedAt": "2025-11-03T01:24:00Z",
+      "content": "Traders who shorted the S&amp;P 500 essentially, betting that it would go down last month were in for a rude surprise. The broad-based index ended the month 2.3% higher, defying \"Octoberphobia,\" a te… [+1321 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "Alphabet is increasingly launching \"moonshot\" projects as independent companies -- here's why | TechCrunch",
+      "description": "Alphabet is increasingly launching \"moonshot\" projects as independent companies -- here's why | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/54884872593_c3dca13a6c_k.jpg?resize=1200,800",
+      "publishedAt": "2025-11-03T01:04:02Z",
+      "content": "Alphabet’s X moonshot factory is shifting how it brings ambitious technology projects to market, increasingly spinning them out as independent companies rather than keeping them within the Alphabet c… [+6561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Perplexity's new AI tool lets you search patents with natural language - and it's free",
+      "description": "Perplexity Patents is currently in beta and free for all users. Here's how to try it.",
+      "url": "https://www.zdnet.com/article/perplexitys-new-ai-tool-lets-you-search-patents-with-natural-language-and-its-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e22b8b371eb30b448a3d8fe96741fb72fe71d69d/2025/10/31/a9b8a222-ba2c-4647-8404-3cda2aa03288/gettyimages-2164941978.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-03T01:00:26Z",
+      "content": "MicroStockHub/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Perplexity launched Perplexity Patents on Thursday.</li… [+2615 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/oLArQnScJwdtaBaGDQqtXo-1920-80.jpg",
       "publishedAt": "2025-10-31T11:45:00Z",
       "content": "Mini PC maker Minisforum just announced a price hike for its product lineup, except for barebone models and items that do not come with DDR5 memory and SSD storage. The company made this announcement… [+2800 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Not enough people are talking about this budget Android phone that's feature rich",
-      "description": "If you're looking for a phone with a large screen, a big battery, and impressive performance, Oukitel has just the one for you.",
-      "url": "https://www.zdnet.com/article/not-enough-people-are-talking-about-this-budget-android-phone-thats-feature-rich/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/168dd776c45adeff0d134ff3e97af633e4ea103a/2025/10/22/3db2807e-9668-4181-a8b0-05e7f772cd65/wp581.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T11:37:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've been reviewing Oukitel rugged phones for some time now, and the one thing that trips me up with these devices is the performance. Yes, they… [+5737 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "These Galaxy S26 rumors hint at Samsung making a big performance bet - will it pay off?",
-      "description": "Samsung's flagships are due for a major refresh - here's everything we know so far about the Galaxy S26, from processor and camera to battery and more.",
-      "url": "https://www.zdnet.com/article/these-galaxy-s26-rumors-hint-at-samsung-making-a-big-performance-bet-will-it-pay-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/75c1150aaf65796261bcc3163dda0551cf1380d6/2025/01/28/60bf7541-cc7c-4f33-af55-e9217c04b454/dsc03899-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-10-31T11:34:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5649 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Resilience, not sovereignty, defines OpenStack's next chapter",
-      "description": "Price hikes, politics, and platform fatigue drive organizations back toward open alternatives\nOpenInfra Summit Sovereignty might be the word of the hour, but the OpenStack community has another – resilience.…",
-      "url": "https://www.theregister.com/2025/10/31/resilience_openinfra_summit/",
-      "urlToImage": "https://regmedia.co.uk/2018/07/25/trust_shutterstock.jpg",
-      "publishedAt": "2025-10-31T11:29:13Z",
-      "content": "OpenInfra Summit Sovereignty might be the word of the hour, but the OpenStack community has another resilience.\r\n\"It's about independence and control,\" said Thierry Carrez, general manager at the Ope… [+4175 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Sora now lets you pay extra to make more AI videos",
-      "description": "Keep burning through your video generation allowance on Sora? No problem, OpenAI now lets you buy extra credits to make even more AI videos. That’s good, because the company says it expects to reduce free allowances at some point in the future. Bill Peebles, …",
-      "url": "https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-2239939746.jpg?quality=90&strip=all&crop=0%2C10.73009041629%2C100%2C78.53981916742&w=1200",
-      "publishedAt": "2025-10-31T11:16:01Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nMore monetization is on the way, including cuts to free AI video allowances.\r\nMore monetization is on the way, including cuts to free AI video allowances.\r\nby\r\nR… [+3245 chars]"
     }
   ]
 }
