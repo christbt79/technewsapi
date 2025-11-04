@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-04T22:07:47.719Z",
+  "fetchedAt": "2025-11-04T22:38:34.113Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Locket’s social app is picking up steam with Gen Alpha",
+      "description": "Locket's social app is using iOS Live Activities to reach Gen Alpha via the iPhone Lock Screen.",
+      "url": "https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/locket-app.jpg?resize=1200,675",
+      "publishedAt": "2025-11-03T22:37:51Z",
+      "content": "Locket, a private social networking app for friends, has scored a win with Gen Alpha users following the launch of its latest feature, Rollcall. \r\nThe app, which lets friends share photos that then a… [+4667 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Altman and Nadella need more power for AI, but they’re not sure how much | TechCrunch",
+      "description": "The CEOs of OpenAI and Microsoft are betting that AI will continue to consume more electricity, but they're not sure how much. That could leave some investors holding the bag.",
+      "url": "https://techcrunch.com/2025/11/03/altman-and-nadella-need-more-power-for-ai-but-theyre-not-sure-how-much/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?resize=1200,764",
+      "publishedAt": "2025-11-03T22:37:41Z",
+      "content": "How much power is enough for AI? Nobody knows, not even OpenAI CEO Sam Altman or Microsoft CEO Satya Nadella.\r\nThat has put software-first businesses like OpenAI and Microsoft in a bind. Much of the … [+3964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "MIT Sloan quietly shelves AI ransomware study after researcher calls BS",
+      "description": "Even AI has doubts about the claim that '80% of ransomware attacks are AI-driven'\nDo 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researche…",
+      "url": "https://www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/",
+      "urlToImage": "https://regmedia.co.uk/2022/03/08/ransomware_shutterstock.jpg",
+      "publishedAt": "2025-11-03T22:31:06Z",
+      "content": "Do 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researcher Kevin Beaumont.\r\nThe… [+3633 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "No, ChatGPT hasn’t added a ban on giving legal and health advice",
+      "description": "OpenAI says ChatGPT’s behavior “remains unchanged” after reports across social media falsely claimed that new s updates to its usage policy prevent the chatbot from offering legal and medical advice. Karan Singhal, OpenAI’s head of health AI, writes on X that…",
+      "url": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+      "publishedAt": "2025-11-03T22:20:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs health exec says ChatGPTs behavior hasnt changed.\r\nOpenAIs health exec says ChatGPTs behavior hasnt changed.\r\nby\r\nEmma RothClose\r\nEmma Roth\r\nPosts from t… [+2530 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://bl-i.thgim.com/public/incoming/soou90/article70230191.ece/alternates/LANDSCAPE_1200/PO02_Gold_candle_chart.jpg",
       "publishedAt": "2025-11-02T06:09:38Z",
       "content": "The emerging-market equity benchmark gained for a 10th consecutive month in October, as an artificial-intelligence boom and a weaker dollar drive capital inflows.\r\nThe MSCI Emerging Markets Index has… [+2332 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft plans to hire more but with 'a lot more leverage' thanks to AI, CEO Satya Nadella says",
-      "description": "The company wants to ensure that all of its employees can access its Microsoft 365 and GitHub Copilot artificial intelligence tools, CEO Satya Nadella said.",
-      "url": "https://www.cnbc.com/2025/11/01/microsoft-ceo-headcount-leverage-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139003-1746040294896-gettyimages-2207879673-MICROSOFT_COPILOT.jpeg?v=1762032586&w=1920&h=1080",
-      "publishedAt": "2025-11-01T22:08:30Z",
-      "content": "Microsoft will expand its employee base once again, CEO Satya Nadella told investor Brad Gerstner on a podcast that aired on Friday.\r\nThe software maker's workforce didn't budge in the 2025 fiscal ye… [+2541 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster | TechCrunch",
-      "description": "Elon Musk wants you to know that Sam Altman got a refund for his Tesla Roadster | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/01/elon-musk-wants-you-to-know-that-sam-altman-got-a-refund-for-his-tesla-roadster/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
-      "publishedAt": "2025-11-01T20:03:29Z",
-      "content": "Elon Musk and Sam Altman are still taking swipes at each other on Musks social media platform X.\r\nWhile both men were founders at OpenAI, where Altman is CEO, they have subsequently sparred across so… [+1686 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week",
-      "description": "There are plenty of good smartwatches out there, and Google’s last-gen Pixel Watch 3 is one of them. Right now, the 45mm / Wi-Fi model is available at Amazon, Walmart, and Target for $199.99 ($100 off), which is a new low price and $150 less than the Pixel Wa…",
-      "url": "https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Google-Pixel-Watch-3-Deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-01T17:09:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found great deals on the foldable Motorola Razr (2024), the SteelSeries Arctis Pro Wireless headset, and more.\r\nWe also found great deals on the foldable… [+6228 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Rising energy prices put AI and data centers in the crosshairs | TechCrunch",
-      "description": "A majority of consumers say they’re worried about data centers driving up electricity costs. Is the industry prepared for a possible backlash?",
-      "url": "https://techcrunch.com/2025/11/01/rising-energy-prices-put-ai-and-data-centers-in-the-crosshairs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197370288.jpg?resize=1200,800",
-      "publishedAt": "2025-11-01T16:18:37Z",
-      "content": "As tech companies tout their plans for massive new data centers, consumers are increasingly worried the AI-driven gold rush will ultimately drive up the price they pay for electricity, according to a… [+2885 chars]"
     }
   ]
 }
