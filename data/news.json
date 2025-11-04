@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-04T11:35:25.681Z",
+  "fetchedAt": "2025-11-04T12:19:09.935Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Boutayna Chokrane",
+      "title": "What to Do in Chicago If You’re Here for Business (2025)",
+      "description": "Work, eat, and play like a local with this business traveler’s guide. Discover Chicago’s best hotels, coworking spaces, and hidden gems worth your time.",
+      "url": "https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/",
+      "urlToImage": "https://media.wired.com/photos/6902e960c0fbe92c80e74e2f/191:100/w_1280,c_limit/CITY%20GUIDE%20-%20Chicago.png",
+      "publishedAt": "2025-11-03T12:02:00Z",
+      "content": "Chicago always has something to prove. When it went up against New York for the 1893 World's Fair, a New York Sun reporter called out its \"windbag\" campaigners. Illinois ended up hosting the fair, an… [+9275 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Google pulls AI model after senator says it fabricated assault allegation",
+      "description": "Google says it has pulled AI model Gemma from its AI Studio platform after a Republican senator complained the model, designed for developers, “fabricated serious criminal allegations” about her.  In a post on X, Google’s official news account said the compan…",
+      "url": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK258_GOOGLE_GEMMA__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-03T11:40:40Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle said its Gemma AI Studio model should never have been used for factual assistance in the first place. \r\nGoogle said its Gemma AI Studio model should never… [+4019 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/soundblaster3.jpg?quality=90&strip=all&crop=0%2C10.720554088791%2C100%2C78.558891822417&w=1200",
       "publishedAt": "2025-10-31T14:08:34Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nCreatives Sound Blaster Re:Imagine hub streamlines routing audio to and from your various devices.\r\nCreatives Sound Blaster Re:Imagine hub streamlines routing au… [+3127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Amazon's stock soars 12% on third-quarter beat and increased spending guidance",
-      "description": "Amazon blew past analyst estimates in its third-quarter earnings report and raised its capital expenditures forecast for the year to $125 billion.",
-      "url": "https://www.cnbc.com/2025/10/31/amazon-amzn-stock-earnings-revenue-ai-cloud.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107825-17405902912025-02-26t171428z_315459334_rc2f2daohftm_rtrmadp_0_amazon-com-alexa.jpeg?v=1740590368&w=1920&h=1080",
-      "publishedAt": "2025-10-31T13:45:48Z",
-      "content": "Amazon shares soared 12% on Friday after the company reported an across-the-board beat for the third quarter and boosted its forecast for spending due to demand for artificial intelligence services.\r… [+3083 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Tech's $380 billion splurge: This quarter's winners and losers of the AI spending boom",
-      "description": "With the largest cloud and internet companies reporting results this week, it's clear that spending on artificial intelligence is only increasing.",
-      "url": "https://www.cnbc.com/2025/10/31/tech-ai-google-meta-amazon-microsoft-spend.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189400-17558192742024-09-25t203922z_1336797993_rc2u7aalwc6k_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1755819335&w=1920&h=1080",
-      "publishedAt": "2025-10-31T13:36:42Z",
-      "content": "Mark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California, US, on Wednesday, Sept. 17, 2025. \r\nTech's internet giants have made it throu… [+5231 chars]"
     }
   ]
 }
