@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T19:07:39.656Z",
+  "fetchedAt": "2025-11-04T19:31:32.504Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brad Bourque",
+      "title": "Our Favorite Earbuds for Android Users Are $60 Off",
+      "description": "Save a chunk of change on the excellent Google Pixel Buds Pro 2.",
+      "url": "https://www.wired.com/story/pixel-buds-pro-2-deal-1125/",
+      "urlToImage": "https://media.wired.com/photos/6908f5266359494b0611e7b4/191:100/w_1280,c_limit/Our%20Favorite%20Earbuds%20for%20Android%20Users%20are%20$60%20Off.png",
+      "publishedAt": "2025-11-03T19:11:42Z",
+      "content": "Hunting for a fresh pair of earbuds for your Android phone? The Google Pixel Buds Pro 2 are currently marked down to just $169 at Amazon, a $60 markdown from their usual price. I spotted the discount… [+1963 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/iddck7uUbzHKsyUD9akjyT-2560-80.jpg",
       "publishedAt": "2025-11-01T12:29:00Z",
       "content": "AMD’s latest Adrenalin Edition 25.10.2 driver release has caused quite a stir among users, but the company has now issued important clarifications. While the update moves Radeon RX 5000 (RDNA 1) and … [+2700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "While AI spending is top of mind, online ads are driving a lot of Big Tech's growth",
-      "description": "Meta, Amazon, Alphabet and Microsoft reported quarterly earnings that showed rising digital ad sales and increased AI infrastructure spending.",
-      "url": "https://www.cnbc.com/2025/11/01/meta-alphabet-amazon-microsoft-earnings-ads.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108179672-1753964381009-Untitled-1.jpg?v=1753964473&w=1920&h=1080",
-      "publishedAt": "2025-11-01T12:00:01Z",
-      "content": "META CEO Mark Zuckerberg (L) and Microsoft CEO Satya Nadella.\r\nAs tech giants increase their already breathtaking spending on artificial intelligence, their respective digital advertising businesses … [+6346 chars]"
     }
   ]
 }
