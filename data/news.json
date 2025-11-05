@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T19:08:18.474Z",
+  "fetchedAt": "2025-11-05T19:31:46.891Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI launches Sora for Android devices",
+      "description": "OpenAI's short-form AI video app Sora is now available on Android devices in the U.S., Canada, Japan, South Korea, Taiwan, Thailand and Vietnam.",
+      "url": "https://www.cnbc.com/2025/11/04/openai-sora-android.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214983-17610771932025-10-21t195023z_2008595976_rc2jghajhi33_rtrmadp_0_openai-sora.jpeg?v=1761077292&w=1920&h=1080",
+      "publishedAt": "2025-11-04T19:23:37Z",
+      "content": "OpenAI on Tuesday launched its Sora app of AI-generated videos for Android devices.\r\nThe artificial intelligence company first launched Sora for Apple devices in September. The announcement on Tuesda… [+916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Perplexity AI accuses Amazon of bullying with legal threat over Comet browser",
+      "description": "Amazon wants Perplexity to prevent its users from using its AI browser called Comet to make purchases on their behalf.",
+      "url": "https://www.cnbc.com/2025/11/04/perplexity-ai-amazon-bullying-comet-browser.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184848-1755017629963-gettyimages-2218082345-BLOOMBERG_TECH.jpeg?v=1755017697&w=1920&h=1080",
+      "publishedAt": "2025-11-04T19:13:58Z",
+      "content": "Perplexity AI accused Amazon of \"bullying\" on Tuesday after it received a letter from the e-commerce giant demanding it prevent people from using its artificial intelligence browser Comet to make pur… [+1633 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/VjGpeHPAfmsyhxWWgEXhR3.gif",
       "publishedAt": "2025-11-03T17:39:09Z",
       "content": "Anycubic has started its Black Friday / Cyber Monday sale early, and we have been all over the site to find you the best deals on a great 3D printer and the many accessories to keep you printing.\r\nWe… [+13970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Perplexity and Getty are teaming up - could this help soothe copyright concerns?",
-      "description": "A new agreement between the two companies aims to tackle the legal messiness of AI image generation.",
-      "url": "https://www.zdnet.com/article/perplexity-and-getty-are-teaming-up-could-this-help-soothe-copyright-concerns/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c0eee66eac0e221afcb84a153815ba029beeb15f/2025/11/03/c2392a9e-2946-4234-a591-549436c920f5/gettyimages-1153093392.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T17:38:50Z",
-      "content": "ogeday çelik/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Getty Images and Perplexity have a licensing agreement. <… [+2814 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Cybercrooks team up with organized crime to steal pricey cargo",
-      "description": "Old-school cargo heists reborn in the cyber age\nCybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.…",
-      "url": "https://www.theregister.com/2025/11/03/cybercriminals_team_up_with_ocgs/",
-      "urlToImage": "https://regmedia.co.uk/2019/06/18/shutterstock_box_dolly.jpg",
-      "publishedAt": "2025-11-03T17:38:04Z",
-      "content": "Cybercriminals are increasingly orchestrating lucrative cargo thefts alongside organized crime groups (OCGs) in a modern-day resurgence of attacks on freight companies.\r\nReminiscent of the decades-ol… [+4863 chars]"
     }
   ]
 }
