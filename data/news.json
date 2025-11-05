@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-05T20:39:48.665Z",
+  "fetchedAt": "2025-11-05T21:08:30.468Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "I let Gemini watch my family for the weekend — it got weird",
+      "description": "This weekend, I turned my home into a test lab for Google's new Gemini for Home AI and subjected my family to 72 hours of surveillance as it watched, interpreted, and narrated our every move. My purpose? To find out if an AI that sees everything is actually h…",
+      "url": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258066_testing_Gemini_Home_new_AI-powered_video_summaries_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T21:06:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nI let Gemini watch my family for the weekend it got weird\r\nGoogles Nest cams now use AI to tell you what they see, not just show you. Only sometimes it tells me … [+9137 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Rivian creates another spinoff company called Mind Robotics | TechCrunch",
+      "description": "It's the second time this year Rivian has spun out a new company, after it created micromobility startup Also in March.",
+      "url": "https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/Rivian-QUAD-R1S-sunset.jpg?resize=1200,800",
+      "publishedAt": "2025-11-04T21:05:18Z",
+      "content": "Rivian has created its second spinoff company this year: an industrial AI and robotics venture called Mind Robotics.\r\nThe new effort will be focused around using “industrial AI to reshape how physica… [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "The latest Meta smart glasses update makes this Ray-Ban model even easier for me to recommend",
+      "description": "Smoother and longer video recording is coming to older Meta smart glasses, but there's more to the November update.",
+      "url": "https://www.zdnet.com/article/the-latest-meta-smart-glasses-update-makes-this-ray-ban-model-even-easier-for-me-to-recommend/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fae5f2da8641cb7af5095938da02cfedc9691a2d/2025/08/27/c7c79ccd-c5c9-4252-8914-cf6561d1fd0b/meta-ray-bans-aug-2025-03.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T21:04:00Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Meta is rolling out its Nov. firmware update across Ray-Ban and Oakley smart glasses.</li><li>… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "If Apple's new budget MacBook is true, I'm worried for Chromebooks and Windows laptops",
+      "description": "Apple could be developing a new, lightweight MacBook with the iPhone's A18 Pro chipset, and at a price that's sure to turn heads.",
+      "url": "https://www.zdnet.com/article/if-apples-new-budget-macbook-is-true-im-worried-for-chromebooks-and-windows-laptops/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T20:48:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple could be developing a new budget-friendly MacBook for around $599. </li><li>It would repor… [+4966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Corey Quinn",
+      "title": "Deploying to Amazon's cloud is a pain in the AWS younger devs won't tolerate",
+      "description": "They have no need to prove their bonafides\nRecently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else's problems, and realized something that had been nagging at me for a while: working with AWS …",
+      "url": "https://www.theregister.com/2025/11/04/aws_genz_misery_nope/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/24/free_shutterstock.jpg",
+      "publishedAt": "2025-11-04T20:43:30Z",
+      "content": "Recently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else's problems, and realized something that had been nagging at me for a while: … [+5554 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tina Nguyen",
+      "title": "Why Trump hijacked the .gov domain",
+      "description": "Hello and welcome to Regulator. Happy New York City mayoral election day to everyone who's voting, watching from afar, or just here for the memes. And happy 35th day of the federal government shutdown, which, as of today, is tied for the longest shutdown in h…",
+      "url": "https://www.theverge.com/column/813499/viral-politics-trump-mamdani-cuomo",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/White-House-internet.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T20:42:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nDonald Trumps vicious, meme-driven ethos has started seeping into the US governments official internet presence.\r\nDonald Trumps vicious, meme-driven ethos has st… [+8127 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/waymo-zeekr-rt.jpg?resize=1200,801",
       "publishedAt": "2025-11-03T19:46:31Z",
       "content": "Waymo said Monday it will launch a robotaxi service in Detroit, Las Vegas, and San Diego as the Alphabet-owned company hits the accelerator on its expansion plans. \r\nThe announcement illustrates Waym… [+2905 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brad Bourque",
-      "title": "Our Favorite Earbuds for Android Users Are $60 Off",
-      "description": "Save a chunk of change on the excellent Google Pixel Buds Pro 2.",
-      "url": "https://www.wired.com/story/pixel-buds-pro-2-deal-1125/",
-      "urlToImage": "https://media.wired.com/photos/6908f5266359494b0611e7b4/191:100/w_1280,c_limit/Our%20Favorite%20Earbuds%20for%20Android%20Users%20are%20$60%20Off.png",
-      "publishedAt": "2025-11-03T19:11:42Z",
-      "content": "Hunting for a fresh pair of earbuds for your Android phone? The Google Pixel Buds Pro 2 are currently marked down to just $169 at Amazon, a $60 markdown from their usual price. I spotted the discount… [+1963 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "OpenAI Signs $38 Billion Deal With Amazon",
-      "description": "OpenAI has committed to buying billions of dollars worth of compute from AWS—the latest in a string of major deals brokered by the AI startup.",
-      "url": "https://www.wired.com/story/openai-amazon-multi-billion-dollar-deal/",
-      "urlToImage": "https://media.wired.com/photos/6908dabab4390cc1ef394dee/191:100/w_1280,c_limit/AWS-Amazon-Business-2243562968.jpg",
-      "publishedAt": "2025-11-03T19:04:05Z",
-      "content": "OpenAI has signed a multi-year deal with Amazon to buy $38 billion worth of AWS cloud infrastructure to train its models and serve its users.\r\nThe deal is yet another sign of the AI industry becoming… [+2289 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brian Barrett, Leah Feiger",
-      "title": "WIRED Roundup: Alpha School, Grokipedia, and Real Estate AI Videos",
-      "description": "In this episode of “Uncanny Valley,” we run through the top stories of the week and dive into why the promise of a tech-forward school in Texas with software instead of teachers fell apart.",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-alpha-school-grokipedia-real-estate-ai-videos/",
-      "urlToImage": "https://media.wired.com/photos/6903e781d7276866034bbcd3/191:100/w_1280,c_limit/Uncanny-Valley-News-Update-Alpha-School-Security-1339828637.jpg",
-      "publishedAt": "2025-11-03T19:03:46Z",
-      "content": "The thing that gets me, and I'm really curious about your take on this, Brian, as someone with children, that the guides these people that were brought in, they were actually in the room with student… [+2211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Kim Kardashian says she felt financially unsafe during her marriage with Kanye West—expert says it can happen to anyone",
-      "description": "Any situation where you don't see eye to eye with a partner you share finances with has the possibility of causing a significant amount of strain.",
-      "url": "https://www.cnbc.com/2025/11/03/kim-kardashian-says-she-felt-financially-unsafe-in-her-marriage.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220023-1761921145075-gettyimages-2243694197-2n6a5266_yslgjbdz.jpeg?v=1761921234&w=1920&h=1080",
-      "publishedAt": "2025-11-03T18:21:33Z",
-      "content": "Feeling financially unsafe in a relationship can happen to anyone, even billionaires.\r\nKim Kardashian said her ex-husband Kanye West's unpredictable spending habits including suddenly purchasing and … [+4049 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "OpenAI inks $38B deal with AWS for some non-Azure cloud computing",
-      "description": "Amazon deal still dwarfed by $250B Azure commitment made as part of OpenAI's for-profit transformation\nOpenAI has signed a seven-year, $38 billion agreement with Amazon Web Services, adding another hyperscaler alongside Microsoft Azure for its growing AI comp…",
-      "url": "https://www.theregister.com/2025/11/03/openai_inks_38b_deal_with_aws/",
-      "urlToImage": "https://regmedia.co.uk/2024/01/29/openai.jpg",
-      "publishedAt": "2025-11-03T18:17:06Z",
-      "content": "OpenAI has signed a seven-year, $38 billion agreement with Amazon Web Services, adding another hyperscaler alongside Microsoft Azure for its growing AI compute needs.\r\nIt's been less than a week sinc… [+2970 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Lambda, Microsoft agree to multibillion-dollar AI infrastructure deal with Nvidia chips",
-      "description": "The new infrastructure with Microsoft will include the NVIDIA GB300 NVL72 systems, which are also deployed by hyperscaler CoreWeave.",
-      "url": "https://www.cnbc.com/2025/11/03/lambda-ai-microsoft-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108104463-1739985379716-AP25031404600076.jpg?v=1739985456&w=1920&h=1080",
-      "publishedAt": "2025-11-03T18:05:05Z",
-      "content": "Cloud computing startup Lambda announced on Monday a multibillion-dollar deal with Microsoft for artificial intelligence infrastructure powered by tens of thousands of Nvidia chips.\r\nThe agreement co… [+1453 chars]"
     }
   ]
 }
