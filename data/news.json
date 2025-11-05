@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-05T16:12:11.709Z",
+  "fetchedAt": "2025-11-05T16:46:46.170Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Chinese provinces offer steep power discounts to AI companies using China-made chips — country continues its aggressive push towards AI independence and homegrown silicon",
+      "description": "Chinese provinces offer steep power discounts to AI companies using domestic chips",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/chinese-provinces-offer-steep-power-discounts-to-ai-companies-using-china-made-chips-country-continues-its-aggressive-push-towards-ai-independence-and-homegrown-silicon",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tNwnwt2CeCUqUadQPyzeeN-2121-80.jpg",
+      "publishedAt": "2025-11-04T16:40:25Z",
+      "content": "The war for AI dominance just got a new front of sorts. According to a new report, some Chinese provinces are now offering steep discounts on industrial power pricing to AI datacenters, with only one… [+2212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "I've tested every Apple Watch model in 2025 - here's why now is the best time to buy the Ultra",
+      "description": "The Apple Watch Ultra 3 is Apple's most durable and longest-lasting wearable yet - but its upgrades go well beyond just battery life.",
+      "url": "https://www.zdnet.com/article/ive-tested-every-apple-watch-model-in-2025-heres-why-now-is-the-best-time-to-buy-the-ultra/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8089096fd0729fe6fa265bf8c0989242416c08f2/2025/09/17/b3398d0d-a33f-499f-8252-fd2705ad158e/img-0040.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T16:39:00Z",
+      "content": "What's the deal? \r\nAmazon is taking $100 off the Apple Watch Ultra 3 for the first time. Apple's rugged and most expensive smartwatch sees its first discount since debuting in September. \r\nFollow ZDN… [+6713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zhiye Liu",
+      "title": "Nvidia unexpectedly replaces a damaged RTX 5090 GPU despite user blunder — $1,999 flagship GPU escapes paperweight status against all odds",
+      "description": "A GeForce RTX 5090 owner damaged his graphics card while attempting to install a water block, but Nvidia agreed to replace it anyway.",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-unexpectedly-replaces-a-damaged-rtx-5090-gpu-despite-user-blunder-usd1-999-flagship-gpu-escapes-paperweight-status-against-all-odds",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
+      "publishedAt": "2025-11-04T16:33:42Z",
+      "content": "An extremely fortunate RTX 5090 owner who contacted Nvidia after breaking their GPU while trying to install a custom liquid cooling block has received a brand new card free of charge, despite voiding… [+4395 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joe Fay",
+      "title": "Coders paired with bot buddies work fast, but take too many shortcuts",
+      "description": "Trust me bro, says GitHub Copilot. And programmers just... do\nDevelopers who \"pair code\" with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partner’s ou…",
+      "url": "https://www.theregister.com/2025/11/04/humanhuman_code_pairs_more_talkative/",
+      "urlToImage": "https://regmedia.co.uk/2025/01/09/aicoding.jpg",
+      "publishedAt": "2025-11-04T16:28:58Z",
+      "content": "Developers who \"pair code\" with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partners outpu… [+4534 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "2008 financial crisis prophet bets against the AI bubble with potential $1 billion payout — Michael Burry reveals put options on Nvidia and Palantir",
+      "description": "Contrarian stance against two of the biggest AI-fuelled stocks could be the pin that pops the bubble.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/2008-financial-crisis-prophet-bets-against-the-ai-bubble-with-potential-usd1-billion-payout-michael-burry-reveals-put-options-on-nvidia-and-palantir",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K8gTfkSMq5pGrJ8Pp5MmeH-2000-80.jpg",
+      "publishedAt": "2025-11-04T16:21:56Z",
+      "content": "Scion Asset Management has disclosed that, as recently as September 30, it was betting big on the decline of AI-fuelled titans like Nvidia and Palantir. While we don’t often concern ourselves with st… [+3574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Spotify tops third-quarter estimates on strong user growth, issues mixed guidance",
+      "description": "The streaming platform had 281 million premium subscribers for the quarter, coming in just below StreetAccount expectations.",
+      "url": "https://www.cnbc.com/2025/11/04/spotify-tops-third-quarter-estimates-issues-mixed-guidance.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177273-1753466127579-gettyimages-2224449965-TFSPI_14072025-8776.jpeg?v=1762267271&w=1920&h=1080",
+      "publishedAt": "2025-11-04T16:13:51Z",
+      "content": "Spotify on Tuesday reported strong third-quarter results that topped Wall Street expectations and saw total revenue climb 12% year over year, but issued weak guidance for revenue and subscribers for … [+2602 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/cada7bd702efd7153db2dfeb467937e5a757fb18/2025/11/03/c4f0a769-0237-4b2a-98ef-c99c7e7999dc/the-best-linux-distributions-that-youve-never-heard-of.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T15:49:26Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways \r\n<ul><li>If you thought you knew every Linux distro, think again.</li><li>These obscure distr… [+7100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Want better ChatGPT responses? Try this surprising trick, researchers say",
-      "description": "A study by researchers from Penn State University found that rude prompts garnered more accurate results than did polite ones.",
-      "url": "https://www.zdnet.com/article/want-better-chatgpt-responses-try-this-surprising-trick-researchers-say/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e76c39264cba6117734b21934c6f53f7e7f00c14/2025/11/03/8e1fbf52-6e66-4bdc-bf22-dc7af45ef455/gettyimages-951932750.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:46:27Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A Penn State study tested the use of different tones with AI.</li><li>The stud… [+3837 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "The Apple Watch SE 3 is on sale for a record low price of $199",
-      "description": "If you haven’t upgraded your Apple Watch in years (or haven’t tried one at all) the Apple Watch SE 3 (40mm GPS) offers the best bang for your buck, and the Starlight color is down to a new all-time low of $199.99 ($50 off) at Amazon. Verge senior reviewer Vic…",
-      "url": "https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Verge-Deals-Apple-Watch-SE-3.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-03T15:37:54Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe also found deals on the Google Nest Thermostat and Amazons Fire HD 10 tablet.\r\nWe also found deals on the Google Nest Thermostat and Amazons Fire HD 10 tablet… [+3946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "How to actually use AI in a small business: 10 lessons from the trenches",
-      "description": "It's not about proving you can use AI - it's about using it wisely. Let's cut through the hype with practical tips on how small companies can get real results.",
-      "url": "https://www.zdnet.com/article/how-to-actually-use-ai-in-a-small-business-10-lessons-from-the-trenches/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e49ab3e2d61791ba43c9a2af5915ae417f8a176f/2025/10/31/b532ccad-d7f9-4558-a3a9-01eee9d213f3/gettyimages-2172538639.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:28:03Z",
-      "content": "peshkov/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nCNBC recently reported on conflicting numbers about AI adoption and productivity among small businesses. Produ… [+13523 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "How to use AI tools to create 'Small Business Saturday' posters, flyers, and ads - for free",
-      "description": "If you're a small business looking to promote your sales the day after Black Friday, here's how you can easily use AI tools to design all your marketing assets for little to no money.",
-      "url": "https://www.zdnet.com/article/how-to-use-ai-tools-to-create-small-business-saturday-posters-flyers-and-ads-for-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f528ad9a96cc91d8a2a083f7350a80c695baa33b/2025/10/30/d5ec27bc-0e6d-48ba-8838-d6627e415a0d/154.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:27:39Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nFor many shoppers, Black Friday is mostly an online affair. Small businesses often struggle to market themselves a… [+2424 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "I run a very small business. Here are 21 simple ways AI saves me time every day",
-      "description": "From coding to marketing to YouTube production, here's how a two-person company harnesses AI to outperform teams ten times their size, all while spending less than their QuickBooks subscription.",
-      "url": "https://www.zdnet.com/article/i-run-a-very-small-business-here-are-21-simple-ways-ai-saves-me-time-every-day/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c3535ec56f225b94edd980cddb1f1b023ce26f96/2025/11/02/9e94d050-c3ab-4c3c-98ea-9dcdd2e267fb/gettyimages-157531137.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:26:25Z",
-      "content": "chrispecoraro/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google. \r\nAre you thinking about investing in AI for your small company? The buzz about AI seems to be everywhere, but is … [+17402 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "3 Apple devices you probably shouldn't buy this month (and 9 that are safe for now)",
-      "description": "Before you splurge on Apple gifts this holiday season, see what's coming next - and how to save on AirPods Pro 3.",
-      "url": "https://www.zdnet.com/article/3-apple-devices-you-probably-shouldnt-buy-this-month-and-9-that-are-safe-for-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/281adb9d2a9313e57458029386f6f5dc8e915edd/2022/12/12/82ab3641-17ef-4117-89f7-da0c2382d6fb/press-andhold.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:26:00Z",
-      "content": "The white light on the HomePod display will turn red, continue to hold.\r\nJason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Apple's 2025 holiday… [+7328 chars]"
     }
   ]
 }
