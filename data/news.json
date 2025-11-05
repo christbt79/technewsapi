@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T17:09:41.855Z",
+  "fetchedAt": "2025-11-05T17:38:27.666Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple is reportedly working on a cheaper Mac laptop with an iPhone chip",
+      "description": "Apple is working on a low-cost Mac laptop powered by an iPhone chip that it plans to launch in the first half of 2026, according to Bloomberg. The laptop will also have a “a lower-end LCD display” and a screen size that’s “slightly below” the 13.6-inch screen…",
+      "url": "https://www.theverge.com/news/813391/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/257607_M4_MacBook_Air_ADiBenedetto_0021.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T17:33:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt will have a smaller screen, but could come in at well under $1,000.\r\nIt will have a smaller screen, but could come in at well under $1,000.\r\nby\r\nJay PetersClo… [+2567 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/7c8c8520e88a2c0507e543bea3be0bbc69e493b7/2025/11/03/75ca51a8-d3a0-4221-94ea-19d0d54e2684/u-s-ban-on-tp-link-routers-gains-traction-heres-what-to-do-to-stay-protected-online.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T16:49:29Z",
       "content": "TP Link / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>US agencies back proposal to ban TP-Link routers.</li><li>A ban could so… [+8907 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "5 must-have cloud tools for small businesses in 2025 (and my top 10 money-saving secrets)",
-      "description": "Are you overpaying for cloud tools? Here's how small changes can save you thousands a year.",
-      "url": "https://www.zdnet.com/article/the-5-cloud-tools-smbs-actually-need-in-2025-and-the-secret-to-keeping-their-costs-down/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2a5fd7e5b16a5e1e089f86effa01e4da41637a75/2025/11/03/805034d3-859c-4031-ab2b-d15042a433ea/gettyimages-814801908-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T16:19:00Z",
-      "content": "jokerpro/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nWhen it comes to cloud services and small businesses, the sky's the limit. That's a good thing because you're… [+14411 chars]"
     }
   ]
 }
