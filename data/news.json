@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-05T00:45:40.190Z",
+  "fetchedAt": "2025-11-05T02:25:23.344Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Joseph Martins",
+      "title": "AI's biggest threat isn't skynet, it's thermodynamics",
+      "description": "xFusion champions a holistic hardware strategy that tackles the fundamental physics of the modern datacenter Sponsored Feature  Enterprises and hyperscalers are pouring billions of dollars into AI infrastructure, but reaping a return on this investment is not…",
+      "url": "https://www.theregister.com/2025/11/04/ais_biggest_threat_isnt/",
+      "urlToImage": "https://regmedia.co.uk/2022/06/21/datacenter_shutterstock.jpg",
+      "publishedAt": "2025-11-04T01:35:45Z",
+      "content": "Sponsored Feature Enterprises and hyperscalers are pouring billions of dollars into AI infrastructure, but reaping a return on this investment is not guaranteed. The reason? Unresolved and fundamenta… [+7712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Cisco suggests a stubby chassis, shrunken servers and router, to tame the edge",
+      "description": "'Unified Edge' designed so even retail workers can replace a server Cisco entered the server market in 2009 because the company thought incumbent vendors weren’t satisfying customers. On Monday, the networking giant entered the edge infrastructure market for …",
+      "url": "https://www.theregister.com/2025/11/04/cisco_unified_edge/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/04/supplied_cisco_ucs_xe9305_unified_edge_chassis.jpg",
+      "publishedAt": "2025-11-04T01:27:06Z",
+      "content": "Cisco entered the server market in 2009 because the company thought incumbent vendors werent satisfying customers. On Monday, the networking giant entered the edge infrastructure market for the same … [+3081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Outside AI, the market isn't looking that hot",
+      "description": "Even as the S&P 500 and Nasdaq Composite rose on the back of the tech behemoths, more than 300 stocks in the broad-based index ended the day lower.",
+      "url": "https://www.cnbc.com/2025/11/04/cnbc-daily-open-outside-ai-the-market-isnt-looking-that-hot.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220888-1762211589070-gettyimages-2244386371-Illustration_Amazon.jpeg?v=1762211661&w=1920&h=1080",
+      "publishedAt": "2025-11-04T01:23:04Z",
+      "content": "The \"everything store\" might have secured its biggest customer yet.\r\nOn Monday, Amazon announced that it had signed a $38 billion deal with OpenAI, offering the ChatGPT maker access to Amazon Web Ser… [+2458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Palantir CEO celebrates one cash culture to rule them all",
+      "description": "If you want your First Amendment rights, make money the Palantir way\nPalantir CEO Alex Karp used his quarterly shareholder letter to take aim at critics after the company beat Q3 2025 earnings estimates.…",
+      "url": "https://www.theregister.com/2025/11/04/palantir_ceo_celebrates_one_culture/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/30/shutterstock_palantir.jpg",
+      "publishedAt": "2025-11-04T01:05:26Z",
+      "content": "Palantir CEO Alex Karp used his quarterly shareholder letter to take aim at critics after the company beat Q3 2025 earnings estimates.\r\nThe company, named for an Elvish video conferencing system hack… [+3306 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219563-1761848790870-GettyImages-1311549168.jpg?v=1761848832&w=1920&h=1080",
       "publishedAt": "2025-11-02T14:28:29Z",
       "content": "When your kid is in the middle of a tantrum, logic and lectures don't work.\r\nI've studied over 200 kids and worked with hundreds of families, and one thing is clear: Tantrums aren't about defiance. R… [+4330 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Top Wall Street analysts suggest these 3 dividend stocks for enhanced total returns",
-      "description": "TipRanks' ranking service highlights three dividend-paying stocks, including Valero Energy and Albertsons Companies.",
-      "url": "https://www.cnbc.com/2025/11/02/top-wall-street-analysts-suggest-these-3-dividend-stocks-for-enhanced-total-returns-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104705823-GettyImages-839005266-valero.jpg?v=1761909539&w=1920&h=1080",
-      "publishedAt": "2025-11-02T13:19:33Z",
-      "content": "The Valero Energy refinery in Texas City, Texas.\r\nThe focus on dividend stocks is growing, as the U.S. Federal Reserve announced another rate cut. Investors can consider stocks that offer dividends a… [+6571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Christian de Looper",
-      "title": "Samsung Galaxy Buds 3 Pro vs. Apple AirPods Pro 3: I compared both, and this one wins",
-      "description": "It's a battle of device ecosystems - but is one truly better? Here's my verdict.",
-      "url": "https://www.zdnet.com/article/samsung-galaxy-buds-3-pro-vs-apple-airpods-pro-3-i-compared-both-and-this-one-wins/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3723d81dfb59c4ffc61a2c21021e571a98c29bfc/2025/09/22/a2bbdfbe-b230-41b9-ae86-8777e3b546b6/app3bsgal.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-02T12:30:35Z",
-      "content": "Christian de Looper/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nThe first-party advantage is real. \r\nThe most obvious example of why first-party products are worth considering is th… [+6347 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Microsoft CEO says the company doesn't have enough electricity to install all the AI GPUs in its inventory - 'you may actually have a bunch of chips sitting in inventory that I can’t plug in'",
-      "description": "Microsoft CEO Satya Nadella said in an interview that he has some AI chips in inventory that he cannot use because he has nowhere to plug them in.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-ceo-says-the-company-doesnt-have-enough-electricity-to-install-all-the-ai-gpus-in-its-inventory-you-may-actually-have-a-bunch-of-chips-sitting-in-inventory-that-i-cant-plug-in",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rMNVD2T8rNc2h7zBikky7G-1920-80.jpg",
-      "publishedAt": "2025-11-02T12:20:00Z",
-      "content": "Microsoft CEO Satya Nadella said during an interview alongside OpenAI CEO Sam Altman that the problem in the AI industry is not an excess supply of compute, but rather a lack of power to accommodate … [+3228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "GPU overclocker uses chilled car antifreeze and pond pump to push Intel card to sub-zero temps, sets world record — 'TrashBench' sets GPU benchmark record at -17C, gains 16% more performance",
-      "description": "TrashBench manages to break the 3DMark Time Spy performance record using a water pump and a 50/50 glycol mix.",
-      "url": "https://www.tomshardware.com/pc-components/overclocking/gpu-overclocker-uses-car-coolant-and-pond-pump-to-cool-intel-arc-b580-achieves-17c-temperature-16-percent-performance-uplift-and-gpu-benchmark-record",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZbWzHT4YhngmgztdRHx43-1920-80.jpg",
-      "publishedAt": "2025-11-02T12:00:00Z",
-      "content": "GPU overclocker TrashBench set a world overclocking record on an Intel Arc B580 GPU with a relatively simple setup. Instead of employing exotic solutions like liquid nitrogen, used by other overclock… [+2459 chars]"
     }
   ]
 }
