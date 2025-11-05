@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T02:25:23.344Z",
+  "fetchedAt": "2025-11-05T03:29:53.869Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "How to turn off Gemini in your Gmail, Photos, Chrome, and more - it's easy to opt out of AI",
+      "description": "The settings are a bit hidden, but there are ways to remove Gemini from your favorite Google services.",
+      "url": "https://www.zdnet.com/article/how-to-turn-off-gemini-in-your-gmail-photos-chrome-and-more-its-easy-to-opt-out-of-ai/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/56a79afce386f12714f413c88ac9f913b0bbedbe/2025/11/03/7dda3c4c-2332-4d04-bede-08e2b6d0d5e0/2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T03:00:00Z",
+      "content": "Why would I turn off Gemini? \r\nSome people are concerned about privacy, performance issues, or frustration with AI inaccuracies, while others simply prefer things the way they were before Gemini. Eit… [+1352 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "My 20+ Google Docs tricks to supercharge your workflow (no extensions required)",
+      "description": "From editable PDFs to instant translations, Google Docs offers numerous features that many people overlook.",
+      "url": "https://www.zdnet.com/article/my-20-google-docs-tricks-to-supercharge-your-workflow-no-extensions-required/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/74a5b73dd8a5ebc0c306e36b51ffd144aae5e7ad/2023/04/18/4460af37-b193-43bb-a007-c03883062787/google-logo-in-foldable.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T02:30:32Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220132-1761932350301-gettyimages-2243832297-US_GOV_FUNDING.jpeg?v=1761932392&w=1920&h=1080",
       "publishedAt": "2025-11-02T15:03:42Z",
       "content": "Millions of Americans are living in fear that they will go hungry due to potential delays in SNAP food assistance benefit payments, even after a federal judge ordered the Trump administration to make… [+7117 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "What keeps Ella Emhoff motivated during tumultuous times: 'Small changes impact big change'",
-      "description": "Ella Emhoff on staying politically active, mental health, and the best advice former Vice President Kamala Harris gave her.",
-      "url": "https://www.cnbc.com/2025/11/02/what-keeps-ella-emhoff-motivated-during-tumultuous-times.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219615-1761852934344-gettyimages-2242725956-sc1_4563_35dptu0b.jpeg?v=1761853000&w=1920&h=1080",
-      "publishedAt": "2025-11-02T14:30:01Z",
-      "content": "With politics among the biggest stressors for Americans, and the political gender gap growing among young people, it can be hard to stay motivated when divisions feel more contentious than ever.\r\nFew… [+3512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "I've studied over 200 kids—these 7 'magic phrases' can calm any tantrum instantly",
-      "description": "Calming down your kid during a tantrum can feel impossible. Reem Raouda, a child psychologist who has studied over 200 kids, shares the \"magic phrases\" that will instantly stop a meltdown.",
-      "url": "https://www.cnbc.com/2025/11/02/ive-studied-over-200-kidsthese-7-magic-phrases-can-calm-any-tantrum-instantly.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219563-1761848790870-GettyImages-1311549168.jpg?v=1761848832&w=1920&h=1080",
-      "publishedAt": "2025-11-02T14:28:29Z",
-      "content": "When your kid is in the middle of a tantrum, logic and lectures don't work.\r\nI've studied over 200 kids and worked with hundreds of families, and one thing is clear: Tantrums aren't about defiance. R… [+4330 chars]"
     }
   ]
 }
