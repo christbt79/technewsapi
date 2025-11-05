@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T08:13:41.027Z",
+  "fetchedAt": "2025-11-05T08:45:39.866Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "Why I strongly recommend these earbuds, even though their audio is subpar",
+      "description": "If you need a pair of earbuds that sound great on phone calls, the OpenRock Link 20 open-air earbuds are some of the best I've tested.",
+      "url": "https://www.zdnet.com/article/why-i-strongly-recommend-these-earbuds-even-though-their-audio-is-subpar/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T08:45:28Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5449 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/tekedra-many_views-disrupt.jpg?resize=1200,801",
       "publishedAt": "2025-11-02T17:06:29Z",
       "content": "Welcome back to TechCrunch Mobility your central hub for news and insights on the future of transportation. To get this in your inbox, sign up here for free just click TechCrunch Mobility!\r\nWere mixi… [+6830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Elon Musk alleges Sam Altman 'stole a non-profit' as AI bros spat over cancelled Tesla Roadster order",
-      "description": "Sam Altman, the CEO of OpenAI, recently posted his Tesla Roadster order being mishandled on X — both of those latter companies are owned by Elon Musk, who replied with a casual \"you stole a non-profit\" statement. Altman was instrumental in the recent recapita…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-alleges-sam-altman-stole-a-non-profit-as-ai-bros-spat-over-cancelled-tesla-roadster-order",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9ywjRpaArKhPbXZ5T3zUdh-2560-80.jpg",
-      "publishedAt": "2025-11-02T16:41:38Z",
-      "content": "Yesterday, OpenAI CEO Sam Altman took to X — Elon Musk's platform — to post three screenshots telling a story about how his 2018 order for the next-gen Tesla Roadster was mishandled. Altman emailed t… [+4022 chars]"
     }
   ]
 }
