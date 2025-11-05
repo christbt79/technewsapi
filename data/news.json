@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T05:39:36.900Z",
+  "fetchedAt": "2025-11-05T06:14:53.043Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "HSBC, General Atlantic CEOs flag AI capex-revenue mismatch, 'irrational exuberance'",
+      "description": "Alphabet, Meta, Microsoft, and Amazon collectively expect $380 billion in capex this year, while OpenAI has announced $1 trillion in infrastructure deals.",
+      "url": "https://www.cnbc.com/2025/11/04/hsbc-ai-capex-elhedery-ford-openai-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220954-1762229279080-gettyimages-2202518009-MJP_20250301__Perplexity_6276JPG.jpeg?v=1762229291&w=1920&h=1080",
+      "publishedAt": "2025-11-04T05:52:43Z",
+      "content": "As companies pour billions into artificial intelligence, HSBC CEO Georges Elhedery on Tuesday warned of a mismatch between investments and revenues.\r\nSpeaking at the Global Financial Leaders' Investm… [+2438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI is not in a bubble, says VC founder. Why he says it's different to the dotcom boom",
+      "description": "The speed at which both businesses and consumers are adopting AI sets this boom apart from other bubbles, Antler founder Marcus Grimeland told CNBC.",
+      "url": "https://www.cnbc.com/2025/11/04/ai-is-not-in-a-bubble-says-vc-founder-its-different-to-the-dotcom-boom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220064-1761924837760-gettyimages-1296135877-b17_1610539324.jpeg?v=1761924875&w=1920&h=1080",
+      "publishedAt": "2025-11-04T05:49:39Z",
+      "content": "Whether or not markets are getting ahead of themselves over artificial intelligence is a hot topic for investors right now.\r\nLast week, billionaire investor Ray Dalio said his personal \"bubble indica… [+3362 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107360187-1705498131263-1J7A0183.JPG?v=1710865691&w=1920&h=1080",
       "publishedAt": "2025-11-02T15:49:05Z",
       "content": "Mustafa Suleyman, CEO of Microsoft AI, speaks at an event commemorating the 50th anniversary of the company at Microsoft headquarters in Redmond, Washington, on April 4, 2025.\r\nMicrosoft AI chief Mus… [+6644 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "China tweets satellite photos of Taiwan's critical Hsinchu chip hub in pressure-ratcheting political stunt — 'where all the world’s advanced foundry IP is created,' highest concentration of chipmaking facilities in the world",
-      "description": "A Chinese embassy post highlighting Hsinchu Science Park underscores rising geopolitical risks to the world’s most advanced chip supply.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-posts-photo-of-taiwans-chip-hub-in-political-message",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GQtcCsy8rJJhSTwCjj2m6k-1269-80.jpg",
-      "publishedAt": "2025-11-02T15:46:04Z",
-      "content": "On Friday night, China’s embassy in Washington posted a familiar message to X: “There is but one China in the world.” But this time, the predictable rhetoric from China came with a glossy photo carou… [+3306 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "GPU surgeon attempts to rescue fatally-bent RTX 4090 that came in for a melted power connector fix — autopsy reveals shorted MOSFET that killed the GPU core",
-      "description": "It's not often we see a graphics card that is almost completely fried across the board. That's what happened with this poor RTX 4090 whose 12V rail leaked into the memory, frying the VRAM and travelling to the core in the process, killing the GPU for good. No…",
-      "url": "https://www.tomshardware.com/pc-components/gpus/gpu-surgeon-attempts-to-rescue-fatally-bent-rtx-4090-that-came-in-for-a-melted-power-connector-fix-autopsy-reveals-shorted-mosfet-that-killed-the-gpu-core-rare-failed-repair-attempt-from-skilled-technician",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZJtvMY5GSt5TMSXKRNiu9-1920-80.png",
-      "publishedAt": "2025-11-02T15:34:35Z",
-      "content": "Here's a bent-out-of-shape GPU repair that quickly turned from a curiosity into a horror story: A dead Aorus-branded Nvidia RTX 4090 card landed on the desk of Northwest Repair, originally reported t… [+3798 chars]"
     }
   ]
 }
