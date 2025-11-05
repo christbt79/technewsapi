@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-05T22:08:55.712Z",
+  "fetchedAt": "2025-11-05T22:38:48.449Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "People Inc forges AI licensing deal with Microsoft as Google traffic drops | TechCrunch",
+      "description": "People Inc forges AI licensing deal with Microsoft as Google traffic drops | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?resize=1200,593",
+      "publishedAt": "2025-11-04T22:33:15Z",
+      "content": "People Inc., one of the largest media publishers in the U.S., has signed an AI licensing deal with Microsoft. The media giant (formerly known as Dotdash Meredith) made the announcement Tuesday as a p… [+2836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Super Micro stock drops on slumping sales, weak earnings",
+      "description": "Super Micro has been a big beneficiary of the AI boom, but revenue and earnings in the latest quarter fell short of estimates.",
+      "url": "https://www.cnbc.com/2025/11/04/super-micro-smci-q1-earnings-report-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055704-1730389067587-gettyimages-2155472473-TAIWAN_COMPUTEX.jpeg?v=1762293469&w=1920&h=1080",
+      "publishedAt": "2025-11-04T22:23:24Z",
+      "content": "Super Micro Computer shares plunged as much as 10% in extended trading on Tuesday after the server maker issued weaker-than-expected results for the fiscal first quarter.\r\nHere's how the company did … [+1282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
+      "description": "DHS rule would expand biometric collection to immigrants and some citizens linked to them If you're filing an immigration form - or helping someone who is - the Feds may soon want to look in your eyes, swab your cheek, and scan your face. The US Department of…",
+      "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
+      "urlToImage": "https://regmedia.co.uk/2023/03/29/shutterstock_identity.jpg",
+      "publishedAt": "2025-11-04T22:20:16Z",
+      "content": "If you're filing an immigration form - or helping someone who is - the Feds may soon want to look in your eyes, swab your cheek, and scan your face. The US Department of Homeland Security wants to gr… [+4431 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?resize=1200,764",
       "publishedAt": "2025-11-03T22:37:41Z",
       "content": "How much power is enough for AI? Nobody knows, not even OpenAI CEO Sam Altman or Microsoft CEO Satya Nadella.\r\nThat has put software-first businesses like OpenAI and Microsoft in a bind. Much of the … [+3964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "MIT Sloan quietly shelves AI ransomware study after researcher calls BS",
-      "description": "Even AI has doubts about the claim that '80% of ransomware attacks are AI-driven'\nDo 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researche…",
-      "url": "https://www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/",
-      "urlToImage": "https://regmedia.co.uk/2022/03/08/ransomware_shutterstock.jpg",
-      "publishedAt": "2025-11-03T22:31:06Z",
-      "content": "Do 80 percent of ransomware attacks really come from AI? MIT Sloan has now withdrawn a working paper that made that eyebrow-raising claim after criticism from security researcher Kevin Beaumont.\r\nThe… [+3633 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "No, ChatGPT hasn’t added a ban on giving legal and health advice",
-      "description": "OpenAI says ChatGPT’s behavior “remains unchanged” after reports across social media falsely claimed that new s updates to its usage policy prevent the chatbot from offering legal and medical advice. Karan Singhal, OpenAI’s head of health AI, writes on X that…",
-      "url": "https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "publishedAt": "2025-11-03T22:20:38Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAIs health exec says ChatGPTs behavior hasnt changed.\r\nOpenAIs health exec says ChatGPTs behavior hasnt changed.\r\nby\r\nEmma RothClose\r\nEmma Roth\r\nPosts from t… [+2530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Google yanks Gemma after US senator says model ‘hallucinated’ her committing crimes",
-      "description": "Still available via API, the developer-facing AI isn't even really designed to answer general-purpose questions\nIf Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented crimin…",
-      "url": "https://www.theregister.com/2025/11/03/google_pulls_gemma_from_ai_studio/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/22/gemma.jpg",
-      "publishedAt": "2025-11-03T21:34:03Z",
-      "content": "If Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative… [+4613 chars]"
     }
   ]
 }
