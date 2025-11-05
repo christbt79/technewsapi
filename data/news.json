@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-05T15:38:45.556Z",
+  "fetchedAt": "2025-11-05T16:12:11.709Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Cameron Faulkner",
+      "title": "Google’s entire Pixel 10 lineup is up to 25 percent off for the first time",
+      "description": "If you’re going to buy a phone in the next couple of days, you might already be considering one of Google’s Pixel 10 devices. Whether you want the cheapest model, which, like the iPhone 17, is very good, or you want the better camera performance and extra AI …",
+      "url": "https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/pixel10leaddeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T16:04:43Z",
+      "content": "If you’re going to buy a phone in the next couple of days, you might already be considering one of Google’s Pixel 10 devices. Whether you want the cheapest model, which, like the iPhone 17, is very g… [+4515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "James Hayes",
+      "title": "Bring complexity under control with enterprise-grade Kubernetes",
+      "description": "No, it'll probably never be a doddle – but you don't have to take the hard way when deploying Kubernetes, says Nutanix Sponsored Feature  Containers are arguably business computing's biggest success story. Enhancing speed, agility, scalability and portability…",
+      "url": "https://www.theregister.com/2025/11/04/bring_complexity_under_control/",
+      "urlToImage": "https://regmedia.co.uk/2021/11/30/shutterstock_gears_cogs_machinery.jpg",
+      "publishedAt": "2025-11-04T16:00:15Z",
+      "content": "Sponsored Feature Containers are arguably business computing's biggest success story. Enhancing speed, agility, scalability and portability across IT environments, they have become foundational to en… [+10052 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "11 ways to delete or hide yourself from the internet - and protect your privacy",
+      "description": "Take control of your privacy, cut off data trackers, and erase your online presence. Here's how.",
+      "url": "https://www.zdnet.com/article/11-ways-to-delete-or-hide-yourself-from-the-internet-and-protect-your-privacy/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/45b089bc0a90428e1bdb8e0ddc7bf161232e000c/2025/11/04/67402ec2-b1c1-48bc-ae3d-df121a88fafc/10-tips-to-delete-yourself-from-the-internet-and-hide-yourself-online2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T15:50:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Your online footprint is bigger than you think.</li><li>Personal data can resurface l… [+18007 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/281adb9d2a9313e57458029386f6f5dc8e915edd/2022/12/12/82ab3641-17ef-4117-89f7-da0c2382d6fb/press-andhold.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T15:26:00Z",
       "content": "The white light on the HomePod display will turn red, continue to hold.\r\nJason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Apple's 2025 holiday… [+7328 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "OpenAI and Amazon ink $38B cloud computing deal   | TechCrunch",
-      "description": "OpenAI isn't done securing the AI infrastructure it needs to rapidly scale agentic workloads. The ChatGPT-maker on Monday said it has reached a deal with Amazon to buy $38 billion in cloud computing services over the next seven years.",
-      "url": "https://techcrunch.com/2025/11/03/openai-and-amazon-ink-38b-cloud-computing-deal/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-data-center.png?resize=1200,675",
-      "publishedAt": "2025-11-03T15:23:22Z",
-      "content": "OpenAI isn’t done securing the AI infrastructure it needs to rapidly scale agentic workloads. The ChatGPT-maker on Monday said it has reached a deal with Amazon to buy $38 billion in cloud computing … [+988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "How to talk to your kids about financial hardship like layoffs: ‘Children are exceptionally perceptive,’ expert says",
-      "description": "Be honest with your kids about what you're going through, says behavioral wealth manager Wendell Clarke.",
-      "url": "https://www.cnbc.com/2025/11/03/got-laid-off-heres-how-to-talk-to-your-kids-about-financial-hardship.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220256-1761944338422-gettyimages-2190840794-8488-1.jpeg?v=1761944420&w=1920&h=1080",
-      "publishedAt": "2025-11-03T15:20:39Z",
-      "content": "Hundreds of thousands of Americans are reconfiguring their budgets right now.\r\nMajor employers like Amazon, Target and Nestle have all announced layoffs and the government shutdown is now in its seco… [+2634 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "25+ Google Docs tricks you're not using enough (no extensions required)",
-      "description": "From editable PDFs to automatic translations, Google Docs has a long list of features many people have never used.",
-      "url": "https://www.zdnet.com/article/25-google-docs-tricks-youre-not-using-enough-no-extensions-required/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8a44aacdd09e8dda34d41e9fb58f1883d448ee7b/2025/10/22/82502208-4842-4490-a207-4f98ae7ffc31/img-4118.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:16:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
     }
   ]
 }
