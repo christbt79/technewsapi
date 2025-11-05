@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T19:31:46.891Z",
+  "fetchedAt": "2025-11-05T20:10:27.921Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Chrome can now store your driver's license and passport, but is that safe?",
+      "description": "Google's enhanced autofill can save you time by filling in more types of info. Here's how to enable it, while protecting yourself from potential risks.",
+      "url": "https://www.zdnet.com/article/chrome-can-now-store-your-drivers-license-and-passport-but-is-that-safe/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/800067b3571fba4aa5221be089df43e157ca6ecc/2025/11/04/e31d6d54-7be0-4e87-b85f-3d664f937d0e/chrome5556gettyimages-2236407788.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T19:42:46Z",
+      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new enhanced autofill can store and fill in more types of info.</li><li>You can save your driver… [+5761 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1008258336.jpg?resize=1200,800",
       "publishedAt": "2025-11-03T17:57:28Z",
       "content": "Google announced on Monday that its Chrome browser can now fill in your passport, driver’s license, vehicle registration, and more as part of its auto-fill feature.\r\nThe addition expands Chrome’s exi… [+1807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Les Pounder",
-      "title": "Anycubic Early Black Friday 3D Printers deals begin with up to 39% off — massive savings on printers and accessories beginning today",
-      "description": "We've dug up the best early Black Friday 3D printer deals — massive savings on 3D printers and accessories beginning today",
-      "url": "https://www.tomshardware.com/3d-printing/anycubic-early-black-friday-3d-printers-deals-begin-with-up-to-39-percent-off-massive-savings-on-printers-and-accessories-beginning-today",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VjGpeHPAfmsyhxWWgEXhR3.gif",
-      "publishedAt": "2025-11-03T17:39:09Z",
-      "content": "Anycubic has started its Black Friday / Cyber Monday sale early, and we have been all over the site to find you the best deals on a great 3D printer and the many accessories to keep you printing.\r\nWe… [+13970 chars]"
     }
   ]
 }
