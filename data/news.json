@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-05T13:04:46.873Z",
+  "fetchedAt": "2025-11-05T13:46:34.905Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "On this day in 1988, the Morris worm infected 10% of the Internet within 24 hours — worm slithered out and sparked a new era in cybersecurity",
+      "description": "Cornell graduate student Robert Tappan Morris unleashed his eponymous worm upon the Internet 37 years ago, changing the face of cybersecurity.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ttuF6zAsvkYiVcKNJst2TH-2000-80.jpg",
+      "publishedAt": "2025-11-04T13:45:00Z",
+      "content": "This week in 1988, Cornell graduate student Robert Tappan Morris unleashed his eponymous worm upon the Internet. The wave of infections grew to 10% of the entire Internet within 24 hours, causing ast… [+4033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zak Killian",
+      "title": "Elon Musk's SpaceX to launch reusable \"fabships\" for orbital chip manufacturing experiments — 'the ultimate egg drop challenge,' Besxar's orbital chipmaking experiments to occur over 12 launches",
+      "description": "The startup is betting on the vacuum of space to solve chipmaking's purity problem, with SpaceX boosters as its test lab.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-spacex-to-launch-reusable-fabships-for-orbital-chip-manufacturing-experiments-besxars-orbital-chipmaking-experiments-to-occur-over-12-launches",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BFky4zrZUxNkSd6dh5nfQW-1920-80.jpg",
+      "publishedAt": "2025-11-04T13:30:00Z",
+      "content": "It's not quite a chip factory in orbit yet, but that's the end goal of yet another project to build processors in space. Washington D.C.–based startup Besxar just announced that it has inked a 12-lau… [+3377 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "$10B + spent on liquid cooling this week – it's only Tuesday",
+      "description": "Eaton and Vertiv splash cash as HPC infrastructure and AI factories run hot\nLiquid cooling tech is hot. It's only Tuesday and already infrastructure specialists have forked out more than $10 billion on companies proffering tech that promises to help ease ener…",
+      "url": "https://www.theregister.com/2025/11/04/eaton_and_vertiv_both_acquire/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/20/datacenter_shutterstock.jpg",
+      "publishedAt": "2025-11-04T13:29:56Z",
+      "content": "Liquid cooling tech is hot. It's only Tuesday and already infrastructure specialists have forked out more than $10 billion on companies proffering tech that promises to help ease energy bills of data… [+3062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Behind the wave of white-collar layoffs: Old-school cost cutting, tariffs and, yes, AI",
+      "description": "Amazon, Target and UPS are laying off thousands of employees, but the reasons behind the cuts go a lot deeper than AI.",
+      "url": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220830-1762204848405-White_collar_lay_offs_thumbnail_F.jpg?v=1762205052&w=1920&h=1080",
+      "publishedAt": "2025-11-04T13:16:02Z",
+      "content": "Corporate America is getting rocked by historic rounds of white-collar layoffs, leading some to wonder: Has AI finally come for their jobs?\r\nWhile the proliferation of generative and agentic artifici… [+11995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "3D printing enthusiast creates camera with a gutted optical mouse's sensor — lo-fi 30x30 pixel camera took 65 hours to build",
+      "description": "A 3D printing enthusiast has made a cute, functional lo-fi digital camera using an optical sensor salvaged from a discarded mouse PCB.",
+      "url": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-creates-camera-with-a-gutted-optical-mouses-sensor-lo-fi-30x30-pixel-camera-took-65-hours-to-build",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hxYHjLK974VHW4VhyhHF2L-1920-80.jpg",
+      "publishedAt": "2025-11-04T13:15:00Z",
+      "content": "A 3D printing enthusiast has made a cute, functional digital camera using an optical sensor salvaged from a discarded mouse PCB. This is an admirable recycling-inspired maker project to see completed… [+3687 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e965c9a67d478a9abfcd6ea61141b936ac406635/2025/10/31/06619c2a-b633-494e-86c7-8a26136c9e45/6.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T10:12:57Z",
       "content": "Last but not least, ask yourself if what you just watched seems even remotely possible or too funny, cute, or amazing to be real. It probably is, if that's the case. \r\nI remember last year, when thos… [+927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Owen Hughes",
-      "title": "Students using ChatGPT beware: Real learning takes legwork, study finds",
-      "description": "Boffins say outsourcing your homework leaves you sounding less knowledgeable, short on facts\nA study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school: to be a subject matter expert, you've got to spend t…",
-      "url": "https://www.theregister.com/2025/11/03/chatgpt_real_understanding/",
-      "urlToImage": "https://regmedia.co.uk/2018/11/13/shutterstock_confused.jpg",
-      "publishedAt": "2025-11-03T10:00:11Z",
-      "content": "A study of how people use ChatGPT for research has confirmed something most of us learned the hard way in school: to be a subject matter expert, you've got to spend time swotting up.\r\nMore than 10,00… [+4089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "I tried a $400 Android phone that looks dull on paper, and I couldn't put it down",
-      "description": "The TCL Nxtpaper 60 Ultra redefines 'Ultra,' prioritizing eye comfort and stylus performance over raw power.",
-      "url": "https://www.zdnet.com/article/i-tried-a-400-android-phone-that-looks-dull-on-paper-and-i-couldnt-put-it-down/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/522be71b5f901bb25b5975fe1efa71adcfe34505/2025/09/20/6bcf1e5f-9085-4aa8-b4c2-4f51262b2bfa/pxl-20250911-201446397-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T09:47:27Z",
-      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "This tiny tester that tells me what USB cables actually work is my best investment yet",
-      "description": "The Treedix multifunction USB cable tester quickly identifies which cables still work and which ones belong in the recycling bin.",
-      "url": "https://www.zdnet.com/article/this-tiny-tester-that-tells-me-what-usb-cables-actually-work-is-my-best-investment-yet/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6fa8dd7be252462dd67e245bc5fa23b7fb400591/2025/10/28/c5381eae-b06f-4b95-a955-151de63c816a/img-0342.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T09:45:35Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're anything like me, you have a box or bag (or maybe several) of cables you plan to one day sort through. Or maybe you need a quick and e… [+2789 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Tiernan Ray",
-      "title": "Enterprises are not prepared for a world of malicious AI agents",
-      "description": "The current model of managing corporate identities is unprepared for a wave of AI agents gaining access to privileged resources.",
-      "url": "https://www.zdnet.com/article/enterprises-are-not-prepared-for-a-world-of-malicious-ai-agents/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d8df90a56f6076f147982a2268d67c2525d19a72/2025/11/02/55046913-384d-4fb6-8d9c-4802a7865ceb/gettyimages-2148033973.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T09:23:43Z",
-      "content": "Just_Super/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Identity management is broken when it comes to AI agents. </li><li>AI agent… [+8169 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Paul Kunert",
-      "title": "From Intel to the infinite, Pat Gelsinger wants Christian AI to change the world",
-      "description": "Taking belief in LLMs very literally indeed Opinion  It's not been a year since his ouster as Intel's CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He's done hardware with Intel, software with VMWare. This time, it's faithware.…",
-      "url": "https://www.theregister.com/2025/11/03/from_intel_to_the_infinite/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/31/ai_church.jpg",
-      "publishedAt": "2025-11-03T08:30:14Z",
-      "content": "Opinion It's not been a year since his ouster as Intel's CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He's done hardware with Intel, software with VMWare. This time, it's faithw… [+5354 chars]"
     }
   ]
 }
