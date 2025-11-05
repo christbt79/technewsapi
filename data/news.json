@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-05T22:38:48.449Z",
+  "fetchedAt": "2025-11-05T23:09:02.754Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cnbc.com",
+      "title": "Stock market today: Live updates",
+      "description": "Wall Street is coming off a losing session for the major averages.",
+      "url": "https://www.cnbc.com/2025/11/04/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220648-1762299601024-108220648-1762187355169-Traders-Photo-20251102-KK-PRESS-001.jpg?v=1762299626&w=1920&h=1080",
+      "publishedAt": "2025-11-04T23:08:24Z",
+      "content": "Dow futures rose slightly Tuesday night after all three major U.S. averages posted losses.\r\nDow Jones Industrial Average futures climbed 100 points, or 0.23%. S&amp;P 500 futures gained less than 0.1… [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Amazon sends legal threats to Perplexity over agentic browsing | TechCrunch",
+      "description": "Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased.",
+      "url": "https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2181996346.jpg?w=1024",
+      "publishedAt": "2025-11-04T23:07:43Z",
+      "content": "Amazon has told Perplexity to get its agentic browser out of its online store, the companies both confirmed publicly on Tuesday. After warning Perplexity multiple times that Comet, its AI-powered sho… [+3350 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Google imagines out of this world AI - running on orbital datacenters",
+      "description": "Chocolate Factory's latest moonshot aims to put AI supercomputing cluster in sun-sychronous orbit Google on Tuesday announced a new moonshot – launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units…",
+      "url": "https://www.theregister.com/2025/11/04/google_takes_ai_aspirations_orbital/",
+      "urlToImage": "https://regmedia.co.uk/2020/01/24/satellite_shutterstock.jpg",
+      "publishedAt": "2025-11-04T22:40:58Z",
+      "content": "Google on Tuesday announced a new moonshot launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units (TPUs) to form orbital AI datacenters.\r… [+4481 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220652-1762260198115-108220652-1762187355171-Traders-Photo-20251102-KK-PRESS-009-1.jpg?v=1762260218&w=1920&h=1080",
       "publishedAt": "2025-11-03T23:13:00Z",
       "content": "Stock futures fell Tuesday, pressured by declines in artificial intelligence-related names like Palantir as investors grow increasingly concerned about valuations in the bull market-leading shares.\r\n… [+3337 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work | TechCrunch",
-      "description": "Studio Ghibli and other Japanese publishers want OpenAI to stop training on their work | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/03/studio-ghibli-and-other-japanese-publishers-want-openai-to-stop-training-on-their-work/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/miyazaki-ai-ghibli.jpg?resize=1200,800",
-      "publishedAt": "2025-11-03T22:43:54Z",
-      "content": "A Japanese trade organization representing publishers like Studio Ghibli wrote a letter to OpenAI last week, calling for the AI giant to stop training its AI models on their copyrighted content witho… [+3013 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Locket’s social app is picking up steam with Gen Alpha",
-      "description": "Locket's social app is using iOS Live Activities to reach Gen Alpha via the iPhone Lock Screen.",
-      "url": "https://techcrunch.com/2025/11/03/lockets-social-app-is-picking-up-steam-with-gen-alpha/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/01/locket-app.jpg?resize=1200,675",
-      "publishedAt": "2025-11-03T22:37:51Z",
-      "content": "Locket, a private social networking app for friends, has scored a win with Gen Alpha users following the launch of its latest feature, Rollcall. \r\nThe app, which lets friends share photos that then a… [+4667 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Tim De Chant",
-      "title": "Altman and Nadella need more power for AI, but they’re not sure how much | TechCrunch",
-      "description": "The CEOs of OpenAI and Microsoft are betting that AI will continue to consume more electricity, but they're not sure how much. That could leave some investors holding the bag.",
-      "url": "https://techcrunch.com/2025/11/03/altman-and-nadella-need-more-power-for-ai-but-theyre-not-sure-how-much/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/MSFT-Nadella-OpenAI-Altman-09-official-joint-pic.jpg?resize=1200,764",
-      "publishedAt": "2025-11-03T22:37:41Z",
-      "content": "How much power is enough for AI? Nobody knows, not even OpenAI CEO Sam Altman or Microsoft CEO Satya Nadella.\r\nThat has put software-first businesses like OpenAI and Microsoft in a bind. Much of the … [+3964 chars]"
     }
   ]
 }
