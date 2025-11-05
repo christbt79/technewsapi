@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T04:41:30.257Z",
+  "fetchedAt": "2025-11-05T05:10:43.281Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "LLMs are lousy at reading Asian languages, finds Singapore’s Grab",
+      "description": "Superapp company that chased Uber away built its own model to do the job right Proprietary large language models are bad at interpreting Asian languages, according to Singaporean super-app company Grab, which has built its own model instead.…",
+      "url": "https://www.theregister.com/2025/11/04/grab_vision_llm_project/",
+      "urlToImage": "https://regmedia.co.uk/2021/04/14/grab_rider_shutterstock_editorial_only.jpg",
+      "publishedAt": "2025-11-04T04:55:01Z",
+      "content": "Proprietary large language models are bad at interpreting Asian languages, according to Singaporean super-app company Grab, which has built its own model instead.\r\nGrabs superapp offers ride-sharing,… [+4761 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZJtvMY5GSt5TMSXKRNiu9-1920-80.png",
       "publishedAt": "2025-11-02T15:34:35Z",
       "content": "Here's a bent-out-of-shape GPU repair that quickly turned from a curiosity into a horror story: A dead Aorus-branded Nvidia RTX 4090 card landed on the desk of Northwest Repair, originally reported t… [+3798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "While SNAP battle leaves Americans fearing hunger, near $400 billion in food wasted every year",
-      "description": "As the political battle over SNAP benefits leave millions of Americans fearing hunger, the U.S. is wasting an estimated $382 billion a year in food.",
-      "url": "https://www.cnbc.com/2025/11/02/snap-benefits-hunger-in-america-us-food-waste.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220132-1761932350301-gettyimages-2243832297-US_GOV_FUNDING.jpeg?v=1761932392&w=1920&h=1080",
-      "publishedAt": "2025-11-02T15:03:42Z",
-      "content": "Millions of Americans are living in fear that they will go hungry due to potential delays in SNAP food assistance benefit payments, even after a federal judge ordered the Trump administration to make… [+7117 chars]"
     }
   ]
 }
