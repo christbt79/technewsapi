@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-05T16:46:46.170Z",
+  "fetchedAt": "2025-11-05T17:09:41.855Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "High school, college students are excited about AI, not dreading jobs impact",
+      "description": "High school and college students say they're excited about using AI and don't fear its impact on their job prospects.",
+      "url": "https://www.cnbc.com/2025/11/04/students-are-excited-about-ai-not-dreading-impact-on-jobs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220582-1762182111479-TEC_Event_06182.JPG?v=1762182270&w=1920&h=1080",
+      "publishedAt": "2025-11-04T17:02:27Z",
+      "content": "The recent wave of white-collar layoffs may have employees and job seekers rattled, but according to New York University Stern School of Business professor Robert Seamans, his current class of MBA st… [+4401 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Google Maps can tell Polestar 4 drivers when to merge lanes",
+      "description": "Google Maps is rolling out live lane guidance to drivers of the Google-powered electric Polestar 4. The company announced Tuesday that the new feature relies on the EV’s front-facing camera to “see” lane markings and road signs. That information feeds into Go…",
+      "url": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-live-lane.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T16:57:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe live lane guidance feature in Google Maps is coming first to Polestar 4 cars in the US and Sweden.\r\nThe live lane guidance feature in Google Maps is coming f… [+3291 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Anthropic projects $70B in revenue by 2028: Report | TechCrunch",
+      "description": "The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropic’s business products, a person with knowledge of the company’s f…",
+      "url": "https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/AI-Sessions-Anthropic-Kaplan.jpg?resize=1200,800",
+      "publishedAt": "2025-11-04T16:50:27Z",
+      "content": "The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropics bu… [+3008 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote | TechCrunch",
+      "description": "Despite its imprecision, the fourth \"Master Plan\" is a centerpiece of Tesla's case for giving CEO Elon Musk $1 trillion in company shares.",
+      "url": "https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/musk-getty-inauguration-trump.jpg?resize=1200,897",
+      "publishedAt": "2025-11-04T16:49:32Z",
+      "content": "More than two months ago, Tesla published its fourth “Master Plan,” a gauzy post about how the company wants to spread “sustainable abundance” via its future products. Details remain woefully absent,… [+4047 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/2a5fd7e5b16a5e1e089f86effa01e4da41637a75/2025/11/03/805034d3-859c-4031-ab2b-d15042a433ea/gettyimages-814801908-1.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T16:19:00Z",
       "content": "jokerpro/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nWhen it comes to cloud services and small businesses, the sky's the limit. That's a good thing because you're… [+14411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "5 must-have cloud tools for small businesses in 2025 (and my top 10 money-saving secrets)",
-      "description": "Are you overpaying for cloud tools? Here's what you actually need and how small changes can save you thousands a year.",
-      "url": "https://www.zdnet.com/article/5-must-have-cloud-tools-for-small-businesses-in-2025-and-my-top-10-money-saving-secrets/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/2a5fd7e5b16a5e1e089f86effa01e4da41637a75/2025/11/03/805034d3-859c-4031-ab2b-d15042a433ea/gettyimages-814801908-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T16:19:00Z",
-      "content": "jokerpro/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nWhen it comes to cloud services and small businesses, the sky's the limit. That's a good thing because you're… [+14411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "8 ways to make responsible AI part of your company's DNA",
-      "description": "You should build responsible AI into every system from day one. These industry experts share proven ways to do it right.",
-      "url": "https://www.zdnet.com/article/8-ways-to-make-responsible-ai-part-of-your-companys-dna/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c4c6a54076895f58987ad1fca6b2cb59748ac499/2025/11/03/cd3296ed-7f10-4f05-9b56-d26aab1a5516/gettyimages-2158552363.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T16:13:00Z",
-      "content": "Yuichiro Chino / Moment / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>IT, engineering, data, and AI teams now lead responsible AI efforts.</li>… [+8273 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "AMD confirms security vulnerability on Zen 5-based CPUs that generates potentially predictable keys — RDSEED fix coming through an AGESA firmware update for desktop chips",
-      "description": "AMD has confirmed that Zen 5's RDSEED random number generator is failing, causing it to generate potentially predictable cryptography keys for attackers to exploit. Mitigations for the security flaw are launching throughout the next few months for consumer an…",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-confirms-security-vulnerability-on-zen-5-based-cpus-that-generates-potentially-predictable-keys-rdseed-fix-coming-through-an-agesa-firmware-update-for-desktop-chips",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xv8aggMZhYWEmA5ttPHdHh-2560-80.png",
-      "publishedAt": "2025-11-03T15:53:08Z",
-      "content": "AMD has confirmed the existence of RDSEED failure on CPUs based on its latest Zen 5 architecture, a critical security vulnerability in its hardware-based random number generator. The company has conf… [+2984 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "5 obscure Linux distros you've probably never heard of - but should definitely try",
-      "description": "Tired of the same old Linux distros? Try these deep cuts instead.",
-      "url": "https://www.zdnet.com/article/5-obscure-linux-distros-youve-probably-never-heard-of-but-should-definitely-try/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/cada7bd702efd7153db2dfeb467937e5a757fb18/2025/11/03/c4f0a769-0237-4b2a-98ef-c99c7e7999dc/the-best-linux-distributions-that-youve-never-heard-of.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:49:26Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways \r\n<ul><li>If you thought you knew every Linux distro, think again.</li><li>These obscure distr… [+7100 chars]"
     }
   ]
 }
