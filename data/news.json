@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T07:35:40.003Z",
+  "fetchedAt": "2025-11-05T08:13:41.027Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "European markets open lower as investors react to corporate earnings",
+      "description": "European stocks opened in negative territory on Tuesday, reversing positive sentiment seen at the start of the new trading month.",
+      "url": "https://www.cnbc.com/2025/11/04/european-markets-on-nov-4-stoxx-600-ftse-dax-cac.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139912-1746187918887-gettyimages-2208616087-20090101250408-99-478474.jpeg?v=1760000313&w=1920&h=1080",
+      "publishedAt": "2025-11-04T08:08:59Z",
+      "content": "LONDON European stocks opened in negative territory on Tuesday, reversing positive sentiment seen at the start of the new trading month.\r\nThe pan-European Stoxx 600 traded more than 1.1% lower at 8:0… [+1312 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/9ywjRpaArKhPbXZ5T3zUdh-2560-80.jpg",
       "publishedAt": "2025-11-02T16:41:38Z",
       "content": "Yesterday, OpenAI CEO Sam Altman took to X — Elon Musk's platform — to post three screenshots telling a story about how his 2018 order for the next-gen Tesla Roadster was mishandled. Altman emailed t… [+4022 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Meta has an AI product problem  | TechCrunch",
-      "description": "Meta's AI spending is starting to make Wall Street nervous.",
-      "url": "https://techcrunch.com/2025/11/02/meta-has-an-ai-product-problem/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
-      "publishedAt": "2025-11-02T16:13:58Z",
-      "content": "In the midst of an unprecedented AI buildout, Meta is spending more than most. The company is building two massive data centers, and reporting indicates there will be as much as $600 billion in spend… [+5825 chars]"
     }
   ]
 }
