@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-05T21:08:30.468Z",
+  "fetchedAt": "2025-11-05T21:32:43.287Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Avram Piltch",
+      "title": "Copilot can replace Search in latest Windows 11 test builds, but it's not a good idea",
+      "description": "When you opt in, your taskbar becomes an extension of the Copilot app, but with some search added in\nhands on With Microsoft cramming Copilot into every nook and cranny of its software, it’s no surprise that everyone’s favorite AI assistant is now set to take…",
+      "url": "https://www.theregister.com/2025/11/04/microsoft_windows_copilot_search/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/04/shutterstock_2454390647.jpg",
+      "publishedAt": "2025-11-04T21:32:03Z",
+      "content": "hands on With Microsoft cramming Copilot into every nook and cranny of its software, its no surprise that everyones favorite AI assistant is now set to take over the search box. As of the latest Wind… [+5703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "You can try OpenAI's popular Sora video app on Android and iOS now - for free",
+      "description": "With Sora, you can create short-form, AI-generated videos featuring yourself or your friends - no invite code needed.",
+      "url": "https://www.zdnet.com/article/you-can-try-openais-popular-sora-video-app-on-android-and-ios-now-for-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/902e4c07e503b94fe06b99f4993120a2da5941fa/2025/10/23/c2088c66-5fe7-4f50-927b-a9cab4ba16d9/4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T21:28:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI launched Sora 2 AI video and audio engine, in September.</li><li>Sora 2 is f… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Pinterest shares plummet 15% on earnings miss, weak forecast",
+      "description": "Pinterest shares tanked on Tuesday after the company reported third-quarter financial results that missed on earnings per share and provided weak guidance.",
+      "url": "https://www.cnbc.com/2025/11/04/pinterest-pins-q3-earnings-report-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107415431-17157931912024-05-15t171137z_902231356_rc21r7apnw8v_rtrmadp_0_usa-stocks.jpeg?v=1727105936&w=1920&h=1080",
+      "publishedAt": "2025-11-04T21:18:02Z",
+      "content": "Pinterest shares tanked as much as 15% on Tuesday after the company reported third-quarter financial results that missed on earnings per share and provided weak guidance.\r\nHere's how the company did,… [+2761 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115846-1741901334944-gettyimages-2204343747-PALANTIR_AIPCON.jpeg?v=1762185570&w=1920&h=1080",
       "publishedAt": "2025-11-03T21:11:04Z",
       "content": "Palantir reported quarterly results that topped analysts' estimates and issued better-than-expected guidance for the fourth quarter, attributing much of its strength to artificial intelligence. The s… [+2678 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "5 steps to fixing your business's top security risk",
-      "description": "Weak or compromised passwords pose the greatest security risk to companies, according to a new report from password manager 1Password.",
-      "url": "https://www.zdnet.com/article/5-steps-to-fixing-your-businesss-top-security-risk/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fffbf694c73af06355a152d30b2a653f273d248b/2025/04/30/8a32912a-16c7-457b-806e-a870260af189/5-things-to-do-on-world-password-day-to-keep-your-accounts-safe.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T20:42:13Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Weak or compromised passwords pose a significant security risk to companies.</li><l… [+4928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "AWS, Nvidia, Crowdstrike seek security startups to enter the arena",
-      "description": "Last year's winner scored a $65M funding round on a $300M valuation\nCloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.…",
-      "url": "https://www.theregister.com/2025/11/03/cybersecurity_startup_accelerator/",
-      "urlToImage": "https://regmedia.co.uk/2020/05/06/shutterstock_business_boxing.jpg",
-      "publishedAt": "2025-11-03T20:11:54Z",
-      "content": "Cloud and AI security startups have two weeks to apply for a program that fast-tracks access to investors and mentors from Amazon Web Services, CrowdStrike, and Nvidia.\r\nThe highly competitive Cybers… [+2371 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kirsten Korosec",
-      "title": "Waymo's robotaxi expansion accelerates with 3 new cities | TechCrunch",
-      "description": "Waymo's robotaxi expansion accelerates with 3 new cities | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/03/waymos-robotaxi-expansion-accelerates-with-3-new-cities/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/waymo-zeekr-rt.jpg?resize=1200,801",
-      "publishedAt": "2025-11-03T19:46:31Z",
-      "content": "Waymo said Monday it will launch a robotaxi service in Detroit, Las Vegas, and San Diego as the Alphabet-owned company hits the accelerator on its expansion plans. \r\nThe announcement illustrates Waym… [+2905 chars]"
     }
   ]
 }
