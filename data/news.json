@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-05T20:10:27.921Z",
+  "fetchedAt": "2025-11-05T20:39:48.665Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Sequoia names Alfred Lin and Pat Grady as new Co-Stewards as Roelof Botha steps down | TechCrunch",
+      "description": "Just over three years after taking the reins as the steward of the storied firm, Botha passed the leadership baton to Lin and Grady.",
+      "url": "https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+      "publishedAt": "2025-11-04T20:36:49Z",
+      "content": "Just over three years after taking the reins as the leader of Sequoia Capital, Roelof Botha is stepping down as Senior Steward of the storied VC firm. The firm announced Tuesday that partners Alfred … [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments",
+      "description": "For example, you can ask \"find me 2 cheap tickets for the Shaboozey concert coming up. prefer standing floor tickets.\" AI Mode will then search across multiple websites to find real-time ticket options that meet your specific requests.",
+      "url": "https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
+      "publishedAt": "2025-11-04T20:36:18Z",
+      "content": "Google announced on Tuesday that it’s launching new agentic capabilities in AI Mode, its feature that allows users to ask complex questions and follow-ups to dig deeper on a topic directly within Sea… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Echoing Trump's sentiments, America's finance chief Bessent says the most advanced AI GPUs are restricted to home soil - China can have Blackwell chips once they're outdated",
+      "description": "The U.S. Secretary of Treasury Scott Bessent has highlighted a potential future where China could get its hands on Nvidia's current-gen flagship AI chips... when they're no longer the current-gen flagships. Washington is considering letting Nvidia sell Blackw…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/echoing-trumps-sentiments-americas-finance-chief-bessent-says-the-most-advanced-ai-gpus-are-restricted-to-home-soil-china-can-have-blackwell-chips-once-theyre-outdated",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
+      "publishedAt": "2025-11-04T20:10:41Z",
+      "content": "A couple of days ago, Trump told CBS News that China will not be allowed to have the most advanced chips Nvidia makes, but that they can otherwise deal with each other and sort out their own matters.… [+3190 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108104463-1739985379716-AP25031404600076.jpg?v=1739985456&w=1920&h=1080",
       "publishedAt": "2025-11-03T18:05:05Z",
       "content": "Cloud computing startup Lambda announced on Monday a multibillion-dollar deal with Microsoft for artificial intelligence infrastructure powered by tens of thousands of Nvidia chips.\r\nThe agreement co… [+1453 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Microsoft, Alphabet throw more cash on the AI bonfire",
-      "description": "The spending will continue until ROI improves\nTech companies continue to sling crazy amounts of money at AI, with Microsoft announcing deals worth billions in Texas and the United Arab Emirates (UAE), while Google parent Alphabet is selling bonds in Europe to…",
-      "url": "https://www.theregister.com/2025/11/03/tech_firms_continue_to_burn/",
-      "urlToImage": "https://regmedia.co.uk/2016/05/25/burning_money_photo_via_shutterstock.jpg",
-      "publishedAt": "2025-11-03T18:00:19Z",
-      "content": "Tech companies continue to sling crazy amounts of money at AI, with Microsoft announcing deals worth billions in Texas and the United Arab Emirates (UAE), while Google parent Alphabet is selling bond… [+3098 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Justin Pot",
-      "title": "Your Friend Asked You a Question. Don't Copy and Paste an Answer From a Chatbot",
-      "description": "Your friend came to you because they respect your knowledge and opinion, and outsourcing the answer to a machine is lazy and rude. Just answer them yourself.",
-      "url": "https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/",
-      "urlToImage": "https://media.wired.com/photos/6902580e3915279a80da75b9/191:100/w_1280,c_limit/gear-chatbot-copypaste-2148925760-2200190561.jpg",
-      "publishedAt": "2025-11-03T17:57:52Z",
-      "content": "Back in the 2010s, a website called Let Me Google That For You gained a notable amount of popularity for serving a single purpose: snark.\r\nThe site lets you generate a custom link that you can send s… [+2324 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Chrome can now autofill your passport, driver’s license, and vehicle registration info",
-      "description": "Desktop users who have enhanced autofill enabled with see their passport and driver’s license number, vehicle information, like their license plate or VIN, and more automatically filled.",
-      "url": "https://techcrunch.com/2025/11/03/chrome-can-now-autofill-your-passport-drivers-license-and-vehicle-registration-info/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1008258336.jpg?resize=1200,800",
-      "publishedAt": "2025-11-03T17:57:28Z",
-      "content": "Google announced on Monday that its Chrome browser can now fill in your passport, driver’s license, vehicle registration, and more as part of its auto-fill feature.\r\nThe addition expands Chrome’s exi… [+1807 chars]"
     }
   ]
 }
