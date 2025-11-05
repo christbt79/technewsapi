@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-05T18:13:51.344Z",
+  "fetchedAt": "2025-11-05T18:46:59.686Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Aramco CEO says Saudi Arabia's cheap energy will turn kingdom into a global AI data center leader",
+      "description": "Saudi Aramco CEO Amin Nasser shared details of the kingdom's national AI strategy in an interview with CNBC's Sara Eisen.",
+      "url": "https://www.cnbc.com/2025/11/04/aramco-saudi-arabia-ai-data-center.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145679-17472532752024-10-29t122012z_169525670_rc2cuaasj8ro_rtrmadp_0_saudi-investment-fii.jpeg?v=1747253306&w=1920&h=1080",
+      "publishedAt": "2025-11-04T18:40:52Z",
+      "content": "Saudi Arabia will capitalize on its abundant supply of cheap natural gas and renewables to transform the kingdom into a global leader in artificial intelligence, Aramco CEO Amin Nasser told CNBC in a… [+1735 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays",
+      "description": "Now that spooky season’s over, it’s time to swap the pumpkins and skeletons for something a little more cheery ahead of the holidays. Govee’s Christmas Lights 2 are customizable string lights that will add some smart home magic to your tree, with plenty of sl…",
+      "url": "https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25772023/goveechristmas.jpg?quality=90&strip=all&crop=0%2C18.840116151172%2C100%2C79.369967882441&w=1200",
+      "publishedAt": "2025-11-04T18:32:02Z",
+      "content": "<ul><li></li><li></li></ul>\r\nYou can even use the companion app to turn text prompts into custom light shows.\r\nYou can even use the companion app to turn text prompts into custom light shows.\r\nby\r\nSh… [+2568 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandt Ranj",
+      "title": "Google’s entire Fitbit lineup is already seeing steep discounts for Black Friday",
+      "description": "Black Friday is still nearly a month off, but that hasn’t stopped the big-name retailers — specifically Amazon, Walmart, and Best Buy — from discounting a slew of Fitbit devices in the run-up to the main event. Most of the company’s smartwatches and fitness t…",
+      "url": "https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25038289/236838_Fitbit_Charge_6_AKrales_0084.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T18:23:24Z",
+      "content": "The Fitbit Charge 6 is currently on sale for $99.95, which matches its best price to date.\r\n\n\nBlack Friday is still nearly a month off, but that hasn’t stopped the big-name retailers — specifically A… [+4598 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x | TechCrunch",
+      "description": "Shopify says AI-driven traffic to its online stores is up 7x since January, and orders from AI search are up 11x.",
+      "url": "https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
+      "publishedAt": "2025-11-04T18:22:25Z",
+      "content": "E-commerce software provider Shopify is bullish on AI-powered shopping agents, citing AI as an “incredible tool” to enable more entrepreneurs and calling it the “biggest shift in technology since the… [+2621 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -692,6 +744,19 @@
     },
     {
       "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dow Jones Newswires Staff",
+      "title": "Global Markets Fall After Fed Officials Express Diverging Views on Cuts",
+      "description": "U.S. stock futures were in the red with earnings due later from Advanced Micro Devices, Uber, Pfizer and Thomson Reuters.",
+      "url": "https://www.wsj.com/finance/global-markets-fall-after-fed-officials-express-diverging-views-on-cuts-91235ae9",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VnHOS0BGXAVnPQAkHl8CIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/524873822577089acc24a57ebcd0799c",
+      "publishedAt": "2025-11-04T09:29:00Z",
+      "content": "Federal Reserve officials on Monday expressed diverging views on further interest-rate cuts. - Aaron Schwartz/Reuters\r\nU.S. stock futures and global equities markets were in the red Tuesday amid a ge… [+2186 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Theregister.com"
       },
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-03T17:34:13Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nJapanese trade association CODA says Sora 2s opt-out policy may have violated copyright law.\r\nJapanese trade association CODA says Sora 2s opt-out policy may hav… [+2973 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Coca-Cola’s new AI holiday ad is a sloppy eyesore",
-      "description": "Coca-Cola is once again using generative AI to reimagine its classic Coke caravan holiday commercials, and in doing so, killing some of the festive joy you have for the brand. After receiving backlash for airing three AI-generated holiday commercials last yea…",
-      "url": "https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Coca-Cola-AI-holiday-ad-2025.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-03T17:31:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Holidays Are Coming to cheapen your seasonal nostalgia.\r\nThe Holidays Are Coming to cheapen your seasonal nostalgia.\r\nby\r\nJess WeatherbedClose\r\nJess Weatherb… [+3741 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Gullible bots struggle to distinguish between facts and beliefs",
-      "description": "Researchers point to risks in high-stakes applications as well as the potential to spread misinformation\nLarge language models often fail to distinguish between factual knowledge and personal belief, and are especially poor at recognizing when a belief is fal…",
-      "url": "https://www.theregister.com/2025/11/03/llms_struggle_to_distinguish_facts_beliefs/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/03/shutterstock_2309269527.jpg",
-      "publishedAt": "2025-11-03T17:06:30Z",
-      "content": "Large language models often fail to distinguish between factual knowledge and personal belief, and are especially poor at recognizing when a belief is false.\r\nA peer-reviewed study argues that, unles… [+2849 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Hayden Field",
-      "title": "The AI industry is running on FOMO",
-      "description": "For Big Tech, a penny invested in AI is a penny earned… Maybe. After an indeterminate amount of time. Investors hope. On earnings calls last week, Amazon, Google, Microsoft, and Meta reported more than $350 billion this year on capital expenditures, or longer…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-03T17:06:02Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAt least according to Big Techs latest earnings calls.\r\nAt least according to Big Techs latest earnings calls.\r\nby\r\nHayden FieldClose\r\nHayden Field\r\nPosts from t… [+8768 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Dia’s AI browser starts adding Arc’s ‘greatest hits’ to its feature set",
-      "description": "Dia's AI browser has a head start on what works for consumers thanks to learnings from its browser experiment, Arc.",
-      "url": "https://techcrunch.com/2025/11/03/dias-ai-browser-starts-adding-arcs-greatest-hits-to-its-feature-set/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/@Mention-Tabs.jpeg?resize=1200,775",
-      "publishedAt": "2025-11-03T17:01:58Z",
-      "content": "The AI web browser Dia is drawing inspiration from its predecessor, Arc, an earlier experiment in modernizing the web browsing experience that hailed from the startup known as The Browser Company. On… [+3390 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jason Howell",
-      "title": "This $400 Android phone with a paper-like display is boringly awesome - and I can't let go",
-      "description": "The TCL Nxtpaper 60 Ultra redefines 'Ultra,' prioritizing eye comfort and stylus performance over raw power.",
-      "url": "https://www.zdnet.com/article/this-400-android-phone-with-a-paper-like-display-is-boringly-awesome-and-i-cant-let-go/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e68949d871852ec7f3eccca7ffad8b5f37154d9c/2025/09/20/f30c8bbf-bcb5-46dd-95d2-6fbed51e696e/pxl-20250920-002756553-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T16:54:00Z",
-      "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7487 chars]"
     }
   ]
 }
