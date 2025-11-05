@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-05T12:18:29.714Z",
+  "fetchedAt": "2025-11-05T13:04:46.873Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "SUSE Enterprise Linux 16 is here, and its killer feature is digital sovereignty",
+      "description": "Available today, the new SLES 16 is ushering in an AI-ready, top-notch Linux server, while emphasizing its benefits for digital sovereignty.",
+      "url": "https://www.zdnet.com/article/suse-enterprise-linux-16-is-here-and-its-killer-feature-is-digital-sovereignty/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d39b20699672006422c4e470b776f8413bb1085f/2025/11/03/9064e741-49d5-455f-bab9-5ee2d8c5ec87/greeniguana555gettyimages-2241086850.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T13:03:00Z",
+      "content": "Mitchell Hanson/500px/500px Prime via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>SLES 16 comes with model context protocol built in.</li><li>T… [+9168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "DRAM prices surge 171% year-over-year, outpacing the price of gold — AI demand drives massive price increases as shortage takes hold",
+      "description": "DRAM prices are skyrocketing out of control, with contract prices increased by a whopping 171% for the year.",
+      "url": "https://www.tomshardware.com/pc-components/dram/dram-prices-surge-171-percent-year-over-year-ai-demand-drives-a-higher-yoy-price-increase-than-gold",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UqFVjjcU6pNzSSznxamQ3M-1920-80.jpg",
+      "publishedAt": "2025-11-04T13:00:00Z",
+      "content": "DRAM prices are continuing to skyrocket thanks to exorbitant demands from the AI industry.CTEEreports that DRAM contract prices have increased by a whopping 171.8% year over year as of Q3 2025. In fa… [+2102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Post Hindenburg, Adani Enterprises plans to raise $2.8 billion from rights issue",
+      "description": "A report by U.S. short seller Hindenburg derailed Adani Enterprises' plans to raise money in 2023.",
+      "url": "https://www.cnbc.com/2025/11/04/post-hindenburg-adani-enterprises-plans-to-raise-2point8-billion-from-rights-issue.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108070014-17331600242024-12-02t070458z_587775375_rc2rfbajk3cu_rtrmadp_0_adani-group-usa.jpeg?v=1733160050&w=1920&h=1080",
+      "publishedAt": "2025-11-04T12:58:21Z",
+      "content": "Adani Enterprises on Tuesday announced plans to raise 250 billion rupees ($2.8 billion) through a rights issue of shares as it seeks to move on from the controversy that erupted the last time it anno… [+1362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "How to prep your company for a passwordless future - in 5 steps",
+      "description": "Weak or compromised passwords pose the greatest security risk to companies, according to a new report from password manager 1Password.",
+      "url": "https://www.zdnet.com/article/how-to-prep-your-company-for-a-passwordless-future-in-5-steps/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fffbf694c73af06355a152d30b2a653f273d248b/2025/04/30/8a32912a-16c7-457b-806e-a870260af189/5-things-to-do-on-world-password-day-to-keep-your-accounts-safe.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T12:58:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Weak or compromised passwords pose a significant security risk to companies.</li><l… [+5011 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/10/31/ai_church.jpg",
       "publishedAt": "2025-11-03T08:30:14Z",
       "content": "Opinion It's not been a year since his ouster as Intel's CEO, but Pat Gelsinger is firmly back on the tech leadership pony. He's done hardware with Intel, software with VMWare. This time, it's faithw… [+5354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: U.S. stocks' gains in October owe much to AI",
-      "description": "The AI trade looks, for now, less like the immediate sugar rush of a candy bar (and its subsequent crash), and more like a sustained energy boost.",
-      "url": "https://www.cnbc.com/2025/11/03/cnbc-daily-open-us-stocks-gains-in-october-owe-much-to-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219977-17619164262025-10-31t075321z_12249420_rc2vmha0s3d5_rtrmadp_0_apec-summit-nvidia.jpeg?v=1761916506&w=1920&h=1080",
-      "publishedAt": "2025-11-03T07:30:01Z",
-      "content": "Traders who shorted the S&amp;P 500 essentially, betting that it would go down last month were in for a rude surprise. The broad-based index ended the month 2.3% higher, defying \"Octoberphobia,\" a te… [+2643 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The global critical minerals race is heating up — and rare earths stocks are skyrocketing",
-      "description": "U.S.-listed rare earths miners have been on a tear this year, with some companies rallying more than 400% as the global critical minerals race heats up.",
-      "url": "https://www.cnbc.com/2025/11/03/rare-earths-stocks-boom-as-the-global-critical-mineral-race-heats-up.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170157-17521529192020-04-22t000000z_660892074_rc2n9g90g5vd_rtrmadp_0_usa-rareearths.jpeg?v=1760111410&w=1920&h=1080",
-      "publishedAt": "2025-11-03T06:41:59Z",
-      "content": "A wheel loader takes ore to a crusher at the MP Materials rare earth mine in Mountain Pass, California, U.S. January 30, 2020.\r\nThe emergence of critical minerals as a new arena of geopolitical compe… [+6180 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Bloomberg",
-      "title": "Nvidia is worth $5 trillion. Here’s what it means for the market",
-      "description": "Nvidia's historic $5 trillion valuation reshapes market dynamics, highlighting its dominance and influence in the AI-driven economy.",
-      "url": "https://www.bloomberg.com/news/articles/2025-11-02/nvidia-is-worth-5-trillion-here-s-what-it-means-for-the-market",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/if7ahv/article70234835.ece/alternates/LANDSCAPE_1200/2023-09-08T115933Z_1848560545_RC2KOZ923906_RTRMADP_3_RELIANCE-NVIDIA.JPG",
-      "publishedAt": "2025-11-03T03:32:37Z",
-      "content": "Nvidia Corp made history last week when it became the first company ever to have a market value of $5 trillion. But thats just one way its casting a shadow over the global economy.\r\nThe chipmaker at … [+4948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "AI is becoming introspective - and that 'should be monitored carefully,' warns Anthropic",
-      "description": "Models that introspect on their own thoughts could be a huge boon for researchers - or pose a threat to humans.",
-      "url": "https://www.zdnet.com/article/ai-is-becoming-introspective-and-that-should-be-monitored-carefully-warns-anthropic/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d27cd01b346d87176f4ad4ae804eee4a62caabf4/2025/11/02/b603f5a3-1b44-42fc-83ee-16957aceb6f3/gettyimages-1147184158.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T03:00:27Z",
-      "content": "Just_Super/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Claude shows limited introspective abilities, Anthropic said.</li><li>The study used … [+9101 chars]"
     }
   ]
 }
