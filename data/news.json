@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T21:32:43.287Z",
+  "fetchedAt": "2025-11-05T22:08:55.712Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Microsoft AI’s first in-house image generator MAI-Image-1 is now available",
+      "description": "Microsoft’s first in-house AI image generator, MAI-Image-1, is now available in two products, Bing Image Creator and Copilot Audio Expressions. The company announced the model in October. Microsoft AI chief Mustafa Suleyman wrote in a post on X that the text-…",
+      "url": "https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T21:48:09Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut the model is not yet available in the EU.\r\nBut the model is not yet available in the EU.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts from this author will be… [+2759 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Amazon and Perplexity have kicked off the great AI web browser fight",
+      "description": "Amazon doesn’t want to be a part of Perplexity’s AI-powered shopping experience. In a post on Tuesday, the ecommerce giant says it has “repeatedly requested” that Perplexity stop allowing its Comet AI browser to buy products for customers, which Perplexity ha…",
+      "url": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472500/STK271_PERPLEXITY_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T21:36:41Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon says it has repeatedly requested that Perplexity stop allowing its AI browser to purchase products for customers.\r\nAmazon says it has repeatedly requested… [+2798 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/02/22/gemma.jpg",
       "publishedAt": "2025-11-03T21:34:03Z",
       "content": "If Google's Gemma were an employee, it might be facing HR right now. The company yanked the model from AI Studio after it allegedly invented criminal accusations about a US senator and a conservative… [+4613 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "Lambda inks multi-billion-dollar AI infrastructure deal with Microsoft | TechCrunch",
-      "description": "This deal was announced just hours after Microsoft announced a $9.7 billion deal with Australian data center company IREN.",
-      "url": "https://techcrunch.com/2025/11/03/lambda-inks-multi-billion-dollar-ai-infrastructure-deal-with-microsoft/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-logo-1865237814.jpg?resize=1200,863",
-      "publishedAt": "2025-11-03T21:23:55Z",
-      "content": "Cloud-computing company Lambda deepened its relationship with Microsoft through a sizable AI infrastructure deal.\r\nNvidia-backed Lambda announced it struck a multi-billion-dollar deal with Microsoft … [+1926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Palantir tops estimates, boosts fourth-quarter guidance on AI adoption",
-      "description": "Palantir's earnings topped third-quarter results and the company issued strong guidance, attributing much of its rapid growth to artificial intelligence.",
-      "url": "https://www.cnbc.com/2025/11/03/palantir-pltr-q3-earnings-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108115846-1741901334944-gettyimages-2204343747-PALANTIR_AIPCON.jpeg?v=1762185570&w=1920&h=1080",
-      "publishedAt": "2025-11-03T21:11:04Z",
-      "content": "Palantir reported quarterly results that topped analysts' estimates and issued better-than-expected guidance for the fourth quarter, attributing much of its strength to artificial intelligence. The s… [+2678 chars]"
     }
   ]
 }
