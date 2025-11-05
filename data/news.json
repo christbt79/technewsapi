@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T09:39:52.781Z",
+  "fetchedAt": "2025-11-05T10:11:08.263Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jim Rapoza",
+      "title": "'Sales heroics' won't save you: How to build scalable, repeatable systems instead",
+      "description": "The traditional sales playbook is failing because of fragmented tools and information systems. Here's how sales teams can get back on the same page.",
+      "url": "https://www.zdnet.com/article/sales-heroics-wont-save-you-how-to-build-scalable-repeatable-systems-instead/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bdd2b20eab8e57d70a0c3e1f0094a6696ecca187/2025/11/03/3901995d-f943-4e7c-85e3-10ca5dd8ee79/gettyimages-490926205.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T10:00:42Z",
+      "content": "Rawpixel/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBusiness leaders are discovering that the traditional playbook for sales productivity is failing, and busines… [+4068 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "SUSE Linux Enterprise Server 16 lands - with AI and EU support baked in",
+      "description": "Available today, the new SLES 16 is ushering in an AI-ready, top-notch Linux server, while emphasizing its benefits for digital sovereignty.",
+      "url": "https://www.zdnet.com/article/suse-linux-enterprise-server-16-lands-with-ai-and-eu-support-baked-in/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d39b20699672006422c4e470b776f8413bb1085f/2025/11/03/9064e741-49d5-455f-bab9-5ee2d8c5ec87/greeniguana555gettyimages-2241086850.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T10:00:31Z",
+      "content": "Mitchell Hanson/500px/500px Prime via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>SLES 16 comes with model context protocol built in.</li><li>T… [+9168 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200189-17581349282025-09-17t184531z_2044740987_rc2utga0l43x_rtrmadp_0_usa-stocks.jpeg?v=1758300143&w=1920&h=1080",
       "publishedAt": "2025-11-02T23:04:37Z",
       "content": "Stock futures were little changed on Sunday night, as a new month of trading begins.\r\nS&amp;P 500 futures ticked higher by 0.1% along with Nasdaq-100 futures. Dow Jones Industrial Average futures adv… [+1583 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Google pulls Gemma from AI Studio after Senator Blackburn accuses model of defamation | TechCrunch",
-      "description": "Senator Martha Blackburn argued Gemma’s fabrications are “not a harmless ‘hallucination,’\" but rather “an act of defamation produced and distributed by a Google-owned AI model.”",
-      "url": "https://techcrunch.com/2025/11/02/google-pulls-gemma-from-ai-studio-after-senator-blackburn-accuses-model-of-defamation/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-backdrop-Google-IO.png?w=947",
-      "publishedAt": "2025-11-02T21:14:06Z",
-      "content": "Google says it has removed Gemma from its AI Studio after a U.S. senator accused the AI model of fabricating accusations of sexual misconduct against her.\r\nIn a letter to Google CEO Sundar Pichai, Se… [+2616 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Sam Altman says ‘enough’ to questions about OpenAI’s revenue | TechCrunch",
-      "description": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments.",
-      "url": "https://techcrunch.com/2025/11/02/sam-altman-says-enough-to-questions-about-openais-revenue/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
-      "publishedAt": "2025-11-02T17:16:58Z",
-      "content": "OpenAI CEO Sam Altman recently said that the company is doing well more than $13 billion in annual revenue and he sounded a little testy when pressed on how it will pay for its massive spending commi… [+2504 chars]"
     }
   ]
 }
