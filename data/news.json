@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T11:33:31.866Z",
+  "fetchedAt": "2025-11-05T12:18:29.714Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "OpenAI API moonlights as malware HQ in Microsoft’s latest discovery",
+      "description": "Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel\nHackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.…",
+      "url": "https://www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/",
+      "urlToImage": "https://regmedia.co.uk/2022/02/23/backdoor_shutterstock.jpg",
+      "publishedAt": "2025-11-04T12:08:12Z",
+      "content": "Hackers have found a new use for OpenAI's Assistants API not to write poems or code, but to secretly control malware.\r\nMicrosoft this week detailed a previously unseen backdoor dubbed \"SesameOp,\" whi… [+2792 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/d27cd01b346d87176f4ad4ae804eee4a62caabf4/2025/11/02/b603f5a3-1b44-42fc-83ee-16957aceb6f3/gettyimages-1147184158.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T03:00:27Z",
       "content": "Just_Super/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Claude shows limited introspective abilities, Anthropic said.</li><li>The study used … [+9101 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Samsung phones have a secret Wi-Fi menu that can solve your internet problems - how to enable it",
-      "description": "If you love Samsung's feature-packed software, this OneUI tool is your next rabbit hole.",
-      "url": "https://www.zdnet.com/article/samsung-phones-have-a-secret-wi-fi-menu-that-can-solve-your-internet-problems-how-to-enable-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b79b91e1e5cb72abc72b7426817ca660f0fa8b4e/2025/07/02/5b3f6656-63d8-49a2-96ba-90812c84f438/dsc06223.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T03:00:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung's hidden \"Connectivity Labs\" unlocks secret Wi-Fi tools.</li><li>Features include Wi-Fi … [+1719 chars]"
     }
   ]
 }
