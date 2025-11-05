@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-05T14:09:41.278Z",
+  "fetchedAt": "2025-11-05T14:42:10.331Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Win10 still clings to over 40% of devices weeks after Microsoft pulls support",
+      "description": "Popular operating system much more sticky than Windows 7 was during its EOL As the dust settles over the end of support for many versions of Windows 10, the operating system remains a significant presence in the Windows market.…",
+      "url": "https://www.theregister.com/2025/11/04/windows_10_eol/",
+      "urlToImage": "https://regmedia.co.uk/2016/08/24/bomb.jpg",
+      "publishedAt": "2025-11-04T14:37:10Z",
+      "content": "As the dust settles over the end of support for many versions of Windows 10, the operating system remains a significant presence in the Windows market.\r\nWhile Microsoft is hoping for a mass move to W… [+2343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Alex Karp blasts 'Big Short' investor Michael Burry as 'bats--- crazy' for bets against Palantir, Nvidia",
+      "description": "\"The idea that chips and ontology is what you want to short is bats--- crazy,\" Alex Karp said.",
+      "url": "https://www.cnbc.com/2025/11/04/karp-big-short-burry-palantir-nvidia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138812-1762266728313-108138812-1746031878972-gettyimages-2212772079-_d1_9976_01dbvs5l.jpg?v=1762266737&w=1920&h=1080",
+      "publishedAt": "2025-11-04T14:35:03Z",
+      "content": "Palantir CEO Alex Karp ranted against short-sellers, calling out specifically Michael Burry after a filing revealed the investor of \"The Big Short\" fame had bets against the AI software company, as w… [+2364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "OpenAI bets $38B on Amazon's cloud to power ChatGPT and the future of AGI",
+      "description": "The deal is a major win for Amazon as it races to dominate the booming AI cloud market.",
+      "url": "https://www.zdnet.com/article/openai-bets-38b-on-amazons-cloud-to-power-chatgpt-and-the-future-of-agi/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4af3a4ea39dc889feb9b29690afc302370e77ed8/2025/11/04/f6f8119c-9f95-4676-a91d-c765f4d3d22f/gettyimages-2207328978.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T14:34:00Z",
+      "content": "RONNY HARTMANN / AFP / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI has teamed up with AWS to power its efforts to build AGI.</li><li>The… [+3798 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich | TechCrunch",
+      "description": "Nvidia has signed a €1 billion partnership with Deutsche Telekom to set up an \"AI factory\" in Munich that aims to boost Germany's AI computing power by 50%.",
+      "url": "https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=1008",
+      "publishedAt": "2025-11-04T14:22:51Z",
+      "content": "Nvidia is playing fast and loose with its war chest as it looks to build on its momentum as the chief benefactor of the AI boom. \r\nThe company on Tuesday signed a 1 billion ($1.15 billion) partnershi… [+2120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Bitcoin's November sell-off worsens as investors take risk off on worries about the AI trade",
+      "description": "Cryptocurrencies were in the red Tuesday as investors continued their flight from risk-on assets.",
+      "url": "https://www.cnbc.com/2025/11/04/bitcoins-november-sell-off-worsens-as-investors-take-risk-off-on-worries-about-the-ai-trade-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220247-17619426082025-10-31t202838z_1176596473_rc22pgapp48m_rtrmadp_0_fintech-crypto.jpeg?v=1761942642&w=1920&h=1080",
+      "publishedAt": "2025-11-04T14:17:45Z",
+      "content": "Bitcoin fell victim to a risk-off mood Tuesday with investors dumping the cryptocurrency as they grew increasingly concerned about the sustainability of AI stock values.\r\nBitcoin was last trading at … [+826 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Brian-Koo-1.jpeg?resize=1200,800",
       "publishedAt": "2025-11-03T14:04:46Z",
       "content": "Since AI tools went mainstream, filmmakers, writers, and actors have been scrambling to figure out whether these technologies can truly assist their creativity or if they might end up replacing human… [+4774 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI signs $38 billion compute deal with Amazon, partnering with cloud leader for first time",
-      "description": "OpenAI will immediately begin tapping Nvidia's AI processors using infrastructure from Amazon Web Services.",
-      "url": "https://www.cnbc.com/2025/11/03/open-ai-amazon-aws-cloud-deal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217788-1761657947456-gettyimages-2201505685-ALEXA_AI_UNVEILING.jpeg?v=1762142083&w=1920&h=1080",
-      "publishedAt": "2025-11-03T14:02:37Z",
-      "content": "OpenAI has signed a deal to buy $38 billion worth of capacity from Amazon Web Services, its first contract with the leader in cloud infrastructure and the latest sign that the $500 billion artificial… [+5214 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "People without kids should make this money move before it's too late, estate planning expert says",
-      "description": "Having certain estate planning documents in place is especially important for people without obvious next-of-kin, experts say.",
-      "url": "https://www.cnbc.com/2025/11/03/make-this-key-money-move-now-if-you-dont-have-kids-expert-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218136-1761679919211-gettyimages-1414968502-dsc00250.jpeg?v=1761679953&w=1920&h=1080",
-      "publishedAt": "2025-11-03T14:00:01Z",
-      "content": "If you don't have children and don't plan on having any, many of the \"default\" settings of personal finance may not apply to you. You may not, for instance, plan on leaving legacy wealth, as many par… [+4054 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Agentic AI reshaping tech hiring policies, say CTOs and CIOs",
-      "description": "Oh the irony: IEEE survey of senior techies finds demand for devs skills falling in AI-related roles\nDemand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE in…",
-      "url": "https://www.theregister.com/2025/11/03/demand_for_software_skills_ai_jobs/",
-      "urlToImage": "https://regmedia.co.uk/2017/07/20/conveyorbeltrobots.jpg",
-      "publishedAt": "2025-11-03T13:19:42Z",
-      "content": "Demand for software development skills in AI-related roles is set to fall next year as agentic AI accelerates across business markets, according to an IEEE industry survey.\r\nOr so says research by th… [+2423 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Adriano Marchese",
-      "title": "IREN Secures $9.7 Billion Microsoft Contract",
-      "description": "IREN has signed a multi-year deal with Microsoft to use its cloud-based graphics processing services.",
-      "url": "https://www.wsj.com/tech/ai/iren-secures-9-7-billion-microsoft-contract-d8645080",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/1HDyqWmUdc.8DA1AQOtR_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/db6c7dca1ef49e88c6c2fe29a4e90186",
-      "publishedAt": "2025-11-03T13:07:00Z",
-      "content": "IREN has signed a multi-year deal with Microsoft to use its cloud-based graphics processing services. - gonzalo fuentes/Reuters\r\nMicrosoft has secured new computing power capacity with a $9.7 billion… [+1719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia shares up 2% in premarket as U.S. approves sales of its chips to the UAE",
-      "description": "Microsoft's licenses enable the firm to ship Nvidia chips — involving its more advanced GB300 GPUs — to the United Arab Emirates.",
-      "url": "https://www.cnbc.com/2025/11/03/nvidia-shares-rise-after-us-approves-chip-sales-to-the-uae.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186411-1755245023980-gettyimages-2228729615-vcg111582736767.jpeg?v=1762174089&w=1920&h=1080",
-      "publishedAt": "2025-11-03T12:46:47Z",
-      "content": "Microsoft said Monday it has secured export licenses to ship Nvidia chips to the United Arab Emirates in a move that could accelerate the Gulf's lofty AI ambitions.\r\nThe tech giant said it is the fir… [+767 chars]"
     }
   ]
 }
