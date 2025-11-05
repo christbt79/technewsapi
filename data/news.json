@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T07:09:47.645Z",
+  "fetchedAt": "2025-11-05T07:35:40.003Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: AI is carrying the weight of the U.S. market",
+      "description": "Even as the S&P 500 and Nasdaq Composite rose on the back of the tech behemoths, more than 300 stocks in the broad-based index ended the day lower.",
+      "url": "https://www.cnbc.com/2025/11/04/cnbc-daily-open-ai-is-carrying-the-weight-of-the-us-market.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220889-1762211588906-gettyimages-2244386438-Illustration_Amazon.jpeg?v=1762211661&w=1920&h=1080",
+      "publishedAt": "2025-11-04T07:30:01Z",
+      "content": "The \"everything store\" might have secured its biggest customer yet.\r\nOn Monday, Amazon announced that it had signed a $38 billion deal with OpenAI, offering the ChatGPT maker access to Amazon Web Ser… [+3025 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
       "publishedAt": "2025-11-02T16:13:58Z",
       "content": "In the midst of an unprecedented AI buildout, Meta is spending more than most. The company is building two massive data centers, and reporting indicates there will be as much as $600 billion in spend… [+5825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Kunal Khullar) , Kunal Khullar",
-      "title": "Developer warns users that fake download site is hosting Windows 11 upgrade bypass tool — Win 10 upgraders warned of potential malicious downloads",
-      "description": "Following Windows 10’s end-of-life, Flyoobe has grown in popularity for enabling safe Windows 11 upgrades on unsupported systems - but you must only download it via the official GitHub source.",
-      "url": "https://www.tomshardware.com/software/windows/developer-warns-users-that-fake-download-site-is-hosting-windows-11-upgrade-bypass-tool-win-10-upgraders-warned-of-potential-malicious-downloads",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ySimRFAV4FPfQqYuTyEg33-1920-80.jpg",
-      "publishedAt": "2025-11-02T16:12:21Z",
-      "content": "With Windows 10 reaching its end of life (EOL) last month, a free third-party tool called Flyoobe (which we have covered here) has been gaining popularity for enabling safe upgrades to Windows 11 on … [+2513 chars]"
     }
   ]
 }
