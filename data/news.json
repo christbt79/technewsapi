@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T10:11:08.263Z",
+  "fetchedAt": "2025-11-05T10:42:39.747Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Free AI in India? Google, OpenAI and Perplexity are betting your curiosity will train their machines",
+      "description": "Artificial intelligence companies racing to expand in India are not just chasing customers, but they are enlisting millions of users to help train AI models for the world.",
+      "url": "https://www.cnbc.com/2025/11/04/google-openai-and-perplexity-bet-on-india-to-train-next-generation-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106943867-1631952163174-gettyimages-854626916-AFP_ST9L6.jpeg?v=1674194003&w=1920&h=1080",
+      "publishedAt": "2025-11-04T10:39:54Z",
+      "content": "Artificial intelligence companies racing to expand in India are not just chasing customers they are enlisting millions of users to help train AI models for the world.\r\nGoogle and Perplexity AI are of… [+2216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Abhishek Jadhav",
+      "title": "AI's trillion dollar deal wheel bubbling around Nvidia, OpenAI",
+      "description": "How to build a trillion-dollar industry: Step 1, invest in your customers. Step 2, sell them stuff Feature  In late 2025, a series of multi-billion-dollar deals in the artificial intelligence sector is causing déjà vu among industry veterans. Money, computer …",
+      "url": "https://www.theregister.com/2025/11/04/the_circular_economy_of_ai/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/03/shutterstock_225669484.jpg",
+      "publishedAt": "2025-11-04T10:15:13Z",
+      "content": "Feature In late 2025, a series of multi-billion-dollar deals in the artificial intelligence sector is causing déjà vu among industry veterans. Money, computer chips, and cloud credits are rotating in… [+10369 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/54884872593_c3dca13a6c_k.jpg?resize=1200,800",
       "publishedAt": "2025-11-03T01:04:02Z",
       "content": "Alphabet’s X moonshot factory is shifting how it brings ambitious technology projects to market, increasingly spinning them out as independent companies rather than keeping them within the Alphabet c… [+6561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Perplexity's new AI tool lets you search patents with natural language - and it's free",
-      "description": "Perplexity Patents is currently in beta and free for all users. Here's how to try it.",
-      "url": "https://www.zdnet.com/article/perplexitys-new-ai-tool-lets-you-search-patents-with-natural-language-and-its-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e22b8b371eb30b448a3d8fe96741fb72fe71d69d/2025/10/31/a9b8a222-ba2c-4647-8404-3cda2aa03288/gettyimages-2164941978.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T01:00:26Z",
-      "content": "MicroStockHub/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Perplexity launched Perplexity Patents on Thursday.</li… [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Fred Imbert",
-      "title": "Stock market today: Live updates",
-      "description": "Stock futures were little changed on Sunday night, as a new month of trading begins.",
-      "url": "https://www.cnbc.com/2025/11/02/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200189-17581349282025-09-17t184531z_2044740987_rc2utga0l43x_rtrmadp_0_usa-stocks.jpeg?v=1758300143&w=1920&h=1080",
-      "publishedAt": "2025-11-02T23:04:37Z",
-      "content": "Stock futures were little changed on Sunday night, as a new month of trading begins.\r\nS&amp;P 500 futures ticked higher by 0.1% along with Nasdaq-100 futures. Dow Jones Industrial Average futures adv… [+1583 chars]"
     }
   ]
 }
