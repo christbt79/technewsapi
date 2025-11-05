@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-05T14:42:10.331Z",
+  "fetchedAt": "2025-11-05T15:10:29.519Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Motorola's new budget phones have larger batteries than your $1,000 iPhone and Samsung",
+      "description": "Motorola teases the first two phones of its 2026 lineup. The pair offers bigger batteries and better cameras while maintaining a low price.",
+      "url": "https://www.zdnet.com/article/motorolas-new-budget-phones-have-larger-batteries-than-your-1000-iphone-and-samsung/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/58b377933f85c0e608dbe209b5b4465baed64a2d/2025/11/03/c0015d34-5c4f-48c9-96f3-dfcdb5667b2a/moto-g-play-2026-image-2.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T15:10:00Z",
+      "content": "Motorola\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Motorola has revealed two new budget smartphones.</li><li>The Moto G and Moto G Play boast improved cam… [+3281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "33-year-old 'bicoastal nurse' supercommutes to the Bay Area from Florida, makes up to $25,000 a month: It's 'very much worth it'",
+      "description": "Nurse Memwanesha Daniels lives in Jacksonville, Florida, but supercommutes via plane several times a month to work in the San Francisco Bay Area.",
+      "url": "https://www.cnbc.com/2025/11/04/33-year-old-nurse-living-in-florida-supercommutes-to-work-in-california.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218837-1761762733560-Memwa_Daniels_bicoastal_nurse_supercommuter.jpeg?v=1762267648&w=1920&h=1080",
+      "publishedAt": "2025-11-04T14:48:50Z",
+      "content": "If your home and work are on the opposite sides of town, you might have a long commute. If they're on the opposite sides of the country, you have quite the supercommute.\r\nThat's the case for Memwanes… [+4051 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/6fa8dd7be252462dd67e245bc5fa23b7fb400591/2025/10/28/c5381eae-b06f-4b95-a955-151de63c816a/img-0342.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T14:12:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're anything like me, you have a box or bag (or maybe several) of cables you plan to one day sort through. Or maybe you need a quick and e… [+2789 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Microsoft inks $9.7bil deal with Australia's IREN for AI cloud capacity | TechCrunch",
-      "description": "The deal will give Microsoft access to compute infrastructure built with Nvidia's GB300 GPUs, which will be deployed over phases through 2026.",
-      "url": "https://techcrunch.com/2025/11/03/microsoft-inks-9-7bil-deal-with-australias-iren-for-ai-cloud-capacity/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1883327378-e1730136121848.jpg?resize=1200,800",
-      "publishedAt": "2025-11-03T14:05:28Z",
-      "content": "Microsoft is leaving no stone unturned in its quest to secure more compute capacity for meeting its customers’ heavy demand for AI services.\r\nOn Monday, the Redmond-based tech giant signed a $9.7 bil… [+1216 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "LG founder's grandson, production firm partner up to bring AI to filmmaking | TechCrunch",
-      "description": "Brian Koo’s Stock Farm Road and Utopai Studios have partnered up to form Utopai East, an AI-powered film production company.",
-      "url": "https://techcrunch.com/2025/11/03/lg-scions-stock-farm-road-utopai-launch-ai-driven-filmmaking/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Brian-Koo-1.jpeg?resize=1200,800",
-      "publishedAt": "2025-11-03T14:04:46Z",
-      "content": "Since AI tools went mainstream, filmmakers, writers, and actors have been scrambling to figure out whether these technologies can truly assist their creativity or if they might end up replacing human… [+4774 chars]"
     }
   ]
 }
