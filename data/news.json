@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-05T11:08:21.076Z",
+  "fetchedAt": "2025-11-05T11:33:31.866Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Keeping the lights on takes up nearly all police IT spending in England and Wales",
+      "description": "Plans for investing in AI and service transformation held up as treasury pulls plug, NAO finds Police forces in England and Wales spend around 97 percent of their £2 billion ($2.6 billion) annual technology budget on maintaining legacy systems, an official re…",
+      "url": "https://www.theregister.com/2025/11/04/england_wales_it_policing_budget/",
+      "urlToImage": "https://regmedia.co.uk/2016/10/31/police_hacking.jpg",
+      "publishedAt": "2025-11-04T11:30:10Z",
+      "content": "Police forces in England and Wales spend around 97 percent of their £2 billion ($2.6 billion) annual technology budget on maintaining legacy systems, an official report has found.\r\nFragmented and sto… [+3164 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Katie Drummond",
+      "title": "Kara Swisher Would Rather Work for Sam Altman Than Mark Zuckerberg",
+      "description": "But ideally, the journalist and podcast host would rather not work for tech CEOs at all.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kara-swisher/",
+      "urlToImage": "https://media.wired.com/photos/68f8083c6fc0dea09153d01c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Kara-Smith-Business-2234581360.jpg",
+      "publishedAt": "2025-11-04T11:30:00Z",
+      "content": "Kara Swisher is the epitome of a multi-hyphenate: a podcast host, journalist, author, and CEO agitator.\r\nSwisher has also, in her way, turned IDGAF into her personal brand. Deeply sourced and happy t… [+1943 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "'What the hell, Microsoft?' Users hit with 'incorrect' ESU and LTSC Win10 out-of-support messages",
+      "description": "Microsoft accidentally tells supported users that they aren't Microsoft says a broken update left some Windows 10 users staring at an out-of-support message despite having an activated Extended Security Updates (ESU) license or a version of Windows 10 that is…",
+      "url": "https://www.theregister.com/2025/11/04/windows_10_out_of_support_update/",
+      "urlToImage": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg",
+      "publishedAt": "2025-11-04T11:13:05Z",
+      "content": "Microsoft says a broken update left some Windows 10 users staring at an out-of-support message despite having an activated Extended Security Updates (ESU) license or a version of Windows 10 that is s… [+2506 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/b79b91e1e5cb72abc72b7426817ca660f0fa8b4e/2025/07/02/5b3f6656-63d8-49a2-96ba-90812c84f438/dsc06223.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T03:00:00Z",
       "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Samsung's hidden \"Connectivity Labs\" unlocks secret Wi-Fi tools.</li><li>Features include Wi-Fi … [+1719 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "White House says China to lift rare earth export bans, stop probes into US tech companies",
-      "description": "PLUS: Google's massive AI giveaway in India; Raid on Australian software company; Alleged scam camp owner's assets seized; and more! Asia In Brief  Last week’s trade talks between the USA and China have seen the two countries ease some trade restrictions.…",
-      "url": "https://www.theregister.com/2025/11/03/asia_tech_news_roundup/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/03/shutterstock_editorial_only_china_xi_usa_trump.jpg",
-      "publishedAt": "2025-11-03T01:57:20Z",
-      "content": "Asia In Brief Last weeks trade talks between the USA and China have seen the two countries ease some trade restrictions.\r\nAccording to a fact sheet published by the White House on Saturday, the talks… [+5860 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: AI trade frenzy seems driven by a 'virtuous' cycle",
-      "description": "The AI trade looks, for now, less like the immediate sugar rush of a candy bar (and its subsequent crash), and more like a sustained energy boost.",
-      "url": "https://www.cnbc.com/2025/11/03/cnbc-daily-open-ai-trade-frenzy-seems-driven-by-a-virtuous-cycle.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219976-17619164262025-10-31t092030z_1484929842_rc2xmhaeb3d7_rtrmadp_0_apec-summit-nvidia.jpeg?v=1761916506&w=1920&h=1080",
-      "publishedAt": "2025-11-03T01:24:00Z",
-      "content": "Traders who shorted the S&amp;P 500 essentially, betting that it would go down last month were in for a rude surprise. The broad-based index ended the month 2.3% higher, defying \"Octoberphobia,\" a te… [+1321 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "Alphabet is increasingly launching \"moonshot\" projects as independent companies -- here's why | TechCrunch",
-      "description": "Alphabet is increasingly launching \"moonshot\" projects as independent companies -- here's why | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/02/alphabet-is-increasingly-launching-moonshot-projects-as-independent-companies-heres-why/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/54884872593_c3dca13a6c_k.jpg?resize=1200,800",
-      "publishedAt": "2025-11-03T01:04:02Z",
-      "content": "Alphabet’s X moonshot factory is shifting how it brings ambitious technology projects to market, increasingly spinning them out as independent companies rather than keeping them within the Alphabet c… [+6561 chars]"
     }
   ]
 }
