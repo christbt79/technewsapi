@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T17:38:27.666Z",
+  "fetchedAt": "2025-11-05T18:13:51.344Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "AMD confirms Zen 5 chips hit by critical bug - but a fix on the way",
+      "description": "Affecting a wide range of EPYC and Ryzen processors, the bug compromises a processor's pseudorandom number generator.",
+      "url": "https://www.zdnet.com/article/amd-confirms-zen-5-chips-hit-by-critical-bug-but-a-fix-on-the-way/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bfebf6eda126c09282e6bb3039ad27a635b1685b/2025/11/04/713ab69e-9880-45d5-8e16-de97312af26c/untitled-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T17:45:36Z",
+      "content": "5th-generation AMD EPYC processors are among the affected silicon.\r\nAMD/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google\r\nZDNET's key takeaways\r\n<ul><li>This critical bug affects a large n… [+2463 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e68949d871852ec7f3eccca7ffad8b5f37154d9c/2025/09/20/f30c8bbf-bcb5-46dd-95d2-6fbed51e696e/pxl-20250920-002756553-mp.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T16:54:00Z",
       "content": "TCL's Nxtpaper technology is truly unique, but after reviewing the TCL 60 XE Nxtpaper 5G, I realized its potential has been limited to lower-end smartphones. \r\nThe TCL Nxtpaper 60 Ultra changes that,… [+7487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "Should you ditch your TP-Link router? Here's how to secure your Wi-Fi today",
-      "description": "As a ban on the country's favorite router brand looms, here's how to keep your network and data safe.",
-      "url": "https://www.zdnet.com/article/should-you-ditch-your-tp-link-router-heres-how-to-secure-your-wi-fi-today/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7c8c8520e88a2c0507e543bea3be0bbc69e493b7/2025/11/03/75ca51a8-d3a0-4221-94ea-19d0d54e2684/u-s-ban-on-tp-link-routers-gains-traction-heres-what-to-do-to-stay-protected-online.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T16:49:29Z",
-      "content": "TP Link / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>US agencies back proposal to ban TP-Link routers.</li><li>A ban could so… [+8907 chars]"
     }
   ]
 }
