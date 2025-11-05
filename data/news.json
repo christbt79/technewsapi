@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-04T23:34:04.504Z",
+  "fetchedAt": "2025-11-05T00:45:40.190Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "The Magnificent 7's biggest commonality is growth, Jim Cramer says",
+      "description": "CNBC's Jim Cramer on Monday rejected concerns that market cap is too concentrated in the Magnificent Seven.",
+      "url": "https://www.cnbc.com/2025/11/03/the-magnificent-7-growth-jim-cramer.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106001819-1562175400451img_0200r.jpg?v=1697581398&w=1920&h=1080",
+      "publishedAt": "2025-11-04T00:42:16Z",
+      "content": "CNBC's Jim Cramer on Monday rejected concerns of market cap concentration in the Magnificent Seven, saying they are tied together because of their high growth rates rather than their products.\r\n\"It's… [+1728 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/hZbWzHT4YhngmgztdRHx43-1920-80.jpg",
       "publishedAt": "2025-11-02T12:00:00Z",
       "content": "GPU overclocker TrashBench set a world overclocking record on an Intel Arc B580 GPU with a relatively simple setup. Instead of employing exotic solutions like liquid nitrogen, used by other overclock… [+2459 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Researchers create superconducting germanium semiconductor material using standard chip fabrication techniques - prototype demonstrates millions of superconducting junctions on a 2-inch wafer",
-      "description": "Researchers at NYU and the University of Queensland have demonstrated superconductivity in gallium-doped epitaxial germanium, fabricated using industry-standard semiconductor tools.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/researchers-create-superconductive-germanium-using-standard-chip-fabrication-techniques",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/cuWmSkJXyBs7iM5nTHRAza-1459-80.png",
-      "publishedAt": "2025-11-02T11:30:00Z",
-      "content": "Researchers at NYU and the University of Queensland have demonstrated superconductivity in gallium-doped epitaxial germanium, fabricated using industry-standard semiconductor tools. The new material … [+2623 chars]"
     }
   ]
 }
