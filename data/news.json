@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-05T15:10:29.519Z",
+  "fetchedAt": "2025-11-05T15:38:45.556Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Vala Afshar",
+      "title": "Gartner just dropped its 2026 tech trends - and it's not all AI: Here's the list",
+      "description": "Gartner's list of top 10 strategic technology trends for 2026 and beyond reveals AI's impact on operational excellence and digital trust.",
+      "url": "https://www.zdnet.com/article/gartner-just-dropped-its-2026-tech-trends-and-its-not-all-ai-heres-the-list/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/3833322c717db1676b9307a743852162bc5dda13/2025/11/03/343450ee-8d29-4ecd-97ac-35d541317507/platters5555gettyimages-1439768811.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T15:37:10Z",
+      "content": "Andriy Onufriyenko/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI innovation dominates 2026's strategic technology trends.</li><li>G… [+8202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Scale AI's life after Meta deal has been rocky, but CFO insists it's not a 'zombie company'",
+      "description": "Five months after Scale AI's high-profile founder was hired by Meta, the startup is trying to show that it's still on a growth trajectory.",
+      "url": "https://www.cnbc.com/2025/11/04/scale-ais-life-after-meta-has-been-rocky-cfo-insists-not-a-zombie.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221100-1762262764410-nf_11032025_scaleai-4_720.jpg?v=1762262812&w=1920&h=1080",
+      "publishedAt": "2025-11-04T15:30:01Z",
+      "content": "Scale AI CFO Dennis Cinelli.\r\nAfter Meta shocked the tech world in June by announcing plans to invest $14.3 billion in Scale AI, primarily as a way to hire the startup's founder, Alexandr Wang, and a… [+6301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Palantir stock drops 7% on valuation concerns as CEO Karp rips short seller 'market manipulation'",
+      "description": "Wall Street analysts raised concerns about Palantir's elevated valuation and famed hedge fund manager Michael Burry revealed a short position.",
+      "url": "https://www.cnbc.com/2025/11/04/palantir-stock-earnings-short-sellers-karp.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172421-17526136932025-07-15t203240z_1930798000_rc28nfandz7f_rtrmadp_0_usa-trump.jpeg?v=1752613716&w=1920&h=1080",
+      "publishedAt": "2025-11-04T15:13:06Z",
+      "content": "Palantir's stock fell 7% on Tuesday as Wall Street analysts raised concerns about the company's elevated valuation and \"Big Short\" investor Michael Burry revealed a short position in the software com… [+2021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Windows 10 update incorrectly tells some users they've reached end-of-life, despite having extended support — Microsoft confirms message sent to Enterprise, Pro, and Education users in error",
+      "description": "Users over the weekend reported seeing incorrect end-of-life messages on Windows 10 despite either being enrolled in the ESU program or running Enterprise/LTSC versions of the OS that are automatically set to receive security updates for a few more years. Mic…",
+      "url": "https://www.tomshardware.com/software/windows/windows-10-update-incorrectly-tells-some-users-theyve-reached-end-of-life-despite-having-extended-support-microsoft-confirms-message-sent-to-enterprise-pro-and-education-users-in-error",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PFvHtxFxUibgmkbuFHLHj9-1920-80.jpg",
+      "publishedAt": "2025-11-04T15:12:10Z",
+      "content": "Microsoft officially ended mainstream support for Windows 10 last month, nudging users to upgrade to Windows 11. While that led to almost an overnight technological revolution in Japan, elsewhere, it… [+2449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Use Google Docs? 20 tips and tricks for an instant productivity boost (no plug-ins required)",
+      "description": "From editable PDFs to instant translations, Google Docs offers numerous features that many people overlook.",
+      "url": "https://www.zdnet.com/article/use-google-docs-20-tips-and-tricks-for-an-instant-productivity-boost-no-plug-ins-required/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/87b565c12b463df9a45d8fe90a2620ef05ebf14e/2025/10/21/1ec34506-61cd-46eb-ae9a-92ecc60f8a1d/dsc08373.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T15:11:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8a44aacdd09e8dda34d41e9fb58f1883d448ee7b/2025/10/22/82502208-4842-4490-a207-4f98ae7ffc31/img-4118.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-03T15:16:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "20+ Google Docs tricks you're not using enough (no extensions required)",
-      "description": "From editable PDFs to automatic translations, Google Docs has a long list of features many people have never used.",
-      "url": "https://www.zdnet.com/article/20-google-docs-tricks-youre-not-using-enough-no-extensions-required/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8a44aacdd09e8dda34d41e9fb58f1883d448ee7b/2025/10/22/82502208-4842-4490-a207-4f98ae7ffc31/img-4118.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T15:16:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "OpenAI strikes $38 billion AI training deal with Amazon",
-      "description": "OpenAI has struck a $38 billion deal with Amazon Web Services that will give the AI giant access to “hundreds of thousands” of Nvidia GPUs to power its AI models. The seven-year partnership comes as Microsoft continues to loosen its grip on OpenAI, dropping i…",
-      "url": "https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-      "publishedAt": "2025-11-03T15:12:19Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe deal will allow OpenAI to train its AI models on the hundreds of thousands of Nvidia chips inside AWS data centers.\r\nThe deal will allow OpenAI to train its … [+2514 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nilay Patel",
-      "title": "Lyft CEO David Risher on paying drivers more and the shift to robotaxis",
-      "description": "Today, I’m talking with David Risher, who is the CEO of Lyft. I’ll just say from the jump: I think you’ll like this one, since David is refreshingly direct and doesn’t pull a lot of punches. He has on the board of Lyft for years, but he only stepped in as CEO…",
-      "url": "https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DCD_Risher_Lyft_full.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-      "publishedAt": "2025-11-03T15:02:30Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nRisher sees Lyft as a service company above all, but AI makes everything weird\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from this author will be added to your d… [+84408 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Are premium Chromebooks worth it in 2025? This laptop was enough to convert this Windows fan",
-      "description": "Acer's Chromebook Plus Spin 514 packs 12GB of RAM, a power-efficient MediaTek chip, and a sleek convertible display.",
-      "url": "https://www.zdnet.com/article/are-premium-chromebooks-worth-it-in-2025-this-laptop-was-enough-to-convert-this-windows-fan/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/03a2430f80a2158822734ec5164b39c3001c0bc0/2025/10/29/7ab41443-dcca-490c-960c-6729a56bdf32/img-4285.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T14:59:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nReady to branch out from Windows? If you're looking for a thin and light laptop for work, school, or everyday use, and you're interested in dive… [+5518 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Adrian Kingsley-Hughes",
-      "title": "Drawer full of USB cables? This tiny tester tells you which ones actually work as advertised",
-      "description": "The Treedix multifunction USB cable tester quickly identifies which cables still work and which ones belong in the recycling bin.",
-      "url": "https://www.zdnet.com/article/drawer-full-of-usb-cables-this-tiny-tester-tells-you-which-ones-actually-work-as-advertised/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6fa8dd7be252462dd67e245bc5fa23b7fb400591/2025/10/28/c5381eae-b06f-4b95-a955-151de63c816a/img-0342.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T14:12:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf you're anything like me, you have a box or bag (or maybe several) of cables you plan to one day sort through. Or maybe you need a quick and e… [+2789 chars]"
     }
   ]
 }
