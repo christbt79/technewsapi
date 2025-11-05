@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-05T06:48:00.051Z",
+  "fetchedAt": "2025-11-05T07:09:47.645Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Goldman Sachs, Morgan Stanley warn of a market correction: 'Things run and then they pull back'",
+      "description": "Global markets may be due for a reality check after this year's relentless rally, said Goldman Sachs and Morgan Stanley.",
+      "url": "https://www.cnbc.com/2025/11/04/goldman-sachs-morgan-stanley-warn-of-a-market-correction.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170978-17522559032025-07-11t151616z_1975930020_rc2ekfab7tpt_rtrmadp_0_usa-stocks.jpeg?v=1752524556&w=1920&h=1080",
+      "publishedAt": "2025-11-04T06:52:52Z",
+      "content": "Global markets may be due for a reality check after this year's relentless rally, as Goldman Sachs and Morgan Stanley on Tuesday cautioned investors to brace for a drawdown over the next two years.\r\n… [+2537 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ySimRFAV4FPfQqYuTyEg33-1920-80.jpg",
       "publishedAt": "2025-11-02T16:12:21Z",
       "content": "With Windows 10 reaching its end of life (EOL) last month, a free third-party tool called Flyoobe (which we have covered here) has been gaining popularity for enabling safe upgrades to Windows 11 on … [+2513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft AI chief says only biological beings can be conscious",
-      "description": "Mustafa Suleyman has become one of the most influential voices in tech to come out against building seemingly conscious AI.",
-      "url": "https://www.cnbc.com/2025/11/02/microsoft-ai-chief-mustafa-suleyman-only-biological-beings-can-be-conscious.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107360187-1705498131263-1J7A0183.JPG?v=1710865691&w=1920&h=1080",
-      "publishedAt": "2025-11-02T15:49:05Z",
-      "content": "Mustafa Suleyman, CEO of Microsoft AI, speaks at an event commemorating the 50th anniversary of the company at Microsoft headquarters in Redmond, Washington, on April 4, 2025.\r\nMicrosoft AI chief Mus… [+6644 chars]"
     }
   ]
 }
