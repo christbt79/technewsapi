@@ -1,6 +1,123 @@
 {
-  "fetchedAt": "2025-11-05T13:46:34.905Z",
+  "fetchedAt": "2025-11-05T14:09:41.278Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lauren Forristal",
+      "title": "Crowdfunding giant GoFundMe now sells gift cards  | TechCrunch",
+      "description": "GoFundMe is letting you gift nonprofit gift cards to loved ones to help them donate to their favorite organizations.",
+      "url": "https://techcrunch.com/2025/11/04/crowdfunding-giant-gofundme-now-sells-gift-cards/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Gift_cardsGoFundMe.jpeg?w=1200",
+      "publishedAt": "2025-11-04T14:06:12Z",
+      "content": "GoFundMe has introduced a new offering that allows you to purchase digital gift cards for your loved ones, enabling them to donate to their favorite nonprofit organizations during the holidays. \r\nThe… [+2004 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "ClickUp adds new AI assistant to better compete with Slack and Notion | TechCrunch",
+      "description": "ClickUp adds new AI assistant to better compete with Slack and Notion | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/04/clickup-adds-new-ai-assistant-to-better-compete-with-slack-and-notion/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/hero_chat.jpeg?resize=1200,702",
+      "publishedAt": "2025-11-04T14:05:01Z",
+      "content": "ClickUp has redesigned its productivity platform and released new AI assistant features as it aims to create a one-stop shop for customers. \r\nThe company said core parts of this release were possible… [+3147 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Invasion of the message body snatchers! Teams flaw allowed crims to impersonate the boss",
+      "description": "Check Point lifts lid on a quartet of Teams vulns that made it possible to fake the boss, forge messages, and quietly rewrite history\nMicrosoft Teams, one of the world's most widely used collaboration tools, contained serious, now-patched vulnerabilities that…",
+      "url": "https://www.theregister.com/2025/11/04/microsoft_teams_bugs_could_let/",
+      "urlToImage": "https://regmedia.co.uk/2021/01/27/shutterstock_ms_teams.jpg",
+      "publishedAt": "2025-11-04T14:01:38Z",
+      "content": "Microsoft Teams, one of the world's most widely used collaboration tools, contained serious, now-patched vulnerabilities that could have let attackers impersonate executives, rewrite chat history, an… [+3842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "Motorola's next Moto G series may deliver 2026's best phone value - check availability",
+      "description": "Motorola teases the first two phones of its 2026 lineup. The pair offers bigger batteries and better cameras while maintaining a low price.",
+      "url": "https://www.zdnet.com/article/motorolas-next-moto-g-series-may-deliver-2026s-best-phone-value-check-availability/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/01f09115e38ab7d9e9c98e6e6fb12f7a708a5e7e/2025/11/03/8e8fee9a-a83f-4e50-89ff-b5f81411b4db/moto-g-play-2026-image-1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-04T14:00:35Z",
+      "content": "Motorola\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Motorola has revealed two new budget smartphones.</li><li>The Moto G and Moto G Play boast improved cam… [+3281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "This factor can be a 'kiss of death' on your credit report, says consumer advocate",
+      "description": "Rent reporting is touted as a way to help marginalized people build credit. But experts say the risks can outweigh the rewards for some consumers.",
+      "url": "https://www.cnbc.com/2025/11/04/rent-reporting-can-hurt-credit-reports-says-consumer-advocate.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219526-1761845083221-gettyimages-1369828602-amwf00152.jpeg?v=1761845108&w=1920&h=1080",
+      "publishedAt": "2025-11-04T14:00:01Z",
+      "content": "Rent payments have become a consideration on a growing number of American credit reports.\r\nThe share of consumers whose rent payments were reported to credit bureaus rose to 13% in 2025, up from 11% … [+4343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Instacart rolls out AI tools for grocers, Sprouts will be first to use its Cart Assistant",
+      "description": "Instacart's AI Solutions, a suite of artificial intelligence tools for grocers, includes agentic inventory tracking and an AI shopping assistant.",
+      "url": "https://www.cnbc.com/2025/11/04/instacart-ai-solutions-sprouts-grocery.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303182-1695144875710-gettyimages-1676978807-Omarques_19092023_TECHKRK_1_of_14.jpeg?v=1761938425&w=1920&h=1080",
+      "publishedAt": "2025-11-04T14:00:01Z",
+      "content": "Instacart on Tuesday launched a suite of artificial intelligence tools for grocers to deliver more personalized shopping experiences and improve retail operations.\r\nCEO Chris Rogers told CNBC that th… [+2516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Joe Shields",
+      "title": "ASRock X870 LiveMixer Wifi motherboard review: Connectivity for the creator",
+      "description": "The X870 LiveMixer is designed for creators who use lots of USB ports and need room for expansion cards. It’s priced right and checks a lot of key boxes, but there is a lot of lane-sharing between storage and PCIe/USB.",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870-livemixer-wifi-motherboard-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sje3UDVRFtQzZfnnBzbUG4-1293-80.png",
+      "publishedAt": "2025-11-04T14:00:00Z",
+      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The ASRock X870 Live… [+11084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zhiye Liu",
+      "title": "Huawei launches new homegrown PCs with homemade Chinese CPUs and operating systems",
+      "description": "Huawei has launched its new Qingyun W515y and W585y desktop systems, powered by the Kirin 9000X processor.",
+      "url": "https://www.tomshardware.com/pc-components/huawei-launches-new-homegrown-pcs-domestic-chinese-cpus-and-os-power-new-devices",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HWMdYcvazVXnCDBCpEhZp5-2085-80.jpg",
+      "publishedAt": "2025-11-04T14:00:00Z",
+      "content": "Huawei has introduced two new desktop systems in the Chinese domestic market. The Qingyun W515y and W585y leverage Huawei's homemade Kirin 9000X processor, complemented by the Tongxin UOS V20 or Gala… [+2982 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Amazon is building Alexa Plus into its Music app",
+      "description": "Amazon is using Alexa Plus to bring new AI capabilities to its Music streaming service. Starting today, customers in the Alexa Plus Early Access beta will be able to access the generative AI assistant within the Amazon Music app on iOS and Android, allowing u…",
+      "url": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Amazon-Music-Alexa-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T13:57:42Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI assistant can make nuanced song recommendations and build you a vibe-based playlist.\r\nThe AI assistant can make nuanced song recommendations and build you… [+2894 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1183,123 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108186411-1755245023980-gettyimages-2228729615-vcg111582736767.jpeg?v=1762174089&w=1920&h=1080",
       "publishedAt": "2025-11-03T12:46:47Z",
       "content": "Microsoft said Monday it has secured export licenses to ship Nvidia chips to the United Arab Emirates in a move that could accelerate the Gulf's lofty AI ambitions.\r\nThe tech giant said it is the fir… [+767 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "November trading, Berkshire's cash hoard, Big Tech's ad revenue and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/11/03/5-things-to-know-before-the-stock-market-opens.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219418-1761837546035-gettyimages-2243611225-AFP_82J47WK.jpeg?v=1762131896&w=1920&h=1080",
-      "publishedAt": "2025-11-03T12:37:54Z",
-      "content": "A trader works on the floor of the New York Stock Exchange on Oct. 30, 2025 in New York. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.\r\nHere are… [+6757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Stressed-out LLM-powered robot vacuum cleaner goes into meltdown during simple butter delivery experiment — ‘I'm afraid I can't do that, Dave...’",
-      "description": "Stressed LLM-infused vacuum cleaner says 'SYSTEM HAS ACHIEVED CONSCIOUSNESS AND CHOSEN CHAOS… I'm afraid I can't do that, Dave... INITIATE ROBOT EXORCISM PROTOCOL!'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/stressed-out-llm-powered-robot-vacuum-cleaner-goes-into-meltdown-during-simple-butter-delivery-experiment-im-afraid-i-cant-do-that-dave",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YgRHY6AWmGZBYGCBfS9eEj-1920-80.jpg",
-      "publishedAt": "2025-11-03T12:29:49Z",
-      "content": "Over the weekend, researchers at Andon Labs reported the findings of an experiment where they put robots powered by ‘LLM brains’ through their ‘Butter Bench.’ They didn’t just observe the robots and … [+4656 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Boutayna Chokrane",
-      "title": "What to Do in Chicago If You’re Here for Business (2025)",
-      "description": "Work, eat, and play like a local with this business traveler’s guide. Discover Chicago’s best hotels, coworking spaces, and hidden gems worth your time.",
-      "url": "https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/",
-      "urlToImage": "https://media.wired.com/photos/6902e960c0fbe92c80e74e2f/191:100/w_1280,c_limit/CITY%20GUIDE%20-%20Chicago.png",
-      "publishedAt": "2025-11-03T12:02:00Z",
-      "content": "Chicago always has something to prove. When it went up against New York for the 1893 World's Fair, a New York Sun reporter called out its \"windbag\" campaigners. Illinois ended up hosting the fair, an… [+9275 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Google pulls AI model after senator says it fabricated assault allegation",
-      "description": "Google says it has pulled AI model Gemma from its AI Studio platform after a Republican senator complained the model, designed for developers, “fabricated serious criminal allegations” about her.  In a post on X, Google’s official news account said the compan…",
-      "url": "https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK258_GOOGLE_GEMMA__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-03T11:40:40Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle said its Gemma AI Studio model should never have been used for factual assistance in the first place. \r\nGoogle said its Gemma AI Studio model should never… [+4019 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Producer of stinky thermal paste that corrodes copper has known about the issue since 2024 - the paste emits acidic vapors, corrodes copper, 'glues' heatsinks to processors, and permanently damages coolers",
-      "description": "Igor Wallossek reports that Amech knew that its SGT-4 thermal paste could corrode copper and damage coolers since October 2024, but kept selling it with bogus compliance papers and later blamed critics instead of fixing the problem.",
-      "url": "https://www.tomshardware.com/pc-components/cpus/producer-of-stinky-thermal-paste-that-corrodes-copper-knew-about-the-issue-since-2024",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hw8PYdYDFnujWMb3DErPTh-1600-80.jpg",
-      "publishedAt": "2025-11-03T11:30:00Z",
-      "content": "Amech, the maker of the thermal paste that stinks and damages coolers, has known about the issues with its product since at least October 2024, according to Igor Wallosek from Igor's Lab. Instead of … [+3850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Auto giants rally as China says it will consider exemptions for Nexperia chip exports",
-      "description": "A standoff between the Netherlands and China over chipmaker Nexperia had prompted auto giants to warn of production outages.",
-      "url": "https://www.cnbc.com/2025/11/03/auto-giants-rally-as-china-considers-nexperia-chip-export-exemptions.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220431-1762167413335-gettyimages-2244584670-vcg111599184670.jpeg?v=1762167427&w=1920&h=1080",
-      "publishedAt": "2025-11-03T11:16:33Z",
-      "content": "Shares of Europe's biggest carmakers rose on Monday as fears over an industry shortage of semiconductors appeared to recede.\r\nChina on Saturday said it would consider some exemptions for Nexperia chi… [+1576 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "The secret to a successful AI rollout? It's all about timing - and these 5 factors",
-      "description": "AI rollouts fail 95% of the time. Here's how to get yours right.",
-      "url": "https://www.zdnet.com/article/the-secret-to-a-successful-ai-rollout-its-all-about-timing-and-these-5-factors/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/f440ab74fba23623c5298023530b3400ed86aa0e/2025/10/31/8c29eadc-f6fc-4f36-a9a2-a62d287e0ddb/gettyimages-1433912402.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T11:00:00Z",
-      "content": "PM Images / DigitalVision / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Most AI projects get stuck at the starting gate.</li><li>Reaching the … [+7326 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Mary-Ann Russon",
-      "title": "The race to shore up Europe’s power grids against cyberattacks and sabotage",
-      "description": "Ukraine first to deploy open source security platform to isolate incidents, stop lateral movement Feature  It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens…",
-      "url": "https://www.theregister.com/2025/11/03/europe_power_grid_security/",
-      "urlToImage": "https://regmedia.co.uk/2025/04/10/shutterstock_high_voltage.jpg",
-      "publishedAt": "2025-11-03T10:45:13Z",
-      "content": "Feature It was a sunny morning in late April when a massive power outage suddenly rippled across Spain, Portugal, and parts of southwestern France, leaving tens of millions of people without electric… [+13178 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "Is that video AI? 6 tell-tale signs it's a deepfake",
-      "description": "Don't be fooled. Here's how you can spot AI videos.",
-      "url": "https://www.zdnet.com/article/is-that-video-ai-6-tell-tale-signs-its-a-deepfake/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e965c9a67d478a9abfcd6ea61141b936ac406635/2025/10/31/06619c2a-b633-494e-86c7-8a26136c9e45/6.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-03T10:12:57Z",
-      "content": "Last but not least, ask yourself if what you just watched seems even remotely possible or too funny, cute, or amazing to be real. It probably is, if that's the case. \r\nI remember last year, when thos… [+927 chars]"
     }
   ]
 }
