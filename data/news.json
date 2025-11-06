@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-06T14:41:16.392Z",
+  "fetchedAt": "2025-11-06T15:10:35.988Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Neuralink implant patient gets 'second pair of eyes' thanks to motorized AI webcam — Insta360 Link 2 connected to MacBook gives father with ALS new lease on life",
+      "description": "A new documentary shows ALS and Neuralink implant patient Brad Smith expanding his family connection with a motorized AI webcam.",
+      "url": "https://www.tomshardware.com/peripherals/webcams/neuralink-implant-patient-gets-second-pair-of-eyes-thanks-to-motorized-ai-webcam-insta360-link-2-connected-to-macbook-gives-father-with-als-new-lease-on-life",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8gzZPq8W4SjZBKCmgb3mbK-1920-80.jpg",
+      "publishedAt": "2025-11-05T15:05:34Z",
+      "content": "A new documentary featuring ALS patient Brad Smith has been published today. You may already know of Smith, as he was featured by Tom’s Hardware back in May after successfully using the Neuralink bra… [+3123 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Acronis",
+      "title": "How IT professionals can thrive — not just survive — in the age of AI",
+      "description": "Want to be a hot commodity in an AI economy? Get smart and get certified Partner Content  AI probably won't take your job if you work in IT. The key word there, of course, is \"probably.\" In few other fields is the panic about AI as pronounced as it is among I…",
+      "url": "https://www.theregister.com/2025/11/05/how_it_professionals_can/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/03/laptop_shutterstock.jpg",
+      "publishedAt": "2025-11-05T15:00:10Z",
+      "content": "Partner Content AI probably won't take your job if you work in IT. The key word there, of course, is \"probably.\" In few other fields is the panic about AI as pronounced as it is among IT professional… [+4815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "You can buy retail gift cards on Google Play now - here's how",
+      "description": "Google quietly added a hidden gift card shop inside the Play Store. Here's how to find it.",
+      "url": "https://www.zdnet.com/article/you-can-buy-retail-gift-cards-on-google-play-now-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6abb26ab9dc8096c6d97e8696f760d8f6bc06fca/2025/11/05/6e8b7415-3d78-46e6-874e-2b56b386db82/you-can-buy-retail-gift-cards-on-google-play-now-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T14:54:27Z",
+      "content": "Artie Beaty / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Google Play Store now sells digital gift cards.</li><li>Cards are… [+2451 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "xAI used employee biometric data to train Elon Musk’s AI girlfriend",
+      "description": "Elon Musk’s AI company compelled its employees submit their own biometric data to train its “Ani” female chatbot, according to The Wall Street Journal. Ani, an anime avatar with blond pigtails and an NSFW setting, was released over the summer for users who su…",
+      "url": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/IMG_7432_ab2997.jpg?quality=90&strip=all&crop=0%2C10.878958329278%2C100%2C78.242083341443&w=1200",
+      "publishedAt": "2025-11-05T14:43:02Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nEmployees were told the use of their data was a job requirement\r\nEmployees were told the use of their data was a job requirement\r\nby\r\nAndrew J. HawkinsClose\r\nAnd… [+2679 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108172421-17526136932025-07-15t203240z_1930798000_rc28nfandz7f_rtrmadp_0_usa-trump.jpeg?v=1752613716&w=1920&h=1080",
       "publishedAt": "2025-11-04T15:13:06Z",
       "content": "Palantir's stock fell 7% on Tuesday as Wall Street analysts raised concerns about the company's elevated valuation and \"Big Short\" investor Michael Burry revealed a short position in the software com… [+2021 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Windows 10 update incorrectly tells some users they've reached end-of-life, despite having extended support — Microsoft confirms message sent to Enterprise, Pro, and Education users in error",
-      "description": "Users over the weekend reported seeing incorrect end-of-life messages on Windows 10 despite either being enrolled in the ESU program or running Enterprise/LTSC versions of the OS that are automatically set to receive security updates for a few more years. Mic…",
-      "url": "https://www.tomshardware.com/software/windows/windows-10-update-incorrectly-tells-some-users-theyve-reached-end-of-life-despite-having-extended-support-microsoft-confirms-message-sent-to-enterprise-pro-and-education-users-in-error",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PFvHtxFxUibgmkbuFHLHj9-1920-80.jpg",
-      "publishedAt": "2025-11-04T15:12:10Z",
-      "content": "Microsoft officially ended mainstream support for Windows 10 last month, nudging users to upgrade to Windows 11. While that led to almost an overnight technological revolution in Japan, elsewhere, it… [+2449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Use Google Docs? 20 tips and tricks for an instant productivity boost (no plug-ins required)",
-      "description": "From editable PDFs to instant translations, Google Docs offers numerous features that many people overlook.",
-      "url": "https://www.zdnet.com/article/use-google-docs-20-tips-and-tricks-for-an-instant-productivity-boost-no-plug-ins-required/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/87b565c12b463df9a45d8fe90a2620ef05ebf14e/2025/10/21/1ec34506-61cd-46eb-ae9a-92ecc60f8a1d/dsc08373.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T15:11:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "Motorola's new budget phones have larger batteries than your $1,000 iPhone and Samsung",
-      "description": "Motorola teases the first two phones of its 2026 lineup. The pair offers bigger batteries and better cameras while maintaining a low price.",
-      "url": "https://www.zdnet.com/article/motorolas-new-budget-phones-have-larger-batteries-than-your-1000-iphone-and-samsung/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/58b377933f85c0e608dbe209b5b4465baed64a2d/2025/11/03/c0015d34-5c4f-48c9-96f3-dfcdb5667b2a/moto-g-play-2026-image-2.png?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T15:10:00Z",
-      "content": "Motorola\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Motorola has revealed two new budget smartphones.</li><li>The Moto G and Moto G Play boast improved cam… [+3281 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "33-year-old 'bicoastal nurse' supercommutes to the Bay Area from Florida, makes up to $25,000 a month: It's 'very much worth it'",
-      "description": "Nurse Memwanesha Daniels lives in Jacksonville, Florida, but supercommutes via plane several times a month to work in the San Francisco Bay Area.",
-      "url": "https://www.cnbc.com/2025/11/04/33-year-old-nurse-living-in-florida-supercommutes-to-work-in-california.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218837-1761762733560-Memwa_Daniels_bicoastal_nurse_supercommuter.jpeg?v=1762267648&w=1920&h=1080",
-      "publishedAt": "2025-11-04T14:48:50Z",
-      "content": "If your home and work are on the opposite sides of town, you might have a long commute. If they're on the opposite sides of the country, you have quite the supercommute.\r\nThat's the case for Memwanes… [+4051 chars]"
     }
   ]
 }
