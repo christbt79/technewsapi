@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-06T20:39:28.746Z",
+  "fetchedAt": "2025-11-06T21:08:19.917Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Qualcomm reports earnings, revenue beat and issues strong forecast",
+      "description": "Qualcomm is trying to prove that it has a role in the artificial intelligence boom, which to date has been dominated by Nvidia.",
+      "url": "https://www.cnbc.com/2025/11/05/qualcomm-qcom-q4-2025-earnings-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217424-17615920782025-05-19t074654z_735119456_rc2vkea7nsnk_rtrmadp_0_taiwan-computex-qualcomm.jpeg?v=1761592149&w=1920&h=1080",
+      "publishedAt": "2025-11-05T21:06:14Z",
+      "content": "Qualcomm reported fiscal fourth-quarter results on Wednesday that beat analyst estimates on the top and bottom lines.\r\nHere's how the company did, compared with estimates from analysts polled by LSEG… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "HubSpot adds Clara Shih, Meta's head of business AI, to board of directors",
+      "description": "HubSpot appointed Meta's head of business AI Clara Shih to its board of directors",
+      "url": "https://www.cnbc.com/2025/11/05/hubspot-adds-meta-executive-clara-shih-to-board-of-directors.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107822-1740590136208-gettyimages-2171838292-2024_DREAMFORCE_CONFERENCE.jpeg?v=1762375999&w=1920&h=1080",
+      "publishedAt": "2025-11-05T21:05:01Z",
+      "content": "HubSpot announced on Wednesday that Clara Shih, Meta's head of business AI, has been added to the software company's Board of Directors.\r\nShih joined Meta last year to lead its artificial intelligenc… [+1941 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Joshua Keating",
+      "title": "How tariffs ate American foreign policy",
+      "description": "President Donald Trump has described the ongoing Supreme Court case over the legality of his use of emergency powers to impose tariffs on more than 100 countries as a matter of “literally, LIFE OR DEATH for our Country.” Certainly the case, in which oral argu…",
+      "url": "https://www.vox.com/politics/467530/trump-tariff-foreign-policy-supreme-court",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/04/gettyimages-2208184612.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-05T20:53:45Z",
+      "content": "President Donald Trump holds up a chart while speaking during a trade announcement event at the White House on April 2, 2025. | Chip Somodevilla/Getty Images\r\n\n\nPresident Donald Trump has described t… [+7490 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Brandon Russell",
+      "title": "Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday",
+      "description": "If you’ve been holding off on getting a new laptop, now’s a great time to pick one up. Ahead of Black Friday, you can snag the base 13-inch M4-powered MacBook Air for $749.99 ($250 off) in multiple colors at Amazon. That’s the lowest price we’ve seen on Apple…",
+      "url": "https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/MacBook-Air-M4-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-05T20:46:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest deal drops the price by $250.\r\nThe latest deal drops the price by $250.\r\nby\r\nBrandon RussellClose\r\nBrandon Russell\r\nPosts from this author will be add… [+2944 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Louise Matsakis",
+      "title": "The AI Data Center Boom Is Warping the US Economy",
+      "description": "Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI infrastructure is now a key driver of US economic growth.",
+      "url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/",
+      "urlToImage": "https://media.wired.com/photos/690928b72b2e4892c20c307e/191:100/w_1280,c_limit/Model-Behavior-AI-Infrastructure-Spending-Business.jpg",
+      "publishedAt": "2025-11-05T20:45:38Z",
+      "content": "The amount of capital pouring into AI data center projects is staggering. Last week, Microsoft, Alphabet, Meta, and Amazon reported their 2025 capital expenditures would total roughly $370 billion, a… [+2443 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -546,6 +611,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/7GbRs6C9Ypq9wjj9yx3My3-1920-80.jpg",
       "publishedAt": "2025-11-05T12:40:00Z",
       "content": "Cooling systems for AI servers are among the most power-hungry systems in an AI data center. According to SciTechDaily, Engineers from the University of California, San Diego, have created a brand ne… [+2819 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Chelsey Dulaney",
+      "title": "Tech Jitters Weigh on U.S. Stock Futures, Asian Indexes",
+      "description": "A selloff sparked by doubts over the AI trade showed signs of fading out, while the future of many of President Trump’s global tariffs hung in the balance.",
+      "url": "https://www.wsj.com/finance/stocks/https-www-wsj-com-articles-global-stocks-markets-dow-update-11-05-2025-3405c7af",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x5yqISXhVWW6rO90NKUTcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/fea196a0d88dbba6dadfe7271d24b2a9",
+      "publishedAt": "2025-11-05T12:36:00Z",
+      "content": "A selloff sparked by doubts over the AI trade showed signs of fading out, while the future of many of President Trumps global tariffs hung in the balance.\r\nFutures tied to the tech-heavy Nasdaq-100 s… [+3148 chars]"
     },
     {
       "source": {
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/04/24/free_shutterstock.jpg",
       "publishedAt": "2025-11-04T20:43:30Z",
       "content": "Recently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else's problems, and realized something that had been nagging at me for a while: … [+5554 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tina Nguyen",
-      "title": "Why Trump hijacked the .gov domain",
-      "description": "Hello and welcome to Regulator. Happy New York City mayoral election day to everyone who's voting, watching from afar, or just here for the memes. And happy 35th day of the federal government shutdown, which, as of today, is tied for the longest shutdown in h…",
-      "url": "https://www.theverge.com/column/813499/viral-politics-trump-mamdani-cuomo",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/White-House-internet.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T20:42:35Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nDonald Trumps vicious, meme-driven ethos has started seeping into the US governments official internet presence.\r\nDonald Trumps vicious, meme-driven ethos has st… [+8127 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Sequoia names Alfred Lin and Pat Grady as new Co-Stewards as Roelof Botha steps down | TechCrunch",
-      "description": "Just over three years after taking the reins as the steward of the storied firm, Botha passed the leadership baton to Lin and Grady.",
-      "url": "https://techcrunch.com/2025/11/04/sequoia-names-alfred-lin-and-pat-grady-as-new-co-stewards-as-roelof-botha-steps-down/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "publishedAt": "2025-11-04T20:36:49Z",
-      "content": "Just over three years after taking the reins as the leader of Sequoia Capital, Roelof Botha is stepping down as Senior Steward of the storied VC firm. The firm announced Tuesday that partners Alfred … [+3878 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Google’s AI Mode gets new agentic capabilities to help book event tickets and beauty appointments",
-      "description": "For example, you can ask \"find me 2 cheap tickets for the Shaboozey concert coming up. prefer standing floor tickets.\" AI Mode will then search across multiple websites to find real-time ticket options that meet your specific requests.",
-      "url": "https://techcrunch.com/2025/11/04/googles-ai-mode-gets-new-agentic-capabilities-to-help-book-event-tickets-and-beauty-appointments/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
-      "publishedAt": "2025-11-04T20:36:18Z",
-      "content": "Google announced on Tuesday that it’s launching new agentic capabilities in AI Mode, its feature that allows users to ask complex questions and follow-ups to dig deeper on a topic directly within Sea… [+2120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Echoing Trump's sentiments, America's finance chief Bessent says the most advanced AI GPUs are restricted to home soil - China can have Blackwell chips once they're outdated",
-      "description": "The U.S. Secretary of Treasury Scott Bessent has highlighted a potential future where China could get its hands on Nvidia's current-gen flagship AI chips... when they're no longer the current-gen flagships. Washington is considering letting Nvidia sell Blackw…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/echoing-trumps-sentiments-americas-finance-chief-bessent-says-the-most-advanced-ai-gpus-are-restricted-to-home-soil-china-can-have-blackwell-chips-once-theyre-outdated",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jakBnPpBNjF9ncTK4KKtGG-1920-80.jpg",
-      "publishedAt": "2025-11-04T20:10:41Z",
-      "content": "A couple of days ago, Trump told CBS News that China will not be allowed to have the most advanced chips Nvidia makes, but that they can otherwise deal with each other and sort out their own matters.… [+3190 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Chrome can now store your driver's license and passport, but is that safe?",
-      "description": "Google's enhanced autofill can save you time by filling in more types of info. Here's how to enable it, while protecting yourself from potential risks.",
-      "url": "https://www.zdnet.com/article/chrome-can-now-store-your-drivers-license-and-passport-but-is-that-safe/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/800067b3571fba4aa5221be089df43e157ca6ecc/2025/11/04/e31d6d54-7be0-4e87-b85f-3d664f937d0e/chrome5556gettyimages-2236407788.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T19:42:46Z",
-      "content": "Google\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new enhanced autofill can store and fill in more types of info.</li><li>You can save your driver… [+5761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI launches Sora for Android devices",
-      "description": "OpenAI's short-form AI video app Sora is now available on Android devices in the U.S., Canada, Japan, South Korea, Taiwan, Thailand and Vietnam.",
-      "url": "https://www.cnbc.com/2025/11/04/openai-sora-android.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214983-17610771932025-10-21t195023z_2008595976_rc2jghajhi33_rtrmadp_0_openai-sora.jpeg?v=1761077292&w=1920&h=1080",
-      "publishedAt": "2025-11-04T19:23:37Z",
-      "content": "OpenAI on Tuesday launched its Sora app of AI-generated videos for Android devices.\r\nThe artificial intelligence company first launched Sora for Apple devices in September. The announcement on Tuesda… [+916 chars]"
     }
   ]
 }
