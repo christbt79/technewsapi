@@ -1,6 +1,149 @@
 {
-  "fetchedAt": "2025-11-06T11:33:39.420Z",
+  "fetchedAt": "2025-11-06T12:18:30.688Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "After years of outsized stock market returns, it’s time to reassess your portfolio ‘risk exposure,’ top-ranked advisor says",
+      "description": "Many financial advisors recommend rebalancing your portfolio at least once a year, if not more often. Here's why now may be an opportune time.",
+      "url": "https://www.cnbc.com/2025/11/05/rebalance-your-portfolio.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221403-1762290573096-gettyimages-1796495560-026a0914.jpeg?v=1762290590&w=1920&h=1080",
+      "publishedAt": "2025-11-05T12:15:01Z",
+      "content": "[CK bullet with numbers.]\r\nThe stock market's impressive run in recent years may be fattening your portfolio, but it also might have thrown your intended investment mix off balance.\r\nWhile artificial… [+3980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Snowflake goes all out to woo PostgreSQL developers with lakehouse extensions",
+      "description": "Buyers still struggling to differentiate data platforms in era of AI\nCloud data platform vendor Snowflake has made its set of PostgreSQL extensions open source in a bid to help developers and data engineers integrate the popular open source database with its …",
+      "url": "https://www.theregister.com/2025/11/05/snowflake_postgresql_push/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/16/shutterstock_lakehouse.jpg",
+      "publishedAt": "2025-11-05T12:13:52Z",
+      "content": "Cloud data platform vendor Snowflake has made its set of PostgreSQL extensions open source in a bid to help developers and data engineers integrate the popular open source database with its lakehouse… [+3204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "What to expect from Apple's 'cheap' MacBook in 2026 (and how it'll compete with Chromebooks)",
+      "description": "Apple could be developing a new, lightweight MacBook with the iPhone's A18 Pro chipset, and at a price that's sure to turn heads.",
+      "url": "https://www.zdnet.com/article/what-to-expect-from-apples-cheap-macbook-in-2026-and-how-itll-compete-with-chromebooks/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T12:01:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple could be developing a new budget-friendly MacBook for around $599. </li><li>It would repor… [+4971 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Quantum diamond scanner delivers non-invasive 3D imaging of semiconductors — EuQlid Qu-MRI could ‘save chip foundries billions of dollars’",
+      "description": "EuQlid reveals a breakthrough diamond-based quantum sensing device for the non-invasive 3D imaging of semiconductors.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/quantum-diamond-scanner-delivers-non-invasive-3d-imaging-of-semiconductors-euqlid-qu-mri-could-save-chip-foundries-billions-of-dollars",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xap7CKA2wJCTLcfRQ7sBH5-1920-80.jpg",
+      "publishedAt": "2025-11-05T12:00:30Z",
+      "content": "A startup founded by an array of experts from Harvard, Yale, University of Maryland, Cadence, and Texas Instruments has come out of stealth to present a breakthrough device for the non-invasive, non-… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Wealthy investors expected to drive $32 trillion alternatives boom",
+      "description": "A recovery in IPOs and mergers, falling interest rates and the AI boom will all drive a new growth cycle in private markets, according to Preqin.",
+      "url": "https://www.cnbc.com/2025/11/05/wealthy-investors-expected-to-drive-32-trillion-alternatives-boom.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167050-1751468727041-gettyimages-1179383528-dsc_9931.jpeg?v=1759438506&w=1920&h=1080",
+      "publishedAt": "2025-11-05T12:00:01Z",
+      "content": "A version of this article appeared in CNBC's Inside Alts newsletter, a guide to the fast-growing world of alternative investments, from private equity and private credit to hedge funds and venture ca… [+2393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Armis raises $435 million, valuing cybersecurity startup at $6.1 billion",
+      "description": "The cybersecurity startup reaches a $6.1 billion valuation three months after topping $300 million in annual recurring revenues.",
+      "url": "https://www.cnbc.com/2025/11/05/armis-raises-435-million-at-6point1-billion-valuation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221499-1762299035845-Founders_1_credit_Armis_2.jpg?v=1762304436&w=1920&h=1080",
+      "publishedAt": "2025-11-05T12:00:01Z",
+      "content": "Cybersecurity startup Armis has raised $435 million in a funding round that values the company at $6.1 billion.\r\n\"The need for what Armis is doing and what we are building, in this cyber exposure man… [+1797 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "You're not using these 15+ Google Docs hacks to supercharge your workflow (and they're free)",
+      "description": "From editable PDFs to instant translations, Google Docs is packed with features most people never use.",
+      "url": "https://www.zdnet.com/article/youre-not-using-these-15-google-docs-hacks-to-supercharge-your-workflow-and-theyre-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/328bedcf7c590dfe2085d9b7c28b25f76c34ab0a/2025/08/08/0d84e69d-8a03-41f3-87e2-01a9802c6f20/dsc03833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T11:58:00Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kerry Wan",
+      "title": "Your Meta Ray-Bans are getting several video-recording upgrades for free - and Oakley models, too",
+      "description": "Smoother and longer video recording is coming to older Meta smart glasses, but there's more to the November firmware update.",
+      "url": "https://www.zdnet.com/article/your-meta-ray-bans-are-getting-several-video-recording-upgrades-for-free-and-oakley-models-too/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/114801af48138b31f22c96e3f0ff958b991f8634/2025/10/23/5d9e8c4b-d4d7-4348-86ea-cadee9105429/dsc08421.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T11:46:00Z",
+      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Meta is rolling out its Nov. firmware update across Ray-Ban and Oakley smart glasses.</li><li>… [+2778 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I thought these wireless earbuds were a joke - until I took my first phone call",
+      "description": "If you need a pair of earbuds with fantastic microphones, the OpenRock Link 20 open-air earbuds are some of the best I've tested.",
+      "url": "https://www.zdnet.com/article/i-thought-these-wireless-earbuds-were-a-joke-until-i-took-my-first-phone-call/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T11:44:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "China and America's AI war isn't just about compute, it's about energy — energy subsidies promote homegrown chip push, amid data center energy squeeze",
+      "description": "Local Chinese governments are issuing attractive energy subsidies to companies which use domestically produced chips in their data centers and \"AI factories,\" in order to discourage use of international CPUs and GPUs from the likes of Nvidia.",
+      "url": "https://www.tomshardware.com/tech-industry/china-and-americas-ai-war-isnt-just-about-compute-its-about-energy-energy-subsidies-promote-homegrown-chip-push-amid-data-center-energy-squeeze",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DPAtaNmV6haxU8AsMGKSm-1920-80.jpg",
+      "publishedAt": "2025-11-05T11:41:49Z",
+      "content": "Local Chinese governments have begun issuing attractive power incentives and subsidies to Chinese tech companies, including ByteDance, Alibaba, and Tencent, according to a new report. Designed to cut… [+4303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Which Apple Watch should you buy in 2025? My verdict on the most disputed model",
+      "description": "The Apple Watch Ultra 3 is Apple's most durable and longest-lasting wearable yet - but its upgrades go well beyond just battery life.",
+      "url": "https://www.zdnet.com/article/which-apple-watch-should-you-buy-in-2025-my-verdict-on-the-most-disputed-model/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8089096fd0729fe6fa265bf8c0989242416c08f2/2025/09/17/b3398d0d-a33f-499f-8252-fd2705ad158e/img-0040.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T11:39:00Z",
+      "content": "What's the deal? \r\nAmazon is taking $100 off the Apple Watch Ultra 3 for the first time. Apple's rugged and most expensive smartwatch sees its first discount since debuting in September. \r\nFollow ZDN… [+6713 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1157,149 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ttuF6zAsvkYiVcKNJst2TH-2000-80.jpg",
       "publishedAt": "2025-11-04T13:45:00Z",
       "content": "This week in 1988, Cornell graduate student Robert Tappan Morris unleashed his eponymous worm upon the Internet. The wave of infections grew to 10% of the entire Internet within 24 hours, causing ast… [+4033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zak Killian",
-      "title": "Elon Musk's SpaceX to launch reusable \"fabships\" for orbital chip manufacturing experiments — 'the ultimate egg drop challenge,' Besxar's orbital chipmaking experiments to occur over 12 launches",
-      "description": "The startup is betting on the vacuum of space to solve chipmaking's purity problem, with SpaceX boosters as its test lab.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-spacex-to-launch-reusable-fabships-for-orbital-chip-manufacturing-experiments-besxars-orbital-chipmaking-experiments-to-occur-over-12-launches",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BFky4zrZUxNkSd6dh5nfQW-1920-80.jpg",
-      "publishedAt": "2025-11-04T13:30:00Z",
-      "content": "It's not quite a chip factory in orbit yet, but that's the end goal of yet another project to build processors in space. Washington D.C.–based startup Besxar just announced that it has inked a 12-lau… [+3377 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "$10B + spent on liquid cooling this week – it's only Tuesday",
-      "description": "Eaton and Vertiv splash cash as HPC infrastructure and AI factories run hot\nLiquid cooling tech is hot. It's only Tuesday and already infrastructure specialists have forked out more than $10 billion on companies proffering tech that promises to help ease ener…",
-      "url": "https://www.theregister.com/2025/11/04/eaton_and_vertiv_both_acquire/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/20/datacenter_shutterstock.jpg",
-      "publishedAt": "2025-11-04T13:29:56Z",
-      "content": "Liquid cooling tech is hot. It's only Tuesday and already infrastructure specialists have forked out more than $10 billion on companies proffering tech that promises to help ease energy bills of data… [+3062 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Behind the wave of white-collar layoffs: Old-school cost cutting, tariffs and, yes, AI",
-      "description": "Amazon, Target and UPS are laying off thousands of employees, but the reasons behind the cuts go a lot deeper than AI.",
-      "url": "https://www.cnbc.com/2025/11/04/white-collar-layoffs-ai-cost-cutting-tariffs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220830-1762204848405-White_collar_lay_offs_thumbnail_F.jpg?v=1762205052&w=1920&h=1080",
-      "publishedAt": "2025-11-04T13:16:02Z",
-      "content": "Corporate America is getting rocked by historic rounds of white-collar layoffs, leading some to wonder: Has AI finally come for their jobs?\r\nWhile the proliferation of generative and agentic artifici… [+11995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "3D printing enthusiast creates camera with a gutted optical mouse's sensor — lo-fi 30x30 pixel camera took 65 hours to build",
-      "description": "A 3D printing enthusiast has made a cute, functional lo-fi digital camera using an optical sensor salvaged from a discarded mouse PCB.",
-      "url": "https://www.tomshardware.com/3d-printing/3d-printing-enthusiast-creates-camera-with-a-gutted-optical-mouses-sensor-lo-fi-30x30-pixel-camera-took-65-hours-to-build",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hxYHjLK974VHW4VhyhHF2L-1920-80.jpg",
-      "publishedAt": "2025-11-04T13:15:00Z",
-      "content": "A 3D printing enthusiast has made a cute, functional digital camera using an optical sensor salvaged from a discarded mouse PCB. This is an admirable recycling-inspired maker project to see completed… [+3687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "SUSE Enterprise Linux 16 is here, and its killer feature is digital sovereignty",
-      "description": "Available today, the new SLES 16 is ushering in an AI-ready, top-notch Linux server, while emphasizing its benefits for digital sovereignty.",
-      "url": "https://www.zdnet.com/article/suse-enterprise-linux-16-is-here-and-its-killer-feature-is-digital-sovereignty/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d39b20699672006422c4e470b776f8413bb1085f/2025/11/03/9064e741-49d5-455f-bab9-5ee2d8c5ec87/greeniguana555gettyimages-2241086850.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T13:03:00Z",
-      "content": "Mitchell Hanson/500px/500px Prime via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>SLES 16 comes with model context protocol built in.</li><li>T… [+9168 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "DRAM prices surge 171% year-over-year, outpacing the price of gold — AI demand drives massive price increases as shortage takes hold",
-      "description": "DRAM prices are skyrocketing out of control, with contract prices increased by a whopping 171% for the year.",
-      "url": "https://www.tomshardware.com/pc-components/dram/dram-prices-surge-171-percent-year-over-year-ai-demand-drives-a-higher-yoy-price-increase-than-gold",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UqFVjjcU6pNzSSznxamQ3M-1920-80.jpg",
-      "publishedAt": "2025-11-04T13:00:00Z",
-      "content": "DRAM prices are continuing to skyrocket thanks to exorbitant demands from the AI industry.CTEEreports that DRAM contract prices have increased by a whopping 171.8% year over year as of Q3 2025. In fa… [+2102 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Post Hindenburg, Adani Enterprises plans to raise $2.8 billion from rights issue",
-      "description": "A report by U.S. short seller Hindenburg derailed Adani Enterprises' plans to raise money in 2023.",
-      "url": "https://www.cnbc.com/2025/11/04/post-hindenburg-adani-enterprises-plans-to-raise-2point8-billion-from-rights-issue.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108070014-17331600242024-12-02t070458z_587775375_rc2rfbajk3cu_rtrmadp_0_adani-group-usa.jpeg?v=1733160050&w=1920&h=1080",
-      "publishedAt": "2025-11-04T12:58:21Z",
-      "content": "Adani Enterprises on Tuesday announced plans to raise 250 billion rupees ($2.8 billion) through a rights issue of shares as it seeks to move on from the controversy that erupted the last time it anno… [+1362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "How to prep your company for a passwordless future - in 5 steps",
-      "description": "Weak or compromised passwords pose the greatest security risk to companies, according to a new report from password manager 1Password.",
-      "url": "https://www.zdnet.com/article/how-to-prep-your-company-for-a-passwordless-future-in-5-steps/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fffbf694c73af06355a152d30b2a653f273d248b/2025/04/30/8a32912a-16c7-457b-806e-a870260af189/5-things-to-do-on-world-password-day-to-keep-your-accounts-safe.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T12:58:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Weak or compromised passwords pose a significant security risk to companies.</li><l… [+5011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Carly Page",
-      "title": "OpenAI API moonlights as malware HQ in Microsoft’s latest discovery",
-      "description": "Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI’s Assistants API as a command channel\nHackers have found a new use for OpenAI's Assistants API – not to write poems or code, but to secretly control malware.…",
-      "url": "https://www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/",
-      "urlToImage": "https://regmedia.co.uk/2022/02/23/backdoor_shutterstock.jpg",
-      "publishedAt": "2025-11-04T12:08:12Z",
-      "content": "Hackers have found a new use for OpenAI's Assistants API not to write poems or code, but to secretly control malware.\r\nMicrosoft this week detailed a previously unseen backdoor dubbed \"SesameOp,\" whi… [+2792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Keeping the lights on takes up nearly all police IT spending in England and Wales",
-      "description": "Plans for investing in AI and service transformation held up as treasury pulls plug, NAO finds Police forces in England and Wales spend around 97 percent of their £2 billion ($2.6 billion) annual technology budget on maintaining legacy systems, an official re…",
-      "url": "https://www.theregister.com/2025/11/04/england_wales_it_policing_budget/",
-      "urlToImage": "https://regmedia.co.uk/2016/10/31/police_hacking.jpg",
-      "publishedAt": "2025-11-04T11:30:10Z",
-      "content": "Police forces in England and Wales spend around 97 percent of their £2 billion ($2.6 billion) annual technology budget on maintaining legacy systems, an official report has found.\r\nFragmented and sto… [+3164 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Katie Drummond",
-      "title": "Kara Swisher Would Rather Work for Sam Altman Than Mark Zuckerberg",
-      "description": "But ideally, the journalist and podcast host would rather not work for tech CEOs at all.",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kara-swisher/",
-      "urlToImage": "https://media.wired.com/photos/68f8083c6fc0dea09153d01c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Kara-Smith-Business-2234581360.jpg",
-      "publishedAt": "2025-11-04T11:30:00Z",
-      "content": "Kara Swisher is the epitome of a multi-hyphenate: a podcast host, journalist, author, and CEO agitator.\r\nSwisher has also, in her way, turned IDGAF into her personal brand. Deeply sourced and happy t… [+1943 chars]"
     }
   ]
 }
