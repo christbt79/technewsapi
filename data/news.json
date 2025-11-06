@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-06T16:47:57.759Z",
+  "fetchedAt": "2025-11-06T17:10:26.679Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’  | TechCrunch",
+      "description": "Wabi, a startup from the founder of Replika, has just raised a $20 million pre-seed round. Wabi is like \"YouTube for apps\" -- a social platform where anyone can use prompts to instantly create mini apps and share them with friends.",
+      "url": "https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-05-at-11.49.15AM.png?resize=1200,608",
+      "publishedAt": "2025-11-05T17:03:59Z",
+      "content": "Eugenia Kuyda saw the future of consumer AI before most. She founded Replika, the first major AI companion startup, in 2017 years before ChatGPT launched. Today it has 35 million users.  \r\nNow Kuyda … [+6733 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Microsoft built a fake marketplace to test AI agents — they failed in surprising ways | TechCrunch",
+      "description": "Researchers at Microsoft have developed a new simulation environment for testing AI agents, revealing surprising weaknesses in the current state-of-the-art.",
+      "url": "https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?resize=1200,675",
+      "publishedAt": "2025-11-05T17:01:35Z",
+      "content": "On Wednesday, researchers at Microsoft released a new simulation environment designed to test AI agents, along with new research showing that current agentic models may be vulnerable to manipulation.… [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Windows 10 may warn support has ended even if you paid for extended updates – here's why",
+      "description": "A bug that displays an incorrect 'end of support' message is expected to be squashed in a future Windows update.",
+      "url": "https://www.zdnet.com/article/windows-10-may-warn-support-has-ended-even-if-you-paid-for-extended-updates-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d18daa0c22cd197a0345bf58e6ca307a618d07c7/2025/11/05/366065bc-3a6f-4695-b113-d9a9e9f4b471/gettyimages-2239565494.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T17:01:12Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 10 may tell you that support has ended even if you paid for it.</li><li>The incorrect message is due to a… [+2884 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Google makes it easier to access AI Mode in Chrome on iOS and Android",
+      "description": "Users will now be able to access AI Mode via a new dedicated shortcut button under the search bar when opening a \"New Tab\" page in Chrome.",
+      "url": "https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+      "publishedAt": "2025-11-05T17:00:00Z",
+      "content": "Google announced on Wednesday that it’s making it easier to access AI Mode on mobile. Users will now be able to access AI Mode, which allows users to ask complex questions and follow-ups to dig deepe… [+1556 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "This AI smart ring lets you record voice notes with a whisper",
+      "description": "Another AI-powered wearable is coming to market. It’s not a pendant like Friend, nor a wristband like Amazon’s Bee. This time, it’s a smart ring called the Stream Ring from the company Sandbar founded by former employees of the neural interface startup CTRL-L…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-05T16:55:55Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Stream Ring comes from new wearable company Sandbar that was founded by former Meta employees.\r\nThe Stream Ring comes from new wearable company Sandbar that … [+3795 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/AI-Sessions-Anthropic-Kaplan.jpg?resize=1200,800",
       "publishedAt": "2025-11-04T16:50:27Z",
       "content": "The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropics bu… [+3008 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "Tesla’s Master Plan 4 still lacks specifics ahead of $1T Musk pay vote | TechCrunch",
-      "description": "Despite its imprecision, the fourth \"Master Plan\" is a centerpiece of Tesla's case for giving CEO Elon Musk $1 trillion in company shares.",
-      "url": "https://techcrunch.com/2025/11/04/teslas-master-plan-4-still-lacks-specifics-ahead-of-1t-musk-pay-vote/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/musk-getty-inauguration-trump.jpg?resize=1200,897",
-      "publishedAt": "2025-11-04T16:49:32Z",
-      "content": "More than two months ago, Tesla published its fourth “Master Plan,” a gauzy post about how the company wants to spread “sustainable abundance” via its future products. Details remain woefully absent,… [+4047 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Chinese provinces offer steep power discounts to AI companies using China-made chips — country continues its aggressive push towards AI independence and homegrown silicon",
-      "description": "Chinese provinces offer steep power discounts to AI companies using domestic chips",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/chinese-provinces-offer-steep-power-discounts-to-ai-companies-using-china-made-chips-country-continues-its-aggressive-push-towards-ai-independence-and-homegrown-silicon",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tNwnwt2CeCUqUadQPyzeeN-2121-80.jpg",
-      "publishedAt": "2025-11-04T16:40:25Z",
-      "content": "The war for AI dominance just got a new front of sorts. According to a new report, some Chinese provinces are now offering steep discounts on industrial power pricing to AI datacenters, with only one… [+2212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "I've tested every Apple Watch model in 2025 - here's why now is the best time to buy the Ultra",
-      "description": "The Apple Watch Ultra 3 is Apple's most durable and longest-lasting wearable yet - but its upgrades go well beyond just battery life.",
-      "url": "https://www.zdnet.com/article/ive-tested-every-apple-watch-model-in-2025-heres-why-now-is-the-best-time-to-buy-the-ultra/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8089096fd0729fe6fa265bf8c0989242416c08f2/2025/09/17/b3398d0d-a33f-499f-8252-fd2705ad158e/img-0040.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T16:39:00Z",
-      "content": "What's the deal? \r\nAmazon is taking $100 off the Apple Watch Ultra 3 for the first time. Apple's rugged and most expensive smartwatch sees its first discount since debuting in September. \r\nFollow ZDN… [+6713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zhiye Liu",
-      "title": "Nvidia unexpectedly replaces a damaged RTX 5090 GPU despite user blunder — $1,999 flagship GPU escapes paperweight status against all odds",
-      "description": "A GeForce RTX 5090 owner damaged his graphics card while attempting to install a water block, but Nvidia agreed to replace it anyway.",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-unexpectedly-replaces-a-damaged-rtx-5090-gpu-despite-user-blunder-usd1-999-flagship-gpu-escapes-paperweight-status-against-all-odds",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RH2UfQ4PEty8QdC39Tkoom-1920-80.jpg",
-      "publishedAt": "2025-11-04T16:33:42Z",
-      "content": "An extremely fortunate RTX 5090 owner who contacted Nvidia after breaking their GPU while trying to install a custom liquid cooling block has received a brand new card free of charge, despite voiding… [+4395 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Joe Fay",
-      "title": "Coders paired with bot buddies work fast, but take too many shortcuts",
-      "description": "Trust me bro, says GitHub Copilot. And programmers just... do\nDevelopers who \"pair code\" with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partner’s ou…",
-      "url": "https://www.theregister.com/2025/11/04/humanhuman_code_pairs_more_talkative/",
-      "urlToImage": "https://regmedia.co.uk/2025/01/09/aicoding.jpg",
-      "publishedAt": "2025-11-04T16:28:58Z",
-      "content": "Developers who \"pair code\" with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partners outpu… [+4534 chars]"
     }
   ]
 }
