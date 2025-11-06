@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T08:45:45.586Z",
+  "fetchedAt": "2025-11-06T09:11:03.663Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's The China Connection newsletter: Rumblings of a crypto race",
+      "description": "Fresh off meeting Chinese President Xi Jinping, U.S. President Donald Trump is talking about keeping the U.S. ahead of China in the world of digital assets.",
+      "url": "https://www.cnbc.com/2025/11/05/cnbcs-the-china-connection-newsletter-rumblings-of-a-crypto-race.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221584-1762329951496-gettyimages-2203296302-HK_TRUMP_BITCOIN.jpeg?v=1762329964&w=1920&h=1080",
+      "publishedAt": "2025-11-05T08:57:52Z",
+      "content": "Bitcoin, ethereum and the stablecoin USDT are promoted at a cryptocurrency store in Hong Kong on July 29, 2025. \r\nThis report is from this week's CNBC's The China Connection newsletter, which brings … [+8304 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia's private equity funds turn bullish on China, betting on Beijing's tech-focused economic plan",
+      "description": "The optimism marks a subtle yet important shift for an industry that has spent the past two years grappling with weak fundraising and geopolitical uncertainty.",
+      "url": "https://www.cnbc.com/2025/11/05/asias-private-equity-funds-china-ai-tech-economic-plan-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221565-1762323994802-gettyimages-2244575442-HK_INVESTMENT_SUMMIT.jpeg?v=1762324006&w=1920&h=1080",
+      "publishedAt": "2025-11-05T08:48:33Z",
+      "content": "Asia-focused private equity managers are turning more bullish on the world's second-largest economy, betting on Beijing's drive for technological self-sufficiency and rapid adoption to deliver the ne… [+3080 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/bdd2b20eab8e57d70a0c3e1f0094a6696ecca187/2025/11/03/3901995d-f943-4e7c-85e3-10ca5dd8ee79/gettyimages-490926205.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-04T10:00:42Z",
       "content": "Rawpixel/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBusiness leaders are discovering that the traditional playbook for sales productivity is failing, and busines… [+4068 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "SUSE Linux Enterprise Server 16 lands - with AI and EU support baked in",
-      "description": "Available today, the new SLES 16 is ushering in an AI-ready, top-notch Linux server, while emphasizing its benefits for digital sovereignty.",
-      "url": "https://www.zdnet.com/article/suse-linux-enterprise-server-16-lands-with-ai-and-eu-support-baked-in/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d39b20699672006422c4e470b776f8413bb1085f/2025/11/03/9064e741-49d5-455f-bab9-5ee2d8c5ec87/greeniguana555gettyimages-2241086850.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T10:00:31Z",
-      "content": "Mitchell Hanson/500px/500px Prime via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>SLES 16 comes with model context protocol built in.</li><li>T… [+9168 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Dow Jones Newswires Staff",
-      "title": "Global Markets Fall After Fed Officials Express Diverging Views on Cuts",
-      "description": "U.S. stock futures were in the red with earnings due later from Advanced Micro Devices, Uber, Pfizer and Thomson Reuters.",
-      "url": "https://www.wsj.com/finance/global-markets-fall-after-fed-officials-express-diverging-views-on-cuts-91235ae9",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VnHOS0BGXAVnPQAkHl8CIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/524873822577089acc24a57ebcd0799c",
-      "publishedAt": "2025-11-04T09:29:00Z",
-      "content": "Federal Reserve officials on Monday expressed diverging views on further interest-rate cuts. - Aaron Schwartz/Reuters\r\nU.S. stock futures and global equities markets were in the red Tuesday amid a ge… [+2186 chars]"
     }
   ]
 }
