@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-06T03:33:18.000Z",
+  "fetchedAt": "2025-11-06T04:15:35.746Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "NVIDIA, Qualcomm join U.S., Indian VCs to help build India's next deep tech startups | TechCrunch",
+      "description": "Qualcomm Ventures has joined six Indian venture firms, collectively adding more than $850 million to boost India’s deep-tech ecosystem.",
+      "url": "https://techcrunch.com/2025/11/04/nvidia-qualcomm-join-u-s-indian-vcs-to-help-build-indias-next-deep-tech-startups/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/india-flag.jpg?resize=1200,800",
+      "publishedAt": "2025-11-05T03:33:25Z",
+      "content": "NVIDIA and Qualcomm Ventures have joined a growing coalition of U.S. and Indian investors backing India’s deep tech startups. The group launched in September with more than $1 billion in commitments,… [+6676 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220064-1761924837760-gettyimages-1296135877-b17_1610539324.jpeg?v=1761924875&w=1920&h=1080",
       "publishedAt": "2025-11-04T05:49:39Z",
       "content": "Whether or not markets are getting ahead of themselves over artificial intelligence is a hot topic for investors right now.\r\nLast week, billionaire investor Ray Dalio said his personal \"bubble indica… [+3362 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "LLMs are lousy at reading Asian languages, finds Singapore’s Grab",
-      "description": "Superapp company that chased Uber away built its own model to do the job right Proprietary large language models are bad at interpreting Asian languages, according to Singaporean super-app company Grab, which has built its own model instead.…",
-      "url": "https://www.theregister.com/2025/11/04/grab_vision_llm_project/",
-      "urlToImage": "https://regmedia.co.uk/2021/04/14/grab_rider_shutterstock_editorial_only.jpg",
-      "publishedAt": "2025-11-04T04:55:01Z",
-      "content": "Proprietary large language models are bad at interpreting Asian languages, according to Singaporean super-app company Grab, which has built its own model instead.\r\nGrabs superapp offers ride-sharing,… [+4761 chars]"
     }
   ]
 }
