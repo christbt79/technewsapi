@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-06T19:08:08.585Z",
+  "fetchedAt": "2025-11-06T19:31:25.387Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Amazon, Perplexity, and the future of AI shopping assistants",
+      "description": "The e-commerce giant claims Perplexity's Comet is eroding the customer experience - while pushing its own AI shopping agent.",
+      "url": "https://www.zdnet.com/article/amazon-perplexity-and-the-future-of-ai-shopping-assistants/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8964dd097ebbaf96fdeba696dfe721328daed817/2025/11/05/1c6232f2-5dfa-4670-b206-11a40c2ae2c7/gettyimages-2184174407.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T19:22:04Z",
+      "content": "JuSun/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has threatened legal action against AI startup Perplexity… [+6648 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2239565230.jpg?quality=90&strip=all&crop=0%2C10.654292878952%2C100%2C78.691414242097&w=1200",
       "publishedAt": "2025-11-04T18:51:31Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nNow, more people can create and share AI-generated videos on the apps social feed.\r\nNow, more people can create and share AI-generated videos on the apps social … [+2481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Aramco CEO says Saudi Arabia's cheap energy will turn kingdom into a global AI data center leader",
-      "description": "Saudi Aramco CEO Amin Nasser shared details of the kingdom's national AI strategy in an interview with CNBC's Sara Eisen.",
-      "url": "https://www.cnbc.com/2025/11/04/aramco-saudi-arabia-ai-data-center.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145679-17472532752024-10-29t122012z_169525670_rc2cuaasj8ro_rtrmadp_0_saudi-investment-fii.jpeg?v=1747253306&w=1920&h=1080",
-      "publishedAt": "2025-11-04T18:40:52Z",
-      "content": "Saudi Arabia will capitalize on its abundant supply of cheap natural gas and renewables to transform the kingdom into a global leader in artificial intelligence, Aramco CEO Amin Nasser told CNBC in a… [+1735 chars]"
     }
   ]
 }
