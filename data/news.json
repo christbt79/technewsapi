@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T14:10:07.595Z",
+  "fetchedAt": "2025-11-06T14:41:16.392Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "SoftBank, OpenAI launch new joint venture in Japan as AI deals grow ever more circular | TechCrunch",
+      "description": "SoftBank's joint venture with OpenAI that will localize and sell the AI company's enterprise tech to companies in Japan. And the first customer of this joint venture is going to be SoftBank itself.",
+      "url": "https://techcrunch.com/2025/11/05/softbank-openai-launch-new-joint-venture-in-japan-as-ai-deals-grow-ever-more-circular/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675",
+      "publishedAt": "2025-11-05T14:24:18Z",
+      "content": "If you look at how AI deals are conducted these days, it seems AI companies and their investors are imitating the circle of life. Only, it’s a circle of profit that ensures the money eventually comes… [+2091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "You can chat with Google Maps now, thanks to this big AI upgrade - how it works",
+      "description": "Google Maps just got four big Gemini-powered upgrades. Here's what's new.",
+      "url": "https://www.zdnet.com/article/you-can-chat-with-google-maps-now-thanks-to-this-big-ai-upgrade-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e673c96459210dddbda5cc7efa2b4d71338687c8/2025/11/05/1c21dbce-7e89-42e8-b5fa-c59c39f99289/you-can-chat-with-google-maps-now-thanks-to-this-big-ai-upgrade-how-it-works.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T14:22:00Z",
+      "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Maps. </li><li>You can use Talk … [+3546 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218837-1761762733560-Memwa_Daniels_bicoastal_nurse_supercommuter.jpeg?v=1762267648&w=1920&h=1080",
       "publishedAt": "2025-11-04T14:48:50Z",
       "content": "If your home and work are on the opposite sides of town, you might have a long commute. If they're on the opposite sides of the country, you have quite the supercommute.\r\nThat's the case for Memwanes… [+4051 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Win10 still clings to over 40% of devices weeks after Microsoft pulls support",
-      "description": "Popular operating system much more sticky than Windows 7 was during its EOL As the dust settles over the end of support for many versions of Windows 10, the operating system remains a significant presence in the Windows market.…",
-      "url": "https://www.theregister.com/2025/11/04/windows_10_eol/",
-      "urlToImage": "https://regmedia.co.uk/2016/08/24/bomb.jpg",
-      "publishedAt": "2025-11-04T14:37:10Z",
-      "content": "As the dust settles over the end of support for many versions of Windows 10, the operating system remains a significant presence in the Windows market.\r\nWhile Microsoft is hoping for a mass move to W… [+2343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Alex Karp blasts 'Big Short' investor Michael Burry as 'bats--- crazy' for bets against Palantir, Nvidia",
-      "description": "\"The idea that chips and ontology is what you want to short is bats--- crazy,\" Alex Karp said.",
-      "url": "https://www.cnbc.com/2025/11/04/karp-big-short-burry-palantir-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138812-1762266728313-108138812-1746031878972-gettyimages-2212772079-_d1_9976_01dbvs5l.jpg?v=1762266737&w=1920&h=1080",
-      "publishedAt": "2025-11-04T14:35:03Z",
-      "content": "Palantir CEO Alex Karp ranted against short-sellers, calling out specifically Michael Burry after a filing revealed the investor of \"The Big Short\" fame had bets against the AI software company, as w… [+2364 chars]"
     }
   ]
 }
