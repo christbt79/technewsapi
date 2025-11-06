@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T05:10:36.332Z",
+  "fetchedAt": "2025-11-06T05:39:37.355Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion | TechCrunch",
+      "description": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
+      "url": "https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/moengage-ceo_b0228f.jpg?resize=1200,800",
+      "publishedAt": "2025-11-05T05:23:02Z",
+      "content": "MoEngage, a customer engagement platform that works with consumer brands across 75 countries, says it has raised new funding led by its existing investor, Goldman Sachs Alternatives, to ramp up globa… [+5174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Supermicro admits building AI infrastructure is a tricky, low-margin business ... for now",
+      "description": "Can’t rule out more revenue wobbles given the complexity of big projects\nServer-maker and designer Supermicro has promised to improve performance, after missing its guided revenue and revealing its margins aren’t strong.…",
+      "url": "https://www.theregister.com/2025/11/05/supermicro_q1_2026/",
+      "urlToImage": "https://regmedia.co.uk/2024/10/08/shutterstock_2428612287.jpg",
+      "publishedAt": "2025-11-05T05:12:40Z",
+      "content": "Server-maker and designer Supermicro has promised to improve performance, after missing its guided revenue and revealing its margins arent strong.\r\nInvestors already knew Supermicro wasnt going to po… [+4161 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220889-1762211588906-gettyimages-2244386438-Illustration_Amazon.jpeg?v=1762211661&w=1920&h=1080",
       "publishedAt": "2025-11-04T07:30:01Z",
       "content": "The \"everything store\" might have secured its biggest customer yet.\r\nOn Monday, Amazon announced that it had signed a $38 billion deal with OpenAI, offering the ChatGPT maker access to Amazon Web Ser… [+3025 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Goldman Sachs, Morgan Stanley warn of a market correction: 'Things run and then they pull back'",
-      "description": "Global markets may be due for a reality check after this year's relentless rally, said Goldman Sachs and Morgan Stanley.",
-      "url": "https://www.cnbc.com/2025/11/04/goldman-sachs-morgan-stanley-warn-of-a-market-correction.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108170978-17522559032025-07-11t151616z_1975930020_rc2ekfab7tpt_rtrmadp_0_usa-stocks.jpeg?v=1752524556&w=1920&h=1080",
-      "publishedAt": "2025-11-04T06:52:52Z",
-      "content": "Global markets may be due for a reality check after this year's relentless rally, as Goldman Sachs and Morgan Stanley on Tuesday cautioned investors to brace for a drawdown over the next two years.\r\n… [+2537 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "HSBC, General Atlantic CEOs flag AI capex-revenue mismatch, 'irrational exuberance'",
-      "description": "Alphabet, Meta, Microsoft, and Amazon collectively expect $380 billion in capex this year, while OpenAI has announced $1 trillion in infrastructure deals.",
-      "url": "https://www.cnbc.com/2025/11/04/hsbc-ai-capex-elhedery-ford-openai-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220954-1762229279080-gettyimages-2202518009-MJP_20250301__Perplexity_6276JPG.jpeg?v=1762229291&w=1920&h=1080",
-      "publishedAt": "2025-11-04T05:52:43Z",
-      "content": "As companies pour billions into artificial intelligence, HSBC CEO Georges Elhedery on Tuesday warned of a mismatch between investments and revenues.\r\nSpeaking at the Global Financial Leaders' Investm… [+2438 chars]"
     }
   ]
 }
