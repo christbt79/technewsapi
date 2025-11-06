@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T21:33:21.127Z",
+  "fetchedAt": "2025-11-06T22:09:04.257Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Why Amazon really doesn't want Perplexity's AI browser shopping for you",
+      "description": "Perplexity called Amazon's actions 'a threat to all internet users.'",
+      "url": "https://www.zdnet.com/article/why-amazon-really-doesnt-want-perplexitys-ai-browser-shopping-for-you/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c79f3fefa732dc751ab1303d18e4c42979c852e5/2025/11/05/7eb37b6a-4e3b-4e45-8672-105ee3b3a41d/gettyimages-2241942850.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T22:02:00Z",
+      "content": "Matthias Balk/picture alliance via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has threatened legal action against AI startup Perplexity… [+6628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Microsoft confirms a bug is hitting paid Windows 10 ESU users - here's what's happening",
+      "description": "This problem has affected both consumer and business versions of Windows 10.",
+      "url": "https://www.zdnet.com/article/microsoft-confirms-a-bug-is-hitting-paid-windows-10-esu-users-heres-whats-happening/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d18daa0c22cd197a0345bf58e6ca307a618d07c7/2025/11/05/366065bc-3a6f-4695-b113-d9a9e9f4b471/gettyimages-2239565494.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T21:46:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 10 may tell you that support has ended even if you paid for it.</li><li>The incorrect message is due to a… [+2994 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/11/04/shutterstock_2454390647.jpg",
       "publishedAt": "2025-11-04T21:32:03Z",
       "content": "hands on With Microsoft cramming Copilot into every nook and cranny of its software, its no surprise that everyones favorite AI assistant is now set to take over the search box. As of the latest Wind… [+5703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "You can try OpenAI's popular Sora video app on Android and iOS now - for free",
-      "description": "With Sora, you can create short-form, AI-generated videos featuring yourself or your friends - no invite code needed.",
-      "url": "https://www.zdnet.com/article/you-can-try-openais-popular-sora-video-app-on-android-and-ios-now-for-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/902e4c07e503b94fe06b99f4993120a2da5941fa/2025/10/23/c2088c66-5fe7-4f50-927b-a9cab4ba16d9/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T21:28:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI launched Sora 2 AI video and audio engine, in September.</li><li>Sora 2 is f… [+2587 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Pinterest shares plummet 15% on earnings miss, weak forecast",
-      "description": "Pinterest shares tanked on Tuesday after the company reported third-quarter financial results that missed on earnings per share and provided weak guidance.",
-      "url": "https://www.cnbc.com/2025/11/04/pinterest-pins-q3-earnings-report-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107415431-17157931912024-05-15t171137z_902231356_rc21r7apnw8v_rtrmadp_0_usa-stocks.jpeg?v=1727105936&w=1920&h=1080",
-      "publishedAt": "2025-11-04T21:18:02Z",
-      "content": "Pinterest shares tanked as much as 15% on Tuesday after the company reported third-quarter financial results that missed on earnings per share and provided weak guidance.\r\nHere's how the company did,… [+2761 chars]"
     }
   ]
 }
