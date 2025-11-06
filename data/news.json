@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-06T18:48:26.702Z",
+  "fetchedAt": "2025-11-06T19:08:08.585Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Pinterest CEO touts open source AI: 'tremendous performance' with reduced costs | TechCrunch",
+      "description": "Pinterest CEO Bill Ready says open source AI is offering cost savings to the company, particularly in visual search.",
+      "url": "https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/bill-ready-pinterest-GettyImages-2213037081.jpg?w=1024",
+      "publishedAt": "2025-11-05T19:01:49Z",
+      "content": "On an earnings call on Tuesday, Pinterest CEO Bill Ready highlighted the promise of open source AI models in helping the company keep its costs down as it expands the use cases for visual AI.\r\nThe im… [+3238 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Will Knight",
+      "title": "Meet the Chinese Startup Using AI—and a Small Army of Workers—to Train Robots",
+      "description": "AgiBot is using AI-powered robots to do new manufacturing tasks. Smarter machines may transform physical labor in China.",
+      "url": "https://www.wired.com/story/agibot-robots-manufacturing/",
+      "urlToImage": "https://media.wired.com/photos/690a78187bd6ade585ffc3ec/191:100/w_1280,c_limit/AI-Lab-Teaching-Robots-Manufacturing-Business.jpg",
+      "publishedAt": "2025-11-05T19:00:00Z",
+      "content": "The real question is how effectively AgiBots algorithms can teach its robots new tricks. Using reinforcement learning to teach a robot tasks that require improvisation generally requires a lot of tra… [+1816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "New bipartisan bill would require companies to report AI job losses",
+      "description": "The AI-Related Job Impacts Clarity Act would require companies and federal agencies to submit quarterly reports of \"AI-related job effects.\"",
+      "url": "https://www.cnbc.com/2025/11/05/ai-jobs-act-warner-hawley.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217887-17616658142025-10-28t153423z_829638327_rc23lhar6u0w_rtrmadp_0_amazon-com-layoffs.jpeg?v=1761665903&w=1920&h=1080",
+      "publishedAt": "2025-11-05T18:53:31Z",
+      "content": "A new bipartisan bill seeks to provide a \"clear picture\" of how artificial intelligence is affecting the American workforce.\r\nSens. Mark Warner, D-Va., and Josh Hawley, R-Mo., on Wednesday announced … [+1670 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108145679-17472532752024-10-29t122012z_169525670_rc2cuaasj8ro_rtrmadp_0_saudi-investment-fii.jpeg?v=1747253306&w=1920&h=1080",
       "publishedAt": "2025-11-04T18:40:52Z",
       "content": "Saudi Arabia will capitalize on its abundant supply of cheap natural gas and renewables to transform the kingdom into a global leader in artificial intelligence, Aramco CEO Amin Nasser told CNBC in a… [+1735 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays",
-      "description": "Now that spooky season’s over, it’s time to swap the pumpkins and skeletons for something a little more cheery ahead of the holidays. Govee’s Christmas Lights 2 are customizable string lights that will add some smart home magic to your tree, with plenty of sl…",
-      "url": "https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25772023/goveechristmas.jpg?quality=90&strip=all&crop=0%2C18.840116151172%2C100%2C79.369967882441&w=1200",
-      "publishedAt": "2025-11-04T18:32:02Z",
-      "content": "<ul><li></li><li></li></ul>\r\nYou can even use the companion app to turn text prompts into custom light shows.\r\nYou can even use the companion app to turn text prompts into custom light shows.\r\nby\r\nSh… [+2568 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandt Ranj",
-      "title": "Google’s entire Fitbit lineup is already seeing steep discounts for Black Friday",
-      "description": "Black Friday is still nearly a month off, but that hasn’t stopped the big-name retailers — specifically Amazon, Walmart, and Best Buy — from discounting a slew of Fitbit devices in the run-up to the main event. Most of the company’s smartwatches and fitness t…",
-      "url": "https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25038289/236838_Fitbit_Charge_6_AKrales_0084.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T18:23:24Z",
-      "content": "The Fitbit Charge 6 is currently on sale for $99.95, which matches its best price to date.\r\n\n\nBlack Friday is still nearly a month off, but that hasn’t stopped the big-name retailers — specifically A… [+4598 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Shopify says AI traffic is up 7x since January, AI-driven orders are up 11x | TechCrunch",
-      "description": "Shopify says AI-driven traffic to its online stores is up 7x since January, and orders from AI search are up 11x.",
-      "url": "https://techcrunch.com/2025/11/04/shopify-says-ai-traffic-is-up-7x-since-january-ai-driven-orders-are-up-11x/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
-      "publishedAt": "2025-11-04T18:22:25Z",
-      "content": "E-commerce software provider Shopify is bullish on AI-powered shopping agents, citing AI as an “incredible tool” to enable more entrepreneurs and calling it the “biggest shift in technology since the… [+2621 chars]"
     }
   ]
 }
