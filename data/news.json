@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T17:39:07.245Z",
+  "fetchedAt": "2025-11-06T18:14:31.937Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "This AI ring takes notes for you and even talks back - in your own voice",
+      "description": "Here's what Sandbar's Stream Ring can do (and how to get your hands on one).",
+      "url": "https://www.zdnet.com/article/this-ai-ring-takes-notes-for-you-and-even-talks-back-in-your-voice/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/df2d1424d303803ef502141b0936509653935e7c/2025/11/05/b8d6a54a-5148-4fd1-934c-bab964d54211/dunes.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T18:01:18Z",
+      "content": "Sandbar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Sandbar's Stream Ring is a wearable note-taker. </li><li>It works like a microphone around your f… [+2670 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Courtney Reagan",
+      "title": "Amazon raising prices by more than Target, Walmart to meet tariffs",
+      "description": "Prices on Amazon, Walmart and Target have all increased this year as retailers grapple with higher costs due to tariffs.",
+      "url": "https://www.cnbc.com/2025/11/05/amazon-target-walmart-raising-prices-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432900-1719326479522-gettyimages-1670311540-20090101230917-99-222737.jpeg?v=1726690019&w=1920&h=1080",
+      "publishedAt": "2025-11-05T17:43:37Z",
+      "content": "Tariffs imposed by the Trump administration have given the country's retailers another cost to manage during a period of persistent inflation.\r\nWhile many are navigating the change with limited price… [+6941 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220582-1762182111479-TEC_Event_06182.JPG?v=1762182270&w=1920&h=1080",
       "publishedAt": "2025-11-04T17:02:27Z",
       "content": "The recent wave of white-collar layoffs may have employees and job seekers rattled, but according to New York University Stern School of Business professor Robert Seamans, his current class of MBA st… [+4401 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Google Maps can tell Polestar 4 drivers when to merge lanes",
-      "description": "Google Maps is rolling out live lane guidance to drivers of the Google-powered electric Polestar 4. The company announced Tuesday that the new feature relies on the EV’s front-facing camera to “see” lane markings and road signs. That information feeds into Go…",
-      "url": "https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/google-live-lane.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T16:57:50Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe live lane guidance feature in Google Maps is coming first to Polestar 4 cars in the US and Sweden.\r\nThe live lane guidance feature in Google Maps is coming f… [+3291 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Bellan",
-      "title": "Anthropic projects $70B in revenue by 2028: Report | TechCrunch",
-      "description": "The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropic’s business products, a person with knowledge of the company’s f…",
-      "url": "https://techcrunch.com/2025/11/04/anthropic-expects-b2b-demand-to-boost-revenue-to-70b-in-2028-report/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/AI-Sessions-Anthropic-Kaplan.jpg?resize=1200,800",
-      "publishedAt": "2025-11-04T16:50:27Z",
-      "content": "The Information reports that Anthropic expects to generate as much as $70 billion in revenue and $17 billion in cash flow in 2028. The growth projections are fueled by rapid adoption of Anthropics bu… [+3008 chars]"
     }
   ]
 }
