@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-06T12:18:30.688Z",
+  "fetchedAt": "2025-11-06T13:04:17.960Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "There's an outperforming real estate sector hiding in plain sight",
+      "description": "Industrial outdoor storage (IOS) is suddenly seeing significant demand and rent growth amid lean supply.",
+      "url": "https://www.cnbc.com/2025/11/05/alterra-ios-ceo-industrial-outdoor-storage-real-estate-sector.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221199-1762273871448-1425_Gifford_Rd_Elgin_IL.jpg?v=1762273937&w=1920&h=1080",
+      "publishedAt": "2025-11-05T13:00:01Z",
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Google exploring putting AI data centers in space — Project Suncatcher wants to harness in-orbit solar power to scale AI compute",
+      "description": "Google is looking into putting AI data centers into orbit, but it still needs to solve a ton of engineering and cost challenges.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-exploring-putting-ai-data-centers-in-space-project-suncatcher-wants-to-harness-in-orbit-solar-power-to-scale-ai-compute",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7kjue9PbCHvHp6fnyUv2i-1920-80.jpg",
+      "publishedAt": "2025-11-05T12:56:20Z",
+      "content": "Google just announced that it’s exploring the idea of putting AI data centers into orbit to take advantage of the sun’s solar output for power. According to Google Research, Project Suncatcher aims t… [+2816 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
+      "title": "Membrane evaporative cooling technology achieves record-breaking results, could be a solution for next-generation AI server cooling — clocks 800 watts of heat flux per square centimeter",
+      "description": "Engineers from the University of California, San Diego, have developed a new membrane evaporative cooling solution that has achieved record-breaking cooling performance. It could be a key solution for cooling Nvidia's future Feynman GPUs rated at over 4,000 w…",
+      "url": "https://www.tomshardware.com/pc-components/cooling/membrane-evaporative-cooling-technology-achieves-record-breaking-results-could-be-a-solution-for-next-generation-ai-server-cooling-clocks-800-watts-of-heat-flux-per-square-centimeter",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7GbRs6C9Ypq9wjj9yx3My3-1920-80.jpg",
+      "publishedAt": "2025-11-05T12:40:00Z",
+      "content": "Cooling systems for AI servers are among the most power-hungry systems in an AI data center. According to SciTechDaily, Engineers from the University of California, San Diego, have created a brand ne… [+2819 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Stability AI’s legal win over Getty leaves copyright law in limbo",
+      "description": "Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against Getty Images on Tuesday in a British legal battle over the material used to train AI models. The case originally looked set to produce a landmark ruling on AI an…",
+      "url": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-05T12:22:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nUK High Court didnt weigh in on the key copyright issue dividing the tech sector and creative industries. \r\nUK High Court didnt weigh in on the key copyright iss… [+3094 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Custom Intel motherboards with a whopping 36 USB ports spotted online — extravagant connectivity offering fuels bot farm speculation",
+      "description": "A user on Reddit has shared a collection of customized LGA 1151 motherboards with 36 USB ports stacked atop and next to each other. Even the most overkill models from the factory usually only support up to 20, and they're meant for special applications. A com…",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/custom-intel-motherboards-with-a-whopping-36-usb-ports-spotted-online-extravagant-connectivity-offering-fuels-bot-farm-speculation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PTJDYCWLLJHxGqFERyG7u8-1859-80.png",
+      "publishedAt": "2025-11-05T12:20:00Z",
+      "content": "There are a few things in life that no mortal can ever have enough of: cheese, storage, and perhaps, USB ports. Too long have we suffered through manufacturers' reluctance to give us what we really w… [+2528 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219526-1761845083221-gettyimages-1369828602-amwf00152.jpeg?v=1761845108&w=1920&h=1080",
       "publishedAt": "2025-11-04T14:00:01Z",
       "content": "Rent payments have become a consideration on a growing number of American credit reports.\r\nThe share of consumers whose rent payments were reported to credit bureaus rose to 13% in 2025, up from 11% … [+4343 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Instacart rolls out AI tools for grocers, Sprouts will be first to use its Cart Assistant",
-      "description": "Instacart's AI Solutions, a suite of artificial intelligence tools for grocers, includes agentic inventory tracking and an AI shopping assistant.",
-      "url": "https://www.cnbc.com/2025/11/04/instacart-ai-solutions-sprouts-grocery.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303182-1695144875710-gettyimages-1676978807-Omarques_19092023_TECHKRK_1_of_14.jpeg?v=1761938425&w=1920&h=1080",
-      "publishedAt": "2025-11-04T14:00:01Z",
-      "content": "Instacart on Tuesday launched a suite of artificial intelligence tools for grocers to deliver more personalized shopping experiences and improve retail operations.\r\nCEO Chris Rogers told CNBC that th… [+2516 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Joe Shields",
-      "title": "ASRock X870 LiveMixer Wifi motherboard review: Connectivity for the creator",
-      "description": "The X870 LiveMixer is designed for creators who use lots of USB ports and need room for expansion cards. It’s priced right and checks a lot of key boxes, but there is a lot of lane-sharing between storage and PCIe/USB.",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/asrock-x870-livemixer-wifi-motherboard-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sje3UDVRFtQzZfnnBzbUG4-1293-80.png",
-      "publishedAt": "2025-11-04T14:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The ASRock X870 Live… [+11084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zhiye Liu",
-      "title": "Huawei launches new homegrown PCs with homemade Chinese CPUs and operating systems",
-      "description": "Huawei has launched its new Qingyun W515y and W585y desktop systems, powered by the Kirin 9000X processor.",
-      "url": "https://www.tomshardware.com/pc-components/huawei-launches-new-homegrown-pcs-domestic-chinese-cpus-and-os-power-new-devices",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HWMdYcvazVXnCDBCpEhZp5-2085-80.jpg",
-      "publishedAt": "2025-11-04T14:00:00Z",
-      "content": "Huawei has introduced two new desktop systems in the Chinese domestic market. The Qingyun W515y and W585y leverage Huawei's homemade Kirin 9000X processor, complemented by the Tongxin UOS V20 or Gala… [+2982 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Amazon is building Alexa Plus into its Music app",
-      "description": "Amazon is using Alexa Plus to bring new AI capabilities to its Music streaming service. Starting today, customers in the Alexa Plus Early Access beta will be able to access the generative AI assistant within the Amazon Music app on iOS and Android, allowing u…",
-      "url": "https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Amazon-Music-Alexa-Plus.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T13:57:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe AI assistant can make nuanced song recommendations and build you a vibe-based playlist.\r\nThe AI assistant can make nuanced song recommendations and build you… [+2894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "On this day in 1988, the Morris worm infected 10% of the Internet within 24 hours — worm slithered out and sparked a new era in cybersecurity",
-      "description": "Cornell graduate student Robert Tappan Morris unleashed his eponymous worm upon the Internet 37 years ago, changing the face of cybersecurity.",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/on-this-day-in-1988-the-morris-worm-slithered-out-and-sparked-a-new-era-in-cybersecurity-10-percent-of-the-internet-was-infected-within-24-hours",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ttuF6zAsvkYiVcKNJst2TH-2000-80.jpg",
-      "publishedAt": "2025-11-04T13:45:00Z",
-      "content": "This week in 1988, Cornell graduate student Robert Tappan Morris unleashed his eponymous worm upon the Internet. The wave of infections grew to 10% of the entire Internet within 24 hours, causing ast… [+4033 chars]"
     }
   ]
 }
