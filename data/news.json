@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-06T10:11:49.225Z",
+  "fetchedAt": "2025-11-06T10:43:13.176Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Chinese EV maker Xpeng to launch robotaxis, humanoid robots with self-developed AI chips",
+      "description": "Chinese electric car company Xpeng is following in Tesla's footsteps by moving into robotaxis and humanoid robots.",
+      "url": "https://www.cnbc.com/2025/11/05/china-xpeng-to-launch-robotaxis-humanoid-robots-with-own-ai-chips.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221587-1762331519482-IMG_1058.jpg?v=1762331923&w=1920&h=1080",
+      "publishedAt": "2025-11-05T10:17:53Z",
+      "content": "Guangzhou, CHINA Chinese electric car company Xpeng plans to launch robotaxis next year after previously claiming it wouldn't be a real business in the near future and took the wraps off of its lates… [+3708 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/11/03/shutterstock_225669484.jpg",
       "publishedAt": "2025-11-04T10:15:13Z",
       "content": "Feature In late 2025, a series of multi-billion-dollar deals in the artificial intelligence sector is causing déjà vu among industry veterans. Money, computer chips, and cloud credits are rotating in… [+10369 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jim Rapoza",
-      "title": "'Sales heroics' won't save you: How to build scalable, repeatable systems instead",
-      "description": "The traditional sales playbook is failing because of fragmented tools and information systems. Here's how sales teams can get back on the same page.",
-      "url": "https://www.zdnet.com/article/sales-heroics-wont-save-you-how-to-build-scalable-repeatable-systems-instead/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bdd2b20eab8e57d70a0c3e1f0094a6696ecca187/2025/11/03/3901995d-f943-4e7c-85e3-10ca5dd8ee79/gettyimages-490926205.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T10:00:42Z",
-      "content": "Rawpixel/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBusiness leaders are discovering that the traditional playbook for sales productivity is failing, and busines… [+4068 chars]"
     }
   ]
 }
