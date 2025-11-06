@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-05T23:35:02.766Z",
+  "fetchedAt": "2025-11-06T00:44:28.021Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "SoftBank shares plunge 10% as Asian AI-linked stocks slide on valuation jitters",
+      "description": "Asia-linked AI shares slipped on Wednesday after U.S. counterparts such as Palantir retreated, with investors turning wary over stretched valuations.",
+      "url": "https://www.cnbc.com/2025/11/05/softbank-ai-stocks-slide-on-valuation-jitters-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108160168-1750129390391-gettyimages-459266531-Hkg9308749.jpeg?v=1750129410&w=1920&h=1080",
+      "publishedAt": "2025-11-05T00:34:41Z",
+      "content": "Shares of Asian AI-linked companies fell Wednesday, tracking declines in U.S. peers, as investors turned wary of stretched valuations in the market's most crowded trades.\r\nShares of SoftBank fell 10%… [+301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Fossil fuel leaders herald the energy addition era: 'Music to my ears'",
+      "description": "\"I think we are transitioning from the energy transition,\" the CEO of the American Petroleum Institute lobby group told CNBC.",
+      "url": "https://www.cnbc.com/2025/11/05/adipec-oil-summit-fossil-fuel-leaders-embrace-the-energy-addition-era.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221081-1762260918138-gettyimages-2244357858-AFP_82VE6ZR.jpeg?v=1762260962&w=1920&h=1080",
+      "publishedAt": "2025-11-05T00:23:04Z",
+      "content": "Guests look at a model of the largest data center in the UAE under construction in Abu Dhabi as the Stargate initiative, a joint venture between G42, Microsoft, and OpenAI, during the Abu Dhabi Inter… [+5122 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Google has a ‘moonshot’ plan for AI data centers in space",
+      "description": "Google has dreamed up a potential new way to get around resource constraints for energy-hungry AI data centers on Earth — launching its AI chips into space on solar-powered satellites. It’s a ‘moonshot’ research project Google announced today called Project S…",
+      "url": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-04T23:51:44Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts trying to figure out how to turn constellations of solar-powered satellites into data centers.\r\nIts trying to figure out how to turn constellations of solar-… [+4578 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to fall, tracking Wall Street declines on AI valuation concerns",
+      "description": "Asia Pacific markets are mostly set to fall Wednesday, tracking declines from Wall Street.",
+      "url": "https://www.cnbc.com/2025/11/05/asia-pacific-markets-wednesday-nikkei-225-kospi-hang-seng-index-nifty-50.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189952-1755938264412-gettyimages-1288284423-vcg111308320551.jpeg?v=1755938288&w=1920&h=1080",
+      "publishedAt": "2025-11-04T23:47:46Z",
+      "content": "Aerial view of vehicles being driven on the road through the central business district in Beijing, China. \r\nAsia Pacific markets were mostly set to fall Wednesday, mirroring losses on Wall Street, wh… [+1743 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220888-1762211589070-gettyimages-2244386371-Illustration_Amazon.jpeg?v=1762211661&w=1920&h=1080",
       "publishedAt": "2025-11-04T01:23:04Z",
       "content": "The \"everything store\" might have secured its biggest customer yet.\r\nOn Monday, Amazon announced that it had signed a $38 billion deal with OpenAI, offering the ChatGPT maker access to Amazon Web Ser… [+2458 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Palantir CEO celebrates one cash culture to rule them all",
-      "description": "If you want your First Amendment rights, make money the Palantir way\nPalantir CEO Alex Karp used his quarterly shareholder letter to take aim at critics after the company beat Q3 2025 earnings estimates.…",
-      "url": "https://www.theregister.com/2025/11/04/palantir_ceo_celebrates_one_culture/",
-      "urlToImage": "https://regmedia.co.uk/2021/04/30/shutterstock_palantir.jpg",
-      "publishedAt": "2025-11-04T01:05:26Z",
-      "content": "Palantir CEO Alex Karp used his quarterly shareholder letter to take aim at critics after the company beat Q3 2025 earnings estimates.\r\nThe company, named for an Elvish video conferencing system hack… [+3306 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "The Magnificent 7's biggest commonality is growth, Jim Cramer says",
-      "description": "CNBC's Jim Cramer on Monday rejected concerns that market cap is too concentrated in the Magnificent Seven.",
-      "url": "https://www.cnbc.com/2025/11/03/the-magnificent-7-growth-jim-cramer.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106001819-1562175400451img_0200r.jpg?v=1697581398&w=1920&h=1080",
-      "publishedAt": "2025-11-04T00:42:16Z",
-      "content": "CNBC's Jim Cramer on Monday rejected concerns of market cap concentration in the Magnificent Seven, saying they are tied together because of their high growth rates rather than their products.\r\n\"It's… [+1728 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Elad Gil on which AI markets have winners -- and which are still wide open | TechCrunch",
-      "description": "Elad Gil on which AI markets have winners -- and which are still wide open | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/03/elad-gil-on-which-ai-markets-have-winners-and-which-are-still-wide-open/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?resize=1200,800",
-      "publishedAt": "2025-11-03T23:14:12Z",
-      "content": "Solo VC investor extraordinaire Elad Gil said on stage at TechCrunch Disrupt that AI has been one of the least predictable tech booms hes ever seen. \r\nGil is on the cap table of virtually every hit c… [+3961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Pia Singh",
-      "title": "Stock market today: Live updates",
-      "description": "Stock futures fell Tuesday, pressured by declines in artificial intelligence-related names.",
-      "url": "https://www.cnbc.com/2025/11/03/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220652-1762260198115-108220652-1762187355171-Traders-Photo-20251102-KK-PRESS-009-1.jpg?v=1762260218&w=1920&h=1080",
-      "publishedAt": "2025-11-03T23:13:00Z",
-      "content": "Stock futures fell Tuesday, pressured by declines in artificial intelligence-related names like Palantir as investors grow increasingly concerned about valuations in the bull market-leading shares.\r\n… [+3337 chars]"
     }
   ]
 }
