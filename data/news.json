@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-06T11:08:27.405Z",
+  "fetchedAt": "2025-11-06T11:33:39.420Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Vala Afshar",
+      "title": "AI agents are only as good as the data they're given, and that's a big issue for businesses",
+      "description": "Agentic AI is reshaping the data landscape, impacting professionals across every industry. Here's what the changes mean for your organization.",
+      "url": "https://www.zdnet.com/article/ai-agents-are-only-as-good-as-the-data-theyre-given-and-thats-a-big-issue-for-businesses/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/a298fe491e02b7c8c19244b77511b2f4faaec5ac/2025/11/04/e9028ed3-5f0b-4c6c-bc4b-532b4b0933c1/gettyimages-1391433178.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T11:19:02Z",
+      "content": "zf L/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>63% of business leaders describe their organizations as very data-driven, up 10% from 2… [+10007 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f8083c6fc0dea09153d01c/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Kara-Smith-Business-2234581360.jpg",
       "publishedAt": "2025-11-04T11:30:00Z",
       "content": "Kara Swisher is the epitome of a multi-hyphenate: a podcast host, journalist, author, and CEO agitator.\r\nSwisher has also, in her way, turned IDGAF into her personal brand. Deeply sourced and happy t… [+1943 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "'What the hell, Microsoft?' Users hit with 'incorrect' ESU and LTSC Win10 out-of-support messages",
-      "description": "Microsoft accidentally tells supported users that they aren't Microsoft says a broken update left some Windows 10 users staring at an out-of-support message despite having an activated Extended Security Updates (ESU) license or a version of Windows 10 that is…",
-      "url": "https://www.theregister.com/2025/11/04/windows_10_out_of_support_update/",
-      "urlToImage": "https://regmedia.co.uk/2023/07/31/shutterstock_167343158.jpg",
-      "publishedAt": "2025-11-04T11:13:05Z",
-      "content": "Microsoft says a broken update left some Windows 10 users staring at an out-of-support message despite having an activated Extended Security Updates (ESU) license or a version of Windows 10 that is s… [+2506 chars]"
     }
   ]
 }
