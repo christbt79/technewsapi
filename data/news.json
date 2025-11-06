@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-06T06:48:49.028Z",
+  "fetchedAt": "2025-11-06T07:09:50.203Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: When AI hype hits gravity",
+      "description": "AMD smashed expectations, and Palantir reported another quarter of strong growth. Yet the Nasdaq fell, revealing Wall Street's playlist is stuck on AI mania.",
+      "url": "https://www.cnbc.com/2025/11/05/cnbc-daily-open-when-ai-hype-hits-gravity.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218051-1761674207086-gettyimages-2243374767-AFP_82AU2TC.jpeg?v=1761674257&w=1920&h=1080",
+      "publishedAt": "2025-11-05T06:48:53Z",
+      "content": "NVIDIA CEO Jensen Huang speaks during the Live Keynote Pregame during the Nvidia GTC (GPU Technology Conference) in Washington, DC, on Oct. 28, 2025. \r\nThe euphoria around artificial intelligence is … [+3196 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-04T08:45:28Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "European markets open lower as investors react to corporate earnings",
-      "description": "European stocks opened in negative territory on Tuesday, reversing positive sentiment seen at the start of the new trading month.",
-      "url": "https://www.cnbc.com/2025/11/04/european-markets-on-nov-4-stoxx-600-ftse-dax-cac.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108139912-1746187918887-gettyimages-2208616087-20090101250408-99-478474.jpeg?v=1760000313&w=1920&h=1080",
-      "publishedAt": "2025-11-04T08:08:59Z",
-      "content": "LONDON European stocks opened in negative territory on Tuesday, reversing positive sentiment seen at the start of the new trading month.\r\nThe pan-European Stoxx 600 traded more than 1.1% lower at 8:0… [+1312 chars]"
     }
   ]
 }
