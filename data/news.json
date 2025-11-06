@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T02:26:21.672Z",
+  "fetchedAt": "2025-11-06T03:33:18.000Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia deepens India footprint with $2 billion deep tech alliance to mentor AI startups",
+      "description": "Nvidia will help train and mentor emerging deep tech startups in India as a founding member of a $2 billion investment alliance.",
+      "url": "https://www.cnbc.com/2025/11/04/nvidia-joins-2-billion-india-deep-tech-alliance-to-mentor-ai-startups.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108173113-1756416115731-108173113-1752716108529-gettyimages-2224675694-20090101250716-99-471951.jpeg?v=1758113962&w=1920&h=1080",
+      "publishedAt": "2025-11-05T03:30:01Z",
+      "content": "Nvidia will help train and mentor emerging deep tech startups in India as a founding member of a $2 billion investment alliance, deepening its presence in the world's third-largest startup ecosystem.… [+2187 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Cesar Cadenas",
+      "title": "15+ must-know Google Docs tricks to boost your productivity (no plug-ins required)",
+      "description": "From editable PDFs to instant translations, Google Docs is packed with features most people never use.",
+      "url": "https://www.zdnet.com/article/15-must-know-google-docs-tricks-to-boost-your-productivity-no-plug-ins-required/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/328bedcf7c590dfe2085d9b7c28b25f76c34ab0a/2025/08/08/0d84e69d-8a03-41f3-87e2-01a9802c6f20/dsc03833.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T03:00:42Z",
+      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/04/14/grab_rider_shutterstock_editorial_only.jpg",
       "publishedAt": "2025-11-04T04:55:01Z",
       "content": "Proprietary large language models are bad at interpreting Asian languages, according to Singaporean super-app company Grab, which has built its own model instead.\r\nGrabs superapp offers ride-sharing,… [+4761 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "How to turn off Gemini in your Gmail, Photos, Chrome, and more - it's easy to opt out of AI",
-      "description": "The settings are a bit hidden, but there are ways to remove Gemini from your favorite Google services.",
-      "url": "https://www.zdnet.com/article/how-to-turn-off-gemini-in-your-gmail-photos-chrome-and-more-its-easy-to-opt-out-of-ai/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/56a79afce386f12714f413c88ac9f913b0bbedbe/2025/11/03/7dda3c4c-2332-4d04-bede-08e2b6d0d5e0/2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T03:00:00Z",
-      "content": "Why would I turn off Gemini? \r\nSome people are concerned about privacy, performance issues, or frustration with AI inaccuracies, while others simply prefer things the way they were before Gemini. Eit… [+1352 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "My 20+ Google Docs tricks to supercharge your workflow (no extensions required)",
-      "description": "From editable PDFs to instant translations, Google Docs offers numerous features that many people overlook.",
-      "url": "https://www.zdnet.com/article/my-20-google-docs-tricks-to-supercharge-your-workflow-no-extensions-required/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/74a5b73dd8a5ebc0c306e36b51ffd144aae5e7ad/2023/04/18/4460af37-b193-43bb-a007-c03883062787/google-logo-in-foldable.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T02:30:32Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11672 chars]"
     }
   ]
 }
