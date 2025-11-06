@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T15:41:13.542Z",
+  "fetchedAt": "2025-11-06T16:11:58.379Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "WEB WAR III",
+      "description": "OpenAI didn't plan to make a browser. Not at first, anyway. But ever since the company launched ChatGPT, it started to see lots of users do the same thing. \"You'd have this tab open on chatgpt.com, and you'd be working on something else somewhere in your brow…",
+      "url": "https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258018_browser_wars_CVirginia13.jpg?quality=90&strip=all&crop=0%2C10.704090241901%2C100%2C78.591819516198&w=1200",
+      "publishedAt": "2025-11-05T16:07:38Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe browser is back. A new generation of upstarts hope so, anyway, because it might help them change how we use the web.\r\nby\r\nDavid PierceClose\r\nDavid Pierce\r\nPo… [+14999 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Cooling system for a single Nvidia Blackwell Ultra NVL72 rack costs a staggering $50,000 — set to increase to $56,000 with next-generation NVL144 racks",
+      "description": "Morgan Stanley estimates that the cooling cost per rack will rise from $49,860 for Nvidia’s GN300 NVL72 to $55,710 for the Vera Rubin NVL144 due to hotter Vera CPUs and Rubin GPUs that require pricier $400 cold plates and more advanced liquid cooling systems.",
+      "url": "https://www.tomshardware.com/pc-components/cooling/cooling-system-for-a-single-nvidia-blackwell-ultra-nvl72-rack-costs-a-staggering-usd50-000-set-to-increase-to-usd56-000-with-next-generation-nvl144-racks",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z53fPgXjpKHTpeGv3RHpqj-1920-80.png",
+      "publishedAt": "2025-11-05T15:45:00Z",
+      "content": "The total value of liquid cooling components in Nvidia's GB300 NVL72 rack-scale AI system is $49,860, according to a recently released report from Morgan Stanley that was obtained by @Jukanlosreve. T… [+3730 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/11/30/shutterstock_gears_cogs_machinery.jpg",
       "publishedAt": "2025-11-04T16:00:15Z",
       "content": "Sponsored Feature Containers are arguably business computing's biggest success story. Enhancing speed, agility, scalability and portability across IT environments, they have become foundational to en… [+10052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "11 ways to delete or hide yourself from the internet - and protect your privacy",
-      "description": "Take control of your privacy, cut off data trackers, and erase your online presence. Here's how.",
-      "url": "https://www.zdnet.com/article/11-ways-to-delete-or-hide-yourself-from-the-internet-and-protect-your-privacy/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/45b089bc0a90428e1bdb8e0ddc7bf161232e000c/2025/11/04/67402ec2-b1c1-48bc-ae3d-df121a88fafc/10-tips-to-delete-yourself-from-the-internet-and-hide-yourself-online2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T15:50:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>Your online footprint is bigger than you think.</li><li>Personal data can resurface l… [+18007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Vala Afshar",
-      "title": "Gartner just dropped its 2026 tech trends - and it's not all AI: Here's the list",
-      "description": "Gartner's list of top 10 strategic technology trends for 2026 and beyond reveals AI's impact on operational excellence and digital trust.",
-      "url": "https://www.zdnet.com/article/gartner-just-dropped-its-2026-tech-trends-and-its-not-all-ai-heres-the-list/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/3833322c717db1676b9307a743852162bc5dda13/2025/11/03/343450ee-8d29-4ecd-97ac-35d541317507/platters5555gettyimages-1439768811.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T15:37:10Z",
-      "content": "Andriy Onufriyenko/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI innovation dominates 2026's strategic technology trends.</li><li>G… [+8202 chars]"
     }
   ]
 }
