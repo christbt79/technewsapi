@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T22:09:04.257Z",
+  "fetchedAt": "2025-11-06T22:38:32.640Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "Waze vs. Google Maps: I compared two of the top navigation apps, and this one easily wins",
+      "description": "The Waze vs. Google Maps debate has raged for years. Here's my verdict after testing both.",
+      "url": "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-one-easily-wins/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9e3b0b4bd4984edd33614733fbd0099188f369db/2025/11/05/cd42c069-4cee-4cc8-a594-ca484ecfceb3/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-this-one-easily-wins.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T22:26:00Z",
+      "content": "Waze definitely has a personality, thanks to its colorful, cartoony design packed with big icons and bold, in-your-face alerts. It's also got a playful side when it comes to customization. You can st… [+1557 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Elissa Welle",
+      "title": "Google Gemini’s Deep Research can look into your emails, drive, and chats",
+      "description": "Gemini can now draw from your emails and documents while performing “deep research” queries. Google’s announcement blog called this “one of our most-requested features” for Gemini Deep Research, which is an agentic feature styled specifically for creating res…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Screenshot-2025-11-05-at-4.22.58%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C13.432366674505%2C100%2C73.13526665099&w=1200",
+      "publishedAt": "2025-11-05T22:09:51Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYour Gmail, Drive, and Chat can serve as info sources for Geminis AI-generated reports.\r\nYour Gmail, Drive, and Chat can serve as info sources for Geminis AI-gen… [+2497 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/acastro_STK109_microsoft.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-04T21:48:09Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nBut the model is not yet available in the EU.\r\nBut the model is not yet available in the EU.\r\nby\r\nElissa WelleClose\r\nElissa Welle\r\nPosts from this author will be… [+2759 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Amazon and Perplexity have kicked off the great AI web browser fight",
-      "description": "Amazon doesn’t want to be a part of Perplexity’s AI-powered shopping experience. In a post on Tuesday, the ecommerce giant says it has “repeatedly requested” that Perplexity stop allowing its Comet AI browser to buy products for customers, which Perplexity ha…",
-      "url": "https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472500/STK271_PERPLEXITY_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T21:36:41Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAmazon says it has repeatedly requested that Perplexity stop allowing its AI browser to purchase products for customers.\r\nAmazon says it has repeatedly requested… [+2798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Avram Piltch",
-      "title": "Copilot can replace Search in latest Windows 11 test builds, but it's not a good idea",
-      "description": "When you opt in, your taskbar becomes an extension of the Copilot app, but with some search added in\nhands on With Microsoft cramming Copilot into every nook and cranny of its software, it’s no surprise that everyone’s favorite AI assistant is now set to take…",
-      "url": "https://www.theregister.com/2025/11/04/microsoft_windows_copilot_search/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/04/shutterstock_2454390647.jpg",
-      "publishedAt": "2025-11-04T21:32:03Z",
-      "content": "hands on With Microsoft cramming Copilot into every nook and cranny of its software, its no surprise that everyones favorite AI assistant is now set to take over the search box. As of the latest Wind… [+5703 chars]"
     }
   ]
 }
