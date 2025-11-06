@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-06T07:34:50.529Z",
+  "fetchedAt": "2025-11-06T08:13:39.173Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "The best AI agents are terrible freelancers - for now",
+      "description": "AI is able to automate less than 3% of the work now performed by independent contractors, a new study finds.",
+      "url": "https://www.zdnet.com/article/the-best-ai-agents-are-terrible-freelancers-for-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b25f14a325ce12c78dedd54427bd8a9d4b378367/2025/11/04/6c7ff1ad-ddd9-47b4-b280-78b152f0b17a/gettyimages-2215818896.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T08:00:34Z",
+      "content": "Mininyx Doodle/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Top AI agents fail at freelance work, according to a new study.</li><li>… [+5919 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Motorola’s Edge 70 is the blueprint for future thin phones",
+      "description": "I've been as much of a thin phone skeptic as anyone. Why would I give up on camera specs and battery life just to shave a couple of millimeters off a phone's waistline? I asked pretty much exactly that when I first saw Samsung's Galaxy S25 Edge earlier this y…",
+      "url": "https://www.theverge.com/gadgets/813377/motorola-edge-70-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/motorola-edge-70-14.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "publishedAt": "2025-11-05T07:57:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts a super-slim phone that doesnt compromise on battery life.\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement… [+9488 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VnHOS0BGXAVnPQAkHl8CIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/524873822577089acc24a57ebcd0799c",
       "publishedAt": "2025-11-04T09:29:00Z",
       "content": "Federal Reserve officials on Monday expressed diverging views on further interest-rate cuts. - Aaron Schwartz/Reuters\r\nU.S. stock futures and global equities markets were in the red Tuesday amid a ge… [+2186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "IONOS",
-      "title": "Why digital sovereignty is the key to public sector transformation",
-      "description": "From public sector to education, IONOS and Dataport prove trust begins with secure infrastructure. Partner Content  Register for the free webinar now: Build cloud infrastructure – secure and sovereign for the future…",
-      "url": "https://www.theregister.com/2025/11/04/why_digital_sovereignty_key/",
-      "urlToImage": "https://regmedia.co.uk/2023/04/20/eu_shutterstock.jpg",
-      "publishedAt": "2025-11-04T09:00:13Z",
-      "content": "Partner ContentRegister for the free webinar now: Build cloud infrastructure secure and sovereign for the future\r\nFrom registry offices and health departments to school administrations, more and more… [+5185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "Why I strongly recommend these earbuds, even though their audio is subpar",
-      "description": "If you need a pair of earbuds that sound great on phone calls, the OpenRock Link 20 open-air earbuds are some of the best I've tested.",
-      "url": "https://www.zdnet.com/article/why-i-strongly-recommend-these-earbuds-even-though-their-audio-is-subpar/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T08:45:28Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5449 chars]"
     }
   ]
 }
