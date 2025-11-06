@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-06T21:08:19.917Z",
+  "fetchedAt": "2025-11-06T21:33:21.127Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Wired",
+      "title": "Meet the professional services firms taking on the challenges of tomorrow",
+      "description": "These three Trailblazers are making a difference through smart thinking. Here’s how…",
+      "url": "https://www.wired.com/sponsored/story/professional-services-trailblazers-challenges-of-tomorrow-hsbc/",
+      "urlToImage": "https://media.wired.com/photos/68f75ae1c24f1fa71afcc569/191:100/w_1280,c_limit/GettyImages-2217144379%20(1).jpg",
+      "publishedAt": "2025-11-05T21:24:18Z",
+      "content": "AI promises substantial productivity gains that could add trillions of dollars to the global economy. But unlocking that value is proving notoriously challenging. Elixirr wants to help businesses suc… [+1604 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Cluely's Roy Lee hints that viral hype is not enough | TechCrunch",
+      "description": "Lee declined to share Cluely's financial metrics just four months after boasting how quickly the startup is growing.",
+      "url": "https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-4.12.02-PM.jpg?resize=1200,676",
+      "publishedAt": "2025-11-05T21:24:00Z",
+      "content": "While Roy Lee, the founder of Cluely, argues that startups should be thinking harder about social media virality, he also admits that brand awareness alone wont lead to sustained growth.\r\nI can’t say… [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Snap shares rocket 20% on strong forecast, $400 million Perplexity deal",
+      "description": "Snap on Wednesday issued its third-quarter earnings, reporting revenue that beat analysts expectations and a $500 million stock repurchase program.",
+      "url": "https://www.cnbc.com/2025/11/05/snap-q3-earnings-report-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169683-1752081473114-untitled-656-3.jpg?v=1754423864&w=1920&h=1080",
+      "publishedAt": "2025-11-05T21:20:58Z",
+      "content": "Snap shares climbed more than 20% on Wednesday after the company issued its third-quarter earnings, reporting revenue that beat analysts expectations and a $500 million stock repurchase program.\r\nHer… [+4852 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Figma delivers strong forecast as AI draws in more customers",
+      "description": "People are signing up for Figma to use its Make tool for generating app designs with artificial intelligence, CEO Dylan Figma said.",
+      "url": "https://www.cnbc.com/2025/11/05/figma-fig-q3-earnings-report-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193793-1756916915031-gettyimages-2227189910-FIGMA_IPO.jpeg?v=1762375030&w=1920&h=1080",
+      "publishedAt": "2025-11-05T21:14:55Z",
+      "content": "Design software maker Figma on Wednesday reported stronger-than-expected third-quarter revenue and quarterly revenue guidance. The stock moved 3% higher in extended trading.\r\nHere's how the company d… [+2307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Sony rolls out a standard way to measure bias in how AI describes what it 'sees'",
+      "description": "Images in the test dataset were all sourced with consent\nAI models are filled to the brim with bias, whether that's showing you a certain race of person when you ask for a pic of a criminal or assuming that a woman can't possibly be involved in a particular c…",
+      "url": "https://www.theregister.com/2025/11/05/sony_ai_vision_model_benchmark/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/21/discrimination_shutterstock.jpg",
+      "publishedAt": "2025-11-05T21:11:52Z",
+      "content": "AI models are filled to the brim with bias, whether that's showing you a certain race of person when you ask for a pic of a criminal or assuming that a woman can't possibly be involved in a particula… [+5507 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107415431-17157931912024-05-15t171137z_902231356_rc21r7apnw8v_rtrmadp_0_usa-stocks.jpeg?v=1727105936&w=1920&h=1080",
       "publishedAt": "2025-11-04T21:18:02Z",
       "content": "Pinterest shares tanked as much as 15% on Tuesday after the company reported third-quarter financial results that missed on earnings per share and provided weak guidance.\r\nHere's how the company did,… [+2761 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "I let Gemini watch my family for the weekend — it got weird",
-      "description": "This weekend, I turned my home into a test lab for Google's new Gemini for Home AI and subjected my family to 72 hours of surveillance as it watched, interpreted, and narrated our every move. My purpose? To find out if an AI that sees everything is actually h…",
-      "url": "https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258066_testing_Gemini_Home_new_AI-powered_video_summaries_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T21:06:10Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nI let Gemini watch my family for the weekend it got weird\r\nGoogles Nest cams now use AI to tell you what they see, not just show you. Only sometimes it tells me … [+9137 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sean O'kane",
-      "title": "Rivian creates another spinoff company called Mind Robotics | TechCrunch",
-      "description": "It's the second time this year Rivian has spun out a new company, after it created micromobility startup Also in March.",
-      "url": "https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/Rivian-QUAD-R1S-sunset.jpg?resize=1200,800",
-      "publishedAt": "2025-11-04T21:05:18Z",
-      "content": "Rivian has created its second spinoff company this year: an industrial AI and robotics venture called Mind Robotics.\r\nThe new effort will be focused around using “industrial AI to reshape how physica… [+2259 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "The latest Meta smart glasses update makes this Ray-Ban model even easier for me to recommend",
-      "description": "Smoother and longer video recording is coming to older Meta smart glasses, but there's more to the November update.",
-      "url": "https://www.zdnet.com/article/the-latest-meta-smart-glasses-update-makes-this-ray-ban-model-even-easier-for-me-to-recommend/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/fae5f2da8641cb7af5095938da02cfedc9691a2d/2025/08/27/c7c79ccd-c5c9-4252-8914-cf6561d1fd0b/meta-ray-bans-aug-2025-03.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T21:04:00Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Meta is rolling out its Nov. firmware update across Ray-Ban and Oakley smart glasses.</li><li>… [+2778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "If Apple's new budget MacBook is true, I'm worried for Chromebooks and Windows laptops",
-      "description": "Apple could be developing a new, lightweight MacBook with the iPhone's A18 Pro chipset, and at a price that's sure to turn heads.",
-      "url": "https://www.zdnet.com/article/if-apples-new-budget-macbook-is-true-im-worried-for-chromebooks-and-windows-laptops/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T20:48:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple could be developing a new budget-friendly MacBook for around $599. </li><li>It would repor… [+4966 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Corey Quinn",
-      "title": "Deploying to Amazon's cloud is a pain in the AWS younger devs won't tolerate",
-      "description": "They have no need to prove their bonafides\nRecently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else's problems, and realized something that had been nagging at me for a while: working with AWS …",
-      "url": "https://www.theregister.com/2025/11/04/aws_genz_misery_nope/",
-      "urlToImage": "https://regmedia.co.uk/2024/04/24/free_shutterstock.jpg",
-      "publishedAt": "2025-11-04T20:43:30Z",
-      "content": "Recently, I was spinning up yet another terribly coded thing for fun because I believe in making my problems everyone else's problems, and realized something that had been nagging at me for a while: … [+5554 chars]"
     }
   ]
 }
