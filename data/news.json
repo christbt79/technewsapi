@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-06T20:10:12.435Z",
+  "fetchedAt": "2025-11-06T20:39:28.746Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Apple nears deal to pay Google $1B annually to power new Siri, report says",
+      "description": "Apple is turning to Google's technology to help revamp Siri and power a slate of upcoming features for the voice assistant.",
+      "url": "https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+      "publishedAt": "2025-11-05T20:37:47Z",
+      "content": "Apple is nearing a deal with Google that would see the iPhone maker pay the tech giant roughly $1 billion a year for a custom version of Google’s Gemini AI model to power its overhaul of Siri, accord… [+951 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "AT&T customers can still claim up to $7,500 from $177M data breach settlement - here's how",
+      "description": "A judge recently extended the deadline for AT&T's $177 million settlement. Here's how to claim your data breach payout before it's too late.",
+      "url": "https://www.zdnet.com/article/at-t-customers-can-still-claim-up-to-7500-from-177m-data-breach-settlement-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/bfdffad1571a8e3afef6db7e0f7c412908f067f7/2025/09/24/85209c3f-4d4b-47fa-87c2-d081dae41a0a/iphone-17-pro-max-cameras.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T20:23:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AT&amp;T's $177 million settlement is for data breaches in 2019 and 2024.</li><li>… [+4087 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Apple is planning to use a custom version of Google Gemini for Apple Intelligence",
+      "description": "Apple is preparing to power its AI-upgraded Siri with a custom version of Google’s Gemini AI model, according to a report from Bloomberg’s Mark Gurman. The iPhone maker will reportedly pay Google around $1 billion annually to gain access to the technology, wh…",
+      "url": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-05T20:12:33Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple will pay Google around $1 billion every year to help power AI features inside Siri, according to a report from Bloomberg.\r\nApple will pay Google around $1 … [+2992 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108214983-17610771932025-10-21t195023z_2008595976_rc2jghajhi33_rtrmadp_0_openai-sora.jpeg?v=1761077292&w=1920&h=1080",
       "publishedAt": "2025-11-04T19:23:37Z",
       "content": "OpenAI on Tuesday launched its Sora app of AI-generated videos for Android devices.\r\nThe artificial intelligence company first launched Sora for Apple devices in September. The announcement on Tuesda… [+916 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Perplexity AI accuses Amazon of bullying with legal threat over Comet browser",
-      "description": "Amazon wants Perplexity to prevent its users from using its AI browser called Comet to make purchases on their behalf.",
-      "url": "https://www.cnbc.com/2025/11/04/perplexity-ai-amazon-bullying-comet-browser.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184848-1755017629963-gettyimages-2218082345-BLOOMBERG_TECH.jpeg?v=1755017697&w=1920&h=1080",
-      "publishedAt": "2025-11-04T19:13:58Z",
-      "content": "Perplexity AI accused Amazon of \"bullying\" on Tuesday after it received a letter from the e-commerce giant demanding it prevent people from using its artificial intelligence browser Comet to make pur… [+1633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "UK judge delivers a 'damp squib' in Getty AI training case, no clear precedent set",
-      "description": "Experts disagree about what the ruling means for AI training on copyrighted material\nLondon's High Court has dismissed the major portions of Getty Images' lawsuit against generative AI firm Stability AI for training its image-generation model on copyrighted i…",
-      "url": "https://www.theregister.com/2025/11/04/uk_court_getty_stability_ai/",
-      "urlToImage": "https://regmedia.co.uk/2018/09/27/shutterstock_maybe.jpg",
-      "publishedAt": "2025-11-04T19:01:23Z",
-      "content": "London's High Court has dismissed the major portions of Getty Images' lawsuit against generative AI firm Stability AI for training its image-generation model on copyrighted images, which some legal e… [+5421 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "OpenAI launches its Sora app on Android",
-      "description": "OpenAI has brought its AI video app, Sora, to Android. The app, which lets you create, share, and remix AI-generated videos, is now available on the Google Play Store in the US, Canada, Japan, Korea, Taiwan, Thailand, and Vietnam, according to an announcement…",
-      "url": "https://www.theverge.com/news/813533/openai-sora-android-launch",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2239565230.jpg?quality=90&strip=all&crop=0%2C10.654292878952%2C100%2C78.691414242097&w=1200",
-      "publishedAt": "2025-11-04T18:51:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNow, more people can create and share AI-generated videos on the apps social feed.\r\nNow, more people can create and share AI-generated videos on the apps social … [+2481 chars]"
     }
   ]
 }
