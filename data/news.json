@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-06T13:46:03.335Z",
+  "fetchedAt": "2025-11-06T14:10:07.595Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "You can talk with Google Maps now, thanks to its big Gemini upgrade - how it works",
+      "description": "Google Maps just got four big AI-powered upgrades. Here's what's new.",
+      "url": "https://www.zdnet.com/article/you-can-talk-with-google-maps-now-thanks-to-its-big-gemini-upgrade-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/271a08ec8eecea036d0b8a5827ecf052934a5968/2025/08/28/304c8d20-cc76-4d9a-8801-5debf3433135/gemini.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T14:00:31Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Maps. </li><li>You can use Talk to Google… [+3545 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Attackers abuse Gemini AI to develop ‘Thinking Robot’ malware and data processing agent for spying purposes",
+      "description": "Meanwhile, others tried to social-engineer the chatbot itself\nNation-state goons and cybercrime rings are experimenting with Gemini to develop a \"Thinking Robot\" malware module that can rewrite its own code to avoid detection, and build an AI agent that track…",
+      "url": "https://www.theregister.com/2025/11/05/attackers_experiment_with_gemini_ai/",
+      "urlToImage": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg",
+      "publishedAt": "2025-11-05T14:00:11Z",
+      "content": "Nation-state goons and cybercrime rings are experimenting with Gemini to develop a \"Thinking Robot\" malware module that can rewrite its own code to avoid detection, and build an AI agent that tracks … [+4963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Fintech Ripple gets $40 billion valuation after $500 million funding",
+      "description": "Ripple has pushed into other lines of business including custody of crypto assets, prime brokerage and corporate treasury management.",
+      "url": "https://www.cnbc.com/2025/11/05/ripple-gets-40-billion-valuation-after-500-million-funding-round.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107359921-17054510202022-05-04t210615z_1923161091_rc2l0u9jvb4q_rtrmadp_0_milken-conference.jpeg?v=1705451051&w=1920&h=1080",
+      "publishedAt": "2025-11-05T14:00:05Z",
+      "content": "Digital assets and infrastructure company Ripple said Wednesday it has raised $500 million in funding, lifting its valuation to $40 billion.\r\nThe fundraise comes after a slew of acquisitions and as t… [+2038 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Google Maps bakes in Gemini to improve navigation and hands-free use",
+      "description": "Google is now baking Gemini into Maps to let users ask it questions while driving, improve navigation, and do more with the app.",
+      "url": "https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Gemini-Maps.jpg?resize=1200,675",
+      "publishedAt": "2025-11-05T14:00:00Z",
+      "content": "Over the last year, Google has added multipleAI-powered features to Maps to improve discovery and enable users to ask questions about places. Now, the company is upgrading the app with Gemini to let … [+1842 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Xpeng to let other carmakers use its partly-autonomous driving system",
+      "description": "Chinese electric car company Xpeng said German automaker Volkswagen would be the first client for its new driver-assist system.",
+      "url": "https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221638-1762343991404-IMG_1047.jpg?v=1762344092&w=1920&h=1080",
+      "publishedAt": "2025-11-05T13:59:50Z",
+      "content": "Guangzhou, CHINA Chinese electric car company Xpeng announced Wednesday that by the first quarter of 2026, it will start rolling out a new driver-assist system for navigating narrow roads.\r\nXpeng cla… [+1425 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108138812-1762266728313-108138812-1746031878972-gettyimages-2212772079-_d1_9976_01dbvs5l.jpg?v=1762266737&w=1920&h=1080",
       "publishedAt": "2025-11-04T14:35:03Z",
       "content": "Palantir CEO Alex Karp ranted against short-sellers, calling out specifically Michael Burry after a filing revealed the investor of \"The Big Short\" fame had bets against the AI software company, as w… [+2364 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "OpenAI bets $38B on Amazon's cloud to power ChatGPT and the future of AGI",
-      "description": "The deal is a major win for Amazon as it races to dominate the booming AI cloud market.",
-      "url": "https://www.zdnet.com/article/openai-bets-38b-on-amazons-cloud-to-power-chatgpt-and-the-future-of-agi/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/4af3a4ea39dc889feb9b29690afc302370e77ed8/2025/11/04/f6f8119c-9f95-4676-a91d-c765f4d3d22f/gettyimages-2207328978.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-04T14:34:00Z",
-      "content": "RONNY HARTMANN / AFP / Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI has teamed up with AWS to power its efforts to build AGI.</li><li>The… [+3798 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "Nvidia, Deutsche Telekom strike €1B partnership for a data center in Munich | TechCrunch",
-      "description": "Nvidia has signed a €1 billion partnership with Deutsche Telekom to set up an \"AI factory\" in Munich that aims to boost Germany's AI computing power by 50%.",
-      "url": "https://techcrunch.com/2025/11/04/nvidia-deutsche-telekom-strike-e1b-partnership-for-a-data-center-in-munich/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/bi-251104-industrial-ai-cloud-02-en.jpg?w=1008",
-      "publishedAt": "2025-11-04T14:22:51Z",
-      "content": "Nvidia is playing fast and loose with its war chest as it looks to build on its momentum as the chief benefactor of the AI boom. \r\nThe company on Tuesday signed a 1 billion ($1.15 billion) partnershi… [+2120 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Bitcoin's November sell-off worsens as investors take risk off on worries about the AI trade",
-      "description": "Cryptocurrencies were in the red Tuesday as investors continued their flight from risk-on assets.",
-      "url": "https://www.cnbc.com/2025/11/04/bitcoins-november-sell-off-worsens-as-investors-take-risk-off-on-worries-about-the-ai-trade-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220247-17619426082025-10-31t202838z_1176596473_rc22pgapp48m_rtrmadp_0_fintech-crypto.jpeg?v=1761942642&w=1920&h=1080",
-      "publishedAt": "2025-11-04T14:17:45Z",
-      "content": "Bitcoin fell victim to a risk-off mood Tuesday with investors dumping the cryptocurrency as they grew increasingly concerned about the sustainability of AI stock values.\r\nBitcoin was last trading at … [+826 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lauren Forristal",
-      "title": "Crowdfunding giant GoFundMe now sells gift cards  | TechCrunch",
-      "description": "GoFundMe is letting you gift nonprofit gift cards to loved ones to help them donate to their favorite organizations.",
-      "url": "https://techcrunch.com/2025/11/04/crowdfunding-giant-gofundme-now-sells-gift-cards/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Gift_cardsGoFundMe.jpeg?w=1200",
-      "publishedAt": "2025-11-04T14:06:12Z",
-      "content": "GoFundMe has introduced a new offering that allows you to purchase digital gift cards for your loved ones, enabling them to donate to their favorite nonprofit organizations during the holidays. \r\nThe… [+2004 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "ClickUp adds new AI assistant to better compete with Slack and Notion | TechCrunch",
-      "description": "ClickUp adds new AI assistant to better compete with Slack and Notion | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/04/clickup-adds-new-ai-assistant-to-better-compete-with-slack-and-notion/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/hero_chat.jpeg?resize=1200,702",
-      "publishedAt": "2025-11-04T14:05:01Z",
-      "content": "ClickUp has redesigned its productivity platform and released new AI assistant features as it aims to create a one-stop shop for customers. \r\nThe company said core parts of this release were possible… [+3147 chars]"
     }
   ]
 }
