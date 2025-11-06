@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-06T16:11:58.379Z",
+  "fetchedAt": "2025-11-06T16:47:57.759Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Op-ed: The fuel for the AI boom driving the markets is advertising. It is also an existential risk.",
+      "description": "Joe Marchese, Executive Chairman at Human Ventures, describes a key conundrum facing OpenAI and other AI start-ups as they disrupt the ad tech industry.",
+      "url": "https://www.cnbc.com/2025/11/05/op-ed-the-fuel-for-the-ai-boom-driving-the-markets-is-advertising-it-is-also-an-existential-risk-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203076-1758900160412-108203076-1758667426528-gettyimages-2236544326-STARGATE_DATA_CENTER.jpg?v=1762287672&w=1920&h=1080",
+      "publishedAt": "2025-11-05T16:43:19Z",
+      "content": "With OpenAI's recent release of its AI browser, the historic level of capital expenditures being made in the current AI arms race may accelerate even further, if that is possible. \r\nFrom the reciproc… [+4937 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Pinterest plunges 20% after weak results as tariffs drag on ad revenue",
+      "description": "Third-quarter sales in the U.S. and Canada came in at $786 million, missing analyst projections.",
+      "url": "https://www.cnbc.com/2025/11/05/pinterest-stock-earnings-tariffs-ads.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108013672-1722357988768-gettyimages-2151457654-20090101240508-99-961735.jpeg?v=1762353921&w=1920&h=1080",
+      "publishedAt": "2025-11-05T16:38:52Z",
+      "content": "Pinterest shares plummeted 20% on Wednesday after lackluster third-quarter earnings as advertising took a hit from larger retailers dealing with tariffs.\r\nThe company posted a profit of 38 cents per … [+3486 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "China bans foreign AI chips from state-funded data centers, report claims — crackdown would include removing Nvidia, AMD, and Intel chips from builds in early stages",
+      "description": "China has reportedly issued a sweeping ban on foreign AI chips in any data center backed by government money, applying retroactively to early-stage builds.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-bans-foreign-ai-chips-from-state-funded-data-centers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Jkou5w3ynsSt9QqVKLHK4e-2560-80.jpg",
+      "publishedAt": "2025-11-05T16:32:53Z",
+      "content": "China has reportedly issued a sweeping ban on foreign AI chips in any data center backed by government money, according to a report by Reuters. The move applies retroactively to builds still in early… [+2547 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "I used the M5 iPad Pro exclusively for weeks, and it's so close to replacing my laptop",
+      "description": "The latest iPad Pro features improvements in both performance and connectivity, making it a worthy upgrade for users of older iPads who want more.",
+      "url": "https://www.zdnet.com/article/i-used-the-m5-ipad-pro-exclusively-for-weeks-and-its-so-close-to-replacing-my-laptop/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/1c7d50dd156399fb63b1926110b8dc7a54fe0286/2025/10/18/f3c32955-2c43-433a-8861-f0c3ab8e8133/4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-05T16:31:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nApple recently announced its fastest and strongest processor: the M5. The new chip powers the latest iPad Pro and MacBook Pro, both of which are… [+8619 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/01/09/aicoding.jpg",
       "publishedAt": "2025-11-04T16:28:58Z",
       "content": "Developers who \"pair code\" with an AI assistant stand to learn as much as they do in traditional human-human pairings, but also show a less critical attitude toward their silicon-based partners outpu… [+4534 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "2008 financial crisis prophet bets against the AI bubble with potential $1 billion payout — Michael Burry reveals put options on Nvidia and Palantir",
-      "description": "Contrarian stance against two of the biggest AI-fuelled stocks could be the pin that pops the bubble.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/2008-financial-crisis-prophet-bets-against-the-ai-bubble-with-potential-usd1-billion-payout-michael-burry-reveals-put-options-on-nvidia-and-palantir",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K8gTfkSMq5pGrJ8Pp5MmeH-2000-80.jpg",
-      "publishedAt": "2025-11-04T16:21:56Z",
-      "content": "Scion Asset Management has disclosed that, as recently as September 30, it was betting big on the decline of AI-fuelled titans like Nvidia and Palantir. While we don’t often concern ourselves with st… [+3574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Spotify tops third-quarter estimates on strong user growth, issues mixed guidance",
-      "description": "The streaming platform had 281 million premium subscribers for the quarter, coming in just below StreetAccount expectations.",
-      "url": "https://www.cnbc.com/2025/11/04/spotify-tops-third-quarter-estimates-issues-mixed-guidance.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108177273-1753466127579-gettyimages-2224449965-TFSPI_14072025-8776.jpeg?v=1762267271&w=1920&h=1080",
-      "publishedAt": "2025-11-04T16:13:51Z",
-      "content": "Spotify on Tuesday reported strong third-quarter results that topped Wall Street expectations and saw total revenue climb 12% year over year, but issued weak guidance for revenue and subscribers for … [+2602 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Cameron Faulkner",
-      "title": "Google’s entire Pixel 10 lineup is up to 25 percent off for the first time",
-      "description": "If you’re going to buy a phone in the next couple of days, you might already be considering one of Google’s Pixel 10 devices. Whether you want the cheapest model, which, like the iPhone 17, is very good, or you want the better camera performance and extra AI …",
-      "url": "https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/pixel10leaddeal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T16:04:43Z",
-      "content": "If you’re going to buy a phone in the next couple of days, you might already be considering one of Google’s Pixel 10 devices. Whether you want the cheapest model, which, like the iPhone 17, is very g… [+4515 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "James Hayes",
-      "title": "Bring complexity under control with enterprise-grade Kubernetes",
-      "description": "No, it'll probably never be a doddle – but you don't have to take the hard way when deploying Kubernetes, says Nutanix Sponsored Feature  Containers are arguably business computing's biggest success story. Enhancing speed, agility, scalability and portability…",
-      "url": "https://www.theregister.com/2025/11/04/bring_complexity_under_control/",
-      "urlToImage": "https://regmedia.co.uk/2021/11/30/shutterstock_gears_cogs_machinery.jpg",
-      "publishedAt": "2025-11-04T16:00:15Z",
-      "content": "Sponsored Feature Containers are arguably business computing's biggest success story. Enhancing speed, agility, scalability and portability across IT environments, they have become foundational to en… [+10052 chars]"
     }
   ]
 }
