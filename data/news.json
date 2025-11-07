@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-07T16:42:34.504Z",
+  "fetchedAt": "2025-11-07T17:08:19.673Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Google Finance gets a Gemini-powered upgrade - what it can do for you now",
+      "description": "These new AI features surface more information faster. Can they help Google compete with Yahoo Finance?",
+      "url": "https://www.zdnet.com/article/google-finance-gets-a-gemini-powered-upgrade-what-it-can-do-for-you-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0005cecfd5aa2fca1a7ecb15ecd4700a918b5705/2025/11/06/8c321960-088e-4525-a9db-2f963c0aaf92/gettyimages-838506570.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T17:00:36Z",
+      "content": "Gina Pricope/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Finance. </li><li>You can now ask… [+3422 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Sabrina Ortiz",
+      "title": "Use Google Finance? It just got a new Gemini-powered 'Deep Search' trick - how to try it",
+      "description": "These new AI features surface more information faster. Can they help Google compete with Yahoo Finance?",
+      "url": "https://www.zdnet.com/article/use-google-finance-it-just-got-a-new-gemini-powered-deep-search-trick-how-to-try-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0005cecfd5aa2fca1a7ecb15ecd4700a918b5705/2025/11/06/8c321960-088e-4525-a9db-2f963c0aaf92/gettyimages-838506570.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T17:00:00Z",
+      "content": "Gina Pricope/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Finance. </li><li>You can now ask… [+3461 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Microsoft AI says it’ll make superintelligent AI that won’t be terrible for humanity",
+      "description": "Microsoft AI wants you to know that its work toward superintelligence involves keeping humans “at the top of the food chain.” In a lengthy blog post on Thursday, Microsoft AI head Mustafa Suleyman highlighted the formation of a new team dedicated to developin…",
+      "url": "https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T16:51:08Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new team will focus on creating AI designed only to serve humanity.\r\nA new team will focus on creating AI designed only to serve humanity.\r\nby\r\nEmma RothClose\r… [+2754 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Agents of misfortune: The world isn't ready for autonomous software",
+      "description": "Amazon's spat with Perplexity shows that technology is not the only blocker for the agentic era\nOpinion The agentic era remains a fantasy world. Software agents, the notional next frontier for generative AI services, cannot escape the gravity of their contrad…",
+      "url": "https://www.theregister.com/2025/11/06/agents_of_misfortune_the_world/",
+      "urlToImage": "https://regmedia.co.uk/2017/03/22/cybellum_doubleagent_logo_detail.jpg",
+      "publishedAt": "2025-11-06T16:46:53Z",
+      "content": "Opinion The agentic era remains a fantasy world. Software agents, the notional next frontier for generative AI services, cannot escape the gravity of their contradictions, legal ambiguities, and comp… [+8159 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "This fintech unicorn just launched an AI agent to handle billions of dollars in CRE lending",
+      "description": "Built Technologies unveiled an AI agent for what's known as draw requests, when developers or construction firms ask lenders for the next stage of financing.",
+      "url": "https://www.cnbc.com/2025/11/06/built-technologies-ai-draw-agent-cre-lending.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222438-1762447445919-02_Draw_Budget_Reconciliation.png?v=1762447588&w=1920&h=1080",
+      "publishedAt": "2025-11-06T16:45:08Z",
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+3402 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432900-1719326479522-gettyimages-1670311540-20090101230917-99-222737.jpeg?v=1726690019&w=1920&h=1080",
       "publishedAt": "2025-11-05T17:43:37Z",
       "content": "Tariffs imposed by the Trump administration have given the country's retailers another cost to manage during a period of persistent inflation.\r\nWhile many are navigating the change with limited price… [+6941 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Replika founder raises $20M pre-seed for Wabi, the ‘YouTube of apps’  | TechCrunch",
-      "description": "Wabi, a startup from the founder of Replika, has just raised a $20 million pre-seed round. Wabi is like \"YouTube for apps\" -- a social platform where anyone can use prompts to instantly create mini apps and share them with friends.",
-      "url": "https://techcrunch.com/2025/11/05/replika-founder-raises-20m-pre-seed-for-wabi-the-youtube-of-apps/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-05-at-11.49.15AM.png?resize=1200,608",
-      "publishedAt": "2025-11-05T17:03:59Z",
-      "content": "Eugenia Kuyda saw the future of consumer AI before most. She founded Replika, the first major AI companion startup, in 2017 years before ChatGPT launched. Today it has 35 million users.  \r\nNow Kuyda … [+6733 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "Microsoft built a fake marketplace to test AI agents — they failed in surprising ways | TechCrunch",
-      "description": "Researchers at Microsoft have developed a new simulation environment for testing AI agents, revealing surprising weaknesses in the current state-of-the-art.",
-      "url": "https://techcrunch.com/2025/11/05/microsoft-built-a-synthetic-marketplace-for-testing-ai-agents/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/07/photo-mosh-getty-windows-logo.jpg?resize=1200,675",
-      "publishedAt": "2025-11-05T17:01:35Z",
-      "content": "On Wednesday, researchers at Microsoft released a new simulation environment designed to test AI agents, along with new research showing that current agentic models may be vulnerable to manipulation.… [+2414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Windows 10 may warn support has ended even if you paid for extended updates – here's why",
-      "description": "A bug that displays an incorrect 'end of support' message is expected to be squashed in a future Windows update.",
-      "url": "https://www.zdnet.com/article/windows-10-may-warn-support-has-ended-even-if-you-paid-for-extended-updates-heres-why/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d18daa0c22cd197a0345bf58e6ca307a618d07c7/2025/11/05/366065bc-3a6f-4695-b113-d9a9e9f4b471/gettyimages-2239565494.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T17:01:12Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 10 may tell you that support has ended even if you paid for it.</li><li>The incorrect message is due to a… [+2884 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Google makes it easier to access AI Mode in Chrome on iOS and Android",
-      "description": "Users will now be able to access AI Mode via a new dedicated shortcut button under the search bar when opening a \"New Tab\" page in Chrome.",
-      "url": "https://techcrunch.com/2025/11/05/google-makes-it-easier-to-access-ai-mode-in-chrome-on-ios-and-android/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-      "publishedAt": "2025-11-05T17:00:00Z",
-      "content": "Google announced on Wednesday that it’s making it easier to access AI Mode on mobile. Users will now be able to access AI Mode, which allows users to ask complex questions and follow-ups to dig deepe… [+1556 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "This AI smart ring lets you record voice notes with a whisper",
-      "description": "Another AI-powered wearable is coming to market. It’s not a pendant like Friend, nor a wristband like Amazon’s Bee. This time, it’s a smart ring called the Stream Ring from the company Sandbar founded by former employees of the neural interface startup CTRL-L…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-05T16:55:55Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Stream Ring comes from new wearable company Sandbar that was founded by former Meta employees.\r\nThe Stream Ring comes from new wearable company Sandbar that … [+3795 chars]"
     }
   ]
 }
