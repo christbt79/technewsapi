@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-07T00:44:33.944Z",
+  "fetchedAt": "2025-11-07T02:23:56.638Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
+      "description": "Shares of two Chinese autonomous driving companies Pony.ai and WeRide both debuted in Hong Kong on Thursday.",
+      "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108051023-1729609719251-Image_3.jpg?v=1745568971&w=1920&h=1080",
+      "publishedAt": "2025-11-06T01:47:07Z",
+      "content": "China's Pony.ai on Thursday saw its shares drop over 12%, while rival WeRide fell nearly 8% as the autonomous driving companies began trading in Hong Kong.\r\nPony.ai and WeRide, which are already list… [+3851 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Alex Heath",
+      "title": "Election night at Kalshi HQ",
+      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. At 8PM on election night in New York City, I arrived at an unmarked office building in the Meatpacking District. I…",
+      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Tarek-Mansour-Sept-2025.jpg?quality=90&strip=all&crop=0%2C12.717639051641%2C100%2C39.267169094186&w=1200",
+      "publishedAt": "2025-11-06T01:38:58Z",
+      "content": "<ul><li></li><li></li></ul>\r\nInside Kalshis quiet Manhattan office on election night, co-founder Tarek Mansour showed how his fast-growing prediction market is calling races faster than the media.\r\nI… [+5312 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Will Tesla shareholders vote to make Elon Musk the first trillionaire?",
+      "description": "On Thursday, Tesla shareholders will vote on whether to grant Elon Musk an enormous pay package, the largest ever awarded to a chief executive by orders of magnitude, or risk him leaving the company in a huff. If this sounds weirdly familiar, it's because the…",
+      "url": "https://www.theverge.com/transportation/814907/tesla-shareholder-elon-musk-trillionaire-vote",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382325/VRG_Illo_STK022_K_Radtke_Musk_Money.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T01:12:07Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Tesla shareholders vote to make Elon Musk the first trillionaire?\r\nYes. The answer is yes.\r\nby\r\nAndrew J. HawkinsClose\r\nAndrew J. Hawkins\r\nPosts from this a… [+9961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Even a Supreme Court ruling might not spell the end of tariffs",
+      "description": "The end of tariffs wouldn't be an unequivocal win for stocks. It could cause yields to rise — and Trump might try to reinstate tariffs through other means.",
+      "url": "https://www.cnbc.com/2025/11/06/cnbc-daily-open-even-a-supreme-court-ruling-might-not-spell-the-end-of-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208301-1759770601641-gettyimages-2239182293-US_SUPREME_COURT.jpeg?v=1759770709&w=1920&h=1080",
+      "publishedAt": "2025-11-06T01:05:56Z",
+      "content": "The U.S. Supreme Court on Wednesday heard a case on the Trump administration's \"reciprocal\" tariffs, and both liberal and conservative judges appeared skeptical of the legal basis of those tariffs.\r\n… [+2934 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Microsoft apologizes for not explaining cheaper no-AI M365 plans, and all it took was a government lawsuit",
+      "description": "Even offers refunds if users sign up for AI they don’t want\nMicrosoft Australia has apologized to users of its M365 suite after regulators accused it of steering them towards pricey bundles that include its Copilot AI service.…<!--#include virtual='/data_cent…",
+      "url": "https://www.theregister.com/2025/11/06/microsoft_copilot_m365_apology/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/06/apology_sorry.jpg",
+      "publishedAt": "2025-11-06T00:51:35Z",
+      "content": "Microsoft Australia has apologized to users of its M365 suite after regulators accused it of steering them towards pricey bundles that include its Copilot AI service.\r\nAs The Registerreported in Janu… [+2452 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221081-1762260918138-gettyimages-2244357858-AFP_82VE6ZR.jpeg?v=1762260962&w=1920&h=1080",
       "publishedAt": "2025-11-05T00:23:04Z",
       "content": "Guests look at a model of the largest data center in the UAE under construction in Abu Dhabi as the Stargate initiative, a joint venture between G42, Microsoft, and OpenAI, during the Abu Dhabi Inter… [+5122 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Justine Calma",
-      "title": "Google has a ‘moonshot’ plan for AI data centers in space",
-      "description": "Google has dreamed up a potential new way to get around resource constraints for energy-hungry AI data centers on Earth — launching its AI chips into space on solar-powered satellites. It’s a ‘moonshot’ research project Google announced today called Project S…",
-      "url": "https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-04T23:51:44Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIts trying to figure out how to turn constellations of solar-powered satellites into data centers.\r\nIts trying to figure out how to turn constellations of solar-… [+4578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to fall, tracking Wall Street declines on AI valuation concerns",
-      "description": "Asia Pacific markets are mostly set to fall Wednesday, tracking declines from Wall Street.",
-      "url": "https://www.cnbc.com/2025/11/05/asia-pacific-markets-wednesday-nikkei-225-kospi-hang-seng-index-nifty-50.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108189952-1755938264412-gettyimages-1288284423-vcg111308320551.jpeg?v=1755938288&w=1920&h=1080",
-      "publishedAt": "2025-11-04T23:47:46Z",
-      "content": "Aerial view of vehicles being driven on the road through the central business district in Beijing, China. \r\nAsia Pacific markets were mostly set to fall Wednesday, mirroring losses on Wall Street, wh… [+1743 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Cnbc.com",
-      "title": "Stock market today: Live updates",
-      "description": "Wall Street is coming off a losing session for the major averages.",
-      "url": "https://www.cnbc.com/2025/11/04/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220648-1762299601024-108220648-1762187355169-Traders-Photo-20251102-KK-PRESS-001.jpg?v=1762299626&w=1920&h=1080",
-      "publishedAt": "2025-11-04T23:08:24Z",
-      "content": "Dow futures rose slightly Tuesday night after all three major U.S. averages posted losses.\r\nDow Jones Industrial Average futures climbed 100 points, or 0.23%. S&amp;P 500 futures gained less than 0.1… [+1745 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Amazon sends legal threats to Perplexity over agentic browsing | TechCrunch",
-      "description": "Amazon won't allow agents on its site that don't identify themselves as such. Perplexity is not pleased.",
-      "url": "https://techcrunch.com/2025/11/04/amazon-sends-legal-threats-to-perplexity-over-agentic-browsing/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2181996346.jpg?w=1024",
-      "publishedAt": "2025-11-04T23:07:43Z",
-      "content": "Amazon has told Perplexity to get its agentic browser out of its online store, the companies both confirmed publicly on Tuesday. After warning Perplexity multiple times that Comet, its AI-powered sho… [+3350 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Google imagines out of this world AI - running on orbital datacenters",
-      "description": "Chocolate Factory's latest moonshot aims to put AI supercomputing cluster in sun-sychronous orbit Google on Tuesday announced a new moonshot – launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units…",
-      "url": "https://www.theregister.com/2025/11/04/google_takes_ai_aspirations_orbital/",
-      "urlToImage": "https://regmedia.co.uk/2020/01/24/satellite_shutterstock.jpg",
-      "publishedAt": "2025-11-04T22:40:58Z",
-      "content": "Google on Tuesday announced a new moonshot launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units (TPUs) to form orbital AI datacenters.\r… [+4481 chars]"
     }
   ]
 }
