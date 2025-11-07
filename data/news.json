@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T20:35:40.234Z",
+  "fetchedAt": "2025-11-07T21:04:52.992Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Jack Meserve",
+      "title": "Welcome to the age of viral police body cam footage",
+      "description": "If you’re arrested in America for a minor charge — say, for speeding or loitering — the punishment from the legal system might end up being the least of your worries. You might wake up a few months later and see your arrest, filmed through a police body camer…",
+      "url": "https://www.vox.com/the-highlight/466006/bodycam-youtube-viral-content-police-transparency-policy",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/BodyCams_Highlight_Vox.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T20:53:04Z",
+      "content": "If you’re arrested in America for a minor charge — say, for speeding or loitering — the punishment from the legal system might end up being the least of your worries. You might wake up a few months l… [+17346 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/68f75ae1c24f1fa71afcc569/191:100/w_1280,c_limit/GettyImages-2217144379%20(1).jpg",
       "publishedAt": "2025-11-05T21:24:18Z",
       "content": "AI promises substantial productivity gains that could add trillions of dollars to the global economy. But unlocking that value is proving notoriously challenging. Elixirr wants to help businesses suc… [+1604 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Cluely's Roy Lee hints that viral hype is not enough | TechCrunch",
-      "description": "Lee declined to share Cluely's financial metrics just four months after boasting how quickly the startup is growing.",
-      "url": "https://techcrunch.com/2025/11/05/cluelys-roy-lee-hints-that-viral-hype-is-not-enough/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-4.12.02-PM.jpg?resize=1200,676",
-      "publishedAt": "2025-11-05T21:24:00Z",
-      "content": "While Roy Lee, the founder of Cluely, argues that startups should be thinking harder about social media virality, he also admits that brand awareness alone wont lead to sustained growth.\r\nI can’t say… [+2754 chars]"
     }
   ]
 }
