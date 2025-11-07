@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-07T14:09:17.406Z",
+  "fetchedAt": "2025-11-07T14:39:46.387Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Is your business ready for a deepfake attack? 4 steps to take before it's too late",
+      "description": "Deepfakes can ruin reputations, impersonate leaders, and fuel scams. Here's how to stay ahead of them.",
+      "url": "https://www.zdnet.com/article/is-your-business-ready-for-a-deepfake-attack-4-steps-to-take-before-its-too-late/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8a0d268842418cab5f780e2474860c15624d54ac/2025/11/06/988cdf77-57a4-4f99-8d06-5cdf84fd2cb6/gettyimages-2211644836.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T14:30:44Z",
+      "content": "Curly_photo/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Deepfakes can cause serious reputational and financial damage.</li><li>Deepfake… [+9790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft: Don't let AI agents near your credit card yet",
+      "description": "Shopping bots pick first option and 'vulnerable to manipulation', Magentic Marketplace trial finds\nReady to have your agent talk to my agent and arrange a sale? Microsoft has published a simulated marketplace to put AI agents through their paces and answer a …",
+      "url": "https://www.theregister.com/2025/11/06/microsoft_unveils_the_magentic_marketplace/",
+      "urlToImage": "https://regmedia.co.uk/2024/11/20/shutterstock_aidissapointment.jpg",
+      "publishedAt": "2025-11-06T14:20:12Z",
+      "content": "Ready to have your agent talk to my agent and arrange a sale? Microsoft has published a simulated marketplace to put AI agents through their paces and answer a question for the new age: Would you tru… [+3095 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Peloton issues recall for 833,00 bikes over faulty seat posts",
+      "description": "Peloton is recalling roughly 833,000 of its original Bike Plus machines, according to the U.S. Consumer Product Safety Commission. The reason being that the seat post can break and detach during use, with Peloton receiving three reports of breakages and two r…",
+      "url": "https://www.theverge.com/news/815376/peloton-bike-plus-recall-seat-post",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22233853/akrales210108_4344_0020.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T14:18:47Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe recall affects Bike Plus units sold between January 2020 and April 2025.\r\nThe recall affects Bike Plus units sold between January 2020 and April 2025.\r\nby\r\nV… [+2948 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Ring’s new feature combats security camera notification fatigue",
+      "description": "Ring is introducing a new AI-powered feature that consolidates multiple alerts from a camera about a single event into one notification. Single Event Alert is launching on November 6th and is designed to reduce the barrage of notifications from a video doorbe…",
+      "url": "https://www.theverge.com/news/815367/ring-launches-single-event-alerts",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/AISingleEventAlertgif-ezgif.com-video-to-gif-converter.gif?quality=90&strip=all&crop=0,15.154062600727,100,69.691874798547",
+      "publishedAt": "2025-11-06T14:18:29Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nNow someone mowing the lawn wont blow up your phone.\r\nNow someone mowing the lawn wont blow up your phone.\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattison T… [+1822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Charlie Osborne",
+      "title": "Google spots malware in the wild that morphs mid-attack, thanks to AI",
+      "description": "Cyberattackers are no longer just using AI to polish their phishing emails. Here's what's next.",
+      "url": "https://www.zdnet.com/article/google-spots-malware-in-the-wild-that-morphs-mid-attack-thanks-to-ai/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fed7ffeae1fe128910fc9e8924cb5e817bd82c1a/2025/11/06/05fa3f81-8ffc-4ec0-a8fc-9386c7c01b35/gettyimages-2230367788.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T14:16:01Z",
+      "content": "Just_Super/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google detected novel adaptive malware in the wild.</li><li>This new malware uses LLM… [+4570 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244564626.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-05T13:21:16Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nZohran Mamdani won because he knew when to be online and when not to\r\nHe was credited for being popular on TikTok, but New Yorks new mayor spent his time on the … [+8109 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "SK hynix reveals DRAM development roadmap through 2031 — DDR6, GDDR8, LPDDR6, and 3D DRAM incoming",
-      "description": "SK hynix’s DRAM roadmap presented at the SK AI Summit 2025 outlines the company’s AI-focused memory strategy through 2031 that includes DDR6, LPDDR6, GDDR8, and next generations of HBM solutions. HBF is not expected to hit the market before 2030.",
-      "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-reveals-dram-development-roadmap-through-2031-ddr6-gddr8-lpddr6-and-3d-dram-incoming",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/siGVLmAK4bxiXS29faC2Qn-1920-80.jpg",
-      "publishedAt": "2025-11-05T13:20:00Z",
-      "content": "SK hynix has published its DRAM roadmap at its SK AI Summit 2025. While the plans are displayed in a very general way and do not reveal important specifics, they still show the direction of DRAM tech… [+3283 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "These 15+ Google Docs hacks will supercharge your workflow (and they're free)",
-      "description": "From editable PDFs to instant translations, Google Docs is packed with features most people never use.",
-      "url": "https://www.zdnet.com/article/these-15-google-docs-hacks-will-supercharge-your-workflow-and-theyre-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/328bedcf7c590dfe2085d9b7c28b25f76c34ab0a/2025/08/08/0d84e69d-8a03-41f3-87e2-01a9802c6f20/dsc03833.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T13:06:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "There's an outperforming real estate sector hiding in plain sight",
-      "description": "Industrial outdoor storage (IOS) is suddenly seeing significant demand and rent growth amid lean supply.",
-      "url": "https://www.cnbc.com/2025/11/05/alterra-ios-ceo-industrial-outdoor-storage-real-estate-sector.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221199-1762273871448-1425_Gifford_Rd_Elgin_IL.jpg?v=1762273937&w=1920&h=1080",
-      "publishedAt": "2025-11-05T13:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+4933 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Google exploring putting AI data centers in space — Project Suncatcher wants to harness in-orbit solar power to scale AI compute",
-      "description": "Google is looking into putting AI data centers into orbit, but it still needs to solve a ton of engineering and cost challenges.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-exploring-putting-ai-data-centers-in-space-project-suncatcher-wants-to-harness-in-orbit-solar-power-to-scale-ai-compute",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7kjue9PbCHvHp6fnyUv2i-1920-80.jpg",
-      "publishedAt": "2025-11-05T12:56:20Z",
-      "content": "Google just announced that it’s exploring the idea of putting AI data centers into orbit to take advantage of the sun’s solar output for power. According to Google Research, Project Suncatcher aims t… [+2816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Aaron Klotz) , Aaron Klotz",
-      "title": "Membrane evaporative cooling technology achieves record-breaking results, could be a solution for next-generation AI server cooling — clocks 800 watts of heat flux per square centimeter",
-      "description": "Engineers from the University of California, San Diego, have developed a new membrane evaporative cooling solution that has achieved record-breaking cooling performance. It could be a key solution for cooling Nvidia's future Feynman GPUs rated at over 4,000 w…",
-      "url": "https://www.tomshardware.com/pc-components/cooling/membrane-evaporative-cooling-technology-achieves-record-breaking-results-could-be-a-solution-for-next-generation-ai-server-cooling-clocks-800-watts-of-heat-flux-per-square-centimeter",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/7GbRs6C9Ypq9wjj9yx3My3-1920-80.jpg",
-      "publishedAt": "2025-11-05T12:40:00Z",
-      "content": "Cooling systems for AI servers are among the most power-hungry systems in an AI data center. According to SciTechDaily, Engineers from the University of California, San Diego, have created a brand ne… [+2819 chars]"
     }
   ]
 }
