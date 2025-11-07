@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-07T18:13:30.951Z",
+  "fetchedAt": "2025-11-07T18:43:37.839Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "I wore 5 different headphones across 8 flights - here's how each pair handled my stress tests",
+      "description": "The airplane is the ultimate test for headphones and earbuds. I tried the top models so you don't have to.",
+      "url": "https://www.zdnet.com/article/i-wore-5-different-headphones-across-8-flights-heres-how-each-pair-handled-my-stress-tests/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5a431b2b28b07233721f4cfd5536ad7b774ae1e6/2025/09/23/291f821e-ff36-453a-9202-4fd84a94df95/px8-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T18:43:00Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nTo me, there's no better way to spend several hours of my time than in a packed airplane, squished next to strangers, 30,000 f… [+8738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Senate bill would require companies to report AI layoffs as job cuts reach 20-year high in October",
+      "description": "Government agencies would also have to report losses due to automation. ai-pocalypse  A bipartisan pair of US Senators has introduced a bill that would require companies and government agencies to report AI-related layoffs, and it couldn't come at a better ti…",
+      "url": "https://www.theregister.com/2025/11/06/ai_job_cuts_senate_bill/",
+      "urlToImage": "https://regmedia.co.uk/2016/08/22/layoffs_fired_rif.jpg",
+      "publishedAt": "2025-11-06T18:23:09Z",
+      "content": "ai-pocalypse A bipartisan pair of US Senators has introduced a bill that would require companies and government agencies to report AI-related layoffs, and it couldn't come at a better time. October j… [+4505 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Meta brings its short-form video feed of AI slop to Europe",
+      "description": "Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.",
+      "url": "https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-06-at-1.03.40PM.png?resize=1200,644",
+      "publishedAt": "2025-11-06T18:22:38Z",
+      "content": "Meta announced on Thursday that Vibes, its short-form video feed of AI-generated videos, is launching in Europe in the Meta AI app. Think TikTok or Instagram Reels, but every single video you come ac… [+2056 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/8964dd097ebbaf96fdeba696dfe721328daed817/2025/11/05/1c6232f2-5dfa-4670-b206-11a40c2ae2c7/gettyimages-2184174407.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T19:22:04Z",
       "content": "JuSun/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has threatened legal action against AI startup Perplexity… [+6648 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Pinterest CEO touts open source AI: 'tremendous performance' with reduced costs | TechCrunch",
-      "description": "Pinterest CEO Bill Ready says open source AI is offering cost savings to the company, particularly in visual search.",
-      "url": "https://techcrunch.com/2025/11/05/pinterest-ceo-touts-open-source-ai-tremendous-performance-with-reduced-costs/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/bill-ready-pinterest-GettyImages-2213037081.jpg?w=1024",
-      "publishedAt": "2025-11-05T19:01:49Z",
-      "content": "On an earnings call on Tuesday, Pinterest CEO Bill Ready highlighted the promise of open source AI models in helping the company keep its costs down as it expands the use cases for visual AI.\r\nThe im… [+3238 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Will Knight",
-      "title": "Meet the Chinese Startup Using AI—and a Small Army of Workers—to Train Robots",
-      "description": "AgiBot is using AI-powered robots to do new manufacturing tasks. Smarter machines may transform physical labor in China.",
-      "url": "https://www.wired.com/story/agibot-robots-manufacturing/",
-      "urlToImage": "https://media.wired.com/photos/690a78187bd6ade585ffc3ec/191:100/w_1280,c_limit/AI-Lab-Teaching-Robots-Manufacturing-Business.jpg",
-      "publishedAt": "2025-11-05T19:00:00Z",
-      "content": "The real question is how effectively AgiBots algorithms can teach its robots new tricks. Using reinforcement learning to teach a robot tasks that require improvisation generally requires a lot of tra… [+1816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "New bipartisan bill would require companies to report AI job losses",
-      "description": "The AI-Related Job Impacts Clarity Act would require companies and federal agencies to submit quarterly reports of \"AI-related job effects.\"",
-      "url": "https://www.cnbc.com/2025/11/05/ai-jobs-act-warner-hawley.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217887-17616658142025-10-28t153423z_829638327_rc23lhar6u0w_rtrmadp_0_amazon-com-layoffs.jpeg?v=1761665903&w=1920&h=1080",
-      "publishedAt": "2025-11-05T18:53:31Z",
-      "content": "A new bipartisan bill seeks to provide a \"clear picture\" of how artificial intelligence is affecting the American workforce.\r\nSens. Mark Warner, D-Va., and Josh Hawley, R-Mo., on Wednesday announced … [+1670 chars]"
     }
   ]
 }
