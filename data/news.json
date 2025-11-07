@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T18:43:37.839Z",
+  "fetchedAt": "2025-11-07T19:07:34.172Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Meta reportedly projected 10% of 2024 sales came from scam, fraud ads",
+      "description": "Meta projected that about $16 billion in 2024 revenue came from running ads for scams and banned goods, according to a Thursday report from Reuters.",
+      "url": "https://www.cnbc.com/2025/11/06/meta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194774-1757072533523-gettyimages-2233066222-TECH_CEOS_WH.jpeg?v=1762450033&w=1920&h=1080",
+      "publishedAt": "2025-11-06T18:46:51Z",
+      "content": "Meta projected that 10% of its overall sales in 2024, or about $16 billion, came from running online ads for scams and banned goods, according to a Thursday report from Reuters. \r\nThose kinds of ads … [+2035 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-05T20:12:33Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nApple will pay Google around $1 billion every year to help power AI features inside Siri, according to a report from Bloomberg.\r\nApple will pay Google around $1 … [+2992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Amazon, Perplexity, and the future of AI shopping assistants",
-      "description": "The e-commerce giant claims Perplexity's Comet is eroding the customer experience - while pushing its own AI shopping agent.",
-      "url": "https://www.zdnet.com/article/amazon-perplexity-and-the-future-of-ai-shopping-assistants/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8964dd097ebbaf96fdeba696dfe721328daed817/2025/11/05/1c6232f2-5dfa-4670-b206-11a40c2ae2c7/gettyimages-2184174407.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T19:22:04Z",
-      "content": "JuSun/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has threatened legal action against AI startup Perplexity… [+6648 chars]"
     }
   ]
 }
