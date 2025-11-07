@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-07T13:42:04.051Z",
+  "fetchedAt": "2025-11-07T14:09:17.406Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "US govt committee slams Nvidia over shared campus with banned Huawei affiliate — says China has been in Nvidia’s backyard for a decade, literally",
+      "description": "Former Huawei affiliate Futurewei allegedly maintained an office in Nvidia's Santa Clara campus for around a decade until 2024.",
+      "url": "https://www.tomshardware.com/tech-industry/us-govt-committee-slams-nvidia-over-shared-campus-with-banned-huawei-affiliate-says-china-has-been-in-nvidias-backyard-for-a-decade-literally",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JForMmTCG3rcknrzmYA3WR-2000-80.jpg",
+      "publishedAt": "2025-11-06T14:07:36Z",
+      "content": "The Select Committee on China of the U.S. House of Representatives has called out Nvidia CEO Jensen Huang, pointing out on X its claims that Nvidia has been sharing its Santa Clara campus with Future… [+3345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI startup Metropolis, biggest parking lot operator in U.S., raises $1.6 billion for major retail expansion",
+      "description": "Metropolis, which uses AI, computer vision for payments, raised $1.6 billion in equity and debt for a big retail push into gas stations, drive-thru and hotels.",
+      "url": "https://www.cnbc.com/2025/11/06/ai-based-parking-lot-payment-startup-metropolis-raises-1point6-billion.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222269-1762432112119-Metropolis_B-roll-DriveThru.png?v=1762432159&w=1920&h=1080",
+      "publishedAt": "2025-11-06T14:03:48Z",
+      "content": "Metropolis, which uses AI and computer vision to identify vehicles and take parking lot payments without any physical transaction, has raised $1.6 billion in combined debt and equity in a new fundrai… [+4233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "You'll never guess what the most common passwords are. Oh, wait, yes you will",
+      "description": "Most of you still can't do better than 123456?\n123456. admin. password. For years, the IT world has been reminding users not to rely on such predictable passwords. And yet here we are with another study finding that those sorts of quickly-guessable, universal…",
+      "url": "https://www.theregister.com/2025/11/06/most_common_passwords/",
+      "urlToImage": "https://regmedia.co.uk/2021/01/22/shutterstock_crap_password.jpg",
+      "publishedAt": "2025-11-06T14:00:05Z",
+      "content": "123456. admin. password. For years, the IT world has been reminding users not to rely on such predictable passwords. And yet here we are with another study finding that those sorts of quickly-guessab… [+3561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Matthew McConaughey, Ryan Reynolds-backed password manager tops $400 million in ARR on AI tail winds",
+      "description": "Canadian cybersecurity startup 1Password has surpassed $400 million in annual recurring revenue.",
+      "url": "https://www.cnbc.com/2025/11/06/ryan-reynolds-backed-1password-tops-400-million-in-arr.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221975-1762372281567-Untitled-2.jpg?v=1762372336&w=1920&h=1080",
+      "publishedAt": "2025-11-06T14:00:01Z",
+      "content": "Cybersecurity startup 1Password, by Ryan Reynolds, Matthew McConaughey and Scarlett Johansson, has topped more than $400 million in annual recurring revenue, the company said Thursday.\r\n\"We believe w… [+2447 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/7GbRs6C9Ypq9wjj9yx3My3-1920-80.jpg",
       "publishedAt": "2025-11-05T12:40:00Z",
       "content": "Cooling systems for AI servers are among the most power-hungry systems in an AI data center. According to SciTechDaily, Engineers from the University of California, San Diego, have created a brand ne… [+2819 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Chelsey Dulaney",
-      "title": "Tech Jitters Weigh on U.S. Stock Futures, Asian Indexes",
-      "description": "A selloff sparked by doubts over the AI trade showed signs of fading out, while the future of many of President Trump’s global tariffs hung in the balance.",
-      "url": "https://www.wsj.com/finance/stocks/https-www-wsj-com-articles-global-stocks-markets-dow-update-11-05-2025-3405c7af",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x5yqISXhVWW6rO90NKUTcQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/fea196a0d88dbba6dadfe7271d24b2a9",
-      "publishedAt": "2025-11-05T12:36:00Z",
-      "content": "A selloff sparked by doubts over the AI trade showed signs of fading out, while the future of many of President Trumps global tariffs hung in the balance.\r\nFutures tied to the tech-heavy Nasdaq-100 s… [+3148 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Stability AI’s legal win over Getty leaves copyright law in limbo",
-      "description": "Stability AI, the creator of popular AI art tool Stable Diffusion, was largely victorious against Getty Images on Tuesday in a British legal battle over the material used to train AI models. The case originally looked set to produce a landmark ruling on AI an…",
-      "url": "https://www.theverge.com/news/814042/getty-lawsuit-stability-ai-copyright-ruling-uk",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/236806_Getty_Images_AI_Images_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-05T12:22:25Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUK High Court didnt weigh in on the key copyright issue dividing the tech sector and creative industries. \r\nUK High Court didnt weigh in on the key copyright iss… [+3094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Custom Intel motherboards with a whopping 36 USB ports spotted online — extravagant connectivity offering fuels bot farm speculation",
-      "description": "A user on Reddit has shared a collection of customized LGA 1151 motherboards with 36 USB ports stacked atop and next to each other. Even the most overkill models from the factory usually only support up to 20, and they're meant for special applications. A com…",
-      "url": "https://www.tomshardware.com/pc-components/motherboards/custom-intel-motherboards-with-a-whopping-36-usb-ports-spotted-online-extravagant-connectivity-offering-fuels-bot-farm-speculation",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PTJDYCWLLJHxGqFERyG7u8-1859-80.png",
-      "publishedAt": "2025-11-05T12:20:00Z",
-      "content": "There are a few things in life that no mortal can ever have enough of: cheese, storage, and perhaps, USB ports. Too long have we suffered through manufacturers' reluctance to give us what we really w… [+2528 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "After years of outsized stock market returns, it’s time to reassess your portfolio ‘risk exposure,’ top-ranked advisor says",
-      "description": "Many financial advisors recommend rebalancing your portfolio at least once a year, if not more often. Here's why now may be an opportune time.",
-      "url": "https://www.cnbc.com/2025/11/05/rebalance-your-portfolio.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221403-1762290573096-gettyimages-1796495560-026a0914.jpeg?v=1762290590&w=1920&h=1080",
-      "publishedAt": "2025-11-05T12:15:01Z",
-      "content": "[CK bullet with numbers.]\r\nThe stock market's impressive run in recent years may be fattening your portfolio, but it also might have thrown your intended investment mix off balance.\r\nWhile artificial… [+3980 chars]"
     }
   ]
 }
