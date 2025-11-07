@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-07T12:17:32.297Z",
+  "fetchedAt": "2025-11-07T13:02:32.726Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google's rolling out its most powerful AI chip, taking aim at Nvidia with custom silicon",
+      "description": "Google says Ironwood, the seventh generation of its Tensor Processing Unit, is more than four times faster than its predecessor chip.",
+      "url": "https://www.cnbc.com/2025/11/06/google-unveils-ironwood-seventh-generation-tpu-competing-with-nvidia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1762390648&w=1920&h=1080",
+      "publishedAt": "2025-11-06T13:00:01Z",
+      "content": "Google is making its most powerful chip yet widely available, the search giant's latest effort to try and win business from artificial intelligence companies by offering custom silicon.\r\nThe company … [+2381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "OpenAI walks back statement it wants a government 'backstop' for its massive loans — company says government 'playing its part' critical for industrial AI capacity increases",
+      "description": "OpenAI has walked back claims its CFO made in an interview that it was looking for a governmental backstop for its investments, providing a guarantee against its loans that would allow it to borrow more and reduce the cost of that financing.",
+      "url": "https://www.tomshardware.com/tech-industry/openai-walks-back-statement-it-wants-a-government-backstop-for-its-massive-loans-company-says-government-playing-its-part-critical-for-industrial-ai-capacity-increases",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eC2JgC2t4dyegUzVsnctrL-1920-80.jpg",
+      "publishedAt": "2025-11-06T12:36:41Z",
+      "content": "OpenAI's Chief Financial Officer, Sarah Friar, has walked back claims she made in an interview with the Wall Street Journal. Where she originally said that OpenAI was \"looking for an ecosystem,\" wher… [+3283 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Dominic Preston",
+      "title": "Huawei Mate 70 Air is a little thick for a thin phone",
+      "description": "Huawei is the latest phone manufacturer to release a thin phone: the Mate 70 Air. That’s our third Air for the year — after the iPhone and ZTE’s Nubia Air — to only two Edges, suggesting Apple’s influence still reigns supreme over Samsung’s. At 6.6mm thick, t…",
+      "url": "https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/huawei-mate-70-air-hero.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
+      "publishedAt": "2025-11-06T12:35:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut the 6,500mAh battery probably makes up for that.\r\nBut the 6,500mAh battery probably makes up for that.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\r\nPosts from… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Family offices make fewer deals but still flock to AI startup mega-rounds",
+      "description": "Investment firms of the ultra-rich seek bigger returns and to tap into the AI boom.",
+      "url": "https://www.cnbc.com/2025/11/06/family-offices-deals-october-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198201-1762354800329-108198201-17576927822025-09-12t155551z_1980900036_rc2dqgaa1t27_rtrmadp_0_gemini-ipo.jpg?v=1762354807&w=1920&h=1080",
+      "publishedAt": "2025-11-06T12:30:01Z",
+      "content": "Gemini Co-founders Tyler Winklevoss and Cameron Winklevoss attend the company's IPO at the Nasdaq MarketSite in New York City, U.S., Sept. 12, 2025.\r\nA version of this article first appeared in CNBC'… [+2517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Job cuts in October hit highest level for the month in 22 years, Challenger says",
+      "description": "Job cuts for October totaled 153,074, a 183% surge from September.",
+      "url": "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203774-1758802270042-gettyimages-2231677197-US_JOBS.jpeg?v=1758802638&w=1920&h=1080",
+      "publishedAt": "2025-11-06T12:29:29Z",
+      "content": "Layoff announcements soared in October as companies recalibrated staffing levels during the artificial intelligence boom, a sign of potential trouble ahead for the labor market, according to outplace… [+2425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Stewart Bendle",
+      "title": "Apple's 13-inch MacBook Air slashed to $749 — a new all-time low price on Amazon for this M4-powered laptop",
+      "description": "Save $50 on this MacBook Air's previous low price. Apple's 2025 MacBook Air with M4 is only $749 at Amazon",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apples-13-inch-macbook-air-slashed-to-usd749-a-new-all-time-low-price-on-amazon-for-this-m4-powered-laptop",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BPvMeUHqSpBxo7Kobfq8fa-1920-80.jpg",
+      "publishedAt": "2025-11-06T12:29:26Z",
+      "content": "Lovers of Apple MacBooks rejoice, as one of the MacBook Air line-up falls to a new all-time low price on Amazon ahead of any Black Friday sales. The 13-inch Apple MacBook Air 2025 with M4 processor i… [+1675 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/328bedcf7c590dfe2085d9b7c28b25f76c34ab0a/2025/08/08/0d84e69d-8a03-41f3-87e2-01a9802c6f20/dsc03833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T11:58:00Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kerry Wan",
-      "title": "Your Meta Ray-Bans are getting several video-recording upgrades for free - and Oakley models, too",
-      "description": "Smoother and longer video recording is coming to older Meta smart glasses, but there's more to the November firmware update.",
-      "url": "https://www.zdnet.com/article/your-meta-ray-bans-are-getting-several-video-recording-upgrades-for-free-and-oakley-models-too/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/114801af48138b31f22c96e3f0ff958b991f8634/2025/10/23/5d9e8c4b-d4d7-4348-86ea-cadee9105429/dsc08421.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T11:46:00Z",
-      "content": "Jason Hiner/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Meta is rolling out its Nov. firmware update across Ray-Ban and Oakley smart glasses.</li><li>… [+2778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I thought these wireless earbuds were a joke - until I took my first phone call",
-      "description": "If you need a pair of earbuds with fantastic microphones, the OpenRock Link 20 open-air earbuds are some of the best I've tested.",
-      "url": "https://www.zdnet.com/article/i-thought-these-wireless-earbuds-were-a-joke-until-i-took-my-first-phone-call/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T11:44:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "China and America's AI war isn't just about compute, it's about energy — energy subsidies promote homegrown chip push, amid data center energy squeeze",
-      "description": "Local Chinese governments are issuing attractive energy subsidies to companies which use domestically produced chips in their data centers and \"AI factories,\" in order to discourage use of international CPUs and GPUs from the likes of Nvidia.",
-      "url": "https://www.tomshardware.com/tech-industry/china-and-americas-ai-war-isnt-just-about-compute-its-about-energy-energy-subsidies-promote-homegrown-chip-push-amid-data-center-energy-squeeze",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DPAtaNmV6haxU8AsMGKSm-1920-80.jpg",
-      "publishedAt": "2025-11-05T11:41:49Z",
-      "content": "Local Chinese governments have begun issuing attractive power incentives and subsidies to Chinese tech companies, including ByteDance, Alibaba, and Tencent, according to a new report. Designed to cut… [+4303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Which Apple Watch should you buy in 2025? My verdict on the most disputed model",
-      "description": "The Apple Watch Ultra 3 is Apple's most durable and longest-lasting wearable yet - but its upgrades go well beyond just battery life.",
-      "url": "https://www.zdnet.com/article/which-apple-watch-should-you-buy-in-2025-my-verdict-on-the-most-disputed-model/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8089096fd0729fe6fa265bf8c0989242416c08f2/2025/09/17/b3398d0d-a33f-499f-8252-fd2705ad158e/img-0040.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T11:39:00Z",
-      "content": "What's the deal? \r\nAmazon is taking $100 off the Apple Watch Ultra 3 for the first time. Apple's rugged and most expensive smartwatch sees its first discount since debuting in September. \r\nFollow ZDN… [+6713 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Vala Afshar",
-      "title": "AI agents are only as good as the data they're given, and that's a big issue for businesses",
-      "description": "Agentic AI is reshaping the data landscape, impacting professionals across every industry. Here's what the changes mean for your organization.",
-      "url": "https://www.zdnet.com/article/ai-agents-are-only-as-good-as-the-data-theyre-given-and-thats-a-big-issue-for-businesses/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/a298fe491e02b7c8c19244b77511b2f4faaec5ac/2025/11/04/e9028ed3-5f0b-4c6c-bc4b-532b4b0933c1/gettyimages-1391433178.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T11:19:02Z",
-      "content": "zf L/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>63% of business leaders describe their organizations as very data-driven, up 10% from 2… [+10007 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Julian Chokkattu",
-      "title": "Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts",
-      "description": "A new company called Sandbar has unveiled a smart wearable called Stream Ring, which uses a microphone to record your softly spoken thoughts. And it’s powered by—you guessed it—an AI chatbot.",
-      "url": "https://www.wired.com/story/sandbar-stream-smart-ring/",
-      "urlToImage": "https://media.wired.com/photos/690ac75e0688aae134b0cb56/191:100/w_1280,c_limit/Sandbar%20Stream%20Smart%20Ring%20SOURCE%20Julian%20Chokkattu(2).jpg",
-      "publishedAt": "2025-11-05T11:00:00Z",
-      "content": "Everyone has an inner monologue. When you're commuting on the train, riding a bike, or in the shower, chances are you're thinking about the day ahead, tasks you need to do, or maybe just mulling over… [+2143 chars]"
     }
   ]
 }
