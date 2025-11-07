@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-07T21:04:52.992Z",
+  "fetchedAt": "2025-11-07T21:31:20.804Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Airbnb shares rise on revenue beat, stronger-than-expected forecast",
+      "description": "Shares of Airbnb rose in extended trading after the company reporter third-quarter results that beat revenue expectations.",
+      "url": "https://www.cnbc.com/2025/11/06/airbnb-abnb-q3-results-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222305-1762434909896-gettyimages-2227994887-img_1951.jpeg?v=1762434961&w=1920&h=1080",
+      "publishedAt": "2025-11-06T21:24:30Z",
+      "content": "Shares of Airbnb rose as much as 5% in extended trading on Thursday after the company reported third-quarter results that beat analysts' estimates for revenue and offered rosy guidance.\r\nHere's how t… [+1616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Google’s Ironwood TPUs represent a bigger threat than Nvidia would have you believe",
+      "description": "Chocolate Factory's homegrown silicon boasts Blackwell-level perf at massive scale opinion  Look out, Jensen! With its TPUs, Google has shown time and time again that it's not the size of your accelerators that matters but how efficiently you can scale them i…",
+      "url": "https://www.theregister.com/2025/11/06/googles_ironwood_tpus_ai/",
+      "urlToImage": "https://regmedia.co.uk/2025/04/09/google_tpu_v7.jpg",
+      "publishedAt": "2025-11-06T21:19:18Z",
+      "content": "opinion Look out, Jensen! With its TPUs, Google has shown time and time again that it's not the size of your accelerators that matters but how efficiently you can scale them in production.\r\nNow with … [+6550 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments | TechCrunch",
+      "description": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
+      "publishedAt": "2025-11-06T21:18:58Z",
+      "content": "Rarely has a month gone by in 2025 without OpenAI signing another multi-billion-dollar data center deal. In a lengthy post on X on Thursday, OpenAI CEO Sam Altman publicly clarified the totals.\r\n“We … [+1414 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "Amazon offers AI translation for self-published Kindle books",
+      "description": "Amazon is making it easier for self-published authors to release their ebooks in multiple languages with Kindle Translate, a new AI translation tool that launched in beta on Thursday to a limited number of Kindle Direct Publishing (KDP) authors. In its early …",
+      "url": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Kindle-Paperwhite.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T21:17:59Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe beta feature can translate between English and Spanish and from German to English.\r\nThe beta feature can translate between English and Spanish and from Germa… [+2212 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9e3b0b4bd4984edd33614733fbd0099188f369db/2025/11/05/cd42c069-4cee-4cc8-a594-ca484ecfceb3/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-this-one-easily-wins.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T22:26:00Z",
       "content": "Waze definitely has a personality, thanks to its colorful, cartoony design packed with big icons and bold, in-your-face alerts. It's also got a playful side when it comes to customization. You can st… [+1557 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Elissa Welle",
-      "title": "Google Gemini’s Deep Research can look into your emails, drive, and chats",
-      "description": "Gemini can now draw from your emails and documents while performing “deep research” queries. Google’s announcement blog called this “one of our most-requested features” for Gemini Deep Research, which is an agentic feature styled specifically for creating res…",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Screenshot-2025-11-05-at-4.22.58%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C13.432366674505%2C100%2C73.13526665099&w=1200",
-      "publishedAt": "2025-11-05T22:09:51Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYour Gmail, Drive, and Chat can serve as info sources for Geminis AI-generated reports.\r\nYour Gmail, Drive, and Chat can serve as info sources for Geminis AI-gen… [+2497 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Why Amazon really doesn't want Perplexity's AI browser shopping for you",
-      "description": "Perplexity called Amazon's actions 'a threat to all internet users.'",
-      "url": "https://www.zdnet.com/article/why-amazon-really-doesnt-want-perplexitys-ai-browser-shopping-for-you/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c79f3fefa732dc751ab1303d18e4c42979c852e5/2025/11/05/7eb37b6a-4e3b-4e45-8672-105ee3b3a41d/gettyimages-2241942850.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T22:02:00Z",
-      "content": "Matthias Balk/picture alliance via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Amazon has threatened legal action against AI startup Perplexity… [+6628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Microsoft confirms a bug is hitting paid Windows 10 ESU users - here's what's happening",
-      "description": "This problem has affected both consumer and business versions of Windows 10.",
-      "url": "https://www.zdnet.com/article/microsoft-confirms-a-bug-is-hitting-paid-windows-10-esu-users-heres-whats-happening/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d18daa0c22cd197a0345bf58e6ca307a618d07c7/2025/11/05/366065bc-3a6f-4695-b113-d9a9e9f4b471/gettyimages-2239565494.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T21:46:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Windows 10 may tell you that support has ended even if you paid for it.</li><li>The incorrect message is due to a… [+2994 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Wired",
-      "title": "Meet the professional services firms taking on the challenges of tomorrow",
-      "description": "These three Trailblazers are making a difference through smart thinking. Here’s how…",
-      "url": "https://www.wired.com/sponsored/story/professional-services-trailblazers-challenges-of-tomorrow-hsbc/",
-      "urlToImage": "https://media.wired.com/photos/68f75ae1c24f1fa71afcc569/191:100/w_1280,c_limit/GettyImages-2217144379%20(1).jpg",
-      "publishedAt": "2025-11-05T21:24:18Z",
-      "content": "AI promises substantial productivity gains that could add trillions of dollars to the global economy. But unlocking that value is proving notoriously challenging. Elixirr wants to help businesses suc… [+1604 chars]"
     }
   ]
 }
