@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-07T16:09:51.216Z",
+  "fetchedAt": "2025-11-07T16:42:34.504Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Datadog's stock soars 20% on revenue beat, strong forecast",
+      "description": "Datadog has rolled out multiple artificial intelligence technologies as the AI boom boosts demand for cloud security.",
+      "url": "https://www.cnbc.com/2025/11/06/datadogs-ddog-stock-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094154-1738167464226-gettyimages-1771039402-omarques_08112023_ILLUS_PHONE_tech-12.jpeg?v=1762442735&w=1920&h=1080",
+      "publishedAt": "2025-11-06T16:36:32Z",
+      "content": "Datadog shares jumped 20% on Thursday after the software company reported third-quarter revenue that topped Wall Street estimates and issued a strong forecast for the fourth quarter.\r\nThe company rep… [+1399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "OpenAI CFO Sarah Friar says company isn't seeking government backstop, clarifying prior comment",
+      "description": "OpenAI CFO Sarah Friar said in a LinkedIn post that the artificial intelligence company is not seeking a government backstop for its infrastructure commitments.",
+      "url": "https://www.cnbc.com/2025/11/06/openai-cfo-sarah-friar-says-company-is-not-seeking-government-backstop.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188498-1755694394560-SG-Friar-03.jpg?v=1755694558&w=1920&h=1080",
+      "publishedAt": "2025-11-06T16:28:45Z",
+      "content": "OpenAI CFO Sarah Friar said late Wednesday that the artificial intelligence startup is not seeking a government backstop for its infrastructure commitments, clarifying previous comments she made on s… [+1741 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-05T16:55:55Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Stream Ring comes from new wearable company Sandbar that was founded by former Meta employees.\r\nThe Stream Ring comes from new wearable company Sandbar that … [+3795 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Op-ed: The fuel for the AI boom driving the markets is advertising. It is also an existential risk.",
-      "description": "Joe Marchese, Executive Chairman at Human Ventures, describes a key conundrum facing OpenAI and other AI start-ups as they disrupt the ad tech industry.",
-      "url": "https://www.cnbc.com/2025/11/05/op-ed-the-fuel-for-the-ai-boom-driving-the-markets-is-advertising-it-is-also-an-existential-risk-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203076-1758900160412-108203076-1758667426528-gettyimages-2236544326-STARGATE_DATA_CENTER.jpg?v=1762287672&w=1920&h=1080",
-      "publishedAt": "2025-11-05T16:43:19Z",
-      "content": "With OpenAI's recent release of its AI browser, the historic level of capital expenditures being made in the current AI arms race may accelerate even further, if that is possible. \r\nFrom the reciproc… [+4937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Pinterest plunges 20% after weak results as tariffs drag on ad revenue",
-      "description": "Third-quarter sales in the U.S. and Canada came in at $786 million, missing analyst projections.",
-      "url": "https://www.cnbc.com/2025/11/05/pinterest-stock-earnings-tariffs-ads.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108013672-1722357988768-gettyimages-2151457654-20090101240508-99-961735.jpeg?v=1762353921&w=1920&h=1080",
-      "publishedAt": "2025-11-05T16:38:52Z",
-      "content": "Pinterest shares plummeted 20% on Wednesday after lackluster third-quarter earnings as advertising took a hit from larger retailers dealing with tariffs.\r\nThe company posted a profit of 38 cents per … [+3486 chars]"
     }
   ]
 }
