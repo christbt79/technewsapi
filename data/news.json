@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-07T03:53:41.568Z",
+  "fetchedAt": "2025-11-07T04:12:17.313Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Discord’s Family Center update now lets parents monitor weekly purchases",
+      "description": "Discord has rolled out updates to its Family Center, giving guardians more insights into their teens’ usage patterns, including purchases, top interactions, and time spent. The goal is to help parents monitor whether their teen is spending excessive time or m…",
+      "url": "https://techcrunch.com/2025/11/05/discords-family-center-update-now-lets-parents-monitor-weekly-purchases/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/03-FCv2-Dashboard-EN.jpeg?resize=1200,650",
+      "publishedAt": "2025-11-06T04:07:32Z",
+      "content": "Discord has rolled out updates to its Family Center, giving guardians more insights into their teens’ usage patterns, including purchases, top interactions, and time spent. The goal is to help parent… [+2023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Qualcomm bets on inferencing in the cloud, which Arm says can’t run it all it forever",
+      "description": "Awkward, seeing as they’re close partners Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon.…",
+      "url": "https://www.theregister.com/2025/11/06/qualcomm_24_arm_q2_results/",
+      "urlToImage": "https://regmedia.co.uk/2021/12/10/shutterstock_cloud_question_mark.jpg",
+      "publishedAt": "2025-11-06T04:03:37Z",
+      "content": "Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon.\r\nBoth companies announced quarterly results on Wednesday and Qualcomm CEO Cristiano Amon used his com… [+4600 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/03/03/stop_shutterstock.jpg",
       "publishedAt": "2025-11-05T01:56:36Z",
       "content": "Amazon.com has sent a cease and desist letter to Perplexity in which it insists the AI company prevent its Comet browser from making automated purchases on behalf of users.\r\nComet, like OpenAI's Atla… [+5965 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Beware the tunnel vision on AI stocks",
-      "description": "AMD smashed expectations, and IBM impressed with cloud strength. Yet the Nasdaq fell, revealing Wall Street's playlist is stuck on one track: AI mania.",
-      "url": "https://www.cnbc.com/2025/11/05/cnbc-daily-open-beware-the-tunnel-vision-on-ai-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206152-1759288660340-gettyimages-2153357438-AFP_34TE8D2.jpeg?v=1759289015&w=1920&h=1080",
-      "publishedAt": "2025-11-05T01:13:21Z",
-      "content": "Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, speaks at a company briefing in Redmond, Wash., on May 20, 2024. Microsoft unveiled a new category of PC that … [+3390 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Google Maps taps Gemini AI to transform into an ‘all-knowing copilot’",
-      "description": "Google Maps is bringing Gemini’s AI chatbot to more features, including more “conversational” route planning and the use of landmarks and nearby business for navigation. Google has slowly been adding AI to many of its products, including Maps, which last year…",
-      "url": "https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Gemini-in-navigation.png?quality=90&strip=all&crop=0%2C17.46344436393%2C100%2C65.073111272141&w=1200",
-      "publishedAt": "2025-11-05T01:13:10Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers can now have conversations about their route or surrounding landmarks with Gemini while using Google Maps.\r\nUsers can now have conversations about their ro… [+5324 chars]"
     }
   ]
 }
