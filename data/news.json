@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T06:47:49.883Z",
+  "fetchedAt": "2025-11-07T07:09:42.792Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's Inside India newsletter: India’s ‘back offices’ are evolving into leadership hubs for global companies",
+      "description": "GCCs are looking to hire leadership roles in India as firms move critical R&D and IP to these centers.",
+      "url": "https://www.cnbc.com/2025/11/06/cnbcs-inside-india-newsletter-indias-back-offices-are-evolving-into-leadership-hubs-for-global-companies.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222177-1762407845160-gettyimages-1258675195-INDIA_GCC.jpeg?v=1762407938&w=1920&h=1080",
+      "publishedAt": "2025-11-06T07:04:38Z",
+      "content": "The SAP Labs India Pvt. office in Bengaluru, India, on Thursday, on April 27, 2023. Global capability centers have evolved far beyond tech support, but their growth presents challenges for multinatio… [+6988 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/328bedcf7c590dfe2085d9b7c28b25f76c34ab0a/2025/08/08/0d84e69d-8a03-41f3-87e2-01a9802c6f20/dsc03833.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T03:00:42Z",
       "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Amazon complains that Perplexity's agentic shopping bot is a terrible customer",
-      "description": "Perplexity likens Amazon's legal threat to an attempt to ban access to ... wrenches?\nAmazon.com has sent a cease and desist letter to Perplexity in which it insists the AI company prevent its Comet browser from making automated purchases on behalf of users.…",
-      "url": "https://www.theregister.com/2025/11/05/amazon_perplexity_comet_legal_threat/",
-      "urlToImage": "https://regmedia.co.uk/2022/03/03/stop_shutterstock.jpg",
-      "publishedAt": "2025-11-05T01:56:36Z",
-      "content": "Amazon.com has sent a cease and desist letter to Perplexity in which it insists the AI company prevent its Comet browser from making automated purchases on behalf of users.\r\nComet, like OpenAI's Atla… [+5965 chars]"
     }
   ]
 }
