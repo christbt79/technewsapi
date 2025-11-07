@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-07T14:39:46.387Z",
+  "fetchedAt": "2025-11-07T15:09:37.331Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Matthew Miller",
+      "title": "Own a Google Pixel Watch? 7 hidden features you should take advantage of (and where to find them)",
+      "description": "With the Pixel Watch 4, Google truly hit it out of the park with advanced functions and features, and some of them also work with older models.",
+      "url": "https://www.zdnet.com/article/own-a-google-pixel-watch-7-hidden-features-you-should-take-advantage-of-and-where-to-find-them/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c915cb9075fea1c26001a673ca36bf3f03b1c124/2025/08/19/0a87bfee-f7a0-4277-b711-825001a28da0/made-by-google-pixel-event-2025-photo-72.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T15:05:00Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li> The Google Pixel Watch 4 is the most intelligent smartwatch available today. </li><li> Som… [+7704 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Google deploys new Axion CPUs and seventh-gen Ironwood TPU — training and inferencing pods beat Nvidia GB300 and shape 'AI Hypercomputer' model",
+      "description": "Google Cloud has launched new Axion CPU and Ironwood TPU instances that combine Arm-based general-purpose computing with 7th-generation AI acceleration. Ironwood-based pods with up to 9,216 chips and 42.5 FP8 ExaFLOPS per pod vastly surpass Nvidia's GB300 sys…",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deploys-new-axion-cpus-and-seventh-gen-ironwood-tpu-training-and-inferencing-pods-beat-nvidia-gb300-and-shape-ai-hypercomputer-model",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8GWUesFx3NRtYMAVTkBmZD-1920-80.jpg",
+      "publishedAt": "2025-11-06T15:03:18Z",
+      "content": "Today, Google Cloud introduced new AI-oriented instances, powered by its own Axion CPUs and Ironwood TPUs. The new instances are aimed at both training and low-latency inference of large-scale AI mod… [+5322 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Maria Diaz",
+      "title": "Sick of constant Ring camera alerts? This new AI feature fixes that - here's how",
+      "description": "With Single Event Alerts, you'll get fewer motion notifications without missing anything important.",
+      "url": "https://www.zdnet.com/home-and-office/smart-home/sick-of-constant-ring-camera-alerts-this-new-ai-feature-fixes-that-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/2e38f89a86f00f806871f23bbacbc98fef02f2c5/2025/09/30/6c8cd9a3-b656-4a8e-a0f2-e202041ef742/dsc07809.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T15:00:26Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Ring adds new Single Event Alerts to its cameras.</li><li>AI groups motion alerts into one to c… [+2018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Snap stock surges 13% after announcing Perplexity AI deal, reporting strong revenue",
+      "description": "Perplexity will integrate its AI-powered search engine directly into the Snapchat app.",
+      "url": "https://www.cnbc.com/2025/11/06/snap-stock-perplexity-ai-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369240-1707163768900-gettyimages-1988193834-030a4023_mhv7caap.jpeg?v=1762438929&w=1920&h=1080",
+      "publishedAt": "2025-11-06T14:58:38Z",
+      "content": "Snap stock surged 13% on Thursday after announcing a $400 million deal with Perplexity AI and releasing its third-quarter financial results.\r\nThe company said that it will be integrating Perplexity's… [+895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Matthew Miller",
+      "title": "I tested the e-paper smartwatch that got the internet buzzing - and don't want to take it off",
+      "description": "Pebble is back with a $149 smartwatch that comes with key improvements, including a month-long battery life.",
+      "url": "https://www.zdnet.com/article/i-tested-the-e-paper-smartwatch-that-got-the-internet-buzzing-and-dont-want-to-take-it-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/868e85115be3c4fca8f21b764dbeaf95d6f076e4/2025/11/06/9716deff-39e6-4183-b007-39811320b184/pebble-2-duo6.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T14:56:55Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've got a bit of a history with the Pebble brand. In 2013, I backed its first watch on Kickstarter, and then a couple of years later, I purchas… [+4301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Duolingo stock plunges 27% on light guidance as company prioritizes user growth",
+      "description": "CEO and co-founder Luis von Ahn told CNBC that the company has shifted its investment strategy in recent months to focus on long-term initiatives.",
+      "url": "https://www.cnbc.com/2025/11/06/duolingo-duol-stock-q3-earnings-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108135535-1745426704383-gettyimages-2201667942-img_1547.jpeg?v=1762435862&w=1920&h=1080",
+      "publishedAt": "2025-11-06T14:45:59Z",
+      "content": "Duolingo's stock cratered 27% on lighter-than-expected guidance as the language learning platform zeroed in on user growth in lieu of near-term monetization.\r\n\"We have made a slight shift over the la… [+1944 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/e673c96459210dddbda5cc7efa2b4d71338687c8/2025/11/05/1c21dbce-7e89-42e8-b5fa-c59c39f99289/you-can-chat-with-google-maps-now-thanks-to-this-big-ai-upgrade-how-it-works.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T14:22:00Z",
       "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Maps. </li><li>You can use Talk … [+3546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "You can talk with Google Maps now, thanks to its big Gemini upgrade - how it works",
-      "description": "Google Maps just got four big AI-powered upgrades. Here's what's new.",
-      "url": "https://www.zdnet.com/article/you-can-talk-with-google-maps-now-thanks-to-its-big-gemini-upgrade-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/271a08ec8eecea036d0b8a5827ecf052934a5968/2025/08/28/304c8d20-cc76-4d9a-8801-5debf3433135/gemini.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T14:00:31Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Maps. </li><li>You can use Talk to Google… [+3545 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Attackers abuse Gemini AI to develop ‘Thinking Robot’ malware and data processing agent for spying purposes",
-      "description": "Meanwhile, others tried to social-engineer the chatbot itself\nNation-state goons and cybercrime rings are experimenting with Gemini to develop a \"Thinking Robot\" malware module that can rewrite its own code to avoid detection, and build an AI agent that track…",
-      "url": "https://www.theregister.com/2025/11/05/attackers_experiment_with_gemini_ai/",
-      "urlToImage": "https://regmedia.co.uk/2023/05/30/robot_shutterstock.jpg",
-      "publishedAt": "2025-11-05T14:00:11Z",
-      "content": "Nation-state goons and cybercrime rings are experimenting with Gemini to develop a \"Thinking Robot\" malware module that can rewrite its own code to avoid detection, and build an AI agent that tracks … [+4963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Fintech Ripple gets $40 billion valuation after $500 million funding",
-      "description": "Ripple has pushed into other lines of business including custody of crypto assets, prime brokerage and corporate treasury management.",
-      "url": "https://www.cnbc.com/2025/11/05/ripple-gets-40-billion-valuation-after-500-million-funding-round.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107359921-17054510202022-05-04t210615z_1923161091_rc2l0u9jvb4q_rtrmadp_0_milken-conference.jpeg?v=1705451051&w=1920&h=1080",
-      "publishedAt": "2025-11-05T14:00:05Z",
-      "content": "Digital assets and infrastructure company Ripple said Wednesday it has raised $500 million in funding, lifting its valuation to $40 billion.\r\nThe fundraise comes after a slew of acquisitions and as t… [+2038 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Google Maps bakes in Gemini to improve navigation and hands-free use",
-      "description": "Google is now baking Gemini into Maps to let users ask it questions while driving, improve navigation, and do more with the app.",
-      "url": "https://techcrunch.com/2025/11/05/google-maps-bakes-in-gemini-to-improve-navigation-and-hands-free-use/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Gemini-Maps.jpg?resize=1200,675",
-      "publishedAt": "2025-11-05T14:00:00Z",
-      "content": "Over the last year, Google has added multipleAI-powered features to Maps to improve discovery and enable users to ask questions about places. Now, the company is upgrading the app with Gemini to let … [+1842 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Xpeng to let other carmakers use its partly-autonomous driving system",
-      "description": "Chinese electric car company Xpeng said German automaker Volkswagen would be the first client for its new driver-assist system.",
-      "url": "https://www.cnbc.com/2025/11/05/xpeng-to-let-other-carmakers-use-its-partly-autonomous-driving-system.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221638-1762343991404-IMG_1047.jpg?v=1762344092&w=1920&h=1080",
-      "publishedAt": "2025-11-05T13:59:50Z",
-      "content": "Guangzhou, CHINA Chinese electric car company Xpeng announced Wednesday that by the first quarter of 2026, it will start rolling out a new driver-assist system for navigating narrow roads.\r\nXpeng cla… [+1425 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Adi Robertson",
-      "title": "Zohran Mamdani won because he knew when to be online — and when not to",
-      "description": "Zohran Mamdani owes his win as New York City mayor substantially to his internet presence. Mamdani - as numerous writers have outlined - is good on social video. He picked a message, stuck to it, and adapted that platform to snappy soundbites across multiple …",
-      "url": "https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244564626.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-05T13:21:16Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nZohran Mamdani won because he knew when to be online and when not to\r\nHe was credited for being popular on TikTok, but New Yorks new mayor spent his time on the … [+8109 chars]"
     }
   ]
 }
