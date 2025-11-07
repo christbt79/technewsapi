@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-07T13:02:32.726Z",
+  "fetchedAt": "2025-11-07T13:42:04.051Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Thousands of flights in danger of cancellation as FAA announces major cuts",
+      "description": "The government shutdown-spurred airport chaos is about to get a whole lot worse. The Federal Aviation Administration said Wednesday it will reduce flight volumes by 10 percent across 40 major airports in response, a move that could threaten 3,000 to 4,500 fli…",
+      "url": "https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244373803.jpg?quality=90&strip=all&crop=0%2C10.748678544076%2C100%2C78.502642911849&w=1200",
+      "publishedAt": "2025-11-06T13:41:19Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe agency announced 10 percent cuts across 40 airports in response to the prolonged government shutdown.\r\nThe agency announced 10 percent cuts across 40 airport… [+2962 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Lego’s first Star Trek set is a $400 Enterprise with Data, Picard, and Worf minifigures",
+      "description": "Lego’s Star Wars partnership helped the company endure financial uncertainty in the late ‘90s, but for the first time it’s announcing a collaboration with that other iconic space franchise. Lego’s first Star Trek set is a 3,600 piece replica of the USS Enterp…",
+      "url": "https://www.theverge.com/news/815337/lego-star-trek-uss-enterprise-ncc-1701-d-data-picard-riker-worf-minifigures",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/lego_startrek1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T13:41:15Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 3,600-piece set will be available starting on November 28th, 2025, and includes nine minifigures with accessories.\r\nThe 3,600-piece set will be available sta… [+3006 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Dean Seal",
+      "title": "Krispy Kreme Reshaping Distribution in Push for Profitability",
+      "description": "Krispy Kreme said it is retooling its distribution network to prioritize selling doughnuts through retailers like Walmart and Costco.",
+      "url": "https://www.wsj.com/business/earnings/krispy-kreme-reshaping-distribution-in-push-for-profitability-a98c93cb",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/unE2QIESuRyeOakyDvIB.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/eccafb507e8e844645c2b2bc5976a160",
+      "publishedAt": "2025-11-06T13:20:00Z",
+      "content": "Krispy Kreme said it is retooling its distribution network to prioritize selling doughnuts through retailers like Walmart and Costco. - Getty Images\r\nKrispy Kreme is retooling its distribution networ… [+2258 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Foursquare’s founder launches a new app that talks to you about your neighborhood",
+      "description": "After teasing its development last year, Foursquare co-founder Dennis Crowley has now launched BeeBot: an AI-powered social app for iPhones that talks to you about what’s happening nearby. In his blog announcement, Crowley says BeeBot behaves like a “personal…",
+      "url": "https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/BeeBot-app-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T13:15:35Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBeeBot is a social audio guide that feeds updates about people, places, and nearby events through your headphones.\r\nBeeBot is a social audio guide that feeds upd… [+3219 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Inception raises $50 million to build diffusion models for code and text | TechCrunch",
+      "description": "Diffusion models already power AI image generators, but Inception thinks they can be even more powerful applied in software development.",
+      "url": "https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/teamphoto.jpg?resize=1200,800",
+      "publishedAt": "2025-11-06T13:05:40Z",
+      "content": "With so much money flooding into AI startups, its a good time to be an AI researcher with an idea to test out. And if the idea is novel enough, it might be easier to get the resources you need as an … [+3027 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Tariffs in doubt, Musk's pay plan, shutdown flight reductions and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/11/06/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220607-1762184543368-gettyimages-2244245700-President_Trump_Spends_Weekend_At_Mar-A-Lago_Estate_In_Palm_Beach.jpeg?v=1762184572&w=1920&h=1080",
+      "publishedAt": "2025-11-06T13:03:31Z",
+      "content": "U.S. President Donald Trump speaks to reporters aboard Air Force One en route to the White House on November 2, 2025 after taking off from Palm Beach International Airport in West Palm Beach, Florida… [+5481 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221403-1762290573096-gettyimages-1796495560-026a0914.jpeg?v=1762290590&w=1920&h=1080",
       "publishedAt": "2025-11-05T12:15:01Z",
       "content": "[CK bullet with numbers.]\r\nThe stock market's impressive run in recent years may be fattening your portfolio, but it also might have thrown your intended investment mix off balance.\r\nWhile artificial… [+3980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Snowflake goes all out to woo PostgreSQL developers with lakehouse extensions",
-      "description": "Buyers still struggling to differentiate data platforms in era of AI\nCloud data platform vendor Snowflake has made its set of PostgreSQL extensions open source in a bid to help developers and data engineers integrate the popular open source database with its …",
-      "url": "https://www.theregister.com/2025/11/05/snowflake_postgresql_push/",
-      "urlToImage": "https://regmedia.co.uk/2023/11/16/shutterstock_lakehouse.jpg",
-      "publishedAt": "2025-11-05T12:13:52Z",
-      "content": "Cloud data platform vendor Snowflake has made its set of PostgreSQL extensions open source in a bid to help developers and data engineers integrate the popular open source database with its lakehouse… [+3204 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "What to expect from Apple's 'cheap' MacBook in 2026 (and how it'll compete with Chromebooks)",
-      "description": "Apple could be developing a new, lightweight MacBook with the iPhone's A18 Pro chipset, and at a price that's sure to turn heads.",
-      "url": "https://www.zdnet.com/article/what-to-expect-from-apples-cheap-macbook-in-2026-and-how-itll-compete-with-chromebooks/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/49e6afb3d9e1b8314f3ae470affda931b75e9ef3/2024/03/04/1bbf5bb9-bde9-49c2-81b9-9a59d5e487ca/dsc09973-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T12:01:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Apple could be developing a new budget-friendly MacBook for around $599. </li><li>It would repor… [+4971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Quantum diamond scanner delivers non-invasive 3D imaging of semiconductors — EuQlid Qu-MRI could ‘save chip foundries billions of dollars’",
-      "description": "EuQlid reveals a breakthrough diamond-based quantum sensing device for the non-invasive 3D imaging of semiconductors.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/quantum-diamond-scanner-delivers-non-invasive-3d-imaging-of-semiconductors-euqlid-qu-mri-could-save-chip-foundries-billions-of-dollars",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Xap7CKA2wJCTLcfRQ7sBH5-1920-80.jpg",
-      "publishedAt": "2025-11-05T12:00:30Z",
-      "content": "A startup founded by an array of experts from Harvard, Yale, University of Maryland, Cadence, and Texas Instruments has come out of stealth to present a breakthrough device for the non-invasive, non-… [+3579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Wealthy investors expected to drive $32 trillion alternatives boom",
-      "description": "A recovery in IPOs and mergers, falling interest rates and the AI boom will all drive a new growth cycle in private markets, according to Preqin.",
-      "url": "https://www.cnbc.com/2025/11/05/wealthy-investors-expected-to-drive-32-trillion-alternatives-boom.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167050-1751468727041-gettyimages-1179383528-dsc_9931.jpeg?v=1759438506&w=1920&h=1080",
-      "publishedAt": "2025-11-05T12:00:01Z",
-      "content": "A version of this article appeared in CNBC's Inside Alts newsletter, a guide to the fast-growing world of alternative investments, from private equity and private credit to hedge funds and venture ca… [+2393 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Armis raises $435 million, valuing cybersecurity startup at $6.1 billion",
-      "description": "The cybersecurity startup reaches a $6.1 billion valuation three months after topping $300 million in annual recurring revenues.",
-      "url": "https://www.cnbc.com/2025/11/05/armis-raises-435-million-at-6point1-billion-valuation.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221499-1762299035845-Founders_1_credit_Armis_2.jpg?v=1762304436&w=1920&h=1080",
-      "publishedAt": "2025-11-05T12:00:01Z",
-      "content": "Cybersecurity startup Armis has raised $435 million in a funding round that values the company at $6.1 billion.\r\n\"The need for what Armis is doing and what we are building, in this cyber exposure man… [+1797 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "You're not using these 15+ Google Docs hacks to supercharge your workflow (and they're free)",
-      "description": "From editable PDFs to instant translations, Google Docs is packed with features most people never use.",
-      "url": "https://www.zdnet.com/article/youre-not-using-these-15-google-docs-hacks-to-supercharge-your-workflow-and-theyre-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/328bedcf7c590dfe2085d9b7c28b25f76c34ab0a/2025/08/08/0d84e69d-8a03-41f3-87e2-01a9802c6f20/dsc03833.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T11:58:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
     }
   ]
 }
