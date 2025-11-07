@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-07T21:31:20.804Z",
+  "fetchedAt": "2025-11-07T22:08:46.409Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "One of the best Apple Watches you can buy isn't Apple's newest (but it's 30% off)",
+      "description": "The Apple Watch Series 10 might be last year's model, but its specs prove it's basically as capable as the Series 11. The main difference? It's $120 off.",
+      "url": "https://www.zdnet.com/article/one-of-the-best-apple-watches-you-can-buy-isnt-apples-newest-but-its-30-off/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ae80cbf16f296a407d51b4b350c98f9c696aaf6c/2025/04/08/914c31ab-92da-4041-b0ec-5606be5a94b6/img-20250408-153422.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T22:00:17Z",
+      "content": "Prakhar Khanna/ZDNET\r\n Follow ZDNET: Add us as a preferred source on Google.\r\nBack in September, Apple unveiled a new base model Series 11, the affordable SE 3, and a luxurious and rugged Ultra 3. Wh… [+4073 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "Laude Institute announces first batch of 'Slingshots' AI grants | TechCrunch",
+      "description": "Slingshots AI grants provide resources that would be unavailable in most academic settings. Its debut program has 15 startups focused on AI evaluation.",
+      "url": "https://techcrunch.com/2025/11/06/laude-institute-announces-first-batch-of-slingshots-ai-grants/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Laude-Slingshots-One.jpeg?resize=1200,800",
+      "publishedAt": "2025-11-06T21:56:28Z",
+      "content": "On Thursday, the Laude Institute announced its first batch of Slingshots grants, aimed at “advancing the science and practice of artificial intelligence.”\r\nDesigned as an accelerator for researchers,… [+1461 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Tesla shareholders approve Elon Musk’s $1 trillion pay package",
+      "description": "Tesla shareholders voted Thursday to approve Elon Musk’s staggering new pay package, in a move aimed at retaining the controversial CEO’s leadership during a time of great upheaval for the automaker. Over 75 percent of shares voted in favor of the proposal. T…",
+      "url": "https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25489960/STK022_ELON_MUSK_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2025-11-06T21:55:13Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nMusks extensive holdings, plus his loyal fan base, meant the vote was never really in doubt.\r\nMusks extensive holdings, plus his loyal fan base, meant the vote w… [+5624 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Peloton posts bullish holiday forecast, betting that shoppers will spend big on new product lineup",
+      "description": "Peloton beat Wall Street's expectations on the top and bottom lines and issued strong holiday guidance.",
+      "url": "https://www.cnbc.com/2025/11/06/peloton-pton-earnings-q1-2026.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055225-1730321492176-gettyimages-2167023468-PELOTON_EARNS.jpeg?v=1754418885&w=1920&h=1080",
+      "publishedAt": "2025-11-06T21:33:48Z",
+      "content": "Peloton on Thursday posted its second profitable quarter in a row as it released strong guidance for the crucial holiday shopping season, banking on its relaunched product assortment to drive growth.… [+3491 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/106323257-1578348709556img_0733.jpg?v=1691583728&w=1920&h=1080",
       "publishedAt": "2025-11-06T00:02:36Z",
       "content": "In a Wednesday interview with CNBC's Jim Cramer,Axon Enterprise CEO Rick Smith explained his company's recent acquisitions, describing how their artificial intelligence technology can modernize emerg… [+1434 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to open higher, tracking Wall Street gains as AI stocks rebound",
-      "description": "Investors in the region are looking to Chinese autonomous vehicle firms WeRide and Pony.ai's listing debut in Hong Kong later in the day.",
-      "url": "https://www.cnbc.com/2025/11/06/asia-pacific-markets-ponyai-debut-hong-kong-weride-ai-stocks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108124592-1743552142395-gettyimages-923813414-hkk_16_dsc04381.jpeg?v=1762385932&w=1920&h=1080",
-      "publishedAt": "2025-11-05T23:58:45Z",
-      "content": "Asia-Pacific markets were set to open higher Thursday, tracking Wall Street gains after AMD's third-quarter earnings beat lifted artificial intelligence stocks.\r\nInvestors in the region are looking t… [+1225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Perplexity shows how to run monster AI models more efficiently on aging GPUs, AWS networks",
-      "description": "Some clever networking hacks open the door AI search provider Perplexity's research wing has developed a new set of software optimizations that allows for trillion parameter or large models to run efficiently across older, cheaper hardware using a variety of …",
-      "url": "https://www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/",
-      "urlToImage": "https://regmedia.co.uk/2025/08/05/perplexity_logo.jpg",
-      "publishedAt": "2025-11-05T23:47:37Z",
-      "content": "AI search provider Perplexity's research wing has developed a new set of software optimizations that allows for trillion parameter or large models to run efficiently across older, cheaper hardware us… [+6278 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Liz Napolitano",
-      "title": "Stock market today: Live updates",
-      "description": "Stock futures were little changed on Wednesday as investors' jitters over AI stock valuations improved.",
-      "url": "https://www.cnbc.com/2025/11/05/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221787-1762358980071-Traders-Photo-20251104-KK-PRESS-005.jpg?v=1762359116&w=1920&h=1080",
-      "publishedAt": "2025-11-05T23:26:06Z",
-      "content": "Stock futures were little changed on Wednesday evening as investors grew less wary of eye-watering AI valuations and were encouraged by the tone of a Supreme Court hearing on President Donald Trump's… [+1683 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "Waze vs. Google Maps: I compared two of the top navigation apps, and this one easily wins",
-      "description": "The Waze vs. Google Maps debate has raged for years. Here's my verdict after testing both.",
-      "url": "https://www.zdnet.com/article/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-one-easily-wins/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9e3b0b4bd4984edd33614733fbd0099188f369db/2025/11/05/cd42c069-4cee-4cc8-a594-ca484ecfceb3/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-this-one-easily-wins.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T22:26:00Z",
-      "content": "Waze definitely has a personality, thanks to its colorful, cartoony design packed with big icons and bold, in-your-face alerts. It's also got a playful side when it comes to customization. You can st… [+1557 chars]"
     }
   ]
 }
