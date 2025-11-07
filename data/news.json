@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T09:37:31.191Z",
+  "fetchedAt": "2025-11-07T10:11:17.837Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Tinder’s AI can find better matches by scanning your camera roll",
+      "description": "Tinder is testing an AI-powered “Chemistry” feature that learns about your interests and personality by analyzing your camera roll. In its latest earnings report, the dating app’s parent company, Match Group, described it as an interactive matching feature th…",
+      "url": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK143_Tinder_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T10:03:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe dating app is testing a new feature that gets to know users by analyzing their photos.\r\nThe dating app is testing a new feature that gets to know users by an… [+2123 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/moengage-ceo_b0228f.jpg?resize=1200,800",
       "publishedAt": "2025-11-05T05:23:02Z",
       "content": "MoEngage, a customer engagement platform that works with consumer brands across 75 countries, says it has raised new funding led by its existing investor, Goldman Sachs Alternatives, to ramp up globa… [+5174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Supermicro admits building AI infrastructure is a tricky, low-margin business ... for now",
-      "description": "Can’t rule out more revenue wobbles given the complexity of big projects\nServer-maker and designer Supermicro has promised to improve performance, after missing its guided revenue and revealing its margins aren’t strong.…",
-      "url": "https://www.theregister.com/2025/11/05/supermicro_q1_2026/",
-      "urlToImage": "https://regmedia.co.uk/2024/10/08/shutterstock_2428612287.jpg",
-      "publishedAt": "2025-11-05T05:12:40Z",
-      "content": "Server-maker and designer Supermicro has promised to improve performance, after missing its guided revenue and revealing its margins arent strong.\r\nInvestors already knew Supermicro wasnt going to po… [+4161 chars]"
     }
   ]
 }
