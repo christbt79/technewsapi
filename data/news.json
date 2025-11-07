@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T17:08:19.673Z",
+  "fetchedAt": "2025-11-07T17:37:24.306Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Microsoft forms superintelligence team under AI chief Suleyman 'to serve humanity'",
+      "description": "The MAI Superintelligence Team will pursue research for improving artificial intelligence companions, diagnosing diseases and generating renewable energy.",
+      "url": "https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1762449041&w=1920&h=1080",
+      "publishedAt": "2025-11-06T17:33:00Z",
+      "content": "Microsoft on Thursday said it's forming a team that will be tasked with performing advanced artificial intelligence research.\r\nMustafa Suleyman, CEO of the Microsoft AI group that includes Bing and t… [+2308 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/df2d1424d303803ef502141b0936509653935e7c/2025/11/05/b8d6a54a-5148-4fd1-934c-bab964d54211/dunes.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T18:01:18Z",
       "content": "Sandbar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Sandbar's Stream Ring is a wearable note-taker. </li><li>It works like a microphone around your f… [+2670 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Courtney Reagan",
-      "title": "Amazon raising prices by more than Target, Walmart to meet tariffs",
-      "description": "Prices on Amazon, Walmart and Target have all increased this year as retailers grapple with higher costs due to tariffs.",
-      "url": "https://www.cnbc.com/2025/11/05/amazon-target-walmart-raising-prices-tariffs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432900-1719326479522-gettyimages-1670311540-20090101230917-99-222737.jpeg?v=1726690019&w=1920&h=1080",
-      "publishedAt": "2025-11-05T17:43:37Z",
-      "content": "Tariffs imposed by the Trump administration have given the country's retailers another cost to manage during a period of persistent inflation.\r\nWhile many are navigating the change with limited price… [+6941 chars]"
     }
   ]
 }
