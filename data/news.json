@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T10:41:07.409Z",
+  "fetchedAt": "2025-11-07T11:07:54.339Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "Letting AI manage your money could be an actual gamble, warn researchers",
+      "description": "Recent research suggests AI itself could develop a gambling problem with money akin to those seen in humans. But it's easier to remedy.",
+      "url": "https://www.zdnet.com/article/letting-ai-manage-your-money-could-be-an-actual-gamble-warn-researchers/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0901ceb82759b82c91743be2324a8182236ec89b/2025/11/05/f03957c2-153d-4735-bfe6-0c66c6be5105/gettyimages-980627922.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T11:00:44Z",
+      "content": "Martin POKORNY/500px via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Study suggests AI can adopt gambling \"addiction.\"</li><li>Autonomous models are t… [+4458 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108218941-17617678122025-10-29t195543z_1285056144_rc2tlhaewcmw_rtrmadp_0_usa-stocks.jpeg?v=1761767876&w=1920&h=1080",
       "publishedAt": "2025-11-05T06:21:04Z",
       "content": "LONDON European stocks are expected to open lower, mirroring global declines as concerns grow over sky-high tech valuations.\r\nThe U.K.'s FTSE index is seen opening 0.27% lower, Germany's DAX down 0.6… [+1231 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Goldman Sachs doubles down on MoEngage in new round to fuel global expansion | TechCrunch",
-      "description": "MoEngage already has customers across 75 countries, with North America being its biggest business driver.",
-      "url": "https://techcrunch.com/2025/11/04/goldman-sachs-doubles-down-on-moengage-in-100m-round-to-fuel-global-expansion/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/moengage-ceo_b0228f.jpg?resize=1200,800",
-      "publishedAt": "2025-11-05T05:23:02Z",
-      "content": "MoEngage, a customer engagement platform that works with consumer brands across 75 countries, says it has raised new funding led by its existing investor, Goldman Sachs Alternatives, to ramp up globa… [+5174 chars]"
     }
   ]
 }
