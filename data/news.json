@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-07T15:09:37.331Z",
+  "fetchedAt": "2025-11-07T15:38:33.457Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up",
+      "description": "The Chinese AI startup on Thursday released its newest \"Kimi K2 Thinking\" artificial intelligence model.",
+      "url": "https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222223-1762426471475-gettyimages-2224592709-TFSPI_15072025-8797.jpeg?v=1762426515&w=1920&h=1080",
+      "publishedAt": "2025-11-06T15:38:09Z",
+      "content": "Chinese startup Moonshot on Thursday released its latest generative artificial intelligence model which claims to beat OpenAI's ChatGPT in \"agentic\" capabilities or understanding what a user wants wi… [+1239 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Vibe coding named Word of the Year. Developers everywhere faceplant",
+      "description": "It's not a bug, it's a feeling\nVibe coding has broken free of tech circles to claim Collins Dictionary's Word of the Year 2025 — a choice that may prompt developers to ask: what could possibly go wrong?…",
+      "url": "https://www.theregister.com/2025/11/06/vibe_coding_escape_the_clutches/",
+      "urlToImage": "https://regmedia.co.uk/2024/09/02/shutterstock_frustrated_software_developer.jpg",
+      "publishedAt": "2025-11-06T15:34:52Z",
+      "content": "Vibe coding has broken free of tech circles to claim Collins Dictionary's Word of the Year 2025 a choice that may prompt developers to ask: what could possibly go wrong?\r\nTechnically two words yes we… [+1866 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "How AI is fueling an existential crisis in education",
+      "description": "Here on Decoder, we’ve talked a lot about generative AI, which is a very big idea that is causing quite a few problems. One thing we keep hearing about over and over again is that generative AI is causing a lot of problems in schools. A lot of people out ther…",
+      "url": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DCD_AI_education.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T15:28:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHow AI is fueling an existential crisis in education\r\nThe system is broken. ChatGPT cheating is just a symptom.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from th… [+3994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I turned this Windows mini PC into a Linux workstation and don't regret it - here's how",
+      "description": "If it's time to replace your old Windows 10 PC, this compact powerhouse from Minix delivers more than enough performance.",
+      "url": "https://www.zdnet.com/article/i-turned-this-windows-mini-pc-into-a-linux-workstation-and-dont-regret-it-heres-how/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d457d304337c8fd043781edf595e5db6e63c924e/2025/11/05/3bbff322-a64e-4a9c-ada0-24a164b79a47/minixback.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T15:23:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf AI is your thing (especially local AI), then you know: a lot of power is required. I've used local AI (by way of Ollama) on my System76 Theli… [+5150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Why the smart ring I'm most fascinated about in 2025 isn't made by Oura - this one's truly unique",
+      "description": "Here's what Sandbar's Stream Ring can do (and how to get your hands on one).",
+      "url": "https://www.zdnet.com/article/why-the-smart-ring-im-most-fascinated-about-in-2025-isnt-made-by-oura-this-ones-truly-unique/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/eb1be49043b8e2f9e9acdaab34219be42a0be905/2025/11/05/19a3207c-d46a-4a15-8bb6-6aa49cfd22a2/office2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T15:17:00Z",
+      "content": "Sandbar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Sandbar's Stream Ring is a wearable note-taker. </li><li>It works like a microphone around your f… [+2670 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Hayden Field",
+      "title": "Chaos and lies: Why Sam Altman was booted from OpenAI, according to new testimony",
+      "description": "\"What did Ilya see?\" Two years ago, it was the meme seen 'round the world (or at least 'round the tech industry). OpenAI CEO Sam Altman had been briefly ousted in November 2023 by members of the company's board of directors, including his longtime collaborato…",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T15:13:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOpenAI cofounder Ilya Sutskever was deposed by Elon Musks lawyers.\r\nOpenAI cofounder Ilya Sutskever was deposed by Elon Musks lawyers.\r\nby\r\nHayden FieldClose\r\nHa… [+11031 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-160000854-2.jpg?resize=1200,800",
       "publishedAt": "2025-11-05T15:17:30Z",
       "content": "When Nvidia announced its Rubin series of GPUs in March, it also dropped a bomb: racks built with the Ultra version of the chip, which is expected to be released in 2027, could draw up to 600 kilowat… [+3433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Neuralink implant patient gets 'second pair of eyes' thanks to motorized AI webcam — Insta360 Link 2 connected to MacBook gives father with ALS new lease on life",
-      "description": "A new documentary shows ALS and Neuralink implant patient Brad Smith expanding his family connection with a motorized AI webcam.",
-      "url": "https://www.tomshardware.com/peripherals/webcams/neuralink-implant-patient-gets-second-pair-of-eyes-thanks-to-motorized-ai-webcam-insta360-link-2-connected-to-macbook-gives-father-with-als-new-lease-on-life",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8gzZPq8W4SjZBKCmgb3mbK-1920-80.jpg",
-      "publishedAt": "2025-11-05T15:05:34Z",
-      "content": "A new documentary featuring ALS patient Brad Smith has been published today. You may already know of Smith, as he was featured by Tom’s Hardware back in May after successfully using the Neuralink bra… [+3123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Acronis",
-      "title": "How IT professionals can thrive — not just survive — in the age of AI",
-      "description": "Want to be a hot commodity in an AI economy? Get smart and get certified Partner Content  AI probably won't take your job if you work in IT. The key word there, of course, is \"probably.\" In few other fields is the panic about AI as pronounced as it is among I…",
-      "url": "https://www.theregister.com/2025/11/05/how_it_professionals_can/",
-      "urlToImage": "https://regmedia.co.uk/2023/11/03/laptop_shutterstock.jpg",
-      "publishedAt": "2025-11-05T15:00:10Z",
-      "content": "Partner Content AI probably won't take your job if you work in IT. The key word there, of course, is \"probably.\" In few other fields is the panic about AI as pronounced as it is among IT professional… [+4815 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Artie Beaty",
-      "title": "You can buy retail gift cards on Google Play now - here's how",
-      "description": "Google quietly added a hidden gift card shop inside the Play Store. Here's how to find it.",
-      "url": "https://www.zdnet.com/article/you-can-buy-retail-gift-cards-on-google-play-now-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6abb26ab9dc8096c6d97e8696f760d8f6bc06fca/2025/11/05/6e8b7415-3d78-46e6-874e-2b56b386db82/you-can-buy-retail-gift-cards-on-google-play-now-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T14:54:27Z",
-      "content": "Artie Beaty / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The Google Play Store now sells digital gift cards.</li><li>Cards are… [+2451 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "xAI used employee biometric data to train Elon Musk’s AI girlfriend",
-      "description": "Elon Musk’s AI company compelled its employees submit their own biometric data to train its “Ani” female chatbot, according to The Wall Street Journal. Ani, an anime avatar with blond pigtails and an NSFW setting, was released over the summer for users who su…",
-      "url": "https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/IMG_7432_ab2997.jpg?quality=90&strip=all&crop=0%2C10.878958329278%2C100%2C78.242083341443&w=1200",
-      "publishedAt": "2025-11-05T14:43:02Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nEmployees were told the use of their data was a job requirement\r\nEmployees were told the use of their data was a job requirement\r\nby\r\nAndrew J. HawkinsClose\r\nAnd… [+2679 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ram Iyer",
-      "title": "SoftBank, OpenAI launch new joint venture in Japan as AI deals grow ever more circular | TechCrunch",
-      "description": "SoftBank's joint venture with OpenAI that will localize and sell the AI company's enterprise tech to companies in Japan. And the first customer of this joint venture is going to be SoftBank itself.",
-      "url": "https://techcrunch.com/2025/11/05/softbank-openai-launch-new-joint-venture-in-japan-as-ai-deals-grow-ever-more-circular/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1575097396.jpg?resize=1200,675",
-      "publishedAt": "2025-11-05T14:24:18Z",
-      "content": "If you look at how AI deals are conducted these days, it seems AI companies and their investors are imitating the circle of life. Only, it’s a circle of profit that ensures the money eventually comes… [+2091 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "You can chat with Google Maps now, thanks to this big AI upgrade - how it works",
-      "description": "Google Maps just got four big Gemini-powered upgrades. Here's what's new.",
-      "url": "https://www.zdnet.com/article/you-can-chat-with-google-maps-now-thanks-to-this-big-ai-upgrade-how-it-works/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e673c96459210dddbda5cc7efa2b4d71338687c8/2025/11/05/1c21dbce-7e89-42e8-b5fa-c59c39f99289/you-can-chat-with-google-maps-now-thanks-to-this-big-ai-upgrade-how-it-works.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T14:22:00Z",
-      "content": "Google / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Maps. </li><li>You can use Talk … [+3546 chars]"
     }
   ]
 }
