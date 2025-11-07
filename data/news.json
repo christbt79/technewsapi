@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-07T02:23:56.638Z",
+  "fetchedAt": "2025-11-07T03:29:20.558Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Mark Samuels",
+      "title": "Anxious about AI job cuts? How white-collar workers can protect themselves - starting now",
+      "description": "Want to avoid being a victim in the great AI job transformation? Be a pathfinder instead. Here's how.",
+      "url": "https://www.zdnet.com/article/anxious-about-ai-job-cuts-how-white-collar-workers-can-protect-themselves-starting-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6c5801a2cb00fb3f9a8c88e37bd42e6fd7b6c67e/2025/11/05/cbce01eb-7828-40b9-96a2-676b03975557/gettyimages-2188156174.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T03:00:49Z",
+      "content": "Just_Super/E+ via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Job cuts suggest professional work is changing in the AI era. </li><li>Modern companies … [+8792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "One critical feature makes these wireless earbuds worthy of your attention",
+      "description": "If you need a pair of earbuds with fantastic microphones, the OpenRock Link 20 open-air earbuds are some of the best I've tested.",
+      "url": "https://www.zdnet.com/article/one-critical-feature-makes-these-wireless-earbuds-worthy-of-your-attention/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T02:51:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5448 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Gemini-in-navigation.png?quality=90&strip=all&crop=0%2C17.46344436393%2C100%2C65.073111272141&w=1200",
       "publishedAt": "2025-11-05T01:13:10Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nUsers can now have conversations about their route or surrounding landmarks with Gemini while using Google Maps.\r\nUsers can now have conversations about their ro… [+5324 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "SoftBank shares plunge 10% as Asian AI-linked stocks slide on valuation jitters",
-      "description": "Asia-linked AI shares slipped on Wednesday after U.S. counterparts such as Palantir retreated, with investors turning wary over stretched valuations.",
-      "url": "https://www.cnbc.com/2025/11/05/softbank-ai-stocks-slide-on-valuation-jitters-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108160168-1750129390391-gettyimages-459266531-Hkg9308749.jpeg?v=1750129410&w=1920&h=1080",
-      "publishedAt": "2025-11-05T00:34:41Z",
-      "content": "Shares of Asian AI-linked companies fell Wednesday, tracking declines in U.S. peers, as investors turned wary of stretched valuations in the market's most crowded trades.\r\nShares of SoftBank fell 10%… [+301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Fossil fuel leaders herald the energy addition era: 'Music to my ears'",
-      "description": "\"I think we are transitioning from the energy transition,\" the CEO of the American Petroleum Institute lobby group told CNBC.",
-      "url": "https://www.cnbc.com/2025/11/05/adipec-oil-summit-fossil-fuel-leaders-embrace-the-energy-addition-era.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221081-1762260918138-gettyimages-2244357858-AFP_82VE6ZR.jpeg?v=1762260962&w=1920&h=1080",
-      "publishedAt": "2025-11-05T00:23:04Z",
-      "content": "Guests look at a model of the largest data center in the UAE under construction in Abu Dhabi as the Stargate initiative, a joint venture between G42, Microsoft, and OpenAI, during the Abu Dhabi Inter… [+5122 chars]"
     }
   ]
 }
