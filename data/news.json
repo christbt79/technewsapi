@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-07T19:31:19.668Z",
+  "fetchedAt": "2025-11-07T20:10:16.566Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts",
+      "description": "AI agents can buy and sell on our behalf. Here's why that should worry us.",
+      "url": "https://www.zdnet.com/article/microsoft-researchers-tried-to-manipulate-ai-agents-and-only-one-resisted-all-attempts/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/d3b21dcc6177075deac3256b0fd4c6c8712bd2b6/2025/11/06/8bcdd2cd-6612-439f-b880-bb4e8a9c8a02/gettyimages-172663146.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T20:01:25Z",
+      "content": "danleap/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft studied interactions between AI customers and vendor… [+7600 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Sora for Android saw nearly half a million installs on its first day",
+      "description": "Sora's Android launch is off to an auspicious start, new data shows.",
+      "url": "https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+      "publishedAt": "2025-11-06T19:48:39Z",
+      "content": "Sora’s Android launch is off to an auspicious start. On its first day on the Google Play Store, the AI video app from ChatGPT maker OpenAI saw an estimated 470,000 downloads across the markets where … [+1920 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Senators call on Trump to continue banning Nvidia from selling its best chips in China",
+      "description": "A group of senators is urging President Donald Trump to preserve the US’s edge in AI development by denying China access to its most advanced chips and models. The bipartisan resolution, submitted by Sens. Chris Coons (D-DE) and Tom Cotton (R-AR), comes just …",
+      "url": "https://www.theverge.com/news/815806/senate-resolution-trump-us-ai-technology-china",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-06T19:46:04Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA bipartisan resolution urges President Trump to safeguard American AI technology.\r\nA bipartisan resolution urges President Trump to safeguard American AI techno… [+3595 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "Google Maps vs. Waze: I compared two of the best navigation apps, and here's who wins",
+      "description": "The Waze vs. Google Maps debate has raged for years. Here's my verdict after testing both.",
+      "url": "https://www.zdnet.com/article/google-maps-vs-waze-i-compared-two-of-the-best-navigation-apps-and-heres-who-wins/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9e3b0b4bd4984edd33614733fbd0099188f369db/2025/11/05/cd42c069-4cee-4cc8-a594-ca484ecfceb3/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-this-one-easily-wins.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T19:45:00Z",
+      "content": "Waze definitely has a personality, thanks to its colorful, cartoony design packed with big icons and bold, in-your-face alerts. It's also got a playful side when it comes to customization. You can st… [+1557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "OpenAI CFO says can keep afloat without federal bailout",
+      "description": "Money-losing biz says it does not need government help to meet massive infrastructure commitments OpenAI CFO Sarah Friar says that her company is not seeking federal loan guarantees after suggesting the opposite in an on-stage interview at a Wall Street Journ…",
+      "url": "https://www.theregister.com/2025/11/06/openai_cfo_walks_back_remarks/",
+      "urlToImage": "https://regmedia.co.uk/2025/08/05/openai.jpg",
+      "publishedAt": "2025-11-06T19:43:00Z",
+      "content": "OpenAI CFO Sarah Friar says that her company is not seeking federal loan guarantees after suggesting the opposite in an on-stage interview at a Wall Street Journal event.\r\nSpeaking at the WSJ's Tech … [+3772 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107822-1740590136208-gettyimages-2171838292-2024_DREAMFORCE_CONFERENCE.jpeg?v=1762375999&w=1920&h=1080",
       "publishedAt": "2025-11-05T21:05:01Z",
       "content": "HubSpot announced on Wednesday that Clara Shih, Meta's head of business AI, has been added to the software company's Board of Directors.\r\nShih joined Meta last year to lead its artificial intelligenc… [+1941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Joshua Keating",
-      "title": "How tariffs ate American foreign policy",
-      "description": "President Donald Trump has described the ongoing Supreme Court case over the legality of his use of emergency powers to impose tariffs on more than 100 countries as a matter of “literally, LIFE OR DEATH for our Country.” Certainly the case, in which oral argu…",
-      "url": "https://www.vox.com/politics/467530/trump-tariff-foreign-policy-supreme-court",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/04/gettyimages-2208184612.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-05T20:53:45Z",
-      "content": "President Donald Trump holds up a chart while speaking during a trade announcement event at the White House on April 2, 2025. | Chip Somodevilla/Getty Images\r\n\n\nPresident Donald Trump has described t… [+7490 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brandon Russell",
-      "title": "Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday",
-      "description": "If you’ve been holding off on getting a new laptop, now’s a great time to pick one up. Ahead of Black Friday, you can snag the base 13-inch M4-powered MacBook Air for $749.99 ($250 off) in multiple colors at Amazon. That’s the lowest price we’ve seen on Apple…",
-      "url": "https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/MacBook-Air-M4-deal.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-05T20:46:17Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest deal drops the price by $250.\r\nThe latest deal drops the price by $250.\r\nby\r\nBrandon RussellClose\r\nBrandon Russell\r\nPosts from this author will be add… [+2944 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Louise Matsakis",
-      "title": "The AI Data Center Boom Is Warping the US Economy",
-      "description": "Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI infrastructure is now a key driver of US economic growth.",
-      "url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/",
-      "urlToImage": "https://media.wired.com/photos/690928b72b2e4892c20c307e/191:100/w_1280,c_limit/Model-Behavior-AI-Infrastructure-Spending-Business.jpg",
-      "publishedAt": "2025-11-05T20:45:38Z",
-      "content": "The amount of capital pouring into AI data center projects is staggering. Last week, Microsoft, Alphabet, Meta, and Amazon reported their 2025 capital expenditures would total roughly $370 billion, a… [+2443 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Apple nears deal to pay Google $1B annually to power new Siri, report says",
-      "description": "Apple is turning to Google's technology to help revamp Siri and power a slate of upcoming features for the voice assistant.",
-      "url": "https://techcrunch.com/2025/11/05/apple-nears-deal-to-pay-google-1b-annually-to-power-new-siri-report-says/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-      "publishedAt": "2025-11-05T20:37:47Z",
-      "content": "Apple is nearing a deal with Google that would see the iPhone maker pay the tech giant roughly $1 billion a year for a custom version of Google’s Gemini AI model to power its overhaul of Siri, accord… [+951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "AT&T customers can still claim up to $7,500 from $177M data breach settlement - here's how",
-      "description": "A judge recently extended the deadline for AT&T's $177 million settlement. Here's how to claim your data breach payout before it's too late.",
-      "url": "https://www.zdnet.com/article/at-t-customers-can-still-claim-up-to-7500-from-177m-data-breach-settlement-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bfdffad1571a8e3afef6db7e0f7c412908f067f7/2025/09/24/85209c3f-4d4b-47fa-87c2-d081dae41a0a/iphone-17-pro-max-cameras.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T20:23:00Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AT&amp;T's $177 million settlement is for data breaches in 2019 and 2024.</li><li>… [+4087 chars]"
     }
   ]
 }
