@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-07T20:10:16.566Z",
+  "fetchedAt": "2025-11-07T20:35:40.234Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Amazon launches an AI-powered Kindle Translate service for ebook authors | TechCrunch",
+      "description": "Kindle Translate, an AI-powered translation service, is designed to broaden the reach of ebook authors.",
+      "url": "https://techcrunch.com/2025/11/06/amazon-launches-an-ai-powered-kindle-translate-service-for-ebook-authors/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/amazon-kindle-stock-image-GettyImages-1202535978.jpg?resize=1200,800",
+      "publishedAt": "2025-11-06T20:24:22Z",
+      "content": "Amazon announced on Thursday the launch of Kindle Translate, an AI-powered translation service designed for authors using Kindle Direct Publishing to broaden their reach. The service initially transl… [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Steven Vaughan-Nichols",
+      "title": "Why even a US tech giant is launching 'sovereign support' for Europe now",
+      "description": "Red Hat's new offering comes in response to a broader trend sweeping Europe.",
+      "url": "https://www.zdnet.com/article/why-even-a-us-tech-giant-is-launching-sovereign-support-for-europe-now/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/85aa7e76d2461704f21dea8a81ef6deea7bb99fc/2025/11/06/79011110-f8ae-4741-a9c1-6fb834660100/eukeyboard555gettyimages-467494410.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T20:23:35Z",
+      "content": "ArtemSam/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>There's a growing push for digital sovereignty in Europe.  </… [+4050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Can't wait for Spotify Wrapped? Now you get a weekly treat of listening stats",
+      "description": "Spotify's newest feature gives you a mini 'Wrapped' every single week - including a custom playlist. Try it now.",
+      "url": "https://www.zdnet.com/home-and-office/home-entertainment/cant-wait-for-spotify-wrapped-now-you-get-a-weekly-treat-of-listening-stats/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5ccb424075d2d69aad0a399cdf0e679c0e57d97b/2025/11/06/f076eea0-8a5a-4f0a-a38e-3ef3cbc5128c/spotifystatsscreenshot-2025-11-06-145401.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-06T20:19:18Z",
+      "content": "Anadolu/Contributor/Anadolu via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Spotify now offers a new weekly listening stats feature.</li><li>Th… [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Sam Altman says OpenAI will top $20 billion in annualized revenue this year, hundreds of billions by 2030",
+      "description": "OpenAI has inked more than $1.4 trillion of infrastructure deals, raising questions about how it will pay for those commitments.",
+      "url": "https://www.cnbc.com/2025/11/06/sam-altman-says-openai-will-top-20-billion-annual-revenue-this-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203057-17586652402025-09-23t214859z_181395313_rc2wxganf0ii_rtrmadp_0_tech-openai-texas.jpeg?v=1758900748&w=1920&h=1080",
+      "publishedAt": "2025-11-06T20:15:47Z",
+      "content": "OpenAI CEO Sam Altman said Thursday that the artificial intelligence startup is on track to generate more than $20 billion in annualized revenue run rate this year, with plans to grow to hundreds of … [+2548 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Sam Altman says he doesn't want the government to bail out OpenAI if it fails | TechCrunch",
+      "description": "Sam Altman says he doesn't want the government to bail out OpenAI if it fails | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/06/sam-altman-says-he-doesnt-want-the-government-to-bail-out-openai-if-it-fails/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Graveyard-with-dollar-signs.jpg?resize=1200,900",
+      "publishedAt": "2025-11-06T20:10:08Z",
+      "content": "OpenAI execs have been fielding plenty of questions about how they expect to pay for the $1.4 trillion worth of data center build-outs and usage commitments they’ve accrued this year, given that thei… [+4227 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/Screen-Shot-2025-10-29-at-4.12.02-PM.jpg?resize=1200,676",
       "publishedAt": "2025-11-05T21:24:00Z",
       "content": "While Roy Lee, the founder of Cluely, argues that startups should be thinking harder about social media virality, he also admits that brand awareness alone wont lead to sustained growth.\r\nI can’t say… [+2754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Snap shares rocket 20% on strong forecast, $400 million Perplexity deal",
-      "description": "Snap on Wednesday issued its third-quarter earnings, reporting revenue that beat analysts expectations and a $500 million stock repurchase program.",
-      "url": "https://www.cnbc.com/2025/11/05/snap-q3-earnings-report-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108169683-1752081473114-untitled-656-3.jpg?v=1754423864&w=1920&h=1080",
-      "publishedAt": "2025-11-05T21:20:58Z",
-      "content": "Snap shares climbed more than 20% on Wednesday after the company issued its third-quarter earnings, reporting revenue that beat analysts expectations and a $500 million stock repurchase program.\r\nHer… [+4852 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Figma delivers strong forecast as AI draws in more customers",
-      "description": "People are signing up for Figma to use its Make tool for generating app designs with artificial intelligence, CEO Dylan Figma said.",
-      "url": "https://www.cnbc.com/2025/11/05/figma-fig-q3-earnings-report-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108193793-1756916915031-gettyimages-2227189910-FIGMA_IPO.jpeg?v=1762375030&w=1920&h=1080",
-      "publishedAt": "2025-11-05T21:14:55Z",
-      "content": "Design software maker Figma on Wednesday reported stronger-than-expected third-quarter revenue and quarterly revenue guidance. The stock moved 3% higher in extended trading.\r\nHere's how the company d… [+2307 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Sony rolls out a standard way to measure bias in how AI describes what it 'sees'",
-      "description": "Images in the test dataset were all sourced with consent\nAI models are filled to the brim with bias, whether that's showing you a certain race of person when you ask for a pic of a criminal or assuming that a woman can't possibly be involved in a particular c…",
-      "url": "https://www.theregister.com/2025/11/05/sony_ai_vision_model_benchmark/",
-      "urlToImage": "https://regmedia.co.uk/2024/05/21/discrimination_shutterstock.jpg",
-      "publishedAt": "2025-11-05T21:11:52Z",
-      "content": "AI models are filled to the brim with bias, whether that's showing you a certain race of person when you ask for a pic of a criminal or assuming that a woman can't possibly be involved in a particula… [+5507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Qualcomm reports earnings, revenue beat and issues strong forecast",
-      "description": "Qualcomm is trying to prove that it has a role in the artificial intelligence boom, which to date has been dominated by Nvidia.",
-      "url": "https://www.cnbc.com/2025/11/05/qualcomm-qcom-q4-2025-earnings-report.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217424-17615920782025-05-19t074654z_735119456_rc2vkea7nsnk_rtrmadp_0_taiwan-computex-qualcomm.jpeg?v=1761592149&w=1920&h=1080",
-      "publishedAt": "2025-11-05T21:06:14Z",
-      "content": "Qualcomm reported fiscal fourth-quarter results on Wednesday that beat analyst estimates on the top and bottom lines.\r\nHere's how the company did, compared with estimates from analysts polled by LSEG… [+1990 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "HubSpot adds Clara Shih, Meta's head of business AI, to board of directors",
-      "description": "HubSpot appointed Meta's head of business AI Clara Shih to its board of directors",
-      "url": "https://www.cnbc.com/2025/11/05/hubspot-adds-meta-executive-clara-shih-to-board-of-directors.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108107822-1740590136208-gettyimages-2171838292-2024_DREAMFORCE_CONFERENCE.jpeg?v=1762375999&w=1920&h=1080",
-      "publishedAt": "2025-11-05T21:05:01Z",
-      "content": "HubSpot announced on Wednesday that Clara Shih, Meta's head of business AI, has been added to the software company's Board of Directors.\r\nShih joined Meta last year to lead its artificial intelligenc… [+1941 chars]"
     }
   ]
 }
