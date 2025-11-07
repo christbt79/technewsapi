@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-06T23:32:43.379Z",
+  "fetchedAt": "2025-11-07T00:44:33.944Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Axon Enterprise CEO explains new acquisitions in emergency call space",
+      "description": "Axon Enterprise CEO Rick Smith said his company's recent acquisitions are helping to modernize emergency call services in an interview with CNBC's Jim Cramer.",
+      "url": "https://www.cnbc.com/2025/11/05/axon-enterprise-ceo-emergency-call-lines.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106323257-1578348709556img_0733.jpg?v=1691583728&w=1920&h=1080",
+      "publishedAt": "2025-11-06T00:02:36Z",
+      "content": "In a Wednesday interview with CNBC's Jim Cramer,Axon Enterprise CEO Rick Smith explained his company's recent acquisitions, describing how their artificial intelligence technology can modernize emerg… [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to open higher, tracking Wall Street gains as AI stocks rebound",
+      "description": "Investors in the region are looking to Chinese autonomous vehicle firms WeRide and Pony.ai's listing debut in Hong Kong later in the day.",
+      "url": "https://www.cnbc.com/2025/11/06/asia-pacific-markets-ponyai-debut-hong-kong-weride-ai-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108124592-1743552142395-gettyimages-923813414-hkk_16_dsc04381.jpeg?v=1762385932&w=1920&h=1080",
+      "publishedAt": "2025-11-05T23:58:45Z",
+      "content": "Asia-Pacific markets were set to open higher Thursday, tracking Wall Street gains after AMD's third-quarter earnings beat lifted artificial intelligence stocks.\r\nInvestors in the region are looking t… [+1225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Perplexity shows how to run monster AI models more efficiently on aging GPUs, AWS networks",
+      "description": "Some clever networking hacks open the door AI search provider Perplexity's research wing has developed a new set of software optimizations that allows for trillion parameter or large models to run efficiently across older, cheaper hardware using a variety of …",
+      "url": "https://www.theregister.com/2025/11/05/perplexity_1t_parameter_models_aws_efa/",
+      "urlToImage": "https://regmedia.co.uk/2025/08/05/perplexity_logo.jpg",
+      "publishedAt": "2025-11-05T23:47:37Z",
+      "content": "AI search provider Perplexity's research wing has developed a new set of software optimizations that allows for trillion parameter or large models to run efficiently across older, cheaper hardware us… [+6278 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2020/01/24/satellite_shutterstock.jpg",
       "publishedAt": "2025-11-04T22:40:58Z",
       "content": "Google on Tuesday announced a new moonshot launching constellations of solar-powered satellites packed to the gills with its home-grown tensor processing units (TPUs) to form orbital AI datacenters.\r… [+4481 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "People Inc forges AI licensing deal with Microsoft as Google traffic drops | TechCrunch",
-      "description": "People Inc forges AI licensing deal with Microsoft as Google traffic drops | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/04/people-inc-forges-ai-licensing-deal-with-microsoft-as-google-traffic-drops/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/09/Neil-Vogel.jpg?resize=1200,593",
-      "publishedAt": "2025-11-04T22:33:15Z",
-      "content": "People Inc., one of the largest media publishers in the U.S., has signed an AI licensing deal with Microsoft. The media giant (formerly known as Dotdash Meredith) made the announcement Tuesday as a p… [+2836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Super Micro stock drops on slumping sales, weak earnings",
-      "description": "Super Micro has been a big beneficiary of the AI boom, but revenue and earnings in the latest quarter fell short of estimates.",
-      "url": "https://www.cnbc.com/2025/11/04/super-micro-smci-q1-earnings-report-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055704-1730389067587-gettyimages-2155472473-TAIWAN_COMPUTEX.jpeg?v=1762293469&w=1920&h=1080",
-      "publishedAt": "2025-11-04T22:23:24Z",
-      "content": "Super Micro Computer shares plunged as much as 10% in extended trading on Tuesday after the server maker issued weaker-than-expected results for the fiscal first quarter.\r\nHere's how the company did … [+1282 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
-      "description": "DHS rule would expand biometric collection to immigrants and some citizens linked to them If you're filing an immigration form - or helping someone who is - the Feds may soon want to look in your eyes, swab your cheek, and scan your face. The US Department of…",
-      "url": "https://www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
-      "urlToImage": "https://regmedia.co.uk/2023/03/29/shutterstock_identity.jpg",
-      "publishedAt": "2025-11-04T22:20:16Z",
-      "content": "If you're filing an immigration form - or helping someone who is - the Feds may soon want to look in your eyes, swab your cheek, and scan your face. The US Department of Homeland Security wants to gr… [+4431 chars]"
     }
   ]
 }
