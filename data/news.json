@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-07T22:37:37.946Z",
+  "fetchedAt": "2025-11-07T23:08:32.722Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh",
+      "title": "Stock market today: Live updates",
+      "description": "Key artificial intelligence leaders lost steam on Thursday, weighing on the broader market.",
+      "url": "https://www.cnbc.com/2025/11/06/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222465-1762447734003-gettyimages-2244833921-EVOMMUNE_IPO.jpeg?v=1762447757&w=1920&h=1080",
+      "publishedAt": "2025-11-06T23:08:22Z",
+      "content": "Stock futures moved lower Friday after a pullback in the market's biggest technology names led to a losing session for U.S. equities and put the major averages on pace for a losing week.\r\nFutures tie… [+3349 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Microsoft will force its 'superintelligence' to be a 'humanist' and play nice with people",
+      "description": "Redmond's new AI boss is willing to sacrifice performance for the future of our species\nMicrosoft has joined the ranks of tech giants chasing superintelligent artificial intelligence, but the company's AI chief Mustafa Suleyman’s vision is markedly different …",
+      "url": "https://www.theregister.com/2025/11/06/microsoft_suleyman_humanist_superintelligence/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/06/shutterstock_balancing_ai_and_humanity.jpg",
+      "publishedAt": "2025-11-06T22:59:10Z",
+      "content": "Microsoft has joined the ranks of tech giants chasing superintelligent artificial intelligence, but the company's AI chief Mustafa Suleymans vision is markedly different from that articulated by othe… [+3361 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "Lost in AI translation",
+      "description": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest phones, smartwatches, apps, and other gizmos that swear they're going to change your life. Optimizer arrives in our subscr…",
+      "url": "https://www.theverge.com/column/815681/optimizer-ai-translation-google-translate-pocketalk-timekettle",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/translators3.jpg?quality=90&strip=all&crop=0%2C9.756192857701%2C100%2C80.487614284598&w=1200",
+      "publishedAt": "2025-11-06T22:56:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhen traveling, AI translators are still more cumbersome than the universal language of pointing fingers and Googling.\r\nby\r\nVictoria SongClose\r\nVictoria Song\r\nSe… [+10968 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382325/VRG_Illo_STK022_K_Radtke_Musk_Money.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-06T01:12:07Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Tesla shareholders vote to make Elon Musk the first trillionaire?\r\nYes. The answer is yes.\r\nby\r\nAndrew J. HawkinsClose\r\nAndrew J. Hawkins\r\nPosts from this a… [+9961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Even a Supreme Court ruling might not spell the end of tariffs",
-      "description": "The end of tariffs wouldn't be an unequivocal win for stocks. It could cause yields to rise — and Trump might try to reinstate tariffs through other means.",
-      "url": "https://www.cnbc.com/2025/11/06/cnbc-daily-open-even-a-supreme-court-ruling-might-not-spell-the-end-of-tariffs.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208301-1759770601641-gettyimages-2239182293-US_SUPREME_COURT.jpeg?v=1759770709&w=1920&h=1080",
-      "publishedAt": "2025-11-06T01:05:56Z",
-      "content": "The U.S. Supreme Court on Wednesday heard a case on the Trump administration's \"reciprocal\" tariffs, and both liberal and conservative judges appeared skeptical of the legal basis of those tariffs.\r\n… [+2934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Microsoft apologizes for not explaining cheaper no-AI M365 plans, and all it took was a government lawsuit",
-      "description": "Even offers refunds if users sign up for AI they don’t want\nMicrosoft Australia has apologized to users of its M365 suite after regulators accused it of steering them towards pricey bundles that include its Copilot AI service.…<!--#include virtual='/data_cent…",
-      "url": "https://www.theregister.com/2025/11/06/microsoft_copilot_m365_apology/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/06/apology_sorry.jpg",
-      "publishedAt": "2025-11-06T00:51:35Z",
-      "content": "Microsoft Australia has apologized to users of its M365 suite after regulators accused it of steering them towards pricey bundles that include its Copilot AI service.\r\nAs The Registerreported in Janu… [+2452 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Axon Enterprise CEO explains new acquisitions in emergency call space",
-      "description": "Axon Enterprise CEO Rick Smith said his company's recent acquisitions are helping to modernize emergency call services in an interview with CNBC's Jim Cramer.",
-      "url": "https://www.cnbc.com/2025/11/05/axon-enterprise-ceo-emergency-call-lines.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106323257-1578348709556img_0733.jpg?v=1691583728&w=1920&h=1080",
-      "publishedAt": "2025-11-06T00:02:36Z",
-      "content": "In a Wednesday interview with CNBC's Jim Cramer,Axon Enterprise CEO Rick Smith explained his company's recent acquisitions, describing how their artificial intelligence technology can modernize emerg… [+1434 chars]"
     }
   ]
 }
