@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T23:08:32.722Z",
+  "fetchedAt": "2025-11-07T23:31:53.167Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "China's key weapons in its AI battle with the U.S. — massive Huawei chip clusters and cheap energy",
+      "description": "China's strategy for competing with the U.S. on AI revolves around huge clusters of Huawei chips and cheap energy.",
+      "url": "https://www.cnbc.com/2025/11/07/chinas-strategy-in-ai-race-with-us-big-chip-clusters-cheap-energy.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108075021-1734011164475-gettyimages-1456167226-gitech84.jpeg?v=1762439995&w=1920&h=1080",
+      "publishedAt": "2025-11-06T23:25:54Z",
+      "content": "China is focusing on large language models in the artificial intelligence space.\r\nIt's well known that Chinese semiconductors designed for artificial intelligence cannot compete with the American fir… [+4804 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Tarek-Mansour-Sept-2025.jpg?quality=90&strip=all&crop=0%2C12.717639051641%2C100%2C39.267169094186&w=1200",
       "publishedAt": "2025-11-06T01:38:58Z",
       "content": "<ul><li></li><li></li></ul>\r\nInside Kalshis quiet Manhattan office on election night, co-founder Tarek Mansour showed how his fast-growing prediction market is calling races faster than the media.\r\nI… [+5312 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Will Tesla shareholders vote to make Elon Musk the first trillionaire?",
-      "description": "On Thursday, Tesla shareholders will vote on whether to grant Elon Musk an enormous pay package, the largest ever awarded to a chief executive by orders of magnitude, or risk him leaving the company in a huff. If this sounds weirdly familiar, it's because the…",
-      "url": "https://www.theverge.com/transportation/814907/tesla-shareholder-elon-musk-trillionaire-vote",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382325/VRG_Illo_STK022_K_Radtke_Musk_Money.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T01:12:07Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWill Tesla shareholders vote to make Elon Musk the first trillionaire?\r\nYes. The answer is yes.\r\nby\r\nAndrew J. HawkinsClose\r\nAndrew J. Hawkins\r\nPosts from this a… [+9961 chars]"
     }
   ]
 }
