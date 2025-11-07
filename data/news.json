@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-07T19:07:34.172Z",
+  "fetchedAt": "2025-11-07T19:31:19.668Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Brad Bourque",
+      "title": "The 15-Inch MacBook Air Is Marked Down by $200",
+      "description": "Save hundreds on our preferred MacBook for most people.",
+      "url": "https://www.wired.com/story/macbook-air-15-deal-1125/",
+      "urlToImage": "https://media.wired.com/photos/690cf17789922924938df0e1/191:100/w_1280,c_limit/The%2015-Inch%20MacBook%20Air%20Is%20Marked%20Down%20by%20$200.png",
+      "publishedAt": "2025-11-06T19:14:58Z",
+      "content": "Looking for an Apple laptop with a bigger screen? You're in luck, as the 15-inch MacBook Air with the M4 CPU is currently marked down by $200 on Amazon in a variety of configurations and colors, incl… [+1807 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/bfdffad1571a8e3afef6db7e0f7c412908f067f7/2025/09/24/85209c3f-4d4b-47fa-87c2-d081dae41a0a/iphone-17-pro-max-cameras.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-05T20:23:00Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>AT&amp;T's $177 million settlement is for data breaches in 2019 and 2024.</li><li>… [+4087 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Apple is planning to use a custom version of Google Gemini for Apple Intelligence",
-      "description": "Apple is preparing to power its AI-upgraded Siri with a custom version of Google’s Gemini AI model, according to a report from Bloomberg’s Mark Gurman. The iPhone maker will reportedly pay Google around $1 billion annually to gain access to the technology, wh…",
-      "url": "https://www.theverge.com/news/814654/apple-intelligence-google-gemini-ai-siri",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK071_APPLE_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-05T20:12:33Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nApple will pay Google around $1 billion every year to help power AI features inside Siri, according to a report from Bloomberg.\r\nApple will pay Google around $1 … [+2992 chars]"
     }
   ]
 }
