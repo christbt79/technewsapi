@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-07T17:37:24.306Z",
+  "fetchedAt": "2025-11-07T18:13:30.951Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Adrienne So",
+      "title": "Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year",
+      "description": "This $400 set comes with minifigures of the complete Next Gen crew, including Picard, Riker, and Wesley Crusher’s portable tractor beam.",
+      "url": "https://www.wired.com/story/lego-uss-enterprise-2025/",
+      "urlToImage": "https://media.wired.com/photos/690cdd24677ec257317add78/191:100/w_1280,c_limit/Lego-Star-Trek-Gear-10356_Lifestyle_Build_01.jpg",
+      "publishedAt": "2025-11-06T18:06:01Z",
+      "content": "It is impossible to overstate just how big an impact Star Trek: The Next Generation had on an entire generation of kids growing up in the 1990s. I watched every episode with my mom. When I walked int… [+1818 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Subtle Computing's voice isolation models help computers understand you in noisy environments | TechCrunch",
+      "description": "Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.",
+      "url": "https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Press-Release-Photo-Close-1.jpeg?resize=1200,800",
+      "publishedAt": "2025-11-06T17:59:34Z",
+      "content": "California-based startup Subtle Computing is tackling the problem of capturing people’s voices in noisy environments with its own voice isolation models — a technology that could benefit voice-based … [+4288 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Stewart Bendle",
+      "title": "Apple's latest MacBook Air, MacBook Pro, and Mac Mini are on sale ahead of Black Friday — several models drop to all-time low prices",
+      "description": "Is now the time to pick up a new MacBook with an M4 inside? Apple's iconic laptops are at their lowest-ever prices ahead of Black Friday",
+      "url": "https://www.tomshardware.com/laptops/macbooks/apples-latest-macbook-air-macbook-pro-and-mac-mini-are-on-sale-ahead-of-black-friday-several-models-drop-to-all-time-low-prices",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sW5GTBqzpashPfiyAqfBtb-1920-80.jpg",
+      "publishedAt": "2025-11-06T17:52:59Z",
+      "content": "As a treat for fans of Apple computers, some of the company's best and most affordable computers have dropped to new all-time low prices. With Black Friday and Cyber Monday sales just on the horizon,… [+1469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump AI czar Sacks says 'no federal bailout for AI' after OpenAI CFO's comments",
+      "description": "Sacks' comments came after OpenAI CFO Sarah Friar mentioned a federal \"backstop\" during a conference.",
+      "url": "https://www.cnbc.com/2025/11/06/trump-ai-sacks-federal-bailout-openai-friar.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194499-17570112162025-09-04t183633z_125926534_rc25lgajv1fu_rtrmadp_0_usa-trump-melania.jpeg?v=1757011234&w=1920&h=1080",
+      "publishedAt": "2025-11-06T17:43:06Z",
+      "content": "Venture capitalist David Sacks, who is serving as President Donald Trump's artificial intelligence and crypto czar, said Thursday that there will be \"no federal bailout for AI.\"\r\n\"The U.S. has at lea… [+1206 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108217887-17616658142025-10-28t153423z_829638327_rc23lhar6u0w_rtrmadp_0_amazon-com-layoffs.jpeg?v=1761665903&w=1920&h=1080",
       "publishedAt": "2025-11-05T18:53:31Z",
       "content": "A new bipartisan bill seeks to provide a \"clear picture\" of how artificial intelligence is affecting the American workforce.\r\nSens. Mark Warner, D-Va., and Josh Hawley, R-Mo., on Wednesday announced … [+1670 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Tinder to use AI to get to know users, tap into their Camera Roll photos",
-      "description": "Tinder is testing an AI feature that learns about you from your Camera Roll photos.",
-      "url": "https://techcrunch.com/2025/11/05/tinder-to-use-ai-to-get-to-know-users-tap-into-their-camera-roll-photos/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/tinder-featured.png?resize=1200,675",
-      "publishedAt": "2025-11-05T18:22:17Z",
-      "content": "Tinder is looking to AI to revitalize its dating app, which has now reported nine straight quarters of paying subscriber declines, as of the third quarter this year. The dating app maker, Match Group… [+2729 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Makena Kelly",
-      "title": "Zohran Mamdani's Campaign Figured Out How to Channel Fandom",
-      "description": "Much of the content about Mamdani online hasn't come from his campaign, or the dozens of political influencers invited to cover it. It's also come from fans.",
-      "url": "https://www.wired.com/story/zohran-mamdani-campaign-fandom/",
-      "urlToImage": "https://media.wired.com/photos/690924ebf2d05e36d6d31f3c/191:100/w_1280,c_limit/GettyImages-2244331412.jpg",
-      "publishedAt": "2025-11-05T18:19:17Z",
-      "content": "Zohran Mamdanis New York City mayoral campaign set a new standard for how Democrats can communicate online.\r\nIts this digital savviness and authentic engagement with social media platforms to which p… [+2787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "30-year-old vet who makes $386,000 a year: I switched to freelance work and more than doubled my income",
-      "description": "Dr. Sidrah Nisar went from earning $125,000 in a 9-to-5 position to earning $386,000 as a freelance relief vet. \"My work-life balance has definitely changed.\"",
-      "url": "https://www.cnbc.com/2025/11/05/vet-who-makes-386000-a-year-doubled-her-income-by-going-freelance.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220208-1761938057694-thumb1.jpg?v=1761938413&w=1920&h=1080",
-      "publishedAt": "2025-11-05T18:14:55Z",
-      "content": "Dr. Sidrah Nisar was both excited and overwhelmed to land a $125,000 salary right out of veterinary school in 2019.\r\n\"I had more money than I could handle,\" she tells CNBC Make It.\r\nLittle did she kn… [+4483 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "This AI ring takes notes for you and even talks back - in your own voice",
-      "description": "Here's what Sandbar's Stream Ring can do (and how to get your hands on one).",
-      "url": "https://www.zdnet.com/article/this-ai-ring-takes-notes-for-you-and-even-talks-back-in-your-voice/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/df2d1424d303803ef502141b0936509653935e7c/2025/11/05/b8d6a54a-5148-4fd1-934c-bab964d54211/dunes.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-05T18:01:18Z",
-      "content": "Sandbar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Sandbar's Stream Ring is a wearable note-taker. </li><li>It works like a microphone around your f… [+2670 chars]"
     }
   ]
 }
