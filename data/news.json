@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T15:32:59.198Z",
+  "fetchedAt": "2025-11-08T16:09:15.279Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Explosive AI buildout brings into question water supply concerns — exploring how data centers could curb water demands",
+      "description": "Explosive data center construction projects under the new AI boom may threaten to damage local water sources and compete with citizens for access to clean drinking water.",
+      "url": "https://www.tomshardware.com/tech-industry/explosive-ai-buildout-brings-into-question-water-supply-concerns-exploring-how-data-centers-could-curb-water-demands",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q2impBoBd8BXh7JgB4pptf-1920-80.jpg",
+      "publishedAt": "2025-11-07T15:42:28Z",
+      "content": "Data centers cost an incredible amount of money to build, and require equally eye-wateringamounts of electricity to power them. But while companies might talk up their green credentials through impro… [+8962 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22233853/akrales210108_4344_0020.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-06T14:18:47Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe recall affects Bike Plus units sold between January 2020 and April 2025.\r\nThe recall affects Bike Plus units sold between January 2020 and April 2025.\r\nby\r\nV… [+2948 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Ring’s new feature combats security camera notification fatigue",
-      "description": "Ring is introducing a new AI-powered feature that consolidates multiple alerts from a camera about a single event into one notification. Single Event Alert is launching on November 6th and is designed to reduce the barrage of notifications from a video doorbe…",
-      "url": "https://www.theverge.com/news/815367/ring-launches-single-event-alerts",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/AISingleEventAlertgif-ezgif.com-video-to-gif-converter.gif?quality=90&strip=all&crop=0,15.154062600727,100,69.691874798547",
-      "publishedAt": "2025-11-06T14:18:29Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNow someone mowing the lawn wont blow up your phone.\r\nNow someone mowing the lawn wont blow up your phone.\r\nby\r\nJennifer Pattison TuohyClose\r\nJennifer Pattison T… [+1822 chars]"
     }
   ]
 }
