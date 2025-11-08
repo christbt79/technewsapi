@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-08T20:08:48.748Z",
+  "fetchedAt": "2025-11-08T20:33:49.136Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "GoWish’s shopping and wishlist app is having its biggest year yet",
+      "description": "GoWish, an app for making wishlists, is having a record year, and has doubled its users.",
+      "url": "https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/gowish.jpg?resize=1200,745",
+      "publishedAt": "2025-11-07T20:16:32Z",
+      "content": "Recession fears aren’t hurting the wishlist and shopping app GoWish, which is seeing record numbers ahead of the 2025 holiday season. The app, which has north of 13.6 million registered users, had it… [+3533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Blackwell a no-sell in China as trade deal fails to materialize",
+      "description": "Xi and Trump haven't gotten to discuss the chips, though they were supposed to\nNvidia's latest generation of Blackwell accelerators won't be available in China anytime soon, according to CEO Jensen Huang, who said there were no \"active discussions\" about sell…",
+      "url": "https://www.theregister.com/2025/11/07/china_nvidia_blackwell/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/12/nvidia.jpg",
+      "publishedAt": "2025-11-07T20:15:48Z",
+      "content": "Nvidia's latest generation of Blackwell accelerators won't be available in China anytime soon, according to CEO Jensen Huang, who said there were no \"active discussions\" about selling the coveted chi… [+2238 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/4f26809e8f5fc234cebcd4219a09e337699a0be6/2025/11/06/f6fc35e6-23c6-4a28-8b9b-3777eef79d91/i-used-geminis-deep-research-ai-to-work-with-my-google-email-and-files-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T16:00:18Z",
       "content": "Lance Whitney / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaway\r\n<ul><li>Gemini's Deep Research can now work with your Google files.</li><li>… [+5449 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "VergeIO",
-      "title": "Why the future of the datacenter is the infrastructure operating system",
-      "description": "From bolt-on chaos to built-in AI: Infrastructure with no assembly required Partner Content  Enterprise infrastructure is at a crossroads. Organizations face simultaneous pressure to reduce costs, defend against ransomware, and deploy AI-driven capabilities, …",
-      "url": "https://www.theregister.com/2025/11/06/why_future_datacenter_infrastructure/",
-      "urlToImage": "https://regmedia.co.uk/2022/06/21/datacenter_shutterstock.jpg",
-      "publishedAt": "2025-11-06T16:00:09Z",
-      "content": "Partner Content Enterprise infrastructure is at a crossroads. Organizations face simultaneous pressure to reduce costs, defend against ransomware, and deploy AI-driven capabilities, all while maintai… [+7921 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Lenovo puts the 'cloud' in cloud computing, proposes mid-air datacenters",
-      "description": "Sustainable vision? Who knows Lenovo says that traditional datacenters are not fit for purpose, and must evolve to future-proof businesses across EMEA. This is based on research, but the PC and server biz has come up with some wacky possible designs, includin…",
-      "url": "https://www.theregister.com/2025/11/06/lenovo_datacenter_vision/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/06/data_spa_pic.jpg",
-      "publishedAt": "2025-11-06T15:57:45Z",
-      "content": "Lenovo says that traditional datacenters are not fit for purpose, and must evolve to future-proof businesses across EMEA. This is based on research, but the PC and server biz has come up with some wa… [+2503 chars]"
     }
   ]
 }
