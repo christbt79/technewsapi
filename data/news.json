@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T19:03:48.875Z",
+  "fetchedAt": "2025-11-08T19:31:27.721Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "China suspends rare-earth export control measures, easing key flashpoint in US-China trade war — one-year reprieve allows for trade talks with the U.S. to continue",
+      "description": "Beijing is suspending the implementation of its tight export controls on rare-earth materials for a year.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-suspends-rare-earth-export-control-measures-easing-key-flashpoint-in-us-china-trade-war-one-year-reprieve-allows-for-trade-talks-with-the-u-s-to-continue",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4HJYkYFh8nWGoQyNT7DE2W-2560-80.jpg",
+      "publishedAt": "2025-11-07T19:17:32Z",
+      "content": "Beijing just announced that it will suspend the expanded rare-earth export controls it announced in early October. The Chinese Ministry of Commerce (MOFCOM) and the General Administration of Customs … [+2653 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/AP_19269535025323.jpg?resize=1200,800",
       "publishedAt": "2025-11-06T15:38:32Z",
       "content": "Peloton is recalling around 833,000 of its original Bike+ machines following reports that some seat posts broke during use, according to the U.S. Consumer Product Safety Commission (CPSC). \r\nThe CPSC… [+2077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Alibaba-backed Moonshot releases its second AI update in four months as China’s AI race heats up",
-      "description": "The Chinese AI startup on Thursday released its newest \"Kimi K2 Thinking\" artificial intelligence model.",
-      "url": "https://www.cnbc.com/2025/11/06/alibaba-backed-moonshot-releases-new-ai-model-kimi-k2-thinking.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222223-1762426471475-gettyimages-2224592709-TFSPI_15072025-8797.jpeg?v=1762426515&w=1920&h=1080",
-      "publishedAt": "2025-11-06T15:38:09Z",
-      "content": "Chinese startup Moonshot on Thursday released its latest generative artificial intelligence model which claims to beat OpenAI's ChatGPT in \"agentic\" capabilities or understanding what a user wants wi… [+1239 chars]"
     }
   ]
 }
