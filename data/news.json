@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T09:32:49.208Z",
+  "fetchedAt": "2025-11-08T10:08:40.909Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "UK tax collector falls short on digital efficiency, watchdog says",
+      "description": "Treasury found £1.6 billion for extra tech investment expecting 15 percent efficiency saving. So far HMRC has underwhelmed The UK’s tax collector is yet to reach the levels of efficiency its investment in digital services has led auditors to expect, according…",
+      "url": "https://www.theregister.com/2025/11/07/uk_tax_collector_falls_short/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/06/shutterstock_1502789192.jpg",
+      "publishedAt": "2025-11-07T09:42:17Z",
+      "content": "The UKs tax collector is yet to reach the levels of efficiency its investment in digital services has led auditors to expect, according to a new report.\r\nIn its annual report on the performance of Hi… [+3379 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/google-maps-getty.jpg?w=1200",
       "publishedAt": "2025-11-06T11:56:51Z",
       "content": "Google is adding Gemini to Maps in India, along with road safety alerts and more information about routes.\r\nThe AI integration, launched in the U.S. on Wednesday, brings hands-free AI assistance to M… [+2726 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Google Finance offers Gemini AI tools to stock traders",
-      "description": "Google’s well-honed strategy of adding AI to absolutely everything continues: the company announced on Thursday that Google Finance is getting a Deep Search feature to turbocharge its AI chatbot, as well as other upgrades to support traders like prediction ma…",
-      "url": "https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Prediction-markets-Kalshi.png?quality=90&strip=all&crop=0%2C26.093141122188%2C100%2C47.813717755624&w=1200",
-      "publishedAt": "2025-11-06T11:47:16Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nContinuing Googles mission to AI-ify Finance.\r\nContinuing Googles mission to AI-ify Finance.\r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from this author will be a… [+2940 chars]"
     }
   ]
 }
