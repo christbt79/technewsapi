@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T08:40:26.537Z",
+  "fetchedAt": "2025-11-08T09:08:36.543Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Kate Taylor",
+      "title": "How TeamViewer builds enterprise trust through security-first design",
+      "description": "What to do when even your espresso machine needs end-to-end encryption Sponsored Feature  The security landscape is getting more perilous day by day, as both nation-state groups and financially-motivated hackers ramp up their activity.…",
+      "url": "https://www.theregister.com/2025/11/07/teamviewer-security-first-design/",
+      "urlToImage": "https://regmedia.co.uk/2022/03/01/security_shutterstock.jpg",
+      "publishedAt": "2025-11-07T09:00:12Z",
+      "content": "Sponsored Feature The security landscape is getting more perilous day by day, as both nation-state groups and financially-motivated hackers ramp up their activity.\r\nAccording to a PwC report late las… [+9236 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Prediction-markets-Kalshi.png?quality=90&strip=all&crop=0%2C26.093141122188%2C100%2C47.813717755624&w=1200",
       "publishedAt": "2025-11-06T11:47:16Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nContinuing Googles mission to AI-ify Finance.\r\nContinuing Googles mission to AI-ify Finance.\r\nby\r\nRobert HartClose\r\nRobert Hart\r\nPosts from this author will be a… [+2940 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Perplexity to pay Snap $400M to power search in Snapchat | TechCrunch",
-      "description": "Snap said today that it has signed a deal with AI-powered search engine Perplexity to power a new chatbot. As part of the deal, Perplexity will pay Snap $400 million in cash and equity.",
-      "url": "https://techcrunch.com/2025/11/06/perplexity-to-pay-snap-400m-to-power-search-in-snapchat/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Snap-Inc-Perplexity-White-16x9-1.jpg?resize=1200,675",
-      "publishedAt": "2025-11-06T11:37:46Z",
-      "content": "Snap said on Thursday that it has signed a deal to integrate Perplexity’s AI search engine directly within Snapchat. As part of the deal, Perplexity will pay Snap $400 million in cash and equity.\r\nTh… [+608 chars]"
     }
   ]
 }
