@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-08T14:07:18.457Z",
+  "fetchedAt": "2025-11-08T14:34:47.163Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Beware the 'Hi, how are you?' text. It's a scam - here's how it works",
+      "description": "Americans lost $3.5 billion to investment scams in early 2025. Here's how to avoid becoming the next victim.",
+      "url": "https://www.zdnet.com/article/beware-the-hi-how-are-you-text-its-a-scam-heres-how-it-works/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/210fa338a7b03c9e6f24e55bb9c3b3ad5d1bb328/2025/11/07/c85c5913-868d-4bbf-96bb-78121ef4b23d/gettyimages-2210115059.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-07T14:22:13Z",
+      "content": "Yuliya Taba / iStock / Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Online investment scams in the US cost victims $3.5 billion.</li><li>T… [+6370 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "MP Materials CEO warns investors to approach suddenly hot rare earths industry with caution",
+      "description": "MP Materials CEO James Litinsky said he doesn't want investors \"to get burned,\" cautioning them about the industry's difficult economics.",
+      "url": "https://www.cnbc.com/2025/11/07/mp-materials-rare-earth-critical-mineral-china-trump.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210771-17601212712020-04-22t000000z_1304876358_rc2n9g9qajlt_rtrmadp_0_usa-rareearths.jpeg?v=1760121307&w=1920&h=1080",
+      "publishedAt": "2025-11-07T14:20:48Z",
+      "content": "Pentagon-backed MP Materials warned investors this week to approach other rare earths projects with caution, pointing to the industry's difficult economics.\r\nStocks of U.S. rare earth companies have … [+3196 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Bring back the iBook, you cowards",
+      "description": "Apple is reportedly working on a low-cost laptop powered by an iPhone chip. This could be a small deal, a decision made by supply chain economics and the fact that the M1 MacBook Air continues to sell well at Walmart. Or it could be huge, a return to form for…",
+      "url": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VRG_VST_1107_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-07T14:10:27Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: The DoorDash Problem, cheap Macs, and the new sound of Apple TV.\r\nOn The Vergecast: The DoorDash Problem, cheap Macs, and the new sound of Appl… [+3333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "'Windows sucks,' former Microsoft Engineer says, explains how to fix it",
+      "description": "Respecting users choices and offering a hardcore mode among key suggestions. Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset s…",
+      "url": "https://www.theregister.com/2025/11/07/does_windows_really_suck_that/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/07/shutterstock_2199841037.jpg",
+      "publishedAt": "2025-11-07T14:09:53Z",
+      "content": "Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffi… [+3899 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Dutch government allegedly folds to supply chain pressure, will relinquish control of Nexperia in China spat — reports say deal contingent upon China allowing firm to resume chip exports",
+      "description": "The Dutch government is ready to relinquish its control over Nexperia if Beijing allows its China factory to resume exports.",
+      "url": "https://www.tomshardware.com/tech-industry/dutch-government-allegedly-folds-to-supply-chain-pressure-will-relinquish-control-of-nexperia-in-china-spat-reports-say-deal-contingent-upon-china-allowing-firm-to-resume-chip-exports",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RKdCuEZywEN65oknnxUp7S-1920-80.jpg",
+      "publishedAt": "2025-11-07T14:08:04Z",
+      "content": "The Dutch government is reportedly ready to give up its control of Nexperia if Beijing allows its China unit to resume exports. Sources say that Nexperia may resume operations without government over… [+2441 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222269-1762432112119-Metropolis_B-roll-DriveThru.png?v=1762432159&w=1920&h=1080",
       "publishedAt": "2025-11-06T14:03:48Z",
       "content": "Metropolis, which uses AI and computer vision to identify vehicles and take parking lot payments without any physical transaction, has raised $1.6 billion in combined debt and equity in a new fundrai… [+4233 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "You'll never guess what the most common passwords are. Oh, wait, yes you will",
-      "description": "Most of you still can't do better than 123456?\n123456. admin. password. For years, the IT world has been reminding users not to rely on such predictable passwords. And yet here we are with another study finding that those sorts of quickly-guessable, universal…",
-      "url": "https://www.theregister.com/2025/11/06/most_common_passwords/",
-      "urlToImage": "https://regmedia.co.uk/2021/01/22/shutterstock_crap_password.jpg",
-      "publishedAt": "2025-11-06T14:00:05Z",
-      "content": "123456. admin. password. For years, the IT world has been reminding users not to rely on such predictable passwords. And yet here we are with another study finding that those sorts of quickly-guessab… [+3561 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Matthew McConaughey, Ryan Reynolds-backed password manager tops $400 million in ARR on AI tail winds",
-      "description": "Canadian cybersecurity startup 1Password has surpassed $400 million in annual recurring revenue.",
-      "url": "https://www.cnbc.com/2025/11/06/ryan-reynolds-backed-1password-tops-400-million-in-arr.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221975-1762372281567-Untitled-2.jpg?v=1762372336&w=1920&h=1080",
-      "publishedAt": "2025-11-06T14:00:01Z",
-      "content": "Cybersecurity startup 1Password, by Ryan Reynolds, Matthew McConaughey and Scarlett Johansson, has topped more than $400 million in annual recurring revenue, the company said Thursday.\r\n\"We believe w… [+2447 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Thousands of flights in danger of cancellation as FAA announces major cuts",
-      "description": "The government shutdown-spurred airport chaos is about to get a whole lot worse. The Federal Aviation Administration said Wednesday it will reduce flight volumes by 10 percent across 40 major airports in response, a move that could threaten 3,000 to 4,500 fli…",
-      "url": "https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244373803.jpg?quality=90&strip=all&crop=0%2C10.748678544076%2C100%2C78.502642911849&w=1200",
-      "publishedAt": "2025-11-06T13:41:19Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe agency announced 10 percent cuts across 40 airports in response to the prolonged government shutdown.\r\nThe agency announced 10 percent cuts across 40 airport… [+2962 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Lego’s first Star Trek set is a $400 Enterprise with Data, Picard, and Worf minifigures",
-      "description": "Lego’s Star Wars partnership helped the company endure financial uncertainty in the late ‘90s, but for the first time it’s announcing a collaboration with that other iconic space franchise. Lego’s first Star Trek set is a 3,600 piece replica of the USS Enterp…",
-      "url": "https://www.theverge.com/news/815337/lego-star-trek-uss-enterprise-ncc-1701-d-data-picard-riker-worf-minifigures",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/lego_startrek1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T13:41:15Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe 3,600-piece set will be available starting on November 28th, 2025, and includes nine minifigures with accessories.\r\nThe 3,600-piece set will be available sta… [+3006 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Dean Seal",
-      "title": "Krispy Kreme Reshaping Distribution in Push for Profitability",
-      "description": "Krispy Kreme said it is retooling its distribution network to prioritize selling doughnuts through retailers like Walmart and Costco.",
-      "url": "https://www.wsj.com/business/earnings/krispy-kreme-reshaping-distribution-in-push-for-profitability-a98c93cb",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/unE2QIESuRyeOakyDvIB.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/eccafb507e8e844645c2b2bc5976a160",
-      "publishedAt": "2025-11-06T13:20:00Z",
-      "content": "Krispy Kreme said it is retooling its distribution network to prioritize selling doughnuts through retailers like Walmart and Costco. - Getty Images\r\nKrispy Kreme is retooling its distribution networ… [+2258 chars]"
     }
   ]
 }
