@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-08T18:11:47.582Z",
+  "fetchedAt": "2025-11-08T18:42:29.041Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "China warns Dutch away from Nexperia as it lets chip exports resume",
+      "description": "Netherlands court still overseeing governance at the chipmaker\nTensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn't appear to be entirely resolved yet. …",
+      "url": "https://www.theregister.com/2025/11/07/china_allows_nexperia_chip_exports/",
+      "urlToImage": "https://regmedia.co.uk/2018/08/31/shutterstock_amsterdam.jpg",
+      "publishedAt": "2025-11-07T18:29:17Z",
+      "content": "Tensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn't appear to be entirely resolved yet. \r\nThe Chinese Minist… [+3252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Big Tech's AI spending spree: Smart long-term bet or short-term risk?",
+      "description": "CNBC's Paulina Likos and Zev Fima break down big tech's massive artificial intelligence spending spree",
+      "url": "https://www.cnbc.com/2025/11/07/big-techs-ai-spending-spree-smart-long-term-bet-or-short-term-risk.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762538692&w=1920&h=1080",
+      "publishedAt": "2025-11-07T18:20:24Z",
+      "content": "In this Club Check-in, CNBC's Paulina Likos and Zev Fima break down big tech's massive artificial intelligence spending spree debating whether these billion-dollar bets will drive long-term cost savi… [+1868 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222223-1762426471475-gettyimages-2224592709-TFSPI_15072025-8797.jpeg?v=1762426515&w=1920&h=1080",
       "publishedAt": "2025-11-06T15:38:09Z",
       "content": "Chinese startup Moonshot on Thursday released its latest generative artificial intelligence model which claims to beat OpenAI's ChatGPT in \"agentic\" capabilities or understanding what a user wants wi… [+1239 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "Vibe coding named Word of the Year. Developers everywhere faceplant",
-      "description": "It's not a bug, it's a feeling\nVibe coding has broken free of tech circles to claim Collins Dictionary's Word of the Year 2025 — a choice that may prompt developers to ask: what could possibly go wrong?…",
-      "url": "https://www.theregister.com/2025/11/06/vibe_coding_escape_the_clutches/",
-      "urlToImage": "https://regmedia.co.uk/2024/09/02/shutterstock_frustrated_software_developer.jpg",
-      "publishedAt": "2025-11-06T15:34:52Z",
-      "content": "Vibe coding has broken free of tech circles to claim Collins Dictionary's Word of the Year 2025 a choice that may prompt developers to ask: what could possibly go wrong?\r\nTechnically two words yes we… [+1866 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nilay Patel",
-      "title": "How AI is fueling an existential crisis in education",
-      "description": "Here on Decoder, we’ve talked a lot about generative AI, which is a very big idea that is causing quite a few problems. One thing we keep hearing about over and over again is that generative AI is causing a lot of problems in schools. A lot of people out ther…",
-      "url": "https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DCD_AI_education.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T15:28:10Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nHow AI is fueling an existential crisis in education\r\nThe system is broken. ChatGPT cheating is just a symptom.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from th… [+3994 chars]"
     }
   ]
 }
