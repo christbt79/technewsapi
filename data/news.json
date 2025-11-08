@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-08T17:33:05.929Z",
+  "fetchedAt": "2025-11-08T18:11:47.582Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Worried about layoffs? Economists say the job market is cooling but 'not falling off a cliff'",
+      "description": "Job experts say they're not in panic mode just yet. Here are the numbers to focus on.",
+      "url": "https://www.cnbc.com/2025/11/07/-economists-say-job-market-is-cooling-but-not-falling-off-a-cliff.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222702-1762464339041-gettyimages-2202066593-generational_business-9785.jpeg?v=1762464351&w=1920&h=1080",
+      "publishedAt": "2025-11-07T17:48:12Z",
+      "content": "A recent string of high-profile layoffs have taken up headlines and caused anxiety in the workforce.\r\nCompanies announced 153,074 layoffs in October, adding up to 1.1 million cut announcements for th… [+4963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "Need a sleep study? It could be as easy as downloading an Apple Watch app soon",
+      "description": "BIDSleep, an app developed using the Apple Watch Series 6, aims to monitor sleep disorders - without the hassle of a sleep study.",
+      "url": "https://www.zdnet.com/article/need-a-sleep-study-it-could-be-as-easy-as-downloading-an-apple-watch-app-soon/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/5e8eeddac654d9772442b5dcf77512e57be2432d/2025/09/17/800d28e6-8d43-43ba-bad3-c3d631d9c92c/img-0068.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-07T17:40:05Z",
+      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A team of researchers developed a new sleep study app. </li><li>The app was developed using A… [+3159 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DCD_AI_education.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-06T15:28:10Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nHow AI is fueling an existential crisis in education\r\nThe system is broken. ChatGPT cheating is just a symptom.\r\nby\r\nNilay PatelClose\r\nNilay Patel\r\nPosts from th… [+3994 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I turned this Windows mini PC into a Linux workstation and don't regret it - here's how",
-      "description": "If it's time to replace your old Windows 10 PC, this compact powerhouse from Minix delivers more than enough performance.",
-      "url": "https://www.zdnet.com/article/i-turned-this-windows-mini-pc-into-a-linux-workstation-and-dont-regret-it-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d457d304337c8fd043781edf595e5db6e63c924e/2025/11/05/3bbff322-a64e-4a9c-ada0-24a164b79a47/minixback.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T15:23:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nIf AI is your thing (especially local AI), then you know: a lot of power is required. I've used local AI (by way of Ollama) on my System76 Theli… [+5150 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Why the smart ring I'm most fascinated about in 2025 isn't made by Oura - this one's truly unique",
-      "description": "Here's what Sandbar's Stream Ring can do (and how to get your hands on one).",
-      "url": "https://www.zdnet.com/article/why-the-smart-ring-im-most-fascinated-about-in-2025-isnt-made-by-oura-this-ones-truly-unique/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/eb1be49043b8e2f9e9acdaab34219be42a0be905/2025/11/05/19a3207c-d46a-4a15-8bb6-6aa49cfd22a2/office2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T15:17:00Z",
-      "content": "Sandbar/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Sandbar's Stream Ring is a wearable note-taker. </li><li>It works like a microphone around your f… [+2670 chars]"
     }
   ]
 }
