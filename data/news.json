@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2025-11-08T11:06:21.152Z",
+  "fetchedAt": "2025-11-08T11:31:15.509Z",
   "articles": [
     {
       "source": {
@@ -39,6 +39,19 @@
       "urlToImage": "https://regmedia.co.uk/2025/11/06/shutterstock_1502789192.jpg",
       "publishedAt": "2025-11-07T09:42:17Z",
       "content": "The UKs tax collector is yet to reach the levels of efficiency its investment in digital services has led auditors to expect, according to a new report.\r\nIn its annual report on the performance of Hi… [+3379 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "The Wall Street Journal",
+      "title": "Global Markets Show Signs of Stabilization After Tech Selloff",
+      "description": "U.S. stock futures and European markets made small gains, though Asian markets fell in the fallout from Thursday’s tech selloff.",
+      "url": "https://www.wsj.com/finance/stocks/global-markets-show-signs-of-stabilization-after-tech-selloff-94713e56",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EZQ3iCdYyhDHLCMHWi04xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/08181218be8e374a11e1df8e4cf8df73",
+      "publishedAt": "2025-11-07T09:27:00Z",
+      "content": "Markets showed signs of stabilization early Friday after the Nasdaq index led U.S. declines in the prior session. - Spencer Platt/Getty Images\r\nMarkets showed some signs of stabilization early Friday… [+3094 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/690c78192685d451a7556858/191:100/w_1280,c_limit/BILRESA%20Scroll%20wheel.jpg",
       "publishedAt": "2025-11-06T12:00:00Z",
       "content": "He points out that Ikea is on the Connectivity Standards Alliance (CSA) board, and has been actively contributing to the development of the Matter platform since its 2019-2021 Project CHIP days: Its … [+2711 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "stldenise@gmail.com (Denise Bertacchi) , Denise Bertacchi",
-      "title": "EufyMake E1 review: Dimensional UV printer",
-      "description": "EufyMake’s not quite 3D UV printer is exciting…but is it worth it?",
-      "url": "https://www.tomshardware.com/3d-printing/eufymake-e1-uv-printer-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/yX2QxjF2GLkSrXzjWWnoXP-1536-80.jpg",
-      "publishedAt": "2025-11-06T12:00:00Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The EufyMake E1 UV p… [+16338 chars]"
     }
   ]
 }
