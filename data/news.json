@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T12:57:05.608Z",
+  "fetchedAt": "2025-11-08T13:18:37.856Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Musk's $1 trillion pay, a price cut for obesity drugs, Target's in-store woes and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/11/07/5-things-to-know-before-the-stock-market-opens-friday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222573-17624550972025-11-06t184628z_1673660215_rc25rhas1dn5_rtrmadp_0_usa-trump.jpeg?v=1762455130&w=1920&h=1080",
+      "publishedAt": "2025-11-07T12:57:40Z",
+      "content": "Tesla CEO Elon Musk attends the Saudi-U.S. Investment Forum, in Riyadh, Saudi Arabia, May 13, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.… [+5256 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220607-1762184543368-gettyimages-2244245700-President_Trump_Spends_Weekend_At_Mar-A-Lago_Estate_In_Palm_Beach.jpeg?v=1762184572&w=1920&h=1080",
       "publishedAt": "2025-11-06T13:03:31Z",
       "content": "U.S. President Donald Trump speaks to reporters aboard Air Force One en route to the White House on November 2, 2025 after taking off from Palm Beach International Airport in West Palm Beach, Florida… [+5481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google's rolling out its most powerful AI chip, taking aim at Nvidia with custom silicon",
-      "description": "Google says Ironwood, the seventh generation of its Tensor Processing Unit, is more than four times faster than its predecessor chip.",
-      "url": "https://www.cnbc.com/2025/11/06/google-unveils-ironwood-seventh-generation-tpu-competing-with-nvidia.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1762390648&w=1920&h=1080",
-      "publishedAt": "2025-11-06T13:00:01Z",
-      "content": "Google is making its most powerful chip yet widely available, the search giant's latest effort to try and win business from artificial intelligence companies by offering custom silicon.\r\nThe company … [+2381 chars]"
     }
   ]
 }
