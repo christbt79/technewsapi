@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-08T07:31:30.057Z",
+  "fetchedAt": "2025-11-08T08:11:27.769Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "I tried the only agentic browser that runs local AI - and found only one downside",
+      "description": "If you want to hop onto the agentic browser craze but don't like the idea of using third-party AI, you currently have one option.",
+      "url": "https://www.zdnet.com/article/i-tried-the-only-agentic-browser-that-runs-local-ai-and-found-only-one-downside/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e2407ab39ac5e20ac294aeacddeab4dbd86e9b23/2025/11/07/21cc6899-b940-4bb4-998b-afac69b779cf/gettyimages-2029917856.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-07T07:59:13Z",
+      "content": "sankai/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to use an agentic browser, consider local AI.</li><li>Local AI puts le… [+6564 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "David Gewirtz",
+      "title": "The best free AI for coding in 2025 now - only 3 make the cut (and 5 fall flat)",
+      "description": "I've been subjecting AI models to a set of real-world programming tests for over two years. This time, we look solely at the free offerings. There are three worth your attention. The others, well, they need work.",
+      "url": "https://www.zdnet.com/article/the-best-free-ai-for-coding-in-2025-now-only-three-make-the-cut-while-five-fall-flat/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/9d3c065d8e2b9285f0de364f85e95b2cffeaf3e5/2025/11/07/33a9def9-780c-4af0-8ee6-50ee8e1de1a4/gettyimages-1730336581.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-07T07:45:00Z",
+      "content": "Dragon Claws/Getty Images\r\nI've been around technology long enough that very little excites me, and even less surprises me. But shortly after OpenAI's ChatGPT was released, I asked it to write a Word… [+6216 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Snap-Inc-Perplexity-White-16x9-1.jpg?resize=1200,675",
       "publishedAt": "2025-11-06T11:37:46Z",
       "content": "Snap said on Thursday that it has signed a deal to integrate Perplexity’s AI search engine directly within Snapchat. As part of the deal, Perplexity will pay Snap $400 million in cash and equity.\r\nTh… [+608 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Dan Robinson",
-      "title": "Colt gets greenlight for £2.5bn London datacenter splurge",
-      "description": "Three hyperscale sheds to double capacity near Heathrow Colt Data Centre Services has secured approval to invest £2.5 billion ($3.3 billion) in three hyperscale data centers at its Hayes Digital Park campus in west London.…",
-      "url": "https://www.theregister.com/2025/11/06/colt_gets_green_light_for/",
-      "urlToImage": "https://regmedia.co.uk/2025/10/24/datacenter.jpg",
-      "publishedAt": "2025-11-06T11:35:47Z",
-      "content": "Colt Data Centre Services has secured approval to invest £2.5 billion ($3.3 billion) in three hyperscale data centers at its Hayes Digital Park campus in west London.\r\nThe expansion, approved by Hill… [+1828 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Joe McKendrick",
-      "title": "Letting AI manage your money could be an actual gamble, warn researchers",
-      "description": "Recent research suggests AI itself could develop a gambling problem with money akin to those seen in humans. But it's easier to remedy.",
-      "url": "https://www.zdnet.com/article/letting-ai-manage-your-money-could-be-an-actual-gamble-warn-researchers/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0901ceb82759b82c91743be2324a8182236ec89b/2025/11/05/f03957c2-153d-4735-bfe6-0c66c6be5105/gettyimages-980627922.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T11:00:44Z",
-      "content": "Martin POKORNY/500px via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Study suggests AI can adopt gambling \"addiction.\"</li><li>Autonomous models are t… [+4458 chars]"
     }
   ]
 }
