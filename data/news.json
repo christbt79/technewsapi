@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T10:08:40.909Z",
+  "fetchedAt": "2025-11-08T10:37:21.696Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI valuation fears grip global investors as tech bubble concerns grow",
+      "description": "The recent slide among AI stocks has once again put fears of a tech bubble at the forefront of investors' minds.",
+      "url": "https://www.cnbc.com/2025/11/07/ai-valuation-fears-grip-investors-as-tech-bubble-concerns-heighten.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107408458-1714508015525-gettyimages-1367372037-global-stockmarket-network-wave2.jpeg?v=1762509275&w=1920&h=1080",
+      "publishedAt": "2025-11-07T10:24:27Z",
+      "content": "This week's equity market wobble, which saw a retreat in U.S. AI-related stocks amid ongoing concerns over stretched valuations, has thrust contagion concerns into the spotlight for European investor… [+2764 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/KAJPLATS-GU10-decorative-clear-glass.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
       "publishedAt": "2025-11-06T11:58:22Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nIkeas new low-cost line is a huge win for Matter and your smart home \r\nThe new Matter-over-Thread lineup delivers affordable, platform-agnostic lighting, sensors… [+9975 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Jagmeet Singh",
-      "title": "Google Maps upgrades navigation in India with Gemini, safety alerts",
-      "description": "India becomes the second market after the U.S. to get Gemini-powered navigation on Google Maps.",
-      "url": "https://techcrunch.com/2025/11/06/google-maps-upgrades-navigation-in-india-with-gemini-safety-alerts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/google-maps-getty.jpg?w=1200",
-      "publishedAt": "2025-11-06T11:56:51Z",
-      "content": "Google is adding Gemini to Maps in India, along with road safety alerts and more information about routes.\r\nThe AI integration, launched in the U.S. on Wednesday, brings hands-free AI assistance to M… [+2726 chars]"
     }
   ]
 }
