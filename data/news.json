@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-08T11:31:15.509Z",
+  "fetchedAt": "2025-11-08T12:15:06.230Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Higgins",
+      "title": "How to Get Your Cat or Dog to Lose Weight—Experts Weigh In (2025)",
+      "description": "Most household pets are overweight. I talked to experts to find the best ways to get your furry friend to shed a few pounds.",
+      "url": "https://www.wired.com/story/how-to-get-your-cat-to-lose-weight/",
+      "urlToImage": "https://media.wired.com/photos/690d3b8982112205a256736b/191:100/w_1280,c_limit/How%20to%20Get%20Your%20Pet%20to%20Lose%20Weight.png",
+      "publishedAt": "2025-11-07T12:03:00Z",
+      "content": "<ul><li>Engage in active play for at least 30 minutes a day, whether that be with a wand toy, laser (just make sure to reward them after their hunt), or whatever toy they like best. (Check out my ful… [+6568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Defying anti-cheat, creator gets Battlefield 6 running on 12-year-old AMD FX-9590 CPU, playable at 40+ FPS in 786p with an RX 5700 GPU — experiment reveals only SecureBoot, not TPM, is necessary for Javelin anti-cheat",
+      "description": "AMD's Bulldozer-era FX-9590 CPU from 2013 managed to run Battlefield 6 at over 30 FPS at 1080p resolution, boosting to 40+ FPS at lower resolutions on smaller maps. FX-9590, despite being more than a decade old, does support SecureBoot, which was enough for B…",
+      "url": "https://www.tomshardware.com/video-games/pc-gaming/youtuber-gets-battlefield-6-running-on-12-year-old-amd-fx-9590-cpu-playable-at-40-fps-in-786p-with-an-rx-5700-gpu-experiment-reveals-only-secureboot-not-tpm-is-necessary-for-javelin-anti-cheat",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vHHY7pr26znuC4eVw4hMAn-2560-80.png",
+      "publishedAt": "2025-11-07T12:00:00Z",
+      "content": "Battlefield 6 launched a month ago on console and PC to rave reviews, becoming a commercial hit. While the community has expressed anything but positive feedback for the FPS, one area where BF6 wasn'… [+2862 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "Bank of England says JLR's cyberattack contributed to UK's unexpectedly slower GDP growth",
+      "description": "This kind of material economic impact from online crooks thought to be a UK-first\nThe Bank of England (BoE) has cited the cyberattack on Jaguar Land Rover (JLR) as one of the reasons for the country's slower-than-expected GDP growth in its latest rates decisi…",
+      "url": "https://www.theregister.com/2025/11/07/bank_of_england_says_jlrs/",
+      "urlToImage": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg",
+      "publishedAt": "2025-11-07T11:44:18Z",
+      "content": "The Bank of England (BoE) has cited the cyberattack on Jaguar Land Rover (JLR) as one of the reasons for the country's slower-than-expected GDP growth in its latest rates decision.\r\nWe've not had any… [+4040 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203774-1758802270042-gettyimages-2231677197-US_JOBS.jpeg?v=1758802638&w=1920&h=1080",
       "publishedAt": "2025-11-06T12:29:29Z",
       "content": "Layoff announcements soared in October as companies recalibrated staffing levels during the artificial intelligence boom, a sign of potential trouble ahead for the labor market, according to outplace… [+2425 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Stewart Bendle",
-      "title": "Apple's 13-inch MacBook Air slashed to $749 — a new all-time low price on Amazon for this M4-powered laptop",
-      "description": "Save $50 on this MacBook Air's previous low price. Apple's 2025 MacBook Air with M4 is only $749 at Amazon",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apples-13-inch-macbook-air-slashed-to-usd749-a-new-all-time-low-price-on-amazon-for-this-m4-powered-laptop",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BPvMeUHqSpBxo7Kobfq8fa-1920-80.jpg",
-      "publishedAt": "2025-11-06T12:29:26Z",
-      "content": "Lovers of Apple MacBooks rejoice, as one of the MacBook Air line-up falls to a new all-time low price on Amazon ahead of any Black Friday sales. The 13-inch Apple MacBook Air 2025 with M4 processor i… [+1675 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "‘China is going to win the AI race’ — Nvidia CEO Jensen Huang decries the price of electricity in the US, contrasts it with China's subsidized pricing",
-      "description": "Nvidia CEO Jensen Huang said that China will win the AI race because of its abundance of power and the fact that the U.S. is losing out on the chance for its hardware to become the standard tool that Chinese AI developers use.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/china-is-going-to-win-the-ai-race-nvidia-ceo-jensen-huang-decries-the-price-of-electricity-in-the-us-contrasts-it-with-chinas-subsidized-pricing",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/25bRfDU5e6H8NkWvY8D2v4-1920-80.jpg",
-      "publishedAt": "2025-11-06T12:10:41Z",
-      "content": "Nvidia CEO Jensen Huang says Washington has lost its edge in artificial intelligence and warns that China will win the AI race. He cited the West's cynicism, export controls, and favorable energy cir… [+3881 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Sophie Charara",
-      "title": "IKEA's Smart Home Reset Goes Back to Basics",
-      "description": "Ikea’s new 21-product series of bulbs, sensors, and remotes is dirt cheap, idiot-proof, Matter-ready, and designed to work with everything. But we're still years from the promised house of the future.",
-      "url": "https://www.wired.com/story/ikeas-smart-home-reset-goes-back-to-basics/",
-      "urlToImage": "https://media.wired.com/photos/690c78192685d451a7556858/191:100/w_1280,c_limit/BILRESA%20Scroll%20wheel.jpg",
-      "publishedAt": "2025-11-06T12:00:00Z",
-      "content": "He points out that Ikea is on the Connectivity Standards Alliance (CSA) board, and has been actively contributing to the development of the Matter platform since its 2019-2021 Project CHIP days: Its … [+2711 chars]"
     }
   ]
 }
