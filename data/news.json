@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T10:37:21.696Z",
+  "fetchedAt": "2025-11-08T11:06:21.152Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "UK's Rightmove stock tumbles over 28% as AI investments expected to weigh on 2026 profit",
+      "description": "In a trading update on Friday, Rightmove lowered operational profit expectations for 2026.",
+      "url": "https://www.cnbc.com/2025/11/07/rightmove-shares-plummet-as-ai-investments-to-hit-2026-profit-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108037540-1727055827985-2024-09-22T232528Z_638343529_RC2NB0AA3NH0_RTRMADP_3_RIGHTMOVE-M-A-REA-GROUP.JPG?v=1727055916&w=1920&h=1080",
+      "publishedAt": "2025-11-07T10:43:09Z",
+      "content": "Share in British real estate listing company Rightmove plummeted as much as 28% on Friday after it warned of lower profit growth on the back of accelerated investments in artificial intelligence.\r\nRi… [+664 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/yX2QxjF2GLkSrXzjWWnoXP-1536-80.jpg",
       "publishedAt": "2025-11-06T12:00:00Z",
       "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.The EufyMake E1 UV p… [+16338 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Ikea’s new low-cost line is a huge win for Matter and your smart home",
-      "description": "Ikea just announced a bunch of super cheap, colorful Matter-over-Thread devices that will work with any platform, and it feels like Christmas came early for the smart home. The 21 new products include a line of smart bulbs starting at just £4 and two new remo…",
-      "url": "https://www.theverge.com/tech/814928/ikea-matter-thread-dirigera-smart-home-interview",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/KAJPLATS-GU10-decorative-clear-glass.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
-      "publishedAt": "2025-11-06T11:58:22Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIkeas new low-cost line is a huge win for Matter and your smart home \r\nThe new Matter-over-Thread lineup delivers affordable, platform-agnostic lighting, sensors… [+9975 chars]"
     }
   ]
 }
