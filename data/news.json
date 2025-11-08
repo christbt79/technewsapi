@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-08T00:41:47.399Z",
+  "fetchedAt": "2025-11-08T02:17:15.451Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Tech had a rough day in the markets — its employees had a worse October",
+      "description": "For most tech workers and investors, Thursday was another reminder of volatility's sting. For Elon Musk, it was another day on the road to the stratosphere.",
+      "url": "https://www.cnbc.com/2025/11/07/cnbc-daily-open-tech-had-a-rough-day-its-employees-had-a-worse-october.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221788-1762358980073-Traders-Photo-20251104-KK-PRESS-012.jpg?v=1762359116&w=1920&h=1080",
+      "publishedAt": "2025-11-07T01:29:40Z",
+      "content": "October's job losses in the U.S. were nearly twice as high as a month earlier the steepest for any October since 2003, data from outplacement firm Challenger, Gray &amp; Christmas showed.\r\nThe techno… [+2848 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "SoftBank shares slide over 8% amid renewed pressure on AI-linked stocks",
+      "description": "Shares of Japan's SoftBank Group plunged, following a broader slump in AI-related stocks as investors once again grew wary of the sector's lofty valuations.",
+      "url": "https://www.cnbc.com/2025/11/07/softbank-shares-ai-linked-stocks-asia-valuation-concerns.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108093382-17380717982025-01-28t074429z_827921932_rc2ticae7356_rtrmadp_0_deepseek-markets.jpeg?v=1738071841&w=1920&h=1080",
+      "publishedAt": "2025-11-07T00:51:35Z",
+      "content": "Shares of Japan's SoftBank Group resumed their slide on Friday, following a broader slump in AI-related stocks as investors once again grew wary of the sector's lofty valuations.\r\nThe group, which ho… [+971 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/12/10/shutterstock_cloud_question_mark.jpg",
       "publishedAt": "2025-11-06T04:03:37Z",
       "content": "Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon.\r\nBoth companies announced quarterly results on Wednesday and Qualcomm CEO Cristiano Amon used his com… [+4600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Mark Samuels",
-      "title": "Anxious about AI job cuts? How white-collar workers can protect themselves - starting now",
-      "description": "Want to avoid being a victim in the great AI job transformation? Be a pathfinder instead. Here's how.",
-      "url": "https://www.zdnet.com/article/anxious-about-ai-job-cuts-how-white-collar-workers-can-protect-themselves-starting-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6c5801a2cb00fb3f9a8c88e37bd42e6fd7b6c67e/2025/11/05/cbce01eb-7828-40b9-96a2-676b03975557/gettyimages-2188156174.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T03:00:49Z",
-      "content": "Just_Super/E+ via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Job cuts suggest professional work is changing in the AI era. </li><li>Modern companies … [+8792 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "One critical feature makes these wireless earbuds worthy of your attention",
-      "description": "If you need a pair of earbuds with fantastic microphones, the OpenRock Link 20 open-air earbuds are some of the best I've tested.",
-      "url": "https://www.zdnet.com/article/one-critical-feature-makes-these-wireless-earbuds-worthy-of-your-attention/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T02:51:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5448 chars]"
     }
   ]
 }
