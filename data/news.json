@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-08T12:15:06.230Z",
+  "fetchedAt": "2025-11-08T12:57:05.608Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "The world is overly reliant on one US-located mine for critical chipmaking material, but China is working to break the stranglehold — China investing over $14 million in synthetic quartz manufacturing to diversify away from US dependency",
+      "description": "High-purity quartz is crucial for semiconductor manufacturing, and you can only get it naturally from the mine in North Carolina.",
+      "url": "https://www.tomshardware.com/tech-industry/the-world-is-overly-reliant-on-one-us-located-mine-for-critical-chipmaking-material-but-china-is-working-to-break-the-stranglehold-china-investing-over-usd14-million-in-synthetic-quartz-manufacturing-to-diversify-away-from-us-dependency",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9he4ntLNGuNEgux66tyL2B-1920-80.jpg",
+      "publishedAt": "2025-11-07T12:40:00Z",
+      "content": "China just invested RMB 100 million, worth about $14 million at the current exchange rate, into Nantong Crystal Co., Ltd. — a materials company that specializes in synthesizing high-quality quartz fo… [+2650 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google's decade-long bet on custom chips is turning into company's secret weapon in AI race",
+      "description": "Google's cloud business is a primary engine of growth, and the company's custom-built chips called Tensor Processing Units are helping drive it.",
+      "url": "https://www.cnbc.com/2025/11/07/googles-decade-long-bet-on-tpus-companys-secret-weapon-in-ai-race.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107357532-1704996941481-gettyimages-1757709969-omarques_01112023_ILLUS_TECH_16.jpeg?v=1762379098&w=1920&h=1080",
+      "publishedAt": "2025-11-07T12:30:01Z",
+      "content": "Nvidia has established itself as the undisputed leader in artificial intelligence chips, selling large quantities of silicon to most of the world's biggest tech companies en route to a $4.5 trillion … [+8859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "Microsoft's data sovereignty: Now with extra sovereignty!",
+      "description": "Under shadow of US CLOUD Act, Redmond releases raft of services to calm customers in the EU Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the…",
+      "url": "https://www.theregister.com/2025/11/07/microsoft_announces_strengthening_of_sovereignty/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/15/shutterstock_block_world_map.jpg",
+      "publishedAt": "2025-11-07T12:22:18Z",
+      "content": "Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the US government when legally requ… [+4609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Substrate's claims about revolutionary ASML-beating chipmaking technology scrutinized, analyst likens the venture to a fraud — report pokes holes in the startup's technology, messaging, and leaders",
+      "description": "Analyst likens Substrate's tech, messaging, and leadership to a fraud.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/substrates-claims-about-revolutionary-asml-beating-chipmaking-technology-scrutinized-analyst-likens-the-venture-to-a-fraud-report-pokes-holes-in-the-startups-technology-messaging-and-leaders",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/c5UNEjzNz4RbNNeVRduno-1152-80.png",
+      "publishedAt": "2025-11-07T12:20:00Z",
+      "content": "The Substrate startup has been doing the rounds in the news lately, thanks to its proposition of making chips using particle accelerators and X-rays instead of conventional EUV lithography, claiming … [+4073 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198794-1757946595048-gettyimages-2217999139-BLOOMBERG_TECH.jpeg?v=1762390648&w=1920&h=1080",
       "publishedAt": "2025-11-06T13:00:01Z",
       "content": "Google is making its most powerful chip yet widely available, the search giant's latest effort to try and win business from artificial intelligence companies by offering custom silicon.\r\nThe company … [+2381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "OpenAI walks back statement it wants a government 'backstop' for its massive loans — company says government 'playing its part' critical for industrial AI capacity increases",
-      "description": "OpenAI has walked back claims its CFO made in an interview that it was looking for a governmental backstop for its investments, providing a guarantee against its loans that would allow it to borrow more and reduce the cost of that financing.",
-      "url": "https://www.tomshardware.com/tech-industry/openai-walks-back-statement-it-wants-a-government-backstop-for-its-massive-loans-company-says-government-playing-its-part-critical-for-industrial-ai-capacity-increases",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eC2JgC2t4dyegUzVsnctrL-1920-80.jpg",
-      "publishedAt": "2025-11-06T12:36:41Z",
-      "content": "OpenAI's Chief Financial Officer, Sarah Friar, has walked back claims she made in an interview with the Wall Street Journal. Where she originally said that OpenAI was \"looking for an ecosystem,\" wher… [+3283 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Dominic Preston",
-      "title": "Huawei Mate 70 Air is a little thick for a thin phone",
-      "description": "Huawei is the latest phone manufacturer to release a thin phone: the Mate 70 Air. That’s our third Air for the year — after the iPhone and ZTE’s Nubia Air — to only two Edges, suggesting Apple’s influence still reigns supreme over Samsung’s. At 6.6mm thick, t…",
-      "url": "https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/huawei-mate-70-air-hero.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200",
-      "publishedAt": "2025-11-06T12:35:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nBut the 6,500mAh battery probably makes up for that.\r\nBut the 6,500mAh battery probably makes up for that.\r\nby\r\nDominic PrestonClose\r\nDominic Preston\r\nPosts from… [+2477 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Family offices make fewer deals but still flock to AI startup mega-rounds",
-      "description": "Investment firms of the ultra-rich seek bigger returns and to tap into the AI boom.",
-      "url": "https://www.cnbc.com/2025/11/06/family-offices-deals-october-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108198201-1762354800329-108198201-17576927822025-09-12t155551z_1980900036_rc2dqgaa1t27_rtrmadp_0_gemini-ipo.jpg?v=1762354807&w=1920&h=1080",
-      "publishedAt": "2025-11-06T12:30:01Z",
-      "content": "Gemini Co-founders Tyler Winklevoss and Cameron Winklevoss attend the company's IPO at the Nasdaq MarketSite in New York City, U.S., Sept. 12, 2025.\r\nA version of this article first appeared in CNBC'… [+2517 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Job cuts in October hit highest level for the month in 22 years, Challenger says",
-      "description": "Job cuts for October totaled 153,074, a 183% surge from September.",
-      "url": "https://www.cnbc.com/2025/11/06/job-cuts-in-october-hit-highest-level-for-the-month-in-22-years-challenger-says.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203774-1758802270042-gettyimages-2231677197-US_JOBS.jpeg?v=1758802638&w=1920&h=1080",
-      "publishedAt": "2025-11-06T12:29:29Z",
-      "content": "Layoff announcements soared in October as companies recalibrated staffing levels during the artificial intelligence boom, a sign of potential trouble ahead for the labor market, according to outplace… [+2425 chars]"
     }
   ]
 }
