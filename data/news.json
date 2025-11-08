@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-08T16:40:38.597Z",
+  "fetchedAt": "2025-11-08T17:07:07.591Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Trump CFPB takes aim at 15 states that ban medical debt on credit reports—it's 'salt in the wound,' says consumer advocate",
+      "description": "Recent guidance from the CFPB calls on courts to overturn laws in 15 states which prohibit including medical debt on consumer credit reports.",
+      "url": "https://www.cnbc.com/2025/11/07/trump-cfpb-aims-to-nix-laws-that-ban-medical-debt-on-credit-reports.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221909-1762366840520-gettyimages-2227846342-r5c_0825.jpeg?v=1762366864&w=1920&h=1080",
+      "publishedAt": "2025-11-07T17:02:56Z",
+      "content": "The administration of President Donald Trump is taking aim at state laws that ban the inclusion of medical debt on consumers' credit reports.\r\nIn late October, the Consumer Financial Protection Burea… [+4741 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Kim Kardashian says ChatGPT is her 'frenemy' | TechCrunch",
+      "description": "Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice.",
+      "url": "https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/Kim-Kardashian-Headshot-e1664830753133.jpeg?resize=1200,717",
+      "publishedAt": "2025-11-07T16:59:24Z",
+      "content": "Celebrities: they’re just like us? In a Vanity Fair interview, Kim Kardashian — who has been studying to become a lawyer — discussed her “toxic” friendship with ChatGPT, admitting that she has failed… [+1542 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Food banks are in 'disaster response mode' due to shutdown and SNAP cuts, leaders say: 'The damage gets worse and worse' every day",
+      "description": "Food bank leaders across the U.S. are responding to 'a great increase in need' due to SNAP disruption.",
+      "url": "https://www.cnbc.com/2025/11/07/food-banks-are-in-disaster-response-mode-due-to-shutdown-and-snap-cuts-leaders-say.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220677-1762190343174-gettyimages-2244067612-AFP_82QF8ZK.jpeg?v=1762462431&w=1920&h=1080",
+      "publishedAt": "2025-11-07T16:55:28Z",
+      "content": "\"Neighbors need food NOW,\" the homepage of Second Harvest Food Bank of South Louisiana reads.\r\nAmid uncertainty around SNAP funding, food banks across the U.S. are scrambling to pick up the slack for… [+6557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
+      "description": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
+      "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222451-1762447068719-gettyimages-2244435678-1528605-me-lax-staffing-delays-jey-02.jpeg?v=1762447115&w=1920&h=1080",
+      "publishedAt": "2025-11-07T16:54:55Z",
+      "content": "As air travel cancellations and delays mount during the government shutdown, affected travelers will want to consider all their avenues for recourse including the credit card they used to book their … [+3965 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "X appears to be sending fake traffic across the web",
+      "description": "X's new link experiment on iOS may be artificially inflating traffic. Websites like Substack and Bluesky noticed a sharp increase in \"fake\" views following the update, something that Nick Eubanks, the VP of owned media at the digital marketing platform Semrus…",
+      "url": "https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535560/STK160_X_TWITTER_2__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-07T16:53:49Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new link experience on iOS is supposed to help creators on X improve their reach, but its muddying up traffic measurements for everyone else.\r\nA new link exper… [+3924 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369240-1707163768900-gettyimages-1988193834-030a4023_mhv7caap.jpeg?v=1762438929&w=1920&h=1080",
       "publishedAt": "2025-11-06T14:58:38Z",
       "content": "Snap stock surged 13% on Thursday after announcing a $400 million deal with Perplexity AI and releasing its third-quarter financial results.\r\nThe company said that it will be integrating Perplexity's… [+895 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Matthew Miller",
-      "title": "I tested the e-paper smartwatch that got the internet buzzing - and don't want to take it off",
-      "description": "Pebble is back with a $149 smartwatch that comes with key improvements, including a month-long battery life.",
-      "url": "https://www.zdnet.com/article/i-tested-the-e-paper-smartwatch-that-got-the-internet-buzzing-and-dont-want-to-take-it-off/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/868e85115be3c4fca8f21b764dbeaf95d6f076e4/2025/11/06/9716deff-39e6-4183-b007-39811320b184/pebble-2-duo6.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T14:56:55Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've got a bit of a history with the Pebble brand. In 2013, I backed its first watch on Kickstarter, and then a couple of years later, I purchas… [+4301 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Duolingo stock plunges 27% on light guidance as company prioritizes user growth",
-      "description": "CEO and co-founder Luis von Ahn told CNBC that the company has shifted its investment strategy in recent months to focus on long-term initiatives.",
-      "url": "https://www.cnbc.com/2025/11/06/duolingo-duol-stock-q3-earnings-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108135535-1745426704383-gettyimages-2201667942-img_1547.jpeg?v=1762435862&w=1920&h=1080",
-      "publishedAt": "2025-11-06T14:45:59Z",
-      "content": "Duolingo's stock cratered 27% on lighter-than-expected guidance as the language learning platform zeroed in on user growth in lieu of near-term monetization.\r\n\"We have made a slight shift over the la… [+1944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Charlie Osborne",
-      "title": "Is your business ready for a deepfake attack? 4 steps to take before it's too late",
-      "description": "Deepfakes can ruin reputations, impersonate leaders, and fuel scams. Here's how to stay ahead of them.",
-      "url": "https://www.zdnet.com/article/is-your-business-ready-for-a-deepfake-attack-4-steps-to-take-before-its-too-late/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/8a0d268842418cab5f780e2474860c15624d54ac/2025/11/06/988cdf77-57a4-4f99-8d06-5cdf84fd2cb6/gettyimages-2211644836.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T14:30:44Z",
-      "content": "Curly_photo/Moment/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Deepfakes can cause serious reputational and financial damage.</li><li>Deepfake… [+9790 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft: Don't let AI agents near your credit card yet",
-      "description": "Shopping bots pick first option and 'vulnerable to manipulation', Magentic Marketplace trial finds\nReady to have your agent talk to my agent and arrange a sale? Microsoft has published a simulated marketplace to put AI agents through their paces and answer a …",
-      "url": "https://www.theregister.com/2025/11/06/microsoft_unveils_the_magentic_marketplace/",
-      "urlToImage": "https://regmedia.co.uk/2024/11/20/shutterstock_aidissapointment.jpg",
-      "publishedAt": "2025-11-06T14:20:12Z",
-      "content": "Ready to have your agent talk to my agent and arrange a sale? Microsoft has published a simulated marketplace to put AI agents through their paces and answer a question for the new age: Would you tru… [+3095 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "Peloton issues recall for 833,00 bikes over faulty seat posts",
-      "description": "Peloton is recalling roughly 833,000 of its original Bike Plus machines, according to the U.S. Consumer Product Safety Commission. The reason being that the seat post can break and detach during use, with Peloton receiving three reports of breakages and two r…",
-      "url": "https://www.theverge.com/news/815376/peloton-bike-plus-recall-seat-post",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22233853/akrales210108_4344_0020.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T14:18:47Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe recall affects Bike Plus units sold between January 2020 and April 2025.\r\nThe recall affects Bike Plus units sold between January 2020 and April 2025.\r\nby\r\nV… [+2948 chars]"
     }
   ]
 }
