@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-07T23:31:53.167Z",
+  "fetchedAt": "2025-11-08T00:41:47.399Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to open lower, tracking Wall Street losses as AI stocks resume slump",
+      "description": "Investors in Asia will look to trade data coming out of China later in the day.",
+      "url": "https://www.cnbc.com/2025/11/07/asia-pacific-markets-friday-ai-stocks-valuation-china-october-trade-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107192343-1675985077391-gettyimages-1235412304-vcg111285860506.jpeg?v=1762472344&w=1920&h=1080",
+      "publishedAt": "2025-11-07T00:05:55Z",
+      "content": "Asia-Pacific markets opened lower Friday, tracking Wall Street declines on persistent concerns over lofty valuations in artificial intelligence stocks.\r\nShares of major AI companies fell Thursday sta… [+1559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Ongoing government shutdown and AI fears are putting the market under pressure, Jim Cramer says",
+      "description": "CNBC's Jim Cramer unpacked Thursday's market decline.",
+      "url": "https://www.cnbc.com/2025/11/06/jim-cramer-shutdown-ai-fears-market-pressure.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104741303-IMG_8456r-jim-cramer.jpg?v=1693437257&w=1920&h=1080",
+      "publishedAt": "2025-11-06T23:45:09Z",
+      "content": "CNBC's Jim Cramer unpacked Thursday's market decline, telling investors that Wall Street is worried about the lengthy government shutdown and that artificial intelligence buildout is getting out of c… [+1796 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/61348acd35a554623f15d741276eee0baea15e3d/2025/11/03/3876bbea-5135-4848-b8a9-5065e6341083/link20hero.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T02:51:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nUsually, when I review earbuds and headphones, it's all about music and the sound they produce. I typically even shrug off battery life as secon… [+5448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
-      "description": "Shares of two Chinese autonomous driving companies Pony.ai and WeRide both debuted in Hong Kong on Thursday.",
-      "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108051023-1729609719251-Image_3.jpg?v=1745568971&w=1920&h=1080",
-      "publishedAt": "2025-11-06T01:47:07Z",
-      "content": "China's Pony.ai on Thursday saw its shares drop over 12%, while rival WeRide fell nearly 8% as the autonomous driving companies began trading in Hong Kong.\r\nPony.ai and WeRide, which are already list… [+3851 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Alex Heath",
-      "title": "Election night at Kalshi HQ",
-      "description": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. At 8PM on election night in New York City, I arrived at an unmarked office building in the Meatpacking District. I…",
-      "url": "https://www.theverge.com/column/815208/election-night-at-kalshi-hq",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Tarek-Mansour-Sept-2025.jpg?quality=90&strip=all&crop=0%2C12.717639051641%2C100%2C39.267169094186&w=1200",
-      "publishedAt": "2025-11-06T01:38:58Z",
-      "content": "<ul><li></li><li></li></ul>\r\nInside Kalshis quiet Manhattan office on election night, co-founder Tarek Mansour showed how his fast-growing prediction market is calling races faster than the media.\r\nI… [+5312 chars]"
     }
   ]
 }
