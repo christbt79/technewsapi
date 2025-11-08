@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-08T07:08:07.669Z",
+  "fetchedAt": "2025-11-08T07:31:30.057Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: It's a bad time to be a tech investor — or employee",
+      "description": "For most tech workers and investors, Thursday was another reminder of volatility's sting. For Elon Musk, it was another day on the road to the stratosphere.",
+      "url": "https://www.cnbc.com/2025/11/07/cnbc-daily-open-its-a-bad-time-to-be-a-tech-investor-or-employee.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762496627&w=1920&h=1080",
+      "publishedAt": "2025-11-07T07:30:01Z",
+      "content": "October's job losses in the U.S. were nearly twice as high as a month earlier the steepest for any October since 2003, data from outplacement firm Challenger, Gray &amp; Christmas showed.\r\nThe techno… [+2796 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "8 really cool ways I use LiDAR on my iPhone and iPad - and you can too",
+      "description": "You can play, design, and capture like never before. Here's how.",
+      "url": "https://www.zdnet.com/article/8-really-cool-ways-i-use-lidar-on-my-iphone-and-ipad-and-you-can-too/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b117d58fa3b0cdca7ce80110141b13435dfba93b/2025/11/06/f69f1424-2b25-4c13-88e0-fe6888548bf7/i-uncovered-8-cool-ways-to-use-lidar-on-an-iphone-and-ipad2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-07T07:30:00Z",
+      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>LiDAR unlocks new iPhone AR experiences.</li><li>Scan rooms, measure spaces, a… [+8225 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "European markets set to open mixed amid AI valuation concerns",
+      "description": "Investors will also be watching earnings and data releases from France and Germany.",
+      "url": "https://www.cnbc.com/2025/11/07/europe-markets-stocks-in-focus-amid-concerns-over-ai-valuations.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107375414-1708415793669-gettyimages-1284052919-bi5i0710_2020110512622117.jpeg?v=1762497918&w=1920&h=1080",
+      "publishedAt": "2025-11-07T07:18:33Z",
+      "content": "LONDON European markets are expected to open mixed on Friday as investors react to a U.S. tech sell off.\r\nThe U.K.'s FTSE 100 is set to open slightly lower, while futures in France's CAC index and It… [+2091 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/0901ceb82759b82c91743be2324a8182236ec89b/2025/11/05/f03957c2-153d-4735-bfe6-0c66c6be5105/gettyimages-980627922.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T11:00:44Z",
       "content": "Martin POKORNY/500px via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Study suggests AI can adopt gambling \"addiction.\"</li><li>Autonomous models are t… [+4458 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jess Weatherbed",
-      "title": "Tinder’s AI can find better matches by scanning your camera roll",
-      "description": "Tinder is testing an AI-powered “Chemistry” feature that learns about your interests and personality by analyzing your camera roll. In its latest earnings report, the dating app’s parent company, Match Group, described it as an interactive matching feature th…",
-      "url": "https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK143_Tinder_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T10:03:50Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe dating app is testing a new feature that gets to know users by analyzing their photos.\r\nThe dating app is testing a new feature that gets to know users by an… [+2123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nvidia's Jensen Huang softens his ‘China will win the AI race’ remark to FT",
-      "description": "Nvidia CEO Jensen Huang reportedly told the Financial Times that \"China is going to win the AI race,\" before releasing a notably softer statement soon after.",
-      "url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222120-17623850772025-11-05t232015z_1107606753_rc2lqhan43vc_rtrmadp_0_britain-royals-king.jpeg?v=1762385223&w=1920&h=1080",
-      "publishedAt": "2025-11-06T09:04:56Z",
-      "content": "Nvidia CEO Jensen Huang reportedly told the Financial Times on Wednesday that \"China is going to win the AI race,\" only to release a notably softer statement soon after. \r\nThe prolific tech leader wa… [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Eirik Salmi, system analyst, Passwork",
-      "title": "Why UK businesses are paying ICO millions for password mistakes you're probably making right now",
-      "description": "Strongly-worded emails to staff telling them to be more careful aren't going to cut it anymore Partner Content  UK GDPR Article 32 mandates \"appropriate security measures\". The ICO has defined what that means: multi-million-pound fines for password failures. …",
-      "url": "https://www.theregister.com/2025/11/06/why_uk_businesses_paying/",
-      "urlToImage": "https://regmedia.co.uk/2017/09/19/password_shutterstock.jpg",
-      "publishedAt": "2025-11-06T09:00:09Z",
-      "content": "Partner Content UK GDPR Article 32 mandates \"appropriate security measures\". The ICO has defined what that means: multi-million-pound fines for password failures. The violations that trigger them? Sm… [+10484 chars]"
     }
   ]
 }
