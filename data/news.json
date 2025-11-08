@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-08T03:14:23.692Z",
+  "fetchedAt": "2025-11-08T03:46:24.378Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Elon Musk says Tesla needs to build 'gigantic chip fab' to meet AI and robotics needs",
+      "description": "Tesla CEO Elon Musk he needs a \"gigantic\" semiconductor fabrication plant to meet the company's chip needs as it expands its AI and robotics ventures.",
+      "url": "https://www.cnbc.com/2025/11/07/elon-musk-says-tesla-needs-gigantic-chip-fab-terra-for-ai-and-robotics-tsmc-intel.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108168277-17518962972025-05-13t150806z_1042401118_rc23heap82k4_rtrmadp_0_usa-trump-gulf-investment.jpeg?v=1751896328&w=1920&h=1080",
+      "publishedAt": "2025-11-07T03:42:29Z",
+      "content": "Tesla CEO Elon Musk says the company will likely need to build a \"gigantic\" semiconductor fabrication plant to keep up with its artificial intelligence and robotics ambitions.\r\n\"One of the things I'm… [+1617 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/03-FCv2-Dashboard-EN.jpeg?resize=1200,650",
       "publishedAt": "2025-11-06T04:07:32Z",
       "content": "Discord has rolled out updates to its Family Center, giving guardians more insights into their teens’ usage patterns, including purchases, top interactions, and time spent. The goal is to help parent… [+2023 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Qualcomm bets on inferencing in the cloud, which Arm says can’t run it all it forever",
-      "description": "Awkward, seeing as they’re close partners Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon.…",
-      "url": "https://www.theregister.com/2025/11/06/qualcomm_24_arm_q2_results/",
-      "urlToImage": "https://regmedia.co.uk/2021/12/10/shutterstock_cloud_question_mark.jpg",
-      "publishedAt": "2025-11-06T04:03:37Z",
-      "content": "Qualcomm and Arm have offered differing predictions regarding the market for inferencing silicon.\r\nBoth companies announced quarterly results on Wednesday and Qualcomm CEO Cristiano Amon used his com… [+4600 chars]"
     }
   ]
 }
