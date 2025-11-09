@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T18:40:50.064Z",
+  "fetchedAt": "2025-11-09T19:03:29.408Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Matthew Miller",
+      "title": "Is this minimalist timepiece a viable alternative to smartwatches? My verdict after a week",
+      "description": "Pebble is back with a $149 smartwatch that comes with key improvements, including a month-long battery life.",
+      "url": "https://www.zdnet.com/article/is-this-minimalist-timepiece-a-viable-alternative-to-smartwatches-my-verdict-after-a-week/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/868e85115be3c4fca8f21b764dbeaf95d6f076e4/2025/11/06/9716deff-39e6-4183-b007-39811320b184/pebble-2-duo6.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-08T18:49:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've got a bit of a history with the Pebble brand. In 2013, I backed its first watch on Kickstarter, and then a couple of years later, I purchas… [+4301 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -59,12 +72,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "34-year-old was saving to buy a house, then decided to focus on early retirement instead: 'I value my time more than home ownership'",
-      "description": "In 2020, Anita Kinoshita started her journey to buy a home. After many failed attempts over two years, she decided to start saving to retire early instead.",
-      "url": "https://www.cnbc.com/2025/11/08/millennial-saving-buy-a-house-decide-start-saving-early-retirement.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222596-1762456794823-IMG_8209.jpeg?v=1762457946&w=1920&h=1080",
+      "title": "Top 10 trending destinations for U.S. travelers in 2026: 'Americans are discovering their own backyard,' expert says",
+      "description": "In October, Skyscanner released its best places to visit in 2026 report and ranked the top trending destinations for U.S. travelers.",
+      "url": "https://www.cnbc.com/2025/11/08/best-places-to-visit-in-2026-skyscanner.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219413-1761837388617-gettyimages-1410639987-dsc03669.jpeg?v=1761837525&w=1920&h=1080",
       "publishedAt": "2025-11-08T15:00:01Z",
-      "content": "In 2020, Anita Kinoshita, 28 years old at the time, started looking into buying a house.\r\nKinoshita was living in California and making around $70,000 a year as a software engineer for the Department… [+5606 chars]"
+      "content": "Last month, Skyscanner published its annual report of destinations around the world that are trending for 2026.\r\nTo determine the ranking, Skyscanner looked at destinations with the biggest year-over… [+4070 chars]"
     },
     {
       "source": {
@@ -72,12 +85,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Top 10 trending destinations for U.S. travelers in 2026: 'Americans are discovering their own backyard,' expert says",
-      "description": "In October, Skyscanner released its best places to visit in 2026 report and ranked the top trending destinations for U.S. travelers.",
-      "url": "https://www.cnbc.com/2025/11/08/best-places-to-visit-in-2026-skyscanner.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219413-1761837388617-gettyimages-1410639987-dsc03669.jpeg?v=1761837525&w=1920&h=1080",
+      "title": "34-year-old was saving to buy a house, then decided to focus on early retirement instead: 'I value my time more than home ownership'",
+      "description": "In 2020, Anita Kinoshita started her journey to buy a home. After many failed attempts over two years, she decided to start saving to retire early instead.",
+      "url": "https://www.cnbc.com/2025/11/08/millennial-saving-buy-a-house-decide-start-saving-early-retirement.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222596-1762456794823-IMG_8209.jpeg?v=1762457946&w=1920&h=1080",
       "publishedAt": "2025-11-08T15:00:01Z",
-      "content": "Last month, Skyscanner published its annual report of destinations around the world that are trending for 2026.\r\nTo determine the ranking, Skyscanner looked at destinations with the biggest year-over… [+4070 chars]"
+      "content": "In 2020, Anita Kinoshita, 28 years old at the time, started looking into buying a house.\r\nKinoshita was living in California and making around $70,000 a year as a software engineer for the Department… [+5606 chars]"
     },
     {
       "source": {
@@ -124,12 +137,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -137,12 +150,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/amazon-kindle-stock-image-GettyImages-1202535978.jpg?resize=1200,800",
       "publishedAt": "2025-11-06T20:24:22Z",
       "content": "Amazon announced on Thursday the launch of Kindle Translate, an AI-powered translation service designed for authors using Kindle Direct Publishing to broaden their reach. The service initially transl… [+2171 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Steven Vaughan-Nichols",
-      "title": "Why even a US tech giant is launching 'sovereign support' for Europe now",
-      "description": "Red Hat's new offering comes in response to a broader trend sweeping Europe.",
-      "url": "https://www.zdnet.com/article/why-even-a-us-tech-giant-is-launching-sovereign-support-for-europe-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/85aa7e76d2461704f21dea8a81ef6deea7bb99fc/2025/11/06/79011110-f8ae-4741-a9c1-6fb834660100/eukeyboard555gettyimages-467494410.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T20:23:35Z",
-      "content": "ArtemSam/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>There's a growing push for digital sovereignty in Europe.  </… [+4050 chars]"
     }
   ]
 }
