@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-08T23:31:29.776Z",
+  "fetchedAt": "2025-11-09T00:47:35.473Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "You’ve just been laid off because of AI — here’s what to do next",
+      "description": "\"AI literacy is likely to become a baseline requirement for jobs in the future,\" Glassdoor's Chief Economist Daniel Zhao told CNBC Make It.",
+      "url": "https://www.cnbc.com/2025/11/08/youve-just-been-laid-off-because-of-ai-heres-what-to-do-next-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166333-1751378216884-layoff_anxiety_stock_pic.jpeg?v=1762524248&w=1920&h=1080",
+      "publishedAt": "2025-11-08T00:41:47Z",
+      "content": "U.S. job cuts in October marked the worst layoffs since 2003, per a report from Challenger, Gray &amp; Christmas.\r\nAI-driven layoffs have become a dominant theme of 2025 as thousands of workers find … [+5146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "ChatGPT, Claude, and Grok make very squishy jury members",
+      "description": "All three acquitted a teen in a mock trial based on a case where a judge ruled guilty\nLaw students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.…",
+      "url": "https://www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/09/lawyer.jpg",
+      "publishedAt": "2025-11-08T00:06:41Z",
+      "content": "Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.\r\nThe fictional case focuses on Henry Justus, identi… [+2885 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222438-1762447445919-02_Draw_Budget_Reconciliation.png?v=1762447588&w=1920&h=1080",
       "publishedAt": "2025-11-06T16:45:08Z",
       "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+3402 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Datadog's stock soars 20% on revenue beat, strong forecast",
-      "description": "Datadog has rolled out multiple artificial intelligence technologies as the AI boom boosts demand for cloud security.",
-      "url": "https://www.cnbc.com/2025/11/06/datadogs-ddog-stock-earnings.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094154-1738167464226-gettyimages-1771039402-omarques_08112023_ILLUS_PHONE_tech-12.jpeg?v=1762442735&w=1920&h=1080",
-      "publishedAt": "2025-11-06T16:36:32Z",
-      "content": "Datadog shares jumped 20% on Thursday after the software company reported third-quarter revenue that topped Wall Street estimates and issued a strong forecast for the fourth quarter.\r\nThe company rep… [+1399 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "OpenAI CFO Sarah Friar says company isn't seeking government backstop, clarifying prior comment",
-      "description": "OpenAI CFO Sarah Friar said in a LinkedIn post that the artificial intelligence company is not seeking a government backstop for its infrastructure commitments.",
-      "url": "https://www.cnbc.com/2025/11/06/openai-cfo-sarah-friar-says-company-is-not-seeking-government-backstop.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108188498-1755694394560-SG-Friar-03.jpg?v=1755694558&w=1920&h=1080",
-      "publishedAt": "2025-11-06T16:28:45Z",
-      "content": "OpenAI CFO Sarah Friar said late Wednesday that the artificial intelligence startup is not seeking a government backstop for its infrastructure commitments, clarifying previous comments she made on s… [+1741 chars]"
     }
   ]
 }
