@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-09T11:06:08.458Z",
+  "fetchedAt": "2025-11-09T11:31:12.768Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "CPU collector peels the lid off a Soviet era ‘fish can’ chip to peer inside with multiple microscopes — K565RU3 was a Soviet-era clone of Western chips like the Intel-designed 4116",
+      "description": "The K565RU3 is a 16KB DRAM IC that was cloned from Western chips found in classic machines like the Apple II, Commodore PET, and original IBM PC.",
+      "url": "https://www.tomshardware.com/pc-components/dram/cpu-collector-peels-the-lid-off-a-soviet-era-fish-can-chip-to-peer-inside-with-multiple-microscopes-k565ru3-was-a-soviet-era-clone-of-western-chips-like-the-intel-designed-4116",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VewUiumL7iDAQpgFMCwdx4-1920-80.jpg",
+      "publishedAt": "2025-11-08T11:30:00Z",
+      "content": "A fascinating Soviet-era retro electronics artifact was dissected and micrographed by CPU collector CPU Duke this weekend. Under the enthusiast’s selection of microscopes this time was the ‘K565PY3.’… [+3084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map",
+      "description": "Esra'a Al Shafei spoke with The Reg about the spy tech 'global trade'\ninterview Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she's made it her mission to surveil the companies providing surveillanc…",
+      "url": "https://www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/",
+      "urlToImage": "https://regmedia.co.uk/2024/01/22/eye_shutterstock.jpg",
+      "publishedAt": "2025-11-08T11:08:06Z",
+      "content": "interview Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she's made it her mission to surveil the companies providing surveillanceware, the… [+7682 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194499-17570112162025-09-04t183633z_125926534_rc25lgajv1fu_rtrmadp_0_usa-trump-melania.jpeg?v=1757011234&w=1920&h=1080",
       "publishedAt": "2025-11-06T17:43:06Z",
       "content": "Venture capitalist David Sacks, who is serving as President Donald Trump's artificial intelligence and crypto czar, said Thursday that there will be \"no federal bailout for AI.\"\r\n\"The U.S. has at lea… [+1206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Microsoft forms superintelligence team under AI chief Suleyman 'to serve humanity'",
-      "description": "The MAI Superintelligence Team will pursue research for improving artificial intelligence companions, diagnosing diseases and generating renewable energy.",
-      "url": "https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107316177-16971261952023-10-12t155306z_1650182883_rc23r3aw5898_rtrmadp_0_axios-bfd.jpeg?v=1762449041&w=1920&h=1080",
-      "publishedAt": "2025-11-06T17:33:00Z",
-      "content": "Microsoft on Thursday said it's forming a team that will be tasked with performing advanced artificial intelligence research.\r\nMustafa Suleyman, CEO of the Microsoft AI group that includes Bing and t… [+2308 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Google Finance gets a Gemini-powered upgrade - what it can do for you now",
-      "description": "These new AI features surface more information faster. Can they help Google compete with Yahoo Finance?",
-      "url": "https://www.zdnet.com/article/google-finance-gets-a-gemini-powered-upgrade-what-it-can-do-for-you-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0005cecfd5aa2fca1a7ecb15ecd4700a918b5705/2025/11/06/8c321960-088e-4525-a9db-2f963c0aaf92/gettyimages-838506570.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T17:00:36Z",
-      "content": "Gina Pricope/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Finance. </li><li>You can now ask… [+3422 chars]"
     }
   ]
 }
