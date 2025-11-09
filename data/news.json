@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T20:35:13.066Z",
+  "fetchedAt": "2025-11-09T21:07:19.795Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Is Wall Street losing faith in AI? | TechCrunch",
+      "description": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
+      "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+      "publishedAt": "2025-11-08T20:53:48Z",
+      "content": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.\r\nThe Wall Street Journal reports that the Nasdaq Composite Index was down 3% making this its worst … [+951 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Kindle-Paperwhite.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-06T21:17:59Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThe beta feature can translate between English and Spanish and from German to English.\r\nThe beta feature can translate between English and Spanish and from Germa… [+2212 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Jack Meserve",
-      "title": "Welcome to the age of viral police body cam footage",
-      "description": "If you’re arrested in America for a minor charge — say, for speeding or loitering — the punishment from the legal system might end up being the least of your worries. You might wake up a few months later and see your arrest, filmed through a police body camer…",
-      "url": "https://www.vox.com/the-highlight/466006/bodycam-youtube-viral-content-police-transparency-policy",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/BodyCams_Highlight_Vox.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T20:53:04Z",
-      "content": "If you’re arrested in America for a minor charge — say, for speeding or loitering — the punishment from the legal system might end up being the least of your worries. You might wake up a few months l… [+17346 chars]"
     }
   ]
 }
