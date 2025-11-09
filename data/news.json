@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T16:39:32.300Z",
+  "fetchedAt": "2025-11-09T17:07:13.415Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "OpenAI asks U.S. to expand CHIPS Act tax credit to cover AI infrastructure despite firm's denial wanting a government 'backstop' for its massive loans",
+      "description": "OpenAI has asked the Trump administration to expand a major CHIPS Act tax credit to support the build-out of AI infrastructure, including servers, data centers, and power systems.",
+      "url": "https://www.tomshardware.com/tech-industry/openai-asks-us-to-expand-chips-act-tax-credit-to-cover-ai-infrastructure",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/grYb4cyDZep3aiZ4AbQ8YC-2560-80.jpg",
+      "publishedAt": "2025-11-08T17:00:09Z",
+      "content": "OpenAI has asked the Trump administration to expand a major CHIPS Act tax credit to support the build-out of AI infrastructure, including servers, data centers, and power systems. The company submitt… [+2830 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/5ccb424075d2d69aad0a399cdf0e679c0e57d97b/2025/11/06/f076eea0-8a5a-4f0a-a38e-3ef3cbc5128c/spotifystatsscreenshot-2025-11-06-145401.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T20:19:18Z",
       "content": "Anadolu/Contributor/Anadolu via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Spotify now offers a new weekly listening stats feature.</li><li>Th… [+2243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Sam Altman says OpenAI will top $20 billion in annualized revenue this year, hundreds of billions by 2030",
-      "description": "OpenAI has inked more than $1.4 trillion of infrastructure deals, raising questions about how it will pay for those commitments.",
-      "url": "https://www.cnbc.com/2025/11/06/sam-altman-says-openai-will-top-20-billion-annual-revenue-this-year.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108203057-17586652402025-09-23t214859z_181395313_rc2wxganf0ii_rtrmadp_0_tech-openai-texas.jpeg?v=1758900748&w=1920&h=1080",
-      "publishedAt": "2025-11-06T20:15:47Z",
-      "content": "OpenAI CEO Sam Altman said Thursday that the artificial intelligence startup is on track to generate more than $20 billion in annualized revenue run rate this year, with plans to grow to hundreds of … [+2548 chars]"
     }
   ]
 }
