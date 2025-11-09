@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T15:32:22.794Z",
+  "fetchedAt": "2025-11-09T16:09:02.758Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Too early to bet against AI trade, State Street suggests",
+      "description": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq’s worst week since April.",
+      "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108103716-1739901805641-JP3_8684.jpg?v=1740074904&w=1920&h=1080",
+      "publishedAt": "2025-11-08T16:00:02Z",
+      "content": "State Street is reiterating its bullish stance on the artificial intelligence trade despite the Nasdaq's worst week since April.\r\nAccording to the firm's chief business officer Anna Paglia, momentum … [+2006 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/Graveyard-with-dollar-signs.jpg?resize=1200,900",
       "publishedAt": "2025-11-06T20:10:08Z",
       "content": "OpenAI execs have been fielding plenty of questions about how they expect to pay for the $1.4 trillion worth of data center build-outs and usage commitments they’ve accrued this year, given that thei… [+4227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "Microsoft researchers tried to manipulate AI agents - and only one resisted all attempts",
-      "description": "AI agents can buy and sell on our behalf. Here's why that should worry us.",
-      "url": "https://www.zdnet.com/article/microsoft-researchers-tried-to-manipulate-ai-agents-and-only-one-resisted-all-attempts/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/d3b21dcc6177075deac3256b0fd4c6c8712bd2b6/2025/11/06/8bcdd2cd-6612-439f-b880-bb4e8a9c8a02/gettyimages-172663146.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T20:01:25Z",
-      "content": "danleap/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft studied interactions between AI customers and vendor… [+7600 chars]"
     }
   ]
 }
