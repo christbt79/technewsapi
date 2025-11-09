@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T12:15:24.736Z",
+  "fetchedAt": "2025-11-09T12:56:57.457Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Amazon is selling the M4 MacBook Air for its lowest price ever - and it's an easy buy for me",
+      "description": "Apple's 13-inch M4 MacBook Air is an easy win for most consumers, with more base memory, improved display support, and an extremely competitive price.",
+      "url": "https://www.zdnet.com/article/amazon-is-selling-the-m4-macbook-air-for-its-lowest-price-ever-and-its-an-easy-buy-for-me/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/6bc9dc9d7d79cc53e062264180f7380750c6b2a4/2025/03/12/8ca9fb2a-cf0a-46e6-92b8-4bbfb0926510/img-0550.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-08T12:30:27Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBefore Apple announced the MacBook Air M4 in early 2025, rumors abounded on what new features the ultraportable would come with. \r\nPartly becaus… [+8806 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -221,6 +234,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/4HJYkYFh8nWGoQyNT7DE2W-2560-80.jpg",
       "publishedAt": "2025-11-07T19:17:32Z",
       "content": "Beijing just announced that it will suspend the expanded rare-earth export controls it announced in early October. The Chinese Ministry of Commerce (MOFCOM) and the General Administration of Customs … [+2653 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Stephanie Psaki",
+      "title": "Pandemics are a choice",
+      "description": "For the first time in history, we have an opportunity to stop the next pandemic. From the earliest thinking of the Greek physician and philosopher Claudius Galen to the 19th-century British “father of epidemiology” John Snow to the years before the Covid-19 p…",
+      "url": "https://www.vox.com/future-perfect/467821/pandemic-prevention-vaccines-covid-flu",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2190684694.jpg?quality=90&strip=all&crop=0%2C5.4200510958104%2C100%2C89.159897808379&w=1200",
+      "publishedAt": "2025-11-07T18:36:46Z",
+      "content": "For the first time in history, we have an opportunity to stop the next pandemic.\r\nFrom the earliest thinking of the Greek physician and philosopher Claudius Galen to the 19th-century British father o… [+16318 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-06-at-1.03.40PM.png?resize=1200,644",
       "publishedAt": "2025-11-06T18:22:38Z",
       "content": "Meta announced on Thursday that Vibes, its short-form video feed of AI-generated videos, is launching in Europe in the Meta AI app. Think TikTok or Instagram Reels, but every single video you come ac… [+2056 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Adrienne So",
-      "title": "Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year",
-      "description": "This $400 set comes with minifigures of the complete Next Gen crew, including Picard, Riker, and Wesley Crusher’s portable tractor beam.",
-      "url": "https://www.wired.com/story/lego-uss-enterprise-2025/",
-      "urlToImage": "https://media.wired.com/photos/690cdd24677ec257317add78/191:100/w_1280,c_limit/Lego-Star-Trek-Gear-10356_Lifestyle_Build_01.jpg",
-      "publishedAt": "2025-11-06T18:06:01Z",
-      "content": "It is impossible to overstate just how big an impact Star Trek: The Next Generation had on an entire generation of kids growing up in the 1990s. I watched every episode with my mom. When I walked int… [+1818 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Subtle Computing's voice isolation models help computers understand you in noisy environments | TechCrunch",
-      "description": "Subtle Computing has raised $6M in seed funding to build voice isolation models. The startup plans to announce a hardware device next year.",
-      "url": "https://techcrunch.com/2025/11/06/subtle-computings-voice-isolation-models-help-computers-understand-you-in-noisy-environments/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Press-Release-Photo-Close-1.jpeg?resize=1200,800",
-      "publishedAt": "2025-11-06T17:59:34Z",
-      "content": "California-based startup Subtle Computing is tackling the problem of capturing people’s voices in noisy environments with its own voice isolation models — a technology that could benefit voice-based … [+4288 chars]"
     }
   ]
 }
