@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T04:39:29.049Z",
+  "fetchedAt": "2025-11-09T05:08:58.049Z",
   "articles": [
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Tesla shareholders didn’t approve of investment in Musk’s xAI",
+      "description": "Tesla board Chair Robyn Denholm said ‘we haven’t invested in it’ because xAI is developing a different kind of technology than the real-world applications Tesla is pursuing in A",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-07/tesla-shareholders-didn-t-approve-authorizing-investment-in-xai",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/m6g5q9/article70255476.ece/alternates/LANDSCAPE_1200/2025-09-15T132409Z_738826327_RC2GK1AOL8BI_RTRMADP_3_TESLA-STOCKS.JPG",
+      "publishedAt": "2025-11-08T04:56:47Z",
+      "content": "A Tesla Inc. shareholder proposal for the board to authorise an investment in xAI wasnt approved, clouding prospects for the Elon Musk-led carmaker to take a stake in his artificial intelligence star… [+2499 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24347780/STK095_Microsoft_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-06T16:51:08Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nA new team will focus on creating AI designed only to serve humanity.\r\nA new team will focus on creating AI designed only to serve humanity.\r\nby\r\nEmma RothClose\r… [+2754 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Agents of misfortune: The world isn't ready for autonomous software",
-      "description": "Amazon's spat with Perplexity shows that technology is not the only blocker for the agentic era\nOpinion The agentic era remains a fantasy world. Software agents, the notional next frontier for generative AI services, cannot escape the gravity of their contrad…",
-      "url": "https://www.theregister.com/2025/11/06/agents_of_misfortune_the_world/",
-      "urlToImage": "https://regmedia.co.uk/2017/03/22/cybellum_doubleagent_logo_detail.jpg",
-      "publishedAt": "2025-11-06T16:46:53Z",
-      "content": "Opinion The agentic era remains a fantasy world. Software agents, the notional next frontier for generative AI services, cannot escape the gravity of their contradictions, legal ambiguities, and comp… [+8159 chars]"
     }
   ]
 }
