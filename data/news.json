@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-09T11:31:12.768Z",
+  "fetchedAt": "2025-11-09T12:15:24.736Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "AMD warns the Intel and Nvidia partnership is a risk to its business — quarterly report outlines risk from 'increased competition and pricing pressure'",
+      "description": "AMD lists the Nvidia's $5 billion investment in Intel as a specific risk in its quarterly report.",
+      "url": "https://www.tomshardware.com/tech-industry/amd-warns-intel-nvidia-partnership-is-a-business-risk-quarterly-report-outlines-risk-from-increased-competition-and-pricing-pressure",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XenbuSE4WSu4P29aghNJK6-2560-80.jpg",
+      "publishedAt": "2025-11-08T12:00:00Z",
+      "content": "The Nvidia/Intel partnership announced in mid-September is putting pressure on AMD, as stated in its November 2025 quarterly report. According to the document, Nvidia’s $5-billion stake in Intel is a… [+2965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
+      "description": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
+      "url": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107410286-1714759879649-untitled-246-2-335.jpg?v=1714827163&w=1920&h=1080",
+      "publishedAt": "2025-11-08T11:32:10Z",
+      "content": "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)\r\nBerkshire… [+7917 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Press-Release-Photo-Close-1.jpeg?resize=1200,800",
       "publishedAt": "2025-11-06T17:59:34Z",
       "content": "California-based startup Subtle Computing is tackling the problem of capturing people’s voices in noisy environments with its own voice isolation models — a technology that could benefit voice-based … [+4288 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Stewart Bendle",
-      "title": "Apple's latest MacBook Air, MacBook Pro, and Mac Mini are on sale ahead of Black Friday — several models drop to all-time low prices",
-      "description": "Is now the time to pick up a new MacBook with an M4 inside? Apple's iconic laptops are at their lowest-ever prices ahead of Black Friday",
-      "url": "https://www.tomshardware.com/laptops/macbooks/apples-latest-macbook-air-macbook-pro-and-mac-mini-are-on-sale-ahead-of-black-friday-several-models-drop-to-all-time-low-prices",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sW5GTBqzpashPfiyAqfBtb-1920-80.jpg",
-      "publishedAt": "2025-11-06T17:52:59Z",
-      "content": "As a treat for fans of Apple computers, some of the company's best and most affordable computers have dropped to new all-time low prices. With Black Friday and Cyber Monday sales just on the horizon,… [+1469 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump AI czar Sacks says 'no federal bailout for AI' after OpenAI CFO's comments",
-      "description": "Sacks' comments came after OpenAI CFO Sarah Friar mentioned a federal \"backstop\" during a conference.",
-      "url": "https://www.cnbc.com/2025/11/06/trump-ai-sacks-federal-bailout-openai-friar.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194499-17570112162025-09-04t183633z_125926534_rc25lgajv1fu_rtrmadp_0_usa-trump-melania.jpeg?v=1757011234&w=1920&h=1080",
-      "publishedAt": "2025-11-06T17:43:06Z",
-      "content": "Venture capitalist David Sacks, who is serving as President Donald Trump's artificial intelligence and crypto czar, said Thursday that there will be \"no federal bailout for AI.\"\r\n\"The U.S. has at lea… [+1206 chars]"
     }
   ]
 }
