@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-09T14:33:47.926Z",
+  "fetchedAt": "2025-11-09T15:07:30.155Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "34-year-old was saving to buy a house, then decided to focus on early retirement instead: 'I value my time more than home ownership'",
+      "description": "In 2020, Anita Kinoshita started her journey to buy a home. After many failed attempts over two years, she decided to start saving to retire early instead.",
+      "url": "https://www.cnbc.com/2025/11/08/millennial-saving-buy-a-house-decide-start-saving-early-retirement.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222596-1762456794823-IMG_8209.jpeg?v=1762457946&w=1920&h=1080",
+      "publishedAt": "2025-11-08T15:00:01Z",
+      "content": "In 2020, Anita Kinoshita, 28 years old at the time, started looking into buying a house.\r\nKinoshita was living in California and making around $70,000 a year as a software engineer for the Department… [+5606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Top 10 trending destinations for U.S. travelers in 2026: 'Americans are discovering their own backyard,' expert says",
+      "description": "In October, Skyscanner released its best places to visit in 2026 report and ranked the top trending destinations for U.S. travelers.",
+      "url": "https://www.cnbc.com/2025/11/08/best-places-to-visit-in-2026-skyscanner.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219413-1761837388617-gettyimages-1410639987-dsc03669.jpeg?v=1761837525&w=1920&h=1080",
+      "publishedAt": "2025-11-08T15:00:01Z",
+      "content": "Last month, Skyscanner published its annual report of destinations around the world that are trending for 2026.\r\nTo determine the ranking, Skyscanner looked at destinations with the biggest year-over… [+4070 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "The Apple Watch SE 3 and Lego’s Star Wars Advent Calendar are our favorite deals this week",
+      "description": "Hey, all! The first week of November ushered in dozens of early Black Friday deals, and many of the best ones are still available as we delve further into the weekend. Some of our favorite fitness trackers have already plunged to new lows, for instance, and w…",
+      "url": "https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0096.jpg?quality=90&strip=all&crop=0%2C32.547993019197%2C100%2C34.904013961606&w=1200",
+      "publishedAt": "2025-11-08T14:36:26Z",
+      "content": "<ul><li></li><li></li><li>\r\nVerge Shopping</li></ul>\r\nYou can also snag a discount on Samsungs latest Switch 2-compatible microSD Express card and a portable power station.\r\nYou can also snag a disco… [+5901 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/d3b21dcc6177075deac3256b0fd4c6c8712bd2b6/2025/11/06/8bcdd2cd-6612-439f-b880-bb4e8a9c8a02/gettyimages-172663146.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T20:01:25Z",
       "content": "danleap/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Microsoft studied interactions between AI customers and vendor… [+7600 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Sora for Android saw nearly half a million installs on its first day",
-      "description": "Sora's Android launch is off to an auspicious start, new data shows.",
-      "url": "https://techcrunch.com/2025/11/06/sora-for-android-saw-nearly-half-a-million-installs-on-its-first-day/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-      "publishedAt": "2025-11-06T19:48:39Z",
-      "content": "Sora’s Android launch is off to an auspicious start. On its first day on the Google Play Store, the AI video app from ChatGPT maker OpenAI saw an estimated 470,000 downloads across the markets where … [+1920 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Senators call on Trump to continue banning Nvidia from selling its best chips in China",
-      "description": "A group of senators is urging President Donald Trump to preserve the US’s edge in AI development by denying China access to its most advanced chips and models. The bipartisan resolution, submitted by Sens. Chris Coons (D-DE) and Tom Cotton (R-AR), comes just …",
-      "url": "https://www.theverge.com/news/815806/senate-resolution-trump-us-ai-technology-china",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T19:46:04Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA bipartisan resolution urges President Trump to safeguard American AI technology.\r\nA bipartisan resolution urges President Trump to safeguard American AI techno… [+3595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Elyse Betters Picaro",
-      "title": "Google Maps vs. Waze: I compared two of the best navigation apps, and here's who wins",
-      "description": "The Waze vs. Google Maps debate has raged for years. Here's my verdict after testing both.",
-      "url": "https://www.zdnet.com/article/google-maps-vs-waze-i-compared-two-of-the-best-navigation-apps-and-heres-who-wins/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9e3b0b4bd4984edd33614733fbd0099188f369db/2025/11/05/cd42c069-4cee-4cc8-a594-ca484ecfceb3/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-this-one-easily-wins.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T19:45:00Z",
-      "content": "Waze definitely has a personality, thanks to its colorful, cartoony design packed with big icons and bold, in-your-face alerts. It's also got a playful side when it comes to customization. You can st… [+1557 chars]"
     }
   ]
 }
