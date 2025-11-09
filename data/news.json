@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-09T13:37:33.972Z",
+  "fetchedAt": "2025-11-09T14:07:12.654Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "How startups can lure good talent fairly without big tech bank accounts  | TechCrunch",
+      "description": "Three industry insiders walk through how startups can set up an employee equity strategy that remains fair as a company grows.",
+      "url": "https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Comp-panel.jpg?resize=1200,800",
+      "publishedAt": "2025-11-08T14:02:13Z",
+      "content": "Startups have never been able to offer the same sizable salaries as big tech companies. Now with companies like Meta and OpenAI willing to pay million-dollar salaries amid the AI race the compensatio… [+3779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "I finally have enough cash to pay off my student loan in full—here's why I'm not doing it",
+      "description": "Mathetmatically, paying off my debt now would cost me less money. But I don't want to put my wedding savings in jeopardy.",
+      "url": "https://www.cnbc.com/2025/11/08/i-have-enough-cash-to-pay-off-my-student-loan-why-im-not.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222713-1762464737221-gettyimages-1419594993-cr_vfkdpr220613a5-996430-01.jpeg?v=1762464767&w=1920&h=1080",
+      "publishedAt": "2025-11-08T14:00:01Z",
+      "content": "Everyone who knows me knows that I can't stand owing money. I pay down my credit cards every month, and I complete Venmo requests the second I get them.\r\nThe only debt I have left is my student loan,… [+4731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "publishedAt": "2025-11-08T14:00:01Z",
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "publishedAt": "2025-11-08T14:00:01Z",
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/9e3b0b4bd4984edd33614733fbd0099188f369db/2025/11/05/cd42c069-4cee-4cc8-a594-ca484ecfceb3/waze-vs-google-maps-i-compared-two-of-the-top-navigation-apps-and-this-one-easily-wins.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T19:45:00Z",
       "content": "Waze definitely has a personality, thanks to its colorful, cartoony design packed with big icons and bold, in-your-face alerts. It's also got a playful side when it comes to customization. You can st… [+1557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "OpenAI CFO says can keep afloat without federal bailout",
-      "description": "Money-losing biz says it does not need government help to meet massive infrastructure commitments OpenAI CFO Sarah Friar says that her company is not seeking federal loan guarantees after suggesting the opposite in an on-stage interview at a Wall Street Journ…",
-      "url": "https://www.theregister.com/2025/11/06/openai_cfo_walks_back_remarks/",
-      "urlToImage": "https://regmedia.co.uk/2025/08/05/openai.jpg",
-      "publishedAt": "2025-11-06T19:43:00Z",
-      "content": "OpenAI CFO Sarah Friar says that her company is not seeking federal loan guarantees after suggesting the opposite in an on-stage interview at a Wall Street Journal event.\r\nSpeaking at the WSJ's Tech … [+3772 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brad Bourque",
-      "title": "The 15-Inch MacBook Air Is Marked Down by $200",
-      "description": "Save hundreds on our preferred MacBook for most people.",
-      "url": "https://www.wired.com/story/macbook-air-15-deal-1125/",
-      "urlToImage": "https://media.wired.com/photos/690cf17789922924938df0e1/191:100/w_1280,c_limit/The%2015-Inch%20MacBook%20Air%20Is%20Marked%20Down%20by%20$200.png",
-      "publishedAt": "2025-11-06T19:14:58Z",
-      "content": "Looking for an Apple laptop with a bigger screen? You're in luck, as the 15-inch MacBook Air with the M4 CPU is currently marked down by $200 on Amazon in a variety of configurations and colors, incl… [+1807 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Meta reportedly projected 10% of 2024 sales came from scam, fraud ads",
-      "description": "Meta projected that about $16 billion in 2024 revenue came from running ads for scams and banned goods, according to a Thursday report from Reuters.",
-      "url": "https://www.cnbc.com/2025/11/06/meta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194774-1757072533523-gettyimages-2233066222-TECH_CEOS_WH.jpeg?v=1762450033&w=1920&h=1080",
-      "publishedAt": "2025-11-06T18:46:51Z",
-      "content": "Meta projected that 10% of its overall sales in 2024, or about $16 billion, came from running online ads for scams and banned goods, according to a Thursday report from Reuters. \r\nThose kinds of ads … [+2035 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "I wore 5 different headphones across 8 flights - here's how each pair handled my stress tests",
-      "description": "The airplane is the ultimate test for headphones and earbuds. I tried the top models so you don't have to.",
-      "url": "https://www.zdnet.com/article/i-wore-5-different-headphones-across-8-flights-heres-how-each-pair-handled-my-stress-tests/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5a431b2b28b07233721f4cfd5536ad7b774ae1e6/2025/09/23/291f821e-ff36-453a-9202-4fd84a94df95/px8-5.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T18:43:00Z",
-      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nTo me, there's no better way to spend several hours of my time than in a packed airplane, squished next to strangers, 30,000 f… [+8738 chars]"
     }
   ]
 }
