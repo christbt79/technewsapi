@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-09T12:56:57.457Z",
+  "fetchedAt": "2025-11-09T13:18:54.781Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming",
+      "description": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.",
+      "url": "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221842-1762362592580-251028-cg-32-subsea-cables-gfx1_0-00-07-08.png?v=1762451999&w=1920&h=1080",
+      "publishedAt": "2025-11-08T13:00:01Z",
+      "content": "Over 95% of international data and voice call traffic travels through nearly a million miles of underwater communication cables.\r\nThese cables carry government communications, financial transactions,… [+8894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Zak Killian",
+      "title": "SanDisk reportedly jacks up flash prices by 50% as memory makers cash in on AI-fueled demand",
+      "description": "This move underscores a rapidly tightening memory market, affecting both flash and DRAM.",
+      "url": "https://www.tomshardware.com/pc-components/storage/sandisk-reportedly-jacks-up-flash-prices-by-50-percent-as-memory-makers-cash-in-on-ai-fueled-demand",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bWjuN8pbASUx5Uu67tn4g4-1920-80.jpg",
+      "publishedAt": "2025-11-08T13:00:00Z",
+      "content": "SanDisk has reportedly raised its NAND flash contract prices by a staggering 50% for November, according to DigiTimes Asia. This move underscores a rapidly tightening memory market, driven by both un… [+3130 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/5a431b2b28b07233721f4cfd5536ad7b774ae1e6/2025/09/23/291f821e-ff36-453a-9202-4fd84a94df95/px8-5.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T18:43:00Z",
       "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nTo me, there's no better way to spend several hours of my time than in a packed airplane, squished next to strangers, 30,000 f… [+8738 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Senate bill would require companies to report AI layoffs as job cuts reach 20-year high in October",
-      "description": "Government agencies would also have to report losses due to automation. ai-pocalypse  A bipartisan pair of US Senators has introduced a bill that would require companies and government agencies to report AI-related layoffs, and it couldn't come at a better ti…",
-      "url": "https://www.theregister.com/2025/11/06/ai_job_cuts_senate_bill/",
-      "urlToImage": "https://regmedia.co.uk/2016/08/22/layoffs_fired_rif.jpg",
-      "publishedAt": "2025-11-06T18:23:09Z",
-      "content": "ai-pocalypse A bipartisan pair of US Senators has introduced a bill that would require companies and government agencies to report AI-related layoffs, and it couldn't come at a better time. October j… [+4505 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Aisha Malik",
-      "title": "Meta brings its short-form video feed of AI slop to Europe",
-      "description": "Meta says that since the launch of Vibes, media generation in the Meta AI app has jumped more than tenfold.",
-      "url": "https://techcrunch.com/2025/11/06/meta-brings-its-short-form-video-feed-of-ai-slop-to-europe/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-06-at-1.03.40PM.png?resize=1200,644",
-      "publishedAt": "2025-11-06T18:22:38Z",
-      "content": "Meta announced on Thursday that Vibes, its short-form video feed of AI-generated videos, is launching in Europe in the Meta AI app. Think TikTok or Instagram Reels, but every single video you come ac… [+2056 chars]"
     }
   ]
 }
