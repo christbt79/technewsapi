@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T10:36:54.383Z",
+  "fetchedAt": "2025-11-09T11:06:08.458Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lisa Wood Shapiro",
+      "title": "Bad Air Is One of the Biggest Threats to Your Health. Here’s How to Protect Yourself",
+      "description": "Even though you can’t see it, fine particulate matter from woodsmoke and industrial pollution can cause everything from heart attacks and diabetes to brain damage.",
+      "url": "https://www.wired.com/story/one-of-the-biggest-threats-to-your-health-is-something-you-cant-see/",
+      "urlToImage": "https://media.wired.com/photos/690ea342a235b24163149920/191:100/w_1280,c_limit/Bad%20Air%20Is%20One%20of%20the%20Biggest%20Threats%20to%20Your%20Health_.png",
+      "publishedAt": "2025-11-08T11:06:00Z",
+      "content": "There's something invisible that can put us in an early grave. And Im not talking about sentient AI, but something much more ubiquitous and real. While AI doomers predict the existential risk that ar… [+5464 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/0005cecfd5aa2fca1a7ecb15ecd4700a918b5705/2025/11/06/8c321960-088e-4525-a9db-2f963c0aaf92/gettyimages-838506570.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-06T17:00:36Z",
       "content": "Gina Pricope/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Finance. </li><li>You can now ask… [+3422 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "Use Google Finance? It just got a new Gemini-powered 'Deep Search' trick - how to try it",
-      "description": "These new AI features surface more information faster. Can they help Google compete with Yahoo Finance?",
-      "url": "https://www.zdnet.com/article/use-google-finance-it-just-got-a-new-gemini-powered-deep-search-trick-how-to-try-it/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/0005cecfd5aa2fca1a7ecb15ecd4700a918b5705/2025/11/06/8c321960-088e-4525-a9db-2f963c0aaf92/gettyimages-838506570.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-06T17:00:00Z",
-      "content": "Gina Pricope/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google launched Gemini upgrades to Google Finance. </li><li>You can now ask… [+3461 chars]"
     }
   ]
 }
