@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-09T19:03:29.408Z",
+  "fetchedAt": "2025-11-09T19:31:13.339Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI",
+      "description": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
+      "url": "https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/pluribus.jpeg?resize=1200,803",
+      "publishedAt": "2025-11-08T19:31:07Z",
+      "content": "If you watched all the way to the end of the new Apple TV show Pluribus, you may have noticed an unusual disclaimer in the credits: This show was made by humans.\r\nThat terse message   placed right be… [+906 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/BodyCams_Highlight_Vox.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-06T20:53:04Z",
       "content": "If you’re arrested in America for a minor charge — say, for speeding or loitering — the punishment from the legal system might end up being the least of your worries. You might wake up a few months l… [+17346 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Amazon launches an AI-powered Kindle Translate service for ebook authors | TechCrunch",
-      "description": "Kindle Translate, an AI-powered translation service, is designed to broaden the reach of ebook authors.",
-      "url": "https://techcrunch.com/2025/11/06/amazon-launches-an-ai-powered-kindle-translate-service-for-ebook-authors/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/08/amazon-kindle-stock-image-GettyImages-1202535978.jpg?resize=1200,800",
-      "publishedAt": "2025-11-06T20:24:22Z",
-      "content": "Amazon announced on Thursday the launch of Kindle Translate, an AI-powered translation service designed for authors using Kindle Direct Publishing to broaden their reach. The service initially transl… [+2171 chars]"
     }
   ]
 }
