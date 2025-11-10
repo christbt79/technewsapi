@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-10T12:18:33.179Z",
+  "fetchedAt": "2025-11-10T13:05:02.539Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage — delays forcing rapid transition to QLC SSDs",
+      "description": "Artificial intelligence has taken yet another victim. After GPUs and memory, storage is now facing a shortage as well, at least in the enterprise space. Production capacity for nearline storage, fueled by high-capacity server HDDs, is booked for the next two …",
+      "url": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VsVniKWsqcufsCr7tEUNeF-2560-80.jpg",
+      "publishedAt": "2025-11-09T13:00:00Z",
+      "content": "The race to achieve AGI (artificial general intelligence) has pushed constituents to invest in and build data centers at a pace far outstripping our ability to make them. Manufacturers are struggling… [+2635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "DIY Amiga sound sampler circuit mystery solved 32 years later — Magazine instructions had key component spec typos",
+      "description": "An electronics enthusiast remade a 1993 DIY project from his youth, but hard-earned skills and experience ironed out errors in the printed instructions.",
+      "url": "https://www.tomshardware.com/pc-components/sound-cards/diy-amiga-sound-sampler-circuit-mystery-solved-32-years-later-magazine-instructions-had-key-component-spec-typos",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BhVhVFM9mfKXft8cgTtxcJ-1920-80.jpg",
+      "publishedAt": "2025-11-09T12:20:00Z",
+      "content": "A three-decade-old “Amiga mystery” has been solved by an intrepid electronics-focused TechTuber. Rob Smith originally tried to make a DIY sampler for his Amiga computer back in 1993. Despite his best… [+3909 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222305-1762434909896-gettyimages-2227994887-img_1951.jpeg?v=1762434961&w=1920&h=1080",
       "publishedAt": "2025-11-06T21:24:30Z",
       "content": "Shares of Airbnb rose as much as 5% in extended trading on Thursday after the company reported third-quarter results that beat analysts' estimates for revenue and offered rosy guidance.\r\nHere's how t… [+1616 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Google’s Ironwood TPUs represent a bigger threat than Nvidia would have you believe",
-      "description": "Chocolate Factory's homegrown silicon boasts Blackwell-level perf at massive scale opinion  Look out, Jensen! With its TPUs, Google has shown time and time again that it's not the size of your accelerators that matters but how efficiently you can scale them i…",
-      "url": "https://www.theregister.com/2025/11/06/googles_ironwood_tpus_ai/",
-      "urlToImage": "https://regmedia.co.uk/2025/04/09/google_tpu_v7.jpg",
-      "publishedAt": "2025-11-06T21:19:18Z",
-      "content": "opinion Look out, Jensen! With its TPUs, Google has shown time and time again that it's not the size of your accelerators that matters but how efficiently you can scale them in production.\r\nNow with … [+6550 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments | TechCrunch",
-      "description": "Sam Altman says OpenAI has $20B ARR and about $1.4 trillion in data center commitments | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/06/sam-altman-says-openai-has-20b-arr-and-about-1-4-trillion-in-data-center-commitments/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
-      "publishedAt": "2025-11-06T21:18:58Z",
-      "content": "Rarely has a month gone by in 2025 without OpenAI signing another multi-billion-dollar data center deal. In a lengthy post on X on Thursday, OpenAI CEO Sam Altman publicly clarified the totals.\r\n“We … [+1414 chars]"
     }
   ]
 }
