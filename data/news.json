@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-10T13:45:50.096Z",
+  "fetchedAt": "2025-11-10T14:09:47.597Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "New U.S. nuclear power boom begins with old, still-unsolved problem: What to do with radioactive waste",
+      "description": "As government and industry, from tech giants to utilities, commit to big nuclear power plants, there is still no clear solution for radioactive waste storage.",
+      "url": "https://www.cnbc.com/2025/11/09/nuclear-power-energy-radioactive-waste-storage-disposal.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221991-1762373977671-gettyimages-2235534882-AFP_74YQ8ZR.jpeg?v=1762374032&w=1920&h=1080",
+      "publishedAt": "2025-11-09T14:00:01Z",
+      "content": "Castor containers for high-level radioactive waste.\r\nNuclear power is back, largely due to the skyrocketing demand for electricity, including big tech's hundreds of artificial intelligence data cente… [+12853 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jacob Roach",
+      "title": "What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool",
+      "description": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here’s how to make the most of it.",
+      "url": "https://www.wired.com/story/what-is-adobe-firefly/",
+      "urlToImage": "https://media.wired.com/photos/690eb355b8a8d7f1f81e6d11/191:100/w_1280,c_limit/Adobe%20Firefly-%20What%20It%20Is%20and%20How%20to%20Use%20It.png",
+      "publishedAt": "2025-11-09T14:00:00Z",
+      "content": "Firefly is powerful, and I wont be able to cover everything you can do with it. Instead, Ill walk you through a simple workflow of generating an image using an AI model, and then using that image as … [+1608 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -202,12 +228,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -215,12 +241,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25489960/STK022_ELON_MUSK_CVIRGINIA_F.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
       "publishedAt": "2025-11-06T21:55:13Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nMusks extensive holdings, plus his loyal fan base, meant the vote was never really in doubt.\r\nMusks extensive holdings, plus his loyal fan base, meant the vote w… [+5624 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Peloton posts bullish holiday forecast, betting that shoppers will spend big on new product lineup",
-      "description": "Peloton beat Wall Street's expectations on the top and bottom lines and issued strong holiday guidance.",
-      "url": "https://www.cnbc.com/2025/11/06/peloton-pton-earnings-q1-2026.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108055225-1730321492176-gettyimages-2167023468-PELOTON_EARNS.jpeg?v=1754418885&w=1920&h=1080",
-      "publishedAt": "2025-11-06T21:33:48Z",
-      "content": "Peloton on Thursday posted its second profitable quarter in a row as it released strong guidance for the crucial holiday shopping season, banking on its relaunched product assortment to drive growth.… [+3491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Airbnb shares rise on revenue beat, stronger-than-expected forecast",
-      "description": "Shares of Airbnb rose in extended trading after the company reporter third-quarter results that beat revenue expectations.",
-      "url": "https://www.cnbc.com/2025/11/06/airbnb-abnb-q3-results-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222305-1762434909896-gettyimages-2227994887-img_1951.jpeg?v=1762434961&w=1920&h=1080",
-      "publishedAt": "2025-11-06T21:24:30Z",
-      "content": "Shares of Airbnb rose as much as 5% in extended trading on Thursday after the company reported third-quarter results that beat analysts' estimates for revenue and offered rosy guidance.\r\nHere's how t… [+1616 chars]"
     }
   ]
 }
