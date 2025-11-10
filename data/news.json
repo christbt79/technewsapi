@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-10T03:38:03.644Z",
+  "fetchedAt": "2025-11-10T04:17:29.822Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
+      "description": "After a volatile week for AI stocks and the tech sector more broadly, CNBC travels to Web Summit in Lisbon — 'Davos for geeks' — to assess sentiment.",
+      "url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061119-17313533352024-11-11t192700z_367821524_rc263bafo1p7_rtrmadp_0_tech-websummit.jpeg?v=1731353377&w=1920&h=1080",
+      "publishedAt": "2025-11-09T03:58:08Z",
+      "content": "The city of Lisbon in Portugal turns to tech next week, as it plays host to the annual Web Summit conference. The event, also known as the \"Davos for geeks,\" will feature some of the biggest names in… [+1837 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
       "publishedAt": "2025-11-06T21:18:58Z",
       "content": "Rarely has a month gone by in 2025 without OpenAI signing another multi-billion-dollar data center deal. In a lengthy post on X on Thursday, OpenAI CEO Sam Altman publicly clarified the totals.\r\n“We … [+1414 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "Amazon offers AI translation for self-published Kindle books",
-      "description": "Amazon is making it easier for self-published authors to release their ebooks in multiple languages with Kindle Translate, a new AI translation tool that launched in beta on Thursday to a limited number of Kindle Direct Publishing (KDP) authors. In its early …",
-      "url": "https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Kindle-Paperwhite.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-06T21:17:59Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe beta feature can translate between English and Spanish and from German to English.\r\nThe beta feature can translate between English and Spanish and from Germa… [+2212 chars]"
     }
   ]
 }
