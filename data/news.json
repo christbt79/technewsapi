@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-11-11T12:18:22.742Z",
+  "fetchedAt": "2025-11-11T13:04:54.103Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "6Sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1Mind | TechCrunch",
+      "description": "6Sense founder Amanda Kahlow raises $30 million for new human-replacement AI sales startup 1Mind | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/10/6sense-founder-amanda-kahlow-raises-30-million-for-new-human-replacement-ai-sales-startup-1mind/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Amanda-Kahlow.jpeg?w=896",
+      "publishedAt": "2025-11-10T13:04:26Z",
+      "content": "Although LLM-powered AI agents are a fairly new phenomenon, one of the areas where they’ve been most popular so far is in sales. 1Mind, a startup co-founded by Amanda Kahlow, has been quietly shippin… [+4718 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Scribe hits $1.3B valuation as it moves to show where AI will actually pay off | TechCrunch",
+      "description": "Scribe Optimize is the startup's next major offering to help organizations identify where AI will be most useful.",
+      "url": "https://techcrunch.com/2025/11/10/scribe-hits-1-3b-valuation-as-it-moves-to-show-where-ai-will-actually-pay-off/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/scribe-founders.jpg?resize=1200,800",
+      "publishedAt": "2025-11-10T13:01:38Z",
+      "content": "After helping several enterprises document how work actually happens, Scribe has raised $75 million at a $1.3 billion post-money valuation to roll out Scribe Optimize, a platform that maps workflows … [+3817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "As private tech market heats up, PitchBook makes startup data available via ChatGPT",
+      "description": "PitchBook is launching PitchBook Navigator, a new generative AI tool that produces private market insights based on user prompts.",
+      "url": "https://www.cnbc.com/2025/11/10/pitchbook-introduces-ai-tool-navigaton-integrates-with-chatgpt.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223264-1762549402237-gettyimages-2222108524-TFSPI_29062025-8512.jpeg?v=1762549469&w=1920&h=1080",
+      "publishedAt": "2025-11-10T13:00:01Z",
+      "content": "The private tech market has never been hotter, with companies like OpenAI, SpaceX, Anthropic and Stripe climbing to astronomical valuations. \r\nPitchBook, one of the top providers of data on startups,… [+2115 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Christopher Null",
+      "title": "Asus ProArt P16 Review: The Fastest Windows Laptop",
+      "description": "This just might be the fastest Windows laptops on the market. Don’t ask about the price.",
+      "url": "https://www.wired.com/review/asus-proart-p16-2025/",
+      "urlToImage": "https://media.wired.com/photos/69102466efb14f39767edbf0/191:100/w_1280,c_limit/Review-%20Asus%20ProArt%20P16.png",
+      "publishedAt": "2025-11-10T13:00:00Z",
+      "content": "In CapCut (which comes installed), the dial can be used for zoom, frame-by-frame stepping in a videoclip, and other adjustment functions. Adobe app support is also broad and preconfigured, but all of… [+1752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Instacart tops third-quarter expectations under new CEO Rogers, gives strong guidance",
+      "description": "Instacart said it's expanding artificial intelligence tools, and recently launched a suite of new solutions for grocers.",
+      "url": "https://www.cnbc.com/2025/11/10/instacart-cart-stock-earnings-q3-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107411565-1715095961087-gettyimages-2004544232-PGONCHAR_1316.jpeg?v=1762777354&w=1920&h=1080",
+      "publishedAt": "2025-11-10T12:59:50Z",
+      "content": "Instacart's stock rose more than 8% before the bell Monday after the grocery delivery platform topped third-quarter earnings and issued upbeat guidance under new CEO Chris Rogers.\r\nHere's how the com… [+2205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Micron delays New York chipmaking fabs by five years, but accelerates second fab in Idaho and reallocates CHIPS Act funding",
+      "description": "Micron has reportedly postponed its New York fab project near Clay by several more years: Fab 1 is not expected is now expected to be completed in 2030 and full campus build-out is now projected to be fully ramped in 2045. At the same time, the company reallo…",
+      "url": "https://www.tomshardware.com/pc-components/dram/microns-new-york-chipmaking-fabs-by-five-years-but-accelerates-second-fab-in-idaho-and-reallocates-chips-act-funding",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MKPAJtT8MT8FuEjoJ2s7Ko-1920-80.jpg",
+      "publishedAt": "2025-11-10T12:56:40Z",
+      "content": "Micron has disclosed another major postponement for its fabs near Clay, New York, which will pull out the facilities coming online only in late 2033, reports Syracuse, citing recently released docume… [+4276 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Silicon Valley data centers totalling nearly 100MW could 'sit empty for years' due to lack of power — huge installations are idle because Santa Clara can't cope with surging electricity demands",
+      "description": "In the heart of Silicon Valley, two freshly built data centers designed for the world’s most power-hungry computing workloads are standing empty.",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K7Efwz7zHNob3LcA9bqtvX-2000-80.jpg",
+      "publishedAt": "2025-11-10T12:36:21Z",
+      "content": "In the heart of Silicon Valley, two freshly built data centers designed for the world’s most power-hungry computing workloads are standing empty. Digital Realty’s four-story SJC37 facility and Stack … [+2619 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222573-17624550972025-11-06t184628z_1673660215_rc25rhas1dn5_rtrmadp_0_usa-trump.jpeg?v=1762455130&w=1920&h=1080",
       "publishedAt": "2025-11-07T12:57:40Z",
       "content": "Tesla CEO Elon Musk attends the Saudi-U.S. Investment Forum, in Riyadh, Saudi Arabia, May 13, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.… [+5256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "The world is overly reliant on one US-located mine for critical chipmaking material, but China is working to break the stranglehold — China investing over $14 million in synthetic quartz manufacturing to diversify away from US dependency",
-      "description": "High-purity quartz is crucial for semiconductor manufacturing, and you can only get it naturally from the mine in North Carolina.",
-      "url": "https://www.tomshardware.com/tech-industry/the-world-is-overly-reliant-on-one-us-located-mine-for-critical-chipmaking-material-but-china-is-working-to-break-the-stranglehold-china-investing-over-usd14-million-in-synthetic-quartz-manufacturing-to-diversify-away-from-us-dependency",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9he4ntLNGuNEgux66tyL2B-1920-80.jpg",
-      "publishedAt": "2025-11-07T12:40:00Z",
-      "content": "China just invested RMB 100 million, worth about $14 million at the current exchange rate, into Nantong Crystal Co., Ltd. — a materials company that specializes in synthesizing high-quality quartz fo… [+2650 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Google's decade-long bet on custom chips is turning into company's secret weapon in AI race",
-      "description": "Google's cloud business is a primary engine of growth, and the company's custom-built chips called Tensor Processing Units are helping drive it.",
-      "url": "https://www.cnbc.com/2025/11/07/googles-decade-long-bet-on-tpus-companys-secret-weapon-in-ai-race.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107357532-1704996941481-gettyimages-1757709969-omarques_01112023_ILLUS_TECH_16.jpeg?v=1762379098&w=1920&h=1080",
-      "publishedAt": "2025-11-07T12:30:01Z",
-      "content": "Nvidia has established itself as the undisputed leader in artificial intelligence chips, selling large quantities of silicon to most of the world's biggest tech companies en route to a $4.5 trillion … [+8859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "Microsoft's data sovereignty: Now with extra sovereignty!",
-      "description": "Under shadow of US CLOUD Act, Redmond releases raft of services to calm customers in the EU Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the…",
-      "url": "https://www.theregister.com/2025/11/07/microsoft_announces_strengthening_of_sovereignty/",
-      "urlToImage": "https://regmedia.co.uk/2022/09/15/shutterstock_block_world_map.jpg",
-      "publishedAt": "2025-11-07T12:22:18Z",
-      "content": "Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the US government when legally requ… [+4609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Bruno Ferreira",
-      "title": "Substrate's claims about revolutionary ASML-beating chipmaking technology scrutinized, analyst likens the venture to a fraud — report pokes holes in the startup's technology, messaging, and leaders",
-      "description": "Analyst likens Substrate's tech, messaging, and leadership to a fraud.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/substrates-claims-about-revolutionary-asml-beating-chipmaking-technology-scrutinized-analyst-likens-the-venture-to-a-fraud-report-pokes-holes-in-the-startups-technology-messaging-and-leaders",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/c5UNEjzNz4RbNNeVRduno-1152-80.png",
-      "publishedAt": "2025-11-07T12:20:00Z",
-      "content": "The Substrate startup has been doing the rounds in the news lately, thanks to its proposition of making chips using particle accelerators and X-rays instead of conventional EUV lithography, claiming … [+4073 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Molly Higgins",
-      "title": "How to Get Your Cat or Dog to Lose Weight—Experts Weigh In (2025)",
-      "description": "Most household pets are overweight. I talked to experts to find the best ways to get your furry friend to shed a few pounds.",
-      "url": "https://www.wired.com/story/how-to-get-your-cat-to-lose-weight/",
-      "urlToImage": "https://media.wired.com/photos/690d3b8982112205a256736b/191:100/w_1280,c_limit/How%20to%20Get%20Your%20Pet%20to%20Lose%20Weight.png",
-      "publishedAt": "2025-11-07T12:03:00Z",
-      "content": "<ul><li>Engage in active play for at least 30 minutes a day, whether that be with a wand toy, laser (just make sure to reward them after their hunt), or whatever toy they like best. (Check out my ful… [+6568 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Defying anti-cheat, creator gets Battlefield 6 running on 12-year-old AMD FX-9590 CPU, playable at 40+ FPS in 786p with an RX 5700 GPU — experiment reveals only SecureBoot, not TPM, is necessary for Javelin anti-cheat",
-      "description": "AMD's Bulldozer-era FX-9590 CPU from 2013 managed to run Battlefield 6 at over 30 FPS at 1080p resolution, boosting to 40+ FPS at lower resolutions on smaller maps. FX-9590, despite being more than a decade old, does support SecureBoot, which was enough for B…",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/youtuber-gets-battlefield-6-running-on-12-year-old-amd-fx-9590-cpu-playable-at-40-fps-in-786p-with-an-rx-5700-gpu-experiment-reveals-only-secureboot-not-tpm-is-necessary-for-javelin-anti-cheat",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vHHY7pr26znuC4eVw4hMAn-2560-80.png",
-      "publishedAt": "2025-11-07T12:00:00Z",
-      "content": "Battlefield 6 launched a month ago on console and PC to rave reviews, becoming a commercial hit. While the community has expressed anything but positive feedback for the FPS, one area where BF6 wasn'… [+2862 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Connor Jones",
-      "title": "Bank of England says JLR's cyberattack contributed to UK's unexpectedly slower GDP growth",
-      "description": "This kind of material economic impact from online crooks thought to be a UK-first\nThe Bank of England (BoE) has cited the cyberattack on Jaguar Land Rover (JLR) as one of the reasons for the country's slower-than-expected GDP growth in its latest rates decisi…",
-      "url": "https://www.theregister.com/2025/11/07/bank_of_england_says_jlrs/",
-      "urlToImage": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg",
-      "publishedAt": "2025-11-07T11:44:18Z",
-      "content": "The Bank of England (BoE) has cited the cyberattack on Jaguar Land Rover (JLR) as one of the reasons for the country's slower-than-expected GDP growth in its latest rates decision.\r\nWe've not had any… [+4040 chars]"
     }
   ]
 }
