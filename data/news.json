@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T15:40:07.273Z",
+  "fetchedAt": "2025-11-11T16:11:30.002Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "Google Maps releases new AI tools that let you create interactive projects",
+      "description": "Google is debuting an agent that will generate code for you to build interactive Maps projects.",
+      "url": "https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Builder-agent-interface.jpeg?resize=1200,673",
+      "publishedAt": "2025-11-10T16:00:00Z",
+      "content": "Google Maps is adding new AI features, including a builder agent and an MCP server — a tool that connects AI assistants to Google Maps’ technical documentation — to help developers and users create i… [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Popular camera company dishes out gold keycaps worth up to $45,000 to top employees — more than 50 prizes given out by Insta360",
+      "description": "Webcam brand Insta360 has gifted real gold keycaps, worth up to $45,000 each, to its most valued employees.",
+      "url": "https://www.tomshardware.com/peripherals/keycaps/popular-camera-company-dishes-out-gold-keycaps-worth-up-to-usd45-000-to-top-employees-more-than-50-prizes-given-out-by-insta360",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DwqfHMD3BU3Eb866umu75N-1920-80.jpg",
+      "publishedAt": "2025-11-10T15:56:33Z",
+      "content": "Leading action-and webcam brand Insta360 has gifted real gold keycaps to its most valued employees. SCMPreports that this generosity has become something of a tradition in recent years at the Shenzhe… [+2199 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -315,19 +341,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -338,6 +351,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -826,12 +852,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -839,12 +865,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220677-1762190343174-gettyimages-2244067612-AFP_82QF8ZK.jpeg?v=1762462431&w=1920&h=1080",
       "publishedAt": "2025-11-07T16:55:28Z",
       "content": "\"Neighbors need food NOW,\" the homepage of Second Harvest Food Bank of South Louisiana reads.\r\nAmid uncertainty around SNAP funding, food banks across the U.S. are scrambling to pick up the slack for… [+6557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "As FAA order triggers flight cancellations and delays, what to know about credit card travel insurance",
-      "description": "The shutdown of the U.S. federal government is causing flight delays and cancellations. What to know about travel credit card insurance.",
-      "url": "https://www.cnbc.com/2025/11/07/faa-flight-cancellations-credit-card-travel-insurance.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222451-1762447068719-gettyimages-2244435678-1528605-me-lax-staffing-delays-jey-02.jpeg?v=1762447115&w=1920&h=1080",
-      "publishedAt": "2025-11-07T16:54:55Z",
-      "content": "As air travel cancellations and delays mount during the government shutdown, affected travelers will want to consider all their avenues for recourse including the credit card they used to book their … [+3965 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "X appears to be sending fake traffic across the web",
-      "description": "X's new link experiment on iOS may be artificially inflating traffic. Websites like Substack and Bluesky noticed a sharp increase in \"fake\" views following the update, something that Nick Eubanks, the VP of owned media at the digital marketing platform Semrus…",
-      "url": "https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535560/STK160_X_TWITTER_2__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-07T16:53:49Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nA new link experience on iOS is supposed to help creators on X improve their reach, but its muddying up traffic measurements for everyone else.\r\nA new link exper… [+3924 chars]"
     }
   ]
 }
