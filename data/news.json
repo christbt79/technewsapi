@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-11T21:08:01.604Z",
+  "fetchedAt": "2025-11-11T21:34:27.644Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CoreWeave's revenue more than doubles as AI buildout expansion accelerates",
+      "description": "On top of deals with Meta and OpenAI, CoreWeave pointed to expansions from a large unnamed customer in the third quarter.",
+      "url": "https://www.cnbc.com/2025/11/10/coreweave-crwv-q3-earnings-report-2025.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223839-1762804083127-gettyimages-2206665095-COREWEAVE_IPO.jpeg?v=1762804144&w=1920&h=1080",
+      "publishedAt": "2025-11-10T21:32:52Z",
+      "content": "CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue on Monday. \r\nHere's how the company did in comparison with LSEG cons… [+1580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "AI slop hits new high as fake country artist hits #1 on Billboard digital songs chart",
+      "description": "It sounds a lot like everything else\nAI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard's Country Digital Song Sales chart.…",
+      "url": "https://www.theregister.com/2025/11/10/ai_country_artist_hits_number_one/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/10/ai-cowboy.jpg",
+      "publishedAt": "2025-11-10T21:21:32Z",
+      "content": "AI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard's Country Digital Song Sales chart.\r\nBreaking Rust, an AI \"band\" that appeared on the … [+4515 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Russell Brandom",
+      "title": "A better way of thinking about the AI bubble  | TechCrunch",
+      "description": "AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.",
+      "url": "https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/05/bubbles.jpg?resize=1200,800",
+      "publishedAt": "2025-11-10T21:18:18Z",
+      "content": "People often think about tech bubbles in apocalyptic terms, but it doesnt have to be as serious as all that. In economic terms, a bubble is a bet that turned out to be too big, leaving you with more … [+2928 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -562,19 +601,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -585,6 +611,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -1073,12 +1112,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -1086,12 +1125,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/02/09/lawyer.jpg",
       "publishedAt": "2025-11-08T00:06:41Z",
       "content": "Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.\r\nThe fictional case focuses on Henry Justus, identi… [+2885 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Webb Wright",
-      "title": "A new Chinese AI model claims to outperform GPT-5 and Sonnet 4.5 - and it's free",
-      "description": "The plot of the US-China AI arms race just thickened - again.",
-      "url": "https://www.zdnet.com/article/a-new-chinese-ai-model-claims-to-outperform-gpt-5-and-sonnet-4-5-and-its-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/bbc011f51be5065c072cc8a168eeaabb6495ffa0/2025/11/07/fa2dc887-c605-47c7-a4f2-c513cd5e22ea/redmoongettyimages-1313254535.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T22:07:28Z",
-      "content": "Artur Debat/Moment via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Moonshot released its new Kimi K2 Thinking model on Thursday.</li><li>It cla… [+7400 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Victoria Song",
-      "title": "Maybe Peloton is its own worst enemy",
-      "description": "For years - through its pandemic-fueled highs and its post-quarantine malaise - Peloton has held its earnings calls at a bright and bushy 8:30AM ET. Not yesterday. Instead, the company broke different news first thing in the morning: it issued yet another rec…",
-      "url": "https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8400097/akrales_170407_1569_0741.jpg?quality=90&strip=all&crop=0%2C21.465968586387%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-07T21:37:45Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nEvery time theres good news, Peloton always seems to follow it up with a recall, layoff, or some other gaffe.\r\nEvery time theres good news, Peloton always seems … [+5716 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Seven more families are now suing OpenAI over ChatGPT's role in suicides, delusions | TechCrunch",
-      "description": "Seven more families are now suing OpenAI over ChatGPT's role in suicides, delusions | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/07/seven-more-families-are-now-suing-openai-over-chatgpts-role-in-suicides-delusions/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-      "publishedAt": "2025-11-07T20:58:18Z",
-      "content": "Seven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective safeguards. Four of the lawsuits address ChatGPT’s al… [+2743 chars]"
     }
   ]
 }
