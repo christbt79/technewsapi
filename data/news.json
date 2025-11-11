@@ -1,6 +1,71 @@
 {
-  "fetchedAt": "2025-11-11T13:45:15.307Z",
+  "fetchedAt": "2025-11-11T14:09:49.926Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Mark Cuban: AI-skilled kids are more likely to become successful adults—they'll 'be best equipped to lead'",
+      "description": "Mark Cuban and fellow entrepreneur Emma Grede are ambassadors for a Samsung initiative providing free AI training resources to public schools across the U.S.",
+      "url": "https://www.cnbc.com/2025/11/10/mark-cuban-ai-skilled-kids-more-likely-to-become-successful-adults.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108167255-1751482455459-gettyimages-2204471367-dsc00553_dlftygab.jpeg?v=1761073888&w=1920&h=1080",
+      "publishedAt": "2025-11-10T14:08:54Z",
+      "content": "Tomorrow's leaders might be today's artificial intelligence-obsessed kids, according to billionaire serial entrepreneur Mark Cuban.\r\n\"Students who use AI will produce better, more creative work and g… [+3625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "30-year-old founder reached out to 100 strangers in 100 days—networking this way 'totally changed my life,' she says",
+      "description": "Carly Valancy kick-started her career with an ambitious networking strategy. Five years later, she's trying it again.",
+      "url": "https://www.cnbc.com/2025/11/10/30-year-old-founder-reached-out-to-100-strangers-in-100-daysit-totally-changed-my-life-she-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222003-1762374830913-carly_valancy.jpg?v=1762374919&w=1920&h=1080",
+      "publishedAt": "2025-11-10T14:05:02Z",
+      "content": "Reaching out to strangers is a daunting prospect for many, but Carly Valancy has a \"really special love\" for networking, she says.\r\nValancy, 30, has had a wide-ranging career so far: she's worked in … [+5118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Mark Tyson",
+      "title": "Hardware hacker installs Minecraft server on a cheap smart lightbulb — single 192 MHz RISC-V core with 276KB of RAM, enough to run tiny 90K byte world",
+      "description": "A hardware hacker has installed a Minecraft server on a cheap smart lightbulb.",
+      "url": "https://www.tomshardware.com/maker-stem/microcontrollers/hardware-hacker-installs-minecraft-server-on-a-cheap-smart-lightbulb-single-192-mhz-risc-v-core-with-276kb-of-ram-enough-to-run-tiny-90k-byte-world",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WMxgTMNadCkrYrMv92hdt8-1920-80.jpg",
+      "publishedAt": "2025-11-10T14:02:09Z",
+      "content": "A hardware hacker has installed a Minecraft server on a cheap smart lightbulb. Vimpo shows how this feat was completed and demonstrates the server working in a brief video, embedded below. Key to thi… [+2746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Former Google, Meta executives raise $100 million for high-capacity AI servers startup",
+      "description": "The three plan to sell high-memory server technology.",
+      "url": "https://www.cnbc.com/2025/11/10/majestic-labs-meta-google-ai-funding.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223253-1762548965885-ofer-Shacham-_0055-web.jpg?v=1762549193&w=1920&h=1080",
+      "publishedAt": "2025-11-10T14:00:01Z",
+      "content": "Ofer Shacham is CEO of Majestic Labs.\r\nThree former Meta and Google silicon executives on Monday announced they've raised a total of $100 million to build technology they say will reduce cloud compan… [+5494 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "Remote driving startup Vay could grab up to $410M from Singapore's Grab | TechCrunch",
+      "description": "Vay, a German startup offering remote-controlled rental cars, will get an investment of up to $410M from Singaporean super-app company Grab.",
+      "url": "https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/Vay_US_4.jpg?resize=1200,800",
+      "publishedAt": "2025-11-10T13:54:00Z",
+      "content": "Autonomous vehicles are having a moment, and it’s making it a lot easier for smaller companies to raise money. Vay, a German startup offering remote-controlled rental cars, will get $60 million in ca… [+3280 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -172,19 +237,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -195,6 +247,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -683,12 +748,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -696,12 +761,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1235,71 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210771-17601212712020-04-22t000000z_1304876358_rc2n9g9qajlt_rtrmadp_0_usa-rareearths.jpeg?v=1760121307&w=1920&h=1080",
       "publishedAt": "2025-11-07T14:20:48Z",
       "content": "Pentagon-backed MP Materials warned investors this week to approach other rare earths projects with caution, pointing to the industry's difficult economics.\r\nStocks of U.S. rare earth companies have … [+3196 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "David Pierce",
-      "title": "Bring back the iBook, you cowards",
-      "description": "Apple is reportedly working on a low-cost laptop powered by an iPhone chip. This could be a small deal, a decision made by supply chain economics and the fact that the M1 MacBook Air continues to sell well at Walmart. Or it could be huge, a return to form for…",
-      "url": "https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/VRG_VST_1107_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-07T14:10:27Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nOn The Vergecast: The DoorDash Problem, cheap Macs, and the new sound of Apple TV.\r\nOn The Vergecast: The DoorDash Problem, cheap Macs, and the new sound of Appl… [+3333 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "'Windows sucks,' former Microsoft Engineer says, explains how to fix it",
-      "description": "Respecting users choices and offering a hardcore mode among key suggestions. Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset s…",
-      "url": "https://www.theregister.com/2025/11/07/does_windows_really_suck_that/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/07/shutterstock_2199841037.jpg",
-      "publishedAt": "2025-11-07T14:09:53Z",
-      "content": "Retired Microsoft engineer Dave Plummer has waded into the argument over where Microsoft has gone wrong with Windows, suggesting that perhaps the OS needs a hardcore mode to offset some of its fluffi… [+3899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Dutch government allegedly folds to supply chain pressure, will relinquish control of Nexperia in China spat — reports say deal contingent upon China allowing firm to resume chip exports",
-      "description": "The Dutch government is ready to relinquish its control over Nexperia if Beijing allows its China factory to resume exports.",
-      "url": "https://www.tomshardware.com/tech-industry/dutch-government-allegedly-folds-to-supply-chain-pressure-will-relinquish-control-of-nexperia-in-china-spat-reports-say-deal-contingent-upon-china-allowing-firm-to-resume-chip-exports",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RKdCuEZywEN65oknnxUp7S-1920-80.jpg",
-      "publishedAt": "2025-11-07T14:08:04Z",
-      "content": "The Dutch government is reportedly ready to give up its control of Nexperia if Beijing allows its China unit to resume exports. Sources say that Nexperia may resume operations without government over… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Jensen Huang confirms there are no plans to ship Blackwell GPUs to China right now, chipmaker at Beijing's mercy — Nvidia CEO says shipments haven't been approved by Chinese authorities",
-      "description": "After President Trump and U.S. Treasury Secretary Scott Bessent reiterated that Nvidia will be barred from selling its most advanced chips to China, Jensen Huang has now confirmed that there are currently no active discussions on the matter. In fact, Nvidia a…",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-confirms-there-are-no-plans-to-ship-blackwell-gpus-to-china-right-now-chipmaker-at-beijings-mercy-nvidia-ceo-says-shipments-havent-been-approved-by-chinese-authorities",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/mc5XkQQAgKFLd3vqRTv6iR-2000-80.jpg",
-      "publishedAt": "2025-11-07T14:02:40Z",
-      "content": "Jensen Huang is in Taiwan for TSMC's sports day event right now. Before attending, he spoke to local media, giving insight on various ongoing developments surrounding Nvidia and its relationship with… [+2836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump budget cuts, agency gutting, leave Americans and economy at greater risk of being hacked, experts warn",
-      "description": "President Trump's government agency gutting and budget cuts leave the U.S. economy at greater risk of cyberattacks than a year ago, according to experts.",
-      "url": "https://www.cnbc.com/2025/11/07/trump-government-budget-cuts-cybersecurity-hacking-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221821-1762360217252-gettyimages-1212752225-006hacking-010.jpeg?v=1762360234&w=1920&h=1080",
-      "publishedAt": "2025-11-07T13:30:09Z",
-      "content": "Almost a year into the second Trump administration, public sector leaders and cybersecurity experts say budget cuts and gutting of federal agencies are weakening critical lines of government communic… [+10057 chars]"
     }
   ]
 }
