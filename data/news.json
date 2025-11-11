@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T17:38:45.408Z",
+  "fetchedAt": "2025-11-11T18:13:45.675Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "How to bluff your way to AI credibility with the right buzzwords",
+      "description": "As Gartner offers another serving of word salad, it’s time to know your skillatrophy from your pipeline choke\nA Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that wo…",
+      "url": "https://www.theregister.com/2025/11/10/ai_credibility_buzzwords/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_1856055466.jpg",
+      "publishedAt": "2025-11-10T17:42:51Z",
+      "content": "A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm clai… [+3802 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Molly Taft",
+      "title": "If the US Has to Build Data Centers, Here’s Where They Should Go",
+      "description": "A new analysis tries to calculate the coming environmental footprint of AI in the US and finds that the ideal sites for data centers aren’t where they’re being built.",
+      "url": "https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/",
+      "urlToImage": "https://media.wired.com/photos/690e2273e02b4cec0bdf665a/191:100/w_1280,c_limit/frame_000_delay-0.04s.jpg",
+      "publishedAt": "2025-11-10T17:40:27Z",
+      "content": "Tech companies have invested so much money in building data centers in recent months, its actively driving the US economyand the AI race is showing no signs of slowing down. Meta chief Mark Zuckerber… [+3001 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/7c4bb026568047ea66b18d8827e9222749bd7933/2025/11/07/500a9656-48c4-4a71-ae85-b3026387fa61/norebooklm.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-07T17:16:13Z",
       "content": "Google/ZDNET\r\nGoogle's NotebookLM is one of our favorite AI tools for productivity, and it just got several upgrades just in time for finals season. Users can now create flashcards and quizzes with t… [+1621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Gili Malinsky",
-      "title": "Lawyer: Gen Z is using ChatGPT for legal advice—why that's a bad idea",
-      "description": "Divorce attorney Jackie Combs has seen clients turn to ChatGPT for legal advice. But the bot is not always accurate.",
-      "url": "https://www.cnbc.com/2025/11/07/lawyer-gen-z-is-using-chatgpt-for-legal-advicewhy-thats-a-bad-idea.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222043-1762378331050-gettyimages-1430317544-ac074c.jpeg?v=1762378356&w=1920&h=1080",
-      "publishedAt": "2025-11-07T17:14:44Z",
-      "content": "A staggering 800 million people use ChatGPT on a weekly basis, according to parent company OpenAI.\r\nAnd a September 2025 report by the company shows they turn to the chatbot for many reasons like tra… [+2141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Trump CFPB takes aim at 15 states that ban medical debt on credit reports—it's 'salt in the wound,' says consumer advocate",
-      "description": "Recent guidance from the CFPB calls on courts to overturn laws in 15 states which prohibit including medical debt on consumer credit reports.",
-      "url": "https://www.cnbc.com/2025/11/07/trump-cfpb-aims-to-nix-laws-that-ban-medical-debt-on-credit-reports.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221909-1762366840520-gettyimages-2227846342-r5c_0825.jpeg?v=1762366864&w=1920&h=1080",
-      "publishedAt": "2025-11-07T17:02:56Z",
-      "content": "The administration of President Donald Trump is taking aim at state laws that ban the inclusion of medical debt on consumers' credit reports.\r\nIn late October, the Consumer Financial Protection Burea… [+4741 chars]"
     }
   ]
 }
