@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T14:41:05.496Z",
+  "fetchedAt": "2025-11-11T15:10:03.967Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Sapphire Sport spins out, rebrands as 359 Capital with $300M AUM | TechCrunch",
+      "description": "The newly independent 359 Capital is half-way through investing from $181 million second fund.",
+      "url": "https://techcrunch.com/2025/11/10/sapphire-sport-spins-out-rebrands-as-359-capital-with-300m-aum/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/Tonal-2-Screen-Interaction.jpeg?resize=1200,800",
+      "publishedAt": "2025-11-10T14:57:50Z",
+      "content": "Nearly seven years after announcing its first fund, Sapphire Sportthe venture fund focused on sports, media, and entertainmentis spinning out from Sapphire Ventures. The fund will rebrand as an indep… [+2253 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jack Wallen",
+      "title": "This Linux distro turned my spare PC into a personal cloud powerhouse - for free",
+      "description": "If you want to try self-hosting apps, and finally cut ties with big corporations like Google, umbrelOS makes it very easy.",
+      "url": "https://www.zdnet.com/article/this-linux-distro-turned-my-spare-pc-into-a-personal-cloud-powerhouse-for-free/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/8823cf8aad67b0ff0c25d22228751f9648672024/2025/11/10/3af6cf5b-e1af-4af0-be43-071cddddff61/umbrelos-is-one-of-the-impressive-home-server-operating-systems-ive-ever-used2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T14:41:46Z",
+      "content": "Jack Wallen / Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>umbrelOS simplifies deploying an in-house cloud.</li><li>You can instal… [+5668 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25535560/STK160_X_TWITTER_2__B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-07T16:53:49Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nA new link experience on iOS is supposed to help creators on X improve their reach, but its muddying up traffic measurements for everyone else.\r\nA new link exper… [+3924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Jon Martindale",
-      "title": "Explosive AI buildout brings into question water supply concerns — exploring how data centers could curb water demands",
-      "description": "Explosive data center construction projects under the new AI boom may threaten to damage local water sources and compete with citizens for access to clean drinking water.",
-      "url": "https://www.tomshardware.com/tech-industry/explosive-ai-buildout-brings-into-question-water-supply-concerns-exploring-how-data-centers-could-curb-water-demands",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Q2impBoBd8BXh7JgB4pptf-1920-80.jpg",
-      "publishedAt": "2025-11-07T15:42:28Z",
-      "content": "Data centers cost an incredible amount of money to build, and require equally eye-wateringamounts of electricity to power them. But while companies might talk up their green credentials through impro… [+8962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Sam Altman backs away from OpenAI's statements about possible U.S. gov't AI industry bailouts — company continues to lobby for financial support from the industry",
-      "description": "OpenAI CEO Sam Altman clarified on Thursday that the company does not \"have or want government guarantees\" for its data centers.",
-      "url": "https://www.tomshardware.com/tech-industry/sam-altman-distances-openai-from-data-center-bailout-talk",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/v9d9WT79yRDzDH7Mvtn8df-2560-80.jpg",
-      "publishedAt": "2025-11-07T15:29:27Z",
-      "content": "OpenAI CEO Sam Altman clarified on Wednesday, November 6, that “we [OpenAI] do not have or want government guarantees for OpenAI datacenters,” following a wave of speculation prompted by recent comme… [+3079 chars]"
     }
   ]
 }
