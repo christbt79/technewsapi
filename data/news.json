@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-11T18:46:03.214Z",
+  "fetchedAt": "2025-11-11T19:07:38.003Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Brandon Vigliarolo",
+      "title": "Critical federal cybersecurity funding set to resume as government shutdown draws to a close - for now",
+      "description": "Resolution acquiesced to by 8 Dems includes CISA Act funding, layoff reversals, and could be easily undone The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shut…",
+      "url": "https://www.theregister.com/2025/11/10/federal_cybersecurity_funding_set_to_resume/",
+      "urlToImage": "https://regmedia.co.uk/2022/07/21/congress_shutterstock.jpg",
+      "publishedAt": "2025-11-10T19:01:12Z",
+      "content": "The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores c… [+5428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "Musk confirms Tesla AI5 and AI6 will be made at both Samsung and TSMC, reinforcing dual-foundry strategy",
+      "description": "Elon Musk has confirmed that Tesla’s AI6 chip will be manufactured at both Samsung’s Taylor facility and TSMC’s Arizona fab. The update from the company’s CEO follows earlier comments in which he described Samsung’s site as technically superior.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/musk-confirms-tesla-ai5-and-ai6-will-be-made-at-samsung-and-tsmc",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDQbDpY8n3iFusBi82QeF5-720-80.jpg",
+      "publishedAt": "2025-11-10T18:59:19Z",
+      "content": "Elon Musk has confirmed that Tesla’s AI6 chip will be manufactured at both Samsung’s Taylor facility and TSMC’s Arizona fab. The update from the company’s CEO follows earlier comments in which he des… [+6416 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Lance Whitney",
+      "title": "Is AI a career killer? Not if you have these skills, McKinsey research shows",
+      "description": "Some organizations report a decrease in their workforce, while others are hiring for AI-related jobs - two roles in particular.",
+      "url": "https://www.zdnet.com/article/is-ai-a-career-killer-not-if-you-have-these-skills-mckinsey-research-shows/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c6e35ff0df92ac031d72c05050291b27938b6ff7/2025/11/10/67b96e72-96e2-4bd6-b42c-e364aa5f1fbb/closeface555gettyimages-1450615931.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T18:59:06Z",
+      "content": "Westend61/Westend61 via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey by McKinsey examines the impact of AI on the workforce.</li><li>Th… [+4154 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Minisforum launches its first ARM-based Mini PC with a full x16 PCIe slot for discrete GPUs — The MS-R1 packs a 12-core Cixin P1 SoC with up to 64 GB of RAM and generous IO, starting at $500",
+      "description": "Popular Mini PC manufacturer Minisforum has just stepped into the ARM market with the MS-R1. It's a 1.7-liter compact system with the CIX CD8180 SoC, consisting of 12-cores clocked at up 2.6 GHz, with a 28W TDP. There's a full-size dedicated GPU slot and supp…",
+      "url": "https://www.tomshardware.com/desktops/mini-pcs/minisforum-launches-its-first-arm-based-mini-pc-with-a-full-x16-pcie-slot-for-discrete-gpus-the-ms-r1-packs-a-12-core-cixin-p1-soc-with-up-to-64-gb-of-ram-and-generous-io-starting-at-usd500",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nfmAUPB8V2YHWL8HBG5nMc-2560-80.webp",
+      "publishedAt": "2025-11-10T18:57:15Z",
+      "content": "China-based Mini PC manufacturer Minisforum has just globally launched the MS-R1, the company's first foray into the ARM market, with a compact yet powerful device. Building on the interest in Nvidia… [+4178 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222702-1762464339041-gettyimages-2202066593-generational_business-9785.jpeg?v=1762464351&w=1920&h=1080",
       "publishedAt": "2025-11-07T17:48:12Z",
       "content": "A recent string of high-profile layoffs have taken up headlines and caused anxiety in the workforce.\r\nCompanies announced 153,074 layoffs in October, adding up to 1.1 million cut announcements for th… [+4963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Nina Raemont",
-      "title": "Need a sleep study? It could be as easy as downloading an Apple Watch app soon",
-      "description": "BIDSleep, an app developed using the Apple Watch Series 6, aims to monitor sleep disorders - without the hassle of a sleep study.",
-      "url": "https://www.zdnet.com/article/need-a-sleep-study-it-could-be-as-easy-as-downloading-an-apple-watch-app-soon/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/5e8eeddac654d9772442b5dcf77512e57be2432d/2025/09/17/800d28e6-8d43-43ba-bad3-c3d631d9c92c/img-0068.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T17:40:05Z",
-      "content": "Nina Raemont/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A team of researchers developed a new sleep study app. </li><li>The app was developed using A… [+3159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Google's Gemini Deep Research can now read your Gmail and rummage through Google Drive",
-      "description": "Even with more info, web giant says agent can't be trusted to keep you healthy, wealthy, and wise\nGoogle's Gemini Deep Research tool can now reach deep into Gmail, Drive, and Chat to obtain data that might be useful for answering research questions.…",
-      "url": "https://www.theregister.com/2025/11/07/gemini_deep_research_can_now/",
-      "urlToImage": "https://regmedia.co.uk/2022/08/25/research_shutterstock.jpg",
-      "publishedAt": "2025-11-07T17:27:58Z",
-      "content": "Google's Gemini Deep Research tool can now reach deep into Gmail, Drive, and Chat to obtain data that might be useful for answering research questions.\r\nGemini Deep Research is Gemini 2.5 Pro (presen… [+3553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "The best free AI for coding in 2025 - only 3 make the cut now",
-      "description": "I've been subjecting AI models to a set of real-world programming tests for over two years. This time, we look solely at the free offerings. There are three worth your attention. The others, well, they need work.",
-      "url": "https://www.zdnet.com/article/the-best-free-ai-for-coding-in-2025-only-3-make-the-cut-now/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9d3c065d8e2b9285f0de364f85e95b2cffeaf3e5/2025/11/07/33a9def9-780c-4af0-8ee6-50ee8e1de1a4/gettyimages-1730336581.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T17:24:00Z",
-      "content": "Dragon Claws/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nI've been around technology long enough that very little excites me, and even less surprises me. But shortly after Op… [+6271 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Elon Musk says 'TeraFab' chip fab may be the only answer to Tesla's colossal AI semiconductor demand — Nvidia CEO Jensen Huang warns against 'extremely hard' challenge",
-      "description": "Elon Musk said Tesla may need to build its own massive “TeraFab” chip plant to secure enough AI processors, a move that would make Tesla one of the world’s largest chipmakers, but experts like Nvidia’s Jensen Huang warn that creating a modern semiconductor pr…",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-terafab-chip-fab-may-be-the-only-answer-to-teslas-colossal-ai-semiconductor-demand-nvidia-ceo-jensen-huang-warns-against-extremely-hard-challenge",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC-1600-80.jpg",
-      "publishedAt": "2025-11-07T17:17:44Z",
-      "content": "Elon Musk is thinking about outsourcing some of Tesla’s chip production to Intel Foundry and even establishing the company’s own chip production operation, he said at the company’s Annual Shareholder… [+7123 chars]"
     }
   ]
 }
