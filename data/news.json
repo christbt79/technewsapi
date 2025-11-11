@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T19:31:37.406Z",
+  "fetchedAt": "2025-11-11T20:10:21.725Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Google says its confusing Gemini Home rollout is going just great",
+      "description": "Google started rolling out its new Gemini voice assistant for its smart speakers two weeks ago and, in a blog post marking the anniversary, the company seems to think everything is going great. It’s even quoting a user who said, “My Google Home just got upgra…",
+      "url": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
+      "publishedAt": "2025-11-10T20:02:57Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe want to hear about your experiences with Google Homes new voice assistant.\r\nWe want to hear about your experiences with Google Homes new voice assistant.\r\nby\r… [+5946 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
+      "title": "Chinese scientists discover method to cut defects by 99% with DUV chipmaking equipment, but it destroys EUV pattern fidelity — analyzing photoresist clustering with cryo-ET at 105°C",
+      "description": "Chinese researchers have visualized how photoresist polymers cluster during development using cryogenic electron tomography and found that slightly raising post-exposure bake temperature could reduce defect density, but the finding has limited practical impac…",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-scientists-discover-method-to-cut-defects-by-99-percent-with-duv-chipmaking-equipment-but-it-destroys-euv-pattern-fidelity-analyzing-photoresist-clustering-with-cryo-et-at-105-c",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RDRDxfSMpnNVf6QfdZd63b-2560-80.png",
+      "publishedAt": "2025-11-10T19:55:18Z",
+      "content": "Lowering defect densities and increasing yields are the key challenges for chipmakers and chip designers who use hundreds of methods for both tasks. This is because semiconductor fabrication technolo… [+8295 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2190684694.jpg?quality=90&strip=all&crop=0%2C5.4200510958104%2C100%2C89.159897808379&w=1200",
       "publishedAt": "2025-11-07T18:36:46Z",
       "content": "For the first time in history, we have an opportunity to stop the next pandemic.\r\nFrom the earliest thinking of the Greek physician and philosopher Claudius Galen to the 19th-century British father o… [+16318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "China warns Dutch away from Nexperia as it lets chip exports resume",
-      "description": "Netherlands court still overseeing governance at the chipmaker\nTensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn't appear to be entirely resolved yet. …",
-      "url": "https://www.theregister.com/2025/11/07/china_allows_nexperia_chip_exports/",
-      "urlToImage": "https://regmedia.co.uk/2018/08/31/shutterstock_amsterdam.jpg",
-      "publishedAt": "2025-11-07T18:29:17Z",
-      "content": "Tensions between China and the Netherlands over the state of chipmaker Nexperia have begun to ease, but the battle for company control doesn't appear to be entirely resolved yet. \r\nThe Chinese Minist… [+3252 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Big Tech's AI spending spree: Smart long-term bet or short-term risk?",
-      "description": "CNBC's Paulina Likos and Zev Fima break down big tech's massive artificial intelligence spending spree",
-      "url": "https://www.cnbc.com/2025/11/07/big-techs-ai-spending-spree-smart-long-term-bet-or-short-term-risk.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762538692&w=1920&h=1080",
-      "publishedAt": "2025-11-07T18:20:24Z",
-      "content": "In this Club Check-in, CNBC's Paulina Likos and Zev Fima break down big tech's massive artificial intelligence spending spree debating whether these billion-dollar bets will drive long-term cost savi… [+1868 chars]"
     }
   ]
 }
