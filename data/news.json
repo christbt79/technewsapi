@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T20:38:43.497Z",
+  "fetchedAt": "2025-11-11T21:08:01.604Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Kate Park",
+      "title": "Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal | TechCrunch",
+      "description": "Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.",
+      "url": "https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Kaltura-EX-Avatar-Town-Hall-Assistant.png?resize=1200,750",
+      "publishedAt": "2025-11-10T21:05:59Z",
+      "content": "Kaltura, a New York-headquartered AI video platform company, is acquiring eSelf.ai, an Israel-based startup behind conversational avatars — AI-generated digital humans that can talk with users — for … [+4836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Sarah Jacobsson Purewal",
+      "title": "Elgato Facecam Neo Review: Versatile and cheap",
+      "description": "Elgato's Facecam Neo is a budget-friendly plug-and-play webcam that performs well in low-light scenarios and works on just about any device with a USB-C port (including non-traditional devices, such as iPads). It cost $99.99 when it first launched, but the pr…",
+      "url": "https://www.tomshardware.com/peripherals/webcams/elgato-facecam-neo-review",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RSk3hgfb5KntELKyDfqLEo-1281-80.jpg",
+      "publishedAt": "2025-11-10T21:04:41Z",
+      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.It might seem like a… [+10455 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
       "publishedAt": "2025-11-07T20:58:18Z",
       "content": "Seven families filed lawsuits against OpenAI on Thursday, claiming that the company’s GPT-4o model was released prematurely and without effective safeguards. Four of the lawsuits address ChatGPT’s al… [+2743 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "GoWish’s shopping and wishlist app is having its biggest year yet",
-      "description": "GoWish, an app for making wishlists, is having a record year, and has doubled its users.",
-      "url": "https://techcrunch.com/2025/11/07/gowishs-shopping-and-wishlist-app-is-having-its-biggest-year-yet/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/gowish.jpg?resize=1200,745",
-      "publishedAt": "2025-11-07T20:16:32Z",
-      "content": "Recession fears aren’t hurting the wishlist and shopping app GoWish, which is seeing record numbers ahead of the 2025 holiday season. The app, which has north of 13.6 million registered users, had it… [+3533 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Blackwell a no-sell in China as trade deal fails to materialize",
-      "description": "Xi and Trump haven't gotten to discuss the chips, though they were supposed to\nNvidia's latest generation of Blackwell accelerators won't be available in China anytime soon, according to CEO Jensen Huang, who said there were no \"active discussions\" about sell…",
-      "url": "https://www.theregister.com/2025/11/07/china_nvidia_blackwell/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/12/nvidia.jpg",
-      "publishedAt": "2025-11-07T20:15:48Z",
-      "content": "Nvidia's latest generation of Blackwell accelerators won't be available in China anytime soon, according to CEO Jensen Huang, who said there were no \"active discussions\" about selling the coveted chi… [+2238 chars]"
     }
   ]
 }
