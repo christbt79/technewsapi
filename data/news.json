@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-11T06:49:08.120Z",
+  "fetchedAt": "2025-11-11T07:10:20.151Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Cisco creating new security model using 30 years of data describing cyber-dramas and saves",
+      "description": "Doubles parameters to over 17 billion, to detect threats and recommend actions\nExclusive Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.…",
+      "url": "https://www.theregister.com/2025/11/10/cisco_new_17bn_parameter_model/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/10/cisco_shutterstock_editorial_only.jpg",
+      "publishedAt": "2025-11-10T06:56:52Z",
+      "content": "Exclusive Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.\r\nThe networking giants current hero model is Fou… [+1825 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -384,12 +397,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -397,12 +410,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200468-1758173416348-gettyimages-667825878-SINGAPORE_DBS_TAN.jpeg?v=1758173435&w=1920&h=1080",
       "publishedAt": "2025-11-07T05:00:49Z",
       "content": "With valuations in the U.S. stock market becoming increasingly stretched, the chief executive of Southeast Asia's largest bank is warning investors to expect turbulence ahead.\r\n\"We've seen a lot of v… [+2284 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Foxconn hires humanoid robots to make servers at Nvidia's Texas factory",
-      "description": "We're months away from AI building AI\nTaiwanese contract manufacturer Foxconn has confirmed it will use humanoid robots to make Nvidia servers in America.…",
-      "url": "https://www.theregister.com/2025/11/07/foxconn_humanoid_robots_nvidia_server/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/07/leonardo_ai_nvidia_bot_makes_server.jpg",
-      "publishedAt": "2025-11-07T04:58:09Z",
-      "content": "Taiwanese contract manufacturer Foxconn has confirmed it will use humanoid robots to make Nvidia servers in America.\r\nFoxconn CEO and chairman Young Liu yesterday told Japanese outlet Nikkei the comp… [+1959 chars]"
     }
   ]
 }
