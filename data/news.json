@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-11T20:10:21.725Z",
+  "fetchedAt": "2025-11-11T20:38:43.497Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tobias Mann",
+      "title": "Altman sticks a different hand out, wants tax credits instead of gov loans",
+      "description": "We can't let supply chain shortages burst the bubble boy's balloon\nFree money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn't want government-backed loans to fuel his AI ambitions, but he's more than okay with the idea of Uncle Sa…",
+      "url": "https://www.theregister.com/2025/11/10/altman_ai_tax_credit/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/22/shutterstock_sam_altman.jpg",
+      "publishedAt": "2025-11-10T20:37:58Z",
+      "content": "Free money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn't want government-backed loans to fuel his AI ambitions, but he's more than okay with the idea of Uncle Sam handi… [+3484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Warren Buffett 'feels better about the second half' of his life than the first—his best advice for living well",
+      "description": "The Berkshire Hathaway chairman will continue to share his trademark wit and wisdom with shareholders via annual Thanksgiving letters.",
+      "url": "https://www.cnbc.com/2025/11/10/warren-buffett-top-advice-for-successful-life.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108057829-1730822920647-GettyImages-1140938011.jpg?v=1746736531&w=1920&h=1080",
+      "publishedAt": "2025-11-10T20:22:09Z",
+      "content": "Warren Buffett will no longer write the letters that accompany his firm, Berkshire Hathaway's annual reports, nor will he field questions at the company's annual shareholder meeting, he wrote in a le… [+2594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nuclear power will get the most Energy Department loans, Chris Wright says",
+      "description": "The Secretary of Energy said he hopes dozens of nuclear plants are under construction in the U.S. when the Trump administration leaves office.",
+      "url": "https://www.cnbc.com/2025/11/10/nuclear-power-energy-department-chris-wright-loan-westinghouse-ai-data-center.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108056631-1749047141621-108056631-1730555120683-IMG_5239.jpg?v=1749047154&w=1920&h=1080",
+      "publishedAt": "2025-11-10T20:17:19Z",
+      "content": "Nuclear power will receive most of the money from the Energy Department's loan office as the Trump administration pushes to quickly break ground on new reactors, Secretary Chris Wright said on Monday… [+2486 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -497,19 +536,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -520,6 +546,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -1008,12 +1047,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1021,12 +1060,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2024/02/12/nvidia.jpg",
       "publishedAt": "2025-11-07T20:15:48Z",
       "content": "Nvidia's latest generation of Blackwell accelerators won't be available in China anytime soon, according to CEO Jensen Huang, who said there were no \"active discussions\" about selling the coveted chi… [+2238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Sabrina Ortiz",
-      "title": "As OpenAI hits 1 million business customers, could the AI ROI tide finally be turning?",
-      "description": "ChatGPT Enterprise seats have grown nine times year-over-year. Here's what experts say is working.",
-      "url": "https://www.zdnet.com/article/as-openai-hits-1-million-business-customers-could-the-ai-roi-tide-finally-be-turning/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c839991da3d98be87aed50c36d060a78c0834cdd/2025/08/04/d6931d5b-9e13-478b-a56d-c7b9ff8a766d/openai-revenue-doubles-to-12b-heres-why-its-subscription-is-working-for-them.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T19:50:11Z",
-      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>OpenAI now has 1 million business customers.</li><li>Customers report positive ROI,… [+5229 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "China suspends rare-earth export control measures, easing key flashpoint in US-China trade war — one-year reprieve allows for trade talks with the U.S. to continue",
-      "description": "Beijing is suspending the implementation of its tight export controls on rare-earth materials for a year.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-suspends-rare-earth-export-control-measures-easing-key-flashpoint-in-us-china-trade-war-one-year-reprieve-allows-for-trade-talks-with-the-u-s-to-continue",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4HJYkYFh8nWGoQyNT7DE2W-2560-80.jpg",
-      "publishedAt": "2025-11-07T19:17:32Z",
-      "content": "Beijing just announced that it will suspend the expanded rare-earth export controls it announced in early October. The Chinese Ministry of Commerce (MOFCOM) and the General Administration of Customs … [+2653 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Vox"
-      },
-      "author": "Stephanie Psaki",
-      "title": "Pandemics are a choice",
-      "description": "For the first time in history, we have an opportunity to stop the next pandemic. From the earliest thinking of the Greek physician and philosopher Claudius Galen to the 19th-century British “father of epidemiology” John Snow to the years before the Covid-19 p…",
-      "url": "https://www.vox.com/future-perfect/467821/pandemic-prevention-vaccines-covid-flu",
-      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/11/GettyImages-2190684694.jpg?quality=90&strip=all&crop=0%2C5.4200510958104%2C100%2C89.159897808379&w=1200",
-      "publishedAt": "2025-11-07T18:36:46Z",
-      "content": "For the first time in history, we have an opportunity to stop the next pandemic.\r\nFrom the earliest thinking of the Greek physician and philosopher Claudius Galen to the 19th-century British father o… [+16318 chars]"
     }
   ]
 }
