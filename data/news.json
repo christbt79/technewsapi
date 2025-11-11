@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-11T08:45:04.387Z",
+  "fetchedAt": "2025-11-11T09:10:59.797Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Intruder",
+      "title": "As AI enables bad actors, how are 3,000+ teams responding?",
+      "description": "Breaking down trends in exposure management with insightsfrom 3,000+ organizations and Intruder's security experts Partner Content  This year has shown just how quickly new exposures can emerge, with AI-generated code shipped before review, cloud sprawl racin…",
+      "url": "https://www.theregister.com/2025/11/10/ai_enables_bad_actors/",
+      "urlToImage": "https://regmedia.co.uk/2025/08/12/ai.jpg",
+      "publishedAt": "2025-11-10T09:01:20Z",
+      "content": "Partner Content This year has shown just how quickly new exposures can emerge, with AI-generated code shipped before review, cloud sprawl racing ahead of controls, and shadow IT opening blind spots. … [+3138 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/2bdd41274e5913a315b7bf0143a0a39101b6cd34/2025/11/06/fdd1137b-a623-4e3a-b675-1895d82527b5/want-to-save-money-with-dashpass-here-are-three-ways-you-can-get-it-for-free.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-07T07:00:25Z",
       "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>You can get up to two years of DashPass for free</li><li>Some Chase customers can g… [+2248 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Brad Bourque",
-      "title": "Meta Quest Promo Codes: $50 Off | November 2025",
-      "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "urlToImage": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png",
-      "publishedAt": "2025-11-07T07:00:00Z",
-      "content": "If youre considering a virtual reality headset, Meta is the first place to stop. The Quest headsets have become the de facto choice for casual and even some enthusiast VR adventurers, thanks to their… [+6079 chars]"
     }
   ]
 }
