@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-11T19:07:38.003Z",
+  "fetchedAt": "2025-11-11T19:31:37.406Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says  | TechCrunch",
+      "description": "AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says  | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+      "publishedAt": "2025-11-10T19:28:37Z",
+      "content": "Gamma, a startup that creates AI-generated presentations, websites, and social media posts, announced on Monday a $68 million Series B round at a $2.1 billion valuation led by Andreessen Horowitz. \r\n… [+939 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -458,19 +471,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -481,6 +481,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -969,12 +982,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -982,12 +995,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762538692&w=1920&h=1080",
       "publishedAt": "2025-11-07T18:20:24Z",
       "content": "In this Club Check-in, CNBC's Paulina Likos and Zev Fima break down big tech's massive artificial intelligence spending spree debating whether these billion-dollar bets will drive long-term cost savi… [+1868 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Worried about layoffs? Economists say the job market is cooling but 'not falling off a cliff'",
-      "description": "Job experts say they're not in panic mode just yet. Here are the numbers to focus on.",
-      "url": "https://www.cnbc.com/2025/11/07/-economists-say-job-market-is-cooling-but-not-falling-off-a-cliff.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222702-1762464339041-gettyimages-2202066593-generational_business-9785.jpeg?v=1762464351&w=1920&h=1080",
-      "publishedAt": "2025-11-07T17:48:12Z",
-      "content": "A recent string of high-profile layoffs have taken up headlines and caused anxiety in the workforce.\r\nCompanies announced 153,074 layoffs in October, adding up to 1.1 million cut announcements for th… [+4963 chars]"
     }
   ]
 }
