@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T21:34:27.644Z",
+  "fetchedAt": "2025-11-11T22:09:28.561Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Paramount Plus is getting a price hike in early 2026",
+      "description": "Paramount Plus is going up in price again. As part of its earnings report released on Monday, Paramount announced that it will “implement price increases in the US” in the first quarter of 2026 — without saying how much it will soon cost. Paramount says the p…",
+      "url": "https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954784/acastro_STK126_paramountPlus_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-10T22:09:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nParamount is also retiring free trials.\r\nParamount is also retiring free trials.\r\nby\r\nEmma RothClose\r\nEmma Roth\r\nPosts from this author will be added to your dai… [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "AI companies keep publishing private API keys to GitHub",
+      "description": "Security biz Wiz says 65% of top AI businesses leak keys and tokens\nLeading AI companies turn out to be no better at keeping secrets than anyone else writing code.…",
+      "url": "https://www.theregister.com/2025/11/10/ai_companies_private_api_keys_github/",
+      "urlToImage": "https://regmedia.co.uk/2017/07/12/shutterstock_holes_in_bucket.jpg",
+      "publishedAt": "2025-11-10T21:44:16Z",
+      "content": "Leading AI companies turn out to be no better at keeping secrets than anyone else writing code.\r\nCloud security firm Wiz has found that 65 percent of the Forbes AI 50 \"had leaked verified secrets on … [+3661 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244583418.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2025-11-08T02:12:50Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nRising electricity rates were a major concern for voters. Now Democrats have to try to come through on their promises.\r\nRising electricity rates were a major con… [+8756 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "You’ve just been laid off because of AI — here’s what to do next",
-      "description": "\"AI literacy is likely to become a baseline requirement for jobs in the future,\" Glassdoor's Chief Economist Daniel Zhao told CNBC Make It.",
-      "url": "https://www.cnbc.com/2025/11/08/youve-just-been-laid-off-because-of-ai-heres-what-to-do-next-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108166333-1751378216884-layoff_anxiety_stock_pic.jpeg?v=1762524248&w=1920&h=1080",
-      "publishedAt": "2025-11-08T00:41:47Z",
-      "content": "U.S. job cuts in October marked the worst layoffs since 2003, per a report from Challenger, Gray &amp; Christmas.\r\nAI-driven layoffs have become a dominant theme of 2025 as thousands of workers find … [+5146 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "ChatGPT, Claude, and Grok make very squishy jury members",
-      "description": "All three acquitted a teen in a mock trial based on a case where a judge ruled guilty\nLaw students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.…",
-      "url": "https://www.theregister.com/2025/11/08/chatgpt_claude_and_grok_vote/",
-      "urlToImage": "https://regmedia.co.uk/2021/02/09/lawyer.jpg",
-      "publishedAt": "2025-11-08T00:06:41Z",
-      "content": "Law students at the University of North Carolina at Chapel Hill School of Law last month held a mock trial to see how AI models administer justice.\r\nThe fictional case focuses on Henry Justus, identi… [+2885 chars]"
     }
   ]
 }
