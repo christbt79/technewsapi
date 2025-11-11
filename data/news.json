@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-11T10:11:07.458Z",
+  "fetchedAt": "2025-11-11T10:42:56.720Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Elyse Betters Picaro",
+      "title": "Is ChatGPT Plus still worth $20? How it compares to the Free and Pro plans",
+      "description": "Let's look at all of ChatGPT's consumer plans to see if it's even worth subscribing, especially when the free plan offers so much.",
+      "url": "https://www.zdnet.com/article/is-chatgpt-plus-still-worth-20-how-it-compares-to-the-free-and-pro-plans/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/469c6fb33a219095734f669de7f61d8ca5bc680d/2025/11/07/b5f1dc31-dd24-4aaf-beb6-83c6fa5a1133/2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T10:14:00Z",
+      "content": "Elyse Betters Picaro / ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Each ChatGPT plan offers different benefits for different users.</li><li>Paid tier… [+17225 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762496627&w=1920&h=1080",
       "publishedAt": "2025-11-07T07:30:01Z",
       "content": "October's job losses in the U.S. were nearly twice as high as a month earlier the steepest for any October since 2003, data from outplacement firm Challenger, Gray &amp; Christmas showed.\r\nThe techno… [+2796 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "8 really cool ways I use LiDAR on my iPhone and iPad - and you can too",
-      "description": "You can play, design, and capture like never before. Here's how.",
-      "url": "https://www.zdnet.com/article/8-really-cool-ways-i-use-lidar-on-my-iphone-and-ipad-and-you-can-too/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b117d58fa3b0cdca7ce80110141b13435dfba93b/2025/11/06/f69f1424-2b25-4c13-88e0-fe6888548bf7/i-uncovered-8-cool-ways-to-use-lidar-on-an-iphone-and-ipad2.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T07:30:00Z",
-      "content": "Screenshot by Lance Whitney/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>LiDAR unlocks new iPhone AR experiences.</li><li>Scan rooms, measure spaces, a… [+8225 chars]"
     }
   ]
 }
