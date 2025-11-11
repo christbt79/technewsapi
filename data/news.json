@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T13:04:54.103Z",
+  "fetchedAt": "2025-11-11T13:45:15.307Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "The OnePlus 15 launches in the US this week - and its battery is insane",
+      "description": "The OnePlus 15 just might be 2025's best value Android phone. Here's why",
+      "url": "https://www.zdnet.com/article/the-oneplus-15-launches-in-the-us-this-week-and-its-battery-is-insane/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T13:28:00Z",
+      "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The OnePlus 15 will be launched outside of China on Nov. 13.</li><li>This is OnePlus' first phone… [+5926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Government shutdown update, the market's rough week, PitchBook's AI tool and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/11/10/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223294-17625513932025-11-07t213349z_1463339827_rc2wrha7jes5_rtrmadp_0_usa-shutdown.jpeg?v=1762551441&w=1920&h=1080",
+      "publishedAt": "2025-11-10T13:18:37Z",
+      "content": "Tourists walk past the U.S. Capitol more than a month into the continuing U.S. government shutdown in Washington, D.C., U.S., Nov. 7, 2025. \r\nThis is CNBC's Morning Squawk newsletter. Subscribe here … [+4787 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -146,19 +172,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -169,6 +182,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -657,12 +683,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -670,12 +696,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221821-1762360217252-gettyimages-1212752225-006hacking-010.jpeg?v=1762360234&w=1920&h=1080",
       "publishedAt": "2025-11-07T13:30:09Z",
       "content": "Almost a year into the second Trump administration, public sector leaders and cybersecurity experts say budget cuts and gutting of federal agencies are weakening critical lines of government communic… [+10057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Stewart Bendle",
-      "title": "It's rare, but we found an RTX 5070 that's at actual MSRP — Just $479.99 for this MSI RTX 5070 in Newegg's early Black Friday sales",
-      "description": "Newegg's early Black Friday deals show this MSI RTX 5070 GPU at well under MSRP for $479.99",
-      "url": "https://www.tomshardware.com/pc-components/gpus/its-rare-but-we-found-an-rtx-5070-thats-at-actual-msrp-just-usd479-99-for-this-msi-rtx-5070-in-neweggs-early-black-friday-sales",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/m3jT9z3gFtr3uqjXu9GwzD-1920-80.jpg",
-      "publishedAt": "2025-11-07T13:19:51Z",
-      "content": "The RTX 50-series graphics cards have been out in the wild for a little while now. Since their launch, we've seen the return of stock availability, the astronomical above-MSRP prices fall, and now, w… [+2096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Musk's $1 trillion pay, a price cut for obesity drugs, Target's in-store woes and more in Morning Squawk",
-      "description": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2025/11/07/5-things-to-know-before-the-stock-market-opens-friday.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222573-17624550972025-11-06t184628z_1673660215_rc25rhas1dn5_rtrmadp_0_usa-trump.jpeg?v=1762455130&w=1920&h=1080",
-      "publishedAt": "2025-11-07T12:57:40Z",
-      "content": "Tesla CEO Elon Musk attends the Saudi-U.S. Investment Forum, in Riyadh, Saudi Arabia, May 13, 2025.\r\nThis is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.… [+5256 chars]"
     }
   ]
 }
