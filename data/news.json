@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-11T10:42:56.720Z",
+  "fetchedAt": "2025-11-11T11:08:35.471Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new diagnostic tool aims to solve the bad Wi-Fi 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-diagnostic-tool-aims-to-solve-the-bad-wi-fi-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:45Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ritoban Mukherjee",
+      "title": "Salesforce vs HubSpot: Which is the better business CRM?",
+      "description": "Salesforce is the ultimate sales CRM. Marketing folks swear by HubSpot. Is one truly better than the other? ZDNET put them to the test.",
+      "url": "https://www.zdnet.com/article/salesforce-vs-hubspot/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/103b2913dcef82f5536d66b158eae269a115901f/2025/11/07/155e86fb-83c7-41e8-8e4f-e48a163ccb27/vs-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:44Z",
+      "content": "Allison Murray/ZDNET\r\nSalesforce and HubSpot are two of the most popular customer relationship management systems (CRM) giants, each promising the world when it comes to managing your customer relati… [+10950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool offers one-tap troubleshooting (and fits on a phone)",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-offers-one-tap-troubleshooting-and-fits-on-a-phone/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Global stocks rally on hopes the U.S. shutdown is nearing an end",
+      "description": "Global equities traded higher on Monday morning amid reports that the protracted U.S. government shutdown may be nearing an end.",
+      "url": "https://www.cnbc.com/2025/11/10/global-stocks-rally-on-hopes-the-us-shutdown-is-nearing-an-end.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221705-1762351736402-gettyimages-2244628019-tbdc_7081.jpeg?v=1762351762&w=1920&h=1080",
+      "publishedAt": "2025-11-10T10:48:10Z",
+      "content": "Global stocks rallied Monday as the longest-ever U.S. government shutdown appeared to be drawing to an end.\r\nThe U.S. senate has approved the first stage of a bipartisan deal which could bring an end… [+3056 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107408458-1714508015525-gettyimages-1367372037-global-stockmarket-network-wave2.jpeg?v=1762509275&w=1920&h=1080",
       "publishedAt": "2025-11-07T10:24:27Z",
       "content": "This week's equity market wobble, which saw a retreat in U.S. AI-related stocks amid ongoing concerns over stretched valuations, has thrust contagion concerns into the spotlight for European investor… [+2764 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "UK tax collector falls short on digital efficiency, watchdog says",
-      "description": "Treasury found £1.6 billion for extra tech investment expecting 15 percent efficiency saving. So far HMRC has underwhelmed The UK’s tax collector is yet to reach the levels of efficiency its investment in digital services has led auditors to expect, according…",
-      "url": "https://www.theregister.com/2025/11/07/uk_tax_collector_falls_short/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/06/shutterstock_1502789192.jpg",
-      "publishedAt": "2025-11-07T09:42:17Z",
-      "content": "The UKs tax collector is yet to reach the levels of efficiency its investment in digital services has led auditors to expect, according to a new report.\r\nIn its annual report on the performance of Hi… [+3379 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "The Wall Street Journal",
-      "title": "Global Markets Show Signs of Stabilization After Tech Selloff",
-      "description": "U.S. stock futures and European markets made small gains, though Asian markets fell in the fallout from Thursday’s tech selloff.",
-      "url": "https://www.wsj.com/finance/stocks/global-markets-show-signs-of-stabilization-after-tech-selloff-94713e56",
-      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/EZQ3iCdYyhDHLCMHWi04xA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/the_wall_street_journal_hosted_996/08181218be8e374a11e1df8e4cf8df73",
-      "publishedAt": "2025-11-07T09:27:00Z",
-      "content": "Markets showed signs of stabilization early Friday after the Nasdaq index led U.S. declines in the prior session. - Spencer Platt/Getty Images\r\nMarkets showed some signs of stabilization early Friday… [+3094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Kate Taylor",
-      "title": "How TeamViewer builds enterprise trust through security-first design",
-      "description": "What to do when even your espresso machine needs end-to-end encryption Sponsored Feature  The security landscape is getting more perilous day by day, as both nation-state groups and financially-motivated hackers ramp up their activity.…",
-      "url": "https://www.theregister.com/2025/11/07/teamviewer-security-first-design/",
-      "urlToImage": "https://regmedia.co.uk/2022/03/01/security_shutterstock.jpg",
-      "publishedAt": "2025-11-07T09:00:12Z",
-      "content": "Sponsored Feature The security landscape is getting more perilous day by day, as both nation-state groups and financially-motivated hackers ramp up their activity.\r\nAccording to a PwC report late las… [+9236 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jack Wallen",
-      "title": "I tried the only agentic browser that runs local AI - and found only one downside",
-      "description": "If you want to hop onto the agentic browser craze but don't like the idea of using third-party AI, you currently have one option.",
-      "url": "https://www.zdnet.com/article/i-tried-the-only-agentic-browser-that-runs-local-ai-and-found-only-one-downside/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/e2407ab39ac5e20ac294aeacddeab4dbd86e9b23/2025/11/07/21cc6899-b940-4bb4-998b-afac69b779cf/gettyimages-2029917856.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T07:59:13Z",
-      "content": "sankai/iStock/Getty Images Plus\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET key takeaways\r\n<ul><li>If you want to use an agentic browser, consider local AI.</li><li>Local AI puts le… [+6564 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "David Gewirtz",
-      "title": "The best free AI for coding in 2025 now - only 3 make the cut (and 5 fall flat)",
-      "description": "I've been subjecting AI models to a set of real-world programming tests for over two years. This time, we look solely at the free offerings. There are three worth your attention. The others, well, they need work.",
-      "url": "https://www.zdnet.com/article/the-best-free-ai-for-coding-in-2025-now-only-three-make-the-cut-while-five-fall-flat/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/9d3c065d8e2b9285f0de364f85e95b2cffeaf3e5/2025/11/07/33a9def9-780c-4af0-8ee6-50ee8e1de1a4/gettyimages-1730336581.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T07:45:00Z",
-      "content": "Dragon Claws/Getty Images\r\nI've been around technology long enough that very little excites me, and even less surprises me. But shortly after OpenAI's ChatGPT was released, I asked it to write a Word… [+6216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: It's a bad time to be a tech investor — or employee",
-      "description": "For most tech workers and investors, Thursday was another reminder of volatility's sting. For Elon Musk, it was another day on the road to the stratosphere.",
-      "url": "https://www.cnbc.com/2025/11/07/cnbc-daily-open-its-a-bad-time-to-be-a-tech-investor-or-employee.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222872-1762496615369-gettyimages-2168262416-AMAZON_WEB_SERVICES.jpeg?v=1762496627&w=1920&h=1080",
-      "publishedAt": "2025-11-07T07:30:01Z",
-      "content": "October's job losses in the U.S. were nearly twice as high as a month earlier the steepest for any October since 2003, data from outplacement firm Challenger, Gray &amp; Christmas showed.\r\nThe techno… [+2796 chars]"
     }
   ]
 }
