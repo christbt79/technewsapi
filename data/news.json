@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-11T07:10:20.151Z",
+  "fetchedAt": "2025-11-11T07:37:04.716Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Don't hit panic button on tech pullback just yet",
+      "description": "Earnings have been \"reassuring\" despite worries about tech stocks' high valuations, a strategist told CNBC. That means the fall in tech stocks might not last.",
+      "url": "https://www.cnbc.com/2025/11/10/cnbc-daily-open-dont-hit-panic-button-on-tech-pullback-just-yet.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223045-1762529068972-gettyimages-2245509372-anotherday142727227_guqj7h2a.jpeg?v=1762529152&w=1920&h=1080",
+      "publishedAt": "2025-11-10T07:30:01Z",
+      "content": "November is historically the best month for the S&amp;P 500, which gains an average of 1.8% during the period, according to the Stock Trader's Almanac.\r\nBut the first full trading week of the month s… [+3294 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/191:100/w_1280,c_limit/WIRED-Coupons-R2_8.png",
       "publishedAt": "2025-11-07T07:00:00Z",
       "content": "If youre considering a virtual reality headset, Meta is the first place to stop. The Quest headsets have become the de facto choice for casual and even some enthusiast VR adventurers, thanks to their… [+6079 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Southeast Asia's largest bank CEO warns investors: 'Buckle up, we're in for a volatile ride'",
-      "description": "DBS CEO Tan Su Shan cautioned investors about persistent market swings amid stretched U.S. valuations and concentrated AI stock exposure.",
-      "url": "https://www.cnbc.com/2025/11/07/dbs-ceo-tan-su-shan-warns-buckle-up-were-in-for-a-volatile-ride.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108200468-1758173416348-gettyimages-667825878-SINGAPORE_DBS_TAN.jpeg?v=1758173435&w=1920&h=1080",
-      "publishedAt": "2025-11-07T05:00:49Z",
-      "content": "With valuations in the U.S. stock market becoming increasingly stretched, the chief executive of Southeast Asia's largest bank is warning investors to expect turbulence ahead.\r\n\"We've seen a lot of v… [+2284 chars]"
     }
   ]
 }
