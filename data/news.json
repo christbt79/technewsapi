@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-10T23:34:39.310Z",
+  "fetchedAt": "2025-11-11T00:45:31.004Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to mostly rise after AI-fueled rout last week",
+      "description": "Investors in Asia are also assessing October inflation data out from China over the weekend, which came in above expectations.",
+      "url": "https://www.cnbc.com/2025/11/10/asia-markets-live-china-inflation-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107399813-1712838340995-gettyimages-2061940589-cfoto-chinafeb240309_npfNr.jpeg?v=1712838382&w=1920&h=1080",
+      "publishedAt": "2025-11-09T23:58:58Z",
+      "content": "Citizens are shopping at a supermarket in Nanjing, East China's Jiangsu province, on March 9, 2024. \r\nAsia-Pacific markets were mostly poised for a higher open Monday, after artificial intelligence v… [+1504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list",
+      "description": "PLUS: India’s tech services exports growing fast; South Korea puts the bite on TXT spam; NTT gets into autonomous vehicles; and more! Asia In Brief  Chinese infosec blog MXRN last week reported a data breach at a security company called Knownsec that has ties…",
+      "url": "https://www.theregister.com/2025/11/09/asia_tech_news_roundup/",
+      "urlToImage": "https://regmedia.co.uk/2022/05/13/shutterstock_china_security_concept.jpg",
+      "publishedAt": "2025-11-09T23:51:57Z",
+      "content": "Asia In Brief Chinese infosec blog MXRN last week reported a data breach at a security company called Knownsec that has ties to Beijing and Chinas military.\r\nMXRN says the company leaked over 12,000 … [+3963 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108093382-17380717982025-01-28t074429z_827921932_rc2ticae7356_rtrmadp_0_deepseek-markets.jpeg?v=1738071841&w=1920&h=1080",
       "publishedAt": "2025-11-07T00:51:35Z",
       "content": "Shares of Japan's SoftBank Group resumed their slide on Friday, following a broader slump in AI-related stocks as investors once again grew wary of the sector's lofty valuations.\r\nThe group, which ho… [+971 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to open lower, tracking Wall Street losses as AI stocks resume slump",
-      "description": "Investors in Asia will look to trade data coming out of China later in the day.",
-      "url": "https://www.cnbc.com/2025/11/07/asia-pacific-markets-friday-ai-stocks-valuation-china-october-trade-data.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107192343-1675985077391-gettyimages-1235412304-vcg111285860506.jpeg?v=1762472344&w=1920&h=1080",
-      "publishedAt": "2025-11-07T00:05:55Z",
-      "content": "Asia-Pacific markets opened lower Friday, tracking Wall Street declines on persistent concerns over lofty valuations in artificial intelligence stocks.\r\nShares of major AI companies fell Thursday sta… [+1559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Ongoing government shutdown and AI fears are putting the market under pressure, Jim Cramer says",
-      "description": "CNBC's Jim Cramer unpacked Thursday's market decline.",
-      "url": "https://www.cnbc.com/2025/11/06/jim-cramer-shutdown-ai-fears-market-pressure.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104741303-IMG_8456r-jim-cramer.jpg?v=1693437257&w=1920&h=1080",
-      "publishedAt": "2025-11-06T23:45:09Z",
-      "content": "CNBC's Jim Cramer unpacked Thursday's market decline, telling investors that Wall Street is worried about the lengthy government shutdown and that artificial intelligence buildout is getting out of c… [+1796 chars]"
     }
   ]
 }
