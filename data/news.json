@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-11T18:13:45.675Z",
+  "fetchedAt": "2025-11-11T18:46:03.214Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sarah Perez",
+      "title": "Wikipedia urges AI companies to use its paid API, and stop scraping | TechCrunch",
+      "description": "Wikipedia, the online nonprofit encyclopedia, is urging AI companies to stop scraping its pages and to use its paid API instead.",
+      "url": "https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?resize=1200,800",
+      "publishedAt": "2025-11-10T18:32:12Z",
+      "content": "Wikipedia on Monday laid out a simple plan to ensure its website continues to be supported in the AI era, despite its declining traffic. \r\nIn a blog post, the Wikimedia Foundation, the organization t… [+1811 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -393,19 +406,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -416,6 +416,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -904,12 +917,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -917,12 +930,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/pcJYq5tWJ3tEco6bEWmGjC-1600-80.jpg",
       "publishedAt": "2025-11-07T17:17:44Z",
       "content": "Elon Musk is thinking about outsourcing some of Tesla’s chip production to Intel Foundry and even establishing the company’s own chip production operation, he said at the company’s Annual Shareholder… [+7123 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Upgrade your study game with NotebookLM - here's how",
-      "description": "Finals are approaching - let NotebookLM's new flash card and quiz upgrades help.",
-      "url": "https://www.zdnet.com/article/upgrade-your-study-game-with-notebooklm-heres-how/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/7c4bb026568047ea66b18d8827e9222749bd7933/2025/11/07/500a9656-48c4-4a71-ae85-b3026387fa61/norebooklm.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-07T17:16:13Z",
-      "content": "Google/ZDNET\r\nGoogle's NotebookLM is one of our favorite AI tools for productivity, and it just got several upgrades just in time for finals season. Users can now create flashcards and quizzes with t… [+1621 chars]"
     }
   ]
 }
