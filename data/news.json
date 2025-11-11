@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-11T16:11:30.002Z",
+  "fetchedAt": "2025-11-11T16:45:36.624Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "China suspends ban on rare earth exports to the U.S., but licensing controls remain — vital semiconductor manufacturing materials get one-year reprieve",
+      "description": "China has lifted its ban on exports of gallium, germanium, and antimony to the United States, temporarily halting restrictions that had reshaped global materials markets over the past year.",
+      "url": "https://www.tomshardware.com/tech-industry/china-suspends-ban-on-rare-earth-exports-to-us-but-licensing-remains",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyvmQua5dV2BYfE2NozYgL-1920-80.jpg",
+      "publishedAt": "2025-11-10T16:20:38Z",
+      "content": "China has lifted its ban on exports of gallium, germanium, and antimony to the United States, temporarily halting restrictions that had reshaped global materials markets over the past year. The decis… [+2591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "Phison CEO confirms NAND prices have more than doubled and will continue to rise, all 2026 production already sold out — SSDs facing pricing apocalypse throughout 2027",
+      "description": "Khein-Seng Pua, the CEO of Phison, speaking to Digitimes, has painted a damning picture of the storage market to come. With NAND prices already on the rise, the CEO believes there's no alleviation in sight and the landscape will remain rough for the following…",
+      "url": "https://www.tomshardware.com/pc-components/ssds/phison-ceo-confirms-nand-prices-have-more-than-doubled-and-will-continue-to-rise-all-2026-production-already-sold-out-ssds-facing-pricing-apocalypse-throughout-2027",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jMxPWDXFDAEXuBCgRQyWg7-2560-80.jpg",
+      "publishedAt": "2025-11-10T16:11:26Z",
+      "content": "As an unprecedented DRAM crisis unfolds, artificial intelligence is sowing chaos on another front: storage. Data centers using nearline HDDs are switching to SSDs to avoid lead times, which has led t… [+2646 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -341,19 +367,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -364,6 +377,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -852,12 +878,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -865,12 +891,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221909-1762366840520-gettyimages-2227846342-r5c_0825.jpeg?v=1762366864&w=1920&h=1080",
       "publishedAt": "2025-11-07T17:02:56Z",
       "content": "The administration of President Donald Trump is taking aim at state laws that ban the inclusion of medical debt on consumers' credit reports.\r\nIn late October, the Consumer Financial Protection Burea… [+4741 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Amanda Silberling",
-      "title": "Kim Kardashian says ChatGPT is her 'frenemy' | TechCrunch",
-      "description": "Kim Kardashian admitted that she has failed legal exams after blindly relying on ChatGPT's advice.",
-      "url": "https://techcrunch.com/2025/11/07/kim-kardashian-says-chatgpt-is-her-frenemy/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/Kim-Kardashian-Headshot-e1664830753133.jpeg?resize=1200,717",
-      "publishedAt": "2025-11-07T16:59:24Z",
-      "content": "Celebrities: they’re just like us? In a Vanity Fair interview, Kim Kardashian — who has been studying to become a lawyer — discussed her “toxic” friendship with ChatGPT, admitting that she has failed… [+1542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Food banks are in 'disaster response mode' due to shutdown and SNAP cuts, leaders say: 'The damage gets worse and worse' every day",
-      "description": "Food bank leaders across the U.S. are responding to 'a great increase in need' due to SNAP disruption.",
-      "url": "https://www.cnbc.com/2025/11/07/food-banks-are-in-disaster-response-mode-due-to-shutdown-and-snap-cuts-leaders-say.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108220677-1762190343174-gettyimages-2244067612-AFP_82QF8ZK.jpeg?v=1762462431&w=1920&h=1080",
-      "publishedAt": "2025-11-07T16:55:28Z",
-      "content": "\"Neighbors need food NOW,\" the homepage of Second Harvest Food Bank of South Louisiana reads.\r\nAmid uncertainty around SNAP funding, food banks across the U.S. are scrambling to pick up the slack for… [+6557 chars]"
     }
   ]
 }
