@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-12T14:42:22.424Z",
+  "fetchedAt": "2025-11-12T15:10:49.534Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ram Iyer",
+      "title": "Meta's chief AI scientist Yann LeCun reportedly plans to leave to build his own startup | TechCrunch",
+      "description": "Yann LeCun, a chief AI scientist at Meta, is planning to leave the company to build his own startup, which will focus on continuing his work on world models.",
+      "url": "https://techcrunch.com/2025/11/11/metas-chief-ai-scientist-yann-lecun-reportedly-plans-to-leave-to-build-his-own-startup/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2194768816.jpg?resize=1200,800",
+      "publishedAt": "2025-11-11T14:59:50Z",
+      "content": "Meta may be about to lose one of its most renowned AI heads: Yann LeCun, a chief AI scientist at the company, is planning to leave the company to build his own startup, the Financial Times reported, … [+2275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "The AirPods 4 just hit an all-time low price ahead of Black Friday",
+      "description": "Apple's AirPods 4 without ANC are on sale for $85, making them a great holiday gift option. Here's where to buy them.",
+      "url": "https://www.zdnet.com/article/the-airpods-4-just-hit-an-all-time-low-price-ahead-of-black-friday/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e8c4552f93d2955f78a52b121b0b19b7564fb8be/2024/09/30/4d6105bc-de3a-41c1-bb6d-262d3516613f/airpods4-4.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T14:55:02Z",
+      "content": "Jada Jones/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nIf you have Apple devices, especially an iPhone, a pair of AirPods is the perfect audio companion. Apple's earbuds seamlessly … [+2709 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -85,12 +111,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -98,12 +124,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -1108,19 +1134,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -1131,6 +1144,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_editorial_only_teams_and_copilot.jpg",
       "publishedAt": "2025-11-10T02:31:21Z",
       "content": "Microsoft has teased what its calling a new class of AI agents that operate as independent users within the enterprise workforce.\r\nEach embodied agent has its own identity, dedicated access to organi… [+2645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to mostly rise after AI-fueled rout last week",
-      "description": "Investors in Asia are also assessing October inflation data out from China over the weekend, which came in above expectations.",
-      "url": "https://www.cnbc.com/2025/11/10/asia-markets-live-china-inflation-data.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107399813-1712838340995-gettyimages-2061940589-cfoto-chinafeb240309_npfNr.jpeg?v=1712838382&w=1920&h=1080",
-      "publishedAt": "2025-11-09T23:58:58Z",
-      "content": "Citizens are shopping at a supermarket in Nanjing, East China's Jiangsu province, on March 9, 2024. \r\nAsia-Pacific markets were mostly poised for a higher open Monday, after artificial intelligence v… [+1504 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list",
-      "description": "PLUS: India’s tech services exports growing fast; South Korea puts the bite on TXT spam; NTT gets into autonomous vehicles; and more! Asia In Brief  Chinese infosec blog MXRN last week reported a data breach at a security company called Knownsec that has ties…",
-      "url": "https://www.theregister.com/2025/11/09/asia_tech_news_roundup/",
-      "urlToImage": "https://regmedia.co.uk/2022/05/13/shutterstock_china_security_concept.jpg",
-      "publishedAt": "2025-11-09T23:51:57Z",
-      "content": "Asia In Brief Chinese infosec blog MXRN last week reported a data breach at a security company called Knownsec that has ties to Beijing and Chinas military.\r\nMXRN says the company leaked over 12,000 … [+3963 chars]"
     }
   ]
 }
