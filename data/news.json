@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-12T11:08:10.301Z",
+  "fetchedAt": "2025-11-12T11:34:25.741Z",
   "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Katie Drummond",
+      "title": "The Former Staffer Calling Out OpenAI’s Erotica Claims",
+      "description": "Steven Adler used to lead product safety at OpenAI. On this week’s episode of The Big Interview, he talks about what AI users should know about their bots.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-steven-adler-openai-erotica/",
+      "urlToImage": "https://media.wired.com/photos/690ce26735f1df352f792505/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Steven-Adler-IMG_3501.jpg",
+      "publishedAt": "2025-11-11T11:30:00Z",
+      "content": "When the history of AI is written, Steven Adler may just end up being its Paul Revereor at least, one of themwhen it comes to safety.\r\nLast month Adler, who spent four years in various safety roles a… [+2159 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "British assets volatile as cooling labor market adds pressure to Bank of England and Finance Minister Reeves",
+      "description": "Yields on British government bonds fell notably as data showed the U.K. unemployment rate rose to 5%.",
+      "url": "https://www.cnbc.com/2025/11/11/autumn-budget-uk-unemployment-data-adds-pressure-to-reeves.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108212328-1760531294070-gettyimages-1912395499-962_14_12323076highres.jpeg?v=1762857660&w=1920&h=1080",
+      "publishedAt": "2025-11-11T11:28:01Z",
+      "content": "Millennium Wheel And Skyline At Sunset. London, England. \r\nU.K. assets were volatile in morning trade on Tuesday, as investors weighed the economic impact of a weakening labor market ahead of a criti… [+5228 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219413-1761837388617-gettyimages-1410639987-dsc03669.jpeg?v=1761837525&w=1920&h=1080",
       "publishedAt": "2025-11-08T15:00:01Z",
       "content": "Last month, Skyscanner published its annual report of destinations around the world that are trending for 2026.\r\nTo determine the ranking, Skyscanner looked at destinations with the biggest year-over… [+4070 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Sheena Vasani",
-      "title": "The Apple Watch SE 3 and Lego’s Star Wars Advent Calendar are our favorite deals this week",
-      "description": "Hey, all! The first week of November ushered in dozens of early Black Friday deals, and many of the best ones are still available as we delve further into the weekend. Some of our favorite fitness trackers have already plunged to new lows, for instance, and w…",
-      "url": "https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0096.jpg?quality=90&strip=all&crop=0%2C32.547993019197%2C100%2C34.904013961606&w=1200",
-      "publishedAt": "2025-11-08T14:36:26Z",
-      "content": "<ul><li></li><li></li><li>\r\nVerge Shopping</li></ul>\r\nYou can also snag a discount on Samsungs latest Switch 2-compatible microSD Express card and a portable power station.\r\nYou can also snag a disco… [+5901 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Rebecca Szkutak",
-      "title": "How startups can lure good talent fairly without big tech bank accounts  | TechCrunch",
-      "description": "Three industry insiders walk through how startups can set up an employee equity strategy that remains fair as a company grows.",
-      "url": "https://techcrunch.com/2025/11/08/how-startups-can-lure-good-talent-fairly-without-big-tech-bank-accounts/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Comp-panel.jpg?resize=1200,800",
-      "publishedAt": "2025-11-08T14:02:13Z",
-      "content": "Startups have never been able to offer the same sizable salaries as big tech companies. Now with companies like Meta and OpenAI willing to pay million-dollar salaries amid the AI race the compensatio… [+3779 chars]"
     }
   ]
 }
