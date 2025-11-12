@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T06:15:02.562Z",
+  "fetchedAt": "2025-11-12T06:48:34.529Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "SoftBank rides the AI wave as OpenAI lifts Vision Fund to $19 billion gain",
+      "description": "SoftBank's stock has slumped in the past week as concerns of an artificial intelligence bubble sent jitters through global markets.",
+      "url": "https://www.cnbc.com/2025/11/11/softbank-earnings-report-2q.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108090443-1737552664782-gettyimages-2194606307-AFP_36V94PR.jpeg?v=1762783303&w=1920&h=1080",
+      "publishedAt": "2025-11-11T06:43:26Z",
+      "content": "Japanese giant SoftBank on Tuesday posted a $19 billion gain on its Vision Fund in its fiscal second quarter ended Sept. 30.\r\nThe broader Vision Fund segment factors in non-investment performance suc… [+1667 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -757,19 +770,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -780,6 +780,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -1268,19 +1281,6 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
-      "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
       "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
       "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
       "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
@@ -1294,12 +1294,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming",
-      "description": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.",
-      "url": "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221842-1762362592580-251028-cg-32-subsea-cables-gfx1_0-00-07-08.png?v=1762451999&w=1920&h=1080",
-      "publishedAt": "2025-11-08T13:00:01Z",
-      "content": "Over 95% of international data and voice call traffic travels through nearly a million miles of underwater communication cables.\r\nThese cables carry government communications, financial transactions,… [+8894 chars]"
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "publishedAt": "2025-11-08T14:00:01Z",
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     }
   ]
 }
