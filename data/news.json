@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T18:44:09.758Z",
+  "fetchedAt": "2025-11-12T19:07:53.808Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Mark Cuban: The job-hunting advice I give my own kids in the age of AI—it'll make their careers 'easier' and more successful",
+      "description": "If you're looking for an entry-level job in the age of AI, seek jobs at small- to medium-sized businesses over ones at large corporations, says Mark Cuban.",
+      "url": "https://www.cnbc.com/2025/11/11/mark-cuban-job-hunting-advice-i-give-my-kids-in-age-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221402-1762290571629-gettyimages-2242279790-aging_senate_171_102225.jpeg?v=1762290661&w=1920&h=1080",
+      "publishedAt": "2025-11-11T19:07:22Z",
+      "content": "Billionaire serial entrepreneur and investor Mark Cuban has some job-hunting advice for his two children and anyone else who finds themselves looking for entry-level roles in the age of artificial in… [+3871 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Pixel phones are getting notification summaries",
+      "description": "Google is releasing an update for Pixel phones with an interesting feature in the mix: notification summaries. Apple notably had plenty of trouble implementing its version of this AI-powered feature, and Google is taking a cautious first step by deploying it …",
+      "url": "https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257917_Google_Pixel_10_review_AJohnson_0002.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+      "publishedAt": "2025-11-11T19:03:13Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle seems to be learning from Apples missteps.\r\nGoogle seems to be learning from Apples missteps.\r\nby\r\nAllison JohnsonClose\r\nAllison Johnson\r\nPosts from this … [+3212 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Artie Beaty",
+      "title": "Your Pixel phone is getting 5 free upgrades today - including a built-in scam detector",
+      "description": "The November Pixel Drop adds better message security and fun new tools - all for free.",
+      "url": "https://www.zdnet.com/article/your-pixel-phone-is-getting-5-free-upgrades-today-including-a-built-in-scam-detector/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/0117181e6991931b3a6b1bce23dcc7285be4f811/2025/10/08/8ad2b478-ec18-487d-8deb-e6d5c444499c/dsc07944.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T19:00:34Z",
+      "content": "Sabrina Ortiz/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>The November Pixel drop is bringing new features to Pixel phones.</li><li>Users are getting … [+3762 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -280,12 +319,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -293,12 +332,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/K7Efwz7zHNob3LcA9bqtvX-2000-80.jpg",
       "publishedAt": "2025-11-10T12:36:21Z",
       "content": "In the heart of Silicon Valley, two freshly built data centers designed for the world’s most power-hungry computing workloads are standing empty. Digital Realty’s four-story SJC37 facility and Stack … [+2619 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Maria Diaz",
-      "title": "Own a Ring camera? This new update fixes its biggest annoyance for free",
-      "description": "Single Event Alerts reduce motion notifications without skipping what matters.",
-      "url": "https://www.zdnet.com/home-and-office/smart-home/own-a-ring-camera-this-new-update-fixes-its-biggest-annoyance-for-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ba06e3ea3a78d236474f30c03247f6563109fc7f/2025/09/30/ebddf063-55b3-4e0d-a2b5-fe299ee6c19c/dsc07812.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:55:00Z",
-      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>Ring adds new Single Event Alerts to its cameras.</li><li>AI groups motion alerts into one to c… [+2018 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Cesar Cadenas",
-      "title": "15+ Google Docs tools that supercharged my workflow (and they're free)",
-      "description": "From editable PDFs to instant translations, Google Docs is full of features most people overlook.",
-      "url": "https://www.zdnet.com/article/15-google-docs-tools-that-supercharged-my-workflow-and-theyre-free/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/648a93458ea806b897b803e3728d1c73b90167fd/2025/08/20/d53390de-3cb8-4b61-9fda-0c3f0f34bbe0/you-can-now-listen-to-your-google-docs-documents-read-aloud-via-ai-heres-how.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:48:00Z",
-      "content": "Kyle Kucharski/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google Docs has become the universal document collaboration platform. </li><li>Features suc… [+11674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new diagnostic tool aims to solve the bad Wi-Fi 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-diagnostic-tool-aims-to-solve-the-bad-wi-fi-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:45Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     }
   ]
 }
