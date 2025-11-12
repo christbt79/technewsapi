@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-12T11:34:25.741Z",
+  "fetchedAt": "2025-11-12T12:18:43.508Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Stock investors are buoying the economy. A labor market breakdown could end that",
+      "description": "Government labor data could paint a darker economic picture, leading to a market slide that would throw cold water on the outlook of those who are well off.",
+      "url": "https://www.cnbc.com/2025/11/11/stocks-are-buoying-wealthy-sentiment-a-labor-market-break-could-end-that.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221450-1762295496498-gettyimages-2245032022-_dsc0784.jpeg?v=1762295602&w=1920&h=1080",
+      "publishedAt": "2025-11-11T12:11:24Z",
+      "content": "As stock market investors support economic sentiment, some economists wonder if a looser labor market could pull the rug out.\r\nThe University of Michigan's widely-followed consumer sentiment index sl… [+4367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Oura expects close to $2 billion in 2026 sales, almost doubling for the second consecutive year",
+      "description": "CEO Tom Hale spoke with CNBC's Arjun Kharpal in an exclusive interview at Web Summit in Lisbon, Portugal.",
+      "url": "https://www.cnbc.com/2025/11/11/smart-ring-maker-oura-expects-close-to-2-billion-in-2026-sales-ceo.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108042317-1727883694885-01-Oura-Ring-4-Product-Imagery.jpg?v=1728941204&w=1920&h=1080",
+      "publishedAt": "2025-11-11T12:03:16Z",
+      "content": "The chief executive of Finland's Oura told CNBC on Tuesday that he expects the wearable tech company to generate close to $2 billion in sales next year.\r\nThe smart ring maker has upped its forecast a… [+2211 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Undersea comms cable investments double to $13 billion in over two years — ever-growing danger of cable cuts looms",
+      "description": "Weaving an undersea world-wide web for the World Wide Web.",
+      "url": "https://www.tomshardware.com/networking/undersea-comms-cable-investments-double-to-usd13-billion-in-over-two-years-ever-growing-danger-of-cable-cuts-looms",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ysXcwfL92utsaYLPvT3Wqc-2000-80.jpg",
+      "publishedAt": "2025-11-11T12:00:00Z",
+      "content": "All this talk about massive AI datacenters is well and good, but without communication, they're basically useless warehouses, as a CNBC video report rightfully points out. The undersea cabling infras… [+3101 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google Photos lets iPhone users edit images by describing changes",
+      "description": "Google is rolling out several AI updates to its Google Photos app, including iOS support for conversational edits, more accurate facial editing, and new AI tools. This means the “Help me edit” feature that lets you describe how you want Google’s AI to change …",
+      "url": "https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Google-Photos-help-me-edit-iOS.jpg?quality=90&strip=all&crop=0%2C9.4013974757059%2C100%2C81.197205048588&w=1200",
+      "publishedAt": "2025-11-11T11:53:25Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Help me edit feature is also better at fixing faces and supports Googles Nano Banana AI model.\r\nThe Help me edit feature is also better at fixing faces and s… [+3029 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Nena Farrell",
+      "title": "The Best Permanent Outdoor Lights (2025): Govee, Eufy, Lepro",
+      "description": "DIY permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the extra effort (and cost)?",
+      "url": "https://www.wired.com/story/should-you-get-permanent-outdoor-lights/",
+      "urlToImage": "",
+      "publishedAt": "2025-11-11T11:39:00Z",
+      "content": "Weatherproofing. Every model needs a weatherproof rating to survive outside, so if you don't see one, don't buy it. There's usually a lower rating for the control box compared to the rest of the ligh… [+9608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Battery trade war hits booming datacenter industry",
+      "description": "Tariffs can't stop cheaper, better Chinese tech, says Jefferies. Tesla is Amercia's great hope\nBattery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over th…",
+      "url": "https://www.theregister.com/2025/11/11/analysts_forecast_bit_barn_battery/",
+      "urlToImage": "https://regmedia.co.uk/2025/11/10/datacenter_battery_energy_storage_systems.jpg",
+      "publishedAt": "2025-11-11T11:37:49Z",
+      "content": "Battery energy storage systems (BESS) could become standard at datacenters as AI infrastructure expand, with analysts forecasting 20 GW of capacity deployed over the next decade.\r\nHyperscalers buildi… [+2924 chars]"
+    },
     {
       "source": {
         "id": "wired",
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/868e85115be3c4fca8f21b764dbeaf95d6f076e4/2025/11/06/9716deff-39e6-4183-b007-39811320b184/pebble-2-duo6.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-08T18:49:00Z",
       "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've got a bit of a history with the Pebble brand. In 2013, I backed its first watch on Kickstarter, and then a couple of years later, I purchas… [+4301 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "OpenAI asked Trump administration to expand Chips Act tax credit to cover data centers | TechCrunch",
-      "description": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company's ambitious plans for data center construction.",
-      "url": "https://techcrunch.com/2025/11/08/openai-asked-trump-administration-to-expand-chips-act-tax-credit-to-cover-data-centers/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-      "publishedAt": "2025-11-08T17:32:06Z",
-      "content": "A recent letter from OpenAI reveals more details about how the company is hoping the federal government can support the company’s ambitious plans for data center construction.\r\nThe letter from OpenAI… [+2151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "OpenAI asks U.S. to expand CHIPS Act tax credit to cover AI infrastructure despite firm's denial wanting a government 'backstop' for its massive loans",
-      "description": "OpenAI has asked the Trump administration to expand a major CHIPS Act tax credit to support the build-out of AI infrastructure, including servers, data centers, and power systems.",
-      "url": "https://www.tomshardware.com/tech-industry/openai-asks-us-to-expand-chips-act-tax-credit-to-cover-ai-infrastructure",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/grYb4cyDZep3aiZ4AbQ8YC-2560-80.jpg",
-      "publishedAt": "2025-11-08T17:00:09Z",
-      "content": "OpenAI has asked the Trump administration to expand a major CHIPS Act tax credit to support the build-out of AI infrastructure, including servers, data centers, and power systems. The company submitt… [+2830 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "Chipmaking industry pushes back on U.S. Patent Office considering imposing annual fee based on assessed value — “tax on innovation” draws strong opposition from Semiconductor Industry Association",
-      "description": "A proposal to change the USPTO's fee structure from fixed rates to a percentage basis is facing resistance from the semiconductor industry.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chipmaking-industry-pushes-back-on-u-s-patent-office-considering-imposing-annual-fee-based-on-assessed-value-tax-on-innovation-draws-strong-statement-from-semiconductor-industry-association",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SC3eQYedW3is6DfzQ7ChcN-1429-80.jpg",
-      "publishedAt": "2025-11-08T16:23:47Z",
-      "content": "The Semiconductor Industry Association (SIA) just released an open letter addressed to John A. Squires, the Director of the U.S. Patent and Trademark Office (USPTO), urging him to reconsider the prop… [+2261 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Too early to bet against AI trade, State Street suggests",
-      "description": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq’s worst week since April.",
-      "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108103716-1739901805641-JP3_8684.jpg?v=1740074904&w=1920&h=1080",
-      "publishedAt": "2025-11-08T16:00:02Z",
-      "content": "State Street is reiterating its bullish stance on the artificial intelligence trade despite the Nasdaq's worst week since April.\r\nAccording to the firm's chief business officer Anna Paglia, momentum … [+2006 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "34-year-old was saving to buy a house, then decided to focus on early retirement instead: 'I value my time more than home ownership'",
-      "description": "In 2020, Anita Kinoshita started her journey to buy a home. After many failed attempts over two years, she decided to start saving to retire early instead.",
-      "url": "https://www.cnbc.com/2025/11/08/millennial-saving-buy-a-house-decide-start-saving-early-retirement.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222596-1762456794823-IMG_8209.jpeg?v=1762457946&w=1920&h=1080",
-      "publishedAt": "2025-11-08T15:00:01Z",
-      "content": "In 2020, Anita Kinoshita, 28 years old at the time, started looking into buying a house.\r\nKinoshita was living in California and making around $70,000 a year as a software engineer for the Department… [+5606 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Top 10 trending destinations for U.S. travelers in 2026: 'Americans are discovering their own backyard,' expert says",
-      "description": "In October, Skyscanner released its best places to visit in 2026 report and ranked the top trending destinations for U.S. travelers.",
-      "url": "https://www.cnbc.com/2025/11/08/best-places-to-visit-in-2026-skyscanner.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108219413-1761837388617-gettyimages-1410639987-dsc03669.jpeg?v=1761837525&w=1920&h=1080",
-      "publishedAt": "2025-11-08T15:00:01Z",
-      "content": "Last month, Skyscanner published its annual report of destinations around the world that are trending for 2026.\r\nTo determine the ranking, Skyscanner looked at destinations with the biggest year-over… [+4070 chars]"
     }
   ]
 }
