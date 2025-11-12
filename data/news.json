@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T09:11:54.517Z",
+  "fetchedAt": "2025-11-12T09:39:12.850Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Olds",
+      "title": "AI isn't throttling HPC. It is HPC",
+      "description": "Your real problem: 40kW racks, melting datacenters and rising power bills\nOpinion In recent discussions with industry vendor sales/marketing types, I've been hearing that HPC demand is falling off while AI system demand is continuing to increase. I've also se…",
+      "url": "https://www.theregister.com/2025/11/11/ai_hpc_opinion_piece/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/15/death_shutterstock.jpg",
+      "publishedAt": "2025-11-11T09:30:13Z",
+      "content": "Opinion In recent discussions with industry vendor sales/marketing types, I've been hearing that HPC demand is falling off while AI system demand is continuing to increase. I've also seen articles im… [+6987 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Comp-panel.jpg?resize=1200,800",
       "publishedAt": "2025-11-08T14:02:13Z",
       "content": "Startups have never been able to offer the same sizable salaries as big tech companies. Now with companies like Meta and OpenAI willing to pay million-dollar salaries amid the AI race the compensatio… [+3779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "I finally have enough cash to pay off my student loan in full—here's why I'm not doing it",
-      "description": "Mathetmatically, paying off my debt now would cost me less money. But I don't want to put my wedding savings in jeopardy.",
-      "url": "https://www.cnbc.com/2025/11/08/i-have-enough-cash-to-pay-off-my-student-loan-why-im-not.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222713-1762464737221-gettyimages-1419594993-cr_vfkdpr220613a5-996430-01.jpeg?v=1762464767&w=1920&h=1080",
-      "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Everyone who knows me knows that I can't stand owing money. I pay down my credit cards every month, and I complete Venmo requests the second I get them.\r\nThe only debt I have left is my student loan,… [+4731 chars]"
     }
   ]
 }
