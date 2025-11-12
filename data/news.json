@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T14:10:33.345Z",
+  "fetchedAt": "2025-11-12T14:42:22.424Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
+      "description": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
+      "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106091765-1566479308096gettyimages-498562218.jpeg?v=1762868564&w=1920&h=1080",
+      "publishedAt": "2025-11-11T14:32:44Z",
+      "content": "Michael Burry, the investor made famous by \"The Big Short\" who recently roiled the market with a tech short bet, is accusing some of America's largest technology companies of using aggressive account… [+2763 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "EU's reforms of GDPR, AI slated by privacy activists for 'playing into Big Tech’s hands'",
+      "description": "Lobbying efforts gain ground as proposals carve myriad holes into regulations Privacy advocates are condemning the European Commission's leaked plans to overhaul digital privacy legislation, accusing officials of bypassing proper legislative processes to favo…",
+      "url": "https://www.theregister.com/2025/11/11/eu_leaked_gdpr_ai_reforms/",
+      "urlToImage": "https://regmedia.co.uk/2022/05/16/european_commission_flags_building_shutterstock.jpg",
+      "publishedAt": "2025-11-11T14:30:13Z",
+      "content": "Privacy advocates are condemning the European Commission's leaked plans to overhaul digital privacy legislation, accusing officials of bypassing proper legislative processes to favor Big Tech interes… [+5460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "Should you buy a cheap Android tablet from Amazon? I tested one that's surprisingly viable",
+      "description": "The Blackview Mega 2 offers a large display, long-lasting battery, and dependable performance - all for a surprisingly affordable price.",
+      "url": "https://www.zdnet.com/article/should-you-buy-a-cheap-android-tablet-from-amazon-i-tested-one-thats-surprisingly-viable/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/fb84d61a3490fdeebebb82c88f73bd3b6191fb50/2024/03/16/8930436d-12c7-4491-81bb-963c5101c952/img-9065.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T14:27:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nThe quality of budget Android tablets continues to amaze me, and Blackview -- a company renowned for its ruggedized smartphones -- has consisten… [+4293 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/05/13/shutterstock_china_security_concept.jpg",
       "publishedAt": "2025-11-09T23:51:57Z",
       "content": "Asia In Brief Chinese infosec blog MXRN last week reported a data breach at a security company called Knownsec that has ties to Beijing and Chinas military.\r\nMXRN says the company leaked over 12,000 … [+3963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Liz Napolitano",
-      "title": "Stock market today: live updates",
-      "description": "Traders were eyeing the latest talks about the government shutdown.",
-      "url": "https://www.cnbc.com/2025/11/09/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223048-1762529070167-gettyimages-2245509713-anotherday142727115_xge4vznh.jpeg?v=1762529152&w=1920&h=1080",
-      "publishedAt": "2025-11-09T23:25:30Z",
-      "content": "Stock futures rose after some signs of progress among congressional lawmakers over the weekend to end the historic U.S. government shutdown.  \r\nS&amp;P 500 futures gained 0.5% and Nasdaq 100 futures … [+1978 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Elon Musk uses Grok to imagine the possibility of love | TechCrunch",
-      "description": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.",
-      "url": "https://techcrunch.com/2025/11/09/elon-musk-uses-grok-to-imagine-the-possibility-of-love/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-inauguration-paintings.jpg?resize=1200,912",
-      "publishedAt": "2025-11-09T20:13:32Z",
-      "content": "After Tesla shareholders approved a new compensation package that could be worth $1 trillion, CEO Elon Musk appears to be celebrating with a normal weekend on his social media platform X.\r\nIn an earl… [+1781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "25 years ago today, Microsoft released DirectX 8 and changed PC graphics forever — How programmable shaders laid the groundwork for the future of modern GPU rendering",
-      "description": "The games we enjoy today would be unimaginably different without the improvements ushered in by DirectX 8 and its programmable shaders. Shader Model 1.0 introduced per-pixel programmable lighting, letting developers write custom code to control how light inte…",
-      "url": "https://www.tomshardware.com/pc-components/gpus/25-years-ago-today-microsoft-released-directx-8-and-changed-pc-graphics-forever-how-programmable-shaders-laid-the-groundwork-for-the-future-of-modern-gpu-rendering",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aprbjrn6caSawAxkiyCkpJ-1199-80.jpg",
-      "publishedAt": "2025-11-09T15:10:34Z",
-      "content": "It's difficult to imagine how games would look today without the quiet yet transformative change that Microsoft brought about in the year 2000. Twenty-five years ago, to this day, the company introdu… [+4037 chars]"
     }
   ]
 }
