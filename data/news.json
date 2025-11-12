@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-12T16:12:49.334Z",
+  "fetchedAt": "2025-11-12T16:47:32.110Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "Why my favorite Google Pixel phone update is an old-fashioned feature done right",
+      "description": "Android phone calls just got a major glow-up. Here's what Pixel users can try today.",
+      "url": "https://www.zdnet.com/article/why-my-favorite-google-pixel-phone-update-is-an-old-fashioned-feature-done-right/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4fc40658e02fdaca2fbe9e79bdcc027db7d2d397/2025/10/27/5af07d5d-a880-4bfd-8203-c479953ec9ab/pxl-20251027-175957838.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T16:34:00Z",
+      "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6835 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Luke James",
+      "title": "SoftBank offloads entire $5.83 billion stake in Nvidia — firm sells off stock, cash will fund major investment in OpenAI, also in talks over Stargate",
+      "description": "SoftBank has confirmed it sold its entire stake in Nvidia in October, offloading 32.1 million shares for $5.83 billion. The disclosure came Tuesday alongside the Japanese conglomerate’s latest earnings report.",
+      "url": "https://www.tomshardware.com/tech-industry/softbank-exits-nvidia-with-5-83-billion-sale",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3GS89WEqgsTxq2rNHfF2bL-2000-80.jpg",
+      "publishedAt": "2025-11-11T16:25:02Z",
+      "content": "SoftBank has confirmed it sold its entire stake in Nvidia in October, offloading 32.1 million shares for $5.83 billion. The disclosure came Tuesday alongside the Japanese conglomerate’s latest earnin… [+2772 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "29-year-old left his 6-figure tech job and opened a pizza bagel business—it brought in $20K in September",
+      "description": "Jacob Cooper left his six-figure tech job due to burnout and launched a business selling mini pizza bagels in New York City.",
+      "url": "https://www.cnbc.com/2025/11/11/29-year-old-left-6-figure-tech-job-and-opened-a-pizza-bagel-business.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223874-1762807730949-stills_for_jen00_04_12_03Still003.jpg?v=1762877743&w=1920&h=1080",
+      "publishedAt": "2025-11-11T16:18:56Z",
+      "content": "Jacob Cooper's Saturdays don't look like a typical 29-year-old's.\r\nOn a recent one, Cooper was up by 4:15 a.m., out of his Brooklyn apartment by 4:30, and ready to cook at a nearby commercial kitchen… [+6269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "$650 billion in annual revenue required to deliver 10% return on AI buildout investment, J.P. Morgan claims — equivalent to $35 payment from every iPhone user, or $180 from every Netflix subscriber 'in perpetuity'",
+      "description": "A J.P. Morgan report says that the AI industry needs to make at least $650 billion annually for investors to get a 10% return on all the money going into it until 2030.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/usd650-billion-in-annual-revenue-required-to-deliver-10-percent-return-on-ai-buildout-investment-j-p-morgan-claims-equivalent-to-usd35-payment-from-every-iphone-user-or-usd180-from-every-netflix-subscriber-in-perpetuity",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4M7e4Mu3s32Zr5enRQDYQo-1920-80.jpg",
+      "publishedAt": "2025-11-11T16:13:04Z",
+      "content": "A J.P. Morgan report suggests that the AI industry needs to make $650 billion in annual revenue to deliver a 10% return on investments that companies are expected to make through 2030. The report, sh… [+3306 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -150,12 +202,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -163,12 +215,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -1173,19 +1225,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -1196,6 +1235,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/690a802f7bd6ade585ffc3ee/191:100/w_1280,c_limit/House-of-David-AI-Use-Culture-201_Battle_Still_003.jpg",
       "publishedAt": "2025-11-10T10:00:00Z",
       "content": "In the opening scenes of the Amazon Prime series House of David season 2, shortly after the titular David slays Goliath with a stone to the forehead, battle rages around the biblical figure.\r\nA dusty… [+2892 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Rupert Goodwins",
-      "title": "Three most important factors in enterprise IT: control, control, control",
-      "description": "We’re all out of it. How to get it back is an open secret\nOpinion When the first generation of microcomputers landed on desktops, they promised many things. Affordability, flexibility, efficiency, all the good things still selling IT to this day. Mostly, thou…",
-      "url": "https://www.theregister.com/2025/11/10/three_most_important_factors_in/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/07/control.jpg",
-      "publishedAt": "2025-11-10T09:24:07Z",
-      "content": "Opinion When the first generation of microcomputers landed on desktops, they promised many things. Affordability, flexibility, efficiency, all the good things still selling IT to this day. Mostly, th… [+4962 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Intruder",
-      "title": "As AI enables bad actors, how are 3,000+ teams responding?",
-      "description": "Breaking down trends in exposure management with insightsfrom 3,000+ organizations and Intruder's security experts Partner Content  This year has shown just how quickly new exposures can emerge, with AI-generated code shipped before review, cloud sprawl racin…",
-      "url": "https://www.theregister.com/2025/11/10/ai_enables_bad_actors/",
-      "urlToImage": "https://regmedia.co.uk/2025/08/12/ai.jpg",
-      "publishedAt": "2025-11-10T09:01:20Z",
-      "content": "Partner Content This year has shown just how quickly new exposures can emerge, with AI-generated code shipped before review, cloud sprawl racing ahead of controls, and shadow IT opening blind spots. … [+3138 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CNBC Daily Open: Don't hit panic button on tech pullback just yet",
-      "description": "Earnings have been \"reassuring\" despite worries about tech stocks' high valuations, a strategist told CNBC. That means the fall in tech stocks might not last.",
-      "url": "https://www.cnbc.com/2025/11/10/cnbc-daily-open-dont-hit-panic-button-on-tech-pullback-just-yet.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223045-1762529068972-gettyimages-2245509372-anotherday142727227_guqj7h2a.jpeg?v=1762529152&w=1920&h=1080",
-      "publishedAt": "2025-11-10T07:30:01Z",
-      "content": "November is historically the best month for the S&amp;P 500, which gains an average of 1.8% during the period, according to the Stock Trader's Almanac.\r\nBut the first full trading week of the month s… [+3294 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Cisco creating new security model using 30 years of data describing cyber-dramas and saves",
-      "description": "Doubles parameters to over 17 billion, to detect threats and recommend actions\nExclusive Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.…",
-      "url": "https://www.theregister.com/2025/11/10/cisco_new_17bn_parameter_model/",
-      "urlToImage": "https://regmedia.co.uk/2021/02/10/cisco_shutterstock_editorial_only.jpg",
-      "publishedAt": "2025-11-10T06:56:52Z",
-      "content": "Exclusive Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.\r\nThe networking giants current hero model is Fou… [+1825 chars]"
     }
   ]
 }
