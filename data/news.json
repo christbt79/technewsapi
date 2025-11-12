@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-11T23:33:56.523Z",
+  "fetchedAt": "2025-11-12T00:45:33.146Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Jessica Lyons",
+      "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
+      "description": "Encryption protects content, not context\nMischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told The Register that models from some providers, including Anthropic, AWS, DeepSe…",
+      "url": "https://www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
+      "urlToImage": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
+      "publishedAt": "2025-11-11T00:09:48Z",
+      "content": "Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told The Register that models from some providers, including Ant… [+6165 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "Lovable says it's nearing 8 million users as the year-old AI coding startup eyes more corporate employees | TechCrunch",
+      "description": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
+      "url": "https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-10-at-11.20.57-PM.png?resize=1200,654",
+      "publishedAt": "2025-11-10T23:53:55Z",
+      "content": "Lovable, the Stockholm-based AI coding platform, is closing in on 8 million users, CEO Anton Osika told this editor during a sit-down on Monday, a major jump from the 2.3 million active users number … [+5674 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to open mixed after Wall Street gains on revived AI trade",
+      "description": "Overnight, Wall Street gained on a revived AI trade and hopes that the U.S. government shutdown would end soon.",
+      "url": "https://www.cnbc.com/2025/11/11/asia-pacific-markets-tuesday-ai-trade-nikkei-225-hang-seng-index.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223979-1762817121661-gettyimages-1250359232-img_3510.jpeg?v=1762817131&w=1920&h=1080",
+      "publishedAt": "2025-11-10T23:37:38Z",
+      "content": "Asia-Pacific markets were set to open mixed Tuesday, after Wall Street gained on a revived AI trade and hopes that the U.S. government shutdown would end soon.\r\nOn Monday stateside, Nvidia stocks jum… [+927 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Democratic senators blame White House, AI data centers for rising electricity prices",
+      "description": "Retail electricity prices in the U.S. increased about 6% on average through August 2025 compared with the same period in 2024, according to government data.",
+      "url": "https://www.cnbc.com/2025/11/10/democratic-senators-blame-white-house-ai-data-centers-for-rising-electricity-prices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223939-1762812728666-gettyimages-2238189324-ah804143.jpeg?v=1762812770&w=1920&h=1080",
+      "publishedAt": "2025-11-10T23:36:00Z",
+      "content": "Democratic senators on Monday blamed the White House push to fast track artificial intelligence data centers and its attacks on renewable energy for rising electricity prices in certain parts of the … [+2205 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/XenbuSE4WSu4P29aghNJK6-2560-80.jpg",
       "publishedAt": "2025-11-08T12:00:00Z",
       "content": "The Nvidia/Intel partnership announced in mid-September is putting pressure on AMD, as stated in its November 2025 quarterly report. According to the document, Nvidia’s $5-billion stake in Intel is a… [+2965 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
-      "description": "Berkshire Hathaway's B shares and A shares moved 4.5% higher this week after a strong earnings report last weekend.",
-      "url": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107410286-1714759879649-untitled-246-2-335.jpg?v=1714827163&w=1920&h=1080",
-      "publishedAt": "2025-11-08T11:32:10Z",
-      "content": "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)\r\nBerkshire… [+7917 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "CPU collector peels the lid off a Soviet era ‘fish can’ chip to peer inside with multiple microscopes — K565RU3 was a Soviet-era clone of Western chips like the Intel-designed 4116",
-      "description": "The K565RU3 is a 16KB DRAM IC that was cloned from Western chips found in classic machines like the Apple II, Commodore PET, and original IBM PC.",
-      "url": "https://www.tomshardware.com/pc-components/dram/cpu-collector-peels-the-lid-off-a-soviet-era-fish-can-chip-to-peer-inside-with-multiple-microscopes-k565ru3-was-a-soviet-era-clone-of-western-chips-like-the-intel-designed-4116",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VewUiumL7iDAQpgFMCwdx4-1920-80.jpg",
-      "publishedAt": "2025-11-08T11:30:00Z",
-      "content": "A fascinating Soviet-era retro electronics artifact was dissected and micrographed by CPU collector CPU Duke this weekend. Under the enthusiast’s selection of microscopes this time was the ‘K565PY3.’… [+3084 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map",
-      "description": "Esra'a Al Shafei spoke with The Reg about the spy tech 'global trade'\ninterview Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she's made it her mission to surveil the companies providing surveillanc…",
-      "url": "https://www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/",
-      "urlToImage": "https://regmedia.co.uk/2024/01/22/eye_shutterstock.jpg",
-      "publishedAt": "2025-11-08T11:08:06Z",
-      "content": "interview Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she's made it her mission to surveil the companies providing surveillanceware, the… [+7682 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Lisa Wood Shapiro",
-      "title": "Bad Air Is One of the Biggest Threats to Your Health. Here’s How to Protect Yourself",
-      "description": "Even though you can’t see it, fine particulate matter from woodsmoke and industrial pollution can cause everything from heart attacks and diabetes to brain damage.",
-      "url": "https://www.wired.com/story/one-of-the-biggest-threats-to-your-health-is-something-you-cant-see/",
-      "urlToImage": "https://media.wired.com/photos/690ea342a235b24163149920/191:100/w_1280,c_limit/Bad%20Air%20Is%20One%20of%20the%20Biggest%20Threats%20to%20Your%20Health_.png",
-      "publishedAt": "2025-11-08T11:06:00Z",
-      "content": "There's something invisible that can put us in an early grave. And Im not talking about sentient AI, but something much more ubiquitous and real. While AI doomers predict the existential risk that ar… [+5464 chars]"
     }
   ]
 }
