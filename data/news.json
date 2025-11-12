@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T23:09:26.508Z",
+  "fetchedAt": "2025-11-12T23:35:16.784Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "As OpenAI spends billions, Jim Cramer says the number of winning AI stocks could narrow",
+      "description": "CNBC's Jim Cramer expressed concern about OpenAI's ability to pay the billions it has committed to spend on artificial intelligence infrastructure.",
+      "url": "https://www.cnbc.com/2025/11/11/jim-cramer-winning-ai-stocks-narrow.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/104602212-IMG_3653-jim-cramer.jpg?v=1692226226&w=1920&h=1080",
+      "publishedAt": "2025-11-11T23:30:32Z",
+      "content": "CNBC's Jim Cramer suggested some artificial intelligence companies might start to underperform after months of easy gains across the board, expressing concerns about OpenAI's ability to pay the billi… [+2370 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/WMxgTMNadCkrYrMv92hdt8-1920-80.jpg",
       "publishedAt": "2025-11-10T14:02:09Z",
       "content": "A hardware hacker has installed a Minecraft server on a cheap smart lightbulb. Vimpo shows how this feat was completed and demonstrates the server working in a brief video, embedded below. Key to thi… [+2746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Former Google, Meta executives raise $100 million for high-capacity AI servers startup",
-      "description": "The three plan to sell high-memory server technology.",
-      "url": "https://www.cnbc.com/2025/11/10/majestic-labs-meta-google-ai-funding.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223253-1762548965885-ofer-Shacham-_0055-web.jpg?v=1762549193&w=1920&h=1080",
-      "publishedAt": "2025-11-10T14:00:01Z",
-      "content": "Ofer Shacham is CEO of Majestic Labs.\r\nThree former Meta and Google silicon executives on Monday announced they've raised a total of $100 million to build technology they say will reduce cloud compan… [+5494 chars]"
     }
   ]
 }
