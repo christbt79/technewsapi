@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T13:06:24.681Z",
+  "fetchedAt": "2025-11-12T13:47:14.035Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "OWASP Top 10: Broken access control still tops app security list",
+      "description": "Risk list highlights misconfigs, supply chain failures, and singles out prompt injection in AI apps The Open Worldwide Application Security Project (OWASP) just published its top 10 categories of application risks for 2025, its first list since 2021. It found…",
+      "url": "https://www.theregister.com/2025/11/11/new_owasp_top_ten_broken/",
+      "urlToImage": "https://regmedia.co.uk/2024/05/09/shutterstock_securityfence.jpg",
+      "publishedAt": "2025-11-11T13:26:40Z",
+      "content": "The Open Worldwide Application Security Project (OWASP) just published its top 10 categories of application risks for 2025, its first list since 2021. It found that while broken access control remain… [+3345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Adrian Kingsley-Hughes",
+      "title": "I use this cheap Android tablet more than my iPad Pro (and now it's only $100)",
+      "description": "Looking for a tablet for the low? I tested the Blackview Tab 90 earlier this year, and it delivers great entertainment without breaking the bank.",
+      "url": "https://www.zdnet.com/article/i-use-this-cheap-android-tablet-more-than-my-ipad-pro/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/456251851a0386087cb235f2312ca70059503b28/2024/11/16/7755dcae-f192-4443-a41c-4de842dcc76e/img-1910.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T13:16:00Z",
+      "content": "For a limited time, Amazon has the Blackview Tab 90 tablet listed at a 33% discount, bringing it down to just $100.\r\nIt's that time of year when I get a lot of questions about tablets. They seem to b… [+5406 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "UK unveils roadmap for replacing animal testing",
+      "description": "Years of development still needed but AI, 3D printing, and other alternative options on the horizon\nThe UK Government has unveiled a roadmap to replace animal testing with AI-driven options and other alternatives, targeting the elimination of certain regulato…",
+      "url": "https://www.theregister.com/2025/11/11/uk_gov_animal_testing_alt_plans/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/28/shutterstock_lab.jpg",
+      "publishedAt": "2025-11-11T13:13:41Z",
+      "content": "The UK Government has unveiled a roadmap to replace animal testing with AI-driven options and other alternatives, targeting the elimination of certain regulatory tests by the end of 2026.\r\nPhasing ou… [+3708 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -952,19 +991,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -975,6 +1001,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://media.wired.com/photos/690eb355b8a8d7f1f81e6d11/191:100/w_1280,c_limit/Adobe%20Firefly-%20What%20It%20Is%20and%20How%20to%20Use%20It.png",
       "publishedAt": "2025-11-09T14:00:00Z",
       "content": "Firefly is powerful, and I wont be able to cover everything you can do with it. Instead, Ill walk you through a simple workflow of generating an image using an AI model, and then using that image as … [+1608 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Hard drives on backorder for two years as AI data centers trigger HDD shortage — delays forcing rapid transition to QLC SSDs",
-      "description": "Artificial intelligence has taken yet another victim. After GPUs and memory, storage is now facing a shortage as well, at least in the enterprise space. Production capacity for nearline storage, fueled by high-capacity server HDDs, is booked for the next two …",
-      "url": "https://www.tomshardware.com/pc-components/hdds/ai-triggers-hard-drive-shortage-amidst-dram-squeeze-enterprise-hard-drives-on-backorder-by-2-years-as-hyperscalers-switch-to-qlc-ssds",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VsVniKWsqcufsCr7tEUNeF-2560-80.jpg",
-      "publishedAt": "2025-11-09T13:00:00Z",
-      "content": "The race to achieve AGI (artificial general intelligence) has pushed constituents to invest in and build data centers at a pace far outstripping our ability to make them. Manufacturers are struggling… [+2635 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "DIY Amiga sound sampler circuit mystery solved 32 years later — Magazine instructions had key component spec typos",
-      "description": "An electronics enthusiast remade a 1993 DIY project from his youth, but hard-earned skills and experience ironed out errors in the printed instructions.",
-      "url": "https://www.tomshardware.com/pc-components/sound-cards/diy-amiga-sound-sampler-circuit-mystery-solved-32-years-later-magazine-instructions-had-key-component-spec-typos",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BhVhVFM9mfKXft8cgTtxcJ-1920-80.jpg",
-      "publishedAt": "2025-11-09T12:20:00Z",
-      "content": "A three-decade-old “Amiga mystery” has been solved by an intrepid electronics-focused TechTuber. Rob Smith originally tried to make a DIY sampler for his Amiga computer back in 1993. Despite his best… [+3909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
-      "description": "After a volatile week for AI stocks and the tech sector more broadly, CNBC travels to Web Summit in Lisbon — 'Davos for geeks' — to assess sentiment.",
-      "url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061119-17313533352024-11-11t192700z_367821524_rc263bafo1p7_rtrmadp_0_tech-websummit.jpeg?v=1731353377&w=1920&h=1080",
-      "publishedAt": "2025-11-09T03:58:08Z",
-      "content": "The city of Lisbon in Portugal turns to tech next week, as it plays host to the annual Web Summit conference. The event, also known as the \"Davos for geeks,\" will feature some of the biggest names in… [+1837 chars]"
     }
   ]
 }
