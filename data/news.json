@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T22:35:58.455Z",
+  "fetchedAt": "2025-11-12T23:09:26.508Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sean Conlon",
+      "title": "Stock market today: Live updates",
+      "description": "Tuesday saw a tale of two markets emerge — the 30-stock Dow rallied more than 550 points to close at a record high, while the Nasdaq Composite slipped.",
+      "url": "https://www.cnbc.com/2025/11/11/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223050-1762951213250-108223050-1762529069072-gettyimages-2245509844-anotherday142727029_rlpy8e5r.jpg?v=1762951220&w=1920&h=1080",
+      "publishedAt": "2025-11-11T23:02:31Z",
+      "content": "Stock futures rose on Wednesday, marked by a rebound in technology stocks following their sell-off in the prior day as the names continue to seesaw in what has been a volatile month for the trade.\r\nS… [+2288 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -436,12 +449,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -449,12 +462,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223253-1762548965885-ofer-Shacham-_0055-web.jpg?v=1762549193&w=1920&h=1080",
       "publishedAt": "2025-11-10T14:00:01Z",
       "content": "Ofer Shacham is CEO of Majestic Labs.\r\nThree former Meta and Google silicon executives on Monday announced they've raised a total of $100 million to build technology they say will reduce cloud compan… [+5494 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anna Heim",
-      "title": "Remote driving startup Vay could grab up to $410M from Singapore's Grab | TechCrunch",
-      "description": "Vay, a German startup offering remote-controlled rental cars, will get an investment of up to $410M from Singaporean super-app company Grab.",
-      "url": "https://techcrunch.com/2025/11/10/remote-driving-startup-vay-could-grab-up-to-410m-from-singapores-grab/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/Vay_US_4.jpg?resize=1200,800",
-      "publishedAt": "2025-11-10T13:54:00Z",
-      "content": "Autonomous vehicles are having a moment, and it’s making it a lot easier for smaller companies to raise money. Vay, a German startup offering remote-controlled rental cars, will get $60 million in ca… [+3280 chars]"
     }
   ]
 }
