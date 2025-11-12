@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T15:42:12.409Z",
+  "fetchedAt": "2025-11-12T16:12:49.334Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "BTF 3.0 reveals the future of cable-less PC builds — single 50-pin connector supports up to 2,145 watts to power a CPU and GPU",
+      "description": "DIY-APE has just revealed a next-gen concept for back-connect PCs, using the new BTF 3.0 spec. A single 50-pin connector powers most of the PC, with front panel I/O being simplified into one connector as well. BTF 3.0 is backward compatible with prior BTF sta…",
+      "url": "https://www.tomshardware.com/pc-components/btf-3-0-reveals-the-future-of-cable-less-pc-builds-single-50-pin-connector-supports-up-to-2-145-watts-to-power-a-cpu-and-gpu",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/r72ijuhJSUB3Zfajz5pjbU-1920-80.png",
+      "publishedAt": "2025-11-11T16:11:03Z",
+      "content": "Back-connect motherboards and GPUs have been popping up more than ever lately, thanks to various manufacturers adopting DIY-APE's designs and building upon them. You can find a bunch of options in th… [+4054 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Wonderful raised $100M Series A to put AI agents on the front lines of customer service | TechCrunch",
+      "description": "Israeli AI agent startup Wonderful has raised $100 million in a Series A round led by Index Ventures, with participation from Insight",
+      "url": "https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Wonderful-Founders.png?resize=1200,800",
+      "publishedAt": "2025-11-11T16:09:27Z",
+      "content": "Israeli AI agent startup Wonderful has raised $100 million in a Series A round led by Index Ventures, with participation from Insight Partners, IVP, Bessemer, and Vine Ventures. \r\nThe large round, in… [+3050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Nina Raemont",
+      "title": "This new perimenopause tracker could help you spot the signs sooner - preorder it today",
+      "description": "Perimenopause has long been treated like a mystery that you just have to power through. Not anymore.",
+      "url": "https://www.zdnet.com/article/this-new-perimenopause-tracker-could-help-you-spot-the-signs-sooner-preorder-it-today/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/c1811ddc44ddf3e84a8c9215b47e0e16442a37c2/2025/11/11/1169aec7-a1b5-48ce-8e9b-16f994cf33e5/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T16:00:31Z",
+      "content": "Peri\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Peri, a perimenopause wearable, is now available for preorder.</li><li>The device tracks perimenopausal sym… [+2509 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2021/02/10/cisco_shutterstock_editorial_only.jpg",
       "publishedAt": "2025-11-10T06:56:52Z",
       "content": "Exclusive Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.\r\nThe networking giants current hero model is Fou… [+1825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "China suspends some critical mineral export curbs to the U.S. as trade truce takes hold",
-      "description": "China has rolled back a number of restrictions on its export of critical minerals and rare earth materials to the U.S., in a sign of thawing trade tensions.",
-      "url": "https://www.cnbc.com/2025/11/10/china-suspends-some-critical-mineral-export-curbs-to-the-us-as-trade-truce-takes-hold.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108070936-1733286828300-gettyimages-1756858630-20090101231101-99-779255.jpeg?v=1733287027&w=1920&h=1080",
-      "publishedAt": "2025-11-10T04:03:14Z",
-      "content": "China has rolled back a number of restrictions on its export of critical minerals and rare earth materials to the United States, in a sign that a trade truce between the world's two largest economies… [+1902 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Nexperia parent shares jump 6% as Beijing signals thaw in tensions with Netherlands",
-      "description": "The dispute over ownership and control of the Dutch-based Nexperia has led global automakers to warn impacts from a shortage of chip supplies.",
-      "url": "https://www.cnbc.com/2025/11/10/nexperia-parent-wingtech-shares-beijing-china-signals-thaw-in-tensions-with-netherlands-dutch-hague.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223391-1762732099400-gettyimages-2244812334-AFP_839X72A.jpeg?v=1762732114&w=1920&h=1080",
-      "publishedAt": "2025-11-10T02:59:38Z",
-      "content": "This photograph shows a general view of Nexperia headquarters in Nijmegen on November 6, 2025.\r\nShares of Wingtech Technology, parent company of chipmaker Nexperia, extended gains on Monday after Bei… [+3923 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "Microsoft teases agents that become ‘independent users within the workforce’",
-      "description": "Licensing expert worries they’ll be out of control on day one\nMicrosoft has teased what it’s calling “a new class” of AI agents “that operate as independent users within the enterprise workforce.”…<!--#include virtual='/data_centre/_whitepaper_textlinks_top.h…",
-      "url": "https://www.theregister.com/2025/11/10/microsoft_agentic_users_a365/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_editorial_only_teams_and_copilot.jpg",
-      "publishedAt": "2025-11-10T02:31:21Z",
-      "content": "Microsoft has teased what its calling a new class of AI agents that operate as independent users within the enterprise workforce.\r\nEach embodied agent has its own identity, dedicated access to organi… [+2645 chars]"
     }
   ]
 }
