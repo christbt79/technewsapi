@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-12T19:07:53.808Z",
+  "fetchedAt": "2025-11-12T19:32:22.038Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AMD's Lisa Su sees 35% annual sales growth driven by 'insatiable' AI demand",
+      "description": "Su said that AMD could be able to achieve \"double-digit\" share in the data center AI chip market over the next three to five years.",
+      "url": "https://www.cnbc.com/2025/11/11/amd-lisa-su-growth-ai-analyst-day.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108208259-1759767774187-gettyimages-2239199521-AMD_OPENAI.jpeg?v=1762887478&w=1920&h=1080",
+      "publishedAt": "2025-11-11T19:21:15Z",
+      "content": "AMD shares swung on Tuesday after CEO Lisa Su said the company's overall revenue growth would expand to about 35% per year over the next three to five years, driven by \"insatiable\" demand for artific… [+3264 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Webb Wright",
+      "title": "OpenAI says it's working toward catastrophe or utopia - just not sure which",
+      "description": "What OpenAI's latest move says about ROI, safety efforts, and the company's relationship with responsible AI.",
+      "url": "https://www.zdnet.com/article/openai-says-its-working-toward-catastrophe-or-utopia-just-not-sure-which/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/f655571d9134a0d4750edea6b1e95b43074b6579/2025/11/11/fa87eb33-d156-4dd6-898f-bb7e9a3e519d/gettyimages-2206458820.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T19:08:09Z",
+      "content": "narvo vexar/iStock/Getty Images Plus via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>AI could enable \"widely distributed abundance,\" OpenAI sai… [+7902 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/107411565-1715095961087-gettyimages-2004544232-PGONCHAR_1316.jpeg?v=1762777354&w=1920&h=1080",
       "publishedAt": "2025-11-10T12:59:50Z",
       "content": "Instacart's stock rose more than 8% before the bell Monday after the grocery delivery platform topped third-quarter earnings and issued upbeat guidance under new CEO Chris Rogers.\r\nHere's how the com… [+2205 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Micron delays New York chipmaking fabs by five years, but accelerates second fab in Idaho and reallocates CHIPS Act funding",
-      "description": "Micron has reportedly postponed its New York fab project near Clay by several more years: Fab 1 is not expected is now expected to be completed in 2030 and full campus build-out is now projected to be fully ramped in 2045. At the same time, the company reallo…",
-      "url": "https://www.tomshardware.com/pc-components/dram/microns-new-york-chipmaking-fabs-by-five-years-but-accelerates-second-fab-in-idaho-and-reallocates-chips-act-funding",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MKPAJtT8MT8FuEjoJ2s7Ko-1920-80.jpg",
-      "publishedAt": "2025-11-10T12:56:40Z",
-      "content": "Micron has disclosed another major postponement for its fabs near Clay, New York, which will pull out the facilities coming online only in late 2033, reports Syracuse, citing recently released docume… [+4276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Silicon Valley data centers totalling nearly 100MW could 'sit empty for years' due to lack of power — huge installations are idle because Santa Clara can't cope with surging electricity demands",
-      "description": "In the heart of Silicon Valley, two freshly built data centers designed for the world’s most power-hungry computing workloads are standing empty.",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/K7Efwz7zHNob3LcA9bqtvX-2000-80.jpg",
-      "publishedAt": "2025-11-10T12:36:21Z",
-      "content": "In the heart of Silicon Valley, two freshly built data centers designed for the world’s most power-hungry computing workloads are standing empty. Digital Realty’s four-story SJC37 facility and Stack … [+2619 chars]"
     }
   ]
 }
