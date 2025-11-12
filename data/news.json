@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T17:09:52.153Z",
+  "fetchedAt": "2025-11-12T17:38:55.093Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’",
+      "description": "AI chatbots “pose serious risks to individuals vulnerable to eating disorders,” researchers warned on Monday. They report that tools from companies like Google and OpenAI are doling out dieting advice, tips on how to hide disorders, and AI-generated “thinspir…",
+      "url": "https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/ca7270eb.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-11T17:33:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nResearchers warn existing guardrails do little to protect people vulnerable to eating disorders. \r\nResearchers warn existing guardrails do little to protect peop… [+4201 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin",
+      "title": "Immortality startup Eternos pivots to a personal AI that sounds like you | TechCrunch",
+      "description": "Immortality startup Eternos pivots to a personal AI that sounds like you | TechCrunchtechcrunch.com",
+      "url": "https://techcrunch.com/2025/11/11/immortality-startup-eternos-pivots-to-a-personal-ai-that-sounds-like-you/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Group-Photo-4-.jpg?resize=1200,800",
+      "publishedAt": "2025-11-11T17:33:02Z",
+      "content": "In 2023, after nearly three decades as CEO of the company he founded, Robert LoCascio stepped down as CEO of LivePerson, the public firm credited with pioneering web chat in 1997.\r\nGenerative AI adva… [+3144 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "How AI startups should be thinking about product-market fit | TechCrunch",
+      "description": "Two experienced investors share their tips for founders and operators hoping to nail product-market fit at their AI startups.",
+      "url": "https://techcrunch.com/2025/11/11/how-ai-startups-should-be-thinking-about-product-market-fit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/disrupt-2025-product-market-fit-panel.jpeg?resize=1200,859",
+      "publishedAt": "2025-11-11T17:17:31Z",
+      "content": "For all their pitches promising something new, AI startups share many of the same questions as startups in years past: How do they know when theyve achieved the holy grail of product-market fit?\r\nPro… [+2362 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/103b2913dcef82f5536d66b158eae269a115901f/2025/11/07/155e86fb-83c7-41e8-8e4f-e48a163ccb27/vs-2.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:44Z",
       "content": "Allison Murray/ZDNET\r\nSalesforce and HubSpot are two of the most popular customer relationship management systems (CRM) giants, each promising the world when it comes to managing your customer relati… [+10950 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool offers one-tap troubleshooting (and fits on a phone)",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-offers-one-tap-troubleshooting-and-fits-on-a-phone/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     }
   ]
 }
