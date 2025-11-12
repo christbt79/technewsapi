@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T21:36:02.407Z",
+  "fetchedAt": "2025-11-12T22:09:19.991Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
+      "title": "AMD reveals new roadmap for its Ryzen CPUs, teasing Zen 7 as the true \"next-generation\" leap with 2nm — Lineup confirms 2026 release for Zen 6, coming with expanded AI features",
+      "description": "An updated CPU roadmap from AMD has put Zen 6 and Zen 7 in clear sight, with the former set to debut next year on TSMC's 2nm node, and the latter slated for a release sometime in 2027-2028, touted as the company's next major leap. Details were scarce at the a…",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-reveals-new-roadmap-for-its-ryzen-cpus-teasing-zen-7-as-the-true-next-generation-leap-with-2nm-lineup-confirms-2026-release-for-zen-6-coming-with-expanded-ai-features",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MbxPdtYYnnvC5U29mGEUwc-1866-80.jpg",
+      "publishedAt": "2025-11-11T21:58:07Z",
+      "content": "AMD has just revealed an updated Zen roadmap for its CPUs at Financial Analyst Day, labeled \"Leadership CPU Core Roadmap.\" While it doesn't delve into details — or even show any new ones — we do get … [+2130 chars]"
+    },
     {
       "source": {
         "id": "the-verge",
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/Vay_US_4.jpg?resize=1200,800",
       "publishedAt": "2025-11-10T13:54:00Z",
       "content": "Autonomous vehicles are having a moment, and it’s making it a lot easier for smaller companies to raise money. Vay, a German startup offering remote-controlled rental cars, will get $60 million in ca… [+3280 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Prakhar Khanna",
-      "title": "The OnePlus 15 launches in the US this week - and its battery is insane",
-      "description": "The OnePlus 15 just might be 2025's best value Android phone. Here's why",
-      "url": "https://www.zdnet.com/article/the-oneplus-15-launches-in-the-us-this-week-and-its-battery-is-insane/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/b4b2454e0277ca65f6d2ab2ba4c113fd44598816/2025/09/29/82de986e-8259-47d8-a515-a96e6f47b831/oneplus-15.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T13:28:00Z",
-      "content": "OnePlus/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways \r\n<ul><li>The OnePlus 15 will be launched outside of China on Nov. 13.</li><li>This is OnePlus' first phone… [+5926 chars]"
     }
   ]
 }
