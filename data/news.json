@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-12T00:45:33.146Z",
+  "fetchedAt": "2025-11-12T02:25:11.231Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: AI is back — it never really went away",
+      "description": "Investors piled back into artificial intelligence names on Monday stateside. \"AI-related stocks should drive equity markets,\" an analyst said.",
+      "url": "https://www.cnbc.com/2025/11/11/cnbc-daily-open-ai-is-back-it-never-really-went-away.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122989-1743183626102-gettyimages-2206681850-porzycki-nvidiaan250328_npq2M.jpeg?v=1743183829&w=1920&h=1080",
+      "publishedAt": "2025-11-11T00:59:25Z",
+      "content": "Investors piled back into artificial intelligence names on Monday stateside. Shares of Nvidia jumped 5.8%, Broadcom advanced 2.6% and Microsoft climbed 1.9% to end its eight-day losing streak, its lo… [+3193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Thomas Claburn",
+      "title": "Superintelligence probably not happening, but AI will still reshape society, expert panel says",
+      "description": "Ask 339 people, get 339 answers Experts may be skeptical about corporate AI hype to varying degrees, but they share the view that machine learning models will have a significant effect on society.…",
+      "url": "https://www.theregister.com/2025/11/11/ai_experts_forecast/",
+      "urlToImage": "https://regmedia.co.uk/2024/06/12/shutterstock_boss_chosing_ai_or_human.jpg",
+      "publishedAt": "2025-11-11T00:59:13Z",
+      "content": "Experts may be skeptical about corporate AI hype to varying degrees, but they share the view that machine learning models will have a significant effect on society.\r\nThe Forecasting Research Institut… [+5493 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -718,19 +744,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Condé Nast",
-      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
-      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
-      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
-      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ZDNet"
       },
@@ -741,6 +754,19 @@
       "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Condé Nast",
+      "title": "Palantir CEO Alex Karp On Government Contracts, Immigration, and the Future of Work",
+      "description": "WIRED's Steven Levy sits down for The Big Interview with Palantir CEO Alex Karp. From the benefits of embracing the government in an era when Silicon Valley kept a calculated distance to the criticism levied at Palantir from each end of the political spectrum…",
+      "url": "https://www.wired.com/video/watch/big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work/",
+      "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
     },
     {
       "source": {
@@ -1229,12 +1255,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
-      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
@@ -1242,12 +1268,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+      "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
+      "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108194079-1756961215667-gettyimages-1484307659-aun06496-editcopy.jpeg?v=1762378248&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+      "content": "Neurodiverse professionals may see unique benefits from artificial intelligence tools and agents, research suggests. With AI agent creation booming in 2025, people with conditions like ADHD, autism, … [+5139 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/bWjuN8pbASUx5Uu67tn4g4-1920-80.jpg",
       "publishedAt": "2025-11-08T13:00:00Z",
       "content": "SanDisk has reportedly raised its NAND flash contract prices by a staggering 50% for November, according to DigiTimes Asia. This move underscores a rapidly tightening memory market, driven by both un… [+3130 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Amazon is selling the M4 MacBook Air for its lowest price ever - and it's an easy buy for me",
-      "description": "Apple's 13-inch M4 MacBook Air is an easy win for most consumers, with more base memory, improved display support, and an extremely competitive price.",
-      "url": "https://www.zdnet.com/article/amazon-is-selling-the-m4-macbook-air-for-its-lowest-price-ever-and-its-an-easy-buy-for-me/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/6bc9dc9d7d79cc53e062264180f7380750c6b2a4/2025/03/12/8ca9fb2a-cf0a-46e6-92b8-4bbfb0926510/img-0550.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-08T12:30:27Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nBefore Apple announced the MacBook Air M4 in early 2025, rumors abounded on what new features the ultraportable would come with. \r\nPartly becaus… [+8806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
-      "title": "AMD warns the Intel and Nvidia partnership is a risk to its business — quarterly report outlines risk from 'increased competition and pricing pressure'",
-      "description": "AMD lists the Nvidia's $5 billion investment in Intel as a specific risk in its quarterly report.",
-      "url": "https://www.tomshardware.com/tech-industry/amd-warns-intel-nvidia-partnership-is-a-business-risk-quarterly-report-outlines-risk-from-increased-competition-and-pricing-pressure",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XenbuSE4WSu4P29aghNJK6-2560-80.jpg",
-      "publishedAt": "2025-11-08T12:00:00Z",
-      "content": "The Nvidia/Intel partnership announced in mid-September is putting pressure on AMD, as stated in its November 2025 quarterly report. According to the document, Nvidia’s $5-billion stake in Intel is a… [+2965 chars]"
     }
   ]
 }
