@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T07:10:05.911Z",
+  "fetchedAt": "2025-11-12T07:36:52.913Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: Days of declines won't keep AI trade down",
+      "description": "Investors piled back into artificial intelligence names on Monday stateside. \"AI-related stocks should drive equity markets,\" an analyst said.",
+      "url": "https://www.cnbc.com/2025/11/11/cnbc-daily-open-days-of-declines-wont-keep-ai-trade-down.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223737-17627966742025-11-10t174234z_65768964_rc2rthab6b5f_rtrmadp_0_usa-stocks.jpeg?v=1762796879&w=1920&h=1080",
+      "publishedAt": "2025-11-11T07:30:01Z",
+      "content": "Investors piled back into artificial intelligence names on Monday stateside. Shares of Nvidia jumped 5.8%, Broadcom advanced 2.6% and Microsoft climbed 1.9% to end its eight-day losing streak, its lo… [+1982 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -770,19 +783,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -793,6 +793,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -1274,19 +1287,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222713-1762464737221-gettyimages-1419594993-cr_vfkdpr220613a5-996430-01.jpeg?v=1762464767&w=1920&h=1080",
       "publishedAt": "2025-11-08T14:00:01Z",
       "content": "Everyone who knows me knows that I can't stand owing money. I pay down my credit cards every month, and I complete Venmo requests the second I get them.\r\nThe only debt I have left is my student loan,… [+4731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
-      "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
     },
     {
       "source": {
