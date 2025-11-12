@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T12:18:43.508Z",
+  "fetchedAt": "2025-11-12T13:06:24.681Z",
   "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Google is introducing its own version of Apple’s private AI cloud compute",
+      "description": "Google is rolling out a new cloud-based platform that lets users unlock advanced AI features on their devices while keeping data private. The feature, virtually identical to Apple’s Private Cloud Compute, comes as companies reconcile users’ demands for privac…",
+      "url": "https://www.theverge.com/news/818364/google-private-ai-compute",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/HT012_google_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2025-11-11T13:02:50Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle says Private AI Compute maintains privacy while tapping cloud resources.\r\nGoogle says Private AI Compute maintains privacy while tapping cloud resources.\r… [+2453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Intel's CTO and AI chief leaves for OpenAI after just seven months in role — follows another AI data center exec out the door, Lip Bu-Tan to take up the slack",
+      "description": "Intel's Chief Technology Officer and AI head has jumped ship to OpenAI to take over the company's compute infrastructure projects. Intel CEO, Lip Bu-Tan, will take over the role of managing Intel's AI efforts going forward.",
+      "url": "https://www.tomshardware.com/tech-industry/intels-cto-and-ai-chief-leaves-for-openai-after-just-seven-months-in-role-follows-another-ai-data-center-exec-out-the-door-lip-bu-tan-to-take-up-the-slack",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/etjZv8kV9b3CKHzV7puhnL-1920-80.jpg",
+      "publishedAt": "2025-11-11T12:47:08Z",
+      "content": "Intel's Chief Technology Officer and head of AI, Sachin Katti, has left the longtime chip manufacturer and joined OpenAI instead, as reported by Reuters. He'll be taking over the role of building out… [+3059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Carly Page",
+      "title": "Hitachi-owned GlobalLogic admits data stolen on 10k current and former staff",
+      "description": "Clop's Oracle EBS exploit spree shows no sign of slowing, claims nearly 30 more casualties in media, finance, and tech. Digital engineering outfit GlobalLogic says personal data from more than 10,000 current and former employees was exposed in the wave of Ora…",
+      "url": "https://www.theregister.com/2025/11/11/hitachiowned_globallogic_admits_data_stolen/",
+      "urlToImage": "https://regmedia.co.uk/2024/04/17/shutterstock_attack.jpg",
+      "publishedAt": "2025-11-11T12:20:20Z",
+      "content": "Digital engineering outfit GlobalLogic says personal data from more than 10,000 current and former employees was exposed in the wave of Oracle E-Business Suite (EBS) attacks attributed to the Clop ra… [+3075 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108061119-17313533352024-11-11t192700z_367821524_rc263bafo1p7_rtrmadp_0_tech-websummit.jpeg?v=1731353377&w=1920&h=1080",
       "publishedAt": "2025-11-09T03:58:08Z",
       "content": "The city of Lisbon in Portugal turns to tech next week, as it plays host to the annual Web Summit conference. The event, also known as the \"Davos for geeks,\" will feature some of the biggest names in… [+1837 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "Is Wall Street losing faith in AI? | TechCrunch",
-      "description": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
-      "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
-      "publishedAt": "2025-11-08T20:53:48Z",
-      "content": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.\r\nThe Wall Street Journal reports that the Nasdaq Composite Index was down 3% making this its worst … [+951 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Anthony Ha",
-      "title": "‘Breaking Bad’ creator’s new show ‘Pluribus’ was emphatically ‘made by humans,’ not AI",
-      "description": "If you watched all the way to the end of the new Apple TV show “Pluribus,” you may have noticed an unusual disclaimer in the credits: “This show was made by humans.”",
-      "url": "https://techcrunch.com/2025/11/08/breaking-bad-creators-new-show-pluribus-was-emphatically-made-by-humans-not-ai/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/pluribus.jpeg?resize=1200,803",
-      "publishedAt": "2025-11-08T19:31:07Z",
-      "content": "If you watched all the way to the end of the new Apple TV show Pluribus, you may have noticed an unusual disclaimer in the credits: This show was made by humans.\r\nThat terse message   placed right be… [+906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Matthew Miller",
-      "title": "Is this minimalist timepiece a viable alternative to smartwatches? My verdict after a week",
-      "description": "Pebble is back with a $149 smartwatch that comes with key improvements, including a month-long battery life.",
-      "url": "https://www.zdnet.com/article/is-this-minimalist-timepiece-a-viable-alternative-to-smartwatches-my-verdict-after-a-week/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/868e85115be3c4fca8f21b764dbeaf95d6f076e4/2025/11/06/9716deff-39e6-4183-b007-39811320b184/pebble-2-duo6.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-08T18:49:00Z",
-      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've got a bit of a history with the Pebble brand. In 2013, I backed its first watch on Kickstarter, and then a couple of years later, I purchas… [+4301 chars]"
     }
   ]
 }
