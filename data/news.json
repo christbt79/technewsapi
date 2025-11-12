@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-12T19:32:22.038Z",
+  "fetchedAt": "2025-11-12T20:11:10.330Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Prakhar Khanna",
+      "title": "These Samsung Galaxy S26 rumors suggest big changes that we didn't see coming",
+      "description": "Samsung's flagship lineup is ready for a major overhaul - here's what we know so far about the Galaxy S26's processor, camera, battery, and more.",
+      "url": "https://www.zdnet.com/article/these-samsung-galaxy-s26-rumors-suggest-big-changes-that-we-didnt-see-coming/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/28f7fc4b6c21bb8967fbcd5da0a39c798515f424/2025/05/12/68ed5b87-edac-407d-81fb-baf4fa91509b/dsc05803.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T20:02:00Z",
+      "content": "Kerry Wan/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Galaxy S26 could launch with Samsung's new Exynos 2600 processor.</li><li>Expect meaningful came… [+5649 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jason Howell",
+      "title": "Pixel phone calls just got a major glow-up - see for yourself",
+      "description": "This Google Pixel phone update is an old-fashioned feature done right.",
+      "url": "https://www.zdnet.com/article/pixel-phone-calls-just-got-a-major-glow-up-see-for-yourself/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/4fc40658e02fdaca2fbe9e79bdcc027db7d2d397/2025/10/27/5af07d5d-a880-4bfd-8203-c479953ec9ab/pxl-20251027-175957838.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T19:58:00Z",
+      "content": "Jason Howell/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Google's new Calling Cards make Android calls feel more personal.</li><li>The feature lets Pi… [+6835 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "SoftBank's Nvidia sale rattles market, raises questions | TechCrunch",
+      "description": "Wall Street can’t help but wonder: does Son see something right now that others do not?",
+      "url": "https://techcrunch.com/2025/11/11/softbanks-nvidia-sale-rattles-market-raises-questions/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1142417807.jpg?resize=1200,800",
+      "publishedAt": "2025-11-11T19:53:42Z",
+      "content": "Masayoshi Son isnt known for half measures. The SoftBank founder’s career has been studded with brow-raising bets, each one seemingly more outrageous than the last. His latest move is to cash out his… [+3786 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -345,12 +384,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -358,12 +397,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/scribe-founders.jpg?resize=1200,800",
       "publishedAt": "2025-11-10T13:01:38Z",
       "content": "After helping several enterprises document how work actually happens, Scribe has raised $75 million at a $1.3 billion post-money valuation to roll out Scribe Optimize, a platform that maps workflows … [+3817 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "As private tech market heats up, PitchBook makes startup data available via ChatGPT",
-      "description": "PitchBook is launching PitchBook Navigator, a new generative AI tool that produces private market insights based on user prompts.",
-      "url": "https://www.cnbc.com/2025/11/10/pitchbook-introduces-ai-tool-navigaton-integrates-with-chatgpt.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223264-1762549402237-gettyimages-2222108524-TFSPI_29062025-8512.jpeg?v=1762549469&w=1920&h=1080",
-      "publishedAt": "2025-11-10T13:00:01Z",
-      "content": "The private tech market has never been hotter, with companies like OpenAI, SpaceX, Anthropic and Stripe climbing to astronomical valuations. \r\nPitchBook, one of the top providers of data on startups,… [+2115 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Christopher Null",
-      "title": "Asus ProArt P16 Review: The Fastest Windows Laptop",
-      "description": "This just might be the fastest Windows laptops on the market. Don’t ask about the price.",
-      "url": "https://www.wired.com/review/asus-proart-p16-2025/",
-      "urlToImage": "https://media.wired.com/photos/69102466efb14f39767edbf0/191:100/w_1280,c_limit/Review-%20Asus%20ProArt%20P16.png",
-      "publishedAt": "2025-11-10T13:00:00Z",
-      "content": "In CapCut (which comes installed), the dial can be used for zoom, frame-by-frame stepping in a videoclip, and other adjustment functions. Adobe app support is also broad and preconfigured, but all of… [+1752 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Instacart tops third-quarter expectations under new CEO Rogers, gives strong guidance",
-      "description": "Instacart said it's expanding artificial intelligence tools, and recently launched a suite of new solutions for grocers.",
-      "url": "https://www.cnbc.com/2025/11/10/instacart-cart-stock-earnings-q3-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107411565-1715095961087-gettyimages-2004544232-PGONCHAR_1316.jpeg?v=1762777354&w=1920&h=1080",
-      "publishedAt": "2025-11-10T12:59:50Z",
-      "content": "Instacart's stock rose more than 8% before the bell Monday after the grocery delivery platform topped third-quarter earnings and issued upbeat guidance under new CEO Chris Rogers.\r\nHere's how the com… [+2205 chars]"
     }
   ]
 }
