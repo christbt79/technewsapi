@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T05:11:04.456Z",
+  "fetchedAt": "2025-11-12T05:39:57.610Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Intel CTO and AI boss quits to join OpenAI after just six months in the job",
+      "description": "Sachin Katti was one of new Intel CEO Lip Bu Tan's first appointments Sachin Katti, the exec Intel promoted to chief technology and AI officer in April, will leave the x86 giant to join OpenAI after just six months in the job.…",
+      "url": "https://www.theregister.com/2025/11/11/intel_ai_cto_quits_joins_openai/",
+      "urlToImage": "https://regmedia.co.uk/2022/03/07/shutterstock_goodbye_speech_bubble.jpg",
+      "publishedAt": "2025-11-11T05:18:25Z",
+      "content": "Sachin Katti, the exec Intel promoted to chief technology and AI officer in April, will leave the x86 giant to join OpenAI after just six months in the job.\r\nKatti was one of new Intel CEO Lip Bu Tan… [+2136 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -744,19 +757,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Kyle Kucharski",
-      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
-      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
-      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T11:00:00Z",
-      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
-    },
-    {
-      "source": {
         "id": "wired",
         "name": "Wired"
       },
@@ -767,6 +767,19 @@
       "urlToImage": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1762533027/wired_big-interview-palantir-ceo-alex-karp-on-government-contracts-immigration-and-the-future-of-work.jpg",
       "publishedAt": "2025-11-10T11:00:00Z",
       "content": "We have to build systems like Palantir\r\nand we have to explain to people with working class skills,\r\npeople with normal jobs,\r\nthat their labor's gonna become more important\r\nand more valuable over t… [+23216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Kyle Kucharski",
+      "title": "Ookla's new Wi-Fi diagnostic tool aims to solve the 'blame game' once and for all",
+      "description": "The dual-mode Speedtest Pulse troubleshoots network issues for ISPs and enterprises, and fits on a smartphone's MagSafe connector.",
+      "url": "https://www.zdnet.com/article/ooklas-new-wi-fi-diagnostic-tool-aims-to-solve-the-blame-game-once-and-for-all/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/ad29abe118f1edf13b54d4564a1b7a1ae6961146/2025/11/10/3f7d89c8-32d4-4181-9e75-cc2190e52146/untitled-design-26.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-10T11:00:00Z",
+      "content": "Ookla/ZDNET\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Connectivity intelligence brand Ookla just announced the Speedtest Pulse, a diagnostic troubleshooti… [+4106 chars]"
     },
     {
       "source": {
@@ -1255,19 +1268,6 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
-      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
-      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
-      "publishedAt": "2025-11-08T14:00:01Z",
-      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
       "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
       "description": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job market.",
       "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
@@ -1281,25 +1281,25 @@
         "name": "CNBC"
       },
       "author": null,
+      "title": "‘Uncertainty is fundamental reality,’ says Deepak Chopra: Here's how to cope if you're feeling afraid or anxious",
+      "description": "Uncertainty can be an opportunity, says wellness guru and writer Deepak Chopra.",
+      "url": "https://www.cnbc.com/2025/11/08/deepak-chopra-how-to-navigate-fear-in-a-time-of-uncertainty.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222686-1762463655632-gettyimages-2218276565-sas_1674_grftovdg.jpeg?v=1762463870&w=1920&h=1080",
+      "publishedAt": "2025-11-08T14:00:01Z",
+      "content": "For millions of Americans, it is an uncertain time.\r\nAmazon, General Motors and Paramount have all been making layoffs, and U.S.-based employers announced 153,074 job cuts in October altogether, acco… [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
       "title": "Underwater cables are a vital piece of the AI buildout and internet — investment is booming",
       "description": "Over 95% of international data and voice traffic travels through subsea telecom cables. Tech giants Meta, Google, Amazon and Microsoft are investing for AI.",
       "url": "https://www.cnbc.com/2025/11/08/big-tech-ai-underwater-cables.html",
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221842-1762362592580-251028-cg-32-subsea-cables-gfx1_0-00-07-08.png?v=1762451999&w=1920&h=1080",
       "publishedAt": "2025-11-08T13:00:01Z",
       "content": "Over 95% of international data and voice call traffic travels through nearly a million miles of underwater communication cables.\r\nThese cables carry government communications, financial transactions,… [+8894 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Zak Killian",
-      "title": "SanDisk reportedly jacks up flash prices by 50% as memory makers cash in on AI-fueled demand",
-      "description": "This move underscores a rapidly tightening memory market, affecting both flash and DRAM.",
-      "url": "https://www.tomshardware.com/pc-components/storage/sandisk-reportedly-jacks-up-flash-prices-by-50-percent-as-memory-makers-cash-in-on-ai-fueled-demand",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bWjuN8pbASUx5Uu67tn4g4-1920-80.jpg",
-      "publishedAt": "2025-11-08T13:00:00Z",
-      "content": "SanDisk has reportedly raised its NAND flash contract prices by a staggering 50% for November, according to DigiTimes Asia. This move underscores a rapidly tightening memory market, driven by both un… [+3130 chars]"
     }
   ]
 }
