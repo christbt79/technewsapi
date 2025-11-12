@@ -1,6 +1,84 @@
 {
-  "fetchedAt": "2025-11-12T13:47:14.035Z",
+  "fetchedAt": "2025-11-12T14:10:33.345Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "US taxpayers being kept in the dark over datacenter subsidies",
+      "description": "Disclosure? We've heard of it\nThe US datacenter industry is reaping huge benefits from state-level subsidies, but transparency around these incentives is limited and states that do calculate their returns find they are losing money on the deals.…",
+      "url": "https://www.theregister.com/2025/11/11/us_taxpayers_dc_subsidies/",
+      "urlToImage": "https://regmedia.co.uk/2022/02/10/shutterstock_money.jpg",
+      "publishedAt": "2025-11-11T14:05:30Z",
+      "content": "The US datacenter industry is reaping huge benefits from state-level subsidies, but transparency around these incentives is limited and states that do calculate their returns find they are losing mon… [+3954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Founder who’s invested in over 100 companies: This is the difference between long-term success and failure—‘It’s a little bit counterintuitive’",
+      "description": "Companies that maintain a startup's agility years down the road are the most likely to be successful for decades, says author and investor Eric Becker.",
+      "url": "https://www.cnbc.com/2025/11/11/founder-this-is-the-difference-between-long-term-success-and-failure.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223070-1762530925073-Eric-Becker_Headshot.jpg?v=1762531002&w=1920&h=1080",
+      "publishedAt": "2025-11-11T14:05:01Z",
+      "content": "For founders hoping to build a business that will last for decades, the key to unlocking lasting success is to never stop thinking like a startup, according to investor and author Eric Becker.\r\n\"It's… [+4235 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "A former physician has launched Robyn, an empathetic AI companion | TechCrunch",
+      "description": "Robyn wants to position it self as an empathetic chatbot and not as a companion or a therapy app",
+      "url": "https://techcrunch.com/2025/11/11/a-former-physician-has-launched-robyn-an-empathetic-ai-companion/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Jenny-feat.jpg?resize=1200,675",
+      "publishedAt": "2025-11-11T14:01:59Z",
+      "content": "Jenny Shao was a practicing physician and was in residency at Harvard. During the pandemic, Shao saw that people in isolation had a neurological impact, and they needed support. This drove her to lea… [+4519 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "publishedAt": "2025-11-11T14:00:01Z",
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "publishedAt": "2025-11-11T14:00:01Z",
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jim Rapoza",
+      "title": "'Business sprawl' is killing your sales team - here's how to fix it",
+      "description": "The traditional sales playbook is failing because of fragmented tools and information systems. Here's how sales teams can get back on the same page.",
+      "url": "https://www.zdnet.com/article/business-sprawl-is-killing-your-sales-team-heres-how-to-fix-it/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/e79c78ec1955e2c6bb4c61bef80bcb0f7a2920ed/2025/11/11/c9847b04-eff8-486c-a282-98fe9a4aee20/gettyimages-1282554690.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-11T13:51:00Z",
+      "content": "akinbostanci/E+/Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nBusiness leaders are discovering that the traditional playbook for sales productivity is failing, and businesses n… [+4146 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1222,84 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/aprbjrn6caSawAxkiyCkpJ-1199-80.jpg",
       "publishedAt": "2025-11-09T15:10:34Z",
       "content": "It's difficult to imagine how games would look today without the quiet yet transformative change that Microsoft brought about in the year 2000. Twenty-five years ago, to this day, the company introdu… [+4037 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Job interviewers are overlooking their best candidates—unless they do these 2 things, says Wharton psychologist Adam Grant",
-      "description": "Wharton psychologist Adam Grant says traditional job interview methods may make you overlook a diamond in the rough. He offers this alternate approach instead.",
-      "url": "https://www.cnbc.com/2025/11/09/adam-grant-do-these-2-things-in-a-job-interview-to-find-the-best-talent.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107331734-1699559053920-gettyimages-1409734996-img_4525_ad82728c-37bb-4e96-89c8-998b5a555515.jpeg?v=1762453353&w=1920&h=1080",
-      "publishedAt": "2025-11-09T15:00:02Z",
-      "content": "Traditional job interview methods that have a candidate tell, rather than show, their strengths may be responsible for employers \"missing diamonds in the rough,\" says Adam Grant. Instead, he says, in… [+3976 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "This neuroscientist-approved habit tracks my progress—and boosts my happiness",
-      "description": "For the past three years, I've written letters to myself and scheduled them to send to me a year later. Here's why the practice can benefit your mental health.",
-      "url": "https://www.cnbc.com/2025/11/09/this-neuroscientist-approved-habit-boosts-my-happiness.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222495-1762449130830-gettyimages-1471925663-jsmf02716.jpeg?v=1762449223&w=1920&h=1080",
-      "publishedAt": "2025-11-09T15:00:02Z",
-      "content": "Each year, I sit down to type a heartfelt email and schedule it to send exactly a year later to an unlikely recipient: me. It's a practice I've done since 2022.\r\nWhen I receive a letter from my past … [+4535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Stop asking 'How was school today?' To raise successful, mentally strong kids, ask these 7 questions instead",
-      "description": "This question \"usually leads to a one-word answer,\" says Amy Morin, author of \"13 Things Mentally Strong Parents Don't Do.\" Here's what to ask instead.",
-      "url": "https://www.cnbc.com/2025/11/09/stop-asking-how-was-school-today-to-raise-successful-kids-ask-these-questions-instead.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222410-1762443789460-GettyImages-1352579841.jpg?v=1762443860&w=1920&h=1080",
-      "publishedAt": "2025-11-09T14:30:01Z",
-      "content": "\"My child won't tell me anything about their day!\" It's a common concern I hear from parents in my psychotherapy office. They're hoping to gain a glimpse into their child's world. But asking \"How was… [+4595 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "How 24-year-old 'Moana' star Auli'i Cravalho deals with career setbacks: 'When there's a drought, pivot'",
-      "description": "Auli'i Cravalho is just 24, but she's already a decade into her career, and she's shifted in her profession many times over.",
-      "url": "https://www.cnbc.com/2025/11/09/moana-star-aulii-cravalho-career-advice-when-theres-a-drought-pivot.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222161-1762402576829-gettyimages-2220873098-MPTFs_NextGen_Annual_Summer_Party.jpeg?v=1762402615&w=1920&h=1080",
-      "publishedAt": "2025-11-09T14:20:01Z",
-      "content": "Auli'i Cravalho is just 24, but she's already a decade into her career, and she's shifted in her profession many times over.\r\nCravalho made her Hollywood debut voicing the titular \"Moana,\" released i… [+2354 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "New U.S. nuclear power boom begins with old, still-unsolved problem: What to do with radioactive waste",
-      "description": "As government and industry, from tech giants to utilities, commit to big nuclear power plants, there is still no clear solution for radioactive waste storage.",
-      "url": "https://www.cnbc.com/2025/11/09/nuclear-power-energy-radioactive-waste-storage-disposal.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108221991-1762373977671-gettyimages-2235534882-AFP_74YQ8ZR.jpeg?v=1762374032&w=1920&h=1080",
-      "publishedAt": "2025-11-09T14:00:01Z",
-      "content": "Castor containers for high-level radioactive waste.\r\nNuclear power is back, largely due to the skyrocketing demand for electricity, including big tech's hundreds of artificial intelligence data cente… [+12853 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacob Roach",
-      "title": "What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool",
-      "description": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here’s how to make the most of it.",
-      "url": "https://www.wired.com/story/what-is-adobe-firefly/",
-      "urlToImage": "https://media.wired.com/photos/690eb355b8a8d7f1f81e6d11/191:100/w_1280,c_limit/Adobe%20Firefly-%20What%20It%20Is%20and%20How%20to%20Use%20It.png",
-      "publishedAt": "2025-11-09T14:00:00Z",
-      "content": "Firefly is powerful, and I wont be able to cover everything you can do with it. Instead, Ill walk you through a simple workflow of generating an image using an AI model, and then using that image as … [+1608 chars]"
     }
   ]
 }
