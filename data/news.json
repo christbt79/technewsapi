@@ -1,6 +1,97 @@
 {
-  "fetchedAt": "2025-11-13T11:33:33.249Z",
+  "fetchedAt": "2025-11-13T12:19:03.921Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI stock boom leaves many behind, economist says: 'It really widens the wealth and income gap'",
+      "description": "Not everyone has participated equally in the stock boom fueled by artificial-intelligence euphoria.",
+      "url": "https://www.cnbc.com/2025/11/12/ai-stock-boom-wealth-gap.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108210212-1760036611052-gettyimages-1554414506-dsc07735.jpeg?v=1760036631&w=1920&h=1080",
+      "publishedAt": "2025-11-12T12:15:01Z",
+      "content": "U.S. stocks have been on a tear in recent years, largely on the back of euphoria around artificial intelligence. But not everyone has participated in the runup: Stock wealth has largely accrued to th… [+6921 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Sean O'kane",
+      "title": "Teradar raises $150M for a sensor it says beats lidar and radar | TechCrunch",
+      "description": "Teradar's sensor uses the terahertz part of the electromagnetic spectrum, and combines the best traits of radar and lidar sensors without some of the drawbacks.",
+      "url": "https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Teradar-Sensor.png?resize=1200,1200",
+      "publishedAt": "2025-11-12T12:01:12Z",
+      "content": "Matt Carey, the co-founder and CEO of Boston-based startup Teradar loves when people tell him: “I don’t believe you.”\r\nThat’s “right where we want folks,” he recently told TechCrunch. \r\nCarey has spe… [+4327 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Dan Robinson",
+      "title": "Broadcom creates a new Seal Of Approval for servers that run AI under VMware",
+      "description": "This apparently makes VCF more extensible and open to partners Broadcom will let its hardware allies self-certify their boxes as compliant with a new spec it developed that describes rigs ready to run AI workloads under its VMware Cloud Foundation (VCF) priva…",
+      "url": "https://www.theregister.com/2025/11/12/vmware_cloud_foundation_ai_readynodes/",
+      "urlToImage": "https://regmedia.co.uk/2023/11/21/shutterstock_broadcom.jpg",
+      "publishedAt": "2025-11-12T12:00:25Z",
+      "content": "Broadcom will let its hardware allies self-certify their boxes as compliant with a new spec it developed that describes rigs ready to run AI workloads under its VMware Cloud Foundation (VCF) private … [+2285 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "David Nield",
+      "title": "How to Talk to ChatGPT for Free Inside WhatsApp (While You Still Can)",
+      "description": "Meta’s messaging app offers free access to the AI chatbot, but only until January 2026.",
+      "url": "https://www.wired.com/story/talk-to-chatgpt-for-free-inside-whatsapp/",
+      "urlToImage": "https://media.wired.com/photos/69135a99b2a49dd7cbf5671f/191:100/w_1280,c_limit/gear-whatsapp-chatgpt-2237775692.jpg",
+      "publishedAt": "2025-11-12T12:00:00Z",
+      "content": "Be sure to include the US country code at the start of the number to ensure it's added correctly. You'll also be prompted to give the new contact a name: ChatGPT is the obvious choice here, but you c… [+1716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Liam Proven",
+      "title": "Mozilla's Firefox 145 is heeeeeere: Buffs up privacy, bloats AI",
+      "description": "Improves tracking prevention, profile management, PDF editing, and Perplexity creeps into your address bar Firefox 145 is out, with more privacy, better profile handling, better image search for Google users… and, almost inevitably, more LLM bot integration.…",
+      "url": "https://www.theregister.com/2025/11/12/firefox_145_arrives/",
+      "urlToImage": "https://regmedia.co.uk/2022/09/23/shutterstock_firefoxlogo.jpg",
+      "publishedAt": "2025-11-12T11:55:09Z",
+      "content": "Firefox 145 is out, with more privacy, better profile handling, better image search for Google users and, almost inevitably, more LLM bot integration.\r\nMozilla has released Firefox 145. The release n… [+3058 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Autonomous EV trucking company Einride going public in SPAC deal valuing it at $1.8 billion",
+      "description": "Swedish autonomous EV trucking company Einride is planning to go public on the NYSE through a SPAC deal with Legato Merger Corp. III valuing it at $1.8 billion.",
+      "url": "https://www.cnbc.com/2025/11/12/autonomous-ev-trucker-einride-to-go-public-in-spac-at-1point8-billion-value.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107390778-1711028448124-Einride_Lynwood_Smartcharger_8.png?v=1711028564&w=1920&h=1080",
+      "publishedAt": "2025-11-12T11:42:09Z",
+      "content": "Autonomous EV freight trucking company Einride is planning to go public on the New York Stock Exchange through a SPAC deal with Legato Merger Corp. III, a blank check company, valuing it at $1.8 bill… [+5233 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Meta's 'godfather of AI' departs the company to form his own startup — Turing award winner Yann LeCun advocates for the development of World Models over LLMs",
+      "description": "The 12-year Meta veteran and chief AI scientist, Yann LeCunn, may be leaving Meta in the near future to set up his own AI venture, according to associates. He's reportedly keen to develop his \"world model,\" AI concept that learns from video and spatial data r…",
+      "url": "https://www.tomshardware.com/tech-industry/metas-godfather-of-ai-departs-the-company-to-form-his-own-startup-turing-award-winner-yann-lecun-advocates-for-the-development-of-world-models-over-llms",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zMsmjLYikderSB9LWsbWNh-1920-80.jpg",
+      "publishedAt": "2025-11-12T11:37:50Z",
+      "content": "Meta's chief AI scientist, Yann LeCun, is leaving to found his own startup in the coming months, according to a new report. This is a huge blow for Meta, which went on an aggressive, expensive hiring… [+4920 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -774,12 +865,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -787,12 +878,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -1209,97 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2017/07/12/shutterstock_holes_in_bucket.jpg",
       "publishedAt": "2025-11-10T21:44:16Z",
       "content": "Leading AI companies turn out to be no better at keeping secrets than anyone else writing code.\r\nCloud security firm Wiz has found that 65 percent of the Forbes AI 50 \"had leaked verified secrets on … [+3661 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "CoreWeave's revenue more than doubles as AI buildout expansion accelerates",
-      "description": "On top of deals with Meta and OpenAI, CoreWeave pointed to expansions from a large unnamed customer in the third quarter.",
-      "url": "https://www.cnbc.com/2025/11/10/coreweave-crwv-q3-earnings-report-2025.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223839-1762804083127-gettyimages-2206665095-COREWEAVE_IPO.jpeg?v=1762804144&w=1920&h=1080",
-      "publishedAt": "2025-11-10T21:32:52Z",
-      "content": "CoreWeave, a provider of infrastructure for artificial intelligence companies, reported better-than-expected third-quarter revenue on Monday. \r\nHere's how the company did in comparison with LSEG cons… [+1580 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "AI slop hits new high as fake country artist hits #1 on Billboard digital songs chart",
-      "description": "It sounds a lot like everything else\nAI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard's Country Digital Song Sales chart.…",
-      "url": "https://www.theregister.com/2025/11/10/ai_country_artist_hits_number_one/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/10/ai-cowboy.jpg",
-      "publishedAt": "2025-11-10T21:21:32Z",
-      "content": "AI slop has reached a new level of ascendancy, as a country song by an AI artist has hit number one on Billboard's Country Digital Song Sales chart.\r\nBreaking Rust, an AI \"band\" that appeared on the … [+4515 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Russell Brandom",
-      "title": "A better way of thinking about the AI bubble  | TechCrunch",
-      "description": "AI isn't all or nothing, and even good bets can turn sour if you aren't careful about how you make them.",
-      "url": "https://techcrunch.com/2025/11/10/a-better-way-of-thinking-about-the-ai-bubble/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/05/bubbles.jpg?resize=1200,800",
-      "publishedAt": "2025-11-10T21:18:18Z",
-      "content": "People often think about tech bubbles in apocalyptic terms, but it doesnt have to be as serious as all that. In economic terms, a bubble is a bet that turned out to be too big, leaving you with more … [+2928 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Kate Park",
-      "title": "Kaltura acquires eSelf, founded by creator of Snap’s AI, in $27M deal | TechCrunch",
-      "description": "Kaltura acquires AI avatar startup eSelf to integrate generative AI into enterprise video and learning tools.",
-      "url": "https://techcrunch.com/2025/11/10/kaltura-acquires-eself-founded-by-creator-of-snaps-ai-in-27m-deal/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Kaltura-EX-Avatar-Town-Hall-Assistant.png?resize=1200,750",
-      "publishedAt": "2025-11-10T21:05:59Z",
-      "content": "Kaltura, a New York-headquartered AI video platform company, is acquiring eSelf.ai, an Israel-based startup behind conversational avatars — AI-generated digital humans that can talk with users — for … [+4836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Sarah Jacobsson Purewal",
-      "title": "Elgato Facecam Neo Review: Versatile and cheap",
-      "description": "Elgato's Facecam Neo is a budget-friendly plug-and-play webcam that performs well in low-light scenarios and works on just about any device with a USB-C port (including non-traditional devices, such as iPads). It cost $99.99 when it first launched, but the pr…",
-      "url": "https://www.tomshardware.com/peripherals/webcams/elgato-facecam-neo-review",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RSk3hgfb5KntELKyDfqLEo-1281-80.jpg",
-      "publishedAt": "2025-11-10T21:04:41Z",
-      "content": "Why you can trust Tom's Hardware\r\nOur expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.It might seem like a… [+10455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "Altman sticks a different hand out, wants tax credits instead of gov loans",
-      "description": "We can't let supply chain shortages burst the bubble boy's balloon\nFree money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn't want government-backed loans to fuel his AI ambitions, but he's more than okay with the idea of Uncle Sa…",
-      "url": "https://www.theregister.com/2025/11/10/altman_ai_tax_credit/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/22/shutterstock_sam_altman.jpg",
-      "publishedAt": "2025-11-10T20:37:58Z",
-      "content": "Free money is always better than a loan! OpenAI CEO Sam Altman recently said he doesn't want government-backed loans to fuel his AI ambitions, but he's more than okay with the idea of Uncle Sam handi… [+3484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Warren Buffett 'feels better about the second half' of his life than the first—his best advice for living well",
-      "description": "The Berkshire Hathaway chairman will continue to share his trademark wit and wisdom with shareholders via annual Thanksgiving letters.",
-      "url": "https://www.cnbc.com/2025/11/10/warren-buffett-top-advice-for-successful-life.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108057829-1730822920647-GettyImages-1140938011.jpg?v=1746736531&w=1920&h=1080",
-      "publishedAt": "2025-11-10T20:22:09Z",
-      "content": "Warren Buffett will no longer write the letters that accompany his firm, Berkshire Hathaway's annual reports, nor will he field questions at the company's annual shareholder meeting, he wrote in a le… [+2594 chars]"
     }
   ]
 }
