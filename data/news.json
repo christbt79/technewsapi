@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-13T12:19:03.921Z",
+  "fetchedAt": "2025-11-13T13:05:57.780Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AI trade stalls, 'ghost job' listings, Trump floats tariff rebate checks and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2025/11/12/5-things-to-know-before-the-stock-market-opens.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222325-1762436340924-gettyimages-2215390071-vcg111567793339.jpeg?v=1762903879&w=1920&h=1080",
+      "publishedAt": "2025-11-12T13:05:49Z",
+      "content": "Mike Intrator, Chief Executive Officer and founder of CoreWeave, poses for a photo during the company's Initial Public Offering(IPO) at the Nasdaq headquarters on March 28, 2025 in New York City.\r\nTh… [+3991 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Tim De Chant",
+      "title": "Microsoft-backed VEIR is bringing superconductors to data centers",
+      "description": "The Massachusetts-based startup is taking tech developed for long distance transmissions lines to solve an emerging problem for data center designers.",
+      "url": "https://techcrunch.com/2025/11/12/microsoft-backed-veir-targets-data-centers-for-its-megawatt-class-superconductors/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1195233690.jpg?resize=1200,775",
+      "publishedAt": "2025-11-12T13:02:01Z",
+      "content": "Power demands of data centers have grown from tens to 200 kilowatts in just a few years, a pace that has data center developers scrambling to design future facilities that can handle the load. \r\nIn t… [+2921 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Zack Whittaker",
+      "title": "Australian spy chief warns Chinese hackers are 'probing' critical networks for espionage and sabotage | TechCrunch",
+      "description": "Australia's intelligence chief warned that Chinese hackers are trying to break into its networks, sometimes successfully, to \"pre-position\" for sabotage ahead of an anticipated invasion of Taiwan.",
+      "url": "https://techcrunch.com/2025/11/12/australian-spy-chief-warns-chinese-hackers-are-probing-critical-networks-for-espionage-and-sabotage/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/12/australia-2023-main3.jpg?resize=1200,675",
+      "publishedAt": "2025-11-12T12:48:04Z",
+      "content": "Australia’s intelligence head Mike Burgess has warned that China-backed hackers are “probing” the country’s critical infrastructure, and in some cases have gained access. \r\nBurgess, who heads the cou… [+2039 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Bruno Ferreira",
+      "title": "Tiny386 emulator turns tiny microcontroller into a full i386 PC — tiny virtual machine can boot Windows 95 and Linux on ESP32-S3 chip",
+      "description": "Tiny386 emulator turns an ESP32-S3 microcontroller into a full i386 PC",
+      "url": "https://www.tomshardware.com/video-games/retro-gaming/tiny386-emulator-turns-an-esp-s3-microcontroller-into-a-full-i386-pc-tiny-virtual-machine-can-boot-windows-95-and-linux",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DKjsQmSkkUixyBZ7VSFLqh-2048-80.png",
+      "publishedAt": "2025-11-12T12:30:00Z",
+      "content": "Whenever someone has a software hobby project, more often than not, one of their endeavors will be to get Doom running on some odd piece of software, like an ESA satellite. As a welcome change, progr… [+2298 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
       "publishedAt": "2025-11-10T23:33:19Z",
       "content": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion… [+539 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Dominic-madori Davis",
-      "title": "VC Jennifer Neundorfer explains how founders can stand out in a crowded AI market | TechCrunch",
-      "description": "January Ventures co-founder Jennifer Neundorfer discussed this AI-driven funding market on the Equity podcast during TechCrunch Disrupt.",
-      "url": "https://techcrunch.com/2025/11/10/vc-jennifer-neundorfer-explains-how-founders-can-stand-out-in-a-crowded-ai-market/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/54886289739_6fa8cfb36d_o.jpg?resize=1200,800",
-      "publishedAt": "2025-11-10T23:31:50Z",
-      "content": "January Ventures co-founder Jennifer Neundorfer stopped by the Equity podcast during TechCrunch Disrupt to chat about fundraising in this very AI-driven market.  \r\nFounders and investors alike are ob… [+3021 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Jim Cramer unpacks Monday's market action: 'It's back to business as usual'",
-      "description": "CNBC's Jim Cramer told investors why he thinks stocks rallied on Monday.",
-      "url": "https://www.cnbc.com/2025/11/10/jim-cramer-monday-market-action-its-back-to-business-as-usual.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107090862-1658245457554-NUP_198367_01079_copy.jpg?v=1692298238&w=1920&h=1080",
-      "publishedAt": "2025-11-10T23:09:37Z",
-      "content": "CNBC's Jim Cramer analyzed Monday's session, saying stocks especially tech names managed to rebound from last week as Wall Street sees an end to the government shutdown.\r\n\"With the government potenti… [+1833 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Paramount Plus is getting a price hike in early 2026",
-      "description": "Paramount Plus is going up in price again. As part of its earnings report released on Monday, Paramount announced that it will “implement price increases in the US” in the first quarter of 2026 — without saying how much it will soon cost. Paramount says the p…",
-      "url": "https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23954784/acastro_STK126_paramountPlus_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2025-11-10T22:09:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nParamount is also retiring free trials.\r\nParamount is also retiring free trials.\r\nby\r\nEmma RothClose\r\nEmma Roth\r\nPosts from this author will be added to your dai… [+2872 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "AI companies keep publishing private API keys to GitHub",
-      "description": "Security biz Wiz says 65% of top AI businesses leak keys and tokens\nLeading AI companies turn out to be no better at keeping secrets than anyone else writing code.…",
-      "url": "https://www.theregister.com/2025/11/10/ai_companies_private_api_keys_github/",
-      "urlToImage": "https://regmedia.co.uk/2017/07/12/shutterstock_holes_in_bucket.jpg",
-      "publishedAt": "2025-11-10T21:44:16Z",
-      "content": "Leading AI companies turn out to be no better at keeping secrets than anyone else writing code.\r\nCloud security firm Wiz has found that 65 percent of the Forbes AI 50 \"had leaked verified secrets on … [+3661 chars]"
     }
   ]
 }
