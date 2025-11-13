@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-13T09:11:16.050Z",
+  "fetchedAt": "2025-11-13T09:39:37.032Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Lindsay Clark",
+      "title": "Retail giant Kingfisher rejects SAP ERP upgrade plan",
+      "description": "'Don't just give me a price list or licensing module that spikes cost by 20x, show me the value,' says CTO SAP insists customers wanting \"innovation\" such as AI must upgrade to its latest platform for ERP, using prescribed cloud migration plans. Kingfisher - …",
+      "url": "https://www.theregister.com/2025/11/12/retail_giant_kingfisher_says_no/",
+      "urlToImage": "https://regmedia.co.uk/2021/02/16/refuse.jpg",
+      "publishedAt": "2025-11-12T09:30:14Z",
+      "content": "SAP insists customers wanting \"innovation\" such as AI must upgrade to its latest platform for ERP, using prescribed cloud migration plans. Kingfisher - which operates 2,000 European retail stores inc… [+3915 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Bloomberg",
+      "title": "Google faces lawsuit for allegedly using Gemini AI to snoop on users",
+      "description": "The lawsuit claims the tech giant enabled Gemini across Gmail, Chat, and Meet, enabling it to collect private data, without users’ knowledge or consent",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-12/google-accused-in-suit-of-using-gemini-ai-tool-to-snoop-on-users",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/4mcuuk/article70270522.ece/alternates/LANDSCAPE_1200/2025-10-30T142357Z_961897154_RC2MKHASH6HL_RTRMADP_3_GOOGLE-RELIANCE-INDS.JPG",
+      "publishedAt": "2025-11-12T09:27:56Z",
+      "content": "Google was accused in a lawsuit of using its Gemini AI assistant to unlawfully track the private communications of users of its Gmail, instant messaging and videoconference programs.\r\nIn the past, us… [+1303 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -644,12 +670,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -657,12 +683,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/nfmAUPB8V2YHWL8HBG5nMc-2560-80.webp",
       "publishedAt": "2025-11-10T18:57:15Z",
       "content": "China-based Mini PC manufacturer Minisforum has just globally launched the MS-R1, the company's first foray into the ARM market, with a compact yet powerful device. Building on the interest in Nvidia… [+4178 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Wikipedia urges AI companies to use its paid API, and stop scraping | TechCrunch",
-      "description": "Wikipedia, the online nonprofit encyclopedia, is urging AI companies to stop scraping its pages and to use its paid API instead.",
-      "url": "https://techcrunch.com/2025/11/10/wikipedia-urges-ai-companies-to-use-its-paid-api-and-stop-scraping/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1873370000.jpg?resize=1200,800",
-      "publishedAt": "2025-11-10T18:32:12Z",
-      "content": "Wikipedia on Monday laid out a simple plan to ensure its website continues to be supported in the AI era, despite its declining traffic. \r\nIn a blog post, the Wikimedia Foundation, the organization t… [+1811 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Lindsay Clark",
-      "title": "How to bluff your way to AI credibility with the right buzzwords",
-      "description": "As Gartner offers another serving of word salad, it’s time to know your skillatrophy from your pipeline choke\nA Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that wo…",
-      "url": "https://www.theregister.com/2025/11/10/ai_credibility_buzzwords/",
-      "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_1856055466.jpg",
-      "publishedAt": "2025-11-10T17:42:51Z",
-      "content": "A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm clai… [+3802 chars]"
     }
   ]
 }
