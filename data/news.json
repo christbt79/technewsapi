@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-12T23:35:16.784Z",
+  "fetchedAt": "2025-11-13T00:45:09.957Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Asia-Pacific markets set to rise after mixed trading on Wall Street on hopes of U.S. government shutdown ending; AI trade pullback",
+      "description": "Asia-Pacific markets was set to climb Wednesday, after Wall Street traded mixed on hopes of the U.S. government shutdown ending and a pullback in AI stocks.",
+      "url": "https://www.cnbc.com/2025/11/12/asia-pacific-markets-nifty-50-nikkei-225-kospi.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108206822-1759376123798-gettyimages-976177846-zb5423_241410_0009.jpeg?v=1759376155&w=1920&h=1080",
+      "publishedAt": "2025-11-11T23:49:01Z",
+      "content": "Asia-Pacific markets were set to climb Wednesday, after Wall Street traded mixed on hopes that the record-setting U.S. government shutdown could be nearing an end and AI trade stumbling.\r\nJapan's ben… [+1331 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222003-1762374830913-carly_valancy.jpg?v=1762374919&w=1920&h=1080",
       "publishedAt": "2025-11-10T14:05:02Z",
       "content": "Reaching out to strangers is a daunting prospect for many, but Carly Valancy has a \"really special love\" for networking, she says.\r\nValancy, 30, has had a wide-ranging career so far: she's worked in … [+5118 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Hardware hacker installs Minecraft server on a cheap smart lightbulb — single 192 MHz RISC-V core with 276KB of RAM, enough to run tiny 90K byte world",
-      "description": "A hardware hacker has installed a Minecraft server on a cheap smart lightbulb.",
-      "url": "https://www.tomshardware.com/maker-stem/microcontrollers/hardware-hacker-installs-minecraft-server-on-a-cheap-smart-lightbulb-single-192-mhz-risc-v-core-with-276kb-of-ram-enough-to-run-tiny-90k-byte-world",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WMxgTMNadCkrYrMv92hdt8-1920-80.jpg",
-      "publishedAt": "2025-11-10T14:02:09Z",
-      "content": "A hardware hacker has installed a Minecraft server on a cheap smart lightbulb. Vimpo shows how this feat was completed and demonstrates the server working in a brief video, embedded below. Key to thi… [+2746 chars]"
     }
   ]
 }
