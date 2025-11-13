@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-13T13:05:57.780Z",
+  "fetchedAt": "2025-11-13T13:47:50.202Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Tim Anderson",
+      "title": "Microsoft ships .NET 10 LTS and Visual Studio 2026, Copilot everywhere",
+      "description": "Faster and easier to use but adopting the dev stack not without risks\nMicrosoft has released C# 14 and .NET 10, a long-term support version, along with a bunch of related products including Visual Studio 2026 and Aspire 13. Copilot Free is included but devs w…",
+      "url": "https://www.theregister.com/2025/11/12/net_10_c_14_visual/",
+      "urlToImage": "https://regmedia.co.uk/2025/09/10/vs2026fluent.jpg",
+      "publishedAt": "2025-11-12T13:39:11Z",
+      "content": "Microsoft has released C# 14 and .NET 10, a long-term support version, along with a bunch of related products including Visual Studio 2026 and Aspire 13. Copilot Free is included but devs will soon h… [+4443 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "Jon Martindale",
+      "title": "Google strikes massive deal to buy 1.5 terawatt hours of Ohio solar capacity — 15-year deal will see most of 50 megawatt solar farm's capacity diverted to data centers",
+      "description": "Google is buying 1.5 terawatt hours of solar capacity from French oil and gas supergiant TotalEnergies. The order could saturate the 50MW solar facility in Ohio that has yet to come online, meaning its entire capacity could be absorbed by Google data centers …",
+      "url": "https://www.tomshardware.com/tech-industry/google-strikes-massive-deal-to-buy-1-5-terawatt-hours-of-ohio-solar-capacity-15-year-deal-will-see-most-of-50-megawatt-solar-farms-capacity-diverted-to-data-centers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/YbMgNgQG3n62AKFabLt6Ba-1920-80.jpg",
+      "publishedAt": "2025-11-12T13:38:29Z",
+      "content": "Google has signed a deal with French oil and gas giant TotalEnergies to purchase 1.5 Terawatt hours of electricity from the as-yet-unfinished Montpelier solar farm over the next 15 years, the company… [+3065 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223979-1762817121661-gettyimages-1250359232-img_3510.jpeg?v=1762817131&w=1920&h=1080",
       "publishedAt": "2025-11-10T23:37:38Z",
       "content": "Asia-Pacific markets were set to open mixed Tuesday, after Wall Street gained on a revived AI trade and hopes that the U.S. government shutdown would end soon.\r\nOn Monday stateside, Nvidia stocks jum… [+927 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Democratic senators blame White House, AI data centers for rising electricity prices",
-      "description": "Retail electricity prices in the U.S. increased about 6% on average through August 2025 compared with the same period in 2024, according to government data.",
-      "url": "https://www.cnbc.com/2025/11/10/democratic-senators-blame-white-house-ai-data-centers-for-rising-electricity-prices.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223939-1762812728666-gettyimages-2238189324-ah804143.jpeg?v=1762812770&w=1920&h=1080",
-      "publishedAt": "2025-11-10T23:36:00Z",
-      "content": "Democratic senators on Monday blamed the White House push to fast track artificial intelligence data centers and its attacks on renewable energy for rising electricity prices in certain parts of the … [+2205 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Theresa Loconsolo",
-      "title": "The circular money problem at the heart of AI's biggest deals | TechCrunch",
-      "description": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion deal. But SoftBank’s role as a major investor in OpenAI is …",
-      "url": "https://techcrunch.com/video/the-circular-money-problem-at-the-heart-of-ais-biggest-deals/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197181602.jpg?w=1024",
-      "publishedAt": "2025-11-10T23:33:19Z",
-      "content": "SoftBank and OpenAI announced a new 50-50 joint venture this week to sell enterprise AI tools in Japan under the brand “Crystal Intelligence.” On paper, it’s a straightforward international expansion… [+539 chars]"
     }
   ]
 }
