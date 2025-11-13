@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-13T14:09:51.438Z",
+  "fetchedAt": "2025-11-13T14:37:58.206Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "AMD's Lisa Su dismisses AI spending fears as stock rallies on growth projections: 'It's the right gamble'",
+      "description": "Many of AMD's hyperscaler customers have beefed up spending as AI reaches an \"inflection point\" and companies can see the return on that spending, Su added.",
+      "url": "https://www.cnbc.com/2025/11/12/amd-lisa-su-ai-spending-stock.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108184164-1754920653866-gettyimages-2185244256-INDIA_LISA_SU.jpeg?v=1762958205&w=1920&h=1080",
+      "publishedAt": "2025-11-12T14:24:36Z",
+      "content": "Advanced Micro Devices' CEO Lisa Su shut down concerns over Big Tech's elevated spending during an interview with CNBC's \"Squawk Box\" on Wednesday and said investing in more computing will accelerate… [+815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Hardware UK"
+      },
+      "author": "editors@tomshardware.com (Jowi Morales) , Jowi Morales",
+      "title": "Google sues Chinese hacker group it says stole $1 billion from a million victims in 121 countries — 'Lighthouse' platform offers phishing services to crooks for a monthly fee",
+      "description": "The Lighthouse Enterprise is a group of Chinese hackers that offers a complete service to scammers, from phishing websites all the way to sending millions of spam messages.",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/google-sues-chinese-hacker-group-it-says-stole-usd1-billion-from-a-million-victims-in-121-countries-lighthouse-platform-offers-phishing-services-to-crooks-for-a-monthly-fee",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/X4o4dThTaRYHpV5siG3qJ6-1920-80.jpg",
+      "publishedAt": "2025-11-12T14:15:35Z",
+      "content": "Google recently filed a lawsuit against Lighthouse, a phishing services platform operating inside China that sells its services to criminal rings running online scams. The group, known as Lighthouse … [+2750 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "UN climate talks are getting weird",
+      "description": "One of the most consequential rounds of global climate negotiations has kicked off in Belém, Brazil. Leaders from nearly every country in the world - but notably, not the US - are gathering to try to ramp up action on climate change during a time of tremendou…",
+      "url": "https://www.theverge.com/report/818223/un-climate-united-nations-climate-change-conference-cop30-ai-trade-energy-costs-are-getting-weird",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/gettyimages-2244812344.jpg?quality=90&strip=all&crop=0%2C10.755007296955%2C100%2C78.48998540609&w=1200",
+      "publishedAt": "2025-11-12T14:11:17Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThis years UN climate negotiations come as fears about rising costs, trade threats, and AI throw the world out of whack. But theres still progress that can be ma… [+8626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Matthew Miller",
+      "title": "I replaced my smartwatch with this e-paper wearable, and more people should do the same",
+      "description": "Pebble is back with a $149 smartwatch featuring major upgrades - including a month-long battery life.",
+      "url": "https://www.zdnet.com/article/i-replaced-my-smartwatch-with-this-e-paper-wearable-and-more-people-should-do-the-same/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/868e85115be3c4fca8f21b764dbeaf95d6f076e4/2025/11/06/9716deff-39e6-4183-b007-39811320b184/pebble-2-duo6.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-12T14:10:00Z",
+      "content": "Follow ZDNET: Add us as a preferred source on Google.\r\nI've got a bit of a history with the Pebble brand. In 2013, I backed its first watch on Kickstarter, and then a couple of years later, I purchas… [+4301 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122989-1743183626102-gettyimages-2206681850-porzycki-nvidiaan250328_npq2M.jpeg?v=1743183829&w=1920&h=1080",
       "publishedAt": "2025-11-11T00:59:25Z",
       "content": "Investors piled back into artificial intelligence names on Monday stateside. Shares of Nvidia jumped 5.8%, Broadcom advanced 2.6% and Microsoft climbed 1.9% to end its eight-day losing streak, its lo… [+3193 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Thomas Claburn",
-      "title": "Superintelligence probably not happening, but AI will still reshape society, expert panel says",
-      "description": "Ask 339 people, get 339 answers Experts may be skeptical about corporate AI hype to varying degrees, but they share the view that machine learning models will have a significant effect on society.…",
-      "url": "https://www.theregister.com/2025/11/11/ai_experts_forecast/",
-      "urlToImage": "https://regmedia.co.uk/2024/06/12/shutterstock_boss_chosing_ai_or_human.jpg",
-      "publishedAt": "2025-11-11T00:59:13Z",
-      "content": "Experts may be skeptical about corporate AI hype to varying degrees, but they share the view that machine learning models will have a significant effect on society.\r\nThe Forecasting Research Institut… [+5493 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Jessica Lyons",
-      "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
-      "description": "Encryption protects content, not context\nMischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told The Register that models from some providers, including Anthropic, AWS, DeepSe…",
-      "url": "https://www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
-      "urlToImage": "https://regmedia.co.uk/2024/02/02/robot_shutterstock.jpg",
-      "publishedAt": "2025-11-11T00:09:48Z",
-      "content": "Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told The Register that models from some providers, including Ant… [+6165 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Connie Loizos",
-      "title": "Lovable says it's nearing 8 million users as the year-old AI coding startup eyes more corporate employees | TechCrunch",
-      "description": "The platform has attracted an eclectic user base. More than half of Fortune 500 companies are using Lovable to \"supercharge creativity,\" according to Osika, who insisted retention remains strong.",
-      "url": "https://techcrunch.com/2025/11/10/lovable-says-its-nearing-8-million-users-as-the-year-old-ai-coding-startup-eyes-more-corporate-employees/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-10-at-11.20.57-PM.png?resize=1200,654",
-      "publishedAt": "2025-11-10T23:53:55Z",
-      "content": "Lovable, the Stockholm-based AI coding platform, is closing in on 8 million users, CEO Anton Osika told this editor during a sit-down on Monday, a major jump from the 2.3 million active users number … [+5674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": null,
-      "title": "Asia-Pacific markets set to open mixed after Wall Street gains on revived AI trade",
-      "description": "Overnight, Wall Street gained on a revived AI trade and hopes that the U.S. government shutdown would end soon.",
-      "url": "https://www.cnbc.com/2025/11/11/asia-pacific-markets-tuesday-ai-trade-nikkei-225-hang-seng-index.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223979-1762817121661-gettyimages-1250359232-img_3510.jpeg?v=1762817131&w=1920&h=1080",
-      "publishedAt": "2025-11-10T23:37:38Z",
-      "content": "Asia-Pacific markets were set to open mixed Tuesday, after Wall Street gained on a revived AI trade and hopes that the U.S. government shutdown would end soon.\r\nOn Monday stateside, Nvidia stocks jum… [+927 chars]"
     }
   ]
 }
