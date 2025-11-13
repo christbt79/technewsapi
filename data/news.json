@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-13T08:45:48.810Z",
+  "fetchedAt": "2025-11-13T09:11:16.050Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC's The China Connection newsletter: Xpeng attempts a global transformation",
+      "description": "What a trip to Chinese electric car company Xpeng's new headquarters shows about how the automaker's international ambitions.",
+      "url": "https://www.cnbc.com/2025/11/12/cnbcs-the-china-connection-newsletter-xpeng-attempts-a-global-transformation.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108224046-1762844883528-xpeng2511.jpg?v=1762844997&w=1920&h=1080",
+      "publishedAt": "2025-11-12T09:02:26Z",
+      "content": "This report is from this week's CNBC's The China Connection newsletter, which brings you insights and analysis on what's driving the world's second-largest economy. You can subscribe here.\r\nThe big s… [+6826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Ariella Brown",
+      "title": "Built for what's next: Arm's advantage in the AI PC era",
+      "description": "When considering your upgrade for Windows 11, it’s time to look at Arm vs x86 - It's an upgrade to improved efficiency, performance, and battery life. Sponsored Feature  Sometimes a window closing really does mean a new door opens. Certainly that's the case f…",
+      "url": "https://www.theregister.com/2025/11/12/built_whats_next_arms/",
+      "urlToImage": "https://regmedia.co.uk/2022/03/25/shutterstock_arm.jpg",
+      "publishedAt": "2025-11-12T09:00:09Z",
+      "content": "Sponsored Feature Sometimes a window closing really does mean a new door opens. Certainly that's the case for those who have discovered Arm when forced to find an alternative to Windows 10.\r\nNearly t… [+7277 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2025/11/10/shutterstock_1856055466.jpg",
       "publishedAt": "2025-11-10T17:42:51Z",
       "content": "A Gartner survey of 700 CIOs indicates that, by the end of the decade, all business IT work will involve AI, while bots will do 25 percent of that work by themselves. Good news: The analyst firm clai… [+3802 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Molly Taft",
-      "title": "If the US Has to Build Data Centers, Here’s Where They Should Go",
-      "description": "A new analysis tries to calculate the coming environmental footprint of AI in the US and finds that the ideal sites for data centers aren’t where they’re being built.",
-      "url": "https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/",
-      "urlToImage": "https://media.wired.com/photos/690e2273e02b4cec0bdf665a/191:100/w_1280,c_limit/frame_000_delay-0.04s.jpg",
-      "publishedAt": "2025-11-10T17:40:27Z",
-      "content": "Tech companies have invested so much money in building data centers in recent months, its actively driving the US economyand the AI race is showing no signs of slowing down. Meta chief Mark Zuckerber… [+3001 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "China suspends ban on rare earth exports to the U.S., but licensing controls remain — vital semiconductor manufacturing materials get one-year reprieve",
-      "description": "China has lifted its ban on exports of gallium, germanium, and antimony to the United States, temporarily halting restrictions that had reshaped global materials markets over the past year.",
-      "url": "https://www.tomshardware.com/tech-industry/china-suspends-ban-on-rare-earth-exports-to-us-but-licensing-remains",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyvmQua5dV2BYfE2NozYgL-1920-80.jpg",
-      "publishedAt": "2025-11-10T16:20:38Z",
-      "content": "China has lifted its ban on exports of gallium, germanium, and antimony to the United States, temporarily halting restrictions that had reshaped global materials markets over the past year. The decis… [+2591 chars]"
     }
   ]
 }
