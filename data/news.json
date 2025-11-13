@@ -1,6 +1,45 @@
 {
-  "fetchedAt": "2025-11-13T09:39:37.032Z",
+  "fetchedAt": "2025-11-13T10:11:16.083Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Figma bets on India to expand beyond design | TechCrunch",
+      "description": "Figma has opened a new office in Bengaluru as part of a push to deepen its India ties and appeal to more developers.",
+      "url": "https://techcrunch.com/2025/11/12/figma-bets-on-india-to-expand-beyond-design/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1243378101-e1683120345343.jpg?resize=1200,676",
+      "publishedAt": "2025-11-12T10:01:11Z",
+      "content": "Figma is expanding its presence in India by setting up a local office and hiring Indian talent as it seeks to deepen ties with one of its largest user communities and make a broader push to better wi… [+4728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Google sues cybercriminal group behind E-ZPass, USPS text phishing scams",
+      "description": "Google filed a lawsuit against a cybercriminal group largely based in China that is behind a massive text message phishing operation, or \"smishing.\"",
+      "url": "https://www.cnbc.com/2025/11/12/google-e-zpass-usps-text-scam-phishing-suit.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108216552-1761309874285-gettyimages-2242649835-ALPHABET_EARNS.jpeg?v=1762877014&w=1920&h=1080",
+      "publishedAt": "2025-11-12T10:00:02Z",
+      "content": "Google filed a lawsuit on Wednesday against a foreign cybercriminal group behind a massive SMS phishing, or \"smishing,\" operation.\r\nDubbed by some cyber researchers as the \"Smishing Triad,\" the organ… [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess",
+      "title": "This Is the Platform Google Claims Is Behind a 'Staggering’ Scam Text Operation",
+      "description": "Google is suing 25 people it alleges are behind a “relentless” scam text operation that uses a phishing-as-a-service platform called Lighthouse.",
+      "url": "https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/",
+      "urlToImage": "https://media.wired.com/photos/6913afad20658e5ccc89c274/191:100/w_1280,c_limit/111125-lighthouse-spam-messages.jpg",
+      "publishedAt": "2025-11-12T10:00:00Z",
+      "content": "Chinese cybercriminals arescamming the world. Over the last few years, these fraudsters have sent millions of scam text messagesoften impersonating the USPS or toll-road collection firmsand allegedly… [+2865 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1261,45 +1300,6 @@
       "urlToImage": "https://regmedia.co.uk/2022/07/21/congress_shutterstock.jpg",
       "publishedAt": "2025-11-10T19:01:12Z",
       "content": "The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores c… [+5428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Luke James",
-      "title": "Musk confirms Tesla AI5 and AI6 will be made at both Samsung and TSMC, reinforcing dual-foundry strategy",
-      "description": "Elon Musk has confirmed that Tesla’s AI6 chip will be manufactured at both Samsung’s Taylor facility and TSMC’s Arizona fab. The update from the company’s CEO follows earlier comments in which he described Samsung’s site as technically superior.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/musk-confirms-tesla-ai5-and-ai6-will-be-made-at-samsung-and-tsmc",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/aDQbDpY8n3iFusBi82QeF5-720-80.jpg",
-      "publishedAt": "2025-11-10T18:59:19Z",
-      "content": "Elon Musk has confirmed that Tesla’s AI6 chip will be manufactured at both Samsung’s Taylor facility and TSMC’s Arizona fab. The update from the company’s CEO follows earlier comments in which he des… [+6416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Lance Whitney",
-      "title": "Is AI a career killer? Not if you have these skills, McKinsey research shows",
-      "description": "Some organizations report a decrease in their workforce, while others are hiring for AI-related jobs - two roles in particular.",
-      "url": "https://www.zdnet.com/article/is-ai-a-career-killer-not-if-you-have-these-skills-mckinsey-research-shows/",
-      "urlToImage": "https://www.zdnet.com/a/img/resize/c6e35ff0df92ac031d72c05050291b27938b6ff7/2025/11/10/67b96e72-96e2-4bd6-b42c-e364aa5f1fbb/closeface555gettyimages-1450615931.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "publishedAt": "2025-11-10T18:59:06Z",
-      "content": "Westend61/Westend61 via Getty Images\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>A survey by McKinsey examines the impact of AI on the workforce.</li><li>Th… [+4154 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Minisforum launches its first ARM-based Mini PC with a full x16 PCIe slot for discrete GPUs — The MS-R1 packs a 12-core Cixin P1 SoC with up to 64 GB of RAM and generous IO, starting at $500",
-      "description": "Popular Mini PC manufacturer Minisforum has just stepped into the ARM market with the MS-R1. It's a 1.7-liter compact system with the CIX CD8180 SoC, consisting of 12-cores clocked at up 2.6 GHz, with a 28W TDP. There's a full-size dedicated GPU slot and supp…",
-      "url": "https://www.tomshardware.com/desktops/mini-pcs/minisforum-launches-its-first-arm-based-mini-pc-with-a-full-x16-pcie-slot-for-discrete-gpus-the-ms-r1-packs-a-12-core-cixin-p1-soc-with-up-to-64-gb-of-ram-and-generous-io-starting-at-usd500",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nfmAUPB8V2YHWL8HBG5nMc-2560-80.webp",
-      "publishedAt": "2025-11-10T18:57:15Z",
-      "content": "China-based Mini PC manufacturer Minisforum has just globally launched the MS-R1, the company's first foray into the ARM market, with a compact yet powerful device. Building on the interest in Nvidia… [+4178 chars]"
     }
   ]
 }
