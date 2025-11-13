@@ -1,6 +1,58 @@
 {
-  "fetchedAt": "2025-11-13T10:43:44.224Z",
+  "fetchedAt": "2025-11-13T11:08:22.559Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Joe McKendrick",
+      "title": "The key to AI implementation might just be a healthy skepticism - here's why",
+      "description": "Even the most technologically focused companies are approaching AI and gen AI with both optimism and caution.",
+      "url": "https://www.zdnet.com/article/the-key-to-ai-implementation-might-just-be-a-healthy-skepticism-heres-why/",
+      "urlToImage": "https://www.zdnet.com/a/img/resize/12ff76ed9012537be5ab9aa57ba06d8ccc56c09a/2025/11/11/d6f957f3-da00-4f34-86fa-3a41457357ac/gettyimages-1372428702.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-11-12T11:00:43Z",
+      "content": "Ali Kahfi/DigitalVision Vectors via Getty\r\nFollow ZDNET: Add us as a preferred source on Google.\r\nZDNET's key takeaways\r\n<ul><li>Companies are rolling out AI, but tracking benefits is tough. </li><li… [+6587 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Evan Ratliff",
+      "title": "All of My Employees Are AI Agents, and So Are My Executives",
+      "description": "Sam Altman says the one-person billion-dollar company is coming. Maybe I could be that person—if only I could get my colleagues to shut up and stop lying.",
+      "url": "https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/",
+      "urlToImage": "https://media.wired.com/photos/690e2e7a954f36824fad3c92/191:100/w_1280,c_limit/WIRED-AI-as_Nonhuman-Resources.jpg",
+      "publishedAt": "2025-11-12T11:00:00Z",
+      "content": "Hearing all this, I started to wonder: Was the AI employee age upon us already? And even, could I be the proprietor of Altmans one-man unicorn? As it happens, I had some experience with agents, havin… [+3363 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "UK's Cyber Security and Resilience Bill makes Parliamentary debut",
+      "description": "Various touch-ups added as MPs seek greater resilience to attacks on critical sectors UK government introduced the Cyber Security and Resilience (CSR) Bill to Parliament today, marking a significant overhaul of local cybersecurity legislation to sharpen the s…",
+      "url": "https://www.theregister.com/2025/11/12/uk_cyber_security_and_resilience/",
+      "urlToImage": "https://regmedia.co.uk/2017/01/13/parliament_photo_by_shutterstock.jpg",
+      "publishedAt": "2025-11-12T10:54:21Z",
+      "content": "UK government introduced the Cyber Security and Resilience (CSR) Bill to Parliament today, marking a significant overhaul of local cybersecurity legislation to sharpen the security posture of the mos… [+3711 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google relaunches Cameyo to entice businesses from Windows to ChromeOS",
+      "description": "After acquiring software virtualization company Cameyo last year, Google has relaunched a version of the service that makes it easier for Windows-based organizations to migrate over to ChromeOS. Now called “Cameyo by Google,” the Virtual App Delivery (VAD) so…",
+      "url": "https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Cameyo-example-Google.jpg?quality=90&strip=all&crop=0,10.87801482212,100,78.24397035576",
+      "publishedAt": "2025-11-12T10:45:10Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCameyo by Google makes it easier to run Windows-based apps on Chromebooks.\r\nCameyo by Google makes it easier to run Windows-based apps on Chromebooks.\r\nby\r\nJess … [+2860 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -1248,58 +1300,6 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108056631-1749047141621-108056631-1730555120683-IMG_5239.jpg?v=1749047154&w=1920&h=1080",
       "publishedAt": "2025-11-10T20:17:19Z",
       "content": "Nuclear power will receive most of the money from the Energy Department's loan office as the Trump administration pushes to quickly break ground on new reactors, Secretary Chris Wright said on Monday… [+2486 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jennifer Pattison Tuohy",
-      "title": "Google says its confusing Gemini Home rollout is going just great",
-      "description": "Google started rolling out its new Gemini voice assistant for its smart speakers two weeks ago and, in a blog post marking the anniversary, the company seems to think everything is going great. It’s even quoting a user who said, “My Google Home just got upgra…",
-      "url": "https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/dseifert_20210323_4485_0007.webp?quality=90&strip=all&crop=0,10.671533564388,100,78.656932871224",
-      "publishedAt": "2025-11-10T20:02:57Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWe want to hear about your experiences with Google Homes new voice assistant.\r\nWe want to hear about your experiences with Google Homes new voice assistant.\r\nby\r… [+5946 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "ashilov@gmail.com (Anton Shilov) , Anton Shilov",
-      "title": "Chinese scientists discover method to cut defects by 99% with DUV chipmaking equipment, but it destroys EUV pattern fidelity — analyzing photoresist clustering with cryo-ET at 105°C",
-      "description": "Chinese researchers have visualized how photoresist polymers cluster during development using cryogenic electron tomography and found that slightly raising post-exposure bake temperature could reduce defect density, but the finding has limited practical impac…",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/chinese-scientists-discover-method-to-cut-defects-by-99-percent-with-duv-chipmaking-equipment-but-it-destroys-euv-pattern-fidelity-analyzing-photoresist-clustering-with-cryo-et-at-105-c",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/RDRDxfSMpnNVf6QfdZd63b-2560-80.png",
-      "publishedAt": "2025-11-10T19:55:18Z",
-      "content": "Lowering defect densities and increasing yields are the key challenges for chipmakers and chip designers who use hundreds of methods for both tasks. This is because semiconductor fabrication technolo… [+8295 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says  | TechCrunch",
-      "description": "AI PowerPoint-killer Gamma hits $2.1B valuation, $100M ARR, founder says  | TechCrunchtechcrunch.com",
-      "url": "https://techcrunch.com/2025/11/10/ai-powerpoint-killer-gamma-hits-2-1b-valuation-100m-arr-founder-says/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
-      "publishedAt": "2025-11-10T19:28:37Z",
-      "content": "Gamma, a startup that creates AI-generated presentations, websites, and social media posts, announced on Monday a $68 million Series B round at a $2.1 billion valuation led by Andreessen Horowitz. \r\n… [+939 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Brandon Vigliarolo",
-      "title": "Critical federal cybersecurity funding set to resume as government shutdown draws to a close - for now",
-      "description": "Resolution acquiesced to by 8 Dems includes CISA Act funding, layoff reversals, and could be easily undone The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shut…",
-      "url": "https://www.theregister.com/2025/11/10/federal_cybersecurity_funding_set_to_resume/",
-      "urlToImage": "https://regmedia.co.uk/2022/07/21/congress_shutterstock.jpg",
-      "publishedAt": "2025-11-10T19:01:12Z",
-      "content": "The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores c… [+5428 chars]"
     }
   ]
 }
