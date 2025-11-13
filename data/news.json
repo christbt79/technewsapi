@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-13T06:48:22.929Z",
+  "fetchedAt": "2025-11-13T07:10:00.933Z",
   "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anna Heim",
+      "title": "The global race for the AI app layer is still on | TechCrunch",
+      "description": "The U.S. is far ahead of Europe in the race for large AI models, at least in funding. But the picture is different for the application layer, global VC firm Accel highlighted in its 2025 Globalscape report.",
+      "url": "https://techcrunch.com/2025/11/11/the-global-race-for-the-ai-app-layer-is-still-on/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-918480798.jpg?resize=1200,892",
+      "publishedAt": "2025-11-12T07:01:57Z",
+      "content": "The U.S. is far ahead of Europe in the race for large AI models — but the picture is different for the application layer, with emerging category leaders such as Lovable and Synthesia. That’s the conc… [+3235 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -592,12 +605,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -605,12 +618,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/jMxPWDXFDAEXuBCgRQyWg7-2560-80.jpg",
       "publishedAt": "2025-11-10T16:11:26Z",
       "content": "As an unprecedented DRAM crisis unfolds, artificial intelligence is sowing chaos on another front: storage. Data centers using nearline HDDs are switching to SSDs to avoid lead times, which has led t… [+2646 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Google Maps releases new AI tools that let you create interactive projects",
-      "description": "Google is debuting an agent that will generate code for you to build interactive Maps projects.",
-      "url": "https://techcrunch.com/2025/11/10/google-maps-releases-new-ai-tools-to-let-you-create-interactive-projects/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Builder-agent-interface.jpeg?resize=1200,673",
-      "publishedAt": "2025-11-10T16:00:00Z",
-      "content": "Google Maps is adding new AI features, including a builder agent and an MCP server — a tool that connects AI assistants to Google Maps’ technical documentation — to help developers and users create i… [+2122 chars]"
     }
   ]
 }
