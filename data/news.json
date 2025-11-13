@@ -1,6 +1,32 @@
 {
-  "fetchedAt": "2025-11-13T06:15:24.814Z",
+  "fetchedAt": "2025-11-13T06:48:22.929Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "Nvidia supplier Foxconn third-quarter profit beats expectations, rising 17% on AI demand",
+      "description": "Foxconn, the world's largest contract electronics maker, reported Wednesday that its third-quarter profit jumped 17% from a year earlier.",
+      "url": "https://www.cnbc.com/2025/11/12/foxconn-hon-hai-third-quarter-revenue-nvidia-apple-ai-artificial-intelligence.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107399818-1712838478275-gettyimages-1730512224-AFP_33YF4RK.jpeg?v=1762905734&w=1920&h=1080",
+      "publishedAt": "2025-11-12T06:36:55Z",
+      "content": "Foxconn, the world's largest contract electronics maker, reported Wednesday that its third-quarter profit jumped 17% from a year earlier.\r\nHere's how Foxconn did in the September quarter compared wit… [+590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Simon Sharwood",
+      "title": "Tablet market stalls because there’s not much new worth buying",
+      "description": "Pre-tariff purchasing panic also helped to end 18-month growth run Shipments of tablet computers from minor vendors are on the slide, according to analyst firm IDC.…",
+      "url": "https://www.theregister.com/2025/11/12/idc_tablet_market_data/",
+      "urlToImage": "https://regmedia.co.uk/2020/09/15/pr_handout_apple_ipad.jpg",
+      "publishedAt": "2025-11-12T06:33:13Z",
+      "content": "Shipments of tablet computers from minor vendors are on the slide, according to analyst firm IDC.\r\nThe firm says 38 million tablets made it out the door in the third quarter of 2025, a 4.4 percent ye… [+2223 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -1274,32 +1300,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/Builder-agent-interface.jpeg?resize=1200,673",
       "publishedAt": "2025-11-10T16:00:00Z",
       "content": "Google Maps is adding new AI features, including a builder agent and an MCP server — a tool that connects AI assistants to Google Maps’ technical documentation — to help developers and users create i… [+2122 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "Mark Tyson",
-      "title": "Popular camera company dishes out gold keycaps worth up to $45,000 to top employees — more than 50 prizes given out by Insta360",
-      "description": "Webcam brand Insta360 has gifted real gold keycaps, worth up to $45,000 each, to its most valued employees.",
-      "url": "https://www.tomshardware.com/peripherals/keycaps/popular-camera-company-dishes-out-gold-keycaps-worth-up-to-usd45-000-to-top-employees-more-than-50-prizes-given-out-by-insta360",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/DwqfHMD3BU3Eb866umu75N-1920-80.jpg",
-      "publishedAt": "2025-11-10T15:56:33Z",
-      "content": "Leading action-and webcam brand Insta360 has gifted real gold keycaps to its most valued employees. SCMPreports that this generosity has become something of a tradition in recent years at the Shenzhe… [+2199 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Marina Temkin",
-      "title": "Sapphire Sport spins out, rebrands as 359 Capital with $300M AUM | TechCrunch",
-      "description": "The newly independent 359 Capital is half-way through investing from $181 million second fund.",
-      "url": "https://techcrunch.com/2025/11/10/sapphire-sport-spins-out-rebrands-as-359-capital-with-300m-aum/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/12/Tonal-2-Screen-Interaction.jpeg?resize=1200,800",
-      "publishedAt": "2025-11-10T14:57:50Z",
-      "content": "Nearly seven years after announcing its first fund, Sapphire Sportthe venture fund focused on sports, media, and entertainmentis spinning out from Sapphire Ventures. The fund will rebrand as an indep… [+2253 chars]"
     }
   ]
 }
