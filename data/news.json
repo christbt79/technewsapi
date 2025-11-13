@@ -1,6 +1,19 @@
 {
-  "fetchedAt": "2025-11-13T07:10:00.933Z",
+  "fetchedAt": "2025-11-13T07:37:00.081Z",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": null,
+      "title": "CNBC Daily Open: SoftBank goes all in on OpenAI as 'Big Short' investor issues caution on AI firms",
+      "description": "SoftBank is selling its entire stake in Nvidia — but not for the reasons you might think.",
+      "url": "https://www.cnbc.com/2025/11/12/cnbc-daily-open-softbank-banks-on-openai-amid-big-short-investors-caution.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108224334-1762880578377-gettyimages-2183803050-JAPAN_SON_HUANG.jpeg?v=1762880611&w=1920&h=1080",
+      "publishedAt": "2025-11-12T07:30:01Z",
+      "content": "SoftBank is selling its entire stake in Nvidia but not for the reasons you might think.\r\nIn its earnings statement released Tuesday, the Japanese group said that it had sold 32.1 million Nvidia share… [+1346 chars]"
+    },
     {
       "source": {
         "id": "techcrunch",
@@ -605,12 +618,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
-      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
-      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
+      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
+      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
+      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
+      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
     },
     {
       "source": {
@@ -618,12 +631,12 @@
         "name": "CNBC"
       },
       "author": null,
-      "title": "More car buyers are stretching out their auto loans—but longer terms come with trade-offs",
-      "description": "Longer auto loans can lower the monthly payments, but three key trade-offs are worth weighing before you buy.",
-      "url": "https://www.cnbc.com/2025/11/11/more-buyers-are-stretching-out-their-car-loanshere-are-the-risks.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108122427-1743105330465-gettyimages-686735699-zef11526.jpeg?v=1762533568&w=1920&h=1080",
+      "title": "Real estate titan Barry Sternlicht says he will 'have to' drop employees in favor of AI",
+      "description": "Billionaire Barry Sternlicht, the chairman and CEO of Starwood Capital Group, is a legendary, legacy real estate investor. He called the impact of AI \"terrifying.\"",
+      "url": "https://www.cnbc.com/2025/11/11/barry-sternlicht-says-he-will-drop-employees-in-favor-of-ai.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108223789-1762800276556-PROPERTY_PLAY_BARRY_STERNLICHT_INTVW_WIDE_SHOT_2.jpg?v=1762800328&w=1920&h=1080",
       "publishedAt": "2025-11-11T14:00:01Z",
-      "content": "With the average price of a new car now topping $50,000, more buyers are stretching out their loan terms to lower the monthly payment.\r\nThe average loan length is now 69 months, with the share of 84-… [+3479 chars]"
+      "content": "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick. Property Play covers new and evolving opportunities for the real estate investor, from individuals to v… [+5306 chars]"
     },
     {
       "source": {
@@ -1287,19 +1300,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/xyvmQua5dV2BYfE2NozYgL-1920-80.jpg",
       "publishedAt": "2025-11-10T16:20:38Z",
       "content": "China has lifted its ban on exports of gallium, germanium, and antimony to the United States, temporarily halting restrictions that had reshaped global materials markets over the past year. The decis… [+2591 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Hardware UK"
-      },
-      "author": "editors@tomshardware.com (Hassam Nasir) , Hassam Nasir",
-      "title": "Phison CEO confirms NAND prices have more than doubled and will continue to rise, all 2026 production already sold out — SSDs facing pricing apocalypse throughout 2027",
-      "description": "Khein-Seng Pua, the CEO of Phison, speaking to Digitimes, has painted a damning picture of the storage market to come. With NAND prices already on the rise, the CEO believes there's no alleviation in sight and the landscape will remain rough for the following…",
-      "url": "https://www.tomshardware.com/pc-components/ssds/phison-ceo-confirms-nand-prices-have-more-than-doubled-and-will-continue-to-rise-all-2026-production-already-sold-out-ssds-facing-pricing-apocalypse-throughout-2027",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/jMxPWDXFDAEXuBCgRQyWg7-2560-80.jpg",
-      "publishedAt": "2025-11-10T16:11:26Z",
-      "content": "As an unprecedented DRAM crisis unfolds, artificial intelligence is sowing chaos on another front: storage. Data centers using nearline HDDs are switching to SSDs to avoid lead times, which has led t… [+2646 chars]"
     }
   ]
 }
